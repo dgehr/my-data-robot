@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T08:14:35.826Z,65.2886,-158.2847,5.9,2.2,ml,,,,0.87,ak,ak0224jv1whf,2022-04-09T08:27:49.610Z,"53 km NNW of Koyukuk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-09T08:04:21.790Z,38.8183327,-122.7636642,1.43,0.36,md,8,191,0.01307,0.01,nc,nc73716211,2022-04-09T10:09:14.659Z,"4km W of Cobb, CA",earthquake,0.6,1.47,,1,automatic,nc,nc
 2022-04-09T07:59:40.381Z,63.4815,-151.1447,14,0.8,ml,,,,0.85,ak,ak0224juq4kj,2022-04-09T15:45:18.975Z,"29 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2022-04-09T07:52:56.724Z,57.3684,-154.9097,50,2.2,ml,,,,0.42,ak,ak0224juonq6,2022-04-09T08:05:17.001Z,"35 km SW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
