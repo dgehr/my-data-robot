@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-10T02:12:30.934Z,38.3537,23.4048,10,4.3,mb,,64,1.658,0.9,us,us7000h108,2022-04-10T02:29:46.040Z,"7 km W of Árma, Greece",earthquake,5.5,1.9,0.138,17,reviewed,us,us
 2022-04-10T02:05:04.624Z,64.6279,-150.0302,15.7,1.2,ml,,,,0.32,ak,ak0224leynj2,2022-04-10T02:18:23.801Z,"43 km W of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-10T01:56:50.580Z,36.0978333,-117.8623333,5.2,2.03,ml,24,87,0.02061,0.12,ci,ci39989687,2022-04-10T02:07:40.260Z,"10km NE of Coso Junction, CA",earthquake,0.24,0.47,0.215,25,automatic,ci,ci
-2022-04-10T01:34:26.760Z,38.7895012,-122.7671661,3.16,0.85,md,7,107,0.01254,0.02,nc,nc73716461,2022-04-10T01:52:15.588Z,"2km NW of The Geysers, CA",earthquake,0.8,1.77,,1,automatic,nc,nc
+2022-04-10T01:34:26.760Z,38.7895012,-122.7671661,3.16,0.85,md,7,107,0.01254,0.02,nc,nc73716461,2022-04-10T03:55:15.322Z,"2km NW of The Geysers, CA",earthquake,0.8,1.77,,1,automatic,nc,nc
 2022-04-10T01:32:23.192Z,7.3437,94.4145,6.21,5.4,mww,,65,4.59,1.22,us,us7000h0zv,2022-04-10T03:35:42.734Z,"189 km NNW of Sabang, Indonesia",earthquake,7.9,4.5,0.083,14,reviewed,us,us
 2022-04-10T01:18:59.030Z,63.2363,-148.0814,71.4,1.4,ml,,,,0.73,ak,ak0224leg4ee,2022-04-10T01:30:29.875Z,"46 km ESE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-10T01:13:49.970Z,17.947,-67.0748333333333,7.18,1.84,md,3,250,,0.05,pr,pr71343918,2022-04-10T03:49:20.810Z,"4 km SW of La Parguera, Puerto Rico",earthquake,1.43,0.33,0.0489153175059724,3,reviewed,pr,pr
