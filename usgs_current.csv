@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-04-12T15:34:09.944Z,60.0842,-152.5467,88,2.4,ml,,,,0.51,ak,ak0224oxy7jr,2022-04-12T15:48:37.040Z,"47 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-04-12T15:28:53.980Z,36.9601667,-120.2751667,9.71,1.93,md,10,237,0.2729,0.4,nc,nc73717441,2022-04-12T15:46:55.061Z,"15km SSW of Fairmead, CA",earthquake,2.91,2.58,0.051,8,reviewed,nc,nc
+2022-04-12T15:28:53.980Z,36.9601667,-120.2751667,9.71,1.93,md,10,237,0.2729,0.4,nc,nc73717441,2022-04-12T15:54:10.996Z,"15km SSW of Fairmead, CA",earthquake,2.91,2.58,0.051,8,reviewed,nc,nc
 2022-04-12T15:01:27.180Z,35.3478333,-117.5525,2.57,1.55,ml,18,78,0.1688,0.12,ci,ci39990735,2022-04-12T15:22:57.824Z,"8km ESE of Johannesburg, CA",earthquake,0.23,0.78,0.185,14,reviewed,ci,ci
 2022-04-12T14:58:31.788Z,31.6471,-104.4424,5,2.5,ml,,113,0.054,0.7,us,us7000h1hb,2022-04-12T15:15:52.040Z,"58 km S of Whites City, New Mexico",earthquake,1.9,1.5,0.064,32,reviewed,us,us
 2022-04-12T14:35:18.266Z,54.2796,-160.7408,24.15,3.6,mb,,206,0.869,0.33,us,us7000h1h8,2022-04-12T15:19:41.040Z,"118 km S of Sand Point, Alaska",earthquake,8.5,13,0.224,5,reviewed,us,us
+2022-04-12T14:27:57.050Z,35.6353333,-84.2833333,10.27,1.8,md,7,91,0.0802,0.08,se,se60382597,2022-04-12T15:58:30.950Z,"5 km SSW of Tellico Village, Tennessee",earthquake,0.37,0.86,0.025,6,reviewed,se,se
 2022-04-12T14:27:45.200Z,38.8263321,-122.8568344,2.68,0.37,md,9,74,0.001212,0.01,nc,nc73717436,2022-04-12T15:00:12.645Z,"10km WNW of The Geysers, CA",earthquake,0.36,1.58,,1,automatic,nc,nc
 2022-04-12T14:14:41.100Z,19.1946659088135,-155.431335449219,32.9000015258789,1.74000001,md,37,151,,0.119999997,hv,hv72981752,2022-04-12T14:18:01.500Z,"5 km E of Pāhala, Hawaii",earthquake,0.61,0.870000005,1.74000001,4,automatic,hv,hv
 2022-04-12T14:05:06.814Z,9.9844,-83.3683,11.33,4,mb,,102,0.672,0.43,us,us7000h1h4,2022-04-12T14:23:36.040Z,"11 km SSW of Batán, Costa Rica",earthquake,3.1,7.1,0.516,1,reviewed,us,us
@@ -229,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-11T16:16:20.935Z,61.8284,-148.4593,11.4,0.8,ml,,,,0.26,ak,ak0224nawgml,2022-04-11T16:17:35.981Z,"3 km N of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-11T16:04:34.070Z,33.8905,-116.946,15.47,1.05,ml,26,98,0.1361,0.12,ci,ci39990359,2022-04-11T22:18:35.600Z,"5km SSE of Beaumont, CA",earthquake,0.17,0.57,0.144,22,reviewed,ci,ci
 2022-04-11T15:59:19.410Z,37.6276665,-121.7746658,6.97,1.06,md,8,99,0.01511,0.04,nc,nc73716931,2022-04-11T16:32:16.584Z,"6km S of Livermore, CA",earthquake,0.37,0.64,0.02,6,automatic,nc,nc
-2022-04-11T15:58:13.790Z,19.3686666666667,-155.235666666667,28.28,2.44,ml,54,51,,0.12,hv,hv72980827,2022-04-11T21:39:14.340Z,"8 km S of Volcano, Hawaii",earthquake,0.31,0.33,0.181727875423359,23,reviewed,hv,hv
