@@ -269,4 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-12T22:57:46.020Z,37.9216667,-122.0056667,11.75,0.96,md,13,100,0.06356,0.06,nc,nc73717581,2022-04-13T00:27:14.061Z,"5km S of Concord, CA",earthquake,0.36,0.62,0.113,9,reviewed,nc,nc
 2022-04-12T22:54:00.860Z,44.7343333,-111.0876667,9.4,0.62,ml,12,78,0.06323,0.2,uu,uu60491212,2022-04-13T15:05:54.770Z,"8 km N of West Yellowstone, Montana",earthquake,0.57,1.37,0.336,2,reviewed,uu,uu
 2022-04-12T22:52:31.950Z,40.862,-111.6453333,11.25,1.79,ml,38,46,0.1479,0.13,uu,uu60491207,2022-04-13T14:51:25.250Z,"13 km NNW of Summit Park, Utah",earthquake,0.2,0.43,0.125,5,reviewed,uu,uu
-2022-04-12T22:44:46.450Z,38.8393326,-122.8075027,2.15,0.85,md,11,121,0.01343,0.01,nc,nc73717576,2022-04-12T23:01:13.575Z,"8km WNW of Cobb, CA",earthquake,0.34,1.09,,1,automatic,nc,nc
