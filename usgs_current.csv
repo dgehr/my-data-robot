@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-14T18:48:00.191Z,63.2896,-151.2353,0,1.4,ml,,,,0.69,ak,ak0224saw6mr,2022-04-14T18:49:51.509Z,"37 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-14T18:48:00.955Z,63.2783,-151.1023,0,1.4,ml,,,,0.81,ak,ak0224saw6mr,2022-04-14T18:54:46.596Z,"42 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-14T18:45:05.909Z,62.0472,-148.3193,37.6,1.4,ml,,,,0.65,ak,ak0224savjxa,2022-04-14T18:46:52.395Z,"28 km NNE of Chickaloon, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-14T18:27:49.820Z,19.2521667480469,-155.382827758789,31.3999996185303,2.47,ml,46,137,,0.140000001,hv,hv72983792,2022-04-14T18:33:19.950Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.58,0.75999999,0.54,4,automatic,hv,hv
 2022-04-14T18:15:56.920Z,36.4059982,-120.9833298,4.36,2.07,md,18,112,0.03437,0.06,nc,nc73717545,2022-04-14T18:37:10.752Z,"20km SE of Pinnacles, CA",earthquake,0.26,0.58,0.17,19,automatic,nc,nc
@@ -135,7 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-14T05:42:41.400Z,64.7381,-147.3384,0,0.6,ml,,,,0.87,ak,ak0224s34cok,2022-04-14T06:01:47.957Z,"1 km SSE of North Pole, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-14T05:42:07.540Z,37.5783333,-118.8635,3.38,0.14,md,10,222,0.02971,0.04,nc,nc73718146,2022-04-14T11:46:17.243Z,"12km ESE of Mammoth Lakes, CA",earthquake,0.8,0.8,0.261,10,reviewed,nc,nc
 2022-04-14T05:41:17.510Z,36.293,-89.4991667,7.71,1.19,md,12,91,0.03004,0.02,nm,nm60382987,2022-04-14T13:29:41.210Z,"3 km NNW of Ridgely, Tennessee",earthquake,0.49,0.56,0.084,9,reviewed,nm,nm
-2022-04-14T05:37:01.520Z,37.5796667,-118.864,3.67,1.1,md,15,163,0.02958,0.02,nc,nc73718136,2022-04-14T17:39:11.383Z,"12km ESE of Mammoth Lakes, CA",earthquake,0.5,0.67,0.207,14,reviewed,nc,nc
+2022-04-14T05:37:01.520Z,37.5796667,-118.864,3.67,1.1,md,15,163,0.02958,0.02,nc,nc73718136,2022-04-14T18:52:14.849Z,"12km ESE of Mammoth Lakes, CA",earthquake,0.5,0.67,0.207,14,reviewed,nc,nc
 2022-04-14T05:36:45.099Z,63.4964,-150.8348,14.7,1.1,ml,,,,0.96,ak,ak0224s332my,2022-04-14T05:51:09.613Z,"44 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-14T05:23:21.800Z,35.845,-117.671,5.35,0.78,ml,12,85,0.06647,0.08,ci,ci39991991,2022-04-14T13:05:01.881Z,"24km ESE of Little Lake, CA",earthquake,0.25,0.8,0.2,11,reviewed,ci,ci
 2022-04-14T05:15:24.650Z,34.1053333,-118.2316667,6.3,1.34,ml,48,81,0.03224,0.17,ci,ci39991983,2022-04-14T13:52:21.050Z,"3km ENE of Silver Lake, CA",earthquake,0.2,0.42,0.098,25,reviewed,ci,ci
@@ -275,5 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T19:09:19.590Z,60.0331666666667,-153.092166666667,-1.47,-0.58,ml,4,183,,0.05,av,av91537151,2022-04-14T01:06:34.140Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.31,31.61,0.276926934695891,4,reviewed,av,av
 2022-04-13T19:06:12.965Z,63.6828,-149.3627,8.1,1.1,ml,,,,0.68,ak,ak0224qnpank,2022-04-13T19:09:03.784Z,"22 km WSW of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-13T19:02:07.770Z,46.0138333,-112.4568333,-2,1.92,ml,17,113,0.068,0.12,mb,mb80542944,2022-04-13T21:50:55.270Z,"6 km E of Butte, Montana",quarry blast,0.38,31.61,0.186,13,reviewed,mb,mb
-2022-04-13T18:52:26.300Z,34.1038333,-118.3233333,6.99,1.55,ml,45,42,0.0239,0.18,ci,ci39991647,2022-04-13T20:39:01.920Z,"1km NNE of Hollywood, CA",earthquake,0.19,0.33,0.131,34,reviewed,ci,ci
-2022-04-13T18:50:57.380Z,52.0528333333333,178.372,6.68,1.39,ml,4,348,,0.05,av,av91054668,2022-04-14T02:24:11.510Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.37,1.92,0.25271845185388,4,reviewed,av,av
