@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-18T20:48:24.820Z,35.7574997,-117.5764999,6.23,1.15,ml,16,95,0.06057,0.08,ci,ci40240336,2022-04-18T20:50:29.842Z,"16km W of Searles Valley, CA",earthquake,0.39,0.92,0.176,5,automatic,ci,ci
+2022-04-18T20:47:34.850Z,33.8741667,-117.513,1.66,1.03,ml,21,66,0.08003,0.36,ci,ci40240328,2022-04-18T20:51:16.377Z,"1km ESE of Home Gardens, CA",quarry blast,0.63,0.99,0.154,24,automatic,ci,ci
+2022-04-18T20:42:52.947Z,63.0028,-149.1692,66.8,1.6,ml,,,,0.53,ak,ak0224yy79la,2022-04-18T20:45:26.681Z,"44 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-18T20:27:07.802Z,60.3761,-153.4642,0,1.4,ml,,,,0.73,ak,ak0224yy3yda,2022-04-18T20:34:08.610Z,"50 km ENE of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-18T20:15:42.420Z,33.0125,-116.4958333,0.74,0.91,ml,12,161,0.3136,0.15,ci,ci40240320,2022-04-18T20:19:14.176Z,"12km SE of Julian, CA",earthquake,0.95,3.2,0.16,8,automatic,ci,ci
 2022-04-18T20:08:00.180Z,33.7146667,-116.8136667,18.84,0.49,ml,10,182,0.08301,0.15,ci,ci40240296,2022-04-18T20:40:45.914Z,"8km ESE of Valle Vista, CA",earthquake,1.06,0.63,0.067,3,reviewed,ci,ci
@@ -6,6 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T19:56:12.990Z,33.7303333,-116.0696667,3.04,0.92,ml,22,95,0.07972,0.2,ci,ci40240288,2022-04-18T19:59:44.075Z,"11km ENE of Coachella, CA",earthquake,0.37,0.71,0.099,19,automatic,ci,ci
 2022-04-18T19:52:37.990Z,33.7908333,-116.087,4.87,1.19,ml,30,103,0.1122,0.2,ci,ci40240272,2022-04-18T20:03:08.890Z,"14km ENE of Indio, CA",earthquake,0.27,0.78,0.178,27,automatic,ci,ci
 2022-04-18T19:33:23.148Z,38.5304,-119.5174,5.9,1.4,ml,13,121.53,0.056,0.1607,nn,nn00837386,2022-04-18T20:31:53.607Z,"3 km WNW of Walker, California",earthquake,,1.3,0.12,4,reviewed,nn,nn
+2022-04-18T19:33:09.678Z,-21.7394,170.6729,106.97,4.6,mb,,120,3.114,0.9,us,us7000h34z,2022-04-18T20:45:52.040Z,"283 km SSE of Isangel, Vanuatu",earthquake,11.2,8.6,0.095,33,reviewed,us,us
 2022-04-18T19:30:06.513Z,63.1877,-150.6352,6.3,1.3,ml,,,,0.67,ak,ak0224yxj5sw,2022-04-18T19:33:09.420Z,"67 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-18T19:15:56.228Z,63.5681,-150.7412,0.2,1.2,ml,,,,0.58,ak,ak0224yxg1wm,2022-04-18T19:18:18.820Z,"48 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-18T19:13:23.460Z,38.7861671,-122.7523346,-0.18,0.95,md,16,91,0.01255,0.06,nc,nc73719770,2022-04-18T19:44:54.380Z,"1km NNE of The Geysers, CA",earthquake,0.28,0.57,0.19,3,automatic,nc,nc
@@ -270,7 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T21:04:46.750Z,38.8504982,-122.7853317,1.28,0.22,md,7,178,0.0102,0.02,nc,nc73719045,2022-04-17T21:26:54.178Z,"6km WNW of Cobb, CA",earthquake,0.51,0.75,0.15,2,automatic,nc,nc
 2022-04-17T20:59:49.680Z,32.6411667,-115.7276667,7.77,1.6,ml,27,131,0.008212,0.19,ci,ci40239184,2022-04-18T20:19:04.174Z,"15km WNW of Progreso, B.C., MX",earthquake,0.3,0.53,0.223,13,reviewed,ci,ci
 2022-04-17T20:58:29.210Z,38.8291664,-122.8041687,1.87,0.33,md,14,53,0.007382,0.01,nc,nc73719040,2022-04-17T23:24:53.941Z,"7km W of Cobb, CA",earthquake,0.27,0.71,0.35,2,automatic,nc,nc
-2022-04-17T20:49:26.340Z,35.9533333,-117.6785,4.64,0.75,ml,16,99,0.02345,0.09,ci,ci40239176,2022-04-18T20:14:23.151Z,"21km E of Little Lake, CA",earthquake,0.17,0.24,0.074,8,reviewed,ci,ci
-2022-04-17T20:47:47.150Z,17.9765,-66.9721666666667,8.3,2.21,md,9,175,,0.23,pr,pr71344913,2022-04-17T21:53:13.630Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.68,1.98,0.173345633595366,6,reviewed,pr,pr
-2022-04-17T20:46:48.506Z,59.8796,-153.2634,125.6,1.8,ml,,,,0.56,ak,ak0224xaormi,2022-04-17T20:58:51.618Z,"48 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-04-17T20:45:03.209Z,35.52833333,-96.76433333,7.85,0.82,ml,21,64,0.1259752794,0.16,ok,ok2022hngk,2022-04-18T16:46:29.645Z,"8 km WNW of Prague, Oklahoma",earthquake,,0.7,0.21,7,reviewed,ok,ok
