@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-19T21:49:47.997Z,60.1397,-140.9526,8.9,1.3,ml,,,,0.55,ak,ak02250mdjbj,2022-04-19T21:54:03.800Z,"95 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-19T21:43:11.850Z,32.9023333,-115.5075,4.98,1.72,ml,15,160,0.04477,0.22,ci,ci40241552,2022-04-19T21:46:59.861Z,"8km NE of Imperial, CA",earthquake,0.55,0.59,0.18,27,automatic,ci,ci
 2022-04-19T21:36:56.010Z,36.1428337,-120.0226669,26.53,2.33,md,16,122,0.3388,0.18,nc,nc73720415,2022-04-19T21:43:32.631Z,"10km SE of Huron, CA",earthquake,0.94,1.66,0.21,5,automatic,nc,nc
-2022-04-19T21:29:50.717Z,61.3,-152.4017,122.9,3,ml,,,,0.66,ak,ak02250m993y,2022-04-19T21:42:19.190Z,"72 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-19T21:29:50.717Z,61.3,-152.4017,122.9,3,ml,,,,0.66,ak,ak02250m993y,2022-04-19T21:51:48.040Z,"72 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-19T21:20:04.277Z,3.6755,126.7025,46.42,5.1,mww,,79,2.959,0.86,us,us7000h3ff,2022-04-19T21:38:22.040Z,"235 km SE of Sarangani, Philippines",earthquake,4.7,6.6,0.086,13,reviewed,us,us
 2022-04-19T21:19:46.110Z,17.9545,-66.8715,8,2.91,md,20,175,0.022,0.25,pr,pr2022109003,2022-04-19T21:31:17.208Z,"3 km SE of Maria Antonia, Puerto Rico",earthquake,0.53,0.7,0.23,16,reviewed,pr,pr
 2022-04-19T21:17:02.920Z,32.9115,-115.5085,3.66,1.49,ml,11,164,0.04504,0.17,ci,ci40241528,2022-04-19T21:20:41.732Z,"8km SSE of Brawley, CA",earthquake,0.87,0.52,0.149,19,automatic,ci,ci
@@ -51,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T16:30:01.850Z,33.8516667,-117.4965,0.57,1.83,ml,32,45,0.0548,0.24,ci,ci40241136,2022-04-19T16:33:53.368Z,"4km SE of Home Gardens, CA",quarry blast,0.35,31.61,0.179,30,automatic,ci,ci
 2022-04-19T16:29:38.670Z,38.7560005,-122.7231674,2.2,0.85,md,13,116,0.005739,0.03,nc,nc73720280,2022-04-19T17:47:20.204Z,"3km SW of Anderson Springs, CA",earthquake,0.41,0.31,0.18,5,automatic,nc,nc
 2022-04-19T16:26:18.249Z,62.1428,-148.7388,20,1.4,ml,,,,0.41,ak,ak02250j9dj3,2022-04-19T16:34:25.461Z,"40 km N of Sutton-Alpine, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2022-04-19T16:19:06.750Z,19.4726657867432,-155.587493896484,-2.23000001907349,2.07,ml,29,55,,0.270000011,hv,hv72989497,2022-04-19T16:24:37.450Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.46,0.270000011,3.2,8,automatic,hv,hv
+2022-04-19T16:19:06.860Z,19.4776666666667,-155.591166666667,-1.21,2.43,md,41,54,,0.2,hv,hv72989497,2022-04-19T21:50:47.790Z,"Island of Hawaii, Hawaii",earthquake,0.26,0.2,0.0837370185161865,15,reviewed,hv,hv
 2022-04-19T16:17:28.510Z,33.5493333,-116.6783333,5.87,0.92,ml,33,44,0.05178,0.17,ci,ci40241120,2022-04-19T16:21:03.913Z,"1km SW of Anza, CA",earthquake,0.19,0.43,0.212,26,automatic,ci,ci
 2022-04-19T16:17:22.468Z,-6.1067,128.131,353.53,4.3,mb,,46,3.654,0.7,us,us7000h3cr,2022-04-19T17:03:11.040Z,"266 km S of Ambon, Indonesia",earthquake,7.9,5.4,0.078,49,reviewed,us,us
 2022-04-19T15:49:07.068Z,44.285,11.5571,6.3,4,mb,,61,0.421,0.42,us,us7000h3ce,2022-04-19T19:44:05.434Z,"2 km N of Fontanelice, Italy",earthquake,4.5,4.6,0.233,7,reviewed,us,us
@@ -239,7 +240,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T23:22:01.734Z,59.9989,-152.2993,65.6,1.6,ml,,,,0.95,ak,ak0224yzv654,2022-04-18T23:34:30.749Z,"32 km W of Happy Valley, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-04-18T23:18:49.000Z,32.3671667,-115.2463333,10.96,2.56,ml,17,172,0.07202,0.25,ci,ci37496061,2022-04-19T19:28:18.067Z,"5km WNW of Delta, B.C., MX",earthquake,0.85,0.55,0.079,8,reviewed,ci,ci
 2022-04-18T23:18:42.290Z,31.999,-116.853,17.23,1.97,ml,18,217,0.2068,0.12,ci,ci40240576,2022-04-19T19:30:17.235Z,"19km NW of El Sauzal, B.C., MX",earthquake,0.45,0.61,0.117,9,reviewed,ci,ci
-2022-04-18T23:16:00.165Z,36.9569,140.403,98.13,5.3,mww,,38,1.81,0.94,us,us7000h36f,2022-04-19T20:55:54.509Z,"21 km NNE of Daigo, Japan",earthquake,5.4,4.6,0.066,22,reviewed,us,us
+2022-04-18T23:15:59.900Z,36.9462,140.3737,94.06,5.3,mww,,38,1.785,0.76,us,us7000h36f,2022-04-19T21:50:14.539Z,"20 km N of Daigo, Japan",earthquake,5.8,2.2,0.068,21,reviewed,us,us
 2022-04-18T23:10:11.610Z,44.6505,-110.4625,4.91,1.73,ml,21,103,0.07133,0.16,uu,uu60492397,2022-04-19T13:11:54.430Z,"40 km SSE of Mammoth, Wyoming",earthquake,0.37,0.41,0.085,3,reviewed,uu,uu
 2022-04-18T23:08:46.120Z,33.51,-116.7438333,3.71,0.25,ml,16,85,0.04728,0.12,ci,ci40240568,2022-04-19T14:54:01.209Z,"8km SW of Anza, CA",earthquake,0.24,0.49,0.077,4,reviewed,ci,ci
 2022-04-18T23:07:29.633Z,62.7755,-151.4504,90.3,1.5,ml,,,,0.76,ak,ak0224yzs0iv,2022-04-18T23:18:40.320Z,"46 km NW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -253,5 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T22:18:17.990Z,38.8284988,-122.8013306,1.88,1.17,md,12,74,0.008521,0.01,nc,nc73719825,2022-04-18T23:10:26.660Z,"7km W of Cobb, CA",earthquake,0.31,0.92,,1,automatic,nc,nc
 2022-04-18T22:04:53.130Z,53.834,-166.892666666667,5.45,0.14,ml,5,230,,0.05,av,av91055253,2022-04-19T04:59:32.070Z,"23 km WSW of Dutch Harbor, Alaska",earthquake,0.48,0.84,0.234468459852145,5,reviewed,av,av
 2022-04-18T21:58:12.090Z,35.9401667,-117.6791667,5.22,-0.33,ml,3,280,0.0246,0.03,ci,ci40240456,2022-04-19T14:46:52.148Z,"20km E of Little Lake, CA",earthquake,0.51,0.62,0.157,2,reviewed,ci,ci
-2022-04-18T21:56:12.858Z,-8.8758,157.8709,10,5,mb,,32,2.125,0.68,us,us7000h362,2022-04-18T22:27:39.040Z,"141 km SE of Gizo, Solomon Islands",earthquake,8.7,1.8,0.06,89,reviewed,us,us
-2022-04-18T21:53:00.680Z,44.614,-113.0018333,4.7,0.76,ml,8,152,0.24,0.14,mb,mb80543559,2022-04-19T15:55:32.350Z,"29 km ESE of Leadore, Idaho",earthquake,0.66,8.4,0.084,2,reviewed,mb,mb
