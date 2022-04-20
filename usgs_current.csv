@@ -238,5 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T07:09:28.530Z,38.838665,-122.810997,1.84,1.21,md,25,56,0.01526,0.03,nc,nc73720025,2022-04-19T10:31:52.624Z,"8km WNW of Cobb, CA",earthquake,0.19,0.41,0.07,5,automatic,nc,nc
 2022-04-19T07:07:10.498Z,-61.6995,154.4847,10,5.3,mb,,103,7.598,0.81,us,us7000h3ag,2022-04-19T07:22:45.040Z,"Balleny Islands region",earthquake,7.1,1.7,0.089,42,reviewed,us,us
 2022-04-19T07:06:06.007Z,25.4653,123.4629,183.25,4.8,mb,,55,1.075,0.86,us,us7000h3ah,2022-04-19T07:27:15.040Z,"120 km NNE of Yonakuni, Japan",earthquake,7.5,6,0.038,216,reviewed,us,us
-2022-04-19T06:55:05.852Z,60.5844,-149.029,3.8,1.7,ml,,,,0.46,ak,ak02250dh8ah,2022-04-19T06:58:12.394Z,"21 km ENE of Moose Pass, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-04-19T06:52:32.881Z,36.7025,-115.9101,1.5,0.1,ml,7,241.36,0.059,0.1685,nn,nn00837462,2022-04-19T20:32:40.545Z,"26 km NW of Indian Springs, Nevada",earthquake,,12.2,0.21,4,reviewed,nn,nn
