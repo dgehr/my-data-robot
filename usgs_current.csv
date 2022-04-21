@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-21T20:40:21.429Z,65.2717,-158.2383,3.2,2.1,ml,,,,0.54,ak,ak02253wst7i,2022-04-21T20:50:08.447Z,"50 km NNW of Koyukuk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-21T20:40:21.429Z,65.2717,-158.2383,3.2,2.1,ml,,,,0.54,ak,ak02253wst7i,2022-04-21T20:53:03.282Z,"50 km NNW of Koyukuk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-21T20:35:39.710Z,35.8128333,-117.6345,8.86,1.27,ml,13,109,0.0302,0.13,ci,ci40243392,2022-04-21T20:39:14.407Z,"21km WNW of Searles Valley, CA",earthquake,0.31,0.61,0.163,13,automatic,ci,ci
 2022-04-21T20:34:37.062Z,59.862,-147.0347,0.9,1.9,ml,,,,0.57,ak,ak02253wrk4i,2022-04-21T20:47:01.326Z,"59 km ESE of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-21T20:33:53.310Z,35.6868333,-117.463,9.51,1.88,ml,22,163,0.1001,0.18,ci,ci40243376,2022-04-21T20:44:32.510Z,"10km SSW of Searles Valley, CA",earthquake,0.47,1.06,0.116,26,automatic,ci,ci
@@ -121,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T10:01:47.913Z,61.3826,-150.0557,33.2,1.5,ml,,,,0.59,ak,ak02253qm69z,2022-04-21T10:06:56.949Z,"4 km WNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-21T09:58:50.150Z,19.2813339233398,-155.384002685547,2.75999999046326,2.04,ml,38,132,,0.200000003,hv,hv72991337,2022-04-21T10:04:20.210Z,"13 km NE of Pāhala, Hawaii",earthquake,0.47,1.24000001,3.63,6,automatic,hv,hv
 2022-04-21T09:49:05.571Z,60.2362,-153.0341,122.9,1.4,ml,,,,0.84,ak,ak02253qaxrj,2022-04-21T09:52:17.191Z,"71 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-04-21T09:44:50.100Z,33.2225,-116.1751667,8.76,0.71,ml,16,112,0.06691,0.17,ci,ci40242984,2022-04-21T09:48:24.082Z,"10km NNW of Ocotillo Wells, CA",earthquake,0.45,0.86,0.103,8,automatic,ci,ci
+2022-04-21T09:44:50.060Z,33.2198333,-116.1828333,9.62,0.63,ml,32,109,0.06518,0.19,ci,ci40242984,2022-04-21T20:57:08.354Z,"10km NNW of Ocotillo Wells, CA",earthquake,0.26,0.58,0.141,12,reviewed,ci,ci
 2022-04-21T09:41:17.554Z,63.2301,-151.5972,12.4,2.8,ml,,,,1.09,ak,ak02253q98u8,2022-04-21T11:50:04.040Z,"35 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-21T09:34:47.200Z,19.1973323822021,-155.39533996582,31.1000003814697,2,md,46,160,,0.129999995,hv,hv72991297,2022-04-21T09:40:19.800Z,"8 km E of Pāhala, Hawaii",earthquake,0.53,0.75,1.45000005,27,automatic,hv,hv
 2022-04-21T09:16:20.230Z,33.3691667,-116.8765,10.57,0.35,ml,15,83,0.01937,0.23,ci,ci40242976,2022-04-21T13:12:22.394Z,"2km NW of Palomar Observatory, CA",earthquake,0.56,0.8,0.162,9,reviewed,ci,ci
@@ -138,6 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T08:28:46.670Z,43.4981667,-110.7305,2.58,0.63,ml,8,167,0.042,0.11,mb,mb80543689,2022-04-21T14:05:37.320Z,"3 km NE of Jackson, Wyoming",earthquake,0.85,1.08,0.45,6,reviewed,mb,mb
 2022-04-21T08:21:06.378Z,31.95831299,-102.307903,9.268351237,2.6,ml,15,86,0.2090630239,0.2,tx,tx2022htpt,2022-04-21T16:57:14.318Z,"9 km SE of Gardendale, Texas",earthquake,1.843790582,3.301295866,0.2,11,reviewed,tx,tx
 2022-04-21T08:20:59.481Z,11.7186,-86.9856,49.76,4.3,mb,,132,0.838,0.81,us,us6000hf7r,2022-04-21T13:39:06.729Z,"51 km W of Masachapa, Nicaragua",earthquake,4.1,10,0.142,14,reviewed,us,us
+2022-04-21T08:15:12.250Z,52.338,-174.135,4.86,0.46,ml,6,88,,0.11,av,av91542441,2022-04-21T20:51:26.000Z,"16 km NNE of Atka, Alaska",earthquake,0.35,0.74,0.154902507851394,6,reviewed,av,av
 2022-04-21T07:44:40.025Z,61.9611,-150.8479,12,1.4,ml,,,,0.57,ak,ak02253p32nf,2022-04-21T08:04:03.012Z,"29 km E of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-21T07:42:46.447Z,11.5538,-86.9919,25.33,6.7,mww,,47,0.937,0.91,us,us6000hf75,2022-04-21T20:01:48.424Z,"58 km WSW of Masachapa, Nicaragua",earthquake,4.7,3.7,0.049,40,reviewed,us,us
 2022-04-21T07:42:42.150Z,17.9541666666667,-66.9095,9.56,2.29,md,7,205,,0.23,pr,pr71345293,2022-04-21T07:56:49.424Z,"1 km S of Guánica, Puerto Rico",earthquake,1.16,0.82,0.143854195980437,4,reviewed,pr,pr
@@ -241,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-20T21:12:53.170Z,38.8388329,-122.8235016,2.14,1,md,14,88,0.009363,0.01,nc,nc73720940,2022-04-20T22:51:15.886Z,"9km WNW of Cobb, CA",earthquake,0.25,0.69,0.24,2,automatic,nc,nc
 2022-04-20T21:04:14.175Z,57.0699,-154.394,50.3,1.2,ml,,,,0.69,ak,ak022529n5c2,2022-04-21T05:46:54.859Z,"19 km NW of Akhiok, Alaska",earthquake,,2.3,,,reviewed,ak,ak
 2022-04-20T21:02:55.478Z,2.8166,-79.4768,10,4.4,mb,,150,2.684,0.77,us,us6000hf3t,2022-04-20T21:52:17.040Z,"119 km WNW of Mosquera, Colombia",earthquake,5.4,1.9,0.139,15,reviewed,us,us
-2022-04-20T20:51:30.930Z,46.884166666666665,-121.93116666666667,8.6,-0.17,md,11,113,0.02096,0.13,uw,uw61833126,2022-04-21T18:25:26.520Z,"15 km NNE of Ashford, Washington",earthquake,0.55,0.66,0.2273223049151628,10,reviewed,uw,uw
