@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-23T23:57:13.610Z,38.8344994,-122.7926636,2.14,1.42,md,33,45,0.004304,0.04,nc,nc73722505,2022-04-23T23:58:51.348Z,"6km WNW of Cobb, CA",earthquake,0.2,0.34,0.04,6,automatic,nc,nc
 2022-04-23T23:33:19.000Z,19.2199993133545,-155.410507202148,32.310001373291,1.99000001,md,34,148,,0.119999997,hv,hv72993637,2022-04-23T23:36:25.120Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.66,1,1.70000005,12,automatic,hv,hv
 2022-04-23T23:31:38.620Z,32.9921667,-115.8746667,7.34,1.11,ml,15,76,0.07847,0.24,ci,ci40244584,2022-04-23T23:35:16.726Z,"24km WSW of Westmorland, CA",earthquake,0.43,1.06,0.162,17,automatic,ci,ci
 2022-04-23T23:21:32.011Z,61.6829,-148.1435,23.6,1.1,ml,,,,0.4,ak,ak022579jr81,2022-04-23T23:23:29.679Z,"21 km SE of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -15,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T22:00:09.740Z,17.9483333333333,-66.8461666666667,12.52,2.11,md,7,210,,0.22,pr,pr71345713,2022-04-23T22:09:21.860Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,1.1,0.68,0.180416746932455,5,reviewed,pr,pr
 2022-04-23T21:55:32.390Z,19.1735000610352,-155.488830566406,31.7800006866455,2.1400001,md,42,89,,0.119999997,hv,hv72993592,2022-04-23T21:58:52.370Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.47,0.819999993,1.85000002,18,automatic,hv,hv
 2022-04-23T21:46:35.370Z,38.8339996,-122.81633,1.36,0.85,md,11,58,0.01166,0.02,nc,nc73722455,2022-04-23T21:48:11.327Z,"8km NW of The Geysers, CA",earthquake,0.3,0.85,,1,automatic,nc,nc
-2022-04-23T21:32:52.550Z,37.5886667,-118.8671667,1.74,0.42,md,9,193,0.03026,0.05,nc,nc73722450,2022-04-23T23:41:02.724Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.66,0.7,0.142,7,reviewed,nc,nc
+2022-04-23T21:32:52.550Z,37.5886667,-118.8671667,1.74,0.42,md,9,193,0.03026,0.05,nc,nc73722450,2022-04-23T23:58:15.053Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.66,0.7,0.142,7,reviewed,nc,nc
 2022-04-23T21:31:22.210Z,17.9445,-66.8403333333333,12.34,2.49,md,25,178,,0.24,pr,pr71345703,2022-04-23T22:07:19.392Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.51,0.36,0.240835655560548,14,reviewed,pr,pr
 2022-04-23T21:30:53.680Z,38.803833,-122.8065033,1.21,1.64,md,29,53,0.009676,0.03,nc,nc73722445,2022-04-23T23:06:10.693Z,"5km NW of The Geysers, CA",earthquake,0.18,0.31,0.03,5,automatic,nc,nc
 2022-04-23T21:30:39.580Z,17.9383333333333,-66.8421666666667,12.07,1.92,md,6,215,,0.12,pr,pr71345698,2022-04-23T22:00:34.930Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.99,0.48,0.0723674899577795,5,reviewed,pr,pr
@@ -25,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T21:26:31.540Z,17.9441666666667,-66.8426666666667,13.02,2.04,md,7,216,,0.1,pr,pr71345708,2022-04-23T22:02:25.550Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.66,0.41,0.143833255219003,6,reviewed,pr,pr
 2022-04-23T21:22:47.790Z,50.4704,-129.6863,10,5.3,mww,,152,1.005,0.64,us,us6000hfx7,2022-04-23T22:42:03.333Z,"184 km W of Port McNeill, Canada",earthquake,5.6,1.8,0.031,101,reviewed,us,us
 2022-04-23T21:21:02.300Z,38.822834,-122.8016663,3.38,1.68,md,32,32,0.006591,0.02,nc,nc73722420,2022-04-23T23:47:21.982Z,"6km NW of The Geysers, CA",earthquake,0.19,0.36,0.06,9,automatic,nc,nc
-2022-04-23T21:02:56.203Z,45.2299,-69.1295,4.73,2.5,mb_lg,,97,0.119,0.26,us,us6000hfx6,2022-04-23T23:14:05.894Z,"4 km SSW of Sebec, Maine",earthquake,1.5,2.2,0.208,6,reviewed,us,us
+2022-04-23T21:02:56.203Z,45.2299,-69.1295,4.73,2.5,mb_lg,,97,0.119,0.26,us,us6000hfx6,2022-04-23T23:52:09.223Z,"4 km SSW of Sebec, Maine",earthquake,1.5,2.2,0.208,6,reviewed,us,us
 2022-04-23T21:01:42.420Z,38.8221664,-122.8036652,3.13,0.85,md,25,45,0.005154,0.03,nc,nc73722415,2022-04-23T21:56:13.297Z,"6km NW of The Geysers, CA",earthquake,0.23,0.48,0.03,4,automatic,nc,nc
 2022-04-23T20:53:42.060Z,38.8246651,-122.8119965,1.24,0.85,md,8,87,0.001966,0.01,nc,nc73722405,2022-04-23T21:23:19.103Z,"7km NW of The Geysers, CA",earthquake,0.33,0.92,,1,automatic,nc,nc
 2022-04-23T20:51:20.920Z,35.7805,-117.6023333,6.62,1.33,ml,21,136,0.03538,0.18,ci,ci40244544,2022-04-23T20:54:50.607Z,"18km W of Searles Valley, CA",earthquake,0.33,0.63,0.219,16,automatic,ci,ci
