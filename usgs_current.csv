@@ -203,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-06T05:21:13.620Z,45.8161667,-111.367,17.2,-0.03,ml,3,307,0.286,0.06,mb,mb80545119,2022-05-06T14:31:39.360Z,"5 km SSW of Manhattan, Montana",earthquake,1.99,3.74,,0,reviewed,mb,mb
 2022-05-06T05:18:03.533Z,60.119,-152.382,88.1,1.7,ml,,,,0.34,ak,ak0225sgsrdx,2022-05-06T05:20:37.434Z,"40 km W of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-06T05:08:39.155Z,66.2984,-153.1115,1.1,1.1,ml,,,,0.46,ak,ak0225sgqozv,2022-05-06T05:10:55.486Z,"34 km SSW of Alatna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-05-06T04:58:01.220Z,36.791832,-121.5273361,9.76,1.46,md,21,67,0.03282,0.12,nc,nc73729931,2022-05-06T06:21:15.566Z,"6km S of San Juan Bautista, CA",earthquake,0.38,0.55,0.35,13,automatic,nc,nc
-2022-05-06T04:54:16.739Z,56.4859,-157.2318,59.8,2.7,ml,,,,0.48,ak,ak0225sgf2lf,2022-05-06T05:00:59.040Z,"75 km ENE of Chignik, Alaska",earthquake,,1.6,,,automatic,ak,ak
