@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-05-08T05:35:58.835Z,35.07228088,-95.49938965,5,3.24,ml,51,141.8388557,0.1318635941,0.8488505205,ok,ok2022iylz,2022-05-08T05:40:20.274Z,"12 km WSW of Quinton, Oklahoma",earthquake,2.593422315,,,39,automatic,ok,ok
 2022-05-08T05:19:21.690Z,38.8271675,-122.757164,0.65,0.91,md,11,146,0.02152,0.04,nc,nc73730701,2022-05-08T05:34:11.160Z,"3km W of Cobb, CA",earthquake,0.31,0.61,0.25,3,automatic,nc,nc
-2022-05-08T05:17:21.100Z,38.8251648,-122.7558365,0.22,1.92,md,23,72,0.01221,0.06,nc,nc73730686,2022-05-08T05:35:16.164Z,"3km W of Cobb, CA",earthquake,0.28,0.46,0.09,5,automatic,nc,nc
+2022-05-08T05:17:21.100Z,38.8251648,-122.7558365,0.22,1.92,md,23,72,0.01221,0.06,nc,nc73730686,2022-05-08T05:50:13.232Z,"3km W of Cobb, CA",earthquake,0.28,0.46,0.09,5,automatic,nc,nc
 2022-05-08T05:03:03.376Z,59.6265,-152.5401,59.3,1.4,ml,,,,0.67,ak,ak0225vrs8jv,2022-05-08T05:14:30.471Z,"43 km WSW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-08T04:30:54.840Z,33.3628333,-116.3648333,9.98,0.99,ml,20,62,0.04623,0.17,ci,ci40254440,2022-05-08T04:34:30.774Z,"12km N of Borrego Springs, CA",earthquake,0.31,0.64,0.15,22,automatic,ci,ci
 2022-05-08T04:25:39.036Z,62.2795,-149.1633,25,1.8,ml,,,,0.84,ak,ak0225vrbll1,2022-05-08T04:58:06.981Z,"38 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -96,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-07T15:02:07.520Z,37.6486664,-119.0236664,-0.2,1.39,md,8,97,0.007188,0.01,nc,nc73730451,2022-05-07T16:25:12.648Z,"4km WNW of Mammoth Lakes, CA",earthquake,0.57,0.26,0.44,8,automatic,nc,nc
 2022-05-07T14:48:43.440Z,38.8339996,-122.8101654,2.33,1,md,22,63,0.01059,0.01,nc,nc73730446,2022-05-07T15:59:15.495Z,"8km W of Cobb, CA",earthquake,0.22,0.52,0.24,2,automatic,nc,nc
 2022-05-07T14:42:16.686Z,62.7711,-150.619,89.6,1.4,ml,,,,0.73,ak,ak0225u9u6ky,2022-05-07T14:46:01.298Z,"31 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-05-07T14:32:57.390Z,45.8848333,-111.6113333,7.57,2.05,ml,24,135,0.192,0.22,mb,mb80545199,2022-05-07T16:18:25.540Z,"4 km W of Three Forks, Montana",earthquake,0.51,1.25,0.072,11,reviewed,mb,mb
+2022-05-07T14:32:57.390Z,45.8848333,-111.6113333,7.57,2.05,ml,24,135,0.192,0.22,mb,mb80545199,2022-05-07T16:18:25.540Z,"Western Montana",earthquake,0.51,1.25,0.072,11,reviewed,mb,mb
 2022-05-07T14:23:13.200Z,35.6631667,-117.522,11.34,1.36,ml,13,149,0.0907,0.18,ci,ci40254208,2022-05-07T14:26:48.439Z,"15km ENE of Ridgecrest, CA",earthquake,0.37,0.92,0.165,16,automatic,ci,ci
 2022-05-07T14:07:27.856Z,36.699,-116.3327,8.7,0.1,ml,10,168.27,0.054,0.0878,nn,nn00838500,2022-05-08T02:39:06.139Z,"44 km ESE of Beatty, Nevada",earthquake,,1.5,0.16,3,reviewed,nn,nn
 2022-05-07T14:05:23.950Z,19.1946659088135,-155.369827270508,33.310001373291,2.01999998,md,39,170,,0.109999999,hv,hv73005492,2022-05-07T14:08:38.420Z,"11 km E of Pāhala, Hawaii",earthquake,0.61,0.810000002,0.709999979,17,automatic,hv,hv
@@ -173,5 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-07T06:17:03.170Z,17.949,-67.0368333333333,12.99,2.43,md,4,230,,0.13,pr,pr71347733,2022-05-07T07:57:12.830Z,"3 km SSE of La Parguera, Puerto Rico",earthquake,1.51,0.71,0.458660981049749,5,reviewed,pr,pr
 2022-05-07T06:12:23.516Z,-36.4884,-72.9161,29.4,4.5,mwr,,78,0.34,0.65,us,us7000h7qm,2022-05-07T16:51:29.655Z,"14 km NNE of Tomé, Chile",earthquake,6.7,5.9,0.046,46,reviewed,us,us
 2022-05-07T06:02:03.756Z,63.0091,-149.8863,88.8,0.8,ml,,,,0.26,ak,ak0225u4u42f,2022-05-07T06:06:13.636Z,"63 km N of Chase, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-05-07T05:54:07.436Z,59.7329,-152.221,86.1,0.8,ml,,,,0.43,ak,ak0225u4jtzb,2022-05-07T05:56:02.984Z,"22 km WSW of Anchor Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2022-05-07T05:49:30.740Z,17.9738333333333,-66.7475,16.78,2.35,md,7,208,,0.36,pr,pr71347728,2022-05-07T06:42:06.860Z,"4 km SW of Tallaboa, Puerto Rico",earthquake,1.53,2.3,0.0420011895475083,4,reviewed,pr,pr
