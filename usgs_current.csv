@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-11T15:57:18.440Z,33.6896667,-116.7261658,16.98,0.95,ml,20,95,0.02366,0.11,ci,ci40015631,2022-05-11T15:59:26.761Z,"6km S of Idyllwild, CA",earthquake,0.46,0.65,0.131,8,automatic,ci,ci
 2022-05-11T15:47:27.500Z,33.4856667,-116.4206667,9.25,0.49,ml,15,130,0.03787,0.18,ci,ci40015623,2022-05-11T15:51:02.247Z,"22km SSW of La Quinta, CA",earthquake,0.46,0.82,0.093,9,automatic,ci,ci
-2022-05-11T15:45:03.960Z,38.8334999,-122.8030014,3.26,0.36,md,5,215,0.01103,0.03,nc,nc73732181,2022-05-11T15:46:39.670Z,"7km W of Cobb, CA",earthquake,2.21,5.69,,1,automatic,nc,nc
+2022-05-11T15:45:03.960Z,38.8334999,-122.8030014,3.26,0.36,md,5,215,0.01103,0.03,nc,nc73732181,2022-05-11T15:53:11.010Z,"7km W of Cobb, CA",earthquake,2.21,5.69,,1,automatic,nc,nc
 2022-05-11T15:33:11.290Z,38.7883339,-122.768837,1.25,0.83,md,17,80,0.01419,0.03,nc,nc73732171,2022-05-11T15:50:14.991Z,"2km NW of The Geysers, CA",earthquake,0.24,0.54,0.28,4,automatic,nc,nc
 2022-05-11T15:27:27.210Z,33.5461667,-117.0315,0.24,1.46,ml,8,86,0.2772,0.33,ci,ci40256280,2022-05-11T15:31:14.832Z,"12km E of Murrieta Hot Springs, CA",earthquake,1.22,31.61,0.321,12,automatic,ci,ci
-2022-05-11T15:21:15.315Z,-21.7079,-70.2504,59.46,5,mww,,134,0.508,0.62,us,us7000h8ls,2022-05-11T15:43:01.141Z,"42 km N of Tocopilla, Chile",earthquake,5.6,5,0.086,13,reviewed,us,us
+2022-05-11T15:21:15.560Z,-21.6893,-70.244,59.98,5,mww,,131,0.49,0.56,us,us7000h8ls,2022-05-11T15:53:01.184Z,"44 km N of Tocopilla, Chile",earthquake,5.6,6.4,0.083,14,reviewed,us,us
 2022-05-11T15:18:13.640Z,37.8905,-112.4871667,9.54,1.72,ml,20,86,0.4567,0.2,uu,uu60497332,2022-05-11T15:34:44.240Z,"8 km NNW of Panguitch, Utah",earthquake,0.51,2.52,0.093,6,reviewed,uu,uu
 2022-05-11T15:14:49.320Z,34.3588333,-118.6458333,8.07,1.25,ml,18,115,0.0301,0.31,ci,ci40256272,2022-05-11T15:18:25.577Z,"12km NNW of Chatsworth, CA",earthquake,0.74,1.1,0.221,28,automatic,ci,ci
 2022-05-11T14:51:21.747Z,61.36,-150.181,49.6,0.9,ml,,,,0.46,ak,ak02260w1icu,2022-05-11T14:53:15.633Z,"10 km W of Point MacKenzie, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -22,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T13:48:07.868Z,60.6184,-148.6375,14,1.7,ml,,,,0.43,ak,ak02260vfej6,2022-05-11T13:51:00.491Z,"17 km S of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-11T13:38:35.310Z,44.6853333,-110.041,11.15,1.5,md,7,99,0.09678,0.16,uu,uu60497327,2022-05-11T14:09:44.834Z,"35 km S of Silver Gate, Montana",earthquake,0.65,1.31,0.201,6,reviewed,uu,uu
 2022-05-11T13:35:26.050Z,34.024,-116.7158333,12.6,0.81,ml,14,144,0.05821,0.14,ci,ci40256216,2022-05-11T13:39:00.482Z,"13km WSW of Morongo Valley, CA",earthquake,0.41,1,0.13,15,automatic,ci,ci
-2022-05-11T13:32:02.230Z,44.681,-109.9963333,13.95,4.22,ml,29,113,0.07345,0.22,uu,uu60497322,2022-05-11T15:42:46.192Z,"36 km S of Silver Gate, Montana",earthquake,0.61,0.87,0.36,6,reviewed,uu,uu
+2022-05-11T13:32:02.230Z,44.681,-109.9963333,13.95,4.22,ml,29,113,0.07345,0.22,uu,uu60497322,2022-05-11T15:55:42.902Z,"36 km S of Silver Gate, Montana",earthquake,0.61,0.87,0.36,6,reviewed,uu,uu
 2022-05-11T13:19:05.620Z,34.3743333,-118.637,12.03,1.79,ml,40,83,0.0538,0.27,ci,ci40256208,2022-05-11T13:22:55.964Z,"11km SW of Valencia, CA",earthquake,0.38,0.85,0.16,29,automatic,ci,ci
 2022-05-11T13:11:41.630Z,36.0421667,-117.8211667,1.83,0.43,ml,8,129,0.04837,0.13,ci,ci40256200,2022-05-11T13:15:18.554Z,"11km E of Coso Junction, CA",earthquake,0.4,0.35,0.073,3,automatic,ci,ci
 2022-05-11T13:09:06.811Z,59.893,-152.347,118.2,1.5,ml,,,,1.01,ak,ak02260v71ix,2022-05-11T13:11:58.500Z,"31 km WNW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -235,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T16:34:08.800Z,38.8313332,-122.800499,1.71,0.62,md,19,43,0.01062,0.02,nc,nc73731761,2022-05-10T17:07:11.864Z,"7km W of Cobb, CA",earthquake,0.2,0.46,0.05,3,automatic,nc,nc
 2022-05-10T16:18:25.116Z,61.7247,-149.6691,26.7,2.3,ml,,,,0.7,ak,ak0225z9hypc,2022-05-10T16:23:26.892Z,"11 km NNW of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-10T16:04:36.250Z,44.357,-115.1863333,7.81,2.15,ml,11,82,0.824,0.22,mb,mb80545544,2022-05-10T21:57:52.430Z,"25 km NW of Stanley, Idaho",earthquake,0.48,1.2,0.162,12,reviewed,mb,mb
-2022-05-10T15:56:20.141Z,57.8868,-155.7623,10.6,1.8,ml,,,,0.19,ak,ak0225z94nxp,2022-05-10T16:00:25.141Z,"85 km WNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
