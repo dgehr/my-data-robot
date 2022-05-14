@@ -210,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T11:15:08.580Z,38.8050003,-122.81633,3.33,0.25,md,10,69,0.01076,0.02,nc,nc73733061,2022-05-13T13:23:10.817Z,"6km WNW of The Geysers, CA",earthquake,0.41,1.2,0.11,2,automatic,nc,nc
 2022-05-13T11:11:50.590Z,33.765,-116.1105,2.37,0.76,ml,25,111,0.09775,0.14,ci,ci40017471,2022-05-13T20:20:00.165Z,"11km ENE of Indio, CA",earthquake,0.21,0.33,0.122,13,reviewed,ci,ci
 2022-05-13T11:02:02.948Z,65.7029,-148.2073,13.9,1,ml,,,,1.03,ak,ak0226451czc,2022-05-13T11:05:42.896Z,"25 km NE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-05-13T10:55:49.770Z,33.7656667,-116.1116667,2.12,0.8,ml,28,116,0.09661,0.14,ci,ci40017455,2022-05-13T20:15:23.852Z,"11km ENE of Indio, CA",earthquake,0.21,0.3,0.123,17,reviewed,ci,ci
