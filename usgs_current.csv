@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-15T06:06:15.740Z,36.0665,-117.851,2.43,1.26,ml,18,71,0.05107,0.14,ci,ci40019271,2022-05-15T06:09:46.289Z,"9km ENE of Coso Junction, CA",earthquake,0.23,0.21,0.245,20,automatic,ci,ci
 2022-05-15T06:00:33.810Z,35.6265,-117.479,4.75,1.06,ml,17,106,0.0422,0.17,ci,ci40019263,2022-05-15T06:04:10.934Z,"17km SSW of Searles Valley, CA",earthquake,0.38,0.86,0.214,13,automatic,ci,ci
 2022-05-15T05:58:55.940Z,33.8931667,-116.9558333,12.39,1.67,ml,66,36,0.03487,0.18,ci,ci40019255,2022-05-15T06:02:45.619Z,"4km SSE of Beaumont, CA",earthquake,0.18,0.47,0.172,27,automatic,ci,ci
-2022-05-15T05:56:29.280Z,38.8103333,-122.7871704,-0.24,0.84,md,8,96,0.005849,0.04,nc,nc73733906,2022-05-15T06:05:12.508Z,"4km NW of The Geysers, CA",earthquake,0.3,0.7,,1,automatic,nc,nc
+2022-05-15T05:56:29.280Z,38.8103333,-122.7871704,-0.24,0.84,md,8,96,0.005849,0.04,nc,nc73733906,2022-05-15T07:48:10.078Z,"4km NW of The Geysers, CA",earthquake,0.3,0.7,,1,automatic,nc,nc
 2022-05-15T05:49:53.130Z,35.3356667,-118.5135,3.1,1.17,ml,17,78,0.0878,0.17,ci,ci40019247,2022-05-15T05:53:28.534Z,"23km NNW of Tehachapi, CA",earthquake,0.4,0.51,0.166,16,automatic,ci,ci
 2022-05-15T05:34:30.231Z,36.1843,25.3377,10,4.2,mb,,85,0.965,0.6,us,us6000hl95,2022-05-15T06:28:20.040Z,"21 km SSW of Emporeío, Greece",earthquake,4.4,1.8,0.091,38,reviewed,us,us
 2022-05-15T05:10:53.380Z,19.2171669006348,-155.390502929688,31.4200000762939,1.73000002,md,29,161,,0.119999997,hv,hv73012777,2022-05-15T05:14:11.200Z,"9 km E of Pāhala, Hawaii",earthquake,0.66,0.74000001,0.860000014,3,automatic,hv,hv
@@ -203,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-14T08:05:00.553Z,31.59146779,-104.0009946,6.465771484,2.1,ml,9,74,0.1384729267,0.3,tx,tx2022jjpx,2022-05-15T07:43:46.658Z,"36 km NNW of Toyah, Texas",earthquake,2.377575031,3.328767544,0.1,9,reviewed,tx,tx
 2022-05-14T08:02:58.370Z,33.7013333,-116.7596667,14.45,0.66,ml,23,85,0.03918,0.17,ci,ci40018407,2022-05-14T08:06:36.948Z,"6km SW of Idyllwild, CA",earthquake,0.37,0.52,0.256,16,automatic,ci,ci
 2022-05-14T07:54:14.430Z,46.797,-121.961,8.72,0.45,ml,13,204,0.04551,0.08,uw,uw61831092,2022-05-14T18:50:52.860Z,"6 km NE of Ashford, Washington",earthquake,0.36,0.47,0.07132036152753757,4,reviewed,uw,uw
-2022-05-14T07:50:19.620Z,38.8325005,-122.8046646,1.88,0.36,md,7,95,0.01003,0.01,nc,nc73733541,2022-05-14T07:59:11.452Z,"7km W of Cobb, CA",earthquake,0.53,0.98,,1,automatic,nc,nc
