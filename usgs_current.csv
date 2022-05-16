@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-16T17:55:19.620Z,38.8151665,-122.8014984,1.33,1.16,md,27,35,0.008666,0.05,nc,nc73734691,2022-05-16T18:01:10.013Z,"6km NW of The Geysers, CA",earthquake,0.18,0.32,0.1,6,automatic,nc,nc
 2022-05-16T17:40:49.890Z,19.1998329162598,-155.613006591797,-0.150000005960464,2.13,ml,38,82,,0.230000004,hv,hv73014332,2022-05-16T17:46:20.440Z,"14 km W of Pāhala, Hawaii",earthquake,0.39,0.300000012,4.12,5,automatic,hv,hv
 2022-05-16T17:39:51.202Z,63.5357,-151.0484,0,1.1,ml,,,,0.91,ak,ak022697g1bw,2022-05-16T17:43:43.192Z,"33 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-16T17:31:35.590Z,38.8433342,-122.8241653,1.81,0.86,md,9,99,0.01003,0.02,nc,nc73734686,2022-05-16T17:40:10.903Z,"9km WNW of Cobb, CA",earthquake,0.36,0.84,,1,automatic,nc,nc
