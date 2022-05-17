@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-17T07:43:47.870Z,34.0144997,-116.4518356,9.09,1.08,ml,18,92,0.07504,0.16,ci,ci40020895,2022-05-17T07:45:52.990Z,"8km NE of Desert Hot Springs, CA",earthquake,0.34,0.96,0.211,7,automatic,ci,ci
+2022-05-17T07:44:45.750Z,35.8245,-117.6376667,10.4,0.93,ml,12,91,0.03379,0.08,ci,ci40020903,2022-05-17T07:48:23.721Z,"22km WNW of Searles Valley, CA",earthquake,0.26,0.44,0.165,9,automatic,ci,ci
+2022-05-17T07:43:47.980Z,34.015,-116.4481667,8.25,0.62,ml,15,88,0.07262,0.27,ci,ci40020895,2022-05-17T07:47:27.878Z,"8km NE of Desert Hot Springs, CA",earthquake,0.6,1.43,0.225,7,automatic,ci,ci
 2022-05-17T07:25:50.319Z,60.2131,-151.6165,5.2,1.2,ml,,,,0.89,ak,ak0226aoy1o7,2022-05-17T07:35:43.663Z,"12 km W of Clam Gulch, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-05-17T07:22:51.840Z,19.1663341522217,-155.466506958008,32.9799995422363,1.9,ml,42,90,,0.119999997,hv,hv73014947,2022-05-17T07:28:22.760Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.59,0.870000005,4.33,7,automatic,hv,hv
 2022-05-17T07:22:31.850Z,61.5923,-150.9721,67.1,1,ml,,,,0.3,ak,ak0226aoxd3l,2022-05-17T07:24:26.940Z,"25 km WNW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
