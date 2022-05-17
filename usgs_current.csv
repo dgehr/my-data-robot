@@ -226,7 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T11:41:13.610Z,43.4493333,-110.2925,5.95,1.86,ml,14,131,0.279,0.18,mb,mb80545954,2022-05-16T14:37:24.510Z,"28 km NNE of Bondurant, Wyoming",earthquake,0.58,9.55,0.175,17,reviewed,mb,mb
 2022-05-16T11:41:11.180Z,38.8436661,-122.824501,1.77,1.03,md,18,99,0.009965,0.01,nc,nc73734556,2022-05-16T14:08:10.622Z,"9km WNW of Cobb, CA",earthquake,0.23,0.54,0.08,3,automatic,nc,nc
 2022-05-16T11:28:42.052Z,64.7625,-150.7208,14.3,0.9,ml,,,,0.36,ak,ak022693t23x,2022-05-16T11:44:26.018Z,"26 km S of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-05-16T11:28:15.970Z,35.7586667,-117.6103333,10.6,0.86,ml,15,96,0.0579,0.09,ci,ci40020103,2022-05-16T19:09:36.269Z,"16km NNE of Ridgecrest, CA",earthquake,0.23,0.41,0.23,9,reviewed,ci,ci
-2022-05-16T11:25:56.277Z,6.8872,-73.1157,145.23,4.4,mb,,107,0.988,0.74,us,us6000hlfw,2022-05-16T11:47:44.040Z,"13 km SSW of Piedecuesta, Colombia",earthquake,7.6,7.5,0.041,169,reviewed,us,us
-2022-05-16T11:22:59.226Z,-7.4553,128.6101,117.62,4.5,mb,,62,2.715,0.76,us,us6000hlfv,2022-05-16T12:04:22.040Z,"213 km ENE of Lospalos, Timor Leste",earthquake,6.7,5.1,0.131,17,reviewed,us,us
-2022-05-16T11:21:50.900Z,56.114,-159.545,-3,0.4,ml,5,152,,0.24,av,av91563071,2022-05-16T23:36:49.150Z,"23 km N of Ivanof Bay, Alaska",earthquake,0.72,2.63,0.121014968902389,4,reviewed,av,av
