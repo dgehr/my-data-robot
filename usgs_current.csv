@@ -29,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-23T18:53:29.100Z,37.4796667,-118.8496667,2.41,0.42,md,10,241,0.1114,0.03,nc,nc73737186,2022-05-23T19:24:10.339Z,"18km WSW of Toms Place, CA",earthquake,1.07,3.95,0.073,8,reviewed,nc,nc
 2022-05-23T18:51:20.740Z,36.4925003,-121.060997,4.96,1.96,md,11,142,0.03723,0.05,nc,nc73737181,2022-05-23T20:01:12.518Z,"9km ESE of Pinnacles, CA",earthquake,0.33,0.89,0.28,7,automatic,nc,nc
 2022-05-23T18:50:19.610Z,33.0256667,-116.2931667,4.41,1.14,ml,36,56,0.07139,0.25,ci,ci40024799,2022-05-23T19:00:52.140Z,"20km SW of Ocotillo Wells, CA",earthquake,0.36,1.29,0.126,24,automatic,ci,ci
-2022-05-23T18:45:15.312Z,14.1179,145.9341,81.7,5.1,mww,,38,1.16,0.5,us,us7000hbzi,2022-05-23T22:49:14.656Z,"99 km SSE of San Jose Village, Northern Mariana Islands",earthquake,9,5.5,0.068,21,reviewed,us,us
+2022-05-23T18:45:15.312Z,14.1179,145.9341,81.7,5.1,mww,,38,1.16,0.5,us,us7000hbzi,2022-05-23T22:55:21.759Z,"99 km SSE of San Jose Village, Northern Mariana Islands",earthquake,9,5.5,0.068,21,reviewed,us,us
 2022-05-23T18:38:54.920Z,36.41316667,-96.88366667,5.52,0.02,ml,18,105,0.03869240723,0.08,ok,ok2022kawi,2022-05-23T18:48:31.066Z,"11 km NW of Pawnee, Oklahoma",earthquake,,0.5,0.29,8,reviewed,ok,ok
 2022-05-23T18:37:33.853Z,60.0037,-153.4612,105,1.1,ml,,,,0.71,ak,ak0226kssfns,2022-05-23T18:46:12.618Z,"43 km ENE of Pedro Bay, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-05-23T18:32:49.927Z,61.6781,-152.0754,105,1.7,ml,,,,0.58,ak,ak0226ksrebl,2022-05-23T18:46:11.832Z,"49 km SW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -132,7 +132,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-23T09:07:42.750Z,37.6378333,-119.0183333,-0.1,-0.02,md,9,85,0.001123,0.01,nc,nc73736991,2022-05-23T17:42:23.857Z,"4km W of Mammoth Lakes, CA",earthquake,0.37,0.51,0.32,9,reviewed,nc,nc
 2022-05-23T08:39:23.047Z,57.933,-155.9098,8.6,1.4,ml,,,,0.31,ak,ak0226kmui5w,2022-05-23T09:00:32.617Z,"92 km ESE of Egegik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-23T08:38:07.593Z,63.306,-151.7728,0,1.5,ml,,,,1.12,ak,ak0226kmu99n,2022-05-23T08:55:24.297Z,"26 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-05-23T08:18:46.320Z,37.7465,-78.1938333,10.44,2.26,md,8,92,0.3305,0.13,se,se60395851,2022-05-23T18:51:42.794Z,"2 km WSW of Columbia, Virginia",earthquake,0.74,1.53,0.084,8,reviewed,se,se
+2022-05-23T08:18:46.320Z,37.7465,-78.1938333,10.44,2.26,md,8,92,0.3305,0.13,se,se60395851,2022-05-23T22:54:25.937Z,"2 km WSW of Columbia, Virginia",earthquake,0.74,1.53,0.084,8,reviewed,se,se
 2022-05-23T08:12:21.000Z,38.7953339,-122.7898331,0.48,1.17,md,16,90,0.002621,0.03,nc,nc73736981,2022-05-23T10:42:11.453Z,"4km NW of The Geysers, CA",earthquake,0.19,0.37,,1,automatic,nc,nc
 2022-05-23T07:59:36.514Z,61.8711,-149.5357,26.5,1.1,ml,,,,0.23,ak,ak0226kmddwz,2022-05-23T08:01:34.962Z,"21 km NW of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-23T07:51:31.351Z,-23.2651,-179.5803,571.81,4.3,mb,,127,5.923,0.43,us,us6000hn86,2022-05-23T08:09:58.040Z,"south of the Fiji Islands",earthquake,13.8,10.9,0.111,23,reviewed,us,us
@@ -231,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-22T23:10:33.160Z,35.9076667,-117.7485,6.72,0.82,ml,15,63,0.06991,0.05,ci,ci40024351,2022-05-23T21:56:44.756Z,"15km ESE of Little Lake, CA",earthquake,0.12,0.37,0.165,8,reviewed,ci,ci
 2022-05-22T23:06:04.020Z,38.8084984,-122.8138351,3.14,0.96,md,22,56,0.01199,0.03,nc,nc73736846,2022-05-23T00:11:16.417Z,"6km NW of The Geysers, CA",earthquake,0.25,0.47,0.21,3,automatic,nc,nc
 2022-05-22T22:59:52.990Z,36.27866667,-97.5035,6.57,1.27,ml,57,47,0.06838658022,0.28,ok,ok2022jzjl,2022-05-23T15:47:22.364Z,"4 km W of Lucien, Oklahoma",earthquake,,0.6,0.33,5,reviewed,ok,ok
-2022-05-22T22:54:07.980Z,19.2733325958252,-155.395172119141,32.8400001525879,2.15,ml,40,122,,0.170000002,hv,hv73020297,2022-05-22T22:59:39.630Z,"11 km NE of Pāhala, Hawaii",earthquake,0.56,0.75,0.28,5,automatic,hv,hv
