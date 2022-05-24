@@ -262,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-23T09:09:18.870Z,18.7616666666667,-65.2646666666667,33.64,3.21,md,14,282,,0.43,pr,pr71350248,2022-05-23T10:28:48.660Z,"50 km N of Culebra, Puerto Rico",earthquake,3.1,9.01,0.0614073669561508,9,reviewed,pr,pr
 2022-05-23T09:07:45.720Z,60.0205,-153.101833333333,2.5,-0.76,ml,5,126,,0.08,av,av91570331,2022-05-24T00:42:14.160Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.35,1.4,0.140797129433471,5,reviewed,av,av
 2022-05-23T09:07:42.750Z,37.6378333,-119.0183333,-0.1,-0.02,md,9,85,0.001123,0.01,nc,nc73736991,2022-05-23T17:42:23.857Z,"4km W of Mammoth Lakes, CA",earthquake,0.37,0.51,0.32,9,reviewed,nc,nc
-2022-05-23T08:54:44.410Z,53.8705,-166.7415,4.38,-0.66,ml,6,127,,0.06,av,av91059633,2022-05-24T00:32:29.830Z,"13 km W of Dutch Harbor, Alaska",earthquake,0.26,0.65,0.306333140110999,6,reviewed,av,av
