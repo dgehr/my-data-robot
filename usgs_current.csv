@@ -55,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-24T04:10:45.500Z,35.8571667,-117.6736667,7.76,0.88,ml,9,87,0.07442,0.06,ci,ci40025119,2022-05-24T04:14:24.220Z,"23km ESE of Little Lake, CA",earthquake,0.35,0.9,0.13,10,automatic,ci,ci
 2022-05-24T04:09:51.079Z,62.2684,-150.9377,72,1.5,ml,,,,0.45,ak,ak0226m7tqx5,2022-05-24T04:23:41.653Z,"26 km SSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-24T04:00:27.838Z,84.2265,-0.6532,10,5,mb,,58,5.627,1.22,us,us7000hc4h,2022-05-24T04:15:36.040Z,"north of Svalbard",earthquake,9.1,1.9,0.033,286,reviewed,us,us
-2022-05-24T03:59:04.958Z,43.6154,-71.1558,2.85,2.2,mb_lg,,106,0.289,0.37,us,us7000hc47,2022-05-24T10:40:02.856Z,"5 km NE of Wolfeboro, New Hampshire",earthquake,1.7,5.8,0.228,5,reviewed,us,us
+2022-05-24T03:59:04.958Z,43.6154,-71.1558,2.85,2.2,mb_lg,,106,0.289,0.37,us,us7000hc47,2022-05-24T11:16:36.970Z,"5 km NE of Wolfeboro, New Hampshire",earthquake,1.7,5.8,0.228,5,reviewed,us,us
 2022-05-24T03:58:35.650Z,32.1791667,-115.821,0.42,2.07,ml,13,107,0.2046,0.17,ci,ci40025095,2022-05-24T04:02:17.749Z,"50km SSW of Progreso, B.C., MX",earthquake,0.52,31.61,0.182,26,automatic,ci,ci
 2022-05-24T03:52:14.260Z,36.4145012,-120.9938354,6.74,1.88,md,24,109,0.02278,0.16,nc,nc73737301,2022-05-24T06:59:25.565Z,"19km SE of Pinnacles, CA",earthquake,0.45,0.72,0.11,14,automatic,nc,nc
 2022-05-24T03:47:39.301Z,-28.108,-70.9896,46.7,5.2,mb,,97,0.121,0.88,us,us7000hc3l,2022-05-24T04:57:09.116Z,"56 km NNW of Vallenar, Chile",earthquake,5.2,5.7,0.051,125,reviewed,us,us
