@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-24T20:24:47.840Z,38.8058319,-122.7679977,10.75,0.37,md,7,222,0.02144,0.04,nc,nc73737556,2022-05-24T20:35:11.443Z,"3km NNW of The Geysers, CA",earthquake,2.31,2.78,,1,automatic,nc,nc
+2022-05-24T20:23:08.200Z,38.786499,-122.7676697,3.01,0.5,md,17,81,0.01542,0.03,nc,nc73737551,2022-05-24T20:32:10.418Z,"1km NW of The Geysers, CA",earthquake,0.29,0.62,0.35,2,automatic,nc,nc
+2022-05-24T20:20:38.790Z,33.477,-116.552,8.35,0.43,ml,17,111,0.04552,0.22,ci,ci40025583,2022-05-24T20:24:14.725Z,"14km SE of Anza, CA",earthquake,0.49,0.8,0.155,11,automatic,ci,ci
 2022-05-24T20:02:07.070Z,35.0493333,-118.3488333,0.24,1.29,ml,20,53,0.0589,0.19,ci,ci40025575,2022-05-24T20:05:51.612Z,"13km SE of Tehachapi, CA",earthquake,0.38,31.61,0.121,30,automatic,ci,ci
 2022-05-24T19:58:51.810Z,39.0568352,-123.1443329,15.66,1.28,md,4,152,0.1923,0,nc,nc73737536,2022-05-24T20:10:10.589Z,"9km SSE of Talmage, CA",earthquake,0.67,2.02,,1,automatic,nc,nc
 2022-05-24T19:49:16.400Z,18.0205,-66.7488333333333,15.21,2.36,md,26,129,,0.19,pr,pr71350508,2022-05-24T20:09:06.570Z,"2 km E of Magas Arriba, Puerto Rico",earthquake,0.33,0.5,0.146523510015233,9,reviewed,pr,pr
@@ -103,6 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-24T06:15:39.930Z,17.9918333333333,-66.9965,7.75,1.35,md,5,146,,0.1,pr,pr71350443,2022-05-24T06:46:20.650Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,0.48,0.9,0.046080261639883,5,reviewed,pr,pr
 2022-05-24T06:14:34.100Z,33.6716667,-116.7661667,11.4,0.12,ml,19,108,0.05858,0.11,ci,ci40025175,2022-05-24T16:42:25.687Z,"9km SSW of Idyllwild, CA",earthquake,0.23,0.43,0.164,8,reviewed,ci,ci
 2022-05-24T06:13:34.779Z,32.51495361,-101.2146294,6.382690430000001,2.6,ml,9,88,0.4306819538,0.2,tx,tx2022kbth,2022-05-24T19:12:53.897Z,"25 km NNE of Coahoma, Texas",earthquake,1.453717564,3.064997348,0.2,7,reviewed,tx,tx
+2022-05-24T06:00:39.705Z,38.2412,-118.7303,10.3,0.6,ml,11,212.72,0.177,0.1385,nn,nn00839479,2022-05-24T20:28:30.003Z,"32 km SSW of Hawthorne, Nevada",earthquake,,4.2,0.51,3,reviewed,nn,nn
 2022-05-24T05:52:20.410Z,38.8288345,-122.7988358,2.02,1.03,md,21,35,0.01032,0.01,nc,nc73737336,2022-05-24T06:20:15.315Z,"7km W of Cobb, CA",earthquake,0.21,0.44,0.14,2,automatic,nc,nc
 2022-05-24T05:51:48.550Z,33.4623333,-116.5623333,8.97,0.61,ml,33,47,0.04639,0.11,ci,ci40025159,2022-05-24T16:35:57.671Z,"15km SE of Anza, CA",earthquake,0.14,0.28,0.179,19,reviewed,ci,ci
 2022-05-24T05:50:01.501Z,20.2412,-69.211,10,4.4,mb,,92,1.641,0.74,us,us7000hc51,2022-05-24T06:19:13.040Z,"98 km NE of Cabrera, Dominican Republic",earthquake,5.1,1.9,0.07,58,reviewed,us,us
