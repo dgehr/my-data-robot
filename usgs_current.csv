@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-25T06:56:01.370Z,32.6101685,-115.5354996,11.25,2.23,ml,44,102,0.07955,0.29,ci,ci40025991,2022-05-25T06:58:27.235Z,"6km NE of Progreso, B.C., MX",earthquake,0.46,0.74,0.256,24,automatic,ci,ci
+2022-05-25T06:55:47.650Z,36.1534996,-118.0668335,2.36,1.28,ml,22,74,0.0995,0.12,ci,ci40025983,2022-05-25T06:57:59.292Z,"15km SSW of Olancha, CA",earthquake,0.29,0.56,0.407,3,automatic,ci,ci
 2022-05-25T06:39:12.830Z,35.6085,-117.5118333,9.51,0.66,ml,9,154,0.04602,0.09,ci,ci40025967,2022-05-25T06:42:48.661Z,"15km E of Ridgecrest, CA",earthquake,0.4,0.76,0.14,6,automatic,ci,ci
 2022-05-25T06:35:56.210Z,33.3841667,-116.877,5.03,0.65,ml,27,37,0.03276,0.21,ci,ci40025959,2022-05-25T06:39:33.326Z,"3km NNW of Palomar Observatory, CA",earthquake,0.3,0.82,0.138,16,automatic,ci,ci
 2022-05-25T06:27:06.040Z,33.1543333,-116.4805,0.57,0.7,ml,9,114,0.3544,0.2,ci,ci40025951,2022-05-25T06:30:53.142Z,"14km NE of Julian, CA",earthquake,0.81,31.61,0.174,7,automatic,ci,ci
