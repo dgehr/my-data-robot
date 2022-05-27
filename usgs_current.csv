@@ -280,5 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-26T08:05:16.730Z,34.6326667,-116.284,6.71,1.49,ml,29,58,0.1203,0.17,ci,ci40027079,2022-05-26T18:29:57.308Z,"15km SW of Ludlow, CA",earthquake,0.21,0.81,0.126,30,reviewed,ci,ci
 2022-05-26T08:01:23.950Z,37.5456667,-118.8021667,7.32,2.5,md,25,131,0.04919,0.03,nc,nc73738111,2022-05-27T00:35:11.602Z,"11km W of Toms Place, CA",earthquake,0.43,0.68,0.174,41,reviewed,nc,nc
 2022-05-26T07:59:36.510Z,35.9105,-117.6921667,3,0.21,ml,13,69,0.05043,0.06,ci,ci40027063,2022-05-26T17:49:27.918Z,"20km E of Little Lake, CA",earthquake,0.14,0.75,0.165,4,reviewed,ci,ci
-2022-05-26T07:58:09.950Z,33.9606667,-116.8248333,14.16,1.17,ml,54,38,0.05777,0.17,ci,ci40027055,2022-05-26T17:46:06.838Z,"6km NW of Cabazon, CA",earthquake,0.18,0.34,0.138,41,reviewed,ci,ci
-2022-05-26T07:54:01.530Z,38.8236667,-122.805,1.51,0.47,md,20,42,0.003973,0.02,nc,nc73738106,2022-05-27T01:43:16.015Z,"7km NW of The Geysers, CA",earthquake,0.25,0.35,0.042,3,reviewed,nc,nc
