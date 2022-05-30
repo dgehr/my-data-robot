@@ -62,6 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-30T13:59:20.580Z,34.0426667,-116.8338333,14.27,0.97,ml,31,80,0.0229,0.18,ci,ci40030495,2022-05-30T14:02:47.428Z,"14km NNE of Banning, CA",earthquake,0.32,0.48,0.162,21,automatic,ci,ci
 2022-05-30T13:50:58.467Z,64.5771,-149.3684,31.7,0.7,ml,,,,1.11,ak,ak0226wanj92,2022-05-30T13:53:07.955Z,"12 km WSW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-30T13:25:54.000Z,34.1785,-116.7371667,0.16,1.19,ml,35,62,0.1545,0.21,ci,ci40030487,2022-05-30T13:29:35.384Z,"14km SE of Big Bear City, CA",earthquake,0.28,0.56,0.232,27,automatic,ci,ci
+2022-05-30T13:22:55.400Z,46.85066666666667,-121.76016666666666,1.64,0.26,ml,7,95,0.02396,0.05,uw,uw61837172,2022-05-30T23:30:26.000Z,"23 km ENE of Ashford, Washington",earthquake,0.25,0.72,0.21179017034812564,5,reviewed,uw,uw
 2022-05-30T12:59:02.480Z,18.025,-66.8253333333333,13.47,2.2,md,7,148,,0.26,pr,pr71351478,2022-05-30T17:42:49.003Z,"2 km ESE of Yauco, Puerto Rico",earthquake,1.09,1.96,0.250923388294924,4,reviewed,pr,pr
 2022-05-30T12:48:30.530Z,19.1871662139893,-155.486328125,33.9000015258789,2.23000002,md,46,71,,0.100000001,hv,hv73028002,2022-05-30T12:51:46.880Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.57,0.810000002,1.88,14,automatic,hv,hv
 2022-05-30T12:46:25.280Z,34.1796667,-116.7386667,-0.36,1.1,ml,23,103,0.1551,0.22,ci,ci40030463,2022-05-30T12:50:03.944Z,"13km SE of Big Bear City, CA",earthquake,0.43,0.77,0.19,27,automatic,ci,ci
@@ -164,4 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-30T00:11:11.830Z,19.5068340301514,-155.654998779297,-3.38000011444092,1.95,ml,21,59,,0.379999995,hv,hv73027372,2022-05-30T00:16:40.580Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.41,0.389999986,3.6,6,automatic,hv,hv
 2022-05-30T00:03:38.680Z,47.571,-122.38666666666667,24.28,1.68,ml,40,39,0.02134,0.39,uw,uw61837027,2022-05-30T18:02:43.460Z,"5 km SW of Seattle, Washington",earthquake,0.51,0.81,0.2640699657423179,11,reviewed,uw,uw
 2022-05-29T23:42:48.360Z,37.5105,-118.8563333,2.7,0.74,md,6,321,0.08228,0.02,nc,nc73739291,2022-05-30T04:10:10.949Z,"17km WSW of Toms Place, CA",earthquake,1.48,4.04,0.039,5,reviewed,nc,nc
-2022-05-29T23:34:34.395Z,60.3374,-151.4044,52.7,1.4,ml,,,,0.49,ak,ak0226usz1h9,2022-05-29T23:57:17.201Z,"6 km WSW of Cohoe, Alaska",earthquake,,1,,,automatic,ak,ak
