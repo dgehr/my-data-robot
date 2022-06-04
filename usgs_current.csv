@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-04T23:04:49.501Z,59.7722,-151.9243,67.9,1.4,ml,,,,0.36,ak,ak02274q0q5t,2022-06-04T23:17:26.496Z,"5 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-06-04T23:04:19.175Z,64.9857,-147.4313,4.7,1,ml,,,,0.73,ak,ak02274q0nsa,2022-06-04T23:17:25.699Z,"9 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-04T22:46:01.550Z,19.1983337402344,-155.395660400391,30.2099990844727,1.97000003,md,42,163,,0.100000001,hv,hv73033922,2022-06-04T22:49:05.200Z,"8 km E of Pāhala, Hawaii",earthquake,0.57,1.00999999,0.140000001,13,automatic,hv,hv
+2022-06-04T22:31:47.520Z,18.8938333333333,-65.1633333333333,36.02,3.43,md,11,313,,0.45,pr,pr71352418,2022-06-04T23:15:14.920Z,"65 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.36,18.93,0.0398374070210314,10,reviewed,pr,pr
 2022-06-04T22:31:46.630Z,18.9083333333333,-65.1291666666667,50.16,3.17,md,8,301,,0.29,pr,pr71352413,2022-06-04T22:51:49.440Z,"66 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.95,6.26,0.00448286505317963,4,reviewed,pr,pr
 2022-06-04T22:18:57.130Z,33.8,-116.304,18.69,1.8,ml,7,222,0.1652,0.05,ci,ci40034007,2022-06-04T22:22:36.625Z,"8km ESE of Thousand Palms, CA",earthquake,0.68,1.44,0.382,2,automatic,ci,ci
 2022-06-04T22:13:24.164Z,63.6822,-149.4983,5.8,1.3,ml,,,,0.43,ak,ak02274ph60v,2022-06-04T22:15:42.117Z,"29 km WSW of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -168,4 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-03T23:35:00.860Z,54.776,-164.090833333333,3.74,0.7,ml,4,169,,0.08,av,av91061443,2022-06-04T06:48:28.930Z,"44 km WSW of False Pass, Alaska",earthquake,1.02,0.53,0.129733938258224,3,reviewed,av,av
 2022-06-03T23:32:06.140Z,52.0153333333333,178.299666666667,7.06,1.39,ml,4,352,,0.08,av,av91061433,2022-06-04T06:39:07.440Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.63,3.37,0.210888204400963,4,reviewed,av,av
 2022-06-03T23:29:19.750Z,34.426,-118.6251667,7.26,1.79,ml,54,26,0.03043,0.24,ci,ci40033543,2022-06-04T00:09:57.550Z,"6km WSW of Valencia, CA",earthquake,0.24,0.45,0.123,25,reviewed,ci,ci
-2022-06-03T23:17:36.960Z,34.4271667,-118.6285,7.05,1.89,ml,46,29,0.02778,0.22,ci,ci40033535,2022-06-04T00:00:43.240Z,"6km WSW of Valencia, CA",earthquake,0.23,0.44,0.147,24,reviewed,ci,ci
