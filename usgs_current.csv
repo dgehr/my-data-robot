@@ -154,5 +154,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-04T09:37:14.860Z,33.5356667,-116.716,3.89,0.14,ml,11,159,0.03458,0.06,ci,ci40033751,2022-06-04T09:40:55.767Z,"4km WSW of Anza, CA",earthquake,0.25,0.38,0.076,5,automatic,ci,ci
 2022-06-04T09:36:07.000Z,64.3349,-147.3044,4.2,1.7,ml,,,,0.62,ak,ak02274hvfaz,2022-06-04T09:59:31.322Z,"28 km SW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-04T09:23:17.010Z,36.1293335,-117.87883,6.17,0.98,ml,12,142,0.02268,0.2,ci,ci40033743,2022-06-04T09:26:43.713Z,"11km NNE of Coso Junction, CA",earthquake,0.69,0.92,0.268,4,automatic,ci,ci
-2022-06-04T09:03:49.210Z,18.005,-66.6848333333333,13.93,1.84,md,6,130,,0.04,pr,pr71352318,2022-06-04T11:13:31.230Z,"3 km ENE of Tallaboa, Puerto Rico",earthquake,1.25,0.84,0.183582211637704,4,reviewed,pr,pr
-2022-06-04T09:02:27.368Z,35.1613,25.2985,10,4.2,mb,,59,0.357,0.57,us,us7000hewf,2022-06-04T09:42:26.040Z,"3 km SSE of Thrapsanón, Greece",earthquake,5.9,1.8,0.102,28,reviewed,us,us
