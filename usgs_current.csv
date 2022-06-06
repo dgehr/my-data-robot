@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-06T19:27:08.020Z,36.4023323,-120.979332,9.5,1.8,md,15,73,0.03908,0.08,nc,nc73741031,2022-06-06T19:28:43.117Z,"20km SE of Pinnacles, CA",earthquake,0.33,0.85,0.27,14,automatic,nc,nc
+2022-06-06T19:23:29.060Z,59.7379,-152.1435,63.3,3,ml,,,,0.62,ak,ak02277ytpq2,2022-06-06T19:29:47.375Z,"18 km WSW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-06T19:14:45.520Z,33.3233333,-116.3406667,8.39,0.85,ml,30,83,0.04682,0.22,ci,ci40035023,2022-06-06T19:22:50.607Z,"8km NNE of Borrego Springs, CA",earthquake,0.32,0.69,0.157,18,automatic,ci,ci
 2022-06-06T18:58:38.980Z,34.9863333,-118.1853333,0.28,1.2,ml,20,80,0.113,0.19,ci,ci40035015,2022-06-06T19:02:23.865Z,"7km S of Mojave, CA",earthquake,0.36,31.61,0.098,14,automatic,ci,ci
 2022-06-06T18:48:55.150Z,33.7136667,-117.3411667,1.14,0.87,ml,20,78,0.05172,0.16,ci,ci40035007,2022-06-06T18:52:28.555Z,"5km NNW of Lake Elsinore, CA",earthquake,0.37,0.62,0.204,20,automatic,ci,ci
