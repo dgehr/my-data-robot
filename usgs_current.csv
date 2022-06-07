@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-07T09:48:58.310Z,40.2943344,-124.4905014,12.95,2.96,md,13,264,0.1601,0.07,nc,nc73741131,2022-06-07T09:50:35.515Z,"18km W of Petrolia, CA",earthquake,1.51,0.8,0.05,12,automatic,nc,nc
+2022-06-07T09:48:58.310Z,40.2943344,-124.4905014,12.95,2.96,md,13,264,0.1601,0.07,nc,nc73741131,2022-06-07T09:55:14.626Z,"18km W of Petrolia, CA",earthquake,1.51,0.8,0.05,12,automatic,nc,nc
 2022-06-07T09:26:09.646Z,66.1266,-157.1693,5.7,1.5,ml,,,,1.11,ak,ak02279gfbtw,2022-06-07T09:28:38.851Z,"59 km NW of Huslia, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-07T08:27:04.017Z,61.0728,-150.8165,36.2,1.7,ml,,,,0.37,ak,ak02279fu3i9,2022-06-07T08:30:10.666Z,"16 km ESE of Beluga, Alaska",earthquake,,4.5,,,automatic,ak,ak
 2022-06-07T08:24:10.960Z,19.3360004425049,-155.189331054688,4.11999988555908,2.03,ml,40,105,,0.159999996,hv,hv73036717,2022-06-07T08:29:42.420Z,"12 km SSE of Volcano, Hawaii",earthquake,0.5,1.60000002,0.25,5,automatic,hv,hv
