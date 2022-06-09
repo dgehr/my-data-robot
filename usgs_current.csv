@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-09T23:51:09.800Z,38.8305016,-122.7985001,1.02,0.85,md,6,112,0.01015,0,nc,nc73743441,2022-06-09T23:52:43.596Z,"7km W of Cobb, CA",earthquake,0.55,1.56,,1,automatic,nc,nc
 2022-06-09T23:39:53.640Z,19.2175006866455,-155.427001953125,32.0900001525879,2,md,36,138,,0.109999999,hv,hv73039507,2022-06-09T23:43:10.980Z,"5 km ENE of Pāhala, Hawaii",earthquake,0.62,0.910000026,0.5,13,automatic,hv,hv
 2022-06-09T23:17:09.339Z,38.1886,-117.7814,3.2,1,ml,8,209.91,0.126,0.082,nn,nn00840690,2022-06-09T23:21:00.333Z,"36 km SE of Mina, Nevada",earthquake,,3.6,0.37,5,automatic,nn,nn
 2022-06-09T22:45:25.430Z,18.0635,-66.8563333333333,3.91,1.83,md,3,297,,0.16,pr,pr71353278,2022-06-09T22:57:24.780Z,"3 km NNW of Yauco, Puerto Rico",earthquake,2.55,12.21,0.219960776262192,3,reviewed,pr,pr
@@ -30,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-09T19:55:00.710Z,33.1878333,-115.6083333,3.21,1.54,ml,20,107,0.01202,0.23,ci,ci40037335,2022-06-09T20:16:36.296Z,"10km SW of Niland, CA",earthquake,0.35,0.23,0.172,31,reviewed,ci,ci
 2022-06-09T19:53:15.580Z,33.8801667,-117.4998333,-0.66,1.13,ml,22,86,0.07744,0.14,ci,ci40037327,2022-06-09T20:22:03.332Z,"2km E of Home Gardens, CA",quarry blast,0.34,31.61,0.12,19,reviewed,ci,ci
 2022-06-09T19:45:42.370Z,19.2021675109863,-155.503494262695,34.6399993896484,2.23000002,md,38,185,,0.109999999,hv,hv73039357,2022-06-09T19:48:55.300Z,"2 km W of Pāhala, Hawaii",earthquake,0.65,0.850000024,1.77999997,18,automatic,hv,hv
-2022-06-09T19:38:43.059Z,64.9902,-147.4296,0,0.8,ml,,,,0.21,ak,ak0227cxj07w,2022-06-09T20:15:46.790Z,"9 km ENE of Fox, Alaska",explosion,,0,,,reviewed,ak,ak
+2022-06-09T19:38:43.059Z,64.9902,-147.4296,0,0.8,ml,,,,0.21,ak,ak0227cxj07w,2022-06-09T20:15:46.790Z,"Central Alaska",explosion,,0,,,reviewed,ak,ak
 2022-06-09T19:27:02.289Z,32.3391,101.9286,10,4.9,mb,,45,6.792,0.82,us,us7000hgaf,2022-06-09T20:12:42.040Z,"242 km NW of Tianpeng, China",earthquake,9.2,1.9,0.053,113,reviewed,us,us
 2022-06-09T19:23:14.103Z,62.2805,-150.913,67,1.2,ml,,,,0.3,ak,ak0227cxflom,2022-06-09T20:11:17.164Z,"25 km SSW of Petersville, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-06-09T19:19:06.700Z,33.4385,-116.3766667,14.37,0.76,ml,26,101,0.09407,0.12,ci,ci40037303,2022-06-09T20:02:30.903Z,"20km N of Borrego Springs, CA",earthquake,0.23,0.39,0.109,15,reviewed,ci,ci
