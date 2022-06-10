@@ -1,5 +1,4 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-10T17:36:29.568Z,39.8708,-118.3878,11.1,1.4,ml,8,143.19,0.244,0.3678,nn,nn00840728,2022-06-10T17:40:55.356Z,"35 km SSE of Lovelock, Nevada",earthquake,,1.1,0.15,4,automatic,nn,nn
 2022-06-10T17:31:28.841Z,62.9979,-149.6999,38.7,1.1,ml,,,,0.58,ak,ak0227ejty7s,2022-06-10T17:34:05.740Z,"57 km SW of Cantwell, Alaska",earthquake,,12,,,automatic,ak,ak
 2022-06-10T17:28:06.234Z,63.2218,-151.7489,1.1,1.4,ml,,,,1.01,ak,ak0227ejt9bj,2022-06-10T17:30:38.955Z,"35 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-10T17:23:12.748Z,60.6986,-147.4101,11.8,2.6,ml,,,,0.65,ak,ak0227ejs78q,2022-06-10T17:25:15.162Z,"43 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -53,14 +52,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T11:36:16.290Z,38.8458333,-123.3681667,0.39,1.16,md,6,199,0.08876,0.14,nc,nc73743621,2022-06-10T16:59:23.198Z,"16km NNE of Sea Ranch, CA",earthquake,0.83,2.41,0.148,6,reviewed,nc,nc
 2022-06-10T11:33:00.510Z,36.5486679,-121.0944977,2.84,2.23,md,14,107,0.05331,0.14,nc,nc73743616,2022-06-10T13:30:14.892Z,"5km ENE of Pinnacles, CA",earthquake,0.35,0.99,0.1,13,automatic,nc,nc
 2022-06-10T11:21:18.569Z,39.0862,-119.0128,9.3,0.9,ml,22,69.43,0.204,0.1202,nn,nn00840710,2022-06-10T16:52:46.250Z,"17 km NE of Yerington, Nevada",earthquake,,1.6,0.24,8,reviewed,nn,nn
-2022-06-10T11:19:08.950Z,33.0318333,-116.2933333,1.21,1.12,ml,38,40,0.07748,0.23,ci,ci40037863,2022-06-10T11:22:44.435Z,"20km SW of Ocotillo Wells, CA",earthquake,0.28,0.67,0.157,26,automatic,ci,ci
+2022-06-10T11:19:09.070Z,33.032,-116.294,4.08,1.15,ml,45,40,0.07759,0.16,ci,ci40037863,2022-06-10T17:48:17.840Z,"20km SW of Ocotillo Wells, CA",earthquake,0.17,0.53,0.154,29,reviewed,ci,ci
 2022-06-10T11:14:10.250Z,19.1264991760254,-155.408340454102,32.5200004577637,2.26999998,md,46,182,,0.100000001,hv,hv73039977,2022-06-10T11:19:41.370Z,"11 km SE of Pāhala, Hawaii",earthquake,0.55,0.74000001,0.409999996,29,automatic,hv,hv
 2022-06-10T11:12:08.830Z,38.8300018,-122.8048325,1.96,0.51,md,15,76,0.007764,0.02,nc,nc73743601,2022-06-10T12:50:14.666Z,"7km W of Cobb, CA",earthquake,0.3,0.68,0.35,2,automatic,nc,nc
 2022-06-10T11:09:42.710Z,33.0263333,-116.3048333,5.85,2.41,ml,42,37,0.07155,0.17,ci,ci40037855,2022-06-10T17:34:04.790Z,"21km SW of Ocotillo Wells, CA",earthquake,0.21,0.89,0.139,125,reviewed,ci,ci
 2022-06-10T11:09:38.600Z,33.0308333,-116.2945,3.55,2.19,ml,63,29,0.07639,0.15,ci,ci40037847,2022-06-10T17:14:58.270Z,"20km SW of Ocotillo Wells, CA",earthquake,0.16,0.74,0.123,11,reviewed,ci,ci
 2022-06-10T11:06:59.040Z,35.5088333,-118.39,4.29,1.75,ml,30,38,0.1885,0.14,ci,ci40037839,2022-06-10T11:21:15.516Z,"13km SE of Bodfish, CA",earthquake,0.2,2.04,0.229,27,automatic,ci,ci
 2022-06-10T10:51:30.090Z,19.1749992370605,-155.488662719727,31.1399993896484,1.70000005,md,40,147,,0.129999995,hv,hv73039957,2022-06-10T10:54:37.910Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.53,0.779999971,0.980000019,7,automatic,hv,hv
-2022-06-10T10:50:14.670Z,39.7561667,-123.4231667,7.86,1.84,md,24,50,0.06885,0.12,nc,nc73743586,2022-06-10T17:37:19.847Z,"9km NE of Laytonville, CA",earthquake,0.23,0.42,0.14,27,reviewed,nc,nc
+2022-06-10T10:50:14.670Z,39.7561667,-123.4231667,7.86,1.84,md,24,50,0.06885,0.12,nc,nc73743586,2022-06-10T17:42:10.439Z,"9km NE of Laytonville, CA",earthquake,0.23,0.42,0.14,27,reviewed,nc,nc
 2022-06-10T10:45:07.220Z,18.167,-64.0101666666667,110.73,3.44,md,9,319,,0.54,pr,pr71353373,2022-06-10T12:15:15.260Z,"84 km ESE of Cruz Bay, U.S. Virgin Islands",earthquake,7.14,3.53,0.179962618371812,6,reviewed,pr,pr
 2022-06-10T10:38:42.510Z,44.2715,-115.1945,9.59,1.93,ml,11,68,0.906,0.25,mb,mb80548459,2022-06-10T15:29:20.020Z,"21 km WNW of Stanley, Idaho",earthquake,0.67,1.8,0.119,10,reviewed,mb,mb
 2022-06-10T10:36:49.322Z,62.4847,-149.4286,53,1.9,ml,,,,0.35,ak,ak0227efp150,2022-06-10T10:38:47.569Z,"34 km E of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
