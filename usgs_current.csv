@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-11T07:02:51.150Z,38.7606659,-122.6135025,6.55,1.53,md,11,124,0.05055,0.04,nc,nc73743896,2022-06-11T07:04:28.094Z,"1km N of Middletown, CA",earthquake,0.67,0.9,0.05,6,automatic,nc,nc
+2022-06-11T07:00:38.390Z,38.7718315,-122.7378311,1.12,0.66,md,11,126,0.0144,0.03,nc,nc73743891,2022-06-11T07:02:12.755Z,"2km ESE of The Geysers, CA",earthquake,0.28,0.45,0.21,3,automatic,nc,nc
 2022-06-11T06:44:58.230Z,33.992,-117.1775,19.21,0.68,ml,13,148,0.1321,0.29,ci,ci40038255,2022-06-11T06:48:38.621Z,"7km S of Redlands, CA",earthquake,0.72,1.12,0.171,11,automatic,ci,ci
+2022-06-11T06:35:29.895Z,-7.9054,-13.6246,10,5.1,mww,,45,0.729,0.45,us,us7000hgp0,2022-06-11T06:57:22.040Z,"86 km E of Georgetown, Saint Helena",earthquake,7.5,1.9,0.098,10,reviewed,us,us
 2022-06-11T06:01:59.096Z,39.0345,-119.7081,10.5,1.2,ml,14,55.05,0.1,0.1313,nn,nn00840773,2022-06-11T06:05:15.705Z,"1 km SE of Johnson Lane, Nevada",earthquake,,0.6,0.39,11,automatic,nn,nn
+2022-06-11T05:32:27.750Z,18.0205,-66.682,12.88,2.05,md,4,277,,0.09,pr,pr71353468,2022-06-11T06:56:58.310Z,"3 km SSE of Tallaboa Alta, Puerto Rico",earthquake,1.33,0.62,0.0370428856008425,3,reviewed,pr,pr
 2022-06-11T05:32:17.910Z,37.5429993,-118.8779984,6.29,1.77,md,19,109,0.06094,0.02,nc,nc73743886,2022-06-11T06:07:12.691Z,"14km SE of Mammoth Lakes, CA",earthquake,0.31,0.97,0.15,20,automatic,nc,nc
 2022-06-11T05:30:23.150Z,19.1765003204346,-155.497161865234,34.5400009155273,2.02,ml,36,88,,0.119999997,hv,hv73040732,2022-06-11T05:35:53.700Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.53,0.790000021,5.16,5,automatic,hv,hv
 2022-06-11T05:02:59.202Z,62.8552,-143.2963,0,0.9,ml,,,,0.91,ak,ak0227g01y0t,2022-06-11T05:05:23.206Z,"25 km ESE of Mentasta Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
