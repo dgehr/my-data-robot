@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-16T17:51:16.280Z,38.7804985,-122.7173309,2.25,0.67,md,12,92,0.0154,0.03,nc,nc73746311,2022-06-16T17:52:52.925Z,"2km WNW of Anderson Springs, CA",earthquake,0.48,0.8,0.14,3,automatic,nc,nc
 2022-06-16T17:45:59.430Z,38.175,-117.8155,5.2,2,ml,19,109.12,0.119,0.1385,nn,nn00841020,2022-06-16T17:49:45.348Z,"35 km SE of Mina, Nevada",earthquake,,0.6,0.32,12,automatic,nn,nn
 2022-06-16T17:44:52.349Z,38.1751,-117.8168,3.4,1.9,ml,18,109.06,0.118,0.1375,nn,nn00841017,2022-06-16T17:48:34.976Z,"34 km SE of Mina, Nevada",earthquake,,0.7,0.28,11,automatic,nn,nn
 2022-06-16T17:44:09.280Z,33.1901667,-115.9871667,8.01,0.82,ml,17,86,0.01841,0.29,ci,ci40285352,2022-06-16T17:47:49.326Z,"12km SSW of Salton City, CA",earthquake,0.8,1.25,0.053,8,automatic,ci,ci
@@ -65,8 +66,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-16T11:47:54.240Z,33.0413333,-115.6145,8.14,1.82,ml,47,37,0.02755,0.23,ci,ci40041263,2022-06-16T17:13:46.020Z,"1km NE of Westmorland, CA",earthquake,0.2,0.54,0.177,17,reviewed,ci,ci
 2022-06-16T11:39:43.146Z,31.68101299,-104.4248396,6.131567383,2.9,ml,20,89,0.06591265002,0.3,tx,tx2022lsep,2022-06-16T11:58:23.631Z,"55 km S of Whites City, New Mexico",earthquake,1.028459829,1.035315124,0.1,12,reviewed,tx,tx
 2022-06-16T11:28:10.770Z,18.0685,-67.037,7.34,2.12,md,5,93,,0.07,pr,pr71354348,2022-06-16T12:19:34.916Z,"1 km SSE of San Germán, Puerto Rico",earthquake,1.39,1.68,0.109312474245602,4,reviewed,pr,pr
-2022-06-16T11:25:08.220Z,34.0381667,-117.2401667,16.79,0.77,ml,21,95,0.1209,0.22,ci,ci40041255,2022-06-16T11:28:41.020Z,"2km ESE of Loma Linda, CA",earthquake,0.4,1.24,0.183,16,automatic,ci,ci
-2022-06-16T11:22:50.340Z,33.9986667,-117.2173333,9.38,1.08,ml,45,77,0.09457,0.2,ci,ci40041247,2022-06-16T11:33:28.020Z,"7km SE of Loma Linda, CA",earthquake,0.25,0.71,0.162,28,automatic,ci,ci
+2022-06-16T11:25:08.150Z,34.0381667,-117.2411667,16.91,0.74,ml,30,95,0.1201,0.14,ci,ci40041255,2022-06-16T17:50:21.715Z,"2km ESE of Loma Linda, CA",earthquake,0.18,0.5,0.051,11,reviewed,ci,ci
+2022-06-16T11:22:50.200Z,33.9948333,-117.217,11.36,1.01,ml,57,59,0.05992,0.16,ci,ci40041247,2022-06-16T17:53:09.400Z,"7km SE of Loma Linda, CA",earthquake,0.16,0.26,0.086,25,reviewed,ci,ci
 2022-06-16T11:19:54.960Z,39.3551674,-123.2681656,4.64,1.6,md,13,82,0.1102,0.04,nc,nc73746171,2022-06-16T12:54:17.197Z,"10km SE of Willits, CA",earthquake,0.38,1.6,0.1,5,automatic,nc,nc
 2022-06-16T11:15:02.910Z,33.2923333,-116.098,-0.08,1.28,ml,41,42,0.09473,0.19,ci,ci40041239,2022-06-16T17:41:16.156Z,"13km W of Salton City, CA",earthquake,0.24,0.61,0.135,22,reviewed,ci,ci
 2022-06-16T10:53:05.211Z,61.6085,-146.3423,27.4,1.4,ml,,,,1.03,ak,ak0227od0nvd,2022-06-16T10:55:23.010Z,"48 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
