@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-19T14:36:35.400Z,19.1860008239746,-155.386337280273,30.7700004577637,1.98000002,md,42,175,,0.119999997,hv,hv73048777,2022-06-19T14:39:44.560Z,"9 km E of Pāhala, Hawaii",earthquake,0.66,0.829999983,1.23000002,8,automatic,hv,hv
 2022-06-19T14:11:48.047Z,36.68596268,-97.68494415,3.461564541,1.75,ml,16,101.6101608,0.2110635191,0.5577044903,ok,ok2022lxwd,2022-06-19T14:14:51.600Z,"10 km ESE of Jefferson, Oklahoma",earthquake,2.915513269,2.377872526,,12,automatic,ok,ok
 2022-06-19T14:04:32.210Z,31.698,-104.5732,5,2.7,ml,,72,0.068,0.83,us,us7000hijg,2022-06-19T14:16:20.040Z,"56 km SSW of Whites City, New Mexico",earthquake,2,1.8,0.045,64,reviewed,us,us
 2022-06-19T14:01:36.730Z,35.9446678,-120.5023346,11.02,0.69,md,13,72,0.01288,0.05,nc,nc73747586,2022-06-19T14:17:24.526Z,"8km NW of Parkfield, CA",earthquake,0.65,1.39,0.08,4,automatic,nc,nc
@@ -198,6 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-18T15:01:19.950Z,37.6501667,-118.8926667,-2.32,1.17,md,9,128,0.006645,0.21,nc,nc73747056,2022-06-18T18:23:23.222Z,"8km E of Mammoth Lakes, CA",earthquake,0.68,1.07,0.337,6,reviewed,nc,nc
 2022-06-18T14:58:18.430Z,61.6822,-147.1749,34.4,1.9,ml,,,,0.32,ak,ak0227rqi6vn,2022-06-18T14:59:25.653Z,"28 km S of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-18T14:56:07.500Z,35.7648333,-117.5613333,6.94,0.93,ml,13,176,0.0587,0.19,ci,ci40286768,2022-06-18T14:59:42.132Z,"14km W of Searles Valley, CA",earthquake,0.79,1.18,0.081,9,automatic,ci,ci
-2022-06-18T14:38:34.878Z,63.2361,-151.0872,2.3,1.2,ml,,,,0.43,ak,ak0227rqdxtr,2022-06-18T14:40:33.056Z,"46 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-06-18T14:37:31.040Z,37.6465,-118.9076667,-1.68,1.31,md,9,142,0.008494,0.06,nc,nc73747051,2022-06-18T17:57:17.075Z,"6km E of Mammoth Lakes, CA",earthquake,0.61,0.29,0.139,5,reviewed,nc,nc
-2022-06-18T14:36:10.080Z,37.6501667,-118.9001667,-1.9,0.25,md,12,94,0.006341,0.11,nc,nc73747046,2022-06-18T18:03:10.117Z,"7km ENE of Mammoth Lakes, CA",earthquake,0.49,0.29,0.013,5,reviewed,nc,nc
