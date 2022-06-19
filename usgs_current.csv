@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-19T11:34:02.117Z,60.6088,-151.782,74,2.6,ml,,,,0.57,ak,ak0227tc4238,2022-06-19T11:35:53.072Z,"25 km W of Salamatof, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-06-19T11:31:50.400Z,37.6393318,-118.8945007,4.46,0.95,md,10,127,0.005382,0.02,nc,nc73747541,2022-06-19T11:33:24.811Z,"7km E of Mammoth Lakes, CA",earthquake,0.69,0.66,0.18,10,automatic,nc,nc
+2022-06-19T11:30:34.200Z,37.6398315,-118.8943329,4.73,1.41,md,15,122,0.004969,0.03,nc,nc73747536,2022-06-19T11:32:09.870Z,"8km E of Mammoth Lakes, CA",earthquake,0.59,0.73,0.1,15,automatic,nc,nc
+2022-06-19T11:29:02.040Z,61.6324,-147.361,26.1,1.5,ml,,,,0.69,ak,ak0227tc2zj0,2022-06-19T11:31:19.602Z,"24 km SE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-19T11:09:50.141Z,64.9256,-149.2525,18.7,0.7,ml,,,,0.32,ak,ak0227tbysx2,2022-06-19T11:12:11.080Z,"25 km S of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-19T11:09:32.170Z,36.031,-117.8288333,-0.22,1.03,ml,11,130,0.05105,0.25,ci,ci40287200,2022-06-19T11:13:08.020Z,"11km E of Coso Junction, CA",earthquake,0.73,31.61,0.122,15,automatic,ci,ci
 2022-06-19T10:59:51.060Z,33.4883333,-116.4575,11.46,0.61,ml,24,70,0.09235,0.2,ci,ci40287192,2022-06-19T11:03:19.666Z,"21km ESE of Anza, CA",earthquake,0.31,0.85,0.135,14,automatic,ci,ci
@@ -188,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-18T11:44:26.330Z,38.7573318,-122.7279968,2.84,0.47,md,8,187,0.004911,0.02,nc,nc73747026,2022-06-18T12:08:17.953Z,"3km SE of The Geysers, CA",earthquake,1.87,1.9,0.42,2,automatic,nc,nc
 2022-06-18T11:43:13.120Z,17.9715,-66.9846666666667,7.83,2.46,md,5,200,,0.11,pr,pr71354838,2022-06-18T13:03:01.000Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.64,5.52,0.0479873349510078,3,reviewed,pr,pr
 2022-06-18T11:43:09.620Z,40.393,-124.4445,25.69,2.61,md,18,251,0.1161,0.11,nc,nc73747021,2022-06-18T22:30:10.626Z,"16km WNW of Petrolia, CA",earthquake,0.76,0.5,0.192,27,reviewed,nc,nc
-2022-06-18T11:35:22.414Z,61.5941,-149.6957,34.7,1,ml,,,,0.27,ak,ak0227rokywh,2022-06-18T11:37:24.073Z,"6 km SW of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
