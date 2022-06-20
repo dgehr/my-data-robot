@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-20T23:53:02.320Z,38.8253326,-122.8564987,2.23,0.37,md,13,97,0.002228,0.02,nc,nc73748626,2022-06-20T23:54:40.215Z,"10km WNW of The Geysers, CA",earthquake,0.39,0.53,0.01,2,automatic,nc,nc
 2022-06-20T23:40:35.333Z,58.298,-155.0573,16.7,0.5,ml,,,,0.41,ak,ak0227v6tyq5,2022-06-20T23:48:25.311Z,"88 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-20T23:40:18.180Z,34.0175,-116.7586667,29.85,0.84,ml,13,234,0.1862,0.36,ci,ci40288328,2022-06-20T23:43:57.628Z,"11km NNE of Cabazon, CA",earthquake,4.22,2.44,0.114,14,automatic,ci,ci
 2022-06-20T23:37:13.600Z,38.824501,-122.8574982,2.3,0.64,md,13,99,0.003079,0.02,nc,nc73748616,2022-06-20T23:45:10.640Z,"10km WNW of The Geysers, CA",earthquake,0.35,0.57,0.18,3,automatic,nc,nc
