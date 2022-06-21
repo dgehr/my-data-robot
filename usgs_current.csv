@@ -313,7 +313,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-20T05:52:09.780Z,37.6291667,-118.8791667,-0.12,1.46,md,13,127,0.0164,0.06,nc,nc73747921,2022-06-20T18:10:16.603Z,"9km E of Mammoth Lakes, CA",earthquake,0.4,0.29,0.119,6,reviewed,nc,nc
 2022-06-20T05:51:43.076Z,38.1687,-117.8318,7.8,0.8,ml,14,177.26,0.105,0.151,nn,nn00841234,2022-06-21T02:39:33.855Z,"34 km SE of Mina, Nevada",earthquake,,2.4,0.53,4,reviewed,nn,nn
 2022-06-20T05:47:52.060Z,33.5963333,-116.6395,12.82,1.91,ml,64,27,0.03051,0.18,ci,ci40287624,2022-06-20T16:34:35.280Z,"6km NE of Anza, CA",earthquake,0.17,0.31,0.199,27,reviewed,ci,ci
-2022-06-20T05:46:20.670Z,33.162,-115.6563333,3.09,1.25,ml,15,90,0.0353,0.22,ci,ci40287616,2022-06-20T05:50:00.024Z,"14km WNW of Calipatria, CA",earthquake,0.48,0.69,0.237,23,automatic,ci,ci
-2022-06-20T05:45:54.140Z,58.3713,-154.6713,5,1,ml,,,,0.71,ak,ak0227uw59va,2022-06-20T23:14:27.780Z,"90 km N of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2022-06-20T05:45:49.000Z,37.6321667,-118.8828333,-0.29,1.9,md,22,86,0.01651,0.06,nc,nc73747911,2022-06-20T20:51:17.576Z,"8km E of Mammoth Lakes, CA",earthquake,0.23,0.25,0.261,17,reviewed,nc,nc
-2022-06-20T05:41:59.190Z,39.3496667,-123.2718333,3.6,1.29,md,15,94,0.07305,0.04,nc,nc73747906,2022-06-20T07:04:13.657Z,"10km SE of Willits, CA",earthquake,0.25,1.84,0.204,13,reviewed,nc,nc
