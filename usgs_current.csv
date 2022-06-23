@@ -266,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-22T06:07:07.410Z,34.0271667,-116.9408333,13.01,1.59,ml,79,29,0.02183,0.17,ci,ci40288848,2022-06-22T16:55:50.540Z,"10km E of Yucaipa, CA",earthquake,0.12,0.27,0.232,25,reviewed,ci,ci
 2022-06-22T06:01:03.470Z,36.49016667,-98.5025,9,1.87,ml,90,39,0.02339540902,0.25,ok,ok2022mcsl,2022-06-22T12:32:17.285Z,"5 km WSW of Aline, Oklahoma",earthquake,,0.6,0.23,39,reviewed,ok,ok
 2022-06-22T05:58:20.570Z,35.9078333,-117.7385,8.66,0.56,ml,16,57,0.07649,0.06,ci,ci40288840,2022-06-22T16:37:35.449Z,"16km ESE of Little Lake, CA",earthquake,0.13,0.32,0.342,6,reviewed,ci,ci
-2022-06-22T05:53:43.180Z,35.6583333,-90.3601667,7.34,1.71,md,18,82,0.01685,0.04,nm,nm60400571,2022-06-22T17:33:21.190Z,"5 km NNW of Lepanto, Arkansas",earthquake,1.01,0.65,0.068,9,reviewed,nm,nm
