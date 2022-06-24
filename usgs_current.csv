@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-24T10:52:08.570Z,38.8421669,-122.8776703,2.53,0.84,md,18,91,0.005992,0.03,nc,nc73750361,2022-06-24T10:53:45.159Z,"13km NW of The Geysers, CA",earthquake,0.33,0.5,0.23,4,automatic,nc,nc
 2022-06-24T10:41:53.100Z,33.5221667,-116.4528333,8.92,0.49,ml,18,86,0.0227,0.25,ci,ci40290448,2022-06-24T10:45:26.063Z,"20km SW of La Quinta, CA",earthquake,0.57,0.92,0.179,8,automatic,ci,ci
 2022-06-24T10:30:12.940Z,34.2231667,-117.6196667,9.54,1.13,ml,30,52,0.03579,0.18,ci,ci40290440,2022-06-24T10:41:00.540Z,"12km NNW of Rancho Cucamonga, CA",earthquake,0.27,0.45,0.178,30,automatic,ci,ci
 2022-06-24T10:14:46.362Z,64.5291,-149.6072,15.1,1.8,ml,,,,0.48,ak,ak02281l362k,2022-06-24T10:16:33.056Z,"24 km WSW of Four Mile Road, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -247,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-23T11:04:12.540Z,44.8001667,-110.8001667,7.82,0.84,ml,11,214,0.03774,0.09,uu,uu60503192,2022-06-23T11:45:37.780Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.61,0.47,0.11,2,reviewed,uu,uu
 2022-06-23T11:03:29.340Z,33.664,-116.7481667,14.84,0.27,ml,18,65,0.05493,0.09,ci,ci40289632,2022-06-23T17:25:37.855Z,"9km SSW of Idyllwild, CA",earthquake,0.26,0.49,0.166,7,reviewed,ci,ci
 2022-06-23T11:02:42.300Z,32.8818333,-115.8413333,7.7,1.27,ml,35,49,0.07207,0.2,ci,ci40289624,2022-06-23T17:23:14.140Z,"22km NE of Ocotillo, CA",earthquake,0.25,0.53,0.109,15,reviewed,ci,ci
-2022-06-23T10:56:08.470Z,17.9823333333333,-66.822,13.07,2.09,md,8,155,,0.07,pr,pr71355558,2022-06-23T12:25:17.230Z,"1 km SSW of Indios, Puerto Rico",earthquake,0.73,0.56,0.191112842399919,4,reviewed,pr,pr
-2022-06-23T10:54:09.440Z,17.9791,-66.834,11,3.55,md,24,158,0.0454,0.2,pr,pr2022174000,2022-06-24T05:25:10.253Z,"2 km SW of Indios, Puerto Rico",earthquake,0.58,0.37,0.15,14,reviewed,pr,pr
