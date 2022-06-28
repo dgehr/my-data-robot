@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-28T17:39:47.560Z,38.8253326,-122.7986679,2.96,0.46,md,9,179,0.009117,0.01,nc,nc73752261,2022-06-28T17:41:23.441Z,"6km NW of The Geysers, CA",earthquake,0.55,0.73,0.39,2,automatic,nc,nc
+2022-06-28T17:39:47.560Z,38.8253326,-122.7986679,2.96,0.46,md,9,179,0.009117,0.01,nc,nc73752261,2022-06-28T17:49:10.700Z,"6km NW of The Geysers, CA",earthquake,0.55,0.73,0.39,2,automatic,nc,nc
 2022-06-28T17:36:15.411Z,62.0176,-151.0677,82.6,1.9,ml,,,,0.49,ak,ak02288bj8n9,2022-06-28T17:38:45.435Z,"17 km E of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-06-28T17:27:11.303Z,60.6058,-147.77,18.4,2.5,ml,,,,0.51,ak,ak02288bhawm,2022-06-28T17:28:33.391Z,"53 km ESE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-28T17:19:57.725Z,64.826,-163.3472,11.56,2.5,ml,,89,0.909,0.18,us,us7000hkx6,2022-06-28T17:30:03.040Z,"16 km N of White Mountain, Alaska",earthquake,4,7,0.069,28,reviewed,us,us
-2022-06-28T17:18:14.060Z,38.831665,-122.821167,2.33,1.18,md,13,70,0.01197,0.01,nc,nc73752256,2022-06-28T17:32:11.549Z,"8km NW of The Geysers, CA",earthquake,0.43,1.19,,1,automatic,nc,nc
+2022-06-28T17:18:14.060Z,38.831665,-122.821167,2.33,1.18,md,13,70,0.01197,0.01,nc,nc73752256,2022-06-28T17:49:19.700Z,"8km NW of The Geysers, CA",earthquake,0.43,1.19,,1,automatic,nc,nc
 2022-06-28T17:09:39.110Z,38.7978325,-122.7623367,1.2,0.36,md,8,90,0.003461,0.02,nc,nc73752251,2022-06-28T17:39:18.659Z,"2km NNW of The Geysers, CA",earthquake,0.4,1.01,,1,automatic,nc,nc
 2022-06-28T16:59:50.117Z,59.2617,-153.8154,117.2,1.5,ml,,,,0.53,ak,ak02288b2t6r,2022-06-28T17:02:51.562Z,"50 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-28T16:45:53.401Z,62.3513,-149.1565,0,1.9,ml,,,,0.54,ak,ak02288aztf0,2022-06-28T16:47:56.030Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
