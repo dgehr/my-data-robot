@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-07-05T13:47:57.480Z,35.7155,-117.5523333,10.73,0.98,ml,14,216,0.1066,0.15,ci,ci40297104,2022-07-05T13:51:29.534Z,"15km WSW of Searles Valley, CA",earthquake,0.78,0.52,0.188,9,automatic,ci,ci
 2022-07-05T13:35:17.654Z,63.1435,-148.215,67,1,ml,,,,1.23,ak,ak0228jtwq51,2022-07-05T13:37:28.346Z,"46 km SE of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-07-05T13:15:18.700Z,56.4804,-156.6492,25.1,3.8,ml,,,,1.01,ak,ak0228jtsg0o,2022-07-05T13:34:43.933Z,"110 km E of Chignik, Alaska",earthquake,,2.8,,,reviewed,ak,ak
+2022-07-05T13:15:18.700Z,56.4804,-156.6492,25.1,3.8,ml,,,,1.01,ak,ak0228jtsg0o,2022-07-05T13:59:35.040Z,"110 km E of Chignik, Alaska",earthquake,,2.8,,,reviewed,ak,ak
 2022-07-05T13:14:44.493Z,65.1413,-149.8842,1.5,1,ml,,,,0.36,ak,ak0228jtsa5z,2022-07-05T13:17:25.792Z,"25 km W of Minto, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-07-05T13:11:30.390Z,38.8300018,-122.8008347,1.91,0.75,md,16,48,0.009778,0.01,nc,nc73754791,2022-07-05T13:47:10.547Z,"7km W of Cobb, CA",earthquake,0.25,0.6,0.1,2,automatic,nc,nc
 2022-07-05T13:09:10.106Z,56.3598,-156.5992,60,3.3,ml,18,184,1.647,0.5,us,us6000hzzv,2022-07-05T13:41:34.040Z,"111 km E of Chignik, Alaska",earthquake,3.2,6.7,0.066,30,reviewed,us,us
@@ -28,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-05T10:27:05.000Z,19.1924991607666,-155.485168457031,32.6500015258789,2.55,ml,47,75,,0.119999997,hv,hv73065657,2022-07-05T10:32:35.420Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.41,0.610000014,3.09,24,automatic,hv,hv
 2022-07-05T10:15:48.949Z,62.3245,-152.0215,104.8,0.9,ml,,,,0.34,ak,ak0228js07f2,2022-07-05T10:18:30.214Z,"49 km NW of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-07-05T10:05:47.470Z,34.6176667,-119.023,0.71,1.44,ml,31,57,0.1331,0.27,ci,ci40297016,2022-07-05T10:09:28.242Z,"24km SSW of Frazier Park, CA",earthquake,0.35,0.68,0.169,31,automatic,ci,ci
-2022-07-05T10:04:26.680Z,19.2041,-64.9881,47,3.66,md,12,293,0.8512,0.45,pr,pr2022186000,2022-07-05T11:00:47.271Z,"95 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.51,14.26,0.12,6,reviewed,pr,pr
+2022-07-05T10:04:26.680Z,19.2041,-64.9881,47,3.66,md,12,293,0.8512,0.45,pr,pr2022186000,2022-07-05T13:51:58.040Z,"95 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.51,14.26,0.12,6,reviewed,pr,pr
 2022-07-05T09:45:49.570Z,38.8311653,-122.8161697,2.52,0.85,md,13,81,0.009103,0.01,nc,nc73754751,2022-07-05T11:28:12.625Z,"8km NW of The Geysers, CA",earthquake,0.35,1.16,,1,automatic,nc,nc
 2022-07-05T09:44:03.571Z,10.3265,94.3532,10,4.7,mb,54,85,2.059,0.6,us,us6000hzyw,2022-07-05T10:20:45.040Z,"229 km SE of Port Blair, India",earthquake,5.4,1.9,0.088,39,reviewed,us,us
 2022-07-05T09:37:50.400Z,38.7745018,-122.7348328,2.14,0.38,md,7,110,0.008847,0.01,nc,nc73754746,2022-07-05T11:03:13.452Z,"2km E of The Geysers, CA",earthquake,0.57,1.41,,1,automatic,nc,nc
