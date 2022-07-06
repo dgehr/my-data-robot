@@ -66,6 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-06T06:07:02.600Z,34.7988333,-119.526,20.34,2.25,ml,10,143,0.2696,0.29,ci,ci40297848,2022-07-06T06:13:55.614Z,"31km SSW of Maricopa, CA",earthquake,1.61,3.56,0.25,26,automatic,ci,ci
 2022-07-06T06:07:02.250Z,34.2933333,-119.676,0.72,2.25,ml,30,116,0.1505,0.27,ci,ci40297856,2022-07-06T06:17:47.780Z,"14km S of Santa Barbara, CA",earthquake,0.63,31.61,0.157,27,automatic,ci,ci
 2022-07-06T05:55:56.153Z,64.9203,-150.3999,17.7,1.5,ml,,,,0.59,ak,ak0228lcsz33,2022-07-06T05:57:53.689Z,"14 km SE of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-07-06T05:42:19.960Z,36.8468333,-113.9123333,4.41,1.33,ml,7,281,0.3027,0.12,uu,uu60504607,2022-07-06T14:04:55.250Z,"4 km SSE of Littlefield, Arizona",earthquake,2.84,7.74,0.122,3,reviewed,uu,uu
 2022-07-06T05:41:57.130Z,33.5925,-116.6085,15.24,0.69,ml,12,65,0.01187,0.25,ci,ci40297840,2022-07-06T05:45:28.413Z,"7km NE of Anza, CA",earthquake,0.65,1.16,0.453,8,automatic,ci,ci
 2022-07-06T05:41:13.620Z,17.9411666666667,-66.9145,13.62,2.22,md,6,246,,0.07,pr,pr71357668,2022-07-06T06:52:27.990Z,"3 km SSW of Guánica, Puerto Rico",earthquake,0.69,0.33,0.100994436050813,4,reviewed,pr,pr
 2022-07-06T05:38:26.180Z,17.9518333333333,-66.9111666666667,13.81,2.17,md,19,204,,0.24,pr,pr71357658,2022-07-06T06:54:48.660Z,"2 km S of Guánica, Puerto Rico",earthquake,0.74,0.38,0.0998299188268659,11,reviewed,pr,pr
