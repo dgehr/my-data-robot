@@ -240,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-08T20:07:11.670Z,33.5168333,-116.4533333,7.23,0.55,ml,17,68,0.024,0.15,ci,ci40300128,2022-07-08T20:10:48.477Z,"21km ESE of Anza, CA",earthquake,0.34,0.67,0.141,12,automatic,ci,ci
 2022-07-08T20:05:41.770Z,39.431,-110.319,-0.95,1.77,md,6,191,0.008355,0.04,uu,uu60505037,2022-07-08T21:37:59.107Z,"14 km SSE of Sunnyside, Utah",earthquake,1.26,0.2,0.207,6,reviewed,uu,uu
 2022-07-08T20:00:49.680Z,38.1156667,-122.176,-0.11,1.1,md,6,186,0.0223,0.06,nc,nc73756451,2022-07-08T20:19:13.872Z,"5km E of Vallejo, CA",quarry blast,0.78,31.61,0.349,6,reviewed,nc,nc
-2022-07-08T19:50:14.450Z,32.8008333,-115.4698333,5.44,1.77,ml,15,130,0.01992,0.18,ci,ci40300104,2022-07-08T19:53:54.873Z,"8km E of El Centro, CA",earthquake,0.5,0.57,0.209,28,automatic,ci,ci
