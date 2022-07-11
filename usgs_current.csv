@@ -196,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-10T11:35:40.770Z,38.7705,-122.738,0.82,0.03,md,17,73,0.01276,0.03,nc,nc73757051,2022-07-10T17:36:10.847Z,"2km ESE of The Geysers, CA",earthquake,0.22,0.25,0.111,4,reviewed,nc,nc
 2022-07-10T11:18:29.290Z,48.83416666666667,-122.12916666666666,-0.41,2.0100000000000002,ml,17,47,0.05707,0.31,uw,uw61851512,2022-07-10T16:36:58.340Z,"6 km E of Deming, Washington",earthquake,0.36,1.24,0.09249773408024309,13,reviewed,uw,uw
 2022-07-10T10:58:43.390Z,33.5175,-116.4325,5.5,0.41,ml,16,75,0.09143,0.14,ci,ci40301192,2022-07-10T15:21:26.239Z,"20km SW of La Quinta, CA",earthquake,0.28,1.35,0.215,7,reviewed,ci,ci
-2022-07-10T10:46:37.578Z,64.4255,-149.5258,13.7,0.7,ml,,,,0.36,ak,ak0228s1vk7h,2022-07-10T10:48:45.548Z,"18 km WNW of Anderson, Alaska",earthquake,,1,,,automatic,ak,ak
