@@ -54,6 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-11T08:00:04.460Z,37.4794998,-121.8361664,5.83,1.97,md,31,63,0.03044,0.08,nc,nc73757346,2022-07-11T08:33:13.654Z,"8km NE of Milpitas, CA",earthquake,0.21,0.51,0.17,29,automatic,nc,nc
 2022-07-11T07:53:15.630Z,17.967,-66.8791666666667,20.74,2.24,md,8,202,,0.12,pr,pr71358843,2022-07-11T08:25:17.020Z,"1 km SE of Maria Antonia, Puerto Rico",earthquake,0.64,0.56,0.078442980470137,6,reviewed,pr,pr
 2022-07-11T07:42:09.692Z,62.1635,-152.1577,99.8,1.2,ml,,,,0.41,ak,ak0228tnlotl,2022-07-11T07:45:01.303Z,"44 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-07-11T07:30:34.520Z,44.7055,-110.4098333,7.92,1.23,ml,12,227,0.07298,0.1,uu,uu60505227,2022-07-11T14:42:04.100Z,"37 km SE of Mammoth, Wyoming",earthquake,1.93,0.59,0.372,3,reviewed,uu,uu
 2022-07-11T07:26:33.970Z,33.4975,-116.4801667,11.98,0.33,ml,18,64,0.07338,0.23,ci,ci40301656,2022-07-11T07:30:07.463Z,"19km ESE of Anza, CA",earthquake,0.49,0.95,0.231,2,automatic,ci,ci
 2022-07-11T07:10:41.500Z,33.996,-116.2786667,10.69,0.57,ml,10,74,0.1123,0.13,ci,ci40301640,2022-07-11T07:14:18.132Z,"16km SSE of Joshua Tree, CA",earthquake,0.35,0.58,0.157,7,automatic,ci,ci
 2022-07-11T07:09:42.720Z,44.7765,-110.8151667,4.7,0.67,ml,8,186,0.0278,0.12,uu,uu60505222,2022-07-11T13:37:48.060Z,"23 km SSW of Mammoth, Wyoming",earthquake,2.06,2,0.55,2,reviewed,uu,uu
