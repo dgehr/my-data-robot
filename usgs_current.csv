@@ -229,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-11T10:09:14.507Z,62.9081,-148.3477,12,1.4,ml,,,,0.85,ak,ak0228tp6xfe,2022-07-11T10:11:58.387Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-11T10:01:20.610Z,33.5223333,-116.517,12.38,0.7,ml,20,55,0.03697,0.21,ci,ci40301672,2022-07-11T10:04:50.123Z,"15km ESE of Anza, CA",earthquake,0.37,0.65,0.193,15,automatic,ci,ci
 2022-07-11T10:01:01.419Z,38.2169,-117.8593,8.9,1.9,ml,21,96.26,0.1,0.1329,nn,nn00842566,2022-07-12T02:39:33.667Z,"29 km SE of Mina, Nevada",earthquake,,1.5,0.31,10,reviewed,nn,nn
-2022-07-11T09:39:01.420Z,38.8143349,-122.8264999,6.08,0.85,md,11,90,0.005846,0.04,nc,nc73757386,2022-07-11T11:03:10.632Z,"7km NW of The Geysers, CA",earthquake,0.72,1.02,,1,automatic,nc,nc
