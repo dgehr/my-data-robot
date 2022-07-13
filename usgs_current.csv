@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-13T08:34:36.140Z,33.8726667,-116.9428333,11.6,0.53,ml,12,163,0.1272,0.22,ci,ci40302848,2022-07-13T08:38:12.560Z,"7km SSE of Beaumont, CA",earthquake,1.05,1.64,0.139,13,automatic,ci,ci
 2022-07-13T08:00:18.870Z,17.9638333333333,-66.9418333333333,12.24,2.18,md,5,195,,0.08,pr,pr71359138,2022-07-13T08:13:12.610Z,"3 km WSW of Guánica, Puerto Rico",earthquake,0.66,0.91,0.0390499275010396,4,reviewed,pr,pr
 2022-07-13T07:57:32.690Z,37.6105003,-118.9148331,4.73,1.05,md,14,192,0.01822,0.02,nc,nc73758166,2022-07-13T08:15:17.059Z,"6km ESE of Mammoth Lakes, CA",earthquake,0.74,0.56,0.15,14,automatic,nc,nc
 2022-07-13T07:51:05.980Z,35.7801667,-117.5931667,6.14,0.63,ml,12,148,0.03567,0.13,ci,ci40302840,2022-07-13T07:54:41.214Z,"17km W of Searles Valley, CA",earthquake,0.38,0.59,0.109,7,automatic,ci,ci
@@ -239,7 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-12T08:53:07.155Z,38.7116,-116.1165,0,1.6,ml,8,154.84,0.84,0.1926,nn,nn00842679,2022-07-12T18:09:21.530Z,"89 km S of Eureka, Nevada",earthquake,,0,0.36,4,reviewed,nn,nn
 2022-07-12T08:47:22.071Z,60.5385,-147.6346,17.3,1.7,ml,,,,1.14,ak,ak0228vbrki7,2022-07-12T08:56:32.460Z,"56 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-12T08:44:15.503Z,57.929,-155.8861,1.6,1.3,ml,,,,0.21,ak,ak0228vbqwum,2022-07-12T08:45:40.397Z,"93 km ESE of Egegik, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-07-12T08:39:02.816Z,28.99749756,-97.58237592,3.154663086,2.8,ml,17,86,0.05693664596,0.7,tx,tx2022nnls,2022-07-12T11:29:40.336Z,"7 km WNW of Yorktown, Texas",earthquake,2.98088526,2.053959115,0.1,13,reviewed,tx,tx
-2022-07-12T08:35:36.700Z,35.744,-117.5233333,8.65,0.82,ml,12,260,0.09361,0.15,ci,ci40302264,2022-07-12T19:47:58.995Z,"11km WSW of Searles Valley, CA",earthquake,0.88,0.78,0.21,3,reviewed,ci,ci
-2022-07-12T08:26:10.220Z,34.1708333,-117.3178333,6.52,1.13,ml,51,44,0.03657,0.19,ci,ci40302256,2022-07-12T19:08:08.318Z,"3km NE of Muscoy, CA",earthquake,0.18,0.38,0.142,33,reviewed,ci,ci
-2022-07-12T08:25:45.510Z,34.6233333,-116.5605,9.26,1.27,ml,22,53,0.05651,0.14,ci,ci40302248,2022-07-12T18:54:52.018Z,"38km WSW of Ludlow, CA",earthquake,0.21,0.44,0.157,16,reviewed,ci,ci
