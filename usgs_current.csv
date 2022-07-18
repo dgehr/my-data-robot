@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-18T18:40:33.209Z,78.5958,6.0872,10,5.9,mww,115,55,1.192,0.93,us,us6000i3hy,2022-07-18T19:19:19.834Z,"218 km W of Longyearbyen, Svalbard and Jan Mayen",earthquake,7.9,1.8,0.04,61,reviewed,us,us
 2022-07-18T18:25:01.700Z,38.8376656,-122.8233337,1.81,1.16,md,24,62,0.009536,0.02,nc,nc73760321,2022-07-18T18:52:13.191Z,"9km WNW of Cobb, CA",earthquake,0.2,0.4,0.09,4,automatic,nc,nc
 2022-07-18T18:24:32.550Z,38.8388329,-122.8241653,1.76,0.86,md,11,92,0.008845,0.01,nc,nc73760316,2022-07-18T18:42:12.138Z,"9km WNW of Cobb, CA",earthquake,0.33,0.77,,1,automatic,nc,nc
-2022-07-18T18:19:24.330Z,37.2345,-118.5843333,12.53,1.45,md,11,255,0.1196,0.02,nc,nc73760311,2022-07-18T19:16:43.522Z,"18km SW of West Bishop, CA",earthquake,0.39,0.54,0.134,10,reviewed,nc,nc
+2022-07-18T18:19:24.330Z,37.2345,-118.5843333,12.53,1.45,md,11,255,0.1196,0.02,nc,nc73760311,2022-07-18T19:21:10.361Z,"18km SW of West Bishop, CA",earthquake,0.39,0.54,0.134,10,reviewed,nc,nc
 2022-07-18T18:17:46.180Z,19.1446666717529,-155.463165283203,30.6900005340576,2.02999997,md,29,172,,0.189999998,hv,hv73079087,2022-07-18T18:20:49.660Z,"6 km SSE of Pāhala, Hawaii",earthquake,0.85,1.04999995,1.36000001,10,automatic,hv,hv
 2022-07-18T18:05:15.715Z,38.8094,-118.8261,0.1,1.4,ml,9,81.98,0.298,0.2024,nn,nn00843170,2022-07-18T18:08:27.220Z,"15 km S of Schurz, Nevada",earthquake,,54,0.36,6,automatic,nn,nn
 2022-07-18T18:04:16.000Z,10.3373,126.159,55.21,4.6,mb,48,130,3.296,0.86,us,us6000i3hv,2022-07-18T19:17:21.040Z,"37 km NNE of Santa Monica, Philippines",earthquake,12.8,7.8,0.091,36,reviewed,us,us
@@ -232,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T19:38:07.750Z,44.2763333,-115.1536667,13.89,1.93,ml,8,86,0.892,0.54,mb,mb80551724,2022-07-18T13:37:48.391Z,"18 km WNW of Stanley, Idaho",earthquake,1.92,6.28,0.284,9,reviewed,mb,mb
 2022-07-17T19:36:03.730Z,37.3736667,-118.6923333,13.77,0.92,md,10,134,0.1049,0.01,nc,nc73759941,2022-07-18T01:57:10.968Z,"10km WSW of Round Valley, CA",earthquake,0.75,1.57,0.271,8,reviewed,nc,nc
 2022-07-17T19:33:14.313Z,68.6752,-148.4491,0,1.6,ml,,,,1.3,ak,ak02293rx1xa,2022-07-17T19:36:08.388Z,"134 km WNW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-07-17T19:21:32.548Z,38.6341,-116.1775,0.1,2.3,ml,8,184.78,0.809,0.1486,nn,nn00843125,2022-07-18T16:51:10.670Z,"99 km S of Eureka, Nevada",earthquake,,3.1,0.12,6,reviewed,nn,nn
