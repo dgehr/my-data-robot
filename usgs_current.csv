@@ -247,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T11:40:21.890Z,38.814167,-122.819664,1.22,0.85,md,10,95,0.009124,0.02,nc,nc73759736,2022-07-17T12:05:20.866Z,"7km NW of The Geysers, CA",earthquake,0.32,0.79,,1,automatic,nc,nc
 2022-07-17T11:40:08.138Z,36.7937,-116.247,0.6,-0.3,ml,9,211.53,0.072,0.2786,nn,nn00843104,2022-07-17T11:43:02.951Z,"47 km ESE of Beatty, Nevada",earthquake,,4.2,0.25,5,automatic,nn,nn
 2022-07-17T11:34:47.530Z,35.487,-118.2855,3,3.47,ml,67,23,0.1284,0.16,ci,ci40065175,2022-07-17T20:33:38.308Z,"22km ESE of Bodfish, CA",earthquake,0.11,0.53,0.155,202,reviewed,ci,ci
-2022-07-17T11:26:24.910Z,36.4843333,-89.5478333,8.29,1.84,md,27,56,0.05476,0.05,nm,nm60400022,2022-07-17T13:33:58.380Z,"6 km ESE of Marston, Missouri",earthquake,0.54,0.88,0.155,21,reviewed,nm,nm
