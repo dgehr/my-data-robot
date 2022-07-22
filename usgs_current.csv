@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-22T23:28:37.920Z,38.8213348,-122.81633,4.94,0.35,md,10,61,0.005302,0.06,nc,nc73761756,2022-07-22T23:30:15.165Z,"7km NW of The Geysers, CA",earthquake,0.79,1.1,,1,automatic,nc,nc
+2022-07-22T23:35:59.255Z,59.6534,-153.4095,118.6,1.2,ml,,,,0.23,ak,ak0229c401sl,2022-07-22T23:41:45.496Z,"41 km ESE of Pedro Bay, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2022-07-22T23:28:37.920Z,38.8213348,-122.81633,4.94,0.35,md,10,61,0.005302,0.06,nc,nc73761756,2022-07-22T23:37:11.401Z,"7km NW of The Geysers, CA",earthquake,0.79,1.1,,1,automatic,nc,nc
 2022-07-22T23:24:36.680Z,33.2915,-116.2663333,2.14,0.94,ml,36,66,0.07942,0.26,ci,ci40068135,2022-07-22T23:28:09.610Z,"11km ENE of Borrego Springs, CA",earthquake,0.36,0.52,0.107,19,automatic,ci,ci
 2022-07-22T23:23:34.980Z,38.8269997,-122.8146667,2.38,0.85,md,11,72,0.005082,0.02,nc,nc73761751,2022-07-22T23:32:10.372Z,"8km NW of The Geysers, CA",earthquake,0.41,1.08,,1,automatic,nc,nc
 2022-07-22T23:23:05.870Z,38.8260002,-122.8119965,2.05,2.2,md,38,38,0.003004,0.05,nc,nc73761746,2022-07-22T23:29:12.354Z,"7km NW of The Geysers, CA",earthquake,0.17,0.28,0.06,15,automatic,nc,nc
@@ -18,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-22T21:45:14.012Z,38.0696,-118.9164,8.4,1.4,ml,8,179.52,0.577,0.1153,nn,nn00843442,2022-07-22T21:49:32.755Z,"20 km E of Mono City, California",earthquake,,6.9,0.16,5,automatic,nn,nn
 2022-07-22T21:38:50.810Z,33.7125,-117.3391667,0.78,1.28,ml,32,78,0.05376,0.2,ci,ci40068095,2022-07-22T21:42:21.988Z,"5km NNW of Lake Elsinore, CA",earthquake,0.35,0.65,0.162,26,automatic,ci,ci
 2022-07-22T21:37:50.720Z,33.684,-116.746,15.3,1.44,ml,48,30,0.03793,0.16,ci,ci40068087,2022-07-22T21:48:49.480Z,"7km SSW of Idyllwild, CA",earthquake,0.19,0.34,0.173,26,automatic,ci,ci
-2022-07-22T21:24:11.270Z,39.578167,-123.446167,0.43,2.26,md,17,112,0.06278,0.09,nc,nc73761706,2022-07-22T23:31:15.367Z,"13km SSE of Laytonville, CA",earthquake,0.29,4.64,0.13,12,automatic,nc,nc
+2022-07-22T21:24:11.270Z,39.578167,-123.446167,0.43,2.26,md,17,112,0.06278,0.09,nc,nc73761706,2022-07-22T23:44:10.546Z,"13km SSE of Laytonville, CA",earthquake,0.29,4.64,0.13,12,automatic,nc,nc
 2022-07-22T21:21:50.019Z,61.4809,-150.7752,32.6,1.4,ml,,,,0.34,ak,ak0229c2q5uh,2022-07-22T21:24:21.169Z,"15 km WSW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-22T21:07:32.463Z,11.7502,144.4219,10,4.8,mb,75,92,1.879,0.61,us,us7000hsu0,2022-07-22T21:49:08.874Z,"169 km S of Merizo Village, Guam",earthquake,9.8,1.9,0.041,186,reviewed,us,us
 2022-07-22T21:00:22.870Z,38.4863319,-122.5674973,-0.55,1.54,md,6,167,0.3674,0.32,nc,nc73761696,2022-07-22T23:01:11.200Z,"8km NNW of Kenwood, CA",earthquake,7.5,16.15,,1,automatic,nc,nc
