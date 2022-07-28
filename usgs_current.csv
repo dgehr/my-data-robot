@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-28T05:17:23.580Z,37.4956665,-118.8665009,6.18,1.67,md,18,188,0.09877,0.02,nc,nc73763646,2022-07-28T05:18:57.174Z,"18km WSW of Toms Place, CA",earthquake,0.54,1.73,0.08,19,automatic,nc,nc
-2022-07-28T05:08:14.870Z,38.7820015,-122.7761688,3.34,0.88,md,19,89,0.0139,0.04,nc,nc73763641,2022-07-28T05:16:09.719Z,"2km WNW of The Geysers, CA",earthquake,0.34,0.61,0.15,4,automatic,nc,nc
+2022-07-28T05:36:55.980Z,33.6865,-116.7573333,15.79,0.29,ml,14,101,0.04359,0.15,ci,ci40070911,2022-07-28T05:40:30.598Z,"7km SSW of Idyllwild, CA",earthquake,0.51,0.46,0.214,4,automatic,ci,ci
+2022-07-28T05:17:23.580Z,37.4956665,-118.8665009,6.18,1.67,md,18,188,0.09877,0.02,nc,nc73763646,2022-07-28T05:35:20.857Z,"18km WSW of Toms Place, CA",earthquake,0.54,1.73,0.08,19,automatic,nc,nc
+2022-07-28T05:08:14.870Z,38.7820015,-122.7761688,3.34,0.88,md,19,89,0.0139,0.04,nc,nc73763641,2022-07-28T05:24:14.770Z,"2km WNW of The Geysers, CA",earthquake,0.34,0.61,0.15,4,automatic,nc,nc
 2022-07-28T05:02:07.963Z,38.1986,-117.7424,7.6,1.2,ml,16,159.99,0.125,0.0913,nn,nn00843765,2022-07-28T05:05:38.978Z,"38 km ESE of Mina, Nevada",earthquake,,0.9,0.2,10,automatic,nn,nn
-2022-07-28T04:57:48.050Z,60.4984,-150.4442,23.1,2,ml,,,,0.44,ak,ak0229lq1l5h,2022-07-28T05:22:48.922Z,"17 km E of Funny River, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-07-28T04:57:48.050Z,60.4984,-150.4442,23.1,2,ml,,,,0.44,ak,ak0229lq1l5h,2022-07-28T05:38:45.896Z,"17 km E of Funny River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-28T04:33:30.300Z,38.7958336,-122.7180023,2.65,0.7,md,9,105,0.0193,0.02,nc,nc73763636,2022-07-28T04:54:14.577Z,"3km S of Cobb, CA",earthquake,0.37,1.3,0.18,2,automatic,nc,nc
 2022-07-28T04:15:44.223Z,63.2116,-150.5913,107.8,1.5,ml,,,,0.24,ak,ak0229lpsjwo,2022-07-28T04:18:58.261Z,"67 km ESE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2022-07-28T04:15:03.414Z,-21.9814,-70.4681,44.45,6.1,mww,80,79,0.666,1.3,us,us6000i636,2022-07-28T05:20:36.978Z,"30 km WNW of Tocopilla, Chile",earthquake,5.6,5.3,0.052,35,reviewed,us,us
+2022-07-28T04:15:03.414Z,-21.9814,-70.4681,44.45,6.1,mww,80,79,0.666,1.3,us,us6000i636,2022-07-28T05:39:09.658Z,"30 km WNW of Tocopilla, Chile",earthquake,5.6,5.3,0.052,35,reviewed,us,us
 2022-07-28T04:13:01.210Z,36.435833,-121.0220032,8.4,1.47,md,11,115,0.0349,0.11,nc,nc73763626,2022-07-28T04:43:15.503Z,"15km SE of Pinnacles, CA",earthquake,0.47,0.92,0.14,8,automatic,nc,nc
 2022-07-28T04:05:01.200Z,38.7893333,-122.7573318,2.61,0.36,md,8,123,0.01722,0.01,nc,nc73763621,2022-07-28T04:33:14.432Z,"1km N of The Geysers, CA",earthquake,0.53,1.41,,1,automatic,nc,nc
 2022-07-28T03:36:09.040Z,38.822834,-122.7894974,1.72,0.72,md,17,38,0.01178,0.03,nc,nc73763616,2022-07-28T04:01:14.226Z,"6km W of Cobb, CA",earthquake,0.26,0.49,0.2,3,automatic,nc,nc
@@ -97,6 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-27T16:47:03.790Z,0.436,126.3755,42.34,4.7,mb,83,42,1.045,0.98,us,us6000i5yf,2022-07-27T23:11:26.040Z,"118 km WSW of Ternate, Indonesia",earthquake,6,6.8,0.063,76,reviewed,us,us
 2022-07-27T16:46:37.580Z,33.6643333,-116.9248333,15.38,0.51,ml,9,125,0.0227,0.08,ci,ci40070639,2022-07-27T18:06:08.565Z,"10km SSW of Valle Vista, CA",earthquake,0.61,0.49,0.026,2,reviewed,ci,ci
 2022-07-27T16:38:34.450Z,38.8353348,-122.8078308,2.21,1.03,md,19,51,0.01205,0.01,nc,nc73763431,2022-07-27T18:10:10.501Z,"8km WNW of Cobb, CA",earthquake,0.24,0.5,0.14,3,automatic,nc,nc
+2022-07-27T16:38:16.917Z,44.6814,-74.5489,3.99,1.1,ml,5,197,0.066,0.2,us,us6000i63i,2022-07-28T05:23:37.040Z,"0 km NNW of Saint Regis Falls, New York",earthquake,5.6,7.4,0.148,6,reviewed,us,us
 2022-07-27T16:29:22.062Z,-24.0747,-66.8327,206.42,4.1,mb,25,110,1.666,0.71,us,us6000i5yb,2022-07-27T22:14:16.040Z,"54 km WNW of San Antonio de los Cobres, Argentina",earthquake,12.7,16.6,0.261,4,reviewed,us,us
 2022-07-27T16:20:42.036Z,59.8263,-153.3891,127.9,1.2,ml,,,,0.74,ak,ak0229k9fhyb,2022-07-27T16:23:47.537Z,"40 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-27T16:18:35.530Z,40.3211667,-124.1163333,28.76,1.45,md,14,74,0.01401,0.07,nc,nc73763416,2022-07-28T03:53:10.353Z,"14km E of Petrolia, CA",earthquake,0.67,0.82,0.152,7,reviewed,nc,nc
@@ -223,6 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-27T05:54:36.457Z,37.2729,-116.1426,3,0.1,ml,8,250.19,0.046,0.1602,nn,nn00843728,2022-07-28T02:39:49.037Z,"54 km SW of Rachel, Nevada",earthquake,,3,0.72,6,reviewed,nn,nn
 2022-07-27T05:44:02.928Z,31.69309997,-104.3681467,7.031347656,2.8,ml,13,90,0.1156847232,0.2,tx,tx2022ooqm,2022-07-28T02:44:39.202Z,"53 km S of Whites City, New Mexico",earthquake,1.414212441,2.076076652,0.2,9,reviewed,tx,tx
 2022-07-27T05:41:51.650Z,33.1921667,-115.6023333,1.86,1.86,ml,46,43,0.01842,0.21,ci,ci40070319,2022-07-27T15:22:12.341Z,"9km SW of Niland, CA",earthquake,0.2,0.23,0.181,48,reviewed,ci,ci
-2022-07-27T05:40:30.600Z,38.821,-122.807,2.67,0.4,md,22,47,0.003389,0.02,nc,nc73763301,2022-07-28T02:22:16.624Z,"6km NW of The Geysers, CA",earthquake,0.25,0.47,0.14,3,reviewed,nc,nc
-2022-07-27T05:35:26.459Z,31.67955447,-104.366145,7.828295898,3.7,ml,24,60,0.08667507968,0.2,tx,tx2022ooqf,2022-07-28T03:33:03.583Z,"55 km S of Whites City, New Mexico",earthquake,0.9155472437,1.147866571,0.1,19,reviewed,tx,tx
-2022-07-27T05:24:54.605Z,62.7394,-150.8935,101.1,1.1,ml,,,,0.62,ak,ak0229k2wm50,2022-07-27T05:27:04.828Z,"27 km NNW of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
