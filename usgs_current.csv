@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-28T05:42:26.430Z,38.8348351,-122.8123322,2.04,1.14,md,23,54,0.01156,0.02,nc,nc73763651,2022-07-28T05:44:02.462Z,"8km W of Cobb, CA",earthquake,0.21,0.38,0.05,5,automatic,nc,nc
 2022-07-28T05:36:55.980Z,33.6865,-116.7573333,15.79,0.29,ml,14,101,0.04359,0.15,ci,ci40070911,2022-07-28T05:40:30.598Z,"7km SSW of Idyllwild, CA",earthquake,0.51,0.46,0.214,4,automatic,ci,ci
 2022-07-28T05:17:23.580Z,37.4956665,-118.8665009,6.18,1.67,md,18,188,0.09877,0.02,nc,nc73763646,2022-07-28T05:35:20.857Z,"18km WSW of Toms Place, CA",earthquake,0.54,1.73,0.08,19,automatic,nc,nc
 2022-07-28T05:08:14.870Z,38.7820015,-122.7761688,3.34,0.88,md,19,89,0.0139,0.04,nc,nc73763641,2022-07-28T05:24:14.770Z,"2km WNW of The Geysers, CA",earthquake,0.34,0.61,0.15,4,automatic,nc,nc
@@ -223,5 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-27T06:04:07.453Z,38.6965,-119.2247,4.3,0.7,ml,10,99.35,0.107,0.1784,nn,nn00843743,2022-07-28T02:40:05.613Z,"14 km SE of Smith Valley, Nevada",earthquake,,4.4,0.14,6,reviewed,nn,nn
 2022-07-27T05:58:03.979Z,61.0477,-150.1142,41.4,1.9,ml,,,,0.59,ak,ak0229k33skt,2022-07-27T06:00:01.095Z,"22 km SSW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-27T05:54:36.457Z,37.2729,-116.1426,3,0.1,ml,8,250.19,0.046,0.1602,nn,nn00843728,2022-07-28T02:39:49.037Z,"54 km SW of Rachel, Nevada",earthquake,,3,0.72,6,reviewed,nn,nn
-2022-07-27T05:44:02.928Z,31.69309997,-104.3681467,7.031347656,2.8,ml,13,90,0.1156847232,0.2,tx,tx2022ooqm,2022-07-28T02:44:39.202Z,"53 km S of Whites City, New Mexico",earthquake,1.414212441,2.076076652,0.2,9,reviewed,tx,tx
-2022-07-27T05:41:51.650Z,33.1921667,-115.6023333,1.86,1.86,ml,46,43,0.01842,0.21,ci,ci40070319,2022-07-27T15:22:12.341Z,"9km SW of Niland, CA",earthquake,0.2,0.23,0.181,48,reviewed,ci,ci
