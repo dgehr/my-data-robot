@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-30T23:23:01.670Z,33.9053333,-117.044,13.83,1.4,ml,45,32,0.1411,0.21,ci,ci40072551,2022-07-30T23:26:41.513Z,"7km WSW of Beaumont, CA",earthquake,0.24,0.7,0.154,27,automatic,ci,ci
 2022-07-30T23:02:05.450Z,33.327,-116.1968333,8.74,1.13,ml,9,124,0.3788,0.35,ci,ci40072535,2022-07-30T23:05:36.289Z,"18km SSW of Oasis, CA",earthquake,1.77,31.61,0.234,10,automatic,ci,ci
 2022-07-30T22:50:00.400Z,19.220666885376,-155.38850402832,31.8600006103516,1.83000004,md,26,168,,0.109999999,hv,hv73092872,2022-07-30T22:53:07.480Z,"Island of Hawaii, Hawaii",earthquake,0.84,0.720000029,1.82000005,5,automatic,hv,hv
 2022-07-30T22:41:09.781Z,63.8459,-148.6939,90.7,2.2,ml,,,,0.75,ak,ak0229pbqkjd,2022-07-30T22:43:05.163Z,"13 km E of Healy, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -81,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-30T11:56:23.681Z,38.5774,-119.454,8,0.8,ml,10,146.15,0.052,0.1612,nn,nn00843871,2022-07-30T12:00:48.373Z,"California-Nevada border region",earthquake,,0.8,0.45,4,automatic,nn,nn
 2022-07-30T11:53:37.222Z,61.5167,-149.9359,32.2,1.3,ml,,,,0.58,ak,ak0229p59foa,2022-07-30T11:55:10.544Z,"1 km ESE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-30T11:53:10.000Z,18.7603333333333,-66.6866666666667,6.87,2.87,md,24,246,,0.29,pr,pr71361648,2022-07-30T13:55:16.650Z,"32 km N of Arecibo, Puerto Rico",earthquake,0.89,1.18,0.107023368239491,13,reviewed,pr,pr
-2022-07-30T11:41:13.890Z,34.1655,-80.7193333,3.63,1.78,md,6,142,0.03475,0.32,se,se60157943,2022-07-30T22:30:38.899Z,"6 km E of Elgin, South Carolina",earthquake,1.41,2,0.085,4,reviewed,se,se
+2022-07-30T11:41:13.890Z,34.1655,-80.7193333,3.63,1.78,md,6,142,0.03475,0.32,se,se60157943,2022-07-30T23:25:40.547Z,"6 km E of Elgin, South Carolina",earthquake,1.41,2,0.085,4,reviewed,se,se
 2022-07-30T11:25:40.907Z,38.5811,-119.4465,7.6,1.2,ml,12,61.39,0.058,0.169,nn,nn00843868,2022-07-30T11:28:40.201Z,"5 km ENE of Coleville, California",earthquake,,0.8,0.29,9,automatic,nn,nn
 2022-07-30T11:25:16.920Z,17.9843333333333,-66.8383333333333,15.75,2.41,md,15,165,,0.17,pr,pr71361638,2022-07-30T11:50:33.500Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.53,0.54,0.0507899633576141,5,reviewed,pr,pr
 2022-07-30T11:17:06.639Z,61.7155,-151.7827,96.9,1.3,ml,,,,0.52,ak,ak0229p51njb,2022-07-30T11:19:11.493Z,"36 km SSW of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
