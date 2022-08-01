@@ -200,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-31T08:00:15.493Z,13.895,-92.2683,35,4.1,mb,44,171,1.829,0.71,us,us6000i6xk,2022-07-31T08:28:30.040Z,"58 km SW of Champerico, Guatemala",earthquake,5.9,2,0.064,68,reviewed,us,us
 2022-07-31T07:58:20.630Z,36.0009995,-120.5618362,1.63,1.2,md,18,89,0.02211,0.06,nc,nc73764606,2022-07-31T10:39:17.170Z,"16km NW of Parkfield, CA",earthquake,0.27,0.56,0.22,9,automatic,nc,nc
 2022-07-31T07:57:44.550Z,17.8385,-66.1921666666667,5.43,2.84,md,9,234,,0.13,pr,pr71361808,2022-07-31T08:09:54.950Z,"13 km SSE of Central Aguirre, Puerto Rico",earthquake,0.59,0.4,0.0779504580358368,5,reviewed,pr,pr
-2022-07-31T07:43:12.710Z,19.1028327941895,-155.412170410156,31.6900005340576,2.23000002,md,29,189,,0.140000001,hv,hv73093277,2022-07-31T07:46:29.990Z,"13 km SSE of Pāhala, Hawaii",earthquake,0.69,1.51999998,1.11000001,3,automatic,hv,hv
-2022-07-31T07:42:37.358Z,59.7259,-153.2658,107.4,1.5,ml,,,,0.24,ak,ak0229qqcovr,2022-07-31T07:44:25.479Z,"47 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
