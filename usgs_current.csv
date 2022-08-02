@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-02T07:32:42.250Z,35.9631653,-120.5240021,5.91,0.64,md,13,118,0.02294,0.05,nc,nc73762985,2022-08-02T07:34:18.537Z,"11km NW of Parkfield, CA",earthquake,0.51,0.94,0.11,4,automatic,nc,nc
+2022-08-02T07:32:42.250Z,35.9631653,-120.5240021,5.91,0.64,md,13,118,0.02294,0.05,nc,nc73762985,2022-08-02T07:44:10.677Z,"11km NW of Parkfield, CA",earthquake,0.51,0.94,0.11,4,automatic,nc,nc
 2022-08-02T07:10:43.720Z,38.8240013,-122.8058319,2.36,0.88,md,23,49,0.003368,0.02,nc,nc73762975,2022-08-02T07:28:16.578Z,"7km NW of The Geysers, CA",earthquake,0.21,0.43,0.08,5,automatic,nc,nc
 2022-08-02T07:05:34.150Z,19.2215003967285,-155.425506591797,0.219999998807907,1.87,md,36,131,,0.209999993,hv,hv73095267,2022-08-02T07:08:44.430Z,"5 km ENE of Pāhala, Hawaii",earthquake,0.4,0.280000001,0.850000024,12,automatic,hv,hv
 2022-08-02T07:01:38.250Z,38.786335,-122.7498322,0.74,1.21,md,21,80,0.0107,0.04,nc,nc73762970,2022-08-02T07:18:17.507Z,"1km NNE of The Geysers, CA",earthquake,0.22,0.4,0.06,6,automatic,nc,nc
@@ -209,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-01T07:59:51.190Z,46.273,-122.3625,12.57,0.4,ml,17,196,0.03537,0.14,uw,uw61868131,2022-08-01T21:01:13.030Z,"30 km SSE of Mossyrock, Washington",earthquake,0.74,0.67,0.13911068328232876,8,reviewed,uw,uw
 2022-08-01T07:54:46.530Z,38.8433342,-122.8249969,2.07,0.97,md,17,94,0.009464,0.02,nc,nc73765001,2022-08-01T09:15:10.354Z,"9km WNW of Cobb, CA",earthquake,0.27,0.46,0.21,3,automatic,nc,nc
 2022-08-01T07:50:15.750Z,33.9538333,-116.751,18.28,0.46,ml,14,148,0.1203,0.15,ci,ci40073287,2022-08-01T07:53:40.248Z,"5km NE of Cabazon, CA",earthquake,0.43,0.88,0.079,9,automatic,ci,ci
-2022-08-01T07:45:08.760Z,34.0288333,-116.7363333,18.46,0.66,ml,18,81,0.05967,0.17,ci,ci40073279,2022-08-01T07:48:36.878Z,"13km NNE of Cabazon, CA",earthquake,0.33,0.88,0.107,17,automatic,ci,ci
