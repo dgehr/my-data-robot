@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-07T04:50:27.330Z,35.6805,-117.5445,9,1.43,ml,22,91,0.1417,0.19,ci,ci40076775,2022-08-07T04:53:56.670Z,"14km ENE of Ridgecrest, CA",earthquake,0.41,0.99,0.182,18,automatic,ci,ci
+2022-08-07T04:42:08.303Z,61.5385,-149.9415,34.3,1.3,ml,,,,0.61,ak,ak022a29bra6,2022-08-07T04:43:51.728Z,"2 km NNE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-07T04:39:06.822Z,61.1229,-150.4118,17,1.3,ml,,,,0.41,ak,ak022a29b40q,2022-08-07T04:40:51.290Z,"26 km NE of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-08-07T04:37:42.660Z,35.9118347,-117.7193298,2.3,1.35,ml,12,162,0.08819,0.09,ci,ci40076767,2022-08-07T04:39:47.744Z,"17km E of Little Lake, CA",earthquake,0.38,0.33,0.641,9,automatic,ci,ci
-2022-08-07T04:34:24.880Z,36.8165016,-121.5446701,6.8,2.27,md,44,53,0.03311,0.16,nc,nc73764990,2022-08-07T04:37:34.053Z,"3km S of San Juan Bautista, CA",earthquake,0.3,0.56,0.14,40,automatic,nc,nc
+2022-08-07T04:37:42.660Z,35.91,-117.7211667,2.44,0.5,ml,11,160,0.08765,0.08,ci,ci40076767,2022-08-07T04:41:07.595Z,"17km E of Little Lake, CA",earthquake,0.28,0.25,0.13,4,automatic,ci,ci
+2022-08-07T04:34:24.880Z,36.8165016,-121.5446701,6.8,2.27,md,44,53,0.03311,0.16,nc,nc73764990,2022-08-07T04:41:24.976Z,"3km S of San Juan Bautista, CA",earthquake,0.3,0.56,0.14,40,automatic,nc,nc
 2022-08-07T04:24:17.560Z,35.6028333,-117.5808333,7.16,0.92,ml,12,116,0.1482,0.22,ci,ci40076759,2022-08-07T04:27:49.511Z,"9km ESE of Ridgecrest, CA",earthquake,0.58,3.09,0.238,10,automatic,ci,ci
+2022-08-07T04:19:34.550Z,17.8716666666667,-66.9023333333333,14.83,2.2,md,5,293,,0.05,pr,pr71363513,2022-08-07T04:42:34.260Z,"11 km S of Guánica, Puerto Rico",earthquake,0.66,1.13,0.0338833944893313,4,reviewed,pr,pr
 2022-08-07T04:16:59.570Z,35.6746667,-117.515,9.45,0.58,ml,7,217,0.156,0.11,ci,ci40076751,2022-08-07T04:20:26.141Z,"14km SW of Searles Valley, CA",earthquake,0.72,1.18,0.148,7,automatic,ci,ci
 2022-08-07T04:08:37.670Z,36.2168333,-117.8853333,7.97,0.87,ml,15,65,0.1021,0.21,ci,ci40076743,2022-08-07T04:12:07.406Z,"13km SE of Olancha, CA",earthquake,0.52,1.54,0.274,4,automatic,ci,ci
 2022-08-07T04:06:39.226Z,61.5319,-150.6374,34.1,1.8,ml,,,,0.4,ak,ak022a2943w2,2022-08-07T04:08:35.475Z,"6 km W of Susitna, Alaska",earthquake,,2.2,,,automatic,ak,ak
@@ -38,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-06T23:51:41.490Z,17.8626666666667,-66.8926666666667,14.66,2.14,md,7,283,,0.07,pr,pr71363448,2022-08-07T00:20:50.770Z,"12 km S of Guánica, Puerto Rico",earthquake,0.58,0.73,0.0679826500816141,3,reviewed,pr,pr
 2022-08-06T23:48:35.910Z,38.7733345,-122.7283325,0.13,0.87,md,8,70,0.01203,0.18,nc,nc73764940,2022-08-07T01:21:15.732Z,"2km E of The Geysers, CA",earthquake,0.87,1.92,0.02,4,automatic,nc,nc
 2022-08-06T23:29:21.860Z,35.7398333,-117.5116667,10.55,0.75,ml,9,170,0.103,0.16,ci,ci40076687,2022-08-06T23:32:56.665Z,"10km WSW of Searles Valley, CA",earthquake,0.65,1.15,0.151,7,automatic,ci,ci
-2022-08-06T23:28:57.780Z,18.0638333333333,-66.8831666666667,18.65,2.2,md,7,138,,0.15,pr,pr71363438,2022-08-07T00:11:17.620Z,"Puerto Rico region",earthquake,0.66,0.95,0.0847642802231592,5,reviewed,pr,pr
+2022-08-06T23:28:57.780Z,18.0638333333333,-66.8831666666667,18.65,2.2,md,7,138,,0.15,pr,pr71363438,2022-08-07T00:11:17.620Z,"3 km NE of Lluveras, Puerto Rico",earthquake,0.66,0.95,0.0847642802231592,5,reviewed,pr,pr
 2022-08-06T23:27:58.910Z,17.8808333333333,-66.9016666666667,14.35,2.33,md,7,260,,0.1,pr,pr71363443,2022-08-06T23:34:10.260Z,"10 km S of Guánica, Puerto Rico",earthquake,0.71,0.8,0.0404376415117809,5,reviewed,pr,pr
 2022-08-06T23:26:31.432Z,62.6957,-151.8592,0,1.2,ml,,,,0.86,ak,ak022a0x09m4,2022-08-06T23:29:06.283Z,"60 km WNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-06T23:25:26.520Z,37.2417,-117.5397,4.1,0.8,ml,19,113.55,0.085,0.2745,nn,nn00844334,2022-08-06T23:28:33.268Z,"57 km S of Silver Peak, Nevada",earthquake,,2.1,0.98,12,automatic,nn,nn
