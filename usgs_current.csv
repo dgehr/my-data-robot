@@ -219,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-06T11:48:02.062Z,51.1707,160.9315,10,5,mb,88,118,2.329,0.69,us,us6000i8me,2022-08-06T12:07:13.040Z,"261 km SE of Vilyuchinsk, Russia",earthquake,7.87,1.857,0.024,534,reviewed,us,us
 2022-08-06T11:03:20.960Z,38.0225,-122.359,9.3,1.4,md,48,81,0.01366,0.08,nc,nc73764815,2022-08-06T20:28:16.735Z,"4km NW of Bayview-Montalvin, CA",earthquake,0.16,0.3,0.296,39,reviewed,nc,nc
 2022-08-06T11:00:50.700Z,33.0863333,-116.1655,2.4,1.18,ml,10,141,0.0692,0.21,ci,ci40076407,2022-08-06T11:04:26.851Z,"7km SSW of Ocotillo Wells, CA",earthquake,1.12,1.72,0.383,5,automatic,ci,ci
-2022-08-06T10:52:36.453Z,41.3621,-125.9014,10,2.5,ml,24,255,1.516,0.57,us,us6000i8ma,2022-08-06T11:52:34.197Z,"148 km WSW of Crescent City, California",earthquake,6.71,2.015,0.05,52,reviewed,us,us
-2022-08-06T10:50:50.050Z,33.0435,-116.4368333,3.01,0.72,ml,20,81,0.14,0.23,ci,ci40076391,2022-08-06T10:54:21.809Z,"16km ESE of Julian, CA",earthquake,0.48,2.04,0.13,9,automatic,ci,ci
