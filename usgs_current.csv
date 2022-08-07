@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-07T11:15:01.950Z,33.0248333,-116.2728333,5.67,1,ml,29,61,0.0746,0.22,ci,ci40076871,2022-08-07T11:18:39.065Z,"19km SW of Ocotillo Wells, CA",earthquake,0.43,1.08,0.133,13,automatic,ci,ci
 2022-08-07T11:09:15.030Z,19.5261669158936,-155.654327392578,1.69000005722046,2.02,ml,34,73,,0.270000011,hv,hv73101692,2022-08-07T11:14:45.410Z,"23 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.48,0.790000021,4.15,7,automatic,hv,hv
 2022-08-07T11:05:54.605Z,61.5492,-149.8119,33.4,1.2,ml,,,,0.42,ak,ak022a2d9ylg,2022-08-07T11:07:50.104Z,"8 km ENE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-08-07T11:05:08.670Z,38.8041649,-122.7519989,0.63,0.86,md,16,105,0.006987,0.04,nc,nc73765075,2022-08-07T11:14:11.516Z,"3km N of The Geysers, CA",earthquake,0.24,0.67,0.11,4,automatic,nc,nc
+2022-08-07T11:05:08.670Z,38.8041649,-122.7519989,0.63,0.86,md,16,105,0.006987,0.04,nc,nc73765075,2022-08-07T11:25:15.593Z,"3km N of The Geysers, CA",earthquake,0.24,0.67,0.11,4,automatic,nc,nc
 2022-08-07T10:49:27.111Z,55.5774,-149.2856,10,3.5,ml,48,216,2.863,0.51,us,us6000i8vb,2022-08-07T11:00:14.040Z,"291 km SE of Chiniak, Alaska",earthquake,10.58,2.014,0.059,38,reviewed,us,us
 2022-08-07T10:30:28.792Z,59.9723,-153.4138,150.6,1.9,ml,,,,0.53,ak,ak022a2cttx5,2022-08-07T10:46:33.040Z,"43 km ENE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-08-07T10:21:38.909Z,58.3126,-152.4602,35.1,2.3,ml,,,,0.6,ak,ak022a2crx8i,2022-08-07T10:40:13.040Z,"38 km NE of Aleneva, Alaska",earthquake,,1.9,,,automatic,ak,ak
@@ -94,7 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-06T23:51:41.490Z,17.8626666666667,-66.8926666666667,14.66,2.14,md,7,283,,0.07,pr,pr71363448,2022-08-07T00:20:50.770Z,"12 km S of Guánica, Puerto Rico",earthquake,0.58,0.73,0.0679826500816141,3,reviewed,pr,pr
 2022-08-06T23:48:35.910Z,38.7733345,-122.7283325,0.13,0.87,md,8,70,0.01203,0.18,nc,nc73764940,2022-08-07T01:21:15.732Z,"2km E of The Geysers, CA",earthquake,0.87,1.92,0.02,4,automatic,nc,nc
 2022-08-06T23:29:21.860Z,35.7398333,-117.5116667,10.55,0.75,ml,9,170,0.103,0.16,ci,ci40076687,2022-08-06T23:32:56.665Z,"10km WSW of Searles Valley, CA",earthquake,0.65,1.15,0.151,7,automatic,ci,ci
-2022-08-06T23:28:57.780Z,18.0638333333333,-66.8831666666667,18.65,2.2,md,7,138,,0.15,pr,pr71363438,2022-08-07T00:11:17.620Z,"3 km NE of Lluveras, Puerto Rico",earthquake,0.66,0.95,0.0847642802231592,5,reviewed,pr,pr
+2022-08-06T23:28:57.780Z,18.0638333333333,-66.8831666666667,18.65,2.2,md,7,138,,0.15,pr,pr71363438,2022-08-07T00:11:17.620Z,"Puerto Rico region",earthquake,0.66,0.95,0.0847642802231592,5,reviewed,pr,pr
 2022-08-06T23:27:58.910Z,17.8808333333333,-66.9016666666667,14.35,2.33,md,7,260,,0.1,pr,pr71363443,2022-08-06T23:34:10.260Z,"10 km S of Guánica, Puerto Rico",earthquake,0.71,0.8,0.0404376415117809,5,reviewed,pr,pr
 2022-08-06T23:26:31.432Z,62.6957,-151.8592,0,1.2,ml,,,,0.86,ak,ak022a0x09m4,2022-08-06T23:29:06.283Z,"60 km WNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-06T23:25:26.520Z,37.2417,-117.5397,4.1,0.8,ml,19,113.55,0.085,0.2745,nn,nn00844334,2022-08-06T23:28:33.268Z,"57 km S of Silver Peak, Nevada",earthquake,,2.1,0.98,12,automatic,nn,nn
