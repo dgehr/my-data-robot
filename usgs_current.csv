@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-08T18:01:00.980Z,34.0758333,-116.996,18.18,0.95,ml,20,140,0.05293,0.25,ci,ci40077567,2022-08-08T18:04:41.025Z,"6km NE of Yucaipa, CA",earthquake,0.54,0.86,0.251,25,automatic,ci,ci
 2022-08-08T17:42:01.300Z,36.5581665,-121.1281662,9.24,1.88,md,19,117,0.04802,0.1,nc,nc73765500,2022-08-08T17:53:12.309Z,"3km NNE of Pinnacles, CA",earthquake,0.35,0.9,0.17,18,automatic,nc,nc
 2022-08-08T17:07:43.930Z,33.3023333,-116.2975,12.85,0.59,ml,13,89,0.06073,0.17,ci,ci40077535,2022-08-08T17:11:17.487Z,"9km NE of Borrego Springs, CA",earthquake,0.4,0.74,0.18,8,automatic,ci,ci
 2022-08-08T16:55:08.970Z,36.4529991,-121.0166702,-0.71,2,md,17,76,0.02832,0.08,nc,nc73765475,2022-08-08T17:09:14.872Z,"14km SE of Pinnacles, CA",earthquake,0.52,0.65,0.19,16,automatic,nc,nc
@@ -7,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-08T16:39:38.860Z,46.195166666666665,-122.19066666666667,3.58,0.02,mh,11,124,0.02214,0.08,uw,uw61861117,2022-08-08T17:11:21.450Z,"37 km NNE of Amboy, Washington",earthquake,0.39,0.87,,0,reviewed,uw,uw
 2022-08-08T16:27:28.870Z,44.5598333,-110.6906667,7.94,0.63,md,11,113,0.05676,0.15,uu,uu60508942,2022-08-08T16:41:21.370Z,"34 km ESE of West Yellowstone, Montana",earthquake,0.51,0.8,0.192,6,reviewed,uu,uu
 2022-08-08T16:25:33.920Z,17.898,-66.8413333333333,15.21,2.56,md,7,237,,0.06,pr,pr71364068,2022-08-08T17:01:56.120Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.75,0.51,0.00280315965715383,3,reviewed,pr,pr
-2022-08-08T16:15:39.860Z,36.1643333,-120.1418304,4.11,1.78,md,9,212,0.1927,0.07,nc,nc73765465,2022-08-08T16:32:12.637Z,"6km SW of Huron, CA",earthquake,0.55,1.36,0.16,6,automatic,nc,nc
+2022-08-08T16:15:39.860Z,36.1643333,-120.1418304,4.11,1.78,md,9,212,0.1927,0.07,nc,nc73765465,2022-08-08T18:01:12.225Z,"6km SW of Huron, CA",earthquake,0.55,1.36,0.16,6,automatic,nc,nc
 2022-08-08T16:00:34.140Z,19.1866664886475,-155.494171142578,32.6699981689453,1.92999995,md,39,150,,0.129999995,hv,hv73102962,2022-08-08T16:03:47.000Z,"2 km SW of Pāhala, Hawaii",earthquake,0.72,1.26999998,1.11000001,7,automatic,hv,hv
 2022-08-08T15:55:40.880Z,39.4255,-110.2853333,-3.04,1.87,ml,11,203,0.03083,0.18,uu,uu60508937,2022-08-08T16:52:14.510Z,"16 km SSE of Sunnyside, Utah",earthquake,0.81,1.91,0.112,8,reviewed,uu,uu
 2022-08-08T15:48:44.607Z,39.8735,-118.3363,13.3,0.7,ml,8,184.11,0.207,0.1579,nn,nn00844403,2022-08-08T15:53:16.342Z,"35 km SSE of Lovelock, Nevada",earthquake,,0.7,0.16,3,automatic,nn,nn
