@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-09T05:22:08.840Z,35.1525,-119.0008333,13.17,1.77,ml,24,127,0.1422,0.24,ci,ci40077975,2022-08-09T05:25:42.828Z,"14km SSW of Lamont, CA",earthquake,0.65,1.27,0.132,27,automatic,ci,ci
+2022-08-09T05:22:08.840Z,35.1525,-119.0008333,13.17,1.77,ml,24,127,0.1422,0.24,ci,ci40077975,2022-08-09T05:33:11.500Z,"14km SSW of Lamont, CA",earthquake,0.65,1.27,0.132,27,automatic,ci,ci
 2022-08-09T05:20:12.605Z,58.2936,-155.0154,0,1.6,ml,,,,0.42,ak,ak022a5kv6gc,2022-08-09T05:21:45.030Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2022-08-09T05:11:37.600Z,33.7113333,-117.0316667,12.52,0.28,ml,15,104,0.02533,0.2,ci,ci40077967,2022-08-09T05:15:08.000Z,"5km E of Winchester, CA",earthquake,0.58,0.61,0.193,7,automatic,ci,ci
 2022-08-09T05:11:03.130Z,33.2315,-116.7323333,11.55,0.36,ml,19,40,0.02259,0.17,ci,ci40077959,2022-08-09T05:14:34.997Z,"3km ESE of Lake Henshaw, CA",earthquake,0.32,0.55,0.144,6,automatic,ci,ci
@@ -280,5 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-08T05:48:22.960Z,17.982,-66.8311666666667,16.06,2.94,md,40,154,,0.15,pr,pr71363728,2022-08-08T09:11:46.040Z,"1 km SW of Indios, Puerto Rico",earthquake,0.27,0.23,0.0901770839060423,18,reviewed,pr,pr
 2022-08-08T05:45:37.420Z,33.7931667,-117.6591667,1.82,1.78,ml,50,35,0.04178,0.22,ci,ci40077311,2022-08-08T19:11:18.903Z,"12km N of Foothill Ranch, CA",earthquake,0.22,0.35,0.097,29,automatic,ci,ci
 2022-08-08T05:45:26.070Z,33.6573333,-116.6838333,14.2,0.39,ml,18,114,0.05935,0.22,ci,ci40077303,2022-08-08T13:35:30.718Z,"10km SSE of Idyllwild, CA",earthquake,0.79,0.61,0.156,9,reviewed,ci,ci
-2022-08-08T05:39:26.920Z,19.1938333333333,-155.391333333333,30.58,1.49,md,18,180,,0.1,hv,hv73102552,2022-08-09T00:12:31.060Z,"9 km E of Pāhala, Hawaii",earthquake,0.84,0.89,0.120436838865583,13,reviewed,hv,hv
-2022-08-08T05:37:17.319Z,-5.5246,151.6305,35,5.6,mww,86,52,1.427,0.68,us,us6000i904,2022-08-09T01:18:03.315Z,"148 km SSW of Kokopo, Papua New Guinea",earthquake,7.51,1.885,0.066,22,reviewed,us,us
