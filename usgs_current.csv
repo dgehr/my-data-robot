@@ -29,7 +29,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-10T15:57:19.820Z,19.3163,-64.6008,33,3.63,md,11,314,1.0274,0.23,pr,pr2022222000,2022-08-10T16:27:20.307Z,"110 km N of Cruz Bay, U.S. Virgin Islands",earthquake,2.22,14.88,0.12,7,reviewed,pr,pr
 2022-08-10T15:53:47.343Z,63.787,-150.6657,0,1.4,ml,,,,0.75,ak,ak022a7ek0b2,2022-08-10T15:55:46.177Z,"59 km ENE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-10T15:52:58.012Z,44.9566,142.1134,5.536,5.1,mww,64,99,0.905,0.5,us,us6000i9r3,2022-08-10T16:26:36.040Z,"51 km SSE of Makubetsu, Japan",earthquake,6.83,4.159,0.098,10,reviewed,us,us
-2022-08-10T15:50:40.120Z,33.3401667,-116.3976667,14.19,0.78,ml,18,120,0.07361,0.22,ci,ci40079183,2022-08-10T15:54:15.600Z,"10km NNW of Borrego Springs, CA",earthquake,0.45,0.85,0.13,13,automatic,ci,ci
+2022-08-10T15:50:40.270Z,33.35,-116.4075,13.34,0.84,ml,23,62,0.04099,0.14,ci,ci40079183,2022-08-10T18:56:03.165Z,"11km NNW of Borrego Springs, CA",earthquake,0.23,0.62,0.058,10,reviewed,ci,ci
+2022-08-10T15:50:35.570Z,33.3526667,-116.3996667,12.65,0.21,ml,10,79,0.03756,0.06,ci,ci37510597,2022-08-10T18:54:56.795Z,"11km NNW of Borrego Springs, CA",earthquake,0.3,0.58,0.072,2,reviewed,ci,ci
 2022-08-10T15:44:21.770Z,38.5997,-119.4446,0.1,1.1,ml,12,101.27,0.06,0.1957,nn,nn00844688,2022-08-10T15:48:37.737Z,"6 km NE of Coleville, California",earthquake,,0.5,0.2,7,automatic,nn,nn
 2022-08-10T15:41:57.970Z,38.5858333,-119.4661667,4.82,2.48,md,16,58,0.04208,0.12,nc,nc73766330,2022-08-10T17:40:16.518Z,"8km N of Walker, CA",earthquake,0.27,0.4,0.17,18,reviewed,nc,nc
 2022-08-10T15:28:29.870Z,36.1621667,-118.0625,1.48,1.58,ml,27,53,0.1739,0.15,ci,ci40079175,2022-08-10T18:43:43.560Z,"14km SSW of Olancha, CA",earthquake,0.15,0.68,0.194,13,reviewed,ci,ci
@@ -216,7 +217,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-09T23:29:14.320Z,45.86066666666667,-122.43433333333333,-1.03,1.52,ml,15,174,0.07261,0.18,uw,uw61861617,2022-08-10T04:53:22.420Z,"2 km WSW of Yacolt, Washington",explosion,0.76,31.61,0.15843936104877188,14,reviewed,uw,uw
 2022-08-09T23:26:46.342Z,44.2935,-115.1071,14.065,2.6,ml,24,65,0.886,0.71,us,us6000i9jl,2022-08-10T00:20:26.040Z,"15 km WNW of Stanley, Idaho",earthquake,2.55,8.585,0.041,78,reviewed,us,us
 2022-08-09T23:26:34.430Z,35.0356667,-117.6756667,-0.82,1.35,ml,23,58,0.1025,0.17,ci,ci40078703,2022-08-10T16:46:49.991Z,"5km NNW of Boron, CA",quarry blast,0.4,31.61,0.163,12,reviewed,ci,ci
-2022-08-09T23:15:22.690Z,38.7596664,-122.7336655,1.41,1.72,md,26,76,0.01096,0.05,nc,nc73766090,2022-08-10T03:26:17.191Z,"3km SE of The Geysers, CA",earthquake,0.33,0.46,0.03,9,automatic,nc,nc
+2022-08-09T23:15:22.700Z,38.7616667,-122.7323333,1.51,1.69,md,46,59,0.005842,0.05,nc,nc73766090,2022-08-10T18:54:45.280Z,"3km SE of The Geysers, CA",earthquake,0.17,0.22,0.099,12,reviewed,nc,nc
 2022-08-09T23:15:22.180Z,54.0001,-166.2629,10.4,1.1,ml,,,,0.57,ak,ak022a5vjxhz,2022-08-09T23:52:26.174Z,"22 km ENE of Dutch Harbor, Alaska",earthquake,,0.1,,,reviewed,ak,ak
 2022-08-09T23:09:32.020Z,34.2858333,-117.0593333,8.48,0.97,ml,33,59,0.1171,0.15,ci,ci40078695,2022-08-10T16:33:00.908Z,"10km NNE of Running Springs, CA",earthquake,0.23,0.55,0.092,9,reviewed,ci,ci
 2022-08-09T23:05:11.950Z,39.4298333,-110.3121667,-0.94,1.22,ml,8,179,0.01154,0.09,uu,uu60509132,2022-08-10T13:43:17.330Z,"14 km SSE of Sunnyside, Utah",earthquake,1,0.27,0.135,3,reviewed,uu,uu
@@ -275,5 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-09T19:00:37.120Z,36.0085,-91.2838333,2.48,1.9,md,5,154,0.1218,0.15,nm,nm60158943,2022-08-10T13:08:41.710Z,"2 km W of Lynn, Arkansas",earthquake,0.69,12.57,0.164,4,reviewed,nm,nm
 2022-08-09T19:00:20.120Z,18.0106666666667,-66.846,14.27,1.4,md,5,279,,0.15,pr,pr71364588,2022-08-09T19:25:31.720Z,"2 km S of Yauco, Puerto Rico",earthquake,1.94,1.43,0.134663528509077,3,reviewed,pr,pr
 2022-08-09T19:00:10.170Z,34.9916667,-118.194,2.09,1.42,ml,28,46,0.1161,0.18,ci,ci40078503,2022-08-09T21:49:45.954Z,"7km SSW of Mojave, CA",earthquake,0.32,31.61,0.107,15,reviewed,ci,ci
-2022-08-09T18:54:13.520Z,46.198,-122.1865,0.99,0.34,ml,7,134,0.002308,0.09,uw,uw61861462,2022-08-09T22:44:33.890Z,"37 km NNE of Amboy, Washington",earthquake,0.89,0.53,0.254869685748882,4,reviewed,uw,uw
-2022-08-09T18:53:32.260Z,17.9783333333333,-66.8383333333333,16.06,1.75,md,8,193,,0.07,pr,pr71364548,2022-08-09T19:08:43.690Z,"2 km SW of Indios, Puerto Rico",earthquake,0.44,0.58,0.0724747104664748,4,reviewed,pr,pr
