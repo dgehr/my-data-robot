@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-08-12T23:30:19.240Z,38.8371658,-122.8089981,2.19,0.85,md,15,57,0.01378,0.01,nc,nc73767460,2022-08-12T23:39:10.875Z,"8km WNW of Cobb, CA",earthquake,0.27,0.68,,1,automatic,nc,nc
 2022-08-12T23:24:24.780Z,19.1588325500488,-155.499664306641,34.2299995422363,2.43000007,md,40,127,,0.150000006,hv,hv73107117,2022-08-12T23:29:55.260Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.51,0.829999983,1.69000006,23,automatic,hv,hv
-2022-08-12T23:22:22.650Z,37.4155006,-121.758667,7.89,1.31,md,7,175,0.06875,0.02,nc,nc73767455,2022-08-12T23:36:10.851Z,"8km NE of Alum Rock, CA",earthquake,0.52,1.09,0.19,3,automatic,nc,nc
+2022-08-12T23:22:22.590Z,37.4138333,-121.7575,8.51,1.24,md,37,43,0.04187,0.07,nc,nc73767450,2022-08-12T23:46:20.514Z,"8km NE of Alum Rock, CA",earthquake,0.17,0.47,0.154,26,reviewed,nc,nc
 2022-08-12T23:18:03.300Z,32.9115,-116.246,7.84,1.3,ml,34,80,0.06462,0.25,ci,ci40324480,2022-08-12T23:29:05.090Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.38,1.13,0.138,28,automatic,ci,ci
 2022-08-12T23:16:21.440Z,19.2441673278809,-155.375503540039,32.4700012207031,2.22000003,md,42,148,,0.129999995,hv,hv73107112,2022-08-12T23:19:39.750Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.57,0.670000017,1.25,29,automatic,hv,hv
 2022-08-12T23:01:40.433Z,38.5599,-119.5024,10.5,1.1,ml,9,194.43,0.029,0.0555,nn,nn00844862,2022-08-12T23:05:47.282Z,"0 km SSE of Coleville, California",earthquake,,1.2,0.29,6,automatic,nn,nn
@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-12T21:40:19.192Z,34.49343491,-97.22987366,2.657439709,2.01,ml,16,130.2432327,0.1234288737,1.103347532,ok,ok2022ptcc,2022-08-12T21:43:37.015Z,"10 km W of Davis, Oklahoma",earthquake,4.016803779,2.509006719,,12,automatic,ok,ok
 2022-08-12T21:39:49.246Z,63.4955,-148.1242,2,1.1,ml,,,,0.66,ak,ak022aat4b1o,2022-08-12T21:42:34.551Z,"42 km ENE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-12T21:34:24.400Z,33.0651667,-115.565,7.34,1.45,ml,24,81,0.03036,0.19,ci,ci40324432,2022-08-12T22:10:57.197Z,"6km ENE of Westmorland, CA",earthquake,0.23,0.33,0.186,8,reviewed,ci,ci
-2022-08-12T21:31:50.039Z,33.572,19.0819,14.809,5.2,mww,128,43,4.283,0.97,us,us6000iacz,2022-08-12T22:19:55.040Z,"181 km NW of Tūkrah, Libya",earthquake,6.99,3.925,0.041,58,reviewed,us,us
+2022-08-12T21:31:50.039Z,33.572,19.0819,14.809,5.2,mww,128,43,4.283,0.97,us,us6000iacz,2022-08-12T23:42:40.774Z,"181 km NW of Tūkrah, Libya",earthquake,6.99,3.925,0.041,58,reviewed,us,us
 2022-08-12T21:31:42.035Z,63.4853,-146.3576,15.8,1.4,ml,,,,1.65,ak,ak022aat2krf,2022-08-12T21:34:14.429Z,"57 km NW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-12T21:25:04.600Z,34.0346667,-117.25,14.55,1.22,ml,36,77,0.112,0.22,ci,ci40324424,2022-08-12T21:35:42.990Z,"2km SE of Loma Linda, CA",earthquake,0.31,0.7,0.176,30,automatic,ci,ci
 2022-08-12T21:24:58.510Z,19.1735000610352,-155.481002807617,31.0499992370605,2.08,ml,34,88,,0.170000002,hv,hv73107047,2022-08-12T21:30:29.910Z,"3 km S of Pāhala, Hawaii",earthquake,0.67,1.30999994,0.13,3,automatic,hv,hv
