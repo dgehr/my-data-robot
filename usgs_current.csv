@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-13T09:34:12.446Z,59.4561,-153.1274,106,1.2,ml,,,,0.31,ak,ak022ac9haq4,2022-08-13T09:35:41.928Z,"66 km SE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-13T09:14:18.300Z,19.1986675262451,-155.463836669922,35.4900016784668,2.08999991,md,40,108,,0.109999999,hv,hv73107607,2022-08-13T09:17:35.920Z,"1 km ESE of Pāhala, Hawaii",earthquake,0.55,0.779999971,0.629999995,11,automatic,hv,hv
 2022-08-13T08:53:56.320Z,38.8059998,-122.8136673,1.83,0.76,md,14,61,0.01245,0.02,nc,nc73767595,2022-08-13T09:10:12.383Z,"6km WNW of The Geysers, CA",earthquake,0.24,0.58,0.49,2,automatic,nc,nc
 2022-08-13T08:37:29.460Z,35.8816667,-117.6593333,5.98,0.9,ml,8,175,0.08277,0.04,ci,ci40324704,2022-08-13T08:40:56.644Z,"23km ESE of Little Lake, CA",earthquake,0.34,1.07,0.251,6,automatic,ci,ci
 2022-08-13T08:30:25.620Z,18.6655,-64.3353333333333,53.55,3.43,md,7,331,,0.47,pr,pr71365518,2022-08-13T09:12:42.700Z,"60 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,11.3,7.55,0.124269910119624,4,reviewed,pr,pr
 2022-08-13T08:22:28.159Z,54.0883,-156.2425,0,3.1,ml,,,,0.62,ak,ak022ac8tcqo,2022-08-13T08:25:30.627Z,"275 km SE of Perryville, Alaska",earthquake,,346.9,,,automatic,ak,ak
-2022-08-13T08:07:49.177Z,61.8629,-149.2662,20.4,1.1,ml,,,,0.47,ak,ak022ac8q5r9,2022-08-13T08:10:06.926Z,"13 km N of Fishhook, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-08-13T08:07:49.177Z,61.8629,-149.2662,20.4,1.1,ml,,,,0.47,ak,ak022ac8q5r9,2022-08-13T08:10:06.926Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-13T08:03:11.482Z,59.7278,-153.1338,108.8,2.3,ml,,,,0.26,ak,ak022ac8p7yz,2022-08-13T08:04:41.281Z,"55 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-13T07:55:21.639Z,58.4209,-154.4291,0.1,1.5,ml,,,,0.27,ak,ak022ac8eyeb,2022-08-13T07:57:11.379Z,"94 km N of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-08-13T07:54:57.989Z,62.2431,-141.5951,6.5,1.5,ml,,,,0.38,ak,ak022ac8etgr,2022-08-13T07:57:05.024Z,"53 km SSW of Alcan Border, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -68,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-13T01:10:38.490Z,38.831665,-122.7888336,11.64,0.39,md,7,130,0.01461,0.09,nc,nc73767495,2022-08-13T01:28:13.560Z,"6km W of Cobb, CA",earthquake,2.51,0.92,,1,automatic,nc,nc
 2022-08-13T01:07:10.680Z,33.9475,-116.9303333,11.02,1.02,ml,10,138,0.1016,0.16,ci,ci40324520,2022-08-13T01:10:39.708Z,"5km ENE of Beaumont, CA",earthquake,0.63,1.97,0.34,8,automatic,ci,ci
 2022-08-13T01:05:06.590Z,35.7841667,-117.5953333,7.1,2.29,ml,27,68,0.03156,0.16,ci,ci40324512,2022-08-13T01:15:33.110Z,"17km W of Searles Valley, CA",earthquake,0.27,0.54,0.126,25,automatic,ci,ci
-2022-08-13T01:02:13.480Z,40.538,-123.5291667,12.97,1.58,md,17,90,0.01157,0.25,nc,nc73767485,2022-08-13T09:27:01.078Z,"29km W of Hayfork, CA",earthquake,0.66,0.51,0.141,19,reviewed,nc,nc
+2022-08-13T01:02:13.480Z,40.538,-123.5291667,12.97,1.58,md,17,90,0.01157,0.25,nc,nc73767485,2022-08-13T09:32:11.485Z,"29km W of Hayfork, CA",earthquake,0.66,0.51,0.141,19,reviewed,nc,nc
 2022-08-13T00:42:46.320Z,36.0865,-117.869,5.06,1.4,ml,19,100,0.03306,0.18,ci,ci40324496,2022-08-13T00:53:24.090Z,"8km ENE of Coso Junction, CA",earthquake,0.44,0.8,0.367,16,automatic,ci,ci
 2022-08-13T00:27:47.357Z,38.5559,-119.5237,4.3,0.6,ml,9,191.3,0.03,0.1554,nn,nn00844864,2022-08-13T00:32:04.169Z,"1 km SW of Coleville, California",earthquake,,0.9,0.24,3,automatic,nn,nn
 2022-08-13T00:26:50.250Z,17.9746666666667,-66.9636666666667,10.99,2.17,md,4,178,,0.04,pr,pr71365453,2022-08-13T00:36:29.760Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.5,0.9,0.106389945933361,4,reviewed,pr,pr
