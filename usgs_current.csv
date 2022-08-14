@@ -206,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-13T07:54:57.989Z,62.2431,-141.5951,6.5,1.5,ml,,,,0.38,ak,ak022ac8etgr,2022-08-13T07:57:05.024Z,"53 km SSW of Alcan Border, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-13T07:43:11.759Z,63.6895,-149.912,134.1,1.4,ml,,,,0.36,ak,ak022ac8cddz,2022-08-13T14:05:50.393Z,"49 km W of Denali Park, Alaska",earthquake,,1,,,reviewed,ak,ak
 2022-08-13T07:38:06.086Z,38.5838,-119.4354,5.2,0.9,ml,13,90.27,0.066,0.0859,nn,nn00844887,2022-08-13T07:40:48.077Z,"6 km ENE of Coleville, California",earthquake,,1.2,0.23,9,automatic,nn,nn
-2022-08-13T07:34:38.400Z,35.803833,-120.3544998,9.1,1.27,md,20,115,0.02819,0.06,nc,nc73767585,2022-08-13T09:44:15.550Z,"10km NNW of Cholame, CA",earthquake,0.72,0.56,0.04,6,automatic,nc,nc
