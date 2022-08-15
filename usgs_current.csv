@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-15T19:23:45.147Z,64.7886,-148.9888,21.7,2.3,ml,,,,0.72,ak,ak022afqg1jm,2022-08-15T19:25:16.098Z,"21 km NNE of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-08-15T19:22:34.530Z,32.5995,-116.9798333,3.37,1.6,ml,17,211,0.04269,0.13,ci,ci40325976,2022-08-15T19:26:19.694Z,"7km ESE of Chula Vista, CA",quarry blast,0.74,0.36,0.144,16,automatic,ci,ci
 2022-08-15T19:08:18.410Z,33.4633333,-116.4325,6.44,0.62,ml,23,55,0.06018,0.16,ci,ci40325968,2022-08-15T19:11:48.606Z,"24km NNW of Borrego Springs, CA",earthquake,0.26,0.71,0.111,17,automatic,ci,ci
 2022-08-15T18:58:30.725Z,36.9613,-114.5463,1.6,1.2,ml,11,342.22,1.129,0.1503,nn,nn00845048,2022-08-15T19:01:57.941Z,"31 km N of Moapa Town, Nevada",earthquake,,1.1,0.34,5,automatic,nn,nn
 2022-08-15T18:56:46.160Z,34.9926667,-118.1951667,0.74,1.5,ml,17,61,0.1169,0.26,ci,ci40325952,2022-08-15T19:00:22.541Z,"7km SSW of Mojave, CA",earthquake,0.52,1.22,0.293,27,automatic,ci,ci
@@ -248,5 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-14T19:33:57.810Z,71.6066,-12.2426,10,4.2,mb,32,93,3.363,1.05,us,us6000iauu,2022-08-14T20:22:20.040Z,"147 km WNW of Olonkinbyen, Svalbard and Jan Mayen",earthquake,5.31,1.926,0.102,27,reviewed,us,us
 2022-08-14T19:33:37.530Z,38.793335,-122.802002,2.98,0.63,md,19,46,0.005071,0.02,nc,nc73768095,2022-08-14T20:01:14.923Z,"4km WNW of The Geysers, CA",earthquake,0.28,0.6,0.32,4,automatic,nc,nc
 2022-08-14T19:29:32.752Z,38.335,-118.8842,0,0.7,ml,8,185.91,0.309,0.1052,nn,nn00844972,2022-08-14T19:33:39.935Z,"30 km SW of Hawthorne, Nevada",earthquake,,81.5,0.3,5,automatic,nn,nn
-2022-08-14T19:24:23.350Z,38.795166,-122.7294998,2.36,0.86,md,11,103,0.01318,0.02,nc,nc73768090,2022-08-14T19:40:15.787Z,"3km S of Cobb, CA",earthquake,0.36,1.04,0.01,2,automatic,nc,nc
-2022-08-14T19:22:08.380Z,17.8633333333333,-66.901,14.58,2.09,md,6,295,,0.06,pr,pr71365933,2022-08-14T19:28:51.990Z,"12 km S of Guánica, Puerto Rico",earthquake,0.61,0.91,0.0857662805579844,5,reviewed,pr,pr
