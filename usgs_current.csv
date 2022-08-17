@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-17T15:45:34.700Z,38.7773323,-122.7263336,1.46,0.67,md,8,102,0.01004,0.02,nc,nc73769080,2022-08-17T15:47:09.447Z,"3km E of The Geysers, CA",earthquake,0.89,1.9,0.16,2,automatic,nc,nc
+2022-08-17T15:50:40.360Z,38.8351669,-122.7868347,1.88,0.36,md,7,102,0.004242,0.01,nc,nc73769085,2022-08-17T15:52:14.596Z,"6km WNW of Cobb, CA",earthquake,0.68,1.64,,1,automatic,nc,nc
+2022-08-17T15:45:34.700Z,38.7773323,-122.7263336,1.46,0.67,md,8,102,0.01004,0.02,nc,nc73769080,2022-08-17T15:56:11.803Z,"3km E of The Geysers, CA",earthquake,0.89,1.9,0.16,2,automatic,nc,nc
 2022-08-17T15:25:03.590Z,19.2586669921875,-155.376831054688,32.5099983215332,2.24,ml,46,138,,0.109999999,hv,hv73112357,2022-08-17T15:30:34.000Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.59,0.670000017,0.07,3,automatic,hv,hv
 2022-08-17T15:18:30.120Z,38.8359985,-122.7873306,1.52,0.85,md,9,74,0.003366,0.02,nc,nc73769070,2022-08-17T15:50:14.766Z,"6km WNW of Cobb, CA",earthquake,0.38,1.11,,1,automatic,nc,nc
 2022-08-17T15:15:07.670Z,33.227,-116.0763333,8.72,0.96,ml,31,70,0.09839,0.24,ci,ci40327072,2022-08-17T15:18:39.050Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.43,1.23,0.144,20,automatic,ci,ci
@@ -213,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-16T16:13:28.750Z,44.7793333,-110.807,3.97,0.51,md,8,197,0.03226,0.08,uu,uu60510067,2022-08-16T16:26:19.290Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.76,0.84,0.162,5,reviewed,uu,uu
 2022-08-16T16:06:57.270Z,61.9405,-141.1171,1.6,1.2,ml,,,,0.47,ak,ak022ahc3gyy,2022-08-16T16:29:13.355Z,"81 km S of Alcan Border, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2022-08-16T16:04:51.719Z,34.8895,-97.25883333,7.93,1.23,ml,23,107,0.1412722776,0.27,ok,ok2022pzza,2022-08-17T13:19:33.979Z,"5 km ESE of Wayne, Oklahoma",earthquake,,1.4,0.16,11,reviewed,ok,ok
-2022-08-16T15:54:13.520Z,39.431,-110.3088333,-1.23,1.33,ml,9,195,0.01436,0.1,uu,uu60510062,2022-08-16T16:11:21.730Z,"14 km SSE of Sunnyside, Utah",earthquake,0.96,0.32,0.045,3,reviewed,uu,uu
