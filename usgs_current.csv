@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-18T12:03:56.370Z,41.5228333,-122.085,2.8,0.2,md,8,244,0.1141,0.06,nc,nc73769325,2022-08-18T17:53:22.139Z,"16km WSW of Tennant, CA",earthquake,0.8,9.17,0.082,3,reviewed,nc,nc
 2022-08-18T11:51:52.010Z,37.3476667,-117.908,10.77,2.09,md,28,116,0.3354,0.08,nc,nc73769320,2022-08-18T19:37:10.732Z,"7km ESE of Deep Springs, CA",earthquake,0.39,1.06,0.165,27,reviewed,nc,nc
 2022-08-18T11:46:38.530Z,33.2326667,-116.7331667,11.73,0.45,ml,29,52,0.0217,0.14,ci,ci40327664,2022-08-18T17:41:43.395Z,"3km ESE of Lake Henshaw, CA",earthquake,0.22,0.37,0.193,5,reviewed,ci,ci
-2022-08-18T11:32:53.711Z,61.5078,-150.7517,63.1,1.5,ml,,,,0.35,ak,ak022akkckaj,2022-08-18T11:35:29.030Z,"13 km WSW of Susitna, Alaska",earthquake,,2.3,,,automatic,ak,ak
