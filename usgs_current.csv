@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-19T11:13:51.860Z,38.8349991,-122.8130035,1.78,0.85,md,9,78,0.01181,0.01,nc,nc73769665,2022-08-19T11:15:27.506Z,"8km W of Cobb, CA",earthquake,0.48,1.14,,1,automatic,nc,nc
 2022-08-19T10:19:16.173Z,58.3441,-133.2808,0,2.8,ml,,,,0.92,ak,ak022am77lz5,2022-08-19T10:21:20.933Z,"66 km E of Juneau, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-19T10:18:54.980Z,33.5856667,-116.8071667,8.49,0.35,ml,13,174,0.03683,0.14,ci,ci40328296,2022-08-19T10:22:28.614Z,"13km WNW of Anza, CA",earthquake,0.48,0.54,0.092,8,automatic,ci,ci
 2022-08-19T10:17:47.226Z,58.3364,-134.0604,15.2,2.3,ml,,,,1.4,ak,ak022am778xu,2022-08-19T10:19:49.578Z,"Southeastern Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -58,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-19T02:35:20.372Z,52.4686,157.9938,114.956,4.5,mb,37,219,0.665,0.67,us,us6000ic0h,2022-08-19T02:52:22.040Z,"57 km SSW of Paratunka, Russia",earthquake,10.55,6.335,0.043,159,reviewed,us,us
 2022-08-19T02:25:44.650Z,35.5103333,-118.3996667,3.16,2.2,ml,35,35,0.1637,0.18,ci,ci40328152,2022-08-19T02:36:35.210Z,"12km SE of Bodfish, CA",earthquake,0.22,1.05,0.192,27,automatic,ci,ci
 2022-08-19T02:12:05.274Z,58.2993,-133.5149,3.7,2.8,ml,,,,0.54,ak,ak022am2emm0,2022-08-19T02:22:02.040Z,"53 km E of Juneau, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-08-19T02:08:35.120Z,61.7396,-149.776,35.1,1.5,ml,,,,0.45,ak,ak022am2dtq0,2022-08-19T02:10:38.226Z,"Southern Alaska",earthquake,,12.3,,,automatic,ak,ak
+2022-08-19T02:08:35.120Z,61.7396,-149.776,35.1,1.5,ml,,,,0.45,ak,ak022am2dtq0,2022-08-19T02:10:38.226Z,"12 km N of Houston, Alaska",earthquake,,12.3,,,automatic,ak,ak
 2022-08-19T01:59:16.830Z,38.8398323,-122.8118362,1.65,0.85,md,11,63,0.01647,0.04,nc,nc73769585,2022-08-19T02:24:16.150Z,"8km WNW of Cobb, CA",earthquake,0.34,0.89,,1,automatic,nc,nc
 2022-08-19T01:58:02.320Z,38.8381653,-122.8108368,1.73,0.71,md,12,58,0.01476,0.01,nc,nc73769575,2022-08-19T03:27:16.543Z,"8km WNW of Cobb, CA",earthquake,0.29,0.76,0.14,2,automatic,nc,nc
 2022-08-19T01:56:29.800Z,39.4593333,-122.9573333,5.86,1.6,md,17,99,0.1575,0.09,nc,nc73769580,2022-08-19T06:51:13.755Z,"6km N of Lake Pillsbury, CA",earthquake,0.3,1.25,0.183,18,reviewed,nc,nc
@@ -209,7 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-18T11:32:53.711Z,61.5078,-150.7517,63.1,1.5,ml,,,,0.35,ak,ak022akkckaj,2022-08-18T11:35:29.030Z,"Southern Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-08-18T11:29:57.620Z,18.978,-155.430833333333,36.6,2.59,ml,51,226,,0.13,hv,hv73113412,2022-08-18T22:18:51.105Z,"18 km ESE of Naalehu, Hawaii",earthquake,0.45,0.71,0.0821688065198591,14,reviewed,hv,hv
 2022-08-18T11:21:46.572Z,39.7241,-119.8591,10.3,-0.4,ml,4,122.08,0.141,0.1086,nn,nn00845406,2022-08-18T21:08:58.209Z,"9 km N of Lemmon Valley, Nevada",earthquake,,5.5,0.55,3,reviewed,nn,nn
-2022-08-18T11:18:40.750Z,35.1173333,-118.4961667,1.33,1.03,ml,16,74,0.1791,0.14,ci,ci40327648,2022-08-18T15:29:13.655Z,"5km WSW of Tehachapi, CA",earthquake,0.22,0.44,0.126,3,reviewed,ci,ci
-2022-08-18T11:12:59.460Z,33.4808333,-116.4505,12.57,1.29,ml,67,31,0.04724,0.17,ci,ci40327640,2022-08-18T17:37:55.130Z,"22km ESE of Anza, CA",earthquake,0.15,0.33,0.181,24,reviewed,ci,ci
-2022-08-18T11:12:52.520Z,33.4865,-116.4403333,12.72,0.39,ml,12,120,0.03878,0.13,ci,ci40327632,2022-08-18T17:37:18.371Z,"23km ESE of Anza, CA",earthquake,0.47,1.14,0.156,6,reviewed,ci,ci
-2022-08-18T11:06:08.006Z,40.0795,-119.6623,14.6,-0.3,ml,3,180.43,0.105,0.0433,nn,nn00845405,2022-08-18T21:05:50.370Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,5.5,0.13,2,reviewed,nn,nn
