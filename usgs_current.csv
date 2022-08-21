@@ -193,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-20T22:17:04.923Z,59.754,-152.5693,77.7,1.7,ml,,,,0.43,ak,ak022ao1vpfg,2022-08-20T22:20:08.918Z,"41 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-20T21:56:39.040Z,47.7125,-120.08633333333333,3.49,1.5,ml,16,54,0.06864,0.06,uw,uw61864767,2022-08-21T03:17:34.640Z,"7 km N of Waterville, Washington",earthquake,0.23,0.8,0.19978915915301676,20,reviewed,uw,uw
 2022-08-20T21:53:38.570Z,48.721333333333334,-120.3255,9.76,1.53,ml,12,118,0.2941,0.35,uw,uw61864762,2022-08-21T02:31:02.900Z,"28 km NNW of Winthrop, Washington",earthquake,0.83,22.25,0.15955430627492007,9,reviewed,uw,uw
-2022-08-20T21:39:21.300Z,36.8048325,-121.5240021,9.03,1.37,md,9,76,0.02141,0.14,nc,nc73770185,2022-08-20T23:37:10.308Z,"5km SSE of San Juan Bautista, CA",earthquake,0.84,1.18,0.08,5,automatic,nc,nc
