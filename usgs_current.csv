@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-22T07:46:17.240Z,35.9589996,-117.6573334,3.52,0.97,ml,15,153,0.1251,0.13,ci,ci40329568,2022-08-22T07:48:26.729Z,"23km E of Little Lake, CA",earthquake,0.58,1.06,0.058,3,automatic,ci,ci
 2022-08-22T07:34:57.620Z,33.3813333,-116.879,3.38,0.73,ml,27,36,0.1281,0.23,ci,ci40329560,2022-08-22T07:38:28.805Z,"3km NNW of Palomar Observatory, CA",earthquake,0.37,1.28,0.103,18,automatic,ci,ci
 2022-08-22T07:18:28.640Z,36.5559998,-121.1241684,9.63,1.87,md,15,117,0.05173,0.04,nc,nc73770615,2022-08-22T07:38:11.679Z,"3km NNE of Pinnacles, CA",earthquake,0.42,0.74,0.19,14,automatic,nc,nc
 2022-08-22T07:13:17.930Z,19.1098327636719,-155.420669555664,31.8400001525879,2.04999995,md,35,191,,0.170000002,hv,hv73117417,2022-08-22T07:16:33.890Z,"11 km SSE of Pāhala, Hawaii",earthquake,0.67,1.12,0.670000017,9,automatic,hv,hv
