@@ -1,5 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-30T17:45:44.690Z,33.9253333,-116.7301667,12.16,1.56,ml,78,20,0.1072,0.14,ci,ci40334528,2022-08-30T18:17:05.360Z,"5km E of Cabazon, CA",earthquake,0.1,0.28,0.162,26,reviewed,ci,ci
+2022-08-30T18:40:05.890Z,38.796833,-122.7914963,-0.35,2.16,md,33,65,0.004597,0.04,nc,nc73773470,2022-08-30T18:43:13.158Z,"4km NW of The Geysers, CA",earthquake,0.14,0.27,0.07,12,automatic,nc,nc
+2022-08-30T18:33:02.760Z,19.2476673126221,-155.404663085938,31.3799991607666,1.88,ml,29,133,,0.140000001,hv,hv73126432,2022-08-30T18:38:33.320Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.72,0.779999971,3.83,3,automatic,hv,hv
+2022-08-30T18:31:51.078Z,58.2339,-155.1806,1.1,0.4,ml,,,,0.17,ak,ak022b4iyjjg,2022-08-30T18:34:40.480Z,"85 km NNW of Karluk, Alaska",earthquake,,2.6,,,automatic,ak,ak
+2022-08-30T18:31:45.421Z,63.279,-150.5289,130.6,1.1,ml,,,,0.12,ak,ak022b4iyj3i,2022-08-30T18:33:55.944Z,"66 km ESE of Denali National Park, Alaska",earthquake,,2.4,,,automatic,ak,ak
+2022-08-30T18:31:27.371Z,38.1645,-117.8766,10.8,3.8,ml,44,40.82,0.07,0.2976,nn,nn00846122,2022-08-30T18:35:32.180Z,"32 km SE of Mina, Nevada",earthquake,,0.2,0.82,23,automatic,nn,nn
+2022-08-30T18:29:55.540Z,38.7960014,-122.7908325,0.04,0.83,md,9,117,0.003624,0.03,nc,nc73773460,2022-08-30T18:40:11.611Z,"4km NW of The Geysers, CA",earthquake,0.28,0.52,0.19,2,automatic,nc,nc
+2022-08-30T18:23:47.136Z,55.0589,-155.6134,42.4,3.9,ml,,,,0.52,ak,ak022b4iwtja,2022-08-30T18:40:15.916Z,"222 km SE of Chignik, Alaska",earthquake,,31.3,,,reviewed,ak,ak
+2022-08-30T18:18:09.272Z,55.0693,-155.5438,6.1,4.2,ml,,,,0.4,ak,ak022b4ivns4,2022-08-30T18:35:45.752Z,"225 km SE of Chignik, Alaska",earthquake,,2.1,,,reviewed,ak,ak
+2022-08-30T17:45:44.690Z,33.9253333,-116.7301667,12.16,1.56,ml,78,20,0.1072,0.14,ci,ci40334528,2022-08-30T18:26:14.440Z,"5km E of Cabazon, CA",earthquake,0.1,0.28,0.162,26,reviewed,ci,ci
 2022-08-30T17:40:00.487Z,63.4243,-151.5466,0,1.5,ml,,,,0.71,ak,ak022b4iexgw,2022-08-30T17:41:59.851Z,"15 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-30T17:29:04.360Z,38.8221664,-122.8431702,2.03,0.82,md,17,73,0.006429,0.02,nc,nc73773455,2022-08-30T17:47:17.144Z,"9km WNW of The Geysers, CA",earthquake,0.24,0.43,0.07,3,automatic,nc,nc
 2022-08-30T17:27:42.530Z,39.4323333,-110.315,-1.01,1.2,md,4,216,0.01135,0.04,uu,uu60512712,2022-08-30T17:46:51.630Z,"14 km SSE of Sunnyside, Utah",earthquake,2.07,0.33,0.234,4,reviewed,uu,uu
@@ -88,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-30T08:49:51.719Z,38.1534,-117.9388,11.4,0.8,ml,14,144.12,0.022,0.1117,nn,nn00846109,2022-08-30T17:15:49.251Z,"30 km SSE of Mina, Nevada",earthquake,,0.9,0.61,3,reviewed,nn,nn
 2022-08-30T08:44:40.660Z,32.4063333,-115.2251667,12.18,3.99,mw,33,101,0.06879,0.36,ci,ci40334320,2022-08-30T17:11:23.377Z,"6km NNW of Delta, B.C., MX",earthquake,0.55,1.29,,4,reviewed,ci,ci
 2022-08-30T08:42:44.030Z,36.10883333,-97.85816667,4.8,0.88,ml,61,42,0.1115781046,0.21,ok,ok2022qyzm,2022-08-30T12:51:53.301Z,"3 km E of Hennessey, Oklahoma",earthquake,,0.5,0.26,24,reviewed,ok,ok
-2022-08-30T08:41:19.360Z,33.254,-116.265,10.54,1.09,ml,40,37,0.06184,0.22,ci,ci40334312,2022-08-30T08:44:52.460Z,"10km E of Borrego Springs, CA",earthquake,0.31,0.59,0.165,26,automatic,ci,ci
+2022-08-30T08:41:19.230Z,33.2506667,-116.2638333,11.59,1.09,ml,55,36,0.05841,0.18,ci,ci40334312,2022-08-30T18:33:30.910Z,"10km E of Borrego Springs, CA",earthquake,0.2,0.35,0.148,25,reviewed,ci,ci
 2022-08-30T08:40:38.210Z,35.5111667,-118.3956667,8.83,0.8,ml,18,101,0.1642,0.14,ci,ci40334304,2022-08-30T18:22:30.843Z,"12km SE of Bodfish, CA",earthquake,0.29,0.89,0.116,7,reviewed,ci,ci
 2022-08-30T08:36:11.800Z,4.2436,62.6898,10,4.9,mb,48,64,11.417,1.12,us,us7000i3mi,2022-08-30T10:55:31.040Z,"Carlsberg Ridge",earthquake,11.66,1.881,0.086,42,reviewed,us,us
 2022-08-30T08:35:41.460Z,33.4916667,-116.5436667,12.95,0.48,ml,21,73,0.04901,0.13,ci,ci40334296,2022-08-30T18:18:53.569Z,"14km ESE of Anza, CA",earthquake,0.25,0.48,0.145,7,reviewed,ci,ci
@@ -257,6 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-29T19:07:09.088Z,36.77,-116.2645,7.6,-0.3,ml,8,224.35,0.06,0.0879,nn,nn00846096,2022-08-30T02:39:32.736Z,"46 km ESE of Beatty, Nevada",earthquake,,2.3,1.24,5,reviewed,nn,nn
 2022-08-29T19:06:59.178Z,31.68210614,-104.3984694,6.697143555000001,2,ml,16,56,0.03862728174,0.2,tx,tx2022qxyo,2022-08-30T06:48:18.577Z,"54 km S of Whites City, New Mexico",earthquake,0.8056079945,0.9820543936,0.1,12,reviewed,tx,tx
 2022-08-29T18:58:47.610Z,34.9891667,-118.1911667,-0.82,1.38,ml,20,56,0.1143,0.19,ci,ci40333944,2022-08-29T21:02:03.709Z,"7km SSW of Mojave, CA",quarry blast,0.37,31.61,0.13,30,reviewed,ci,ci
-2022-08-29T18:41:02.850Z,18.3821666666667,-66.1896666666667,114.38,3.16,md,17,167,,0.14,pr,pr71368663,2022-08-29T19:49:27.800Z,"2 km ESE of Mucarabones, Puerto Rico",earthquake,1.16,0.57,0.081749582913865,7,reviewed,pr,pr
-2022-08-29T18:40:48.800Z,19.3961658477783,-155.445831298828,7.55999994277954,1.89,ml,40,62,,0.159999996,hv,hv73125262,2022-08-29T18:46:19.410Z,"21 km N of Pāhala, Hawaii",earthquake,0.34,0.620000005,3.5,12,automatic,hv,hv
-2022-08-29T18:26:17.200Z,33.3236667,-116.346,11.16,1.27,ml,54,33,0.01796,0.18,ci,ci40333920,2022-08-29T18:58:56.780Z,"8km NNE of Borrego Springs, CA",earthquake,0.19,0.33,0.138,21,reviewed,ci,ci
