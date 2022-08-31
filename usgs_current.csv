@@ -60,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-31T12:33:38.286Z,31.60066317,-103.9999622,6.157275391,2.1,ml,16,67,0.1344107851,0.2,tx,tx2022rbcp,2022-08-31T16:21:20.390Z,"37 km NNW of Toyah, Texas",earthquake,1.448830155,2.5480722849999995,0.1,6,reviewed,tx,tx
 2022-08-31T12:25:34.984Z,3.5888,125.6154,142.453,4.2,mb,24,108,3.3,1.01,us,us7000i3z9,2022-08-31T12:41:21.040Z,"201 km S of Sarangani, Philippines",earthquake,10.9,8.763,0.137,15,reviewed,us,us
 2022-08-31T12:14:29.010Z,17.998,-67.073,6.01,1.82,md,5,149,,0.13,pr,pr71368938,2022-08-31T13:07:51.540Z,"Puerto Rico",earthquake,0.45,0.9,0.127978803428483,5,reviewed,pr,pr
-2022-08-31T12:10:44.914Z,58.1131,-157.2864,18.4,1.8,ml,,,,0.49,ak,ak022b62srvv,2022-08-31T12:12:37.642Z,"12 km SSE of Egegik, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-08-31T12:10:44.914Z,58.1131,-157.2864,18.4,1.8,ml,,,,0.49,ak,ak022b62srvv,2022-08-31T12:12:37.642Z,"Alaska Peninsula",earthquake,,0.2,,,automatic,ak,ak
 2022-08-31T12:02:32.845Z,62.6279,-148.8645,43.2,2.5,ml,,,,0.69,ak,ak022b62r17w,2022-08-31T13:30:18.902Z,"66 km ENE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-08-31T11:59:54.807Z,31.65382342,-104.4689899,6.208691406,2.5,ml,20,66,0.03087477279,0.2,tx,tx2022rbbm,2022-08-31T15:38:31.929Z,"58 km S of Whites City, New Mexico",earthquake,1.402926571,1.464874022,0.1,7,reviewed,tx,tx
 2022-08-31T11:56:55.640Z,35.6466667,-118.3173333,7.53,0.93,ml,15,135,0.05592,0.11,ci,ci40334984,2022-08-31T13:14:40.031Z,"14km ESE of Wofford Heights, CA",earthquake,0.32,0.54,0.181,10,reviewed,ci,ci
@@ -247,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-30T21:14:18.710Z,60.5241,-147.329,10.6,1.4,ml,,,,0.53,ak,ak022b4kn4of,2022-08-30T21:16:33.540Z,"51 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-30T21:11:28.070Z,33.6951667,-116.752,18.6,0.47,ml,18,71,0.03535,0.1,ci,ci40334696,2022-08-30T22:06:23.374Z,"6km SSW of Idyllwild, CA",earthquake,0.32,0.46,0.176,9,reviewed,ci,ci
 2022-08-30T20:57:15.945Z,60.9442,-150.1485,41.6,2.4,ml,,,,0.19,ak,ak022b4kawne,2022-08-31T02:20:11.061Z,"27 km W of Hope, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-08-30T20:49:52.813Z,31.70622942,-104.0976604,6.234399414,3.4,ml,16,57,0.05898909901,0.1,tx,tx2022qzxn,2022-08-31T18:55:22.188Z,"western Texas",earthquake,0.8762610393,1.161571096,0.1,7,reviewed,tx,tx
-2022-08-30T20:46:53.264Z,38.4037,-118.3406,6.9,0.4,ml,9,107.43,0.032,0.0624,nn,nn00846167,2022-08-31T02:38:42.433Z,"20 km W of Mina, Nevada",earthquake,,1.3,0.12,2,reviewed,nn,nn
