@@ -84,4 +84,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-01T23:22:18.270Z,45.921,-122.84116666666667,20.49,1.09,ml,17,140,0.1349,0.17,uw,uw61868042,2022-09-02T03:13:45.000Z,"1 km S of Deer Island, Oregon",earthquake,0.48,0.74,0.2202009081197036,11,reviewed,uw,uw
 2022-09-01T23:08:46.428Z,-17.3842,-174.992,269.033,4.5,mb,88,41,1.572,0.46,us,us7000i4hs,2022-09-01T23:33:29.040Z,"176 km NW of Neiafu, Tonga",earthquake,8.5,7.498,0.048,128,reviewed,us,us
 2022-09-01T23:06:52.030Z,37.583,-118.8645,3.17,0.23,md,8,206,0.02898,0.02,nc,nc73774435,2022-09-02T07:05:12.395Z,"12km ESE of Mammoth Lakes, CA",earthquake,1.04,2.05,0.374,8,reviewed,nc,nc
-2022-09-01T22:54:31.050Z,38.8284988,-122.8166656,2.12,0.85,md,8,142,0.007244,0.01,nc,nc73774430,2022-09-01T23:36:12.561Z,"8km NW of The Geysers, CA",earthquake,0.53,1.03,,1,automatic,nc,nc
