@@ -150,4 +150,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-01T16:07:22.309Z,62.8801,-149.4887,69.9,1.9,ml,,,,0.56,ak,ak022b7sp5wm,2022-09-01T16:09:31.946Z,"57 km NNE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-09-01T16:06:48.160Z,33.4773333,-116.4661667,12.1,0.97,ml,40,68,0.05705,0.17,ci,ci40094335,2022-09-01T16:42:29.571Z,"21km ESE of Anza, CA",earthquake,0.19,0.41,0.13,18,reviewed,ci,ci
 2022-09-01T16:04:02.432Z,63.544,-152.8656,16.4,1.4,ml,,,,0.53,ak,ak022b7soh83,2022-09-01T16:06:39.394Z,"46 km SW of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-09-01T15:53:18.931Z,19.6053,-70.5827,27.04,4.2,mb,37,116,1.299,1.01,us,us7000i4cp,2022-09-01T22:21:19.364Z,"Dominican Republic region",earthquake,5.44,6.997,0.236,5,reviewed,us,us
