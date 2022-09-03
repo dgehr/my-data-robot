@@ -232,8 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-02T10:02:44.519Z,38.5783,-119.4511,5.9,1.7,ml,8,93.11,0.054,0.2184,nn,nn00846304,2022-09-03T02:39:40.497Z,"5 km ENE of Coleville, California",earthquake,,2.2,0.2,5,reviewed,nn,nn
 2022-09-02T10:02:44.480Z,38.5758333,-119.4453333,2.98,1.89,md,10,92,0.05928,0.07,nc,nc73774605,2022-09-02T22:12:12.020Z,"7km NNE of Walker, CA",earthquake,0.52,0.93,0.196,8,reviewed,nc,nc
 2022-09-02T10:01:19.610Z,38.7711678,-122.7136688,1.02,0.48,md,6,194,0.01164,0.03,nc,nc73774600,2022-09-02T10:21:11.581Z,"2km WSW of Anderson Springs, CA",earthquake,1.03,1.33,0.07,2,automatic,nc,nc
-2022-09-02T09:55:11.040Z,34.4301667,-120.0073333,5.88,1.38,ml,20,98,0.1002,0.19,ci,ci40094959,2022-09-02T18:25:31.446Z,"14km W of Isla Vista, CA",earthquake,0.48,1.42,0.157,12,reviewed,ci,ci
-2022-09-02T09:53:04.094Z,38.5779,-119.4481,3.9,0.7,ml,8,99.76,0.057,0.0938,nn,nn00846300,2022-09-02T09:56:53.728Z,"5 km ENE of Coleville, California",earthquake,,0.9,0.21,5,automatic,nn,nn
-2022-09-02T09:53:01.190Z,33.4726667,-116.4601667,9.61,0.54,ml,18,69,0.05822,0.2,ci,ci40094951,2022-09-02T18:07:34.762Z,"22km ESE of Anza, CA",earthquake,0.42,1.06,0.172,11,reviewed,ci,ci
-2022-09-02T09:51:52.939Z,38.5808,-119.4445,3,1,ml,10,95.83,0.059,0.1144,nn,nn00846298,2022-09-02T09:54:44.446Z,"5 km ENE of Coleville, California",earthquake,,1,0.28,6,automatic,nn,nn
-2022-09-02T09:50:43.080Z,58.371,-154.625666666667,5.31,0.05,ml,7,200,,0.23,av,av91070353,2022-09-03T09:45:27.620Z,"Alaska Peninsula",earthquake,0.86,2.11,0.221947372057065,7,reviewed,av,av
