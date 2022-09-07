@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-07T14:49:16.920Z,33.2491667,-116.7136667,10.27,0.61,ml,16,128,0.2492,0.41,ci,ci40097519,2022-09-07T14:52:48.423Z,"5km E of Lake Henshaw, CA",earthquake,1.44,4.36,0.093,5,automatic,ci,ci
+2022-09-07T14:48:26.560Z,33.4035,-116.497,6.65,0.47,ml,12,195,0.1336,0.34,ci,ci40097511,2022-09-07T14:51:55.734Z,"18km NE of Warner Springs, CA",earthquake,1.29,31.61,0.172,12,automatic,ci,ci
 2022-09-07T14:25:56.836Z,57.2387,-155.8716,60.9,1.4,ml,,,,0.12,ak,ak022bhoub7n,2022-09-07T14:28:30.263Z,"92 km WSW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-09-07T14:22:57.650Z,38.7591667,-122.7426682,0.53,0.35,md,9,114,0.006596,0.03,nc,nc73776355,2022-09-07T14:39:14.390Z,"2km SSE of The Geysers, CA",earthquake,0.46,0.85,0.03,2,automatic,nc,nc
 2022-09-07T14:13:29.807Z,61.7894,-151.7905,92.9,1.4,ml,,,,0.37,ak,ak022bhoroj8,2022-09-07T14:15:29.029Z,"30 km SW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -235,5 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-06T15:18:50.900Z,38.7901649,-122.7608337,1.68,0.87,md,15,75,0.01048,0.03,nc,nc73776075,2022-09-06T16:02:10.356Z,"2km NNW of The Geysers, CA",earthquake,0.25,0.48,0.25,4,automatic,nc,nc
 2022-09-06T15:18:36.430Z,44.772,-111.1188333,11.75,1.11,ml,16,114,0.02571,0.12,uu,uu60513917,2022-09-06T21:50:50.870Z,"western Montana",earthquake,0.65,0.49,0.287,2,reviewed,uu,uu
 2022-09-06T14:58:03.390Z,39.4305,-110.3176667,-1.01,1.72,md,7,178,0.008602,0.08,uu,uu60513912,2022-09-06T22:22:05.170Z,"14 km SSE of Sunnyside, Utah",earthquake,1.43,0.36,0.116,7,reviewed,uu,uu
-2022-09-06T14:55:18.350Z,17.9425,-66.8571666666667,10.94,2.43,md,11,179,,0.11,pr,pr71370128,2022-09-06T16:21:21.010Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,0.4,0.56,0.10639289640847,7,reviewed,pr,pr
-2022-09-06T14:50:34.510Z,38.8011665,-122.7806702,2.58,0.99,md,14,75,0.009782,0.02,nc,nc73776070,2022-09-06T15:36:10.185Z,"3km NW of The Geysers, CA",earthquake,0.35,0.74,0.24,2,automatic,nc,nc
