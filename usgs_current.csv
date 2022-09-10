@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-10T15:34:59.487Z,-22.2033,-66.2824,255.015,4.5,mb,40,43,1.905,0.66,us,us6000iiqa,2022-09-10T15:51:10.040Z,"71 km W of La Quiaca, Argentina",earthquake,8.43,7.652,0.101,29,reviewed,us,us
 2022-09-10T14:46:14.030Z,17.9036666666667,-66.8538333333333,16.52,2.16,md,9,231,,0.07,pr,pr71371018,2022-09-10T15:19:00.368Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.55,0.6,0.150308801508439,7,reviewed,pr,pr
 2022-09-10T14:42:46.960Z,17.8881666666667,-66.8388333333333,17.09,2.5,md,12,203,,0.23,pr,pr71371013,2022-09-10T15:35:13.040Z,"Puerto Rico region",earthquake,0.8,1.36,0.0843014529631572,5,reviewed,pr,pr
 2022-09-10T14:31:38.060Z,33.0456667,-116.3573333,9.45,1.24,ml,42,52,0.1704,0.18,ci,ci40098575,2022-09-10T14:42:00.160Z,"23km E of Julian, CA",earthquake,0.25,0.8,0.136,28,automatic,ci,ci
