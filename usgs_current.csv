@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-11T10:43:09.480Z,35.5048333,-118.3915,5.52,1.29,ml,18,75,0.1714,0.16,ci,ci40098799,2022-09-11T10:46:38.740Z,"13km SE of Bodfish, CA",earthquake,0.27,1.47,0.148,18,automatic,ci,ci
 2022-09-11T10:04:02.745Z,66.1074,-150.9076,20.6,1.3,ml,,,,0.52,ak,ak022bo8hck2,2022-09-11T10:06:39.380Z,"75 km NNW of Rampart, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-09-11T09:56:18.955Z,17.7376,-95.3717,115.284,4.4,mb,82,108,3.051,0.4,us,us7000i76f,2022-09-11T10:28:06.040Z,"Oaxaca-Veracruz border region, Mexico",earthquake,9.36,9.917,0.033,269,reviewed,us,us
 2022-09-11T09:41:39.264Z,61.7268,-149.5522,28.2,1.8,ml,,,,0.98,ak,ak022bo83x9j,2022-09-11T09:44:39.166Z,"11 km NNE of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
