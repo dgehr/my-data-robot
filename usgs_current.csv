@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-09-27T21:38:32.141Z,62.5916,-151.17,84.1,1.6,ml,,,,0.55,ak,ak022cevu0q6,2022-09-27T21:41:23.294Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-09-27T21:28:48.670Z,33.0178333,-116.4408333,10.68,0.8,ml,20,93,0.1306,0.18,ci,ci40107671,2022-09-27T21:32:22.807Z,"16km ESE of Julian, CA",earthquake,0.35,0.68,0.115,9,automatic,ci,ci
-2022-09-27T21:22:30.811Z,31.91159426,-103.9204822,8.111083984,2.8,ml,11,57,0.09572892509,0.2,tx,tx2022szcq,2022-09-27T21:50:02.277Z,"37 km SSE of Malaga, New Mexico",earthquake,1.899154284,2.521576292,0.1,6,reviewed,tx,tx
+2022-09-27T21:22:30.811Z,31.91159426,-103.9204822,8.111083984,2.8,ml,11,57,0.09572892509,0.2,tx,tx2022szcq,2022-09-27T21:53:07.040Z,"37 km SSE of Malaga, New Mexico",earthquake,1.899154284,2.521576292,0.1,6,reviewed,tx,tx
 2022-09-27T21:18:19.141Z,53.7319,-35.2173,10,4.9,mb,76,98,9.246,0.6,us,us6000int8,2022-09-27T21:33:42.040Z,"Reykjanes Ridge",earthquake,10.32,1.896,0.036,241,reviewed,us,us
+2022-09-27T21:17:48.690Z,44.7841667,-110.8113333,10.51,2.14,ml,22,99,0.0282,0.16,uu,uu60518217,2022-09-27T21:57:53.680Z,"Wyoming",earthquake,0.39,0.67,0.266,7,reviewed,uu,uu
 2022-09-27T21:09:53.964Z,53.7854,-35.2431,10,4.8,mb,67,82,15.202,0.73,us,us6000int6,2022-09-27T21:28:19.040Z,"Reykjanes Ridge",earthquake,11.33,1.885,0.047,139,reviewed,us,us
 2022-09-27T20:55:34.258Z,63.105,-150.8099,25.4,1.4,ml,,,,1.01,ak,ak022cevc8gh,2022-09-27T20:57:34.089Z,"66 km SE of Denali National Park, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-09-27T20:50:26.521Z,61.5909,-141.1628,0,2.4,ml,,,,0.6,ak,ak022cevb5a4,2022-09-27T20:52:21.241Z,"95 km E of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -314,4 +315,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-26T22:06:27.470Z,17.8978333333333,-66.8846666666667,15.56,1.81,md,7,254,,0.09,pr,pr71373128,2022-09-27T18:49:36.130Z,"Puerto Rico region",earthquake,0.54,0.57,0.193433410251973,6,reviewed,pr,pr
 2022-09-26T22:03:48.349Z,60.6871,-152.6563,14.6,2.1,ml,,,,0.13,ak,ak022cd8on0y,2022-09-26T22:04:44.462Z,"73 km W of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-09-26T22:03:42.520Z,19.2308330535889,-155.393005371094,31.4699993133545,2.04,ml,30,161,,0.100000001,hv,hv73154632,2022-09-26T22:09:13.100Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.61,0.589999974,5.24,3,automatic,hv,hv
-2022-09-26T21:52:39.080Z,19.2283325195312,-155.390502929688,32.5099983215332,2.1099999,md,36,147,,0.129999995,hv,hv73154617,2022-09-26T21:55:47.830Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.54,0.639999986,0.310000002,13,automatic,hv,hv
