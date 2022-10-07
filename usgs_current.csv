@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-07T07:41:16.330Z,38.7883339,-122.7805023,2.92,0.62,md,15,104,0.007549,0.03,nc,nc73790376,2022-10-07T07:42:52.434Z,"2km WNW of The Geysers, CA",earthquake,0.37,0.67,0.23,3,automatic,nc,nc
+2022-10-07T07:35:08.554Z,35.93427277,-97.90520477,4.879187107,1.58,ml,15,83.40663242,0.07024543732,0.2649875912,ok,ok2022tqij,2022-10-07T07:37:49.479Z,"5 km S of Dover, Oklahoma",earthquake,3.631487684,3.240136325,,13,automatic,ok,ok
 2022-10-07T07:21:46.950Z,33.4895,-116.5053333,8.85,0.48,ml,14,58,0.07113,0.19,ci,ci40357080,2022-10-07T07:25:18.345Z,"17km ESE of Anza, CA",earthquake,0.44,0.99,0.318,8,automatic,ci,ci
 2022-10-07T07:11:30.800Z,38.838665,-122.8263321,1.68,0.86,md,13,95,0.00715,0.01,nc,nc73790366,2022-10-07T07:13:06.883Z,"9km NW of The Geysers, CA",earthquake,0.26,0.7,,1,automatic,nc,nc
 2022-10-07T07:06:43.930Z,19.2058334350586,-155.493499755859,31.4599990844727,2.23,ml,46,73,,0.100000001,hv,hv73169947,2022-10-07T07:12:14.610Z,"1 km WNW of Pāhala, Hawaii",earthquake,0.47,0.629999995,4.41,4,automatic,hv,hv
@@ -102,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-06T20:55:37.441Z,62.9497,-147.8599,136.5,1.7,ml,,,,0.79,ak,ak022ctr6d5c,2022-10-06T21:31:51.824Z,"73 km SE of Cantwell, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-10-06T20:52:27.590Z,43.57866666666666,-123.47833333333334,-0.18,1.46,ml,8,143,0.09698,0.08,uw,uw61886371,2022-10-07T02:58:52.730Z,"9 km SE of Elkton, Oregon",earthquake,0.36,0.32,0.16354714884434696,7,reviewed,uw,uw
 2022-10-06T20:47:07.923Z,31.73564266,-104.0978304,7.262719727000001,3.2,ml,64,48,0.03490771315,0.2,tx,tx2022tpmz,2022-10-06T21:28:04.608Z,"47 km W of Mentone, Texas",earthquake,0.4732260614,0.6354995939,0.2,30,reviewed,tx,tx
-2022-10-06T20:43:13.797Z,61.8387,-147.5485,34.9,4.9,ml,,,,0.55,ak,ak022ctr3qn3,2022-10-07T07:26:22.525Z,"6 km ENE of Glacier View, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2022-10-06T20:43:13.797Z,61.8387,-147.5485,34.9,4.9,ml,,,,0.55,ak,ak022ctr3qn3,2022-10-07T07:47:39.660Z,"6 km ENE of Glacier View, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2022-10-06T20:29:35.129Z,31.73468275,-104.1075209,7.674047852000001,2.9,ml,45,48,0.04229726902,0.2,tx,tx2022tpmk,2022-10-06T20:59:33.040Z,"48 km W of Mentone, Texas",earthquake,0.403035544,0.7471406834999998,0,6,reviewed,tx,tx
 2022-10-06T20:27:49.030Z,53.4296666666667,-168.054833333333,5.49,0.4,ml,7,184,,0.22,av,av91690536,2022-10-07T03:30:02.460Z,"76 km NE of Nikolski, Alaska",earthquake,0.77,1.07,0.385890995406411,7,reviewed,av,av
 2022-10-06T20:08:18.380Z,38.8066667,-122.812,1.95,1.59,md,49,57,0.01311,0.04,nc,nc73790271,2022-10-07T06:54:11.439Z,"6km NW of The Geysers, CA",earthquake,0.14,0.22,0.159,18,reviewed,nc,nc
@@ -237,6 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-06T08:00:25.250Z,38.8305,-122.802,1.64,0.46,md,20,64,0.009492,0.02,nc,nc73790071,2022-10-06T08:18:31.771Z,"7km W of Cobb, CA",earthquake,0.16,0.26,0.06,5,reviewed,nc,nc
 2022-10-06T08:00:00.560Z,38.8311653,-122.80233,1.71,0.94,md,8,72,0.009838,0.02,nc,nc73790066,2022-10-06T08:01:37.666Z,"7km W of Cobb, CA",earthquake,0.39,0.88,0.77,2,automatic,nc,nc
 2022-10-06T07:53:52.510Z,60.4271666666667,-152.764666666667,11.61,0.53,ml,7,184,,0.11,av,av91690136,2022-10-06T22:42:43.120Z,"73 km NW of Ninilchik, Alaska",earthquake,0.77,0.58,0.295511776508779,7,reviewed,av,av
-2022-10-06T07:47:45.330Z,33.2048333,-115.5393333,5.63,1.74,ml,25,95,0.06956,0.21,ci,ci40356496,2022-10-06T21:02:20.180Z,"4km SSW of Niland, CA",earthquake,0.34,0.56,0.239,25,reviewed,ci,ci
-2022-10-06T07:44:50.690Z,61.2903,-139.566,1.1,2.1,ml,,,,0.71,ak,ak022ctjdefx,2022-10-06T07:57:33.200Z,"126 km WNW of Haines Junction, Canada",earthquake,,0.3,,,automatic,ak,ak
-2022-10-06T07:41:54.540Z,17.9978333333333,-66.6676666666667,12.68,2.34,md,19,135,,0.1,pr,pr71375213,2022-10-06T08:06:13.190Z,"Puerto Rico",earthquake,0.28,0.21,0.0739015823222338,9,reviewed,pr,pr
