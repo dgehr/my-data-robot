@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-10T06:47:24.992Z,62.2564,-151.0274,75.6,1.1,ml,,,,0.32,ak,ak022d04xxyr,2022-10-10T06:49:10.851Z,"29 km SSW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-10-10T06:42:46.558Z,58.1671,-155.2402,0,1.2,ml,,,,0.52,ak,ak022d04wx1s,2022-10-10T06:44:30.889Z,"81 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-10-10T06:42:05.760Z,35.359,-118.5723333,4.17,1.48,ml,32,61,0.1411,0.16,ci,ci40358408,2022-10-10T06:53:14.300Z,"26km SSW of Bodfish, CA",earthquake,0.25,1.09,0.145,26,automatic,ci,ci
-2022-10-10T06:36:09.070Z,36.2890015,-120.8690033,6.49,1.59,md,12,118,0.07552,0.11,nc,nc73791681,2022-10-10T06:52:13.369Z,"22km NE of San Lucas, CA",earthquake,0.45,0.74,0.24,7,automatic,nc,nc
+2022-10-10T06:36:09.070Z,36.2890015,-120.8690033,6.49,1.59,md,12,118,0.07552,0.11,nc,nc73791681,2022-10-10T07:48:10.699Z,"22km NE of San Lucas, CA",earthquake,0.45,0.74,0.24,7,automatic,nc,nc
 2022-10-10T06:33:28.660Z,19.181999206543,-155.356674194336,29.4899997711182,2.11,ml,47,172,,0.129999995,hv,hv73173182,2022-10-10T06:45:44.033Z,"13 km E of Pāhala, Hawaii",earthquake,0.61,0.74000001,4.4,4,automatic,hv,hv
 2022-10-10T05:53:47.280Z,17.9946666666667,-66.7403333333333,11.69,2.56,md,20,170,,0.2,pr,pr71375878,2022-10-10T06:36:12.760Z,"2 km W of Tallaboa, Puerto Rico",earthquake,0.47,0.39,0.222166295184245,14,reviewed,pr,pr
 2022-10-10T05:50:03.474Z,60.1137,-140.8519,15.3,1.7,ml,,,,0.55,ak,ak022d04d3uj,2022-10-10T06:49:33.413Z,"89 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -188,5 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-09T08:23:11.583Z,31.64190362,-104.2401641,7.596923828000001,2.6,ml,25,66,0.114848525,0.2,tx,tx2022tuaz,2022-10-10T03:54:18.826Z,"55 km NW of Toyah, Texas",earthquake,1.1658687,1.830676016,0.2,27,reviewed,tx,tx
 2022-10-09T08:19:14.870Z,38.6645012,-122.7245026,6.85,1.16,md,21,221,0.05283,0.04,nc,nc73791316,2022-10-09T08:58:13.409Z,"13km SSW of Anderson Springs, CA",earthquake,0.69,0.84,0.05,6,automatic,nc,nc
 2022-10-09T08:05:34.400Z,33.1821667,-116.4246667,11.86,0.72,ml,18,54,0.08603,0.23,ci,ci40358088,2022-10-09T08:09:03.508Z,"9km SSW of Borrego Springs, CA",earthquake,0.44,0.97,0.158,12,automatic,ci,ci
-2022-10-09T07:52:23.630Z,38.7873344,-122.7683334,2.45,0.46,md,8,122,0.01488,0.01,nc,nc73791301,2022-10-09T07:53:58.828Z,"2km NW of The Geysers, CA",earthquake,0.42,0.87,0.4,2,automatic,nc,nc
-2022-10-09T07:45:44.210Z,18.8546666666667,-65.5368333333333,31.49,3.26,md,23,229,,0.34,pr,pr71375703,2022-10-09T08:19:43.030Z,"56 km NNE of Luquillo, Puerto Rico",earthquake,1.43,7.34,0.0907605239414526,16,reviewed,pr,pr
