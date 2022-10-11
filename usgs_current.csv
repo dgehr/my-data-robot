@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-11T19:46:39.210Z,19.2238330841064,-155.394500732422,31.2900009155273,1.74000001,md,28,148,,0.140000001,hv,hv73174892,2022-10-11T19:49:56.320Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.63,1.16999996,0.74000001,3,automatic,hv,hv
 2022-10-11T19:25:16.552Z,60.4012,-152.7332,14.5,0.8,ml,,,,0.36,ak,ak022d2036x3,2022-10-11T19:27:09.664Z,"70 km WNW of Ninilchik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-11T19:24:01.808Z,61.3051,-150.6666,58,1.4,ml,,,,0.28,ak,ak022d202y2c,2022-10-11T19:26:05.544Z,"27 km SSW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-10-11T19:21:51.110Z,19.1653327941895,-155.408493041992,26.3799991607666,2.22000003,md,22,238,,0.25,hv,hv73174852,2022-10-11T19:25:02.090Z,"Island of Hawaii, Hawaii",earthquake,1.32,2.32999992,2.22000003,4,automatic,hv,hv
@@ -126,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-11T06:22:55.740Z,59.8858,-152.0861,63.8,1.2,ml,,,,0.28,ak,ak022d1sbz9d,2022-10-11T06:25:11.922Z,"18 km NW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-10-11T06:21:07.980Z,52.4675,-169.9966,37.5,3.7,ml,,,,0.77,ak,ak022d1sbock,2022-10-11T16:52:59.606Z,"92 km SW of Nikolski, Alaska",earthquake,,1.1,,,reviewed,ak,ak
 2022-10-11T06:14:04.170Z,35.9426651,-120.4893341,10.41,2.17,md,39,84,0.01483,0.08,nc,nc73792061,2022-10-11T06:47:17.179Z,"7km NW of Parkfield, CA",earthquake,0.21,0.27,0.11,34,automatic,nc,nc
-2022-10-11T06:12:40.070Z,35.853,-91.5936667,7.77,2.19,md,22,77,0.3009,0.29,nm,nm60163743,2022-10-11T17:54:32.741Z,"9 km NNW of Moorefield, Arkansas",earthquake,0.53,1.63,0.196,14,reviewed,nm,nm
+2022-10-11T06:12:40.070Z,35.853,-91.5936667,7.77,2.19,md,22,77,0.3009,0.29,nm,nm60163743,2022-10-11T19:43:17.187Z,"9 km NNW of Moorefield, Arkansas",earthquake,0.53,1.63,0.196,14,reviewed,nm,nm
 2022-10-11T06:03:18.370Z,44.7848333,-110.8036667,7.18,0.13,md,5,203,0.03353,0.13,uu,uu60519962,2022-10-11T14:43:51.480Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.91,0.57,0.157,4,reviewed,uu,uu
 2022-10-11T05:57:28.160Z,36.2096667,-117.911,0.09,1.51,ml,15,106,0.1969,0.21,ci,ci40358984,2022-10-11T13:04:34.646Z,"12km SE of Olancha, CA",earthquake,0.39,1.34,0.187,15,reviewed,ci,ci
 2022-10-11T05:54:30.032Z,60.9691,-151.3903,56.1,1.6,ml,,,,0.92,ak,ak022d1rxd97,2022-10-11T05:57:03.941Z,"17 km SW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
