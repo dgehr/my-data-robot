@@ -80,7 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-13T00:36:40.220Z,38.8255,-122.8556667,2.42,0.19,md,19,96,0.002249,0.02,nc,nc73792911,2022-10-13T03:18:44.175Z,"10km WNW of The Geysers, CA",earthquake,0.22,0.4,0.33,3,reviewed,nc,nc
 2022-10-13T00:35:03.880Z,19.4703330993652,-155.591995239258,-1.26999998092651,1.75,md,11,79,,0.159999996,hv,hv73176337,2022-10-13T00:40:33.120Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.5,0.25,0.680000007,8,automatic,hv,hv
 2022-10-13T00:09:08.760Z,38.7878342,-122.7685013,1.96,1.64,md,29,80,0.0145,0.03,nc,nc73792901,2022-10-13T00:41:17.018Z,"2km NW of The Geysers, CA",earthquake,0.22,0.34,0.07,8,automatic,nc,nc
-2022-10-13T00:04:48.538Z,38.993,-118.1943,5.9,1.3,ml,10,101.01,0.091,0.1036,nn,nn00849137,2022-10-13T00:08:10.700Z,"California-Nevada border region",earthquake,,1.3,0.36,6,automatic,nn,nn
+2022-10-13T00:04:48.538Z,38.993,-118.1943,5.9,1.3,ml,10,101.01,0.091,0.1036,nn,nn00849137,2022-10-13T00:08:10.700Z,"27 km WNW of Gabbs, Nevada",earthquake,,1.3,0.36,6,automatic,nn,nn
 2022-10-13T00:01:39.190Z,38.9948,-118.1923,5,1.4,ml,8,137.46,0.089,0.1753,nn,nn00849136,2022-10-13T00:05:00.762Z,"27 km WNW of Gabbs, Nevada",earthquake,,1.7,0.33,5,automatic,nn,nn
 2022-10-12T23:58:00.800Z,33.686,-116.7268333,16.02,0.7,ml,17,74,0.02723,0.18,ci,ci40360048,2022-10-13T00:19:53.096Z,"6km S of Idyllwild, CA",earthquake,0.5,0.58,0.18,14,reviewed,ci,ci
 2022-10-12T23:47:42.897Z,38.9998,-118.1958,8.3,1.9,ml,19,52.08,0.088,0.1068,nn,nn00849132,2022-10-13T02:39:55.141Z,"27 km WNW of Gabbs, Nevada",earthquake,,1.5,0.27,9,reviewed,nn,nn
@@ -258,7 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-12T10:09:37.131Z,63.451,-149.5797,11.9,1.2,ml,,,,0.68,ak,ak022d3i693m,2022-10-12T10:12:41.941Z,"32 km WNW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-12T10:02:13.815Z,36.9412,95.8138,10,4.8,mb,28,101,13.388,0.49,us,us6000isz0,2022-10-12T10:22:26.040Z,"northern Qinghai, China",earthquake,9.46,1.764,0.127,19,reviewed,us,us
 2022-10-12T09:59:05.070Z,46.03366666666667,-119.7295,7.08,0.9,ml,14,153,0.1514,0.07,uw,uw61878477,2022-10-12T17:50:03.970Z,"19 km S of Prosser, Washington",earthquake,0.8,0.9,0.08427495948308833,11,reviewed,uw,uw
-2022-10-12T09:54:00.050Z,58.2315,-155.157666666667,2.28,-0.38,ml,4,220,,0.1,av,av91694086,2022-10-13T00:59:40.100Z,"84 km NNW of Karluk, Alaska",earthquake,0.6,0.78,0.299797458854781,4,reviewed,av,av
-2022-10-12T09:52:13.330Z,38.8226662,-122.8554993,2.42,1.2,md,27,55,0.004988,0.02,nc,nc73792566,2022-10-12T10:03:10.757Z,"10km WNW of The Geysers, CA",earthquake,0.21,0.37,0.02,5,automatic,nc,nc
-2022-10-12T09:51:10.350Z,58.2403333333333,-155.163833333333,4.49,0.73,ml,15,68,,0.22,av,av91694081,2022-10-13T00:56:03.840Z,"85 km NNW of Karluk, Alaska",earthquake,0.31,0.56,0.348326378739115,16,reviewed,av,av
-2022-10-12T09:50:46.190Z,35.5036667,-118.397,3.83,1.64,ml,29,50,0.1707,0.15,ci,ci40359648,2022-10-13T00:23:23.930Z,"13km SE of Bodfish, CA",earthquake,0.21,0.92,0.237,28,reviewed,ci,ci
