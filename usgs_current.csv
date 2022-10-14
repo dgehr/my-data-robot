@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-10-14T09:18:06.810Z,38.8388329,-122.8235016,1.26,0.58,md,15,86,0.009363,0.02,nc,nc73793321,2022-10-14T09:19:41.940Z,"9km WNW of Cobb, CA",earthquake,0.25,0.43,0.21,3,automatic,nc,nc
 2022-10-14T08:56:26.810Z,38.8440018,-122.8763351,2.77,0.37,md,8,97,0.007231,0.01,nc,nc73793316,2022-10-14T08:58:01.731Z,"13km NW of The Geysers, CA",earthquake,0.67,1.32,0.02,2,automatic,nc,nc
-2022-10-14T08:30:29.260Z,38.8320007,-122.7655029,-0.82,1.14,md,10,142,0.01358,0.29,nc,nc73793311,2022-10-14T08:40:11.218Z,"4km WNW of Cobb, CA",earthquake,1.04,3.55,0.03,2,automatic,nc,nc
+2022-10-14T08:30:29.260Z,38.8320007,-122.7655029,-0.82,1.14,md,10,142,0.01358,0.29,nc,nc73793311,2022-10-14T09:41:24.478Z,"4km WNW of Cobb, CA",earthquake,1.04,3.55,0.03,2,automatic,nc,nc
 2022-10-14T08:30:22.930Z,18.9028333333333,-65.2543333333333,42.19,3.4,md,11,250,,0.21,pr,pr71376968,2022-10-14T09:02:17.640Z,"Puerto Rico region",earthquake,1.24,3.73,0.00655075101202307,3,reviewed,pr,pr
 2022-10-14T08:16:29.370Z,33.404,-116.7221667,16.91,0.18,ml,8,146,0.1615,0.2,ci,ci40360800,2022-10-14T08:20:07.692Z,"14km ESE of Aguanga, CA",earthquake,1.08,1.8,0.045,3,automatic,ci,ci
 2022-10-14T08:11:39.360Z,17.9186666666667,-66.862,14.91,2.68,md,13,224,,0.12,pr,pr71376953,2022-10-14T08:29:49.290Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.56,0.45,0.0737511821765691,2,reviewed,pr,pr
@@ -93,7 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-13T23:35:24.280Z,17.9865,-67.0021666666667,11.39,2.32,md,4,153,,0.15,pr,pr71376928,2022-10-14T00:15:30.650Z,"Puerto Rico region",earthquake,0.87,1.42,0.154494813227474,3,reviewed,pr,pr
 2022-10-13T23:28:25.236Z,63.213,-149.5521,74,1.7,ml,,,,0.43,ak,ak022d5dka57,2022-10-13T23:30:15.753Z,"36 km WSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-10-13T23:17:51.452Z,60.1173,-152.9689,121.6,1.6,ml,,,,0.25,ak,ak022d5dhzb0,2022-10-13T23:32:42.040Z,"71 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-10-13T23:02:30.810Z,38.5561676,-121.802002,5.6,2.24,md,16,109,0.05257,0.31,nc,nc73793181,2022-10-13T23:51:21.026Z,"6km WNW of Davis, CA",earthquake,0.76,1.68,0.18,13,automatic,nc,nc
+2022-10-13T23:02:30.740Z,38.5563333,-121.8045,7.72,2.04,md,33,66,0.0507,0.21,nc,nc73793181,2022-10-14T09:37:10.453Z,"6km WNW of Davis, CA",earthquake,0.42,0.55,0.157,37,reviewed,nc,nc
 2022-10-13T22:57:08.080Z,47.912166666666664,-122.34333333333333,30.97,1.75,ml,36,55,0.04411,0.31,uw,uw61878742,2022-10-14T02:25:26.686Z,"3 km NNW of Picnic Point, Washington",earthquake,0.44,0.7,0.10878567476451084,24,reviewed,uw,uw
 2022-10-13T22:53:13.722Z,38.4675,-118.4057,7.6,-0.1,ml,7,130.64,0.063,0.1016,nn,nn00849201,2022-10-13T23:09:19.259Z,"20 km ESE of Hawthorne, Nevada",earthquake,,12.3,0,1,reviewed,nn,nn
 2022-10-13T22:47:46.490Z,60.4255,-152.762166666667,11.61,-0.26,ml,7,199,,0.12,av,av91695071,2022-10-14T03:57:08.180Z,"73 km NW of Ninilchik, Alaska",earthquake,0.83,0.6,0.240885286864616,7,reviewed,av,av
@@ -260,5 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-13T09:55:30.134Z,66.0888,-150.5104,0,1.8,ml,,,,0.84,ak,ak022d55e0dx,2022-10-13T09:57:41.412Z,"64 km W of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-13T09:51:19.180Z,44.786,-110.8056667,9.04,2.44,ml,32,99,0.03201,0.19,uu,uu60520287,2022-10-13T15:49:19.840Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.41,0.7,0.248,7,reviewed,uu,uu
 2022-10-13T09:48:56.900Z,45.3735,-121.71016666666667,2.94,0.08,ml,5,105,0.01528,0.07,uw,uw61502298,2022-10-13T17:11:54.140Z,"8 km NNE of Government Camp, Oregon",earthquake,0.39,0.65,0.11317465616113487,3,reviewed,uw,uw
-2022-10-13T09:45:22.898Z,36.7495,-116.285,9.1,-0.4,ml,5,228.77,0.015,0.0212,nn,nn00849211,2022-10-13T23:15:33.689Z,"45 km ESE of Beatty, Nevada",earthquake,,3.8,0,1,reviewed,nn,nn
-2022-10-13T09:29:23.760Z,35.0446667,-119.0136667,14.56,1.15,ml,22,117,0.1367,0.19,ci,ci40360304,2022-10-13T21:25:56.808Z,"14km NW of Grapevine, CA",earthquake,0.41,0.67,0.272,11,reviewed,ci,ci
