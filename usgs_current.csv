@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-16T19:24:23.221Z,58.1663,-155.8679,140.6,1.6,ml,,,,0.38,ak,ak022da9rq6q,2022-10-16T19:27:00.217Z,"74 km SE of King Salmon, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-10-16T18:53:08.555Z,8.5344,-82.7055,30.822,4.5,mb,22,143,0.259,1.14,us,us6000iu5n,2022-10-16T20:21:33.040Z,"1 km NNW of Santa Marta, Panama",earthquake,4.49,9.606,0.27,4,reviewed,us,us
 2022-10-16T18:50:59.803Z,62.1496,-151.9779,99.6,1.6,ml,,,,0.45,ak,ak022da9by0s,2022-10-16T18:52:57.759Z,"35 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-10-16T18:45:45.378Z,41.4876,142.1725,61.656,4.2,mb,16,159,0.906,1.05,us,us6000iu5m,2022-10-16T20:10:28.040Z,"Hokkaido, Japan region",earthquake,7.94,11.421,0.177,9,reviewed,us,us
+2022-10-16T18:45:45.378Z,41.4876,142.1725,61.656,4.2,mb,16,159,0.906,1.05,us,us6000iu5m,2022-10-16T20:10:28.040Z,"82 km ENE of Mutsu, Japan",earthquake,7.94,11.421,0.177,9,reviewed,us,us
 2022-10-16T18:30:11.440Z,38.8328323,-122.7983322,2.43,0.85,md,9,79,0.008363,0.02,nc,nc73794566,2022-10-16T20:51:17.204Z,"7km W of Cobb, CA",earthquake,0.5,1.7,,1,automatic,nc,nc
 2022-10-16T18:20:35.140Z,38.8325005,-122.8085022,2.31,1.31,md,26,46,0.009175,0.02,nc,nc73794561,2022-10-16T20:26:17.045Z,"8km W of Cobb, CA",earthquake,0.2,0.41,0.13,5,automatic,nc,nc
 2022-10-16T18:14:27.270Z,38.7993317,-122.7728348,1.26,1.51,md,31,73,0.01033,0.03,nc,nc73794556,2022-10-16T19:58:16.830Z,"3km NNW of The Geysers, CA",earthquake,0.19,0.29,0.14,8,automatic,nc,nc
