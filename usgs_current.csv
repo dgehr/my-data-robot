@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-27T20:42:18.740Z,37.6100006,-118.8590012,2.7,1.25,md,11,140,0.009509,0.02,nc,nc73799896,2022-10-27T20:43:52.056Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.4,1.01,0.2,11,automatic,nc,nc
-2022-10-27T20:35:07.210Z,37.6090012,-118.8611679,2.5,2.47,md,22,91,0.01007,0.02,nc,nc73799881,2022-10-27T20:41:13.141Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.19,0.29,0.18,31,automatic,nc,nc
+2022-10-27T20:42:18.740Z,37.6100006,-118.8590012,2.7,1.25,md,11,140,0.009509,0.02,nc,nc73799896,2022-10-27T20:50:10.452Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.4,1.01,0.2,11,automatic,nc,nc
+2022-10-27T20:35:07.210Z,37.6090012,-118.8611679,2.5,2.47,md,22,91,0.01007,0.02,nc,nc73799881,2022-10-27T20:50:01.907Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.19,0.29,0.18,31,automatic,nc,nc
 2022-10-27T20:34:29.940Z,37.6086655,-118.8606644,2.51,2.27,md,22,91,0.01047,0.02,nc,nc73799886,2022-10-27T20:41:13.000Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.26,0.36,0.2,24,automatic,nc,nc
 2022-10-27T20:14:07.150Z,19.2290000915527,-155.3681640625,32.0800018310547,1.95000005,md,34,154,,0.109999999,hv,hv73197377,2022-10-27T20:17:29.050Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.75,0.860000014,0.540000021,7,automatic,hv,hv
 2022-10-27T20:10:23.380Z,19.1646671295166,-155.488006591797,33.0200004577637,2.13000011,md,37,113,,0.119999997,hv,hv73197372,2022-10-27T20:14:12.950Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.64,0.970000029,0.150000006,17,automatic,hv,hv
