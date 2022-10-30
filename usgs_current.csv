@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-30T06:54:36.650Z,34.54922485,-97.341362,3.297162771,1.77,ml,19,69.97525787,0.02050605603,0.5548823936,ok,ok2022vghp,2022-10-30T06:56:09.202Z,"3 km SSE of Katie, Oklahoma",earthquake,3.101169629,2.121736494,,9,automatic,ok,ok
 2022-10-30T06:21:05.890Z,33.1878333,-115.6108333,2.5,1.29,ml,16,95,0.0109,0.15,ci,ci40127199,2022-10-30T06:24:39.981Z,"10km SW of Niland, CA",earthquake,0.34,0.22,0.162,22,automatic,ci,ci
 2022-10-30T06:13:33.710Z,35.7695,-117.5858333,6.15,1.11,ml,19,80,0.04711,0.19,ci,ci40127191,2022-10-30T06:17:03.936Z,"16km W of Searles Valley, CA",earthquake,0.38,0.8,0.104,11,automatic,ci,ci
 2022-10-30T06:03:18.880Z,37.6116676,-118.8594971,2.27,1.09,md,12,139,0.00781,0.01,nc,nc73801151,2022-10-30T06:22:11.824Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.31,0.71,0.11,12,automatic,nc,nc
@@ -180,5 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-29T07:06:07.290Z,19.1096668243408,-155.493499755859,12.7700004577637,2.41,ml,42,237,,0.189999998,hv,hv73199427,2022-10-29T07:42:53.040Z,"10 km ENE of Naalehu, Hawaii",earthquake,0.62,0.349999994,4.05,12,automatic,hv,hv
 2022-10-29T07:05:33.170Z,19.2398338317871,-155.495330810547,27.7000007629395,2.29,ml,13,207,,0.119999997,hv,hv73199422,2022-10-29T07:11:05.120Z,"Island of Hawaii, Hawaii",earthquake,1.4,1.75,3.85,14,automatic,hv,hv
 2022-10-29T07:04:41.230Z,33.9433333,-116.8581667,17.11,1.46,ml,53,26,0.1007,0.18,ci,ci40126687,2022-10-29T07:15:00.640Z,"3km NE of Banning, CA",earthquake,0.21,0.52,0.162,26,automatic,ci,ci
-2022-10-29T06:58:49.676Z,63.5451,-147.4438,5.5,1.8,ml,,,,0.59,ak,ak022dvk7y4n,2022-10-29T07:01:35.791Z,"75 km ESE of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-10-29T06:52:05.890Z,39.045166,-123.0851669,9.08,1.69,md,11,147,0.1339,0.05,nc,nc73800641,2022-10-29T08:42:10.020Z,"12km SE of Talmage, CA",earthquake,0.41,2.29,0.09,6,automatic,nc,nc
