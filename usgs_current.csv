@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-02T19:10:39.540Z,38.7985001,-122.7511673,2.38,1.2,md,11,97,0.007006,0.02,nc,nc73802471,2022-11-02T19:22:11.787Z,"2km N of The Geysers, CA",earthquake,0.34,0.94,1.19,3,automatic,nc,nc
+2022-11-02T19:19:59.560Z,17.9601666666667,-66.9165,13.86,2.05,md,6,208,0.03842,0.06,pr,pr71380608,2022-11-02T19:32:32.330Z,"1 km SW of Guánica, Puerto Rico",earthquake,0.58,0.28,0.0663707346998511,4,reviewed,pr,pr
+2022-11-02T19:10:39.540Z,38.7985001,-122.7511673,2.38,1.2,md,11,97,0.007006,0.02,nc,nc73802471,2022-11-02T19:28:12.821Z,"2km N of The Geysers, CA",earthquake,0.34,0.94,1.19,3,automatic,nc,nc
 2022-11-02T19:08:59.700Z,33.4903333,-116.805,4.83,0.87,ml,25,72,0.02232,0.14,ci,ci40128431,2022-11-02T19:12:38.407Z,"8km NE of Aguanga, CA",earthquake,0.21,0.6,0.136,23,automatic,ci,ci
 2022-11-02T19:05:04.620Z,19.4459991455078,-155.60417175293,-1.32000005245209,2.06,ml,14,91,,0.200000003,hv,hv73204977,2022-11-02T19:10:35.710Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.41,0.529999971,0.31,4,automatic,hv,hv
 2022-11-02T18:47:57.245Z,36.8239,-115.419,5.7,2.1,ml,35,113.54,0.383,0.1691,nn,nn00850475,2022-11-02T19:19:30.463Z,"36 km NE of Indian Springs, Nevada",earthquake,,2.2,0.41,25,reviewed,nn,nn
