@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-03T14:51:25.260Z,37.5040016,-118.8481674,5.7,1.71,md,14,143,0.0872,0.03,nc,nc73802686,2022-11-03T14:52:59.503Z,"16km WSW of Toms Place, CA",earthquake,0.74,1.55,0.1,14,automatic,nc,nc
-2022-11-03T14:50:19.250Z,38.7748337,-122.729332,1.64,1.06,md,12,70,0.01368,0.04,nc,nc73802681,2022-11-03T14:51:54.562Z,"2km E of The Geysers, CA",earthquake,0.36,0.69,0.15,4,automatic,nc,nc
+2022-11-03T14:51:25.260Z,37.5040016,-118.8481674,5.7,1.71,md,14,143,0.0872,0.03,nc,nc73802686,2022-11-03T15:03:10.955Z,"16km WSW of Toms Place, CA",earthquake,0.74,1.55,0.1,14,automatic,nc,nc
+2022-11-03T14:50:19.250Z,38.7748337,-122.729332,1.64,1.06,md,12,70,0.01368,0.04,nc,nc73802681,2022-11-03T15:08:10.990Z,"2km E of The Geysers, CA",earthquake,0.36,0.69,0.15,4,automatic,nc,nc
+2022-11-03T14:37:27.813Z,-27.7901,-71.1204,31.256,4.7,mb,24,140,0.415,1.04,us,us7000im7r,2022-11-03T15:13:48.040Z,"90 km WSW of Copiapó, Chile",earthquake,6.35,6.369,0.195,9,reviewed,us,us
 2022-11-03T14:35:59.720Z,19.1361675262451,-155.362335205078,30.6900005340576,2,md,36,192,,0.109999999,hv,hv73206162,2022-11-03T14:39:11.250Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.75,1,0.5,7,automatic,hv,hv
 2022-11-03T14:24:22.380Z,19.1918334960938,-155.390335083008,32.4099998474121,1.79999995,md,43,163,,0.119999997,hv,hv73206142,2022-11-03T14:27:32.920Z,"9 km E of Pāhala, Hawaii",earthquake,0.64,0.790000021,1.11000001,11,automatic,hv,hv
 2022-11-03T14:06:57.160Z,34.9361667,-119.443,1.66,1.74,ml,25,50,0.1899,0.25,ci,ci40128647,2022-11-03T14:17:47.060Z,"14km SSW of Maricopa, CA",earthquake,0.43,2.2,0.196,28,automatic,ci,ci
@@ -50,8 +51,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-03T07:15:37.194Z,-14.2042,167.1056,130.52,4.5,mb,29,142,8.37,0.47,us,us7000im4k,2022-11-03T08:06:20.040Z,"Vanuatu",earthquake,13.25,9.796,0.124,24,reviewed,us,us
 2022-11-03T07:07:18.120Z,19.1898326873779,-155.483840942383,32.0999984741211,2.56,ml,50,75,,0.119999997,hv,hv73205682,2022-11-03T08:26:09.040Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.5,0.899999976,3.93,13,automatic,hv,hv
 2022-11-03T07:06:02.557Z,62.0599,-149.6836,32,2.3,ml,,,,0.52,ak,ak022e3u6vbu,2022-11-03T07:21:20.040Z,"14 km SE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-11-03T07:02:49.400Z,33.9231667,-118.6651667,7,1.87,ml,32,147,0.1367,0.24,ci,ci40128591,2022-11-03T07:06:33.098Z,"12km S of Malibu Beach, CA",earthquake,0.64,1.42,0.148,27,automatic,ci,ci
-2022-11-03T06:18:32.770Z,33.7043333,-117.1151667,1.68,1.04,ml,9,166,0.1739,0.27,ci,ci40128583,2022-11-03T06:22:01.243Z,"3km W of Winchester, CA",earthquake,0.91,1.59,0.18,14,automatic,ci,ci
+2022-11-03T07:02:49.310Z,33.9288333,-118.673,9.82,2.04,ml,43,148,0.1321,0.18,ci,ci40128591,2022-11-03T15:15:22.840Z,"12km S of Malibu Beach, CA",earthquake,0.32,0.58,0.134,55,reviewed,ci,ci
+2022-11-03T06:18:33.940Z,33.9383333,-117.1931667,12.55,0.92,ml,22,81,0.07716,0.14,ci,ci40128583,2022-11-03T15:03:43.299Z,"4km ENE of Moreno Valley, CA",earthquake,0.23,0.56,0.204,10,reviewed,ci,ci
 2022-11-03T06:16:51.982Z,63.1833,-150.8264,129.2,1.9,ml,,,,0.26,ak,ak022e3tnopa,2022-11-03T06:19:15.229Z,"60 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-11-03T06:03:48.630Z,19.3328333333333,-155.128666666667,6.52,3.31,ml,48,123,,0.1,hv,hv73205617,2022-11-03T10:10:01.494Z,"Island of Hawaii, Hawaii",earthquake,0.32,0.42,0.189254494684453,35,reviewed,hv,hv
 2022-11-03T06:00:30.754Z,61.6577,-146.9957,19.7,2,ml,,,,0.73,ak,ak022e3tk7lv,2022-11-03T06:02:12.861Z,"32 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -119,6 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-02T22:57:05.370Z,32.7976667,-115.4556667,10.11,1.62,ml,11,172,0.01068,0.15,ci,ci40128471,2022-11-03T00:57:33.295Z,"7km WSW of Holtville, CA",earthquake,0.5,0.66,0.196,9,reviewed,ci,ci
 2022-11-02T22:53:17.790Z,35.8846667,-117.7005,4.36,1.07,ml,9,105,0.09501,0.06,ci,ci40128479,2022-11-03T01:44:02.938Z,"19km ESE of Little Lake, CA",earthquake,0.19,0.38,0.103,9,reviewed,ci,ci
 2022-11-02T22:51:11.510Z,46.595666666666666,-119.855,6.69,1.26,ml,12,232,0.03718,0.06,uw,uw61890901,2022-11-03T03:32:13.650Z,"Washington",earthquake,0.32,0.14,0.15159656452982662,10,reviewed,uw,uw
+2022-11-02T22:49:54.460Z,60.4368333333333,-152.757166666667,11.89,-0.34,ml,5,177,,0.06,av,av91708421,2022-11-03T15:03:06.650Z,"Southern Alaska",earthquake,0.82,0.55,0.180145360038222,5,reviewed,av,av
 2022-11-02T22:49:23.940Z,38.7886658,-122.7678299,2.28,0.81,md,10,79,0.01352,0.02,nc,nc73802531,2022-11-02T23:10:11.159Z,"2km NW of The Geysers, CA",earthquake,0.35,0.77,0.5,2,automatic,nc,nc
 2022-11-02T22:42:37.200Z,38.824501,-122.7979965,2.81,0.84,md,14,55,0.009498,0.01,nc,nc73802526,2022-11-02T22:59:14.091Z,"6km NW of The Geysers, CA",earthquake,0.32,0.92,,1,automatic,nc,nc
 2022-11-02T22:21:11.220Z,60.4345,-152.7645,11.91,-0.12,ml,5,166,,0.06,av,av91708406,2022-11-03T14:55:44.010Z,"74 km NW of Ninilchik, Alaska",earthquake,0.82,0.55,0.156533307654495,5,reviewed,av,av
@@ -154,6 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-02T19:10:39.540Z,38.7985001,-122.7511673,2.38,1.2,md,11,97,0.007006,0.02,nc,nc73802471,2022-11-02T21:39:13.619Z,"2km N of The Geysers, CA",earthquake,0.34,0.94,1.19,3,automatic,nc,nc
 2022-11-02T19:08:59.580Z,33.4888333,-116.8095,6.27,0.86,ml,35,31,0.02469,0.17,ci,ci40128431,2022-11-02T19:48:50.761Z,"7km NE of Aguanga, CA",earthquake,0.17,0.51,0.103,14,reviewed,ci,ci
 2022-11-02T19:05:04.690Z,19.4485,-155.600666666667,-0.52,1.88,ml,18,85,,0.11,hv,hv73204977,2022-11-02T20:52:20.140Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.19,0.0821144589773637,5,reviewed,hv,hv
+2022-11-02T18:58:22.579Z,34.5545,-97.348,3.08,1.43,ml,36,86,0.01709664506,0.2,ok,ok2022vmrz,2022-11-03T15:16:25.432Z,"2 km S of Katie, Oklahoma",earthquake,,0.5,0.13,5,reviewed,ok,ok
 2022-11-02T18:55:05.870Z,44.794,-110.7941667,6.29,1.1,ml,10,211,0.04051,0.17,uu,uu60523057,2022-11-02T21:44:27.780Z,"Wyoming",earthquake,0.72,1.01,0.327,2,reviewed,uu,uu
 2022-11-02T18:54:42.840Z,44.7876667,-110.7901667,5.11,0.15,md,6,209,0.04297,0.14,uu,uu60032054,2022-11-02T21:45:31.580Z,"22 km SSW of Mammoth, Wyoming",earthquake,1.2,0.95,0.132,3,reviewed,uu,uu
 2022-11-02T18:52:48.760Z,44.7776667,-110.8041667,8.03,2.44,ml,23,94,0.03468,0.18,uu,uu60523052,2022-11-02T21:12:28.750Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.44,0.8,0.24,6,reviewed,uu,uu
@@ -166,7 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-02T17:57:51.313Z,-32.2936,-176.9644,10,4.7,mb,19,216,3.132,0.92,us,us7000im11,2022-11-02T18:47:44.040Z,"south of the Kermadec Islands",earthquake,6.22,1.984,0.147,14,reviewed,us,us
 2022-11-02T17:49:22.070Z,38.7953339,-122.7853317,3.74,0.84,md,10,125,0.002952,0.01,nc,nc73802451,2022-11-02T20:19:12.120Z,"3km NW of The Geysers, CA",earthquake,0.54,0.94,,1,automatic,nc,nc
 2022-11-02T17:44:12.353Z,61.6481,-146.5663,29.2,1.7,ml,,,,0.63,ak,ak022e2cu0ur,2022-11-02T17:46:04.647Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-11-02T17:41:23.293Z,35.9597,30.9009,55.558,4.8,mb,83,98,1.084,0.98,us,us7000im0t,2022-11-03T07:39:08.461Z,"67 km SE of Beykonak, Turkey",earthquake,6.09,6.639,0.059,88,reviewed,us,us
+2022-11-02T17:41:23.293Z,35.9597,30.9009,55.558,4.8,mb,83,98,1.084,0.98,us,us7000im0t,2022-11-03T15:08:15.156Z,"67 km SE of Beykonak, Turkey",earthquake,6.09,6.639,0.059,88,reviewed,us,us
 2022-11-02T17:37:45.351Z,60.9448,-151.8936,2.3,1.1,ml,,,,1.33,ak,ak022e2csldz,2022-11-02T18:14:36.410Z,"43 km WSW of Tyonek, Alaska",earthquake,,24.2,,,automatic,ak,ak
 2022-11-02T17:29:35.316Z,62.1038,-148.1382,32.1,2.2,ml,,,,0.53,ak,ak022e2cquvv,2022-11-02T17:31:11.684Z,"38 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-02T17:17:17.740Z,44.7751667,-110.8065,6.15,1.87,ml,16,89,0.03399,0.19,uu,uu60523032,2022-11-02T19:25:09.280Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.45,1.02,0.257,4,reviewed,uu,uu
