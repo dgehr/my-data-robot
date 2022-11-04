@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-04T21:44:03.800Z,38.8283348,-122.7941666,1.46,0.89,md,21,39,0.01049,0.02,nc,nc73803516,2022-11-04T21:45:39.964Z,"6km W of Cobb, CA",earthquake,0.2,0.38,0.15,4,automatic,nc,nc
 2022-11-04T21:40:03.680Z,38.8303337,-122.7956696,1.57,0.85,md,7,81,0.009073,0.01,nc,nc73803511,2022-11-04T21:41:39.902Z,"6km W of Cobb, CA",earthquake,0.48,1.14,,1,automatic,nc,nc
-2022-11-04T21:33:18.550Z,38.8278351,-122.7973328,1.49,0.95,md,22,40,0.0109,0.02,nc,nc73803506,2022-11-04T21:34:54.800Z,"6km W of Cobb, CA",earthquake,0.19,0.34,0.06,4,automatic,nc,nc
+2022-11-04T21:33:18.550Z,38.8278351,-122.7973328,1.49,0.95,md,22,40,0.0109,0.02,nc,nc73803506,2022-11-04T21:47:10.526Z,"6km W of Cobb, CA",earthquake,0.19,0.34,0.06,4,automatic,nc,nc
 2022-11-04T21:31:20.000Z,76.164,-105.002,20,4.8,Mb,32,111.59999107200072,8.982255,1.61,at,at00rkueg8,2022-11-04T21:42:28.310Z,"Melville Island region, Nunavut, Canada",earthquake,0,0,,27,reviewed,at,at
 2022-11-04T21:14:01.560Z,34.036,-117.5483333,6.95,0.97,ml,23,64,0.03321,0.22,ci,ci40129127,2022-11-04T21:17:41.322Z,"6km NNW of Mira Loma, CA",earthquake,0.4,0.99,0.227,23,automatic,ci,ci
 2022-11-04T21:08:46.980Z,38.8358345,-122.7916641,2.5,0.36,md,8,79,0.00277,0.02,nc,nc73803486,2022-11-04T21:19:11.230Z,"6km WNW of Cobb, CA",earthquake,0.5,1.59,,1,automatic,nc,nc
@@ -29,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-04T20:29:15.420Z,38.8264999,-122.8003311,0.39,2.61,md,42,30,0.008218,0.05,nc,nc73803366,2022-11-04T21:41:18.488Z,"7km NW of The Geysers, CA",earthquake,0.13,0.23,0.24,19,automatic,nc,nc
 2022-11-04T20:29:04.420Z,38.8294983,-122.8018341,0.75,0.63,md,9,101,0.008864,0.01,nc,nc73803346,2022-11-04T20:30:40.883Z,"7km W of Cobb, CA",earthquake,0.28,1.15,,1,automatic,nc,nc
 2022-11-04T20:27:18.620Z,38.8326683,-122.7990036,2.05,1.23,md,15,80,0.02025,0.02,nc,nc73803316,2022-11-04T21:31:13.304Z,"7km W of Cobb, CA",earthquake,0.31,0.85,,1,automatic,nc,nc
-2022-11-04T20:26:32.930Z,38.8331667,-122.7961667,2.47,3.19,ml,90,22,0.006934,0.05,nc,nc73803326,2022-11-04T21:42:48.846Z,"6km W of Cobb, CA",earthquake,0.09,0.12,0.198,82,reviewed,nc,nc
+2022-11-04T20:26:32.930Z,38.8331667,-122.7961667,2.47,3.19,ml,90,22,0.006934,0.05,nc,nc73803326,2022-11-04T21:46:10.408Z,"6km W of Cobb, CA",earthquake,0.09,0.12,0.198,82,reviewed,nc,nc
 2022-11-04T20:22:41.190Z,38.8313332,-122.8164978,1.9,0.94,md,22,51,0.009381,0.02,nc,nc73803311,2022-11-04T20:57:15.086Z,"8km NW of The Geysers, CA",earthquake,0.21,0.42,0.12,4,automatic,nc,nc
 2022-11-04T20:21:54.850Z,38.7868347,-122.769165,2.08,0.67,md,11,124,0.01563,0.03,nc,nc73803306,2022-11-04T20:49:14.036Z,"2km NW of The Geysers, CA",earthquake,0.37,0.81,0.14,2,automatic,nc,nc
 2022-11-04T20:18:49.776Z,61.984,-150.4931,17.3,3.1,ml,,,,0.31,ak,ak022e5pjixd,2022-11-04T21:42:02.040Z,"35 km NW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
