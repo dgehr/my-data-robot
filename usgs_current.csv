@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-11-07T22:40:37.957Z,61.6354,-141.9831,10.7,1.2,ml,,,,0.92,ak,ak022eaph4gj,2022-11-07T22:42:07.945Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-11-07T22:34:55.000Z,35.5841667,-117.5683333,10.8,1.36,ml,11,133,0.08654,0.18,ci,ci40130063,2022-11-07T22:38:37.936Z,"10km ESE of Ridgecrest, CA",earthquake,0.53,0.91,0.143,17,automatic,ci,ci
+2022-11-07T22:30:38.796Z,18.5094,-68.9169,181.414,3.1,ml,15,167,0.509,0.22,us,us7000in6e,2022-11-07T22:55:49.040Z,"10 km NNE of La Romana, Dominican Republic",earthquake,12.64,6.535,0.059,38,reviewed,us,us
 2022-11-07T22:12:06.852Z,64.5039,-152.5195,0,1.8,ml,,,,0.42,ak,ak022eapb25q,2022-11-07T22:18:01.468Z,"69 km N of Lake Minchumina, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-07T22:08:45.783Z,61.7006,-141.8234,0,1.6,ml,,,,0.28,ak,ak022eapaa5e,2022-11-07T22:10:09.303Z,"65 km ENE of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-07T22:08:26.720Z,18.271,-68.0306666666667,107.1,3.43,md,16,160,0.2149,0.32,pr,pr71381213,2022-11-07T22:39:25.520Z,"52 km SE of Punta Cana, Dominican Republic",earthquake,2.11,1.54,0.0844617615008034,10,reviewed,pr,pr
@@ -209,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-06T23:18:39.660Z,32.7533333,-115.8235,9.78,1.11,ml,19,85,0.1321,0.15,ci,ci40129727,2022-11-07T15:48:31.656Z,"16km E of Ocotillo, CA",earthquake,0.27,0.69,0.133,11,reviewed,ci,ci
 2022-11-06T23:17:04.750Z,36.69966667,-97.6725,7.57,1.32,ml,40,60,0.218657092,0.17,ok,ok2022vuin,2022-11-07T20:22:25.000Z,"10 km W of Lamont, Oklahoma",earthquake,,0.6,0.32,5,reviewed,ok,ok
 2022-11-06T23:11:21.019Z,35.13166667,-95.54216667,6.96,1.69,ml,45,85,0.09268181267,0.27,ok,ok2022vuii,2022-11-07T20:12:29.101Z,"11 km ESE of Canadian, Oklahoma",earthquake,,0.8,0.15,4,reviewed,ok,ok
-2022-11-06T22:56:36.530Z,19.2098331451416,-155.478668212891,34.189998626709,2.33,ml,48,86,,0.100000001,hv,hv73211007,2022-11-07T22:37:42.040Z,"0 km N of Pāhala, Hawaii",earthquake,0.51,0.610000014,3.58,15,automatic,hv,hv
-2022-11-06T22:54:08.509Z,34.66583333,-96.0045,23.54,2.55,ml,74,88,0.3212369623,0.29,ok,ok2022vuhu,2022-11-07T22:00:57.040Z,"2 km ENE of Wardville, Oklahoma",earthquake,,0.6,0.2,19,reviewed,ok,ok
