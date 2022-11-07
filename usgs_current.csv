@@ -1,10 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-11-07T23:27:09.522Z,60.7965,-147.5053,13.2,1.2,ml,,,,0.78,ak,ak022eapzpks,2022-11-07T23:36:00.779Z,"45 km W of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-11-07T23:18:04.798Z,61.0326,-148.9023,2.6,3.2,ml,,,,0.89,ak,ak022eapxrqd,2022-11-07T23:38:30.865Z,"17 km NE of Girdwood, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2022-11-07T23:18:04.798Z,61.0326,-148.9023,2.6,3.2,ml,,,,0.89,ak,ak022eapxrqd,2022-11-07T23:48:57.974Z,"17 km NE of Girdwood, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2022-11-07T23:01:20.380Z,38.8341675,-122.815834,1.66,0.89,md,17,116,0.01166,0.01,nc,nc73802585,2022-11-07T23:34:14.642Z,"8km W of Cobb, CA",earthquake,0.27,0.54,0.08,4,automatic,nc,nc
 2022-11-07T22:40:37.957Z,61.6354,-141.9831,10.7,1.2,ml,,,,0.92,ak,ak022eaph4gj,2022-11-07T22:42:07.945Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-11-07T22:34:55.000Z,35.5841667,-117.5683333,10.8,1.36,ml,11,133,0.08654,0.18,ci,ci40130063,2022-11-07T22:38:37.936Z,"10km ESE of Ridgecrest, CA",earthquake,0.53,0.91,0.143,17,automatic,ci,ci
-2022-11-07T22:30:38.796Z,18.5094,-68.9169,181.414,3.1,ml,15,167,0.509,0.22,us,us7000in6e,2022-11-07T22:55:49.040Z,"10 km NNE of La Romana, Dominican Republic",earthquake,12.64,6.535,0.059,38,reviewed,us,us
+2022-11-07T22:30:40.590Z,18.4441,-68.8245,177,4.05,md,16,335,0.4486,0.37,pr,pr2022311007,2022-11-07T23:42:16.198Z,"15 km E of La Romana, Dominican Republic",earthquake,5.47,1.65,0.11,11,reviewed,pr,pr
 2022-11-07T22:12:06.852Z,64.5039,-152.5195,0,1.8,ml,,,,0.42,ak,ak022eapb25q,2022-11-07T22:18:01.468Z,"69 km N of Lake Minchumina, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-07T22:08:45.783Z,61.7006,-141.8234,0,1.6,ml,,,,0.28,ak,ak022eapaa5e,2022-11-07T22:10:09.303Z,"65 km ENE of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-07T22:08:26.720Z,18.271,-68.0306666666667,107.1,3.43,md,16,160,0.2149,0.32,pr,pr71381213,2022-11-07T22:39:25.520Z,"52 km SE of Punta Cana, Dominican Republic",earthquake,2.11,1.54,0.0844617615008034,10,reviewed,pr,pr
@@ -205,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-07T00:06:06.040Z,58.242,-155.2133,0,0.6,ml,,,,0.61,ak,ak022eac68cc,2022-11-07T02:17:35.860Z,"87 km NNW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-11-07T00:04:18.470Z,38.8310013,-122.8151703,1.3,1.17,md,12,84,0.008575,0.01,nc,nc73804516,2022-11-07T02:39:13.978Z,"8km NW of The Geysers, CA",earthquake,0.26,0.73,,1,automatic,nc,nc
 2022-11-06T23:59:09.009Z,60.9206,-150.969,17.7,1.6,ml,,,,0.3,ak,ak022e92n7xw,2022-11-07T00:01:17.509Z,"15 km W of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-11-06T23:50:46.750Z,60.3765,-158.9959,36.6,3.1,ml,,,,0.49,ak,ak022e92lder,2022-11-07T00:55:58.040Z,"Southern Alaska",earthquake,,20.3,,,automatic,ak,ak
