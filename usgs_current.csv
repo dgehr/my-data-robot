@@ -70,10 +70,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-07T05:19:01.183Z,2.1751,126.9786,85.209,4.5,mb,26,149,1.447,0.42,us,us7000in0b,2022-11-07T11:39:14.040Z,"124 km WNW of Tobelo, Indonesia",earthquake,7.96,6.373,0.14,15,reviewed,us,us
 2022-11-07T05:17:53.148Z,38.1525,-118.3512,4,1.4,ml,9,117.89,0.253,0.1893,nn,nn00850720,2022-11-07T05:21:19.782Z,"33 km SW of Mina, Nevada",earthquake,,4.6,0.17,4,automatic,nn,nn
 2022-11-07T05:13:56.760Z,31.564,-115.69,-0.2,2.51,ml,7,207,0.1899,0.14,ci,ci40129879,2022-11-07T05:30:52.240Z,"85km ESE of Maneadero, B.C., MX",earthquake,2.46,4.87,0.096,40,reviewed,ci,ci
-2022-11-07T05:10:26.980Z,31.5545006,-115.6968307,2.47,3.68,mlr,21,87,0.1788,0.3,ci,ci40129871,2022-11-07T14:12:12.671Z,"84km ESE of Maneadero, B.C., MX",earthquake,0.38,2.09,0.277,23,reviewed,ci,ci
+2022-11-07T05:10:26.660Z,31.509,-115.782,21.56,3.81,ml,9,164,0.1173,0.14,ci,ci40129871,2022-11-07T14:57:45.869Z,"78km ESE of Maneadero, B.C., MX",earthquake,0.62,0.85,0.152,76,reviewed,ci,ci
 2022-11-07T05:07:12.600Z,61.2296,-142.0611,1.1,2.2,ml,,,,0.43,ak,ak022eaf5ml8,2022-11-07T05:09:18.725Z,"51 km ESE of McCarthy, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-11-07T05:04:53.015Z,58.2267,-155.213,0,0.5,ml,,,,0.31,ak,ak022eaf52k5,2022-11-07T05:08:36.919Z,"85 km NNW of Karluk, Alaska",earthquake,,54.7,,,automatic,ak,ak
-2022-11-07T04:59:02.620Z,31.5571667,-115.6993333,7.04,4.08,mw,14,87,0.1804,0.1,ci,ci40129847,2022-11-07T14:50:47.298Z,"84km ESE of Maneadero, B.C., MX",earthquake,0.22,0.92,,4,reviewed,ci,ci
+2022-11-07T04:59:02.620Z,31.5571667,-115.6993333,7.04,4.08,mw,14,87,0.1804,0.1,ci,ci40129847,2022-11-07T14:52:10.460Z,"84km ESE of Maneadero, B.C., MX",earthquake,0.22,0.92,,4,reviewed,ci,ci
 2022-11-07T04:55:45.866Z,61.0399,-148.2933,0,1.9,ml,,,,1.25,ak,ak022eaeujx6,2022-11-07T04:58:23.366Z,"36 km NE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-07T04:52:55.240Z,31.552166,-115.7073364,4.54,3.62,mlr,17,89,0.1731,0.29,ci,ci40129839,2022-11-07T05:56:34.860Z,"83km ESE of Maneadero, B.C., MX",earthquake,0.47,2.21,0.214,23,reviewed,ci,ci
 2022-11-07T04:50:32.980Z,31.5020008,-115.809166,20.98,3.19,ml,8,179,0.1123,0.17,ci,ci40129831,2022-11-07T05:27:29.040Z,"76km ESE of Maneadero, B.C., MX",earthquake,1.1,1.09,0.138,24,automatic,ci,ci
@@ -87,7 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-07T03:48:42.339Z,58.5085,-153.5406,56.5,0.3,ml,,,,0.63,ak,ak022eae7ksn,2022-11-07T05:50:18.410Z,"62 km NW of Aleneva, Alaska",earthquake,,6.5,,,automatic,ak,ak
 2022-11-07T03:47:17.860Z,35.9916667,-117.31,2.01,1.4,ml,12,206,0.1028,0.19,ci,ci40129799,2022-11-07T03:50:56.510Z,"26km NNE of Trona, CA",earthquake,1.21,1.68,0.108,14,automatic,ci,ci
 2022-11-07T03:31:37.808Z,60.5845,-152.6084,20.4,1.6,ml,,,,0.93,ak,ak022eae3yic,2022-11-07T03:34:11.806Z,"70 km W of Salamatof, Alaska",earthquake,,25.5,,,automatic,ak,ak
-2022-11-07T03:25:24.586Z,37.0186,71.146,103.081,5.4,mb,90,44,2.508,0.61,us,us7000imzu,2022-11-07T08:16:33.067Z,"32 km ENE of Jurm, Afghanistan",earthquake,5.93,6.467,0.035,286,reviewed,us,us
+2022-11-07T03:25:24.586Z,37.0186,71.146,103.081,5.4,mb,90,44,2.508,0.61,us,us7000imzu,2022-11-07T14:58:33.490Z,"32 km ENE of Jurm, Afghanistan",earthquake,5.93,6.467,0.035,286,reviewed,us,us
 2022-11-07T03:08:54.968Z,57.496,-154.1442,21.5,2.6,ml,,,,0.24,ak,ak022eadz2d4,2022-11-07T04:17:05.040Z,"11 km WSW of Larsen Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-07T03:03:44.570Z,58.0505,-155.4971,116.8,1.7,ml,,,,0.68,ak,ak022eadxz0j,2022-11-07T04:00:22.040Z,"81 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-07T02:36:31.940Z,19.6766,-65.8173,6,3.79,md,16,291,1.3933,0.3,pr,pr2022311001,2022-11-07T04:00:38.447Z,"137 km NNE of San Juan, Puerto Rico",earthquake,5.2,4.53,0.04,13,reviewed,pr,pr
@@ -120,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-06T23:30:18.870Z,33.254,-116.7786667,6.83,0.69,ml,22,55,0.02452,0.16,ci,ci40129743,2022-11-06T23:33:48.447Z,"2km NW of Lake Henshaw, CA",earthquake,0.24,0.74,0.134,18,automatic,ci,ci
 2022-11-06T23:27:48.060Z,19.2425003051758,-155.406326293945,33.060001373291,2.02999997,md,43,132,,0.119999997,hv,hv73211042,2022-11-06T23:31:10.280Z,"Island of Hawaii, Hawaii",earthquake,0.57,0.879999995,1.63999999,27,automatic,hv,hv
 2022-11-06T23:19:45.470Z,32.755,-115.8336667,0.95,1.33,ml,15,82,0.1306,0.27,ci,ci40129735,2022-11-06T23:23:25.511Z,"15km E of Ocotillo, CA",earthquake,0.48,31.61,0.25,16,automatic,ci,ci
-2022-11-06T23:19:14.050Z,18.9788333333333,-65.0448333333333,20.22,3.43,md,20,262,0.6287,0.26,pr,pr71381008,2022-11-07T00:06:44.860Z,"71 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.13,23.56,0.155103301077729,13,reviewed,pr,pr
+2022-11-06T23:19:14.050Z,18.9788333333333,-65.0448333333333,20.22,3.43,md,20,262,0.6287,0.26,pr,pr71381008,2022-11-07T00:06:44.860Z,"Puerto Rico region",earthquake,1.13,23.56,0.155103301077729,13,reviewed,pr,pr
 2022-11-06T23:18:39.740Z,32.7573333,-115.8196667,7.4,1.22,ml,11,138,0.1334,0.16,ci,ci40129727,2022-11-06T23:22:09.011Z,"16km E of Ocotillo, CA",earthquake,0.47,1.42,0.213,15,automatic,ci,ci
 2022-11-06T23:17:02.381Z,36.64936447,-97.858078,34.83001709,1.59,ml,10,105.2339325,0.153807193,0.952917088,ok,ok2022vuin,2022-11-06T23:19:26.105Z,"5 km WSW of Pond Creek, Oklahoma",earthquake,,7.237140432,,8,automatic,ok,ok
 2022-11-06T22:56:36.530Z,19.2098331451416,-155.478668212891,34.189998626709,2.33,ml,48,86,,0.100000001,hv,hv73211007,2022-11-06T23:25:31.267Z,"0 km N of Pāhala, Hawaii",earthquake,0.51,0.610000014,3.58,15,automatic,hv,hv
@@ -182,4 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-06T15:23:03.690Z,35.8908333,-117.6941667,4.32,1.03,ml,21,77,0.1002,0.12,ci,ci40129615,2022-11-06T21:11:33.701Z,"20km ESE of Little Lake, CA",earthquake,0.17,0.36,0.114,10,reviewed,ci,ci
 2022-11-06T15:20:04.050Z,19.1919994354248,-155.3818359375,32.1399993896484,1.92999995,md,42,186,,0.119999997,hv,hv73210487,2022-11-06T15:23:18.720Z,"10 km E of Pāhala, Hawaii",earthquake,0.73,0.75,1.21000004,9,automatic,hv,hv
 2022-11-06T15:12:48.060Z,35.7136667,-117.5058333,13.61,0.65,ml,7,288,0.1262,0.07,ci,ci40129607,2022-11-06T18:45:25.709Z,"11km WSW of Searles Valley, CA",earthquake,1.11,0.51,0.229,7,reviewed,ci,ci
-2022-11-06T14:57:41.550Z,38.7763329,-122.7233353,1.25,0.86,md,6,145,0.01253,0.01,nc,nc73804416,2022-11-06T15:32:13.937Z,"3km W of Anderson Springs, CA",earthquake,1.11,0.58,0.01,3,automatic,nc,nc
