@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-08T05:48:01.895Z,63.0508,-151.5369,0,2.1,ml,,,,0.84,ak,ak022ec2xqm5,2022-11-08T05:50:21.091Z,"55 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-08T05:04:50.270Z,38.8381653,-122.8383331,1.21,1.35,md,17,82,0.01525,0.01,nc,nc73802650,2022-11-08T05:22:15.643Z,"10km NW of The Geysers, CA",earthquake,0.19,0.45,0.2,4,automatic,nc,nc
 2022-11-08T05:00:36.391Z,63.0582,-151.5312,0,1.9,ml,,,,0.89,ak,ak022ec2niwn,2022-11-08T05:02:38.568Z,"54 km S of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-08T04:55:39.380Z,17.905,-66.8931666666667,14.95,2.21,md,11,232,0.06844,0.07,pr,pr71381268,2022-11-08T05:07:53.190Z,"7 km SSE of Guánica, Puerto Rico",earthquake,0.64,0.56,0.044029134735331,7,reviewed,pr,pr
