@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-12T07:46:04.555Z,36.09088516,-97.4545517,3.839394331,1.68,ml,43,22.29507446,0.08409439027,0.2597090411,ok,ok2022wecv,2022-11-12T07:47:17.012Z,"5 km NW of Mulhall, Oklahoma",earthquake,1.725991793,1.551986016,,12,automatic,ok,ok
+2022-11-12T07:46:04.633Z,36.09043503,-97.45282745,3.504347324,1.96,ml,46,21.5668335,0.08489265293,0.2989586091,ok,ok2022wecv,2022-11-12T07:48:36.784Z,"Oklahoma",earthquake,1.654504362,1.477119717,,36,automatic,ok,ok
 2022-11-12T07:29:33.488Z,-20.0613,-178.4259,577.421,5.1,mb,98,47,3.213,0.6,us,us7000ip8v,2022-11-12T07:46:20.040Z,"Fiji region",earthquake,12.45,7.944,0.038,228,reviewed,us,us
 2022-11-12T07:09:14.046Z,-20.1155,-178.3627,587.189,7,mww,168,21,3.139,0.78,us,us7000ip8h,2022-11-12T07:42:46.930Z,"Fiji region",earthquake,9.23,3.277,0.06,27,reviewed,us,us
+2022-11-12T07:08:11.105Z,36.5274,71.2074,83.123,4.6,mb,45,106,0.783,0.68,us,us7000ip8g,2022-11-12T07:52:25.040Z,"33 km WSW of Ashkāsham, Afghanistan",earthquake,5.05,7.032,0.1,30,reviewed,us,us
 2022-11-12T07:07:37.030Z,38.8284988,-122.8050003,1.09,0.46,md,12,65,0.006456,0.01,nc,nc73804150,2022-11-12T07:47:10.977Z,"7km NW of The Geysers, CA",earthquake,0.24,1.04,0.39,2,automatic,nc,nc
 2022-11-12T06:58:50.650Z,34.0471667,-117.238,15.39,1.81,ml,69,23,0.0756,0.2,ci,ci40131367,2022-11-12T07:09:46.120Z,"2km E of Loma Linda, CA",earthquake,0.21,0.38,0.169,25,automatic,ci,ci
 2022-11-12T06:53:46.750Z,19.1723327636719,-155.502334594727,34.2700004577637,2.4000001,md,40,107,,0.150000006,hv,hv73217922,2022-11-12T06:57:08.710Z,"4 km SW of Pāhala, Hawaii",earthquake,0.61,0.819999993,0.409999996,17,automatic,hv,hv
@@ -187,7 +188,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-11T09:19:50.027Z,62.5358,-150.9957,77.8,3.9,ml,,,,0.53,ak,ak022eh3regx,2022-11-12T00:13:40.602Z,"12 km WNW of Petersville, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2022-11-11T09:17:59.711Z,61.1358,-147.2565,11.8,1.6,ml,,,,0.43,ak,ak022eh3qzs3,2022-11-11T09:20:04.503Z,"43 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-11T09:10:10.530Z,33.471,-116.7835,2.43,0.71,ml,32,35,0.0436,0.14,ci,ci40130999,2022-11-11T19:15:26.010Z,"8km ENE of Aguanga, CA",earthquake,0.15,0.23,0.078,21,reviewed,ci,ci
-2022-11-11T09:08:26.210Z,44.7856667,-111.2316667,11.85,1.06,ml,15,157,0.04306,0.15,uu,uu60524632,2022-11-11T16:09:46.610Z,"Idaho-Montana border region",earthquake,0.52,0.33,0.339,2,reviewed,uu,uu
+2022-11-11T09:08:26.210Z,44.7856667,-111.2316667,11.85,1.06,ml,15,157,0.04306,0.15,uu,uu60524632,2022-11-11T16:09:46.610Z,"3 km WNW of Hebgen Lake Estates, Montana",earthquake,0.52,0.33,0.339,2,reviewed,uu,uu
 2022-11-11T09:00:48.358Z,61.1205,-148.2699,3.5,1,ml,,,,0.37,ak,ak022eh3nbqb,2022-11-11T09:02:20.794Z,"44 km NNE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-11T08:57:58.600Z,46.196,-122.221,1.87,0.17,ml,7,262,0.02128,0.08,uw,uw61893916,2022-11-12T05:30:24.600Z,"36 km NNE of Amboy, Washington",earthquake,1,0.77,0.13620703007825624,4,reviewed,uw,uw
 2022-11-11T08:52:15.790Z,37.6056671,-118.8249969,3.69,1.9,md,18,68,0.01595,0.02,nc,nc73803710,2022-11-11T12:28:17.275Z,"14km WNW of Toms Place, CA",earthquake,0.28,0.37,0.13,18,automatic,nc,nc
@@ -197,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-11T08:12:56.765Z,61.7314,-150.6313,27.7,1.4,ml,,,,0.66,ak,ak022eh34hd8,2022-11-11T08:14:43.173Z,"21 km NNW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-11T08:07:57.660Z,37.645,-118.9735,3.79,-0.09,md,8,105,0.01474,0.02,nc,nc73803695,2022-11-11T20:48:54.146Z,"1km NNE of Mammoth Lakes, CA",earthquake,0.7,0.93,0.186,7,reviewed,nc,nc
 2022-11-11T08:05:25.680Z,36.4276667,-89.4958333,7.2,2.07,md,33,41,0.03191,0.06,nm,nm60415516,2022-11-11T14:09:52.416Z,"Tennessee",earthquake,0.6,0.94,0.082,24,reviewed,nm,nm
-2022-11-11T07:54:13.933Z,41.1022,-118.2114,3.4,1.9,ml,7,158.43,1.304,0.3516,nn,nn00851098,2022-11-11T16:27:59.358Z,"42 km WNW of Winnemucca, Nevada",earthquake,,4.7,0.44,5,reviewed,nn,nn
