@@ -76,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-13T20:34:53.930Z,33.4885,-116.4636667,16.22,0.56,ml,21,68,0.04709,0.2,ci,ci40132087,2022-11-13T20:38:32.319Z,"21km ESE of Anza, CA",earthquake,0.45,0.72,0.179,14,automatic,ci,ci
 2022-11-13T20:27:40.430Z,17.9558333333333,-66.9551666666667,10.62,2.12,md,6,205,0.07474,0.07,pr,pr71382138,2022-11-13T20:41:26.630Z,"Puerto Rico region",earthquake,0.6,0.77,0.0455316519510953,5,reviewed,pr,pr
 2022-11-13T20:17:32.334Z,58.0175,-155.9417,2.8,0.7,ml,,,,0.74,ak,ak022ekldcn7,2022-11-13T23:21:05.904Z,"85 km SSE of King Salmon, Alaska",earthquake,,0.9,,,reviewed,ak,ak
-2022-11-13T20:14:23.626Z,61.2741,-146.3794,0,2.2,ml,,,,0.93,ak,ak022eklcqhm,2022-11-13T20:16:44.067Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-11-13T20:14:23.626Z,61.2741,-146.3794,0,2.2,ml,,,,0.93,ak,ak022eklcqhm,2022-11-13T20:16:44.067Z,"16 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-13T20:10:08.743Z,63.1089,-151.1101,40.1,1.9,ml,,,,0.87,ak,ak022eklbuh6,2022-11-13T20:12:01.430Z,"57 km SSE of Denali National Park, Alaska",earthquake,,9.6,,,automatic,ak,ak
 2022-11-13T19:57:47.860Z,33.31,-116.7868333,12.94,0.62,ml,13,88,0.07748,0.19,ci,ci40132079,2022-11-13T20:01:18.844Z,"8km NNW of Lake Henshaw, CA",earthquake,0.54,1.72,0.165,13,automatic,ci,ci
 2022-11-13T19:37:37.560Z,32.9188333,-115.5293333,6.34,1.39,ml,14,89,0.03157,0.22,ci,ci40132063,2022-11-13T19:41:10.734Z,"7km S of Brawley, CA",earthquake,0.54,0.99,0.179,22,automatic,ci,ci
@@ -162,4 +162,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-13T08:29:13.510Z,17.9293,-65.4505,14,3.51,md,22,182,0.1965,0.13,pr,pr2022317000,2022-11-14T01:15:10.088Z,"Puerto Rico region",earthquake,0.57,1.16,0.13,20,reviewed,pr,pr
 2022-11-13T08:24:49.720Z,33.7903333,-116.0785,1.76,1.2,ml,34,106,0.1393,0.19,ci,ci40131863,2022-11-13T14:44:00.090Z,"15km ENE of Indio, CA",earthquake,0.27,0.59,0.142,26,reviewed,ci,ci
 2022-11-13T08:16:48.328Z,44.0411,148.2666,37.834,5.1,mb,94,123,4.089,1.03,us,us7000ipfq,2022-11-13T08:38:28.040Z,"126 km ENE of Shikotan, Russia",earthquake,8.63,5.644,0.024,565,reviewed,us,us
-2022-11-13T07:44:45.212Z,66.2633,-157.2949,1,2,ml,,,,1.43,ak,ak022ekdsppd,2022-11-13T21:48:05.276Z,"70 km S of Shungnak, Alaska",earthquake,,0.8,,,reviewed,ak,ak
