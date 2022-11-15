@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-15T10:39:39.741Z,59.6706,-152.5525,88.4,0.8,ml,,,,0.72,ak,ak022enqmhkm,2022-11-15T10:41:56.055Z,"42 km WSW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-11-15T10:38:33.480Z,61.3828,-150.4391,25.9,1.6,ml,,,,0.65,ak,ak022enqm9dg,2022-11-15T10:40:56.230Z,"18 km SSE of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-15T09:58:54.480Z,37.3761673,-119.9523315,21.39,2.2,md,5,224,0.1717,0.01,nc,nc73807716,2022-11-15T10:14:13.719Z,"11km SSW of Bootjack, CA",earthquake,3.03,0.89,0.28,8,automatic,nc,nc
 2022-11-15T09:58:31.030Z,33.7005,-116.7311667,16.4,0.53,ml,16,70,0.01772,0.13,ci,ci40132647,2022-11-15T10:01:58.169Z,"4km SSW of Idyllwild, CA",earthquake,0.34,0.45,0.162,13,automatic,ci,ci
 2022-11-15T09:47:11.760Z,36.0209999,-120.581337,3.56,1.89,md,23,80,0.03806,0.04,nc,nc73807706,2022-11-15T10:19:10.750Z,"19km NW of Parkfield, CA",earthquake,0.24,0.43,0.18,17,automatic,nc,nc
