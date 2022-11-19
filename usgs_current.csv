@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-19T21:40:21.336Z,64.2074,-151.5279,0,1.6,ml,,,,1.43,ak,ak022eujbthx,2022-11-19T21:42:28.659Z,"52 km NE of Lake Minchumina, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-11-19T21:38:57.250Z,38.8356667,-122.7988358,2.11,0.46,md,13,65,0.007175,0.01,nc,nc73809416,2022-11-19T21:40:31.225Z,"7km WNW of Cobb, CA",earthquake,0.31,0.67,0.39,2,automatic,nc,nc
+2022-11-19T21:37:34.160Z,35.6946667,-117.5768333,10.22,1.38,ml,18,135,0.122,0.18,ci,ci40378208,2022-11-19T21:41:05.676Z,"12km NE of Ridgecrest, CA",earthquake,0.41,0.77,0.1,19,automatic,ci,ci
 2022-11-19T21:32:53.700Z,19.4486675262451,-155.442504882812,3.54999995231628,1.87,md,24,71,,0.170000002,hv,hv73228677,2022-11-19T21:36:04.510Z,"21 km W of Volcano, Hawaii",earthquake,0.36,2.32999992,0.180000007,13,automatic,hv,hv
 2022-11-19T21:27:00.970Z,35.8544,-115.7062,6.4,1.4,ml,14,303.26,0.847,0.2893,nn,nn00851635,2022-11-19T21:30:07.654Z,"7 km WNW of Sandy Valley, Nevada",earthquake,,1.8,0.8,12,automatic,nn,nn
 2022-11-19T21:05:20.667Z,63.0384,-151.0856,114.8,2,ml,,,,0.38,ak,ak022euj4bdu,2022-11-19T21:08:54.392Z,"62 km NNW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
