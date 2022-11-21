@@ -23,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-21T15:57:20.280Z,19.4356670379639,-155.609664916992,0.310000002384186,1.78999996,md,11,95,,0.200000003,hv,hv73230642,2022-11-21T16:00:25.160Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.53,1.05999994,0.889999986,8,automatic,hv,hv
 2022-11-21T15:52:10.413Z,38.2107,-117.7582,7.7,1.8,ml,14,159.75,0.14,0.1557,nn,nn00851750,2022-11-21T15:55:11.492Z,"Nevada",earthquake,,1.1,0.16,5,automatic,nn,nn
 2022-11-21T15:51:14.542Z,-10.7107,165.9748,187.124,4.4,mb,57,67,6.069,0.26,us,us7000irbs,2022-11-21T16:44:02.040Z,"19 km E of Lata, Solomon Islands",earthquake,3.26,7.985,0.075,55,reviewed,us,us
-2022-11-21T15:42:33.572Z,43.4836,-127.3401,10,5.2,mww,84,159,1.733,0.35,us,us7000irbr,2022-11-21T19:28:51.793Z,"off the coast of Oregon",earthquake,7.58,1.887,0.05,39,reviewed,us,us
+2022-11-21T15:42:33.572Z,43.4836,-127.3401,10,5.2,mww,84,159,1.733,0.35,us,us7000irbr,2022-11-21T19:43:54.582Z,"off the coast of Oregon",earthquake,7.58,1.887,0.05,39,reviewed,us,us
 2022-11-21T15:41:25.822Z,59.8443,-152.9557,99.3,2,ml,,,,1.01,ak,ak022exqu4xp,2022-11-21T15:43:59.327Z,"63 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-21T15:33:11.490Z,34.1138333,-117.2651667,13.54,1.17,ml,30,82,0.1209,0.29,ci,ci40378872,2022-11-21T15:36:40.032Z,"3km SE of San Bernardino, CA",earthquake,0.62,1.16,0.132,27,automatic,ci,ci
 2022-11-21T15:31:37.200Z,19.2356662750244,-155.393493652344,31.4500007629395,1.86000001,md,21,204,,0.129999995,hv,hv73230622,2022-11-21T15:34:53.750Z,"Hawaii region, Hawaii",earthquake,1.28,0.910000026,0.460000008,5,automatic,hv,hv
@@ -71,6 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-21T10:55:38.329Z,-21.2084,-173.5671,34.993,4.9,mb,26,110,1.529,0.96,us,us7000iraj,2022-11-21T11:19:33.040Z,"144 km E of ‘Ohonua, Tonga",earthquake,3.67,8.991,0.129,19,reviewed,us,us
 2022-11-21T10:32:41.407Z,61.4141,-150.1912,30.8,1.4,ml,,,,0.68,ak,ak022exnt2nd,2022-11-21T10:41:14.873Z,"12 km WNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-21T10:19:33.056Z,39.1288,-120.0292,8.1,0.3,ml,9,83.3,0.088,0.1705,nn,nn00851755,2022-11-21T16:34:13.070Z,"8 km WNW of Glenbrook, Nevada",earthquake,,1.8,0.04,3,reviewed,nn,nn
+2022-11-21T10:14:38.620Z,45.366,-121.7085,2.75,0.77,ml,10,81,0.007715,0.09,uw,uw61886562,2022-11-21T19:43:36.830Z,"Washington-Oregon border region",earthquake,0.32,0.4,0.23279391953335854,7,reviewed,uw,uw
 2022-11-21T10:11:14.240Z,36.1643333,-118.024,3,1.16,ml,11,93,0.1446,0.16,ci,ci40378792,2022-11-21T10:14:48.484Z,"13km S of Olancha, CA",earthquake,0.32,1.02,0.228,12,automatic,ci,ci
 2022-11-21T10:09:51.560Z,33.1771667,-116.3963333,12.56,0.79,ml,26,63,0.09245,0.19,ci,ci40378784,2022-11-21T10:13:19.833Z,"9km SSW of Borrego Springs, CA",earthquake,0.36,0.76,0.234,16,automatic,ci,ci
 2022-11-21T10:07:04.170Z,44.7981667,-110.803,5.32,0.03,md,7,211,0.03522,0.07,uu,uu60525887,2022-11-21T14:46:28.070Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.75,0.68,0.191,4,reviewed,uu,uu
