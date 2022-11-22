@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-22T21:29:50.590Z,35.04,-119.0695,0.82,1.36,ml,20,106,0.159,0.31,ci,ci40379552,2022-11-22T21:33:22.736Z,"17km NW of Grapevine, CA",earthquake,0.58,1.22,0.179,28,automatic,ci,ci
 2022-11-22T21:16:07.760Z,36.0579987,-120.6386642,-0.68,1.18,md,11,171,0.03607,0.08,nc,nc73810441,2022-11-22T21:17:46.186Z,"24km E of San Ardo, CA",earthquake,0.93,3.66,0.13,5,automatic,nc,nc
 2022-11-22T21:12:07.140Z,35.0006667,-119.0738333,4.1,1.19,ml,16,131,0.1355,0.23,ci,ci40379544,2022-11-22T21:15:41.639Z,"15km WNW of Grapevine, CA",earthquake,0.7,5.77,0.129,18,automatic,ci,ci
 2022-11-22T21:10:31.690Z,35.0411667,-119.0676667,7.78,1.89,ml,40,77,0.1589,0.26,ci,ci40379528,2022-11-22T21:21:30.350Z,"17km NW of Grapevine, CA",earthquake,0.38,1.78,0.118,26,automatic,ci,ci
@@ -151,7 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-22T02:17:18.790Z,33.9443333,-116.6265,14.31,1.22,ml,25,67,0.04122,0.12,ci,ci40379176,2022-11-22T15:10:21.342Z,"9km WNW of Garnet, CA",earthquake,0.2,0.58,0.181,14,reviewed,ci,ci
 2022-11-22T02:16:00.860Z,35.872,-120.2908333,8.41,0.66,md,12,161,0.05588,0.07,nc,nc71129389,2022-11-22T07:09:16.233Z,"13km ESE of Parkfield, CA",earthquake,0.63,0.68,0.081,4,reviewed,nc,nc
 2022-11-22T02:08:58.088Z,34.855,-34.7775,10,5.2,mb,60,66,8.013,0.89,us,us7000irfd,2022-11-22T03:52:21.040Z,"Azores Islands region",earthquake,10.27,1.865,0.059,94,reviewed,us,us
-2022-11-22T02:03:07.174Z,-9.8122,159.5958,15,7,mww,94,22,0.508,0.47,us,us7000irfb,2022-11-22T11:40:10.556Z,"18 km SW of Malango, Solomon Islands",earthquake,5.41,1.848,0.068,21,reviewed,us,us
+2022-11-22T02:03:07.033Z,-9.8114,159.5871,14,7,mww,94,22,0.513,0.49,us,us7000irfb,2022-11-22T21:30:55.040Z,"19 km SW of Malango, Solomon Islands",earthquake,5.44,1.838,0.055,32,reviewed,us,us
 2022-11-22T02:02:32.200Z,46.8685,-121.74283333333334,-1.93,0.05,ml,13,128,0.007587,0.08,uw,uw61886767,2022-11-22T02:52:08.960Z,"25 km ENE of Ashford, Washington",earthquake,0.25,0.39,0.13319452994736047,5,reviewed,uw,uw
 2022-11-22T01:53:24.650Z,38.7938347,-122.7346649,0.88,1.06,md,14,96,0.0107,0.02,nc,nc73810146,2022-11-22T03:00:12.721Z,"3km NE of The Geysers, CA",earthquake,0.24,0.55,0.15,4,automatic,nc,nc
 2022-11-22T01:35:44.130Z,33.626,-116.6678333,13.35,0.52,ml,26,79,0.04308,0.07,ci,ci40379168,2022-11-22T17:29:59.209Z,"8km N of Anza, CA",earthquake,0.13,0.26,0.129,9,reviewed,ci,ci
@@ -193,6 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-21T21:41:13.772Z,-24.1535,-67.178,208.126,4.5,mb,29,82,1.508,0.41,us,us7000irea,2022-11-21T23:51:41.040Z,"Salta, Argentina",earthquake,9.56,13.485,0.192,8,reviewed,us,us
 2022-11-21T21:39:40.180Z,46.862833333333334,-121.73483333333333,0.21,0.61,ml,21,66,0.008185,0.09,uw,uw61886732,2022-11-21T22:57:39.370Z,"25 km ENE of Ashford, Washington",earthquake,0.26,0.6,0.13659934981355015,13,reviewed,uw,uw
 2022-11-21T21:38:47.122Z,62.2383,-149.5002,15.6,1.4,ml,,,,0.66,ak,ak022exue51k,2022-11-21T21:40:45.552Z,"20 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-11-21T21:33:17.070Z,33.8351667,-117.4875,0.7,1.46,ml,40,31,0.03955,0.26,ci,ci40379064,2022-11-21T21:36:57.012Z,"6km SSE of Home Gardens, CA",quarry blast,0.33,0.65,0.287,33,automatic,ci,ci
-2022-11-21T21:30:31.250Z,19.2561664581299,-155.391006469727,30.1100006103516,2.24,ml,33,131,,0.129999995,hv,hv73230877,2022-11-21T21:36:02.100Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.66,0.829999983,0.09,3,automatic,hv,hv
-2022-11-21T21:27:22.240Z,57.6055,-156.1112,7,0.9,ml,,,,0.48,ak,ak022exubpqb,2022-11-21T21:51:44.369Z,"77 km E of Ugashik, Alaska",earthquake,,0.4,,,reviewed,ak,ak
