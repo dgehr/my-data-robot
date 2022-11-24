@@ -165,7 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T22:58:16.927Z,63.2876,-151.2761,6.1,1.4,ml,,,,0.83,ak,ak022f166hmo,2022-11-23T23:00:55.669Z,"36 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-23T22:37:54.980Z,33.5126667,-116.7685,8.07,0.48,ml,8,152,0.0587,0.24,ci,ci40380072,2022-11-23T22:41:18.081Z,"10km WSW of Anza, CA",earthquake,1,1.66,0.121,9,automatic,ci,ci
 2022-11-23T22:34:30.240Z,37.3218346,-121.6640015,5.53,1.87,md,7,232,0.06316,0.02,nc,nc73810746,2022-11-24T01:51:10.778Z,"15km ESE of Alum Rock, CA",earthquake,1.81,1.03,0.2,5,automatic,nc,nc
-2022-11-23T22:34:02.290Z,37.2916667,-121.6641667,5.82,2.92,md,111,41,0.0334,0.08,nc,nc73810741,2022-11-24T14:50:32.165Z,"15km E of Seven Trees, CA",earthquake,0.08,0.17,0.178,160,reviewed,nc,nc
+2022-11-23T22:34:02.290Z,37.2916667,-121.6641667,5.82,2.92,md,111,41,0.0334,0.08,nc,nc73810741,2022-11-24T16:53:33.909Z,"15km E of Seven Trees, CA",earthquake,0.08,0.17,0.178,160,reviewed,nc,nc
 2022-11-23T22:32:56.997Z,46.2948,151.3916,101.565,4.9,mb,61,133,5.982,1,us,us7000irxs,2022-11-23T22:52:50.040Z,"297 km ENE of Kuril’sk, Russia",earthquake,9.65,5.769,0.065,75,reviewed,us,us
 2022-11-23T22:26:23.695Z,60.0543,-152.6438,100.8,1.7,ml,,,,0.27,ak,ak022f15znfo,2022-11-23T23:00:25.258Z,"52 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2022-11-23T22:16:57.380Z,33.8768333,-117.7598333,3.34,2.61,ml,71,25,0.05408,0.23,ci,ci40380048,2022-11-24T16:28:58.101Z,"5km ESE of Yorba Linda, CA",earthquake,0.21,0.47,0.198,27,automatic,ci,ci
