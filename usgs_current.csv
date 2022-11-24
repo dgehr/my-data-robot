@@ -90,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T22:34:02.280Z,37.2901649,-121.6640015,5.52,2.97,md,70,40,0.03196,0.06,nc,nc73810741,2022-11-24T07:47:32.689Z,"16km E of Seven Trees, CA",earthquake,0.12,0.26,0.12,67,automatic,nc,nc
 2022-11-23T22:32:56.997Z,46.2948,151.3916,101.565,4.9,mb,61,133,5.982,1,us,us7000irxs,2022-11-23T22:52:50.040Z,"297 km ENE of Kuril’sk, Russia",earthquake,9.65,5.769,0.065,75,reviewed,us,us
 2022-11-23T22:26:23.695Z,60.0543,-152.6438,100.8,1.7,ml,,,,0.27,ak,ak022f15znfo,2022-11-23T23:00:25.258Z,"52 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,reviewed,ak,ak
-2022-11-23T22:16:57.380Z,33.8768333,-117.7598333,3.34,2.61,ml,71,25,0.05408,0.23,ci,ci40380048,2022-11-24T07:42:33.766Z,"5km ESE of Yorba Linda, CA",earthquake,0.21,0.47,0.198,27,automatic,ci,ci
+2022-11-23T22:16:57.380Z,33.8768333,-117.7598333,3.34,2.61,ml,71,25,0.05408,0.23,ci,ci40380048,2022-11-24T08:23:25.689Z,"5km ESE of Yorba Linda, CA",earthquake,0.21,0.47,0.198,27,automatic,ci,ci
 2022-11-23T22:16:49.750Z,34.8936667,-118.7995,9.82,1.43,ml,19,48,0.1026,0.22,ci,ci40380040,2022-11-23T22:33:52.173Z,"8km NE of Lebec, CA",earthquake,0.36,1.02,0.296,28,automatic,ci,ci
 2022-11-23T22:10:07.030Z,38.7941666,-122.7464981,2.48,0.37,md,11,93,0.01217,0.02,nc,nc73810736,2022-11-23T22:52:13.699Z,"2km NNE of The Geysers, CA",earthquake,0.45,0.94,,1,automatic,nc,nc
 2022-11-23T22:00:17.512Z,71.3739,-3.8139,10,4.7,mb,86,47,6.005,0.83,us,us7000irx8,2022-11-23T22:20:02.040Z,"183 km ENE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,7.85,1.874,0.063,76,reviewed,us,us
@@ -228,5 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T08:44:51.110Z,46.85333333333333,-121.7535,1.41,0.76,ml,17,74,0.02262,0.05,uw,uw61886957,2022-11-24T01:20:14.700Z,"23 km ENE of Ashford, Washington",earthquake,0.24,0.54,0.15787284570010496,9,reviewed,uw,uw
 2022-11-23T08:44:26.925Z,31.68528803,-104.403882,6.645727539,2.3,ml,31,44,0.01942205171,0.2,tx,tx2022wyhi,2022-11-23T19:46:17.819Z,"54 km S of Whites City, New Mexico",earthquake,0.755269441,0.6539206153,0.1,18,reviewed,tx,tx
 2022-11-23T08:43:47.948Z,38.1828,-117.8732,9.8,0.5,ml,13,170.73,0.081,0.1392,nn,nn00851922,2022-11-23T21:48:16.919Z,"30 km SE of Mina, Nevada",earthquake,,1.6,0.37,3,reviewed,nn,nn
-2022-11-23T08:34:18.705Z,31.68709807,-104.4082056,6.954223633,2.2,ml,39,44,0.01654876839,0.2,tx,tx2022wygz,2022-11-23T20:54:29.904Z,"54 km S of Whites City, New Mexico",earthquake,0.6761468307,0.6841613523999999,0,7,reviewed,tx,tx
-2022-11-23T08:31:56.162Z,40.1701,-119.7967,0,0.9,ml,4,215,0.049,0.0761,nn,nn00851962,2022-11-23T23:25:23.367Z,"28 km E of Herlong, California",earthquake,,0,0.24,3,reviewed,nn,nn
