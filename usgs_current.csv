@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-25T13:46:51.533Z,-9.8023,159.7751,10,5.7,mww,94,32,0.399,0.89,us,us7000isb7,2022-11-25T14:10:32.794Z,"13 km SSE of Malango, Solomon Islands",earthquake,8.75,1.853,0.06,27,reviewed,us,us
 2022-11-25T13:46:49.036Z,64.9197,-148.976,20.2,1.4,ml,,,,0.27,ak,ak022f4bts1z,2022-11-25T13:48:30.636Z,"31 km SE of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-25T13:43:57.409Z,63.5034,-151.2314,5.5,1.6,ml,,,,0.56,ak,ak022f4bt5jw,2022-11-25T13:45:50.362Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-25T13:38:17.700Z,33.171,-116.4416667,11.78,0.96,ml,26,77,0.09909,0.25,ci,ci40380728,2022-11-25T13:41:52.449Z,"11km SSW of Borrego Springs, CA",earthquake,0.53,0.94,0.128,20,automatic,ci,ci
@@ -51,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-25T05:47:40.025Z,-9.9178,159.8134,10,4.7,mb,27,105,0.494,0.62,us,us7000is9q,2022-11-25T10:23:33.853Z,"Solomon Islands",earthquake,4.33,1.901,0.117,22,reviewed,us,us
 2022-11-25T05:28:30.560Z,19.1679992675781,-155.483169555664,35.2900009155273,2.68000007,md,42,153,,0.109999999,hv,hv73235137,2022-11-25T06:35:12.040Z,"3 km S of Pāhala, Hawaii",earthquake,0.59,0.870000005,0.419999987,24,automatic,hv,hv
 2022-11-25T05:26:59.451Z,38.1661,-117.8559,0.2,1.3,ml,15,139.76,0.086,0.2681,nn,nn00852019,2022-11-25T05:29:48.757Z,"33 km SE of Mina, Nevada",earthquake,,6.6,0.24,7,automatic,nn,nn
-2022-11-25T05:17:56.790Z,39.0501667,-123.0731667,4.11,1.17,md,6,228,0.1437,0.02,nc,nc73811296,2022-11-25T13:30:12.868Z,"12km SE of Talmage, CA",earthquake,0.63,3.08,0.132,8,reviewed,nc,nc
+2022-11-25T05:17:56.790Z,39.0501667,-123.0731667,4.11,1.17,md,6,228,0.1437,0.02,nc,nc73811296,2022-11-25T14:04:11.081Z,"12km SE of Talmage, CA",earthquake,0.63,3.08,0.132,8,reviewed,nc,nc
 2022-11-25T05:17:04.506Z,63.1008,-151.1105,40.1,1.6,ml,,,,1.18,ak,ak022f46w00i,2022-11-25T05:18:33.905Z,"57 km SSE of Denali National Park, Alaska",earthquake,,6,,,automatic,ak,ak
 2022-11-25T05:07:32.660Z,38.8226662,-122.8523331,2.6,0.86,md,14,62,0.006026,0.02,nc,nc73811291,2022-11-25T07:15:14.398Z,"10km WNW of The Geysers, CA",earthquake,0.28,0.71,0.01,2,automatic,nc,nc
 2022-11-25T05:03:04.430Z,17.9691666666667,-66.8326666666667,14.74,2.61,md,19,181,0.04473,0.14,pr,pr71383953,2022-11-25T05:51:40.700Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.48,0.39,0.0862491313765874,13,reviewed,pr,pr
@@ -174,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-24T14:22:41.840Z,17.971,-66.9958333333333,3.17,2.11,md,5,182,0.04608,0.09,pr,pr71383858,2022-11-24T15:03:40.080Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.5,2.02,0.103068974751203,4,reviewed,pr,pr
 2022-11-24T14:17:18.481Z,61.3502,-151.9231,97.5,2.3,ml,,,,0.49,ak,ak022f2opl1k,2022-11-24T14:19:28.546Z,"50 km WNW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-24T14:15:22.880Z,36.1723328,-120.7753296,-0.31,1.39,md,7,150,0.04828,0.12,nc,nc73810981,2022-11-24T16:19:12.011Z,"20km NE of San Ardo, CA",earthquake,1.25,6.86,0.26,4,automatic,nc,nc
-2022-11-24T14:07:34.940Z,18.0711666666667,-66.8658333333333,6.8,1.82,md,4,288,0.09644,0.06,pr,pr71383863,2022-11-24T14:50:23.000Z,"4 km NNW of Yauco, Puerto Rico",earthquake,0.91,0.45,0.0914059842846149,3,reviewed,pr,pr
