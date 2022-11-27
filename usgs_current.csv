@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-27T11:32:06.828Z,35.28939056,-98.0100708,3.182593107,1.54,ml,11,71.17156982,0.08926987648,0.6807143796,ok,ok2022xfuv,2022-11-27T11:34:59.451Z,"6 km WSW of Minco, Oklahoma",earthquake,3.959782926,2.714268222,,7,automatic,ok,ok
 2022-11-27T11:24:39.391Z,61.7298,-149.7224,29.5,2,ml,,,,0.52,ak,ak022f7lkvc3,2022-11-27T11:26:50.787Z,"12 km NNE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-27T10:53:31.426Z,55.6389,162.6354,43.408,4.7,mb,74,54,3.509,0.38,us,us7000isqm,2022-11-27T11:14:10.040Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake,8.67,7.159,0.046,147,reviewed,us,us
 2022-11-27T10:32:22.194Z,-31.0629,-179.1284,10.01,5.1,mb,46,85,2.078,0.31,us,us7000isqh,2022-11-27T11:05:31.040Z,"Kermadec Islands region",earthquake,9.35,4.156,0.082,49,reviewed,us,us
@@ -53,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-27T04:11:14.690Z,36.6464996,-120.8235016,3.2,1.82,md,6,135,0.02964,0.06,nc,nc73811941,2022-11-27T05:06:11.911Z,"29km NNW of New Idria, CA",earthquake,0.75,1.75,0.13,4,automatic,nc,nc
 2022-11-27T04:08:47.145Z,-24.2295,-67.4011,215.995,4.2,mwr,29,111,1.458,0.41,us,us7000isnh,2022-11-27T04:33:50.040Z,"109 km W of San Antonio de los Cobres, Argentina",earthquake,8.53,13.031,,,reviewed,us,guc
 2022-11-27T04:00:15.830Z,40.3896675,-124.5531693,19.21,2.45,md,17,265,0.2163,0.18,nc,nc73811936,2022-11-27T04:39:12.740Z,"24km WNW of Petrolia, CA",earthquake,2.47,0.66,0.22,5,automatic,nc,nc
-2022-11-27T03:57:45.682Z,40.8392,30.9877,10,4.1,mb,49,46,0.401,0.65,us,us7000isne,2022-11-27T08:56:38.529Z,"14 km W of Düzce, Turkey",earthquake,4.08,1.929,0.185,8,reviewed,us,us
+2022-11-27T03:57:45.682Z,40.8392,30.9877,10,4.1,mb,49,46,0.401,0.65,us,us7000isne,2022-11-27T08:56:38.529Z,"Western Turkey",earthquake,4.08,1.929,0.185,8,reviewed,us,us
 2022-11-27T03:50:19.740Z,38.8263321,-122.8544998,2.52,1.19,md,24,62,0.002214,0.02,nc,nc73811931,2022-11-27T04:24:12.646Z,"10km WNW of The Geysers, CA",earthquake,0.23,0.41,0.02,4,automatic,nc,nc
 2022-11-27T03:41:54.893Z,38.5332,-119.5265,6,1.2,ml,13,100.11,0.053,0.1386,nn,nn00852106,2022-11-27T03:44:38.357Z,"4 km SSW of Coleville, California",earthquake,,0.6,0.26,7,automatic,nn,nn
 2022-11-27T03:30:37.886Z,62.0457,-150.622,56.1,2.1,ml,,,,0.4,ak,ak022f7guooc,2022-11-27T03:32:32.152Z,"36 km SW of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
