@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-11-30T22:12:35.170Z,19.2203330993652,-155.40283203125,30.8099994659424,1.82000005,md,28,162,,0.100000001,hv,hv73247842,2022-11-30T22:15:45.760Z,"Hawaii region, Hawaii",earthquake,0.64,0.889999986,0.00999999978,5,automatic,hv,hv
-2022-11-30T22:00:19.260Z,35.8975,-117.6841667,4.39,1.02,ml,12,79,0.07703,0.15,ci,ci40382856,2022-11-30T22:03:53.967Z,"20km ESE of Little Lake, CA",earthquake,0.32,0.79,0.071,9,automatic,ci,ci
+2022-11-30T22:00:19.230Z,35.9015,-117.6875,4.68,1.02,ml,17,76,0.07756,0.08,ci,ci40382856,2022-11-30T22:38:41.523Z,"20km E of Little Lake, CA",earthquake,0.14,0.29,0.089,8,reviewed,ci,ci
 2022-11-30T21:58:25.930Z,38.8261681,-122.8553314,2.27,0.29,md,14,67,0.001828,0.03,nc,nc73813246,2022-11-30T22:09:11.208Z,"10km WNW of The Geysers, CA",earthquake,0.28,0.55,0.16,2,automatic,nc,nc
-2022-11-30T21:49:20.740Z,34.4078333,-118.1961667,2.04,1.2,ml,12,88,0.08172,0.19,ci,ci40382848,2022-11-30T21:52:49.031Z,"7km S of Acton, CA",earthquake,0.79,1.38,0.235,29,automatic,ci,ci
+2022-11-30T21:49:20.520Z,34.395,-118.1791667,-1.03,1.17,ml,9,91,0.09959,0.2,ci,ci40382848,2022-11-30T22:35:55.297Z,"8km S of Acton, CA",quarry blast,0.57,31.61,0.117,8,reviewed,ci,ci
 2022-11-30T21:24:09.450Z,19.2001667022705,-155.482666015625,31.1299991607666,2.23000002,md,40,144,,0.119999997,hv,hv73247752,2022-11-30T21:27:30.280Z,"0 km SW of Pāhala, Hawaii",earthquake,0.63,0.819999993,1.37,12,automatic,hv,hv
 2022-11-30T21:17:52.490Z,41.6796667,-111.733,15.3,0.76,md,10,129,0.1044,0.07,uu,uu60526702,2022-11-30T22:11:12.170Z,"7 km E of Millville, Utah",earthquake,0.5,0.57,0.18,4,reviewed,uu,uu
 2022-11-30T21:10:18.020Z,33.5858333,-116.7478333,11.54,0.64,ml,18,84,0.01568,0.07,ci,ci40382840,2022-11-30T22:32:10.272Z,"8km WNW of Anza, CA",earthquake,0.21,0.33,0.152,14,reviewed,ci,ci
@@ -51,6 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-30T16:32:59.550Z,60.9893,-151.2983,58.2,1.2,ml,,,,0.17,ak,ak022fcn7u4j,2022-11-30T16:34:13.744Z,"Kenai Peninsula, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-30T16:30:25.873Z,31.61339666,-103.9712411,7.725463867,2.3,ml,13,79,0.003389936143,0.1,tx,tx2022xlre,2022-11-30T19:32:51.963Z,"36 km WSW of Mentone, Texas",earthquake,0.7656694631,0.7879522528,0.2,11,reviewed,tx,tx
 2022-11-30T16:27:33.435Z,31.60974037,-103.9647696,8.445288086,2.4,ml,15,64,0.003602883822,0.1,tx,tx2022xlrc,2022-11-30T19:50:07.133Z,"36 km WSW of Mentone, Texas",earthquake,0.6848025074000001,0.6969635804,0.2,12,reviewed,tx,tx
+2022-11-30T16:23:16.412Z,8.8248,126.8707,10,4.8,mb,73,62,2.163,0.73,us,us6000j5sz,2022-11-30T22:36:48.040Z,"61 km E of Aras-asan, Philippines",earthquake,10.04,1.803,0.064,75,reviewed,us,us
 2022-11-30T16:04:35.428Z,39.4336,-119.1593,7.5,1.1,ml,10,177.47,0.327,0.1953,nn,nn00852314,2022-11-30T20:05:09.450Z,"5 km ENE of Silver Springs, Nevada",earthquake,,5,0,1,reviewed,nn,nn
 2022-11-30T16:03:14.977Z,63.9629,-149.8599,10.9,1.4,ml,,,,0.86,ak,ak022fcn1iy7,2022-11-30T16:05:58.776Z,"36 km W of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-30T16:01:07.400Z,38.7545013,-122.4258347,6.4,2.06,md,18,67,,0.09,nc,nc73813151,2022-11-30T17:45:13.601Z,"13km ESE of Hidden Valley Lake, CA",earthquake,0.26,1.04,0.07,13,automatic,nc,nc
@@ -241,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-29T22:56:00.420Z,33.3478333,-116.9183333,9.96,0.9,ml,41,38,0.1035,0.17,ci,ci40382512,2022-11-30T18:28:09.706Z,"5km W of Palomar Observatory, CA",earthquake,0.17,0.74,0.083,20,reviewed,ci,ci
 2022-11-29T22:45:24.698Z,38.3682,-118.8962,10.8,1.2,ml,11,177.21,0.329,0.1056,nn,nn00852257,2022-11-29T23:52:32.579Z,"29 km SW of Hawthorne, Nevada",earthquake,,3.3,0.1,2,reviewed,nn,nn
 2022-11-29T22:42:11.780Z,18.7408333333333,-66.2035,53.78,3.17,md,10,242,0.4462,0.11,pr,pr71384623,2022-11-29T22:59:16.980Z,"31 km NNE of Dorado, Puerto Rico",earthquake,1.08,1.75,0.00901918279873426,5,reviewed,pr,pr
-2022-11-29T22:36:15.200Z,34.998,-118.1843333,-0.82,1.26,ml,15,63,0.1243,0.11,ci,ci40382504,2022-11-30T21:10:08.746Z,"6km S of Mojave, CA",quarry blast,0.28,31.61,0.156,18,reviewed,ci,ci
