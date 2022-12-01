@@ -210,7 +210,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-30T10:48:00.040Z,-38.808,175.9063,7.844,5.4,mww,48,46,0.862,0.72,us,us6000j5r4,2022-12-01T05:37:44.393Z,"20 km SW of Taupo, New Zealand",earthquake,6.1,2.385,0.098,10,reviewed,us,us
 2022-11-30T10:39:28.471Z,60.2029,-152.5344,103.5,1.8,ml,,,,0.34,ak,ak022fcjoo3z,2022-11-30T10:41:02.771Z,"51 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-30T10:36:33.930Z,19.2418327331543,-155.468673706055,32.0299987792969,1.74,ml,44,93,,0.129999995,hv,hv73246672,2022-11-30T10:42:04.520Z,"4 km NNE of Pāhala, Hawaii",earthquake,0.57,0.790000021,3.68,3,automatic,hv,hv
-2022-11-30T10:33:55.958Z,31.72208286,-104.5307885,7.828295898,2.4,ml,34,83,0.03395454145,0.2,tx,tx2022xlfl,2022-11-30T20:11:02.871Z,"52 km SSW of Whites City, New Mexico",earthquake,1.050588605,0.8606864363999999,0,6,reviewed,tx,tx
+2022-11-30T10:33:55.958Z,31.72208286,-104.5307885,7.828295898,2.4,ml,34,83,0.03395454145,0.2,tx,tx2022xlfl,2022-11-30T20:11:02.871Z,"western Texas",earthquake,1.050588605,0.8606864363999999,0,6,reviewed,tx,tx
 2022-11-30T10:32:36.540Z,19.1781673431396,-155.49333190918,31.6700000762939,2,md,39,93,,0.140000001,hv,hv73246662,2022-11-30T10:35:53.570Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.7,0.879999995,0.360000014,11,automatic,hv,hv
 2022-11-30T10:28:52.754Z,60.0123,-152.6487,98.1,1.6,ml,,,,0.25,ak,ak022fcjmd3v,2022-11-30T10:30:43.801Z,"51 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-30T10:20:48.300Z,62.7217,-149.7283,56.1,1.3,ml,,,,0.77,ak,ak022fcjkmwb,2022-11-30T10:23:22.099Z,"35 km NNE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -242,6 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-30T07:07:10.447Z,36.828,-116.2689,5.8,-0.1,ml,22,77.11,0.04,0.1479,nn,nn00852282,2022-11-30T16:06:28.021Z,"44 km ESE of Beatty, Nevada",earthquake,,1.3,0.2,9,reviewed,nn,nn
 2022-11-30T07:06:30.720Z,19.477,-155.577833333333,-0.81,1.16,md,26,128,,0.21,hv,hv73246417,2022-12-01T01:54:09.000Z,"30 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.38,0.23,0.122293999818352,9,reviewed,hv,hv
 2022-11-30T06:57:30.180Z,19.4775,-155.461833333333,-2.59,1.62,md,23,86,,0.26,hv,hv73246407,2022-12-01T02:18:48.520Z,"24 km W of Volcano, Hawaii",earthquake,0.47,0.31,0.265400504913937,9,reviewed,hv,hv
-2022-11-30T06:55:57.450Z,37.2898333,-121.6625,5.49,0.95,md,17,42,0.03194,0.07,nc,nc73813016,2022-11-30T20:30:11.623Z,"16km E of Seven Trees, CA",earthquake,0.2,0.43,0.07,18,reviewed,nc,nc
-2022-11-30T06:54:21.744Z,61.4247,-152.3422,5.7,0.8,ml,,,,0.16,ak,ak022fche4wu,2022-12-01T02:42:51.930Z,"74 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-11-30T06:51:02.150Z,35.7038333,-121.1446667,7.31,1.56,md,29,118,0.02272,0.08,nc,nc73813006,2022-11-30T11:26:13.211Z,"8km NNE of San Simeon, CA",earthquake,0.2,0.25,0.328,22,reviewed,nc,nc
