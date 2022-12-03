@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-03T16:26:13.860Z,38.8266678,-122.8113327,1.24,1.21,md,20,39,0.003413,0.02,nc,nc73814226,2022-12-03T16:27:48.704Z,"7km NW of The Geysers, CA",earthquake,0.19,0.37,0.2,21,automatic,nc,nc
+2022-12-03T16:43:20.270Z,19.4004993438721,-155.27082824707,0.819999992847443,2.50999999,md,17,63,,0.140000001,hv,hv73255632,2022-12-03T16:46:07.910Z,"Hawaii region, Hawaii",earthquake,0.19,0.25999999,2.05999994,14,automatic,hv,hv
+2022-12-03T16:32:02.939Z,61.5105,-147.9672,9.8,1.1,ml,,,,1.01,ak,ak022fhltr8l,2022-12-03T16:33:31.318Z,"37 km SSW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-12-03T16:26:13.860Z,38.8266678,-122.8113327,1.24,1.21,md,20,39,0.003413,0.02,nc,nc73814226,2022-12-03T16:44:13.008Z,"7km NW of The Geysers, CA",earthquake,0.19,0.37,0.2,21,automatic,nc,nc
 2022-12-03T16:24:54.850Z,35.6746667,-117.514,9.28,1.02,ml,11,165,0.09757,0.16,ci,ci40141599,2022-12-03T16:28:25.603Z,"14km SW of Searles Valley, CA",earthquake,0.53,1.27,0.172,9,automatic,ci,ci
 2022-12-03T16:17:37.580Z,33.9995,-116.8175,20.56,1.35,ml,36,58,0.03646,0.2,ci,ci40141591,2022-12-03T16:21:19.069Z,"10km NNW of Cabazon, CA",earthquake,0.31,0.69,0.157,26,automatic,ci,ci
 2022-12-03T16:14:04.279Z,61.2124,-147.1306,0,1.4,ml,,,,0.92,ak,ak022fhlpsyd,2022-12-03T16:17:01.472Z,"43 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-12-03T16:13:45.900Z,18.0205,-66.7753333333333,15.24,2.31,md,26,100,0.009214,0.21,pr,pr71385373,2022-12-03T16:37:56.850Z,"0 km WNW of Magas Arriba, Puerto Rico",earthquake,0.37,0.44,0.171764960612109,10,reviewed,pr,pr
 2022-12-03T16:12:18.330Z,19.3988342285156,-155.268829345703,0.680000007152557,1.86,ml,15,58,,0.0900000036,hv,hv73255577,2022-12-03T16:17:47.510Z,"6 km SW of Volcano, Hawaii",earthquake,0.17,0.239999995,0.32,7,automatic,hv,hv
 2022-12-03T15:57:13.620Z,19.2106666564941,-155.389999389648,29.8899993896484,2.69,ml,11,222,,0.100000001,hv,hv73255522,2022-12-03T16:02:45.210Z,"9 km E of Pāhala, Hawaii",earthquake,1.34,1.03999996,4.56,3,automatic,hv,hv
 2022-12-03T15:54:16.650Z,33.8333333,-117.902,0.39,1.27,ml,8,165,0.1606,0.33,ci,ci40141583,2022-12-03T15:57:52.687Z,"1km WSW of Anaheim, CA",earthquake,1.33,31.61,0.353,14,automatic,ci,ci
@@ -83,6 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-03T07:07:12.661Z,63.1366,-151.4152,1,2.4,ml,,,,0.74,ak,ak022fhgbin6,2022-12-03T14:09:49.040Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-03T06:43:26.548Z,63.2966,-151.0702,8,2.4,ml,,,,0.63,ak,ak022fhfxtvy,2022-12-03T14:05:33.040Z,"42 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-03T06:35:44.095Z,58.2566,-155.1992,1.2,0.1,ml,,,,0.29,ak,ak022fhfw5ih,2022-12-03T06:37:22.020Z,"88 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-12-03T06:34:58.940Z,19.4601666666667,-155.602,-1.44,2.01,ml,10,92,,0.12,hv,hv73254437,2022-12-03T16:42:39.970Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.34,0.23,,1,reviewed,hv,hv
 2022-12-03T06:24:03.979Z,34.3563,85.1656,10,4.6,mb,54,79,6.532,0.57,us,us6000j6iu,2022-12-03T06:45:13.040Z,"western Xizang",earthquake,6.06,1.799,0.105,27,reviewed,us,us
 2022-12-03T06:21:51.150Z,38.8201675,-122.7894974,1.18,1.67,md,30,33,,0.02,nc,nc73814121,2022-12-03T08:50:12.144Z,"6km NNW of The Geysers, CA",earthquake,0.15,0.26,0.15,30,automatic,nc,nc
 2022-12-03T06:21:16.940Z,34.0255,-117.5828333,11.38,1.74,ml,69,18,0.0273,0.22,ci,ci40141439,2022-12-03T06:25:10.966Z,"5km SE of Ontario, CA",earthquake,0.23,0.44,0.16,26,automatic,ci,ci
@@ -90,6 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-03T06:02:51.214Z,63.4201,-151.423,5.5,1.6,ml,,,,1.2,ak,ak022fhfp3fl,2022-12-03T06:04:48.254Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-03T05:56:48.200Z,33.8725,-116.7718333,3.97,0.55,ml,9,175,0.04425,0.22,ci,ci40141431,2022-12-03T06:00:20.590Z,"5km SSE of Cabazon, CA",earthquake,1.03,31.61,0.212,10,automatic,ci,ci
 2022-12-03T05:53:00.120Z,37.1238327,-121.5311661,-0.31,1.15,md,7,112,0.07096,0.04,nc,nc73814111,2022-12-03T08:23:13.011Z,"8km ENE of San Martin, CA",earthquake,0.29,6.47,0.31,6,automatic,nc,nc
+2022-12-03T05:46:02.750Z,19.4506666666667,-155.602666666667,-1.26,1.53,md,9,88,,0.1,hv,hv73254292,2022-12-03T16:36:48.280Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.39,0.49,0.265504281206593,6,reviewed,hv,hv
 2022-12-03T05:42:39.780Z,37.5505,-118.876,6.69,0.32,md,11,253,0.05427,0.01,nc,nc73814106,2022-12-03T08:29:13.040Z,"13km SE of Mammoth Lakes, CA",earthquake,1.22,1.51,0.15,11,reviewed,nc,nc
 2022-12-03T05:41:34.270Z,35.9824982,-120.5406647,2.98,0.78,md,11,98,0.01198,0.03,nc,nc73814101,2022-12-03T06:09:12.118Z,"14km NW of Parkfield, CA",earthquake,0.51,1.16,0.07,4,automatic,nc,nc
 2022-12-03T05:41:11.620Z,32.6845,-115.8241667,3.8,1.2,ml,16,77,0.08963,0.28,ci,ci40141423,2022-12-03T05:44:44.523Z,"17km ESE of Ocotillo, CA",earthquake,0.63,2.01,0.247,13,automatic,ci,ci
@@ -231,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-02T17:12:34.910Z,34.0531667,-117.2658333,13.64,1.09,ml,26,84,0.05398,0.12,ci,ci40383696,2022-12-02T23:09:29.656Z,"1km NW of Loma Linda, CA",earthquake,0.21,0.39,0.089,23,reviewed,ci,ci
 2022-12-02T17:02:20.080Z,19.2253341674805,-155.383163452148,30.9200000762939,1.75,md,39,153,,0.129999995,hv,hv73252692,2022-12-02T17:06:32.850Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.62,0.790000021,1.03999996,9,automatic,hv,hv
 2022-12-02T16:53:56.270Z,58.5436666666667,-154.374,10.2,0.16,ml,6,339,,0.06,av,av91078413,2022-12-03T02:51:32.280Z,"Alaska Peninsula",earthquake,1.36,0.48,0.314944538325279,7,reviewed,av,av
-2022-12-02T16:39:57.813Z,61.1875,-148.1198,1.1,1.4,ml,,,,0.97,ak,ak022ffyc0zp,2022-12-02T16:41:42.505Z,"52 km SE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
