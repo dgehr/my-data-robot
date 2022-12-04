@@ -43,6 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-04T11:41:26.337Z,38.5243,-119.5512,1.4,1.5,ml,12,125.43,0.066,0.1831,nn,nn00852544,2022-12-04T11:44:05.387Z,"California-Nevada border region",earthquake,,3.5,0.34,7,automatic,nn,nn
 2022-12-04T11:38:47.213Z,60.8424,-147.7006,114,1.4,ml,,,,1.17,ak,ak022fj6fbf5,2022-12-04T11:40:52.218Z,"54 km E of Whittier, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-04T11:38:27.310Z,19.4556666666667,-155.599,-1.01,1.68,md,10,77,,0.13,hv,hv73258042,2022-12-04T13:51:07.820Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.27,0.28,0.189975223920028,5,reviewed,hv,hv
+2022-12-04T11:29:15.200Z,19.599,-155.547166666667,-1.82,2.97,ml,7,126,,0.17,hv,hv73258012,2022-12-04T16:53:15.780Z,"36 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.71,0.48,0.457904988214545,1,reviewed,hv,hv
 2022-12-04T11:22:55.551Z,62.4893,-148.103,30.4,1.8,ml,,,,0.77,ak,ak022fj6bwlv,2022-12-04T11:24:22.810Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-04T11:19:41.400Z,36.2108333,-117.8503333,8.64,1.18,ml,13,112,0.09313,0.16,ci,ci40141903,2022-12-04T11:23:09.063Z,"16km ESE of Olancha, CA",earthquake,0.4,0.83,0.376,8,automatic,ci,ci
 2022-12-04T11:13:59.095Z,53.9438,-35.5583,10,5.4,mww,130,34,8.959,0.56,us,us6000j6ua,2022-12-04T13:17:57.906Z,"Reykjanes Ridge",earthquake,8.67,1.842,0.043,52,reviewed,us,us
