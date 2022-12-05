@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-05T08:39:20.990Z,33.9138336,-117.2103348,14.97,0.96,ml,19,169,0.05223,0.34,ci,ci40142191,2022-12-05T08:41:27.083Z,"2km SE of Moreno Valley, CA",earthquake,0.82,1.2,0.308,7,automatic,ci,ci
+2022-12-05T08:39:19.960Z,33.9413333,-117.2408333,24.18,0.87,ml,14,102,0.08481,0.34,ci,ci40142191,2022-12-05T08:43:03.753Z,"2km NW of Moreno Valley, CA",earthquake,1.01,1.93,0.184,19,automatic,ci,ci
 2022-12-05T08:21:48.232Z,63.5472,-149.711,58.7,1.5,ml,,,,1.57,ak,ak022fks2pma,2022-12-05T08:33:50.589Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-12-05T07:48:16.056Z,38.1601,-117.9174,9,0.5,ml,8,151.16,0.039,0.0806,nn,nn00852619,2022-12-05T07:52:25.282Z,"30 km SSE of Mina, Nevada",earthquake,,0.6,0.51,3,automatic,nn,nn
 2022-12-05T07:34:05.461Z,60.0917,-152.4815,92.8,1.9,ml,,,,0.42,ak,ak022fkrjzeq,2022-12-05T07:35:30.628Z,"44 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
