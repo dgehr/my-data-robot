@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-06T22:48:39.543Z,64.6725,-149.176,11.3,1.4,ml,,,,0.9,ak,ak022fmo3wmb,2022-12-06T22:51:25.089Z,"8 km NNW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-06T21:58:27.010Z,35.24688721,-98.01278687,2.179704189,2.35,ml,50,73.35700989,0.05889166147,0.6816955871,ok,ok2022xxba,2022-12-06T22:14:50.555Z,"8 km NW of Pocasset, Oklahoma",earthquake,1.865636272,1.363946128,,25,automatic,ok,ok
 2022-12-06T21:56:31.440Z,33.5606667,-116.6695,9.74,1.43,ml,49,24,0.03306,0.13,ci,ci40142711,2022-12-06T22:07:28.090Z,"1km NNE of Anza, CA",earthquake,0.14,0.28,0.148,27,automatic,ci,ci
 2022-12-06T21:50:30.933Z,34.94980621,-97.61831665,1.828747749,3.13,ml,76,23.90618896,0.03761323541,0.7756699447,ok,ok2022xxau,2022-12-06T22:42:56.040Z,"9 km S of Dibble, Oklahoma",earthquake,1.516020862,1.098080276,,55,automatic,ok,ok
@@ -278,4 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-05T23:05:01.520Z,33.4693333,-116.565,9.07,0.57,ml,22,62,0.04008,0.11,ci,ci40142415,2022-12-06T15:43:16.717Z,"14km SE of Anza, CA",earthquake,0.21,0.4,0.095,9,reviewed,ci,ci
 2022-12-05T23:02:15.100Z,19.4225,-155.270166666667,0.4,2.58,ml,34,50,,0.1,hv,hv73260857,2022-12-05T23:41:15.893Z,"4 km WSW of Volcano, Hawaii",earthquake,0.11,0.09,0.147325194078311,21,reviewed,hv,hv
 2022-12-05T22:58:06.540Z,33.8391667,-117.4965,-0.52,1.54,ml,46,49,0.04804,0.22,ci,ci40142407,2022-12-06T15:37:06.495Z,"5km SSE of Home Gardens, CA",quarry blast,0.4,31.61,0.198,37,reviewed,ci,ci
-2022-12-05T22:53:50.150Z,37.3251667,-121.6956667,9.05,0.79,md,10,95,0.0454,0.07,nc,nc73814936,2022-12-06T11:16:11.615Z,"12km ESE of Alum Rock, CA",earthquake,0.41,0.71,0.203,12,reviewed,nc,nc
