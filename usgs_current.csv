@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-06T09:44:41.401Z,62.2237,-150.033,5.2,2.3,ml,,,,0.9,ak,ak022fmgcf1s,2022-12-06T09:47:15.199Z,"11 km NW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-12-06T09:41:24.530Z,35.9860001,-119.9941635,0.53,2.2,md,42,66,0.245,0.35,nc,nc73815211,2022-12-06T09:44:35.233Z,"4km SW of Kettleman City, CA",earthquake,0.91,4.02,0.12,20,automatic,nc,nc
+2022-12-06T09:41:24.060Z,33.6983333,-116.6983333,4.49,0.21,ml,14,79,0.01839,0.24,ci,ci40142575,2022-12-06T09:46:35.387Z,"5km SSE of Idyllwild, CA",earthquake,0.95,0.67,0.178,6,automatic,ci,ci
 2022-12-06T09:39:51.520Z,38.8320007,-122.8151703,1.21,0.93,md,12,64,0.00947,0.02,nc,nc73815206,2022-12-06T09:41:25.954Z,"8km NW of The Geysers, CA",earthquake,0.26,0.68,0.23,13,automatic,nc,nc
 2022-12-06T09:34:36.387Z,35.29333496,-98.06413269,4.660486698,1.44,ml,10,102.708313,0.07603371143,1.389697754,ok,ok2022xwcm,2022-12-06T09:35:36.869Z,"11 km WSW of Minco, Oklahoma",earthquake,4.239782548,3.474871019,,7,automatic,ok,ok
+2022-12-06T09:33:41.070Z,17.8361666666667,-66.8908333333333,7.28,2.01,md,10,264,0.1364,0.09,pr,pr71385793,2022-12-06T09:45:42.880Z,"15 km S of Guánica, Puerto Rico",earthquake,0.54,0.27,0.117935531925295,4,reviewed,pr,pr
 2022-12-06T09:20:54.563Z,60.463,-144.5912,35.4,2.5,ml,,,,1.08,ak,ak022fmg7b9e,2022-12-06T09:32:56.382Z,"64 km E of Cordova, Alaska",earthquake,,7.8,,,automatic,ak,ak
 2022-12-06T09:19:08.400Z,19.4605,-155.588833333333,-2.01,3.48,ml,52,39,,0.22,hv,hv73261607,2022-12-06T09:39:29.030Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.23,0.19,0.191960149242325,36,reviewed,hv,hv
 2022-12-06T09:14:21.900Z,17.981,-66.9843333333333,6.89,1.81,md,5,166,0.05815,0.06,pr,pr71385788,2022-12-06T09:26:02.650Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.43,0.83,0.0233234335223045,4,reviewed,pr,pr
@@ -245,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-05T10:03:04.270Z,38.822834,-122.8001633,2.83,0.77,md,12,104,0.007762,0.01,nc,nc73814726,2022-12-05T12:48:13.022Z,"6km NW of The Geysers, CA",earthquake,0.32,0.58,0.17,13,automatic,nc,nc
 2022-12-05T09:55:07.012Z,39.218,-120.0696,6.5,0.3,ml,7,102.9,0.079,0.0806,nn,nn00852672,2022-12-06T00:08:45.492Z,"1 km SE of Carnelian Bay, California",earthquake,,3.8,0.4,3,reviewed,nn,nn
 2022-12-05T09:49:29.170Z,46.129333333333335,-120.49133333333333,12.29,1.45,ml,14,117,0.1383,0.13,uw,uw61897281,2022-12-05T21:37:40.290Z,"20 km NW of Bickleton, Washington",earthquake,0.43,0.39,0.10842595711245484,13,reviewed,uw,uw
-2022-12-05T09:42:43.374Z,38.1461,-117.8843,10.4,1.1,ml,15,153.1,0.06,0.1377,nn,nn00852620,2022-12-05T17:34:06.095Z,"33 km SE of Mina, Nevada",earthquake,,1.2,0.5,4,reviewed,nn,nn
