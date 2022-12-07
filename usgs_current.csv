@@ -264,6 +264,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-06T11:41:00.089Z,38.2718,-118.3722,9.8,-0.3,ml,6,235.39,0.106,0.0849,nn,nn00852754,2022-12-06T21:05:23.820Z,"26 km WSW of Mina, Nevada",earthquake,,9.1,0,1,reviewed,nn,nn
 2022-12-06T11:31:55.804Z,41.9907,-119.5587,0,0.8,ml,4,204.48,0.561,0.0758,nn,nn00852752,2022-12-06T20:37:32.573Z,"Nevada",earthquake,,5.2,0.66,3,reviewed,nn,nn
 2022-12-06T11:31:51.900Z,38.8218346,-122.8536682,2.58,1.18,md,18,65,0.006227,0.02,nc,nc73815236,2022-12-06T13:52:10.607Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.46,0.24,22,automatic,nc,nc
-2022-12-06T11:26:36.920Z,19.489,-155.4805,-0.13,1.5,md,11,70,,0.13,hv,hv73261767,2022-12-07T00:16:44.690Z,"26 km W of Volcano, Hawaii",earthquake,0.39,0.95,0.0803959102281837,5,reviewed,hv,hv
-2022-12-06T11:24:48.306Z,64.7598,-149.1602,19.2,1.1,ml,,,,0.27,ak,ak022fmhf0gu,2022-12-06T11:26:58.556Z,"17 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-06T11:23:35.150Z,17.9258333333333,-66.8585,17.06,2.06,md,10,220,0.05279,0.09,pr,pr71385798,2022-12-06T11:35:06.770Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,0.53,0.62,0.0475437978373279,5,reviewed,pr,pr
