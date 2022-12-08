@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-08T09:26:58.230Z,38.8266678,-122.7896652,0.25,0.97,md,8,93,0.01174,0.02,nc,nc73816116,2022-12-08T09:28:34.845Z,"6km W of Cobb, CA",earthquake,0.35,1.46,0.28,8,automatic,nc,nc
+2022-12-08T09:23:40.540Z,38.788166,-122.7631683,2.5,0.31,md,9,92,0.01273,0.02,nc,nc73816111,2022-12-08T09:25:14.799Z,"1km NNW of The Geysers, CA",earthquake,0.58,0.89,0.12,8,automatic,nc,nc
 2022-12-08T09:17:43.270Z,19.3369998931885,-155.146835327148,3.90000009536743,1.79,ml,35,87,,0.209999993,hv,hv73263802,2022-12-08T09:23:13.280Z,"14 km S of Fern Forest, Hawaii",earthquake,0.46,1.38,0.49,3,automatic,hv,hv
 2022-12-08T09:03:04.098Z,64.3865,-147.3956,5.6,1,ml,,,,0.23,ak,ak022fpr68sp,2022-12-08T09:04:51.534Z,"28 km WSW of Salcha, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-08T08:56:15.920Z,19.1665000915527,-155.403839111328,30.3400001525879,2.78999996,md,27,243,,0.150000006,hv,hv73263772,2022-12-08T08:59:24.510Z,"8 km ESE of Pāhala, Hawaii",earthquake,1.37,1.99000001,1.85000002,3,automatic,hv,hv
@@ -235,5 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-07T09:38:13.844Z,61.1367,-147.4274,0.1,1.7,ml,,,,0.58,ak,ak022fo3uf48,2022-12-07T09:52:45.188Z,"50 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-07T09:33:41.439Z,61.1286,-147.4204,0,1.9,ml,,,,0.55,ak,ak022fo3tenz,2022-12-07T09:35:43.494Z,"49 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-07T09:33:40.510Z,38.7663345,-122.7296677,4.23,0.88,md,8,111,0.006045,0.05,nc,nc73815656,2022-12-07T10:01:11.925Z,"3km ESE of The Geysers, CA",earthquake,1.2,2.49,0.16,9,automatic,nc,nc
-2022-12-07T09:31:36.110Z,38.8474998,-122.8156662,0.92,0.69,md,12,57,0.009333,0.03,nc,nc73815651,2022-12-07T10:46:12.261Z,"8km WNW of Cobb, CA",earthquake,0.24,0.6,0.33,13,automatic,nc,nc
-2022-12-07T09:28:37.136Z,61.6482,-147.3679,27.5,1.1,ml,,,,0.89,ak,ak022fo3sbr5,2022-12-07T09:30:39.099Z,"23 km SE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
