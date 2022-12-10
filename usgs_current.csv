@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-09T04:11:43.700Z,51.8585,-177.9915,5.38,0.28,ml,4,120,,0.06,av,av91079128,2022-12-09T23:17:30.300Z,"93 km W of Adak, Alaska",earthquake,0.37,0.75,0.267227144027941,4,reviewed,av,av
 2022-12-09T04:02:34.894Z,63.7965,-147.6883,0,1.5,ml,,,,0.54,ak,ak022frbq9xd,2022-12-09T04:04:43.895Z,"60 km E of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-09T04:01:57.220Z,19.1706657409668,-155.491333007812,30.25,2.4,ml,39,104,,0.140000001,hv,hv73264347,2022-12-09T06:09:40.899Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.73,0.980000019,3.99,5,automatic,hv,hv
-2022-12-09T03:56:22.840Z,17.9515,-66.9085,10.35,2.47,md,5,206,0.03638,0.11,pr,pr71386188,2022-12-09T04:24:42.980Z,"2 km S of Guánica, Puerto Rico",earthquake,0.69,0.56,0.00967074987707739,4,reviewed,pr,pr
