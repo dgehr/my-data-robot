@@ -187,5 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-10T11:57:43.630Z,17.9513333333333,-66.9518333333333,11.75,2.42,md,6,211,0.073,0.07,pr,pr71386458,2022-12-10T12:08:24.640Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.57,0.33,0.12799183795613,6,reviewed,pr,pr
 2022-12-10T11:53:16.150Z,-10.7286,113.3813,10,4.8,mb,44,123,2.369,0.53,us,us6000j8ep,2022-12-10T12:15:17.040Z,"270 km S of Kencong, Indonesia",earthquake,7.79,1.904,0.098,35,reviewed,us,us
 2022-12-10T11:53:12.700Z,19.1656665802002,-155.473495483398,35.7700004577637,2.42,ml,48,92,,0.119999997,hv,hv73265317,2022-12-10T12:37:21.040Z,"4 km S of Pāhala, Hawaii",earthquake,0.48,0.800000012,4.54,4,automatic,hv,hv
-2022-12-10T11:36:51.100Z,19.379,-65.9236666666667,10.29,3.33,md,21,267,1.075,0.23,pr,pr71386448,2022-12-10T12:06:58.110Z,"102 km N of San Juan, Puerto Rico",earthquake,2.25,3.05,0.0458009562220654,11,reviewed,pr,pr
-2022-12-10T11:32:40.861Z,63.297,-150.4687,126.7,1.8,ml,,,,0.25,ak,ak022ft3m3li,2022-12-10T11:34:48.801Z,"68 km ESE of Denali National Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
