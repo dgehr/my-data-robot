@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-11T20:34:59.530Z,38.7869987,-122.7513351,0.1,1.72,md,15,126,0.01202,0.03,nc,nc73817416,2022-12-11T20:36:33.182Z,"1km NNE of The Geysers, CA",earthquake,0.22,0.43,0.2,17,automatic,nc,nc
 2022-12-11T20:20:48.800Z,38.7885017,-122.7661667,2.11,1.07,md,19,81,0.01311,0.03,nc,nc73817401,2022-12-11T20:22:22.551Z,"2km NW of The Geysers, CA",earthquake,0.29,0.52,0.2,18,automatic,nc,nc
 2022-12-11T19:47:54.900Z,17.9421666666667,-66.8423333333333,12.57,2.58,md,14,214,0.04801,0.11,pr,pr71386678,2022-12-11T20:08:08.220Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.61,0.36,0.190054867453826,5,reviewed,pr,pr
 2022-12-11T19:43:58.430Z,34.1713333,-117.4355,9.81,1.59,ml,59,36,0.02224,0.21,ci,ci40144607,2022-12-11T19:47:37.184Z,"6km SSW of Devore, CA",earthquake,0.24,0.49,0.12,27,automatic,ci,ci
@@ -42,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-11T14:48:46.021Z,58.2452,-155.1036,0,0.8,ml,,,,0.2,ak,ak022fut16re,2022-12-11T14:50:30.274Z,"84 km NNW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-12-11T14:38:25.210Z,38.7663345,-122.7251663,2.63,1.17,md,6,136,0.004741,0.02,nc,nc73817286,2022-12-11T15:12:11.277Z,"3km ESE of The Geysers, CA",earthquake,4.45,4.58,0.36,6,automatic,nc,nc
 2022-12-11T14:34:48.665Z,-31.6726,125.8667,9.953,4.6,mb,23,47,2.079,0.34,us,us6000j8lq,2022-12-11T20:00:25.817Z,"Western Australia",earthquake,7.31,3.385,0.146,16,reviewed,us,us
-2022-12-11T14:31:29.648Z,17.2249,-100.4732,18.83,6,mww,98,119,1.851,0.73,us,us6000j8lp,2022-12-11T20:25:35.823Z,"3 km WNW of El Ticui, Mexico",earthquake,9.09,3.647,0.043,53,reviewed,us,us
+2022-12-11T14:31:29.648Z,17.2249,-100.4732,18.83,6,mww,98,119,1.851,0.73,us,us6000j8lp,2022-12-11T20:36:02.831Z,"3 km WNW of El Ticui, Mexico",earthquake,9.09,3.647,0.043,53,reviewed,us,us
 2022-12-11T14:29:13.436Z,37.2318,-97.9554,10,3.2,mb_lg,31,64,0.175,0.77,us,us6000j8ln,2022-12-11T16:18:16.263Z,"8 km SW of Danville, Kansas",earthquake,1.33,1.996,0.051,102,reviewed,us,us
 2022-12-11T14:24:44.369Z,60.0896,-152.539,98.7,1.8,ml,,,,0.36,ak,ak022fusw1g4,2022-12-11T14:26:52.241Z,"Southern Alaska",earthquake,,2.1,,,automatic,ak,ak
 2022-12-11T14:12:43.587Z,31.0228,141.7936,10,4.9,mb,53,122,2.679,0.78,us,us6000j8lk,2022-12-11T15:24:11.040Z,"Izu Islands, Japan region",earthquake,5.62,1.835,0.057,98,reviewed,us,us
