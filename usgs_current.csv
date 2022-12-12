@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-12T13:50:24.970Z,34.2605,-116.4431667,8.28,0.88,ml,13,82,0.05894,0.22,ci,ci40144903,2022-12-12T13:53:54.747Z,"16km N of Yucca Valley, CA",earthquake,0.44,1.07,0.152,17,automatic,ci,ci
+2022-12-12T13:49:39.030Z,38.7866669,-122.7678299,1.84,1.9,md,30,82,,0.04,nc,nc73817621,2022-12-12T13:52:48.349Z,"1km NW of The Geysers, CA",earthquake,0.22,0.33,0.18,31,automatic,nc,nc
+2022-12-12T13:47:27.020Z,34.2535,-116.4418333,6.06,1.42,ml,31,80,0.06201,0.17,ci,ci40144895,2022-12-12T13:51:05.812Z,"16km N of Yucca Valley, CA",earthquake,0.26,0.82,0.107,28,automatic,ci,ci
 2022-12-12T13:41:30.840Z,38.8131676,-122.829834,1.56,0.48,md,10,62,0.004324,0.03,nc,nc73817616,2022-12-12T13:43:07.342Z,"8km WNW of The Geysers, CA",earthquake,0.36,0.75,0.29,11,automatic,nc,nc
 2022-12-12T13:37:44.600Z,19.2533340454102,-155.406326293945,31.9699993133545,1.90999997,md,30,129,,0.150000006,hv,hv73267372,2022-12-12T13:40:51.410Z,"9 km NE of Pāhala, Hawaii",earthquake,0.75,1.05999994,0.620000005,5,automatic,hv,hv
 2022-12-12T13:33:11.159Z,59.7194,-151.9479,62.5,1.9,ml,,,,0.25,ak,ak022fwfvt7v,2022-12-12T13:35:00.705Z,"9 km SW of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -164,4 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-11T14:24:44.369Z,60.0896,-152.539,98.7,1.8,ml,,,,0.36,ak,ak022fusw1g4,2022-12-11T14:26:52.241Z,"47 km WNW of Happy Valley, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2022-12-11T14:12:43.587Z,31.0228,141.7936,10,4.9,mb,53,122,2.679,0.78,us,us6000j8lk,2022-12-11T15:24:11.040Z,"Izu Islands, Japan region",earthquake,5.62,1.835,0.057,98,reviewed,us,us
 2022-12-11T13:59:52.980Z,38.7876663,-122.7468338,1.52,1.2,md,14,139,0.009054,0.02,nc,nc73817281,2022-12-11T14:35:19.042Z,"1km NE of The Geysers, CA",earthquake,0.29,0.47,0.15,13,automatic,nc,nc
-2022-12-11T13:54:30.700Z,61.2474,-149.9259,34.1,1.5,ml,,,,0.65,ak,ak022fush08a,2022-12-11T20:28:23.433Z,"3 km NNW of Anchorage, Alaska",earthquake,,0.3,,,automatic,ak,ak
