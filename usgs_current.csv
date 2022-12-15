@@ -206,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-14T12:19:50.280Z,47.70633333333333,-121.937,26.27,1.04,ml,13,74,0.04098,0.14,uw,uw61898446,2022-12-14T16:18:02.200Z,"2 km NW of Lake Marcel-Stillwater, Washington",earthquake,0.34,0.65,0.23817955104165556,5,reviewed,uw,uw
 2022-12-14T12:10:57.520Z,58.2663333333333,-155.086166666667,5.57,-0.21,ml,4,196,,0.18,av,av91079878,2022-12-15T00:51:43.070Z,"86 km NNW of Karluk, Alaska",earthquake,3.82,0.8,0.267909514810928,4,reviewed,av,av
 2022-12-14T11:53:40.140Z,33.3166667,-116.7596667,11.82,0.53,ml,27,45,0.08047,0.15,ci,ci40145415,2022-12-14T17:48:50.917Z,"8km N of Lake Henshaw, CA",earthquake,0.22,0.69,0.179,10,reviewed,ci,ci
-2022-12-14T11:46:58.560Z,64.6313,-149.1872,12.7,1.4,ml,,,,0.58,ak,ak022fzpuiyo,2022-12-14T11:49:14.684Z,"4 km NW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
