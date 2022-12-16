@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-16T02:54:09.950Z,35.8798333,-117.6886667,9.65,1.09,ml,12,128,0.0943,0.08,ci,ci40391008,2022-12-16T02:57:40.305Z,"21km ESE of Little Lake, CA",earthquake,0.25,0.54,0.204,12,automatic,ci,ci
+2022-12-16T02:51:52.760Z,34.9101667,-119.559,5.91,0.93,ml,18,97,0.09987,0.27,ci,ci40391000,2022-12-16T02:55:21.078Z,"22km SW of Maricopa, CA",earthquake,0.53,1.62,0.156,11,automatic,ci,ci
+2022-12-16T02:49:21.020Z,34.9201667,-119.5596667,7.62,1.53,ml,28,57,0.09655,0.26,ci,ci40390992,2022-12-16T02:53:01.224Z,"21km SW of Maricopa, CA",earthquake,0.47,1.48,0.233,23,automatic,ci,ci
 2022-12-16T02:36:42.640Z,19.2325000762939,-155.382827758789,30.2099990844727,2.04999995,md,40,148,,0.109999999,hv,hv73271197,2022-12-16T02:39:46.100Z,"Hawaii region, Hawaii",earthquake,0.58,0.589999974,1.00999999,15,automatic,hv,hv
 2022-12-16T02:28:42.790Z,33.68,-116.739,17.13,0.56,ml,16,93,0.03735,0.17,ci,ci40390984,2022-12-16T02:32:14.477Z,"7km SSW of Idyllwild, CA",earthquake,0.41,0.62,0.147,12,automatic,ci,ci
 2022-12-16T02:24:33.932Z,63.2742,-151.3479,10.4,1.7,ml,,,,0.4,ak,ak022g2vfjup,2022-12-16T02:26:39.464Z,"35 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -152,6 +155,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T08:52:16.020Z,37.5761667,-118.8383333,4.32,0.37,md,9,256,0.01566,0.01,nc,nc73818916,2022-12-15T18:53:13.461Z,"14km W of Toms Place, CA",earthquake,1.32,1.41,0.179,9,reviewed,nc,nc
 2022-12-15T08:48:00.930Z,38.8101654,-122.7925034,3.26,0.33,md,7,180,0.003098,0.01,nc,nc73818911,2022-12-15T09:10:11.832Z,"5km NW of The Geysers, CA",earthquake,1.18,1.05,0.12,8,automatic,nc,nc
 2022-12-15T08:41:48.501Z,31.67158482,-104.3908384,7.725463867,2.1,ml,35,66,0.03113747102,0.2,tx,tx2022ymmh,2022-12-15T18:47:55.227Z,"55 km S of Whites City, New Mexico",earthquake,0.9123169995,0.9369092271000001,0.1,20,reviewed,tx,tx
+2022-12-15T08:35:21.170Z,51.8545,-178.053333333333,-1.8,2.22,ml,6,114,,0.23,av,av91731171,2022-12-16T02:56:37.700Z,"97 km W of Adak, Alaska",earthquake,0.42,1.42,0.243804270346729,6,reviewed,av,av
 2022-12-15T08:29:02.840Z,63.1774,-149.876,93.3,1.6,ml,,,,0.84,ak,ak022g1bht73,2022-12-15T08:31:47.471Z,"52 km WSW of Cantwell, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2022-12-15T08:27:53.610Z,38.8288345,-122.8154984,2.05,0.77,md,8,94,0.006889,0.01,nc,nc73818906,2022-12-15T08:58:12.759Z,"8km NW of The Geysers, CA",earthquake,0.53,1.1,0.15,11,automatic,nc,nc
 2022-12-15T08:25:21.666Z,62.1077,-150.4958,12.5,1.9,ml,,,,0.74,ak,ak022g1bgzra,2022-12-15T08:28:16.000Z,"27 km SSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -165,6 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T07:39:37.570Z,37.2788333,-121.6463333,9.1,0.94,md,24,45,0.02914,0.08,nc,nc73818886,2022-12-15T17:52:42.897Z,"16km N of Morgan Hill, CA",earthquake,0.22,0.45,0.078,19,reviewed,nc,nc
 2022-12-15T07:32:55.150Z,36.454,-121.0263333,8.53,1.07,md,21,119,0.02554,0.11,nc,nc73818876,2022-12-15T18:41:13.392Z,"14km SE of Pinnacles, CA",earthquake,0.31,0.32,0.239,14,reviewed,nc,nc
 2022-12-15T07:29:22.340Z,17.9436666666667,-66.9478333333333,10.1,2.29,md,22,213,0.04687,0.19,pr,pr71387243,2022-12-15T07:50:47.770Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.48,0.63,0.0970535189377719,6,reviewed,pr,pr
+2022-12-15T07:27:24.390Z,58.2305,-155.143166666667,-0.68,0.06,ml,4,227,,0.07,av,av91080013,2022-12-16T02:51:56.080Z,"84 km NNW of Karluk, Alaska",earthquake,0.6,31.61,0.181992163323997,4,reviewed,av,av
 2022-12-15T07:26:55.860Z,17.9506666666667,-66.9616666666667,11.37,1.99,md,4,212,0.08077,0.05,pr,pr71387238,2022-12-15T07:38:14.840Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.64,0.89,0.119178094790065,4,reviewed,pr,pr
 2022-12-15T07:24:10.174Z,62.0177,-152.1644,93.8,1.9,ml,,,,0.61,ak,ak022g1avbjt,2022-12-15T07:26:08.054Z,"40 km W of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-12-15T07:12:55.140Z,32.8228333,-116.1668333,8.94,0.91,ml,30,71,0.0663,0.21,ci,ci40145679,2022-12-15T16:19:48.057Z,"19km WNW of Ocotillo, CA",earthquake,0.26,0.74,0.1,12,reviewed,ci,ci
