@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-16T06:26:55.570Z,33.5786667,-116.8108333,8.67,0.31,ml,14,179,0.04179,0.14,ci,ci40391080,2022-12-16T06:30:35.823Z,"13km WNW of Anza, CA",earthquake,0.48,0.58,0.166,7,automatic,ci,ci
 2022-12-16T06:21:29.510Z,58.1608,-155.4073,0.1,1.7,ml,,,,0.6,ak,ak022g2xsms7,2022-12-16T06:22:32.103Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
 2022-12-16T06:17:48.440Z,33.295,-116.7545,7.66,1,ml,46,34,0.05897,0.16,ci,ci40391072,2022-12-16T06:21:37.631Z,"6km N of Lake Henshaw, CA",earthquake,0.19,0.69,0.159,25,automatic,ci,ci
-2022-12-16T06:14:35.860Z,38.8419991,-122.8766632,2.59,1.1,md,18,88,0.006506,0.01,nc,nc73819241,2022-12-16T06:52:12.853Z,"13km NW of The Geysers, CA",earthquake,0.33,0.53,0.15,19,automatic,nc,nc
+2022-12-16T06:14:35.860Z,38.8419991,-122.8766632,2.59,1.1,md,18,88,0.006506,0.01,nc,nc73819241,2022-12-16T07:38:14.129Z,"13km NW of The Geysers, CA",earthquake,0.33,0.53,0.15,19,automatic,nc,nc
 2022-12-16T05:57:04.612Z,64.9557,-150.6955,9.6,1.5,ml,,,,0.71,ak,ak022g2xev0s,2022-12-16T06:02:25.451Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-16T05:56:53.655Z,-11.346,-76.5591,7.35,4.6,mb,33,120,0.695,0.79,us,us6000j9nd,2022-12-16T07:05:15.738Z,"6 km NNE of Huaros, Peru",earthquake,6.87,5.345,0.103,28,reviewed,us,us
 2022-12-16T05:52:24.310Z,17.9391666666667,-67.1075,12.11,2.39,md,5,296,0.0669,0.05,pr,pr71387433,2022-12-16T06:12:05.370Z,"7 km WSW of La Parguera, Puerto Rico",earthquake,0.57,0.66,0.0792806865779583,3,reviewed,pr,pr
@@ -246,5 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T08:01:14.976Z,61.3289,-150.66,57.4,1.6,ml,,,,0.61,ak,ak022g1bbu21,2022-12-15T08:03:44.210Z,"25 km SSW of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-15T07:55:41.168Z,36.447,-116.2276,0.5,0.1,ml,6,254.78,0.044,0.0998,nn,nn00853480,2022-12-16T02:41:56.419Z,"34 km NW of Pahrump, Nevada",earthquake,,17.6,0.93,5,reviewed,nn,nn
 2022-12-15T07:50:12.690Z,38.8251667,-122.7856667,1.46,0.27,md,12,74,0.01251,0.03,nc,nc73818891,2022-12-16T06:48:14.302Z,"5km W of Cobb, CA",earthquake,0.31,0.68,0.236,2,reviewed,nc,nc
-2022-12-15T07:40:51.530Z,38.7958336,-122.7545013,1.84,1.05,md,13,90,0.006282,0.02,nc,nc73818881,2022-12-15T08:13:14.474Z,"2km N of The Geysers, CA",earthquake,0.29,0.52,0.21,12,automatic,nc,nc
-2022-12-15T07:39:37.570Z,37.2788333,-121.6463333,9.1,0.94,md,24,45,0.02914,0.08,nc,nc73818886,2022-12-15T17:52:42.897Z,"16km N of Morgan Hill, CA",earthquake,0.22,0.45,0.078,19,reviewed,nc,nc
