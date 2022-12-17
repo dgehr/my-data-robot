@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-17T10:20:20.790Z,17.8911666666667,-66.8443333333333,14.61,1.76,md,4,314,0.08981,0.07,pr,pr71387743,2022-12-17T10:38:57.170Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.9,0.96,0.0749858332235906,4,reviewed,pr,pr
 2022-12-17T10:20:05.047Z,62.1483,-152.0222,106.8,1.8,ml,,,,0.43,ak,ak022g4npg19,2022-12-17T10:21:24.606Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-17T10:15:02.781Z,64.2599,-149.6904,39.9,1.9,ml,,,,0.97,ak,ak022g4nodc6,2022-12-17T10:17:12.681Z,"24 km W of Clear, Alaska, Alaska",earthquake,,8.6,,,automatic,ak,ak
 2022-12-17T10:05:45.460Z,35.1821667,-119.0366667,8.43,1.32,ml,16,61,0.1711,0.21,ci,ci40391456,2022-12-17T10:09:09.283Z,"14km SW of Lamont, CA",earthquake,0.47,1.81,0.117,18,automatic,ci,ci
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-17T09:54:39.990Z,38.796833,-122.7403336,1.05,1.26,md,19,99,0.03278,0.02,nc,nc73819726,2022-12-17T10:31:09.964Z,"3km NNE of The Geysers, CA",earthquake,0.22,0.51,0.22,18,automatic,nc,nc
 2022-12-17T09:49:54.647Z,-20.4111,169.7089,132.105,4.4,mb,17,247,3.039,0.42,us,us6000j9z2,2022-12-17T10:13:30.040Z,"106 km SSE of Isangel, Vanuatu",earthquake,7.59,11.672,0.144,15,reviewed,us,us
 2022-12-17T09:46:33.247Z,1.4425,-79.3268,18.263,5.4,mww,83,86,6.033,0.87,us,us6000j9z0,2022-12-17T10:09:03.695Z,"43 km WNW of Valdez, Ecuador",earthquake,8.03,4.402,0.053,34,reviewed,us,us
-2022-12-17T09:42:04.320Z,38.7946663,-122.7590027,-0.69,1.05,md,9,162,0.02082,0.28,nc,nc73819721,2022-12-17T09:59:13.775Z,"2km N of The Geysers, CA",earthquake,1.35,6.72,0.28,8,automatic,nc,nc
+2022-12-17T09:42:04.320Z,38.7946663,-122.7590027,-0.69,1.05,md,9,162,0.02082,0.28,nc,nc73819721,2022-12-17T10:33:11.978Z,"2km N of The Geysers, CA",earthquake,1.35,6.72,0.28,8,automatic,nc,nc
 2022-12-17T09:16:25.890Z,32.6785,-115.8231667,5.48,1.54,ml,20,80,0.08667,0.22,ci,ci40391440,2022-12-17T09:19:55.764Z,"17km ESE of Ocotillo, CA",earthquake,0.42,1,0.193,24,automatic,ci,ci
 2022-12-17T09:08:14.300Z,33.3108333,-116.8566667,15.9,0.84,ml,13,191,0.2064,0.24,ci,ci40391432,2022-12-17T09:11:50.755Z,"5km S of Palomar Observatory, CA",earthquake,1.76,3.77,0.263,10,automatic,ci,ci
 2022-12-17T09:04:53.331Z,63.1224,-150.4442,116.9,3.1,ml,,,,0.51,ak,ak022g4n0oog,2022-12-17T09:19:03.040Z,"71 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
