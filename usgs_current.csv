@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-21T14:27:38.257Z,58.6917,-151.0862,8.5,3,ml,,,,0.64,ak,ak022gbca4vx,2022-12-21T14:29:46.452Z,"84 km SSE of Port Graham, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-12-21T14:24:44.996Z,62.6444,-151.125,81.1,1.7,ml,,,,0.47,ak,ak022gbc9ifn,2022-12-21T14:26:49.106Z,"24 km NW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-21T14:08:40.805Z,38.1703,-117.8946,9.1,0.9,ml,10,170.85,0.06,0.129,nn,nn00853873,2022-12-21T14:12:10.393Z,"30 km SE of Mina, Nevada",earthquake,,0.5,0.51,6,automatic,nn,nn
 2022-12-21T13:55:59.970Z,19.2358341217041,-155.355499267578,33.3800010681152,2.32999992,md,24,248,,0.0900000036,hv,hv73277562,2022-12-21T13:59:03.920Z,"Island of Hawaii, Hawaii",earthquake,1.22,1.42999995,1.15999997,3,automatic,hv,hv
 2022-12-21T13:48:11.490Z,19.2688331604004,-155.380340576172,30.2600002288818,1.85000002,md,36,130,,0.129999995,hv,hv73277557,2022-12-21T13:51:34.350Z,"Island of Hawaii, Hawaii",earthquake,0.59,0.930000007,1.12,6,automatic,hv,hv
@@ -131,7 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-21T00:21:49.920Z,38.847168,-122.8153305,0.88,0.29,md,8,152,0.009755,0.01,nc,nc73822116,2022-12-21T00:23:25.582Z,"8km WNW of Cobb, CA",earthquake,0.44,0.86,0.18,8,automatic,nc,nc
 2022-12-21T00:16:40.010Z,17.9436666666667,-66.9518333333333,11.72,1.72,md,5,222,0.07581,0.06,pr,pr71388313,2022-12-21T00:56:55.390Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.64,1,0.0881010902296806,3,reviewed,pr,pr
 2022-12-21T00:15:31.470Z,40.5586667,-124.0691667,18.91,2.74,md,29,79,0.145,0.15,nc,nc73822111,2022-12-21T07:54:10.957Z,"3km ENE of Hydesville, CA",earthquake,0.32,0.36,0.203,34,reviewed,nc,nc
-2022-12-21T00:12:13.689Z,63.1145,-151.4841,0,2.3,ml,,,,1.03,ak,ak022gb3usyg,2022-12-21T00:14:18.508Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-12-21T00:12:13.689Z,63.1145,-151.4841,0,2.3,ml,,,,1.03,ak,ak022gb3usyg,2022-12-21T00:14:18.508Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-21T00:03:03.610Z,37.0184,-116.29,8.3,0.1,ml,14,74.84,0.088,0.1044,nn,nn00853844,2022-12-21T00:41:53.145Z,"Nevada",earthquake,,1.4,0.99,10,reviewed,nn,nn
 2022-12-21T00:02:09.191Z,64.9867,-147.3559,7.8,1.4,ml,,,,1.16,ak,ak022gb3sng7,2022-12-21T00:04:17.215Z,"12 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-20T23:55:35.960Z,32.8861667,-116.9321667,1.65,0.65,ml,6,258,0.3418,0.15,ci,ci40392792,2022-12-20T23:59:13.296Z,"3km NNW of Lakeside, CA",earthquake,1.67,4.06,0.065,3,automatic,ci,ci
@@ -224,6 +226,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-20T16:40:07.468Z,59.3079,-153.2055,102.9,1.8,ml,,,,0.26,ak,ak022g9q0dhx,2022-12-20T17:34:48.040Z,"73 km W of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-20T16:40:03.440Z,40.5416667,-124.3358333,16.98,2.7,md,22,204,0.05435,0.09,nc,nc73821766,2022-12-21T02:36:14.024Z,"7km WSW of Ferndale, CA",earthquake,0.46,0.28,0.112,20,reviewed,nc,nc
 2022-12-20T16:38:42.057Z,-33.8233,-179.7606,45.348,5.4,mb,38,86,4.049,0.44,us,us6000jall,2022-12-20T18:42:04.265Z,"south of the Kermadec Islands",earthquake,11.13,6.157,0.054,124,reviewed,us,us
+2022-12-20T16:37:09.130Z,36.1995,-95.81883333,0,1.44,ml,67,116,0.2897431425,0.51,ok,ok2022ywfm,2022-12-21T14:29:37.339Z,"6 km W of Catoosa, Oklahoma",quarry blast,,0.5,0.21,26,reviewed,ok,ok
 2022-12-20T16:33:41.550Z,40.5303333,-124.3623333,17.7,3.2,ml,29,206,0.0579,0.13,nc,nc73821761,2022-12-21T01:37:14.689Z,"10km WSW of Ferndale, CA",earthquake,0.52,0.28,0.232,23,reviewed,nc,nc
 2022-12-20T16:33:08.369Z,35.9115,-95.1565,0,1.64,ml,51,106,0.2762457912,0.49,ok,ok2022ywfi,2022-12-21T13:44:54.395Z,"2 km SSW of Hulbert, Oklahoma",quarry blast,,0.5,0.16,13,reviewed,ok,ok
 2022-12-20T16:33:00.140Z,40.7411652,-124.7580032,23.79,2.19,md,7,311,0.4158,0.07,nc,nc73821756,2022-12-20T17:21:15.295Z,"46km WNW of Ferndale, CA",earthquake,7.07,9.88,0.09,5,automatic,nc,nc
@@ -261,5 +264,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-20T14:42:07.600Z,40.5706673,-124.3430023,12.75,2.41,md,11,256,0.09509,0.38,nc,nc73821596,2022-12-20T14:56:12.300Z,"7km W of Ferndale, CA",earthquake,4.32,2.7,0.13,2,automatic,nc,nc
 2022-12-20T14:39:23.365Z,59.8989,-153.2873,108.5,1.6,ml,,,,0.49,ak,ak022g9otc0g,2022-12-20T14:41:12.225Z,"47 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-20T14:33:39.720Z,40.5873337,-124.3973312,19.91,2.33,md,9,270,0.1206,0.34,nc,nc73821591,2022-12-20T16:05:23.867Z,"11km W of Ferndale, CA",earthquake,8.02,1.61,0.1,7,automatic,nc,nc
-2022-12-20T14:29:08.030Z,40.4981651,-123.9268341,19.53,2.31,md,12,151,0.1082,0.06,nc,nc73821581,2022-12-20T14:56:11.642Z,"15km E of Rio Dell, CA",earthquake,0.66,0.47,0.08,10,automatic,nc,nc
-2022-12-20T14:26:33.040Z,34.1913333,-116.8178333,5.29,1.03,ml,36,46,0.1108,0.13,ci,ci40392672,2022-12-20T19:05:27.591Z,"8km SSE of Big Bear City, CA",earthquake,0.15,0.56,0.145,20,reviewed,ci,ci
