@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-22T13:18:44.320Z,40.5236664,-124.3686676,17.66,2.37,md,10,259,0.2115,0.08,nc,nc73823096,2022-12-22T13:20:22.635Z,"11km WSW of Ferndale, CA",earthquake,3.86,0.78,0.12,7,automatic,nc,nc
-2022-12-22T13:18:04.960Z,38.8343315,-122.8061676,2.31,1.46,md,25,52,0.01134,0.01,nc,nc73823091,2022-12-22T13:19:42.794Z,"7km W of Cobb, CA",earthquake,0.2,0.43,0.13,27,automatic,nc,nc
+2022-12-22T13:33:13.740Z,40.5279999,-124.3720016,17.18,2.01,md,9,302,0.05862,0.08,nc,nc73823106,2022-12-22T13:34:51.881Z,"11km WSW of Ferndale, CA",earthquake,2.95,0.94,0.14,5,automatic,nc,nc
+2022-12-22T13:18:44.320Z,40.5236664,-124.3686676,17.66,2.37,md,10,259,0.2115,0.08,nc,nc73823096,2022-12-22T13:30:09.788Z,"11km WSW of Ferndale, CA",earthquake,3.86,0.78,0.12,7,automatic,nc,nc
+2022-12-22T13:18:04.960Z,38.8343315,-122.8061676,2.31,1.46,md,25,52,0.01134,0.01,nc,nc73823091,2022-12-22T13:30:10.788Z,"7km W of Cobb, CA",earthquake,0.2,0.43,0.13,27,automatic,nc,nc
 2022-12-22T13:17:55.540Z,38.8361664,-122.8171692,1.33,0.95,md,9,97,0.0139,0.01,nc,nc73823086,2022-12-22T13:19:32.845Z,"8km W of Cobb, CA",earthquake,0.3,1.01,0.18,8,automatic,nc,nc
+2022-12-22T13:13:55.683Z,-8.042,-74.503,156.983,5.5,mww,79,83,1.808,1.14,us,us6000jb2a,2022-12-22T13:32:08.004Z,"37 km N of Pucallpa, Peru",earthquake,8.16,7.001,0.058,29,reviewed,us,us
 2022-12-22T13:09:56.730Z,36.6818352,-121.3030014,2.95,1.75,md,22,128,0.04233,0.08,nc,nc73823081,2022-12-22T13:26:11.883Z,"12km S of Tres Pinos, CA",earthquake,0.31,0.85,0.17,21,automatic,nc,nc
 2022-12-22T13:04:20.280Z,19.1413326263428,-155.456832885742,30.3700008392334,2.44000006,md,15,250,,0.109999999,hv,hv73278267,2022-12-22T13:07:29.560Z,"7 km SSE of Pāhala, Hawaii",earthquake,1.7,1.14999998,1.45000005,3,automatic,hv,hv
 2022-12-22T13:00:54.780Z,40.739666,-124.6778336,5.02,2.09,md,7,331,0.5139,0.1,nc,nc73823076,2022-12-22T13:26:11.763Z,"39km WNW of Ferndale, CA",earthquake,8.27,7.13,0.13,2,automatic,nc,nc
@@ -94,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T02:33:06.530Z,38.5296669,-119.5066681,5.58,2.56,md,15,85,0.05713,0.1,nc,nc73822871,2022-12-22T04:28:13.552Z,"3km NW of Walker, CA",earthquake,0.38,0.8,0.28,12,automatic,nc,nc
 2022-12-22T02:25:06.679Z,62.3562,-149.0818,15.3,1.8,ml,,,,0.24,ak,ak022gcsnsff,2022-12-22T02:26:30.399Z,"45 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-22T02:23:07.023Z,62.3562,-149.0763,8.3,1.9,ml,,,,0.43,ak,ak022gcsnd0u,2022-12-22T02:25:14.132Z,"45 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-22T02:22:50.320Z,37.6173325,-122.0241699,4.88,3.31,ml,83,39,,0.16,nc,nc73822861,2022-12-22T12:49:13.678Z,"2km N of Union City, CA",earthquake,0.18,0.58,0.246,53,reviewed,nc,nc
+2022-12-22T02:22:50.320Z,37.6173325,-122.0241699,4.88,3.31,ml,83,39,,0.16,nc,nc73822861,2022-12-22T13:33:37.400Z,"2km N of Union City, CA",earthquake,0.18,0.58,0.246,53,reviewed,nc,nc
 2022-12-22T01:53:33.350Z,17.9506666666667,-66.9613333333333,11.62,2.09,md,5,212,0.08108,0.05,pr,pr71388478,2022-12-22T02:02:58.300Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.61,0.88,0.0634485560795948,4,reviewed,pr,pr
 2022-12-22T01:37:21.649Z,62.8425,-151.5802,0,2,ml,,,,0.69,ak,ak022gcs4ykm,2022-12-22T01:39:48.834Z,"56 km NW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-22T01:30:01.210Z,32.9245,-115.8115,7.18,1.3,ml,26,67,0.02273,0.26,ci,ci40148687,2022-12-22T01:33:36.010Z,"22km SW of Westmorland, CA",earthquake,0.43,0.82,0.204,22,automatic,ci,ci
@@ -213,9 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-21T13:48:11.490Z,19.2688331604004,-155.380340576172,30.2600002288818,1.85000002,md,36,130,,0.129999995,hv,hv73277557,2022-12-21T13:51:34.350Z,"Hawaii region, Hawaii",earthquake,0.59,0.930000007,1.12,6,automatic,hv,hv
 2022-12-21T13:37:33.000Z,51.864,-177.863,7.87,1.47,ml,4,213,,0.05,av,av91734886,2022-12-22T04:24:55.640Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.5,0.79,0.22578122296943,5,reviewed,av,av
 2022-12-21T13:37:30.525Z,65.9114,-149.593,8.7,1.7,ml,,,,0.67,ak,ak022gbbqu0s,2022-12-21T13:48:09.918Z,"25 km WSW of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-21T13:34:46.130Z,58.1785,-155.327333333333,0.86,0.23,ml,5,125,,0.08,av,av91734881,2022-12-22T03:51:12.660Z,"85 km NW of Karluk, Alaska",earthquake,0.32,1.29,0.121270585025842,5,reviewed,av,av
-2022-12-21T13:33:40.136Z,61.0144,-150.9581,14.3,1.6,ml,,,,0.49,ak,ak022gbbpzwa,2022-12-21T13:36:04.549Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-21T13:32:56.220Z,19.4271659851074,-155.267166137695,0.980000019073486,1.88,ml,16,101,,0.209999993,hv,hv73277552,2022-12-21T13:38:27.400Z,"3 km WSW of Volcano, Hawaii",earthquake,0.3,0.419999987,3.49,4,automatic,hv,hv
-2022-12-21T13:32:27.620Z,51.864,-177.970166666667,5.56,0.86,ml,5,132,,0.13,av,av91081448,2022-12-22T04:19:22.620Z,"92 km W of Adak, Alaska",earthquake,0.48,0.99,0.160284221973905,5,reviewed,av,av
-2022-12-21T13:31:40.220Z,46.8485,-121.75333333333333,2.33,0.04,ml,20,69,0.01899,0.09,uw,uw61890742,2022-12-21T21:02:16.550Z,"23 km ENE of Ashford, Washington",earthquake,0.26,0.53,0.21429979060330256,6,reviewed,uw,uw
-2022-12-21T13:28:45.690Z,38.8356667,-122.8176651,1.45,1.04,md,8,90,0.01361,0.02,nc,nc73822511,2022-12-21T14:07:13.193Z,"8km W of Cobb, CA",earthquake,0.43,1.49,0.35,8,automatic,nc,nc
