@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-12-24T07:29:13.379Z,58.5176,-155.0179,130.8,1.1,ml,,,,0.14,ak,ak022gg6qitl,2022-12-24T07:31:01.905Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
-2022-12-24T07:16:45.720Z,38.8333321,-122.814003,1.43,1.01,md,13,63,0.01916,0.02,nc,nc73824041,2022-12-24T07:18:22.708Z,"8km W of Cobb, CA",earthquake,0.27,0.79,0.22,12,automatic,nc,nc
+2022-12-24T07:16:45.720Z,38.8333321,-122.814003,1.43,1.01,md,13,63,0.01916,0.02,nc,nc73824041,2022-12-24T07:33:13.967Z,"8km W of Cobb, CA",earthquake,0.27,0.79,0.22,12,automatic,nc,nc
 2022-12-24T07:06:47.140Z,33.6406667,-116.6878333,13.8,0.5,ml,22,56,0.07367,0.18,ci,ci40149327,2022-12-24T07:10:13.793Z,"10km N of Anza, CA",earthquake,0.34,0.47,0.247,11,automatic,ci,ci
 2022-12-24T07:03:06.816Z,59.5263,-152.0064,71.1,2.4,ml,,,,0.17,ak,ak022gg6kxp5,2022-12-24T07:18:12.040Z,"19 km WNW of Seldovia, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-24T06:58:43.318Z,60.6551,-151.1556,51.6,1.8,ml,,,,0.63,ak,ak022gg6bdaj,2022-12-24T07:00:16.224Z,"8 km ESE of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
