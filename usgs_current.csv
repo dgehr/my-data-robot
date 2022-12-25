@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-25T11:08:07.650Z,37.4198341,-118.5688324,-1.31,2.09,md,27,119,0.2582,0.24,nc,nc73824581,2022-12-25T11:09:42.893Z,"3km ENE of Round Valley, CA",earthquake,0.5,8.22,0.16,18,automatic,nc,nc
-2022-12-25T11:06:23.500Z,33.9703333,-118.4953333,8.71,1.86,ml,52,110,0.04905,0.27,ci,ci40149687,2022-12-25T11:11:07.122Z,"4km WSW of Marina del Rey, CA",earthquake,0.36,0.84,0.179,27,automatic,ci,ci
+2022-12-25T11:08:07.650Z,37.4198341,-118.5688324,-1.31,2.09,md,27,119,0.2582,0.24,nc,nc73824581,2022-12-25T11:15:12.005Z,"3km ENE of Round Valley, CA",earthquake,0.5,8.22,0.16,18,automatic,nc,nc
+2022-12-25T11:06:23.500Z,33.9703333,-118.4953333,8.71,1.86,ml,52,110,0.04905,0.27,ci,ci40149687,2022-12-25T11:21:21.204Z,"4km WSW of Marina del Rey, CA",earthquake,0.36,0.84,0.179,27,automatic,ci,ci
 2022-12-25T11:06:02.050Z,33.1818333,-116.4135,11.41,0.79,ml,20,81,0.08619,0.2,ci,ci40149679,2022-12-25T11:09:28.648Z,"9km SSW of Borrego Springs, CA",earthquake,0.36,0.81,0.101,11,automatic,ci,ci
+2022-12-25T10:56:10.058Z,-59.3573,149.4905,10,5.2,mww,30,118,7.1,0.28,us,us6000jbl5,2022-12-25T11:15:46.040Z,"west of Macquarie Island",earthquake,9.97,1.838,0.098,10,reviewed,us,us
 2022-12-25T10:54:40.103Z,61.0606,-150.3718,64,1.6,ml,,,,0.2,ak,ak022ghw7l3e,2022-12-25T10:56:31.346Z,"23 km NE of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-12-25T10:46:57.808Z,58.1735,-155.3834,1.2,0.9,ml,,,,0.16,ak,ak022ghw5wqc,2022-12-25T10:48:57.162Z,"87 km NW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2022-12-25T10:39:58.260Z,33.4428333,-116.629,5.5,0.59,ml,14,103,0.05637,0.14,ci,ci40149671,2022-12-25T10:43:36.528Z,"13km SSE of Anza, CA",earthquake,0.39,0.76,0.172,10,automatic,ci,ci
