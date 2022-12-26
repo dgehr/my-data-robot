@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-26T14:32:28.010Z,62.038,-150.6141,45.9,2,ml,,,,0.37,ak,ak022gjlzxbl,2022-12-26T14:34:01.420Z,"36 km SSW of Trapper Creek, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-12-26T14:32:15.927Z,58.2571,-155.1922,2.2,0.8,ml,,,,0.35,ak,ak022gjlzwe0,2022-12-26T14:33:52.823Z,"88 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-12-26T14:26:28.980Z,38.7828331,-122.7251663,1.21,1.31,md,16,82,0.009043,0.04,nc,nc73825291,2022-12-26T14:28:04.832Z,"3km ENE of The Geysers, CA",earthquake,0.26,0.42,0.11,16,automatic,nc,nc
+2022-12-26T14:24:16.720Z,19.4258327484131,-155.281997680664,-0.219999998807907,1.92,ml,15,117,,0.150000006,hv,hv73283632,2022-12-26T14:29:46.800Z,"5 km WSW of Volcano, Hawaii",earthquake,0.27,0.319999993,0.33,5,automatic,hv,hv
 2022-12-26T14:05:45.437Z,62.4512,-148.3886,4.1,2,ml,,,,0.77,ak,ak022gjlu6bz,2022-12-26T14:08:09.700Z,"73 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-26T14:04:23.640Z,33.9931667,-117.528,15.22,0.92,ml,9,95,0.1533,0.17,ci,ci40150255,2022-12-26T14:07:59.085Z,"1km W of Mira Loma, CA",earthquake,0.55,0.83,0.315,19,automatic,ci,ci
 2022-12-26T14:04:19.380Z,33.907,-117.4173333,0.74,1.02,ml,8,170,0.2215,0.31,ci,ci40150263,2022-12-26T14:08:03.526Z,"5km SSW of Riverside, CA",earthquake,2.04,31.61,0.108,2,automatic,ci,ci
@@ -204,6 +208,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T17:11:23.059Z,59.7821,-152.8503,55,2.5,ml,,,,0.85,ak,ak022gi04d81,2022-12-25T17:14:37.603Z,"Southern Alaska",earthquake,,2.1,,,automatic,ak,ak
 2022-12-25T17:07:05.460Z,35.7033333,-117.5378333,9.57,0.85,ml,14,94,0.1222,0.18,ci,ci40149759,2022-12-25T17:10:38.649Z,"14km WSW of Searles Valley, CA",earthquake,0.44,1.25,0.089,8,automatic,ci,ci
 2022-12-25T16:53:57.260Z,38.840332,-122.8371658,1.41,1.1,md,21,85,0.002179,0.03,nc,nc73824761,2022-12-25T18:15:12.484Z,"10km NW of The Geysers, CA",earthquake,0.21,0.36,0.16,23,automatic,nc,nc
+2022-12-25T16:48:43.670Z,28.6357,51.6167,10,4.1,mb,19,176,5.506,0.29,us,us6000jbma,2022-12-26T14:29:32.040Z,"80 km SSE of Borāzjān, Iran",earthquake,8.29,1.954,0.157,12,reviewed,us,us
 2022-12-25T16:26:34.070Z,38.8320007,-122.814003,1.71,1.83,md,30,44,,0.03,nc,nc73824756,2022-12-25T17:48:11.331Z,"8km NW of The Geysers, CA",earthquake,0.17,0.3,0.2,31,automatic,nc,nc
 2022-12-25T16:23:20.300Z,38.7900009,-122.7316666,1.05,0.79,md,8,93,0.007826,0.09,nc,nc73824751,2022-12-25T16:58:14.045Z,"3km ENE of The Geysers, CA",earthquake,0.42,1.68,0.15,8,automatic,nc,nc
 2022-12-25T16:22:32.630Z,19.1221675872803,-155.427993774414,31.6100006103516,1.91999996,md,37,179,,0.119999997,hv,hv73282537,2022-12-25T16:32:42.010Z,"Island of Hawaii, Hawaii",earthquake,0.6,1.03999996,1,11,automatic,hv,hv
