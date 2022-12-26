@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-26T21:31:16.555Z,60.2403,-140.7045,21,2.3,ml,,,,0.41,ak,ak022gjq5pyf,2022-12-26T21:33:18.682Z,"Southern Yukon Territory, Canada",earthquake,,0.2,,,automatic,ak,ak
 2022-12-26T21:24:11.245Z,60.2685,-140.8764,14.9,2.9,ml,,,,0.5,ak,ak022gjq47j8,2022-12-26T21:25:43.872Z,"Southern Yukon Territory, Canada",earthquake,,0.2,,,automatic,ak,ak
 2022-12-26T21:04:25.620Z,19.111665725708,-155.420333862305,30.4400005340576,2.3599999,md,42,184,,0.129999995,hv,hv73283947,2022-12-26T21:07:45.110Z,"Hawaii region, Hawaii",earthquake,0.53,0.939999998,1.90999997,22,automatic,hv,hv
 2022-12-26T20:57:12.190Z,19.1703338623047,-155.486328125,31.8500003814697,2.26999998,md,36,100,,0.159999996,hv,hv73283937,2022-12-26T21:00:31.430Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.59,0.889999986,0.910000026,18,automatic,hv,hv
