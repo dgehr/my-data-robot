@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-26T14:42:19.142Z,58.1665,-155.4067,0,2.3,ml,,,,0.59,ak,ak022gjm21sq,2022-12-26T14:44:55.928Z,"87 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-12-26T14:42:19.142Z,58.1665,-155.4067,0,2.3,ml,,,,0.59,ak,ak022gjm21sq,2022-12-26T14:49:52.040Z,"87 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-26T14:32:32.530Z,19.2471675872803,-155.38200378418,32.6199989318848,1.95000005,md,42,177,,0.119999997,hv,hv73283647,2022-12-26T14:35:38.130Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.59,0.730000019,0.519999981,17,automatic,hv,hv
 2022-12-26T14:32:28.010Z,62.038,-150.6141,45.9,2,ml,,,,0.37,ak,ak022gjlzxbl,2022-12-26T14:34:01.420Z,"36 km SSW of Trapper Creek, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-26T14:32:15.927Z,58.2571,-155.1922,2.2,0.8,ml,,,,0.35,ak,ak022gjlzwe0,2022-12-26T14:33:52.823Z,"88 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-26T14:05:45.437Z,62.4512,-148.3886,4.1,2,ml,,,,0.77,ak,ak022gjlu6bz,2022-12-26T14:08:09.700Z,"73 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-26T14:04:23.640Z,33.9931667,-117.528,15.22,0.92,ml,9,95,0.1533,0.17,ci,ci40150255,2022-12-26T14:07:59.085Z,"1km W of Mira Loma, CA",earthquake,0.55,0.83,0.315,19,automatic,ci,ci
 2022-12-26T14:04:19.380Z,33.907,-117.4173333,0.74,1.02,ml,8,170,0.2215,0.31,ci,ci40150263,2022-12-26T14:08:03.526Z,"5km SSW of Riverside, CA",earthquake,2.04,31.61,0.108,2,automatic,ci,ci
-2022-12-26T13:58:53.950Z,40.5303345,-124.3871689,17.25,2.9,ml,15,264,0.06655,0.07,nc,nc73825276,2022-12-26T14:22:11.414Z,"12km WSW of Ferndale, CA",earthquake,1.4,0.35,0.387,4,automatic,nc,nc
+2022-12-26T13:58:53.950Z,40.5303345,-124.3871689,17.25,2.9,ml,15,264,0.06655,0.07,nc,nc73825276,2022-12-26T14:51:12.577Z,"12km WSW of Ferndale, CA",earthquake,1.4,0.35,0.387,4,automatic,nc,nc
 2022-12-26T13:40:08.290Z,33.1653333,-115.9313333,7.08,2.03,ml,52,52,0.03977,0.23,ci,ci40150239,2022-12-26T13:43:46.646Z,"15km S of Salton City, CA",earthquake,0.3,0.74,0.114,27,automatic,ci,ci
 2022-12-26T13:28:24.460Z,38.7985001,-122.7809982,3.4,0.59,md,10,133,0.007581,0.01,nc,nc73825261,2022-12-26T13:58:11.257Z,"3km NW of The Geysers, CA",earthquake,0.45,0.87,0.28,11,automatic,nc,nc
 2022-12-26T13:23:11.520Z,38.8308334,-122.8115005,1.46,0.76,md,12,61,0.007511,0.01,nc,nc73825256,2022-12-26T14:21:13.406Z,"8km NW of The Geysers, CA",earthquake,0.32,0.77,0.16,13,automatic,nc,nc
