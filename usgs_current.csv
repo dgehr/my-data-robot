@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-26T09:34:52.750Z,37.4348335,-118.6783371,7.48,1.69,md,15,139,0.1227,0.04,nc,nc73825176,2022-12-26T09:36:28.915Z,"8km WNW of Round Valley, CA",earthquake,0.76,2.33,0.12,12,automatic,nc,nc
-2022-12-26T09:33:23.550Z,19.388500213623,-155.275329589844,1.6599999666214,3.08,ml,38,44,,0.25,hv,hv73283352,2022-12-26T09:40:14.040Z,"7 km SW of Volcano, Hawaii",earthquake,0.32,0.300000012,3.17,24,automatic,hv,hv
+2022-12-26T09:43:52.606Z,38.184,-117.8623,8.6,1,ml,11,174.19,0.089,0.1559,nn,nn00854196,2022-12-26T09:47:10.803Z,"31 km SE of Mina, Nevada",earthquake,,0.9,0.38,5,automatic,nn,nn
+2022-12-26T09:34:52.750Z,37.4348335,-118.6783371,7.48,1.69,md,15,139,0.1227,0.04,nc,nc73825176,2022-12-26T09:43:09.780Z,"8km WNW of Round Valley, CA",earthquake,0.76,2.33,0.12,12,automatic,nc,nc
+2022-12-26T09:33:23.550Z,19.388500213623,-155.275329589844,1.6599999666214,3.08,ml,38,44,,0.25,hv,hv73283352,2022-12-26T09:49:01.786Z,"7 km SW of Volcano, Hawaii",earthquake,0.32,0.300000012,3.17,24,automatic,hv,hv
 2022-12-26T09:33:11.370Z,38.7929993,-122.7483368,2.6,1.07,md,10,91,0.01332,0.02,nc,nc73825171,2022-12-26T09:34:49.089Z,"2km NNE of The Geysers, CA",earthquake,0.34,1.12,0.1,10,automatic,nc,nc
 2022-12-26T09:24:35.039Z,38.1707,-117.8711,5.6,1.8,ml,20,137,0.159,0.3015,nn,nn00854190,2022-12-26T09:27:45.914Z,"32 km SE of Mina, Nevada",earthquake,,0.5,0.4,10,automatic,nn,nn
 2022-12-26T09:15:26.536Z,60.4205,-143.1564,17.3,2.4,ml,,,,0.99,ak,ak022gjix40d,2022-12-26T09:17:20.612Z,"113 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
