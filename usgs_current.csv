@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-27T07:53:49.747Z,61.6968,-150.743,57,1.7,ml,,,,0.14,ak,ak022gl5hsam,2022-12-27T07:54:59.892Z,"20 km NW of Susitna, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-12-27T07:29:12.130Z,38.8186684,-122.7896652,1.93,0.71,md,8,153,0.01156,0.02,nc,nc73825576,2022-12-27T07:46:11.713Z,"5km NNW of The Geysers, CA",earthquake,0.57,0.88,0.34,8,automatic,nc,nc
 2022-12-27T07:25:29.816Z,31.61068294,-103.9572424,6.337231444999999,3.1,ml,12,72,0.009893477556,0.1,tx,tx2022zihu,2022-12-27T07:45:14.040Z,"35 km WSW of Mentone, Texas",earthquake,0.5610842017,0.7451029631,0.2,8,reviewed,tx,tx
 2022-12-27T07:25:13.294Z,62.9983,-150.7222,32.6,2,ml,,,,0.97,ak,ak022gl5bpfl,2022-12-27T07:37:13.161Z,"55 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -190,6 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-26T08:04:31.336Z,37.5934,-114.8209,7.6,1.8,ml,9,155.25,0.261,0.218,nn,nn00854186,2022-12-26T20:39:27.132Z,"27 km W of Caliente, Nevada",earthquake,,5.2,0.23,5,reviewed,nn,nn
 2022-12-26T07:58:21.870Z,37.8201667,-121.9495,7.08,0.77,md,11,71,0.05155,0.05,nc,nc73825146,2022-12-26T19:06:13.178Z,"2km SSE of Diablo, CA",earthquake,0.33,0.66,0.129,8,reviewed,nc,nc
 2022-12-26T07:56:46.280Z,35.731,-117.6066667,1.84,0.62,ml,7,135,0.08489,0.22,ci,ci40150151,2022-12-26T08:00:31.946Z,"14km NNE of Ridgecrest, CA",earthquake,0.68,1.42,0.167,7,automatic,ci,ci
-2022-12-26T07:54:13.540Z,62.5109,-148.1983,43.9,1.8,ml,,,,0.67,ak,ak022gjhykq2,2022-12-26T07:56:44.645Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-12-26T07:51:45.760Z,19.2893333435059,-155.414169311523,30.0300006866455,2.57,ml,44,107,,0.119999997,hv,hv73283277,2022-12-26T08:10:32.040Z,"11 km NE of Pāhala, Hawaii",earthquake,0.44,0.469999999,2.08,18,automatic,hv,hv
-2022-12-26T07:50:13.130Z,19.230167388916,-155.40950012207,31.6900005340576,2.1500001,md,31,152,,0.119999997,hv,hv73283272,2022-12-26T07:53:18.500Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.69,0.699999988,1.30999994,8,automatic,hv,hv
