@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-28T07:19:05.850Z,33.0146675,-116.4205017,6.76,1.54,ml,38,106,0.04357,0.19,ci,ci40150775,2022-12-28T07:21:10.914Z,"18km ESE of Julian, CA",earthquake,0.37,0.68,0.239,4,automatic,ci,ci
+2022-12-28T07:09:34.479Z,59.3984,-151.1913,49.6,1.8,ml,,,,0.76,ak,ak022gmsro3r,2022-12-28T07:12:14.864Z,"21 km S of Halibut Cove, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-12-28T06:56:51.482Z,58.2246,-154.8441,3.3,0.6,ml,,,,0.18,ak,ak022gmsgch2,2022-12-28T06:59:19.712Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2022-12-28T06:44:50.931Z,60.3722,-141.4154,16.2,2.3,ml,,,,0.56,ak,ak022gmsdrtx,2022-12-28T06:46:26.667Z,"131 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-28T06:44:12.707Z,60.1392,-152.7862,111.2,2.4,ml,,,,0.46,ak,ak022gmsdovh,2022-12-28T06:45:50.575Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
