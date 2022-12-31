@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-31T06:48:45.880Z,33.2373352,-116.251503,3.98,1.06,ml,35,69,0.04457,0.23,ci,ci40151639,2022-12-31T06:50:52.392Z,"12km E of Borrego Springs, CA",earthquake,0.33,0.76,0.116,4,automatic,ci,ci
-2022-12-31T06:37:56.070Z,35.7718315,-121.4783325,-0.43,2.67,md,45,197,0.2789,0.21,nc,nc73827091,2022-12-31T06:51:18.734Z,"29km SSE of Lopez Point, CA",earthquake,0.62,3.38,0.13,41,automatic,nc,nc
+2022-12-31T06:50:48.790Z,19.4088325500488,-155.279830932617,0.140000000596046,2.06,ml,20,80,,0.219999999,hv,hv73288722,2022-12-31T06:56:18.940Z,"6 km SW of Volcano, Hawaii",earthquake,0.19,0.270000011,0.23,7,automatic,hv,hv
+2022-12-31T06:48:45.740Z,33.2475,-116.2463333,2.08,1.04,ml,30,106,0.05504,0.22,ci,ci40151639,2022-12-31T06:52:22.968Z,"12km E of Borrego Springs, CA",earthquake,0.4,0.54,0.162,24,automatic,ci,ci
+2022-12-31T06:37:56.070Z,35.7718315,-121.4783325,-0.43,2.67,md,45,197,0.2789,0.21,nc,nc73827091,2022-12-31T06:56:11.995Z,"29km SSE of Lopez Point, CA",earthquake,0.62,3.38,0.13,41,automatic,nc,nc
+2022-12-31T06:36:33.280Z,19.4075,-155.265333333333,0.45,0.33,md,11,72,,0.12,hv,hv73288692,2022-12-31T06:51:49.220Z,"Island of Hawaii, Hawaii",earthquake,0.17,0.41,0.0246160900236258,3,reviewed,hv,hv
 2022-12-31T06:16:59.260Z,19.4023333333333,-155.289666666667,1.7,0.47,md,11,78,,0.09,hv,hv73288652,2022-12-31T06:28:28.080Z,"7 km SW of Volcano, Hawaii",earthquake,0.23,0.33,0.202217390567971,2,reviewed,hv,hv
 2022-12-31T06:15:53.450Z,38.8238335,-122.7663345,3.65,0.74,md,6,188,0.0154,0.02,nc,nc73827086,2022-12-31T06:40:12.785Z,"4km W of Cobb, CA",earthquake,1.09,3.34,0.04,7,automatic,nc,nc
 2022-12-31T06:13:27.066Z,54.9265,-160.2869,38.464,4.6,mwr,102,126,0.414,0.76,us,us7000j16q,2022-12-31T06:33:39.726Z,"Alaska Peninsula",earthquake,7.32,5.324,0.045,48,reviewed,us,us
@@ -21,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T04:27:07.790Z,33.9598333,-116.6365,14.53,1.1,ml,36,61,0.05419,0.18,ci,ci40151615,2022-12-31T04:30:45.618Z,"11km NW of Garnet, CA",earthquake,0.23,0.57,0.153,26,automatic,ci,ci
 2022-12-31T03:57:50.697Z,63.8512,-148.7568,0.7,1.9,ml,,,,0.47,ak,ak022grpaasd,2022-12-31T03:59:38.074Z,"10 km E of Healy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-31T03:47:34.619Z,65.7455,-147.7018,11.8,1.3,ml,,,,0.64,ak,ak022grp84st,2022-12-31T03:50:50.799Z,"45 km ENE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-31T03:31:43.697Z,-23.0845,-68.8996,97.691,5,mww,71,79,0.677,1.15,us,us7000j15y,2022-12-31T05:59:19.416Z,"69 km S of Calama, Chile",earthquake,4.91,4.671,0.066,22,reviewed,us,us
+2022-12-31T03:31:43.697Z,-23.0845,-68.8996,97.691,5,mww,71,79,0.677,1.15,us,us7000j15y,2022-12-31T05:59:19.416Z,"Antofagasta, Chile",earthquake,4.91,4.671,0.066,22,reviewed,us,us
 2022-12-31T03:23:39.130Z,38.7958336,-122.765831,0.69,1.2,md,14,68,0.006764,0.03,nc,nc73827041,2022-12-31T04:58:13.186Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.46,0.15,18,automatic,nc,nc
 2022-12-31T03:02:30.720Z,19.1935005187988,-155.487503051758,31.8400001525879,3.04,ml,45,77,,0.119999997,hv,hv73288327,2022-12-31T04:02:19.908Z,"1 km SW of Pāhala, Hawaii",earthquake,0.46,0.670000017,3.57,30,automatic,hv,hv
 2022-12-31T03:01:43.802Z,29.2311,130.4578,32.025,4.5,mb,24,127,2.271,0.67,us,us7000j15x,2022-12-31T03:21:52.040Z,"111 km S of Yudomari, Japan",earthquake,9.95,6.634,0.128,18,reviewed,us,us
@@ -49,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-30T23:34:58.640Z,35.7978333,-117.624,6.35,1,ml,14,79,0.02798,0.14,ci,ci40151583,2022-12-30T23:38:35.187Z,"20km W of Searles Valley, CA",earthquake,0.32,0.61,0.207,9,automatic,ci,ci
 2022-12-30T23:20:56.690Z,19.1895008087158,-155.509170532227,33.7400016784668,2.3599999,md,38,89,,0.119999997,hv,hv73288192,2022-12-30T23:24:08.250Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.62,0.800000012,1.54999995,23,automatic,hv,hv
 2022-12-30T23:16:18.600Z,19.1714992523193,-155.508163452148,35.0299987792969,2.4000001,md,37,109,,0.150000006,hv,hv73288187,2022-12-30T23:19:39.230Z,"Island of Hawaii, Hawaii",earthquake,0.74,0.920000017,0.949999988,16,automatic,hv,hv
-2022-12-30T23:14:38.375Z,-0.1454,97.3537,10,4.4,mb,23,202,1.457,0.4,us,us7000j15a,2022-12-30T23:31:25.040Z,"262 km SW of Sibolga, Indonesia",earthquake,10.36,1.972,0.143,14,reviewed,us,us
+2022-12-30T23:14:38.375Z,-0.1454,97.3537,10,4.4,mb,23,202,1.457,0.4,us,us7000j15a,2022-12-30T23:31:25.040Z,"Kepulauan Batu, Indonesia",earthquake,10.36,1.972,0.143,14,reviewed,us,us
 2022-12-30T23:03:47.998Z,61.2596,-150.2845,39.6,1.6,ml,,,,0.47,ak,ak022gqdc1in,2022-12-30T23:05:18.254Z,"19 km SW of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-30T22:55:16.050Z,18.0731666666667,-67.0983333333333,18.39,3.03,md,20,122,0.04804,0.22,pr,pr71389923,2022-12-31T03:47:25.775Z,"1 km SSE of Monte Grande, Puerto Rico",earthquake,0.5,0.31,0.16628437897365,12,reviewed,pr,pr
 2022-12-30T22:48:01.500Z,18.0855,-66.7876666666667,6.29,2.3,md,12,79,0.06525,0.12,pr,pr71389943,2022-12-30T23:23:30.920Z,"4 km WNW of Santo Domingo, Puerto Rico",earthquake,0.36,0.48,0.183528975432781,7,reviewed,pr,pr
@@ -184,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-30T07:03:35.890Z,19.2644996643066,-155.416000366211,34.2000007629395,1.86000001,md,35,117,,0.129999995,hv,hv73287307,2022-12-30T07:06:44.620Z,"9 km NE of Pāhala, Hawaii",earthquake,0.57,0.689999998,1.20000005,12,automatic,hv,hv
 2022-12-30T07:02:43.490Z,33.0581667,-116.5335,12.56,0.8,ml,17,114,0.0584,0.21,ci,ci40151383,2022-12-30T07:06:16.142Z,"7km ESE of Julian, CA",earthquake,0.56,0.83,0.167,10,automatic,ci,ci
 2022-12-30T07:00:14.393Z,59.7474,-152.1692,61.6,2.2,ml,,,,0.39,ak,ak022gq3se3j,2022-12-30T07:02:25.109Z,"19 km W of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-12-30T06:55:06.600Z,19.1336669921875,-155.426498413086,31.2399997711182,1.91999996,md,37,176,,0.129999995,hv,hv73287297,2022-12-30T06:58:21.110Z,"9 km SE of Pāhala, Hawaii",earthquake,0.67,1.13,0.949999988,8,automatic,hv,hv
