@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-01T13:21:07.730Z,35.8035,-117.6253333,7.12,1.1,ml,11,91,0.0257,0.17,ci,ci40152655,2023-01-01T13:24:36.061Z,"20km WNW of Searles Valley, CA",earthquake,0.66,0.98,0.112,9,automatic,ci,ci
 2023-01-01T13:13:02.460Z,33.4028333,-116.3833333,3.16,0.93,ml,22,115,0.1372,0.16,ci,ci40152647,2023-01-01T13:16:44.825Z,"16km N of Borrego Springs, CA",earthquake,0.31,1.17,0.193,15,automatic,ci,ci
 2023-01-01T12:50:20.075Z,38.1573,-117.9953,6.8,1.7,ml,14,126.8,0.034,0.198,nn,nn00854395,2023-01-01T12:53:08.045Z,"27 km SSE of Mina, Nevada",earthquake,,0.4,0.22,7,automatic,nn,nn
 2023-01-01T12:46:37.560Z,33.4023333,-116.3873333,3.93,1.51,ml,54,31,0.1249,0.23,ci,ci40152639,2023-01-01T12:57:52.580Z,"16km N of Borrego Springs, CA",earthquake,0.25,0.74,0.137,27,automatic,ci,ci
@@ -126,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T19:28:51.280Z,33.4045,-116.3871667,2.73,0.95,ml,30,65,0.07731,0.25,ci,ci40152335,2022-12-31T19:38:13.992Z,"17km N of Borrego Springs, CA",earthquake,0.31,0.93,0.145,29,automatic,ci,ci
 2022-12-31T19:16:40.970Z,33.3958333,-116.369,8.12,0.78,ml,28,90,0.05987,0.23,ci,ci40152327,2022-12-31T19:20:23.289Z,"16km N of Borrego Springs, CA",earthquake,0.37,1.09,0.2,16,automatic,ci,ci
 2022-12-31T19:16:01.750Z,19.4046669006348,-155.273330688477,0.699999988079071,1.89,ml,17,74,,0.0900000036,hv,hv73289497,2022-12-31T19:21:33.740Z,"5 km SW of Volcano, Hawaii",earthquake,0.15,0.200000003,0.43,9,automatic,hv,hv
-2022-12-31T19:12:28.130Z,19.3818340301514,-155.280334472656,0.0799999982118607,1.85000002,md,7,162,,0.109999999,hv,hv73289487,2022-12-31T19:15:21.400Z,"Hawaii region, Hawaii",earthquake,0.35,0.239999995,1.85000002,4,automatic,hv,hv
+2022-12-31T19:12:28.130Z,19.3818340301514,-155.280334472656,0.0799999982118607,1.85000002,md,7,162,,0.109999999,hv,hv73289487,2022-12-31T19:15:21.400Z,"8 km SW of Volcano, Hawaii",earthquake,0.35,0.239999995,1.85000002,4,automatic,hv,hv
 2022-12-31T18:56:33.260Z,35.6115,-117.5911667,7.09,1.38,ml,18,103,0.108,0.17,ci,ci40152319,2022-12-31T19:14:52.743Z,"8km E of Ridgecrest, CA",earthquake,0.28,0.98,0.258,20,reviewed,ci,ci
 2022-12-31T18:29:37.120Z,17.9365,-66.8503333333333,10.53,2.43,md,6,313,0.0472,0.1,pr,pr71390063,2022-12-31T18:49:45.110Z,"6 km SE of Maria Antonia, Puerto Rico",earthquake,0.73,0.67,0.0968605009286234,4,reviewed,pr,pr
 2022-12-31T18:28:42.175Z,-10.3474,66.5607,10,4.6,mb,61,50,6.511,0.79,us,us7000j1ad,2022-12-31T19:30:11.040Z,"Mid-Indian Ridge",earthquake,9.91,1.856,0.085,45,reviewed,us,us
@@ -157,7 +158,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T16:27:06.400Z,33.4055,-116.3611667,3.08,0.7,ml,14,166,0.1447,0.34,ci,ci40152223,2022-12-31T16:30:43.527Z,"17km N of Borrego Springs, CA",earthquake,0.95,2.93,0.224,9,automatic,ci,ci
 2022-12-31T16:00:44.870Z,35.9881667,-117.5056667,1.88,1.29,ml,11,93,0.1875,0.15,ci,ci40152215,2022-12-31T16:04:18.741Z,"26km NNW of Searles Valley, CA",earthquake,0.48,1.46,0.192,7,automatic,ci,ci
 2022-12-31T15:58:34.270Z,34.2384987,-117.4448318,4.5,1.44,ml,36,39,0.03148,0.14,ci,ci40152207,2022-12-31T16:29:12.471Z,"4km WNW of Devore, CA",earthquake,0.29,0.33,0.145,8,automatic,ci,ci
-2022-12-31T15:57:40.130Z,17.7851666666667,-66.8835,6.4,2.04,md,4,315,0.1889,0.01,pr,pr71390043,2022-12-31T16:16:31.230Z,"20 km S of Guánica, Puerto Rico",earthquake,0.7,0.57,0.145924929208976,3,reviewed,pr,pr
+2022-12-31T15:57:40.130Z,17.7851666666667,-66.8835,6.4,2.04,md,4,315,0.1889,0.01,pr,pr71390043,2022-12-31T16:16:31.230Z,"Puerto Rico region",earthquake,0.7,0.57,0.145924929208976,3,reviewed,pr,pr
 2022-12-31T15:47:01.210Z,33.4075,-116.365,2.88,0.53,ml,22,88,0.1456,0.27,ci,ci40152199,2022-12-31T17:13:17.887Z,"17km N of Borrego Springs, CA",earthquake,0.54,2.01,0.093,11,automatic,ci,ci
 2022-12-31T15:46:20.540Z,33.4108333,-116.3896667,-0.27,0.51,ml,15,104,0.1162,0.28,ci,ci40152191,2022-12-31T15:49:59.706Z,"17km N of Borrego Springs, CA",earthquake,0.59,31.61,0.09,12,automatic,ci,ci
 2022-12-31T15:38:55.856Z,15.2819,-93.2399,97.789,4.7,mb,44,134,2.479,0.81,us,us7000j19l,2022-12-31T15:55:15.040Z,"20 km SSW of La Esperanza (El Zapotal), Mexico",earthquake,6.88,6.806,0.034,265,reviewed,us,us
@@ -194,7 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T13:39:20.620Z,38.5926666,-122.6794968,3.87,1.14,md,6,203,0.1759,0.27,nc,nc73827226,2022-12-31T15:29:12.110Z,"9km W of Calistoga, CA",earthquake,11.45,16.97,,1,automatic,nc,nc
 2022-12-31T13:31:34.760Z,17.9953333333333,-66.7273333333333,12.45,3.19,md,37,171,0.04415,0.14,pr,pr71390013,2022-12-31T17:46:08.040Z,"Puerto Rico region",earthquake,0.32,0.22,0.0676777546808953,19,reviewed,pr,pr
 2022-12-31T13:28:23.080Z,36.770668,-121.4738312,5.52,1.82,md,15,113,0.0223,0.11,nc,nc73827221,2022-12-31T15:08:12.003Z,"10km SE of San Juan Bautista, CA",earthquake,0.41,0.39,0.11,16,automatic,nc,nc
-2022-12-31T13:26:41.790Z,36.7815018,-121.4923325,2,1.48,md,9,145,0.02791,0.24,nc,nc73827216,2022-12-31T14:58:12.957Z,"8km SSE of San Juan Bautista, CA",earthquake,0.94,1.6,0.28,8,automatic,nc,nc
-2022-12-31T13:25:53.240Z,36.7729988,-121.501503,3.46,1.69,md,14,104,0.02096,0.28,nc,nc73827211,2022-12-31T14:47:13.890Z,"9km SSE of San Juan Bautista, CA",earthquake,0.71,0.95,0.14,10,automatic,nc,nc
-2022-12-31T13:25:16.580Z,33.4026667,-116.3683333,4.73,0.76,ml,17,121,0.1402,0.16,ci,ci40152039,2022-12-31T13:28:45.497Z,"16km N of Borrego Springs, CA",earthquake,0.35,0.91,0.193,18,automatic,ci,ci
-2022-12-31T13:24:18.190Z,33.4033333,-116.3845,8.81,0.77,ml,24,88,0.1375,0.24,ci,ci40152031,2022-12-31T13:27:42.133Z,"16km N of Borrego Springs, CA",earthquake,0.4,1.33,0.209,18,automatic,ci,ci
