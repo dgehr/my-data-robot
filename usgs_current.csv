@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-01T11:37:21.970Z,37.3763351,-121.6888351,5.53,1.23,md,8,87,0.05058,0.03,nc,nc73827501,2023-01-01T11:38:58.830Z,"12km E of Alum Rock, CA",earthquake,0.52,1.1,0.05,6,automatic,nc,nc
+2023-01-01T11:37:21.970Z,37.3763351,-121.6888351,5.53,1.23,md,8,87,0.05058,0.03,nc,nc73827501,2023-01-01T11:39:00.318Z,"12km E of Alum Rock, CA",earthquake,0.52,1.1,0.05,6,automatic,nc,nc
 2023-01-01T11:28:48.280Z,19.4208335876465,-155.278335571289,0.100000001490116,1.73,ml,13,127,,0.129999995,hv,hv73290557,2023-01-01T11:34:18.210Z,"5 km WSW of Volcano, Hawaii",earthquake,0.2,0.340000004,0.28,3,automatic,hv,hv
 2023-01-01T10:56:10.190Z,33.0441667,-115.585,4.15,1.14,ml,11,94,0.006437,0.22,ci,ci40152623,2023-01-01T10:59:42.120Z,"4km ENE of Westmorland, CA",earthquake,0.48,0.59,0.184,10,automatic,ci,ci
 2023-01-01T10:51:24.330Z,36.2994995,-120.4663315,10.87,2.15,md,31,59,0.08593,0.13,nc,nc73827491,2023-01-01T11:13:12.184Z,"20km NNW of Coalinga, CA",earthquake,0.24,0.54,0.19,21,automatic,nc,nc
@@ -243,9 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T11:55:20.010Z,33.585,-116.6201667,16.32,0.22,ml,16,59,0.02024,0.15,ci,ci40151767,2022-12-31T11:58:53.067Z,"6km NE of Anza, CA",earthquake,0.6,0.57,0.117,4,automatic,ci,ci
 2022-12-31T11:52:40.900Z,34.3545,-116.922,4.62,1.15,ml,32,68,0.07848,0.2,ci,ci40151759,2022-12-31T12:44:56.770Z,"11km SSE of Lucerne Valley, CA",earthquake,0.31,1.3,0.19,28,reviewed,ci,ci
 2022-12-31T11:51:13.580Z,34.3578333,-116.9238333,4.39,2.22,ml,69,28,0.08033,0.17,ci,ci40151751,2022-12-31T12:02:30.240Z,"10km SSE of Lucerne Valley, CA",earthquake,0.18,0.59,0.142,25,automatic,ci,ci
-2022-12-31T11:44:09.900Z,60.7653,-151.9724,78.9,1.5,ml,,,,0.92,ak,ak022grtyw66,2022-12-31T11:46:11.449Z,"38 km WNW of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-12-31T11:44:06.170Z,34.3556667,-116.9178333,4.97,1.13,ml,15,107,0.07516,0.22,ci,ci40151743,2022-12-31T12:01:42.206Z,"11km SSE of Lucerne Valley, CA",earthquake,0.47,1.72,0.183,13,automatic,ci,ci
-2022-12-31T11:42:50.370Z,34.3536667,-116.9223333,4.46,1.92,ml,35,93,0.0787,0.21,ci,ci40151735,2022-12-31T12:45:00.580Z,"11km SSE of Lucerne Valley, CA",earthquake,0.31,0.74,0.251,9,reviewed,ci,ci
-2022-12-31T11:42:33.770Z,34.3526667,-116.9208333,4.88,1.81,ml,33,105,0.07739,0.19,ci,ci40151727,2022-12-31T12:00:55.737Z,"11km SSE of Lucerne Valley, CA",earthquake,0.33,1,0.07,7,automatic,ci,ci
-2022-12-31T11:41:09.490Z,34.355999,-116.9223328,4.95,3.47,mw,126,17,0.0789,0.15,ci,ci40151719,2023-01-01T10:51:45.940Z,"11km SSE of Lucerne Valley, CA",earthquake,0.17,0.77,,4,reviewed,ci,ci
-2022-12-31T11:39:41.100Z,38.8148346,-122.8310013,1.52,0.56,md,9,65,0.006126,0.01,nc,nc73827151,2022-12-31T12:13:10.707Z,"8km WNW of The Geysers, CA",earthquake,0.33,0.78,0.25,10,automatic,nc,nc
