@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-01T04:39:56.760Z,38.7938347,-122.7376633,-0.81,0.29,md,5,160,0.01852,0.01,nc,nc73827386,2023-01-01T04:41:32.824Z,"2km NE of The Geysers, CA",earthquake,0.39,1.39,0.06,6,automatic,nc,nc
 2023-01-01T04:30:46.490Z,19.4051666259766,-155.28483581543,1.37999999523163,1.88,ml,26,52,,0.150000006,hv,hv73290107,2023-01-01T04:36:17.560Z,"6 km SW of Volcano, Hawaii",earthquake,0.18,0.140000001,0.47,8,automatic,hv,hv
 2023-01-01T04:14:09.110Z,37.1220016,-121.5181656,5.84,2.23,md,44,43,0.06075,0.1,nc,nc73827381,2023-01-01T04:36:10.755Z,"9km ENE of San Martin, CA",earthquake,0.18,0.55,0.14,38,automatic,nc,nc
 2023-01-01T04:03:57.782Z,62.284,-150.0749,17.4,1.6,ml,,,,0.47,ak,ak0231pxuiq,2023-01-01T04:06:06.267Z,"4 km SSE of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -262,5 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T04:52:56.800Z,19.4095,-155.2765,0.77,0.5,md,11,94,,0.07,hv,hv73288497,2022-12-31T08:51:14.310Z,"5 km SW of Volcano, Hawaii",earthquake,0.18,0.38,0.205817830775581,2,reviewed,hv,hv
 2022-12-31T04:47:57.830Z,19.1883335113525,-155.489669799805,30.5900001525879,1.96000004,md,34,146,,0.140000001,hv,hv73288487,2022-12-31T04:51:17.690Z,"Island of Hawaii, Hawaii",earthquake,0.81,1.21000004,0.879999995,7,automatic,hv,hv
 2022-12-31T04:45:29.920Z,58.2573333333333,-155.088,5.03,-0.33,ml,6,100,,0.18,av,av91082318,2023-01-01T03:07:28.700Z,"85 km NNW of Karluk, Alaska",earthquake,0.42,0.86,0.236837383133856,6,reviewed,av,av
-2022-12-31T04:44:39.770Z,36.5413322,-121.1305008,9.43,2.07,md,27,109,0.0536,0.1,nc,nc73827051,2022-12-31T05:41:16.447Z,"2km NE of Pinnacles, CA",earthquake,0.28,0.75,0.18,24,automatic,nc,nc
-2022-12-31T04:43:00.460Z,38.7988319,-122.7809982,3.09,0.29,md,6,83,0.007817,0.01,nc,nc73827046,2022-12-31T05:26:14.356Z,"3km NW of The Geysers, CA",earthquake,0.71,1.69,0.06,8,automatic,nc,nc
