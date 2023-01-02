@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-02T22:41:09.140Z,37.3726654,-118.3690033,6.54,3.08,ml,24,118,0.07399,0.04,nc,nc73828121,2023-01-02T22:43:26.879Z,"2km ENE of Bishop, CA",earthquake,0.4,0.78,0.278,19,automatic,nc,nc
+2023-01-02T22:40:02.710Z,19.1828327178955,-155.357162475586,27.3899993896484,1.90999997,md,35,172,,0.159999996,hv,hv73292427,2023-01-02T22:43:17.450Z,"12 km E of Pāhala, Hawaii",earthquake,0.62,0.99000001,0.949999988,8,automatic,hv,hv
+2023-01-02T22:39:31.540Z,36.2215004,-120.2149963,19.43,1.8,md,5,134,0.1384,0.02,nc,nc73828116,2023-01-02T22:41:56.491Z,"10km WNW of Huron, CA",earthquake,0.75,3.86,0.22,5,automatic,nc,nc
 2023-01-02T22:33:42.184Z,64.7854,-147.7912,16.2,0.5,ml,,,,0.34,ak,ak0233ode6j,2023-01-02T22:36:12.970Z,"2 km S of South Van Horn, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-01-02T22:32:52.312Z,58.4658,-152.7079,23.5,2.5,ml,,,,0.57,ak,ak0233od78v,2023-01-02T22:35:30.279Z,"46 km NNE of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-02T22:17:15.790Z,33.9726667,-116.972,12.46,1.02,ml,16,63,0.1243,0.2,ci,ci40153111,2023-01-02T22:20:53.488Z,"5km N of Beaumont, CA",earthquake,0.36,1.59,0.156,18,automatic,ci,ci
@@ -201,7 +204,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-02T00:39:50.690Z,40.2445,-84.5133333333333,8.62,2.43,md,10,105,0.1475,0.28,se,se60500248,2023-01-02T20:12:46.889Z,"3 km NW of Versailles, Ohio",earthquake,0.92,0.91,0.0825465334156528,7,reviewed,se,se
 2023-01-02T00:37:46.560Z,64.9794,-147.3633,0.7,1.8,ml,,,,0.66,ak,ak0233baq2o,2023-01-02T00:39:38.861Z,"12 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-01T23:56:53.930Z,19.3601,-65.7256,34,3.62,md,14,270,1.1104,0.44,pr,pr2023001004,2023-01-02T00:32:06.212Z,"Puerto Rico region",earthquake,3.64,25.85,0.08,4,reviewed,pr,pr
-2023-01-01T23:52:28.580Z,17.8848333333333,-66.8565,11.19,2.28,md,5,242,0.09231,0.08,pr,pr71390293,2023-01-02T00:09:00.720Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.84,1.07,0.121458309964007,5,reviewed,pr,pr
+2023-01-01T23:52:28.580Z,17.8848333333333,-66.8565,11.19,2.28,md,5,242,0.09231,0.08,pr,pr71390293,2023-01-02T00:09:00.720Z,"Puerto Rico region",earthquake,0.84,1.07,0.121458309964007,5,reviewed,pr,pr
 2023-01-01T23:47:41.770Z,34.1233333,-117.472,7.13,1.21,ml,31,47,0.07835,0.25,ci,ci40152855,2023-01-01T23:51:19.082Z,"3km NNW of Fontana, CA",earthquake,0.36,0.95,0.122,30,automatic,ci,ci
 2023-01-01T23:27:38.456Z,37.0352,135.2402,370.136,4.3,mb,91,46,2.219,0.6,us,us7000j1hk,2023-01-02T00:02:01.040Z,"Sea of Japan",earthquake,8.94,7.759,0.067,63,reviewed,us,us
 2023-01-01T23:10:24.100Z,33.4005,-116.3836667,2.23,1,ml,26,65,0.07271,0.24,ci,ci40152847,2023-01-01T23:14:02.186Z,"16km N of Borrego Springs, CA",earthquake,0.29,0.58,0.168,16,automatic,ci,ci
