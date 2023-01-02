@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-02T08:37:21.650Z,36.597332,-121.1360016,6.94,1.43,md,14,145,0.04728,0.25,nc,nc73827866,2023-01-02T09:32:13.487Z,"7km N of Pinnacles, CA",earthquake,0.78,1.91,0.19,10,automatic,nc,nc
 2023-01-02T08:34:58.740Z,18.1705,-67.0625,27.06,2.48,md,17,67,0.06825,0.13,pr,pr71390413,2023-01-02T08:59:46.480Z,"7 km ENE of Hormigueros, Puerto Rico",earthquake,0.37,0.73,0.0748272965426251,10,reviewed,pr,pr
 2023-01-02T08:31:52.290Z,38.8258324,-122.8566666,2.6,0.71,md,16,98,0.001718,0.01,nc,nc73827861,2023-01-02T08:48:14.110Z,"10km WNW of The Geysers, CA",earthquake,0.3,0.58,0.13,17,automatic,nc,nc
-2023-01-02T08:27:16.528Z,59.9493,-151.5444,72.5,3.1,ml,,,,0.17,ak,ak0233fzzfo,2023-01-02T08:28:27.333Z,"Kenai Peninsula, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-01-02T08:27:16.528Z,59.9493,-151.5444,72.5,3.1,ml,,,,0.17,ak,ak0233fzzfo,2023-01-02T09:48:51.074Z,"Kenai Peninsula, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-01-02T08:16:07.780Z,38.8180008,-122.7643356,2.34,1.09,md,11,171,0.01362,0.01,nc,nc73827856,2023-01-02T08:32:14.018Z,"4km W of Cobb, CA",earthquake,0.46,0.87,0.03,13,automatic,nc,nc
 2023-01-02T08:09:36.026Z,62.7024,-151.8119,1.7,2,ml,,,,1.05,ak,ak0233fw61e,2023-01-02T08:12:16.714Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-02T07:47:20.470Z,35.7236667,-117.566,9.02,1.15,ml,8,150,0.09538,0.18,ci,ci40152935,2023-01-02T07:50:57.678Z,"15km NE of Ridgecrest, CA",earthquake,0.46,1.55,0.184,12,automatic,ci,ci
@@ -75,7 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-02T00:40:35.869Z,63.337,-149.9365,35,1.8,ml,,,,0.52,ak,ak0233bbcea,2023-01-02T00:41:54.099Z,"49 km W of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-02T00:37:46.560Z,64.9794,-147.3633,0.7,1.8,ml,,,,0.66,ak,ak0233baq2o,2023-01-02T00:39:38.861Z,"12 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-01T23:56:53.930Z,19.3601,-65.7256,34,3.62,md,14,270,1.1104,0.44,pr,pr2023001004,2023-01-02T00:32:06.212Z,"Puerto Rico region",earthquake,3.64,25.85,0.08,4,reviewed,pr,pr
-2023-01-01T23:52:28.580Z,17.8848333333333,-66.8565,11.19,2.28,md,5,242,0.09231,0.08,pr,pr71390293,2023-01-02T00:09:00.720Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.84,1.07,0.121458309964007,5,reviewed,pr,pr
+2023-01-01T23:52:28.580Z,17.8848333333333,-66.8565,11.19,2.28,md,5,242,0.09231,0.08,pr,pr71390293,2023-01-02T00:09:00.720Z,"Puerto Rico region",earthquake,0.84,1.07,0.121458309964007,5,reviewed,pr,pr
 2023-01-01T23:47:41.770Z,34.1233333,-117.472,7.13,1.21,ml,31,47,0.07835,0.25,ci,ci40152855,2023-01-01T23:51:19.082Z,"3km NNW of Fontana, CA",earthquake,0.36,0.95,0.122,30,automatic,ci,ci
 2023-01-01T23:27:38.456Z,37.0352,135.2402,370.136,4.3,mb,91,46,2.219,0.6,us,us7000j1hk,2023-01-02T00:02:01.040Z,"122 km NW of Mikuni, Japan",earthquake,8.94,7.759,0.067,63,reviewed,us,us
 2023-01-01T23:10:24.100Z,33.4005,-116.3836667,2.23,1,ml,26,65,0.07271,0.24,ci,ci40152847,2023-01-01T23:14:02.186Z,"16km N of Borrego Springs, CA",earthquake,0.29,0.58,0.168,16,automatic,ci,ci
