@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-06T19:10:11.210Z,39.7781677,-123.2446671,17.17,2.7,md,5,212,0.1848,0.02,nc,nc73829381,2023-01-06T19:16:11.503Z,"2km S of Covelo, CA",earthquake,1.77,0.44,0.17,5,automatic,nc,nc
 2023-01-06T18:54:19.955Z,56.8,-149.2596,18.5,2.8,ml,,,,0.8,ak,ak023a89i23,2023-01-06T18:57:57.783Z,"203 km ESE of Chiniak, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2023-01-06T18:52:44.030Z,19.1595001220703,-155.508163452148,34.25,2.02999997,md,30,126,,0.180000007,hv,hv73298187,2023-01-06T18:56:24.040Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.81,1,0.980000019,11,automatic,hv,hv
 2023-01-06T18:52:38.504Z,57.5173,-155.0257,35.4,1.5,ml,,,,0.75,ak,ak023a89422,2023-01-06T18:55:05.902Z,"34 km W of Karluk, Alaska",earthquake,,3.9,,,automatic,ak,ak
@@ -251,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-05T19:22:53.120Z,19.4091666666667,-155.286166666667,1.39,1.82,ml,18,111,,0.07,hv,hv73296767,2023-01-05T20:35:14.130Z,"6 km SW of Volcano, Hawaii",earthquake,0.16,0.21,0.211727189321706,9,reviewed,hv,hv
 2023-01-05T19:21:58.680Z,44.1418333,-110.5073333,9.94,1.02,md,8,156,0.123,0.13,uu,uu60529197,2023-01-05T20:25:38.370Z,"58 km N of Kelly, Wyoming",earthquake,0.72,2.07,0.157,4,reviewed,uu,uu
 2023-01-05T19:21:34.420Z,44.1385,-110.5038333,3.96,1,md,8,157,0.1267,0.1,uu,uu60032364,2023-01-05T20:29:16.580Z,"58 km N of Kelly, Wyoming",earthquake,0.57,4.04,0.56,3,reviewed,uu,uu
-2023-01-05T19:08:19.016Z,-32.6982,-71.2575,57.995,4.2,mwr,31,104,0.461,0.23,us,us7000j2dx,2023-01-06T18:32:58.210Z,"10 km NNW of Hacienda La Calera, Chile",earthquake,3.28,6.281,,,reviewed,us,guc
