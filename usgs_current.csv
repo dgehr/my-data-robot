@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-07T17:49:19.340Z,35.596,-117.5403333,11.24,0.82,ml,8,175,0.06438,0.15,ci,ci40154383,2023-01-07T17:52:57.122Z,"13km ESE of Ridgecrest, CA",earthquake,0.88,1.02,0.197,8,automatic,ci,ci
 2023-01-07T17:45:21.670Z,33.3378333,-116.4011667,12.23,0.95,ml,24,119,0.07073,0.14,ci,ci40154375,2023-01-07T17:49:08.228Z,"9km NNW of Borrego Springs, CA",earthquake,0.28,0.52,0.173,25,automatic,ci,ci
 2023-01-07T17:38:46.686Z,60.804,-150.7416,23.2,1.8,ml,,,,0.41,ak,ak023bv41jw,2023-01-07T17:40:16.730Z,"13 km SSW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-07T17:38:46.602Z,60.7928,-150.7841,16.1,1.7,ml,,,,0.33,ak,ak023bv41jo,2023-01-07T17:41:42.744Z,"15 km SSW of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
