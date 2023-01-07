@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-07T07:43:17.216Z,57.8557,-155.3482,31.4,1.5,ml,,,,0.71,ak,ak023bp6pt5,2023-01-07T07:45:24.472Z,"62 km WNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-07T07:37:18.684Z,58.1786,-155.3475,1.3,0.8,ml,,,,1.33,ak,ak023bp5fmk,2023-01-07T07:39:05.061Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
 2023-01-07T07:29:21.296Z,58.1758,-155.3983,0,1.2,ml,,,,1.02,ak,ak023bp3q3l,2023-01-07T07:31:00.050Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
 2023-01-07T07:27:57.819Z,58.1885,-155.3746,0,0.8,ml,,,,0.79,ak,ak023bp3dhd,2023-01-07T07:29:58.750Z,"87 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -228,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-06T08:01:25.860Z,62.1941,-150.9179,70.5,1.7,ml,,,,0.24,ak,ak023a1ztii,2023-01-06T08:03:11.714Z,"33 km NE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-06T07:59:38.150Z,38.840332,-122.8368301,1.72,0.75,md,10,95,0.002032,0.02,nc,nc73829256,2023-01-06T08:58:11.999Z,"10km NW of The Geysers, CA",earthquake,0.31,0.71,0.44,13,automatic,nc,nc
 2023-01-06T07:52:43.712Z,39.5595,-120.3214,8.6,0.3,ml,5,174.74,0.12,0.1122,nn,nn00854592,2023-01-07T02:41:29.385Z,"5 km SE of Sierraville, California",earthquake,,3.1,0.15,2,reviewed,nn,nn
-2023-01-06T07:46:34.860Z,41.5091667,-112.185,7.06,1.5,md,15,108,0.09487,0.19,uu,uu60529262,2023-01-06T16:39:59.310Z,"7 km SW of Corinne, Utah",earthquake,0.47,1.39,0.178,7,reviewed,uu,uu
