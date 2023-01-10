@@ -82,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-09T17:50:15.650Z,38.7906685,-122.7594986,0.78,1.73,md,28,68,,0.04,nc,nc73830371,2023-01-09T19:07:13.709Z,"2km N of The Geysers, CA",earthquake,0.21,0.35,0.16,28,automatic,nc,nc
 2023-01-09T17:49:34.180Z,38.8078346,-122.7518311,0.32,1.37,md,13,111,0.009473,0.03,nc,nc73830361,2023-01-09T18:55:12.636Z,"3km WSW of Cobb, CA",earthquake,0.34,0.52,0.24,12,automatic,nc,nc
 2023-01-09T17:49:05.960Z,38.7873344,-122.7624969,1.58,2.75,md,53,56,,0.07,nc,nc73830356,2023-01-09T19:52:13.010Z,"1km NNW of The Geysers, CA",earthquake,0.16,0.24,0.14,57,automatic,nc,nc
-2023-01-09T17:47:35.035Z,-7.049,130.038,105.117,7.6,mww,106,16,1.557,0.95,us,us7000j36j,2023-01-10T03:33:14.808Z,"Pulau Pulau Tanimbar, Indonesia",earthquake,5.16,2.908,0.041,58,reviewed,us,us
+2023-01-09T17:47:35.035Z,-7.049,130.038,105.117,7.6,mww,106,16,1.557,0.95,us,us7000j36j,2023-01-10T03:38:27.591Z,"Pulau Pulau Tanimbar, Indonesia",earthquake,5.16,2.908,0.041,58,reviewed,us,us
 2023-01-09T17:44:38.920Z,63.6151,-147.031,29.9,1.6,ml,,,,1.48,ak,ak023f6807h,2023-01-09T17:46:42.180Z,"79 km SW of Delta Junction, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-09T17:43:42.150Z,19.2220001220703,-155.388671875,30.6200008392334,1.98000002,md,41,152,,0.129999995,hv,hv73300142,2023-01-09T17:47:00.700Z,"Island of Hawaii, Hawaii",earthquake,0.67,0.75,1.96000004,10,automatic,hv,hv
 2023-01-09T17:42:08.440Z,38.8214989,-122.8396683,1.85,0.41,md,9,90,0.01473,0.01,nc,nc73830351,2023-01-09T18:19:14.382Z,"9km NW of The Geysers, CA",earthquake,0.31,0.95,0.29,9,automatic,nc,nc
@@ -191,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-09T03:58:46.350Z,38.8224983,-122.8491669,2.65,0.3,md,8,107,0.00785,0.07,nc,nc73830156,2023-01-09T04:15:14.470Z,"10km WNW of The Geysers, CA",earthquake,0.76,1.39,0.18,10,automatic,nc,nc
 2023-01-09T03:45:41.823Z,61.8972,-150.9393,63.5,2.1,ml,,,,0.36,ak,ak023exw5pi,2023-01-09T03:47:44.980Z,"26 km ESE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-09T03:45:28.772Z,-9.0078,124.0895,102.292,4.4,mb,28,75,0.763,0.8,us,us7000j325,2023-01-09T18:07:29.844Z,"38 km WNW of Pante Makasar, Timor Leste",earthquake,7.83,7.557,0.13,17,reviewed,us,us
-2023-01-09T03:37:28.850Z,19.1828327178955,-155.494827270508,31.6700000762939,2.04999995,md,39,88,,0.119999997,hv,hv73299667,2023-01-09T03:40:55.010Z,"2 km SW of Pāhala, Hawaii",earthquake,0.61,0.730000019,0.790000021,20,automatic,hv,hv
