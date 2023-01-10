@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-10T05:24:48.618Z,-15.0035,167.2362,109.853,5.7,mww,92,27,0.442,0.66,us,us7000j3cb,2023-01-10T05:45:59.403Z,"18 km ENE of Port-Olry, Vanuatu",earthquake,8.42,4.467,0.086,13,reviewed,us,us
+2023-01-10T05:50:54.962Z,38.7119,-119.5847,10,1.6,ml,13,155.1,0.136,0.1066,nn,nn00854691,2023-01-10T05:53:15.840Z,"3 km WNW of Topaz Lake, Nevada",earthquake,,0.9,0.57,5,automatic,nn,nn
+2023-01-10T05:24:48.618Z,-15.0035,167.2362,109.853,5.7,mww,92,27,0.442,0.66,us,us7000j3cb,2023-01-10T05:57:43.752Z,"18 km ENE of Port-Olry, Vanuatu",earthquake,8.42,4.467,0.086,13,reviewed,us,us
 2023-01-10T05:21:15.850Z,38.833168,-122.8168335,1.6,0.7,md,8,89,0.0111,0.02,nc,nc73830606,2023-01-10T05:22:48.710Z,"8km NW of The Geysers, CA",earthquake,0.4,1.11,0.1,9,automatic,nc,nc
 2023-01-10T05:09:03.590Z,38.7915001,-122.7638321,2.06,1.14,md,17,67,0.009664,0.02,nc,nc73830601,2023-01-10T05:23:11.435Z,"2km NNW of The Geysers, CA",earthquake,0.25,0.48,0.21,18,automatic,nc,nc
 2023-01-10T05:02:21.650Z,37.2636681,-121.6413345,2.52,2.19,md,42,54,0.02579,0.08,nc,nc73830596,2023-01-10T05:45:10.576Z,"15km N of Morgan Hill, CA",earthquake,0.15,0.35,0.17,44,automatic,nc,nc
