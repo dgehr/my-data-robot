@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-11T08:37:14.504Z,60.1223,-151.8739,62.3,1.7,ml,,,,0.58,ak,ak023ibw8vu,2023-01-11T08:40:03.718Z,"13 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-11T08:24:38.438Z,60.475,-141.539,5.4,1.6,ml,,,,0.43,ak,ak023ibtif7,2023-01-11T08:26:03.516Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-11T08:21:10.780Z,60.4771,-141.5985,0.9,1.5,ml,,,,0.6,ak,ak023ibst52,2023-01-11T08:22:49.951Z,"128 km SSE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-11T07:59:22.456Z,-2.8734,136.9266,66.772,4.8,mb,50,94,4.672,0.77,us,us7000j3kt,2023-01-11T08:35:40.040Z,"Near the north coast of Papua, Indonesia",earthquake,4.76,7.301,0.068,68,reviewed,us,us
