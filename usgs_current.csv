@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-11T06:46:57.730Z,38.8341675,-122.815834,1.72,1.04,md,13,77,0.01166,0.01,nc,nc73830981,2023-01-11T06:48:33.799Z,"8km W of Cobb, CA",earthquake,0.27,0.6,0.12,15,automatic,nc,nc
 2023-01-11T06:20:08.930Z,38.793335,-122.729332,1.24,1.36,md,18,96,0.02483,0.03,nc,nc73830976,2023-01-11T06:37:11.628Z,"3km NE of The Geysers, CA",earthquake,0.28,0.51,0.16,18,automatic,nc,nc
 2023-01-11T06:00:28.103Z,38.1972,-117.7889,6.3,1.4,ml,10,156.84,0.136,0.1775,nn,nn00854720,2023-01-11T06:03:47.894Z,"Nevada",earthquake,,1.5,0.45,5,automatic,nn,nn
 2023-01-11T05:24:00.630Z,34.064,-117.832,12.44,1.5,ml,46,77,0.0346,0.21,ci,ci40401344,2023-01-11T05:27:32.482Z,"4km NNW of Diamond Bar, CA",earthquake,0.31,0.58,0.163,29,automatic,ci,ci
