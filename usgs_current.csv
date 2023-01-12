@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-12T09:34:54.530Z,19.1415004730225,-155.364669799805,27.7999992370605,1.83000004,md,40,184,,0.150000006,hv,hv73302047,2023-01-12T09:37:59.480Z,"Island of Hawaii, Hawaii",earthquake,0.67,0.970000029,1.05999994,15,automatic,hv,hv
 2023-01-12T09:24:38.703Z,38.1671,-116.7484,3.5,1.9,ml,16,231.88,0.761,0.2031,nn,nn00854776,2023-01-12T09:26:30.530Z,"43 km ENE of Tonopah, Nevada",earthquake,,2.6,0.34,9,automatic,nn,nn
 2023-01-12T09:22:38.101Z,60.3342,-152.2059,79.2,1.7,ml,,,,0.69,ak,ak023jzxv2a,2023-01-12T09:24:54.647Z,"43 km NW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-12T09:10:05.304Z,61.4709,-151.1931,65.5,1.5,ml,,,,0.36,ak,ak023jzv7xu,2023-01-12T09:12:17.397Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
