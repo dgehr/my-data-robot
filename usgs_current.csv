@@ -175,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-12T17:58:46.713Z,63.162,-150.5562,115.1,1.2,ml,,,,0.43,ak,ak023k4x2t6,2023-01-12T22:04:18.277Z,"Central Alaska",earthquake,,1.2,,,reviewed,ak,ak
 2023-01-12T17:56:22.840Z,58.1896666666667,-155.294166666667,2.17,0.01,ml,8,148,,0.07,av,av91746426,2023-01-13T03:00:35.630Z,"85 km NW of Karluk, Alaska",earthquake,0.22,0.39,0.338006340434816,8,reviewed,av,av
 2023-01-12T17:51:04.982Z,63.0505,-150.7917,117.1,1.9,ml,,,,0.35,ak,ak023k4vh42,2023-01-12T17:53:08.879Z,"61 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-01-12T17:42:14.680Z,52.0783333333333,-176.012666666667,5.15,1.4,ml,5,212,,0.1,av,av91746416,2023-01-13T03:03:35.760Z,"48 km ENE of Adak, Alaska",earthquake,0.58,0.74,0.211007920014569,4,reviewed,av,av
