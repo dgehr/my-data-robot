@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-17T20:31:03.730Z,38.8306656,-122.8180008,1.75,1.03,md,21,50,0.009542,0.03,nc,nc73833296,2023-01-17T20:32:40.758Z,"8km NW of The Geysers, CA",earthquake,0.22,0.39,0.21,21,automatic,nc,nc
 2023-01-17T20:22:25.340Z,40.5986671,-124.0596695,13.98,2,md,14,189,0.1676,0.11,nc,nc73833291,2023-01-17T22:01:14.596Z,"6km NNE of Hydesville, CA",earthquake,0.66,1.28,0.19,4,automatic,nc,nc
 2023-01-17T20:21:57.520Z,38.8136673,-122.8290024,1.75,0.78,md,8,79,0.004794,0.02,nc,nc73833286,2023-01-17T20:23:34.321Z,"8km WNW of The Geysers, CA",earthquake,0.36,0.81,0.18,9,automatic,nc,nc
-2023-01-17T20:20:32.925Z,61.6526,-149.8896,26.1,2.3,ml,,,,0.56,ak,ak023sg5xcs,2023-01-17T22:14:06.040Z,"4 km WNW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-01-17T20:20:32.925Z,61.6526,-149.8896,26.1,2.3,ml,,,,0.56,ak,ak023sg5xcs,2023-01-17T22:43:17.844Z,"4 km WNW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-17T20:11:04.811Z,60.1597,-151.941,60.3,1.5,ml,,,,0.5,ak,ak023sg3xqp,2023-01-17T20:13:14.981Z,"19 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-17T20:01:08.782Z,58.1618,-155.3525,1.1,0.6,ml,,,,0.23,ak,ak023sg1svy,2023-01-17T20:02:14.491Z,"84 km NW of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2023-01-17T19:48:00.590Z,38.8341675,-122.8174973,1.76,1.05,md,19,60,0.01222,0.02,nc,nc73833276,2023-01-17T20:44:13.110Z,"8km NW of The Geysers, CA",earthquake,0.22,0.48,0.09,20,automatic,nc,nc
@@ -189,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-16T23:07:33.979Z,35.08016667,-95.51433333,7.23,1.08,ml,39,100,0.1268751028,0.24,ok,ok2023bdei,2023-01-17T20:05:11.211Z,"13 km WSW of Quinton, Oklahoma",earthquake,,0.7,0.39,4,reviewed,ok,ok
 2023-01-16T22:54:09.791Z,61.8633,-149.2572,15.5,1,ml,,,,1.23,ak,ak023qu0onn,2023-01-16T22:56:32.230Z,"13 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-16T22:50:43.200Z,34.3215,-119.6531667,0.76,1.74,ml,16,242,0.1082,0.22,ci,ci40403176,2023-01-16T22:54:18.192Z,"12km SSE of Santa Barbara, CA",earthquake,1.46,31.61,0.227,21,automatic,ci,ci
-2023-01-16T22:49:19.490Z,38.783165,-122.748497,-0.79,1.64,md,13,109,0.009201,0.15,nc,nc73832946,2023-01-17T00:21:14.716Z,"1km NE of The Geysers, CA",earthquake,0.38,1.18,0.22,12,automatic,nc,nc
