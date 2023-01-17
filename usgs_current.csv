@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-17T09:08:03.980Z,40.4625015,-125.2178345,4.46,3.29,ml,26,292,,0.46,nc,nc73833076,2023-01-17T09:10:05.961Z,"80km WNW of Petrolia, CA",earthquake,11.37,31.94,0.155,4,automatic,nc,nc
+2023-01-17T09:08:03.980Z,40.4625015,-125.2178345,4.46,3.29,ml,26,292,,0.46,nc,nc73833076,2023-01-17T09:15:11.868Z,"80km WNW of Petrolia, CA",earthquake,11.37,31.94,0.155,4,automatic,nc,nc
 2023-01-17T08:53:10.360Z,38.822834,-122.8073349,2.92,0.26,md,7,84,0.002212,0.01,nc,nc73833071,2023-01-17T09:10:11.832Z,"7km NW of The Geysers, CA",earthquake,0.54,1.89,0.14,9,automatic,nc,nc
 2023-01-17T08:49:03.272Z,63.8533,-150.0107,3.8,1.6,ml,,,,0.57,ak,ak023s96vkn,2023-01-17T08:51:30.734Z,"47 km WSW of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-17T08:39:57.190Z,37.427166,-121.8125,0.15,1.38,md,6,150,0.06437,0.05,nc,nc73833066,2023-01-17T08:56:10.748Z,"7km N of Alum Rock, CA",earthquake,0.85,6.76,0.17,4,automatic,nc,nc
@@ -184,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-16T09:42:35.151Z,30.5523,138.4329,409.369,4.2,mb,63,126,2.813,0.51,us,us7000j4nl,2023-01-16T13:36:01.040Z,"Izu Islands, Japan region",earthquake,6.85,6.808,0.062,72,reviewed,us,us
 2023-01-16T09:35:09.879Z,62.9836,-150.3743,98.3,2.6,ml,,,,0.68,ak,ak023qm5z4m,2023-01-16T18:55:02.037Z,"57 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-16T09:31:02.529Z,36.4607,-114.9485,1.4,1.9,ml,24,188,0.839,0.2533,nn,nn00854891,2023-01-16T09:33:08.107Z,"Nevada",earthquake,,4.4,0.7,20,automatic,nn,nn
-2023-01-16T09:16:58.151Z,64.1468,-148.7772,0,1.5,ml,,,,0.53,ak,ak023qm20af,2023-01-16T09:18:53.526Z,"22 km NE of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
