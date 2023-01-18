@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-18T21:46:09.620Z,38.8273315,-122.8533325,1.7,0.76,md,7,138,0.0149,0.01,nc,nc73833686,2023-01-18T21:47:44.054Z,"10km WNW of The Geysers, CA",earthquake,0.46,4.48,0.43,8,automatic,nc,nc
+2023-01-18T21:43:12.950Z,57.4844,-156.8182,107.3,2,ml,,,,0.24,ak,ak023u4fldr,2023-01-18T21:45:27.941Z,"34 km E of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-18T21:11:44.158Z,61.7017,-149.4989,39,1.7,ml,,,,0.33,ak,ak023u48svj,2023-01-18T21:13:26.221Z,"9 km NNW of Tanaina, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-18T21:00:40.260Z,32.7521667,-116.9091667,5.7,1.25,ml,13,99,0.03252,0.2,ci,ci40403736,2023-01-18T21:04:14.628Z,"2km ENE of Rancho San Diego, CA",quarry blast,0.72,1.31,0.19,6,automatic,ci,ci
 2023-01-18T20:44:26.380Z,34.8593333,-119.2343333,10.03,0.99,ml,15,160,0.01333,0.26,ci,ci40403728,2023-01-18T20:48:01.680Z,"8km W of Pine Mountain Club, CA",earthquake,0.78,0.76,0.243,7,automatic,ci,ci
