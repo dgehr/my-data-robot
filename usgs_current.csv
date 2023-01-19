@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-19T04:48:16.804Z,62.2295,-150.0991,23.9,1.5,ml,,,,0.59,ak,ak023vhvngw,2023-01-19T04:50:43.991Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-19T04:28:15.672Z,60.5941,-143.1386,16.9,1.9,ml,,,,0.42,ak,ak023vhrd27,2023-01-19T04:29:34.861Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-19T04:17:44.847Z,61.7435,-149.54,31.7,1.6,ml,,,,0.53,ak,ak023vhp2fo,2023-01-19T04:19:15.090Z,"13 km NNE of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-19T04:00:30.280Z,38.8455009,-122.8166656,1.4,1.25,md,17,81,0.01053,0.02,nc,nc73833806,2023-01-19T04:44:13.620Z,"8km WNW of Cobb, CA",earthquake,0.24,0.67,0.15,24,automatic,nc,nc
