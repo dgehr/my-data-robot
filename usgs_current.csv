@@ -235,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-19T05:08:21.186Z,40.1959,-119.6245,0,0.7,ml,2,318.83,0.086,0.0033,nn,nn00855034,2023-01-20T02:03:03.403Z,"27 km N of Sutcliffe, Nevada",earthquake,,0,0,1,reviewed,nn,nn
 2023-01-19T05:05:06.060Z,18.493,-66.7565,17.03,2.22,md,9,188,0.1456,0.2,pr,pr71393193,2023-01-19T09:50:00.180Z,"Puerto Rico region",earthquake,0.73,0.87,0.0785718119242091,6,reviewed,pr,pr
 2023-01-19T05:03:00.040Z,64.7143,-149.0949,23.5,1.4,ml,,,,0.62,ak,ak023vi7ek4,2023-01-19T05:04:41.377Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-01-19T04:55:02.710Z,40.5173333,-124.4071667,16.61,1.75,md,22,213,0.06756,0.1,nc,nc73833826,2023-01-19T09:09:10.262Z,"14km WSW of Ferndale, CA",earthquake,0.52,0.32,0.128,12,reviewed,nc,nc
