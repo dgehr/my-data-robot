@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-21T14:54:14.030Z,34.2678333,-116.6916667,7.97,1.42,ml,23,83,0.1179,0.21,ci,ci40404664,2023-01-21T14:57:51.793Z,"14km E of Big Bear City, CA",earthquake,0.31,1.2,0.151,28,automatic,ci,ci
 2023-01-21T14:40:43.775Z,58.2581,-155.1717,0,2.5,ml,,,,0.53,ak,ak023yyv0ux,2023-01-21T14:41:51.292Z,"87 km NNW of Karluk, Alaska",earthquake,,26.7,,,automatic,ak,ak
 2023-01-21T14:26:00.200Z,38.8111649,-122.8296661,1.35,0.75,md,10,95,0.002325,0.01,nc,nc73835346,2023-01-21T14:43:13.209Z,"7km WNW of The Geysers, CA",earthquake,0.3,0.78,0.14,10,automatic,nc,nc
 2023-01-21T14:10:00.690Z,19.1765003204346,-155.498336791992,37.2200012207031,1.88999999,md,39,152,,0.119999997,hv,hv73309302,2023-01-21T14:13:19.980Z,"Island of Hawaii, Hawaii",earthquake,0.61,0.949999988,0.939999998,3,automatic,hv,hv
