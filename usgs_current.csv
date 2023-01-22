@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-22T18:38:54.910Z,36.3421669,-120.7996674,4.07,1.04,md,7,184,0.305,0.34,nc,nc73835956,2023-01-22T18:40:31.066Z,"14km SW of New Idria, CA",earthquake,11.54,12.39,,1,automatic,nc,nc
+2023-01-22T18:38:54.910Z,36.3421669,-120.7996674,4.07,1.04,md,7,184,0.305,0.34,nc,nc73835956,2023-01-22T18:55:11.248Z,"14km SW of New Idria, CA",earthquake,11.54,12.39,,1,automatic,nc,nc
 2023-01-22T18:35:05.410Z,33.1153333,-116.0626667,10.69,1.23,ml,26,49,0.09187,0.24,ci,ci40404912,2023-01-22T18:38:42.383Z,"7km ESE of Ocotillo Wells, CA",earthquake,0.32,1.08,0.226,29,automatic,ci,ci
 2023-01-22T18:20:00.125Z,62.2308,-150.8936,72.7,1.7,ml,,,,0.39,ak,ak02310onq30,2023-01-22T18:22:58.989Z,"30 km SSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-22T17:46:46.863Z,61.4457,-149.7964,30.7,1.6,ml,,,,0.72,ak,ak02310o7ypa,2023-01-22T17:48:37.165Z,"3 km WSW of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-22T17:27:33.930Z,38.7973328,-122.7448349,2.08,0.93,md,8,183,0.01544,0.02,nc,nc73835946,2023-01-22T17:45:12.844Z,"2km NNE of The Geysers, CA",earthquake,0.53,1.39,0.2,7,automatic,nc,nc
 2023-01-22T17:19:27.850Z,60.5357,-147.687,16.8,1.7,ml,,,,0.51,ak,ak02310o24v1,2023-01-22T17:22:38.780Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-22T16:59:50.810Z,37.3801651,-122.2271652,6.81,2.38,md,36,59,0.02525,0.07,nc,nc73835941,2023-01-22T17:59:21.097Z,"1km ESE of Portola Valley, CA",earthquake,0.18,0.44,0.15,37,automatic,nc,nc
-2023-01-22T16:57:12.253Z,-7.3974,128.475,162.532,4.6,mb,38,61,2.858,0.54,us,us7000j692,2023-01-22T17:13:34.040Z,"204 km NE of Lospalos, Timor Leste",earthquake,8.15,5.862,0.085,42,reviewed,us,us
+2023-01-22T16:57:12.253Z,-7.3974,128.475,162.532,4.6,mb,38,61,2.858,0.54,us,us7000j692,2023-01-22T17:13:34.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,8.15,5.862,0.085,42,reviewed,us,us
 2023-01-22T16:56:54.850Z,40.3235016,-124.8131638,8.86,2.83,md,16,244,0.4043,0.15,nc,nc73835936,2023-01-22T17:38:13.793Z,"45km W of Petrolia, CA",earthquake,2.29,3.1,0.08,9,automatic,nc,nc
 2023-01-22T16:54:05.060Z,19.0534992218018,-155.397003173828,35.7599983215332,2.18000007,md,44,206,,0.150000006,hv,hv73310287,2023-01-22T16:57:20.380Z,"18 km SSE of Pāhala, Hawaii",earthquake,0.59,1.07000005,1.11000001,16,automatic,hv,hv
 2023-01-22T16:49:56.750Z,36.2746658,-120.854332,6.27,1.89,md,22,127,0.07266,0.13,nc,nc73835926,2023-01-22T17:23:17.698Z,"22km NE of San Lucas, CA",earthquake,0.31,0.71,0.24,17,automatic,nc,nc
@@ -190,5 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-21T19:02:32.536Z,38.5831,-119.4364,1.2,1.2,ml,8,91.81,0.065,0.1884,nn,nn00855124,2023-01-21T19:05:03.551Z,"6 km ENE of Coleville, California",earthquake,,1,0.42,4,automatic,nn,nn
 2023-01-21T19:00:03.269Z,15.6225,-96.1666,21.558,4.3,mb,24,225,3.003,1.04,us,us7000j656,2023-01-22T00:09:37.875Z,"16 km S of Sector H Tres, Mexico",earthquake,8.27,10.218,0.16,11,reviewed,us,us
 2023-01-21T18:57:31.730Z,37.5208333,-118.4593333,9.1,1.43,md,19,62,0.02999,0.06,nc,nc73835406,2023-01-22T13:43:13.318Z,"15km NNW of Dixon Lane-Meadow Creek, CA",earthquake,0.4,0.82,0.334,21,reviewed,nc,nc
-2023-01-21T18:55:01.430Z,35.502,-118.3891667,8.57,1.17,ml,26,100,0.1747,0.1,ci,ci40404688,2023-01-22T18:46:38.150Z,"13km SE of Bodfish, CA",earthquake,0.15,0.49,0.192,13,reviewed,ci,ci
-2023-01-21T18:52:16.630Z,38.8478317,-122.8153305,1.83,0.29,md,10,100,0.009257,0.01,nc,nc73835396,2023-01-21T19:10:13.804Z,"8km WNW of Cobb, CA",earthquake,0.33,0.72,0.19,10,automatic,nc,nc
