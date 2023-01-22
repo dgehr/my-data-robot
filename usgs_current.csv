@@ -212,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-21T04:05:37.070Z,19.3403,-64.8281,34,3.69,md,11,294,0.996,0.38,pr,pr2023021000,2023-01-21T22:59:53.040Z,"Virgin Islands",earthquake,4.3,25.5,0.11,7,reviewed,pr,pr
 2023-01-21T04:05:28.745Z,-18.2573,-70.8206,40.232,4.3,mwr,24,148,0.469,0.52,us,us7000j605,2023-01-21T22:57:27.040Z,"51 km SSW of Las Yaras, Peru",earthquake,6.38,10.148,,,reviewed,us,guc
 2023-01-21T03:58:09.663Z,2.7788,127.0784,47.107,5.1,mb,66,111,2.014,1.06,us,us7000j603,2023-01-21T04:14:23.040Z,"155 km NW of Tobelo, Indonesia",earthquake,7.67,7.156,0.077,54,reviewed,us,us
-2023-01-21T03:57:17.410Z,34.7813333,-118.926,14.63,1.18,ml,23,70,0.03621,0.22,ci,ci40404552,2023-01-21T04:01:05.128Z,"5km SSE of Frazier Park, CA",earthquake,0.37,0.57,0.205,13,automatic,ci,ci
-2023-01-21T03:55:15.690Z,19.5453333333333,-65.7041666666667,86.69,3.19,md,9,281,1.37,0.26,pr,pr71393433,2023-01-21T04:36:55.670Z,"Puerto Rico region",earthquake,4.15,8.07,0.0210928317933825,4,reviewed,pr,pr
