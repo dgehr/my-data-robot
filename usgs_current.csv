@@ -135,4 +135,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-22T14:11:52.960Z,38.7561684,-122.708168,1.09,1.57,md,16,78,,0.05,nc,nc73835811,2023-01-22T15:56:13.204Z,"2km SW of Anderson Springs, CA",earthquake,0.23,0.29,0.09,17,automatic,nc,nc
 2023-01-22T14:11:31.630Z,38.7546654,-122.7076645,0.08,0.62,md,6,197,0.015,0.01,nc,nc73835806,2023-01-22T14:13:05.194Z,"3km SSW of Anderson Springs, CA",earthquake,0.56,1.05,0.13,6,automatic,nc,nc
 2023-01-22T14:11:11.450Z,38.8274994,-122.8014984,1.85,0.88,md,8,89,0.007853,0.01,nc,nc73835801,2023-01-22T14:53:17.791Z,"7km NW of The Geysers, CA",earthquake,0.47,1.07,0.24,10,automatic,nc,nc
-2023-01-22T13:47:51.110Z,38.8325005,-122.7985001,2.11,0.74,md,11,73,0.008682,0.01,nc,nc73835791,2023-01-22T14:31:14.643Z,"7km W of Cobb, CA",earthquake,0.4,0.78,0.4,12,automatic,nc,nc
