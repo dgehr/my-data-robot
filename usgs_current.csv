@@ -155,5 +155,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-22T09:36:23.160Z,38.8306656,-122.8151703,1.64,1.29,md,24,45,0.00828,0.05,nc,nc73835691,2023-01-22T10:10:13.959Z,"8km NW of The Geysers, CA",earthquake,0.19,0.39,0.09,24,automatic,nc,nc
 2023-01-22T09:02:28.130Z,35.625,-117.4391667,9.12,2.06,ml,24,82,0.1169,0.17,ci,ci40404840,2023-01-22T14:50:57.540Z,"16km SSW of Searles Valley, CA",earthquake,0.34,0.84,0.167,26,reviewed,ci,ci
 2023-01-22T08:57:18.130Z,38.8323326,-122.8174973,1.65,0.67,md,10,83,0.01064,0.01,nc,nc73835681,2023-01-22T09:16:13.755Z,"8km NW of The Geysers, CA",earthquake,0.35,0.73,0.45,11,automatic,nc,nc
-2023-01-22T08:53:29.210Z,36.3648333333333,-89.4885,6.76,2.56,md,55,40,0.05634,0.1,nm,nm60507521,2023-01-23T05:20:38.875Z,"southeastern Missouri",earthquake,0.21,0.46,0.135157901789986,39,reviewed,nm,nm
-2023-01-22T08:52:10.530Z,17.9505,-66.9586666666667,9.56,2.59,md,12,206,0.05228,0.11,pr,pr71393833,2023-01-22T09:38:53.360Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.67,0.45,0.0373703767760363,7,reviewed,pr,pr
