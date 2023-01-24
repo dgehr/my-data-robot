@@ -245,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T00:00:03.610Z,48.50483333333333,-123.50533333333334,-0.2,0.86,ml,3,159,0.1493,0.01,uw,uw61894517,2023-01-24T00:12:47.970Z,"6 km N of Langford, Canada",explosion,0.4,31.61,0.06990584441762482,4,reviewed,uw,uw
 2023-01-23T23:46:55.600Z,37.5203333,-118.7826667,5.83,1.41,md,20,60,0.05459,0.03,nc,nc73836466,2023-01-24T23:01:11.408Z,"10km WSW of Toms Place, CA",earthquake,0.26,0.8,0.09,16,reviewed,nc,nc
 2023-01-23T23:34:55.200Z,38.8341675,-122.8164978,1.59,1.1,md,16,58,0.01187,0.03,nc,nc73836461,2023-01-24T00:29:14.596Z,"8km NW of The Geysers, CA",earthquake,0.24,0.64,0.11,18,automatic,nc,nc
-2023-01-23T23:25:01.070Z,37.114,-121.5046667,8.59,0.89,md,19,57,0.04763,0.15,nc,nc73836456,2023-01-24T18:00:15.698Z,"10km ENE of San Martin, CA",earthquake,0.36,0.65,0.142,13,reviewed,nc,nc
