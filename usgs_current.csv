@@ -25,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T01:10:23.957Z,2.7248,126.92,38.147,5.2,mb,42,97,1.991,0.76,us,us6000jiti,2023-01-24T01:23:34.040Z,"Molucca Sea",earthquake,8.74,5.792,0.089,42,reviewed,us,us
 2023-01-24T01:09:22.128Z,64.0341,-148.7947,0.1,1.6,ml,,,,0.89,ak,ak02313pjqlw,2023-01-24T01:11:20.435Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-24T01:02:23.052Z,63.2913,-150.3294,16.5,1.6,ml,,,,0.25,ak,ak02313pi8o1,2023-01-24T01:04:57.058Z,"69 km W of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-01-24T01:00:29.030Z,38.7815018,-122.7235031,1.73,1.49,md,7,161,0.01048,0.02,nc,nc73836481,2023-01-24T01:53:15.088Z,"3km WNW of Anderson Springs, CA",earthquake,0.52,0.9,0.09,8,automatic,nc,nc
+2023-01-24T01:00:29.030Z,38.7815018,-122.7235031,1.73,1.49,md,7,161,0.01048,0.02,nc,nc73836481,2023-01-24T04:50:10.102Z,"3km WNW of Anderson Springs, CA",earthquake,0.52,0.9,0.09,8,automatic,nc,nc
 2023-01-24T00:53:35.250Z,44.79116666666667,-122.6625,-0.44,2.05,ml,10,74,0.02709,0.28,uw,uw61894527,2023-01-24T04:43:40.930Z,"3 km W of Mehama, Oregon",explosion,0.54,31.61,0.0862531727924023,5,reviewed,uw,uw
 2023-01-24T00:46:24.120Z,18.2983333333333,-65.7406666666667,127.66,3.36,md,14,161,0.08462,0.2,pr,pr71394148,2023-01-24T03:01:55.553Z,"Puerto Rico region",earthquake,1.97,0.63,0.0465164991441411,15,reviewed,pr,pr
 2023-01-24T00:44:05.360Z,38.8231659,-122.7941666,2.52,1.46,md,29,33,0.01243,0.03,nc,nc73836476,2023-01-24T04:34:12.006Z,"6km NNW of The Geysers, CA",earthquake,0.2,0.4,0.24,30,automatic,nc,nc
