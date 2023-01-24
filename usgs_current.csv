@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-24T19:26:38.520Z,33.3226667,-116.758,11.85,0.77,ml,28,39,0.08646,0.15,ci,ci40160911,2023-01-24T19:30:08.379Z,"9km N of Lake Henshaw, CA",earthquake,0.24,0.64,0.116,17,automatic,ci,ci
 2023-01-24T19:22:03.206Z,58.4377,-152.6902,57,2.3,ml,,,,0.2,ak,ak023140cacg,2023-01-24T19:24:09.026Z,"44 km NNE of Aleneva, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-01-24T19:14:09.320Z,38.8223343,-122.7699966,3.02,0.71,md,7,159,0.008125,0.03,nc,nc73836776,2023-01-24T19:15:45.100Z,"4km W of Cobb, CA",earthquake,0.96,1.39,0.13,9,automatic,nc,nc
 2023-01-24T19:11:41.190Z,38.8206673,-122.7626648,2.05,1.54,md,29,56,,0.02,nc,nc73836771,2023-01-24T19:14:41.620Z,"3km W of Cobb, CA",earthquake,0.2,0.35,0.12,30,automatic,nc,nc
@@ -76,6 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T10:55:49.600Z,38.8308334,-122.8594971,-0.53,0.53,md,7,226,0.0116,0.05,nc,nc73836616,2023-01-24T11:51:14.533Z,"11km WNW of The Geysers, CA",earthquake,0.85,3.17,0.22,8,automatic,nc,nc
 2023-01-24T10:15:45.748Z,62.6091,-152.2367,35.3,1.4,ml,,,,1.39,ak,ak02313uxz74,2023-01-24T10:27:53.657Z,"76 km W of Petersville, Alaska",earthquake,,28.8,,,automatic,ak,ak
 2023-01-24T10:15:35.620Z,44.6328333,-110.9078333,6.54,0.3,md,8,97,0.03706,0.1,uu,uu60530222,2023-01-24T15:12:16.260Z,"15 km ESE of West Yellowstone, Montana",earthquake,0.72,0.91,0.308,6,reviewed,uu,uu
+2023-01-24T10:06:52.334Z,39.4204,-120.3097,3.6,0,ml,4,228.13,0.069,0.0878,nn,nn00855211,2023-01-24T19:27:09.987Z,"Northern California",earthquake,,7.4,0.05,2,reviewed,nn,nn
 2023-01-24T10:06:10.020Z,46.05566666666667,-122.66733333333333,4.03,0.74,ml,16,277,0.1099,0.28,uw,uw61894567,2023-01-24T17:39:33.620Z,"14 km ENE of Kalama, Washington",earthquake,1.3,31.61,0.12703027656000898,10,reviewed,uw,uw
 2023-01-24T09:58:51.620Z,19.0348339080811,-155.414505004883,35.2900009155273,3.15,ml,50,208,,0.129999995,hv,hv73311482,2023-01-24T16:38:14.111Z,"17 km ESE of Naalehu, Hawaii",earthquake,0.57,0.930000007,3.4,30,automatic,hv,hv
 2023-01-24T09:52:54.610Z,19.0543327331543,-155.40966796875,34.7400016784668,2.68,ml,46,202,,0.140000001,hv,hv73311477,2023-01-24T16:35:32.040Z,"17 km E of Naalehu, Hawaii",earthquake,0.62,1.00999999,2.26,11,automatic,hv,hv
