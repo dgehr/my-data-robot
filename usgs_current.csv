@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T04:01:49.450Z,42.029666666666664,-124.48116666666667,-0.42,1.93,ml,11,262,0.1475,0.15,uw,uw61894542,2023-01-24T05:19:53.700Z,"16 km W of Brookings, Oregon",earthquake,1.28,0.96,0.0887698546836293,7,reviewed,uw,uw
 2023-01-24T03:41:00.088Z,62.8714,-148.3542,59,1.7,ml,,,,0.22,ak,ak02313qxf14,2023-01-24T03:43:34.710Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-24T03:39:44.430Z,44.0575,-110.5121667,5.98,1.23,md,15,164,0.2068,0.12,uu,uu60530192,2023-01-24T14:39:12.440Z,"49 km N of Kelly, Wyoming",earthquake,0.57,1.25,0.084,6,reviewed,uu,uu
-2023-01-24T03:38:37.033Z,2.9666,127.1382,35,4.5,mb,23,185,2.192,0.88,us,us6000jiua,2023-01-24T23:12:36.040Z,"167 km NW of Tobelo, Indonesia",earthquake,5.42,1.964,0.14,15,reviewed,us,us
