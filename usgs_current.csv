@@ -187,8 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-25T10:25:14.660Z,33.9206667,-118.7386667,19.85,1.33,ml,13,174,0.101,0.19,ci,ci40161415,2023-01-25T18:21:35.386Z,"12km SE of Malibu, CA",earthquake,0.68,1.21,0.164,10,reviewed,ci,ci
 2023-01-25T10:22:32.970Z,33.883,-118.6923333,10.98,2.9,ml,91,151,0.1541,0.23,ci,ci40161407,2023-01-26T06:07:48.272Z,"17km S of Malibu Beach, CA",earthquake,0.26,0.43,0.131,142,reviewed,ci,ci
 2023-01-25T10:21:13.380Z,32.0271667,-115.5365,18.04,2.17,ml,16,104,0.3503,0.19,ci,ci40161399,2023-01-25T15:40:28.958Z,"41km WSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.33,1.23,0.221,11,reviewed,ci,ci
-2023-01-25T10:15:03.140Z,47.678666666666665,-123.3935,4.01,1.31,ml,18,57,0.2305,0.19,uw,uw61903646,2023-01-25T18:58:43.940Z,"35 km NNW of Hoodsport, Washington",earthquake,0.33,31.61,0.06296794926750171,11,reviewed,uw,uw
-2023-01-25T10:09:09.290Z,35.9618333,-117.9138333,8.71,0.84,ml,10,139,0.07899,0.07,ci,ci40161391,2023-01-25T14:35:27.546Z,"3km NNW of Little Lake, CA",earthquake,0.28,0.6,0.214,10,reviewed,ci,ci
-2023-01-25T10:03:33.360Z,33.8863333,-118.7026667,13.83,3.61,ml,127,134,0.1462,0.24,ci,ci40161287,2023-01-26T09:35:38.278Z,"16km S of Malibu Beach, CA",earthquake,0.27,0.48,0.14,192,reviewed,ci,ci
-2023-01-25T10:01:41.890Z,35.8515,-97.19116667,7.98,3.53,ml,84,46,0,0.12,ok,ok2023bspx,2023-01-26T05:29:33.596Z,"5 km ENE of Meridian, Oklahoma",earthquake,,0.3,0.26,43,reviewed,ok,ok
-2023-01-25T10:00:54.680Z,33.885,-118.7045,14.71,4.19,mw,155,134,0.1464,0.24,ci,ci40161279,2023-01-26T09:54:01.661Z,"16km S of Malibu Beach, CA",earthquake,0.25,0.35,,6,reviewed,ci,ci
