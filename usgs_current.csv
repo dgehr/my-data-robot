@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-26T19:34:21.390Z,40.2796669,-124.4714966,11.82,1.67,md,9,270,0.1493,0.09,nc,nc73837866,2023-01-26T19:35:59.630Z,"17km WSW of Petrolia, CA",earthquake,2.58,1.42,0.05,4,automatic,nc,nc
+2023-01-26T19:30:46.687Z,57.338,-33.2601,10,5.3,mww,62,81,7.313,0.72,us,us6000jjj3,2023-01-26T19:46:23.040Z,"Reykjanes Ridge",earthquake,9.15,1.894,0.086,13,reviewed,us,us
 2023-01-26T19:17:03.712Z,57.3763,-33.374,10,5.2,mww,103,61,7.241,0.87,us,us6000jjj0,2023-01-26T19:36:14.040Z,"Reykjanes Ridge",earthquake,5.65,1.861,0.048,41,reviewed,us,us
 2023-01-26T19:12:35.330Z,38.8276672,-122.7815018,1.5,0.69,md,8,75,0.009475,0.03,nc,nc73837836,2023-01-26T19:14:09.614Z,"5km W of Cobb, CA",earthquake,0.41,1.17,0.26,8,automatic,nc,nc
 2023-01-26T19:09:55.145Z,59.8621,-151.4555,36,1.9,ml,,,,0.59,ak,ak02317bcb16,2023-01-26T19:13:04.111Z,"10 km ENE of Nikolaevsk, Alaska",earthquake,,1.1,,,automatic,ak,ak
