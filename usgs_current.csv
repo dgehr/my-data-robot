@@ -252,6 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-27T10:51:18.438Z,-16.5691,-69.7504,195.543,4.5,mb,69,105,1.047,0.82,us,us6000jjn6,2023-01-27T14:03:57.040Z,"19 km N of Mazo Cruz, Peru",earthquake,7.09,4.387,0.078,48,reviewed,us,us
 2023-01-27T10:50:24.530Z,35.3598333,-118.6803333,8.28,1.51,ml,23,59,0.1281,0.15,ci,ci40162615,2023-01-27T22:00:58.480Z,"22km NE of Arvin, CA",earthquake,0.26,1.19,0.177,24,reviewed,ci,ci
 2023-01-27T10:41:49.190Z,38.6878319,-122.3876648,0.97,1.77,md,10,104,0.05876,0.26,nc,nc73838236,2023-01-27T12:50:14.379Z,"14km NNE of Angwin, CA",earthquake,0.74,3.49,0.12,9,automatic,nc,nc
-2023-01-27T10:35:21.681Z,58.2587,-155.0224,2,0.4,ml,,,,0.36,ak,ak02318to948,2023-01-27T22:41:14.730Z,"83 km NNW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2023-01-27T10:33:34.161Z,28.97918701,-98.24620864,6.333780924,1.7,ml,20,87,0.1541232296,0.3,tx,tx2023bwhz,2023-01-27T21:36:54.065Z,"southern Texas",earthquake,2.238718438,2.652581846,0,6,reviewed,tx,tx
-2023-01-27T10:32:44.713Z,60.66,-151.8314,73.4,1.7,ml,,,,0.58,ak,ak02318tnnqp,2023-01-27T10:34:21.967Z,"28 km W of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
