@@ -211,4 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-28T20:09:58.816Z,38.5084,44.8234,10,4.5,mb,29,83,1.4,0.91,us,us6000jk1j,2023-01-28T22:32:40.040Z,"12 km WSW of Khowy, Iran",earthquake,8,1.922,0.096,32,reviewed,us,us
 2023-01-28T19:56:46.730Z,45.529333333333334,-122.69183333333334,15.08,1.12,ml,18,84,0.05032,0.14,uw,uw61904306,2023-01-29T01:58:46.750Z,"1 km WNW of Portland, Oregon",earthquake,0.3,0.4,0.12427062225928509,9,reviewed,uw,uw
 2023-01-28T19:56:27.051Z,58.1956,-155.3652,1.2,0.7,ml,,,,0.28,ak,ak0231amp0i9,2023-01-28T19:57:27.933Z,"88 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-01-28T19:45:26.980Z,33.3821667,-116.3888333,9.4,0.51,ml,13,71,0.06918,0.22,ci,ci40163439,2023-01-28T19:49:02.499Z,"14km N of Borrego Springs, CA",earthquake,0.5,1.37,0.144,6,automatic,ci,ci
