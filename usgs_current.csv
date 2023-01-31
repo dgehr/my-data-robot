@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T05:23:35.420Z,33.4018333,-116.3915,3.15,1.29,ml,47,26,0.1246,0.26,ci,ci40164391,2023-01-31T05:34:45.170Z,"16km N of Borrego Springs, CA",earthquake,0.3,0.97,0.181,26,automatic,ci,ci
 2023-01-31T05:14:12.403Z,65.4461,-148.2362,10.3,1.1,ml,,,,0.22,ak,ak0231fcpybc,2023-01-31T05:16:08.838Z,"16 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-31T05:07:17.231Z,62.2168,-148.4631,33.9,1.5,ml,,,,0.22,ak,ak0231fcogob,2023-01-31T05:08:29.089Z,"46 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-31T05:00:14.930Z,38.795166,-122.7659988,4.01,0.78,md,11,78,0.007338,0.01,nc,nc73840046,2023-01-31T05:31:13.184Z,"2km NNW of The Geysers, CA",earthquake,0.45,0.98,0.25,11,automatic,nc,nc
+2023-01-31T05:00:14.930Z,38.795166,-122.7659988,4.01,0.78,md,11,78,0.007338,0.01,nc,nc73840046,2023-01-31T07:46:12.265Z,"2km NNW of The Geysers, CA",earthquake,0.45,0.98,0.25,11,automatic,nc,nc
 2023-01-31T04:53:43.376Z,-17.5789,-178.3855,548.545,4.4,mb,34,85,3.262,0.56,us,us6000jkh2,2023-01-31T05:11:16.040Z,"249 km ENE of Levuka, Fiji",earthquake,15.57,12.064,0.106,26,reviewed,us,us
 2023-01-31T04:49:05.610Z,24.5584,94.4094,63.852,4.6,mb,60,79,4.484,0.91,us,us6000jkh1,2023-01-31T05:06:03.823Z,"35 km E of Wāngjing, India",earthquake,9.4,7.015,0.062,78,reviewed,us,us
 2023-01-31T04:34:50.750Z,5.9324,126.0209,86.301,4.6,mb,57,109,1.212,0.6,us,us6000jkgx,2023-01-31T04:51:54.040Z,"38 km ESE of Mangili, Philippines",earthquake,8.69,7.382,0.085,42,reviewed,us,us
@@ -213,5 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-30T08:21:22.980Z,38.847332,-122.8156662,1.58,1.04,md,17,56,0.009462,0.04,nc,nc73839696,2023-01-30T10:22:15.033Z,"8km WNW of Cobb, CA",earthquake,0.25,0.52,0.14,17,automatic,nc,nc
 2023-01-30T08:09:44.193Z,59.5206,-152.8559,87,1.8,ml,,,,0.41,ak,ak0231dqxwib,2023-01-30T08:11:23.872Z,"56 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-30T08:04:28.690Z,37.5955009,-121.6106644,-0.48,1.22,md,6,91,0.0989,0.25,nc,nc73839691,2023-01-30T09:53:19.852Z,"17km SE of Livermore, CA",earthquake,1.07,10.35,0.16,4,automatic,nc,nc
-2023-01-30T07:50:00.649Z,60.4794,-152.0367,82.4,2,ml,,,,0.57,ak,ak0231dql5wg,2023-01-30T07:52:07.785Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-01-30T07:48:24.300Z,38.8291664,-122.8144989,1.71,1.07,md,17,57,0.00672,0.02,nc,nc73839686,2023-01-30T09:26:13.679Z,"8km NW of The Geysers, CA",earthquake,0.22,0.48,0.2,18,automatic,nc,nc
