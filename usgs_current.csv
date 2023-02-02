@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-02T07:43:35.810Z,38.7576675,-122.7259979,2.21,1.28,md,14,69,0.02338,0.04,nc,nc73840891,2023-02-02T07:45:12.069Z,"3km SE of The Geysers, CA",earthquake,0.33,0.64,0.19,17,automatic,nc,nc
 2023-02-02T07:23:36.530Z,33.0193333,-116.446,11.35,0.51,ml,16,100,0.05594,0.17,ci,ci40165407,2023-02-02T07:39:23.531Z,"16km ESE of Julian, CA",earthquake,0.38,0.72,0.053,6,automatic,ci,ci
 2023-02-02T07:20:14.130Z,33.0156667,-116.4441667,11.26,0.61,ml,13,105,0.05203,0.12,ci,ci40165399,2023-02-02T07:23:43.496Z,"16km ESE of Julian, CA",earthquake,0.33,0.54,0.11,9,automatic,ci,ci
 2023-02-02T07:16:49.060Z,33.0118333,-116.4513333,10,1.19,ml,37,48,0.05256,0.17,ci,ci40165391,2023-02-02T07:20:22.877Z,"16km ESE of Julian, CA",earthquake,0.23,0.53,0.233,26,automatic,ci,ci
