@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-02T11:30:15.530Z,61.4474,-146.5529,24.5,1.7,ml,,,,0.46,ak,ak0231irgomp,2023-02-02T11:31:55.976Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-02T11:26:27.256Z,61.4521,-146.5422,17.7,3.1,ml,,,,0.75,ak,ak0231irfuob,2023-02-02T11:28:09.765Z,"37 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-02T11:21:45.921Z,64.7262,-149.0144,19.2,1.2,ml,,,,0.45,ak,ak0231iretj4,2023-02-02T11:23:50.438Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-02T10:59:50.023Z,58.1154,-155.3021,0,0.1,ml,,,,0.79,ak,ak0231ir1jga,2023-02-02T11:01:26.951Z,"78 km NW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -47,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-02T06:10:42.940Z,38.8100014,-122.7833328,-0.84,1.76,md,15,83,0.003855,0.24,nc,nc73840861,2023-02-02T09:41:20.394Z,"4km NNW of The Geysers, CA",earthquake,0.53,0.73,0.11,17,automatic,nc,nc
 2023-02-02T05:55:05.410Z,37.510334,-118.7818298,5.89,1.41,md,12,171,0.08798,0.03,nc,nc73840851,2023-02-02T08:46:15.045Z,"11km WSW of Toms Place, CA",earthquake,1.15,1.62,0.08,11,automatic,nc,nc
 2023-02-02T05:54:33.150Z,33.4883333,-116.4698333,13.56,0.68,ml,24,102,0.08585,0.1,ci,ci40165367,2023-02-02T05:58:15.189Z,"20km ESE of Anza, CA",earthquake,0.2,0.39,0.157,19,automatic,ci,ci
-2023-02-02T05:48:28.189Z,13.3485,-91.4286,10,4.1,mb,39,166,1.483,0.69,us,us6000jkx2,2023-02-02T06:38:25.040Z,"offshore Guatemala",earthquake,5.8,2,0.086,37,reviewed,us,us
+2023-02-02T05:48:28.189Z,13.3485,-91.4286,10,4.1,mb,39,166,1.483,0.69,us,us6000jkx2,2023-02-02T06:38:25.040Z,"90 km SSW of La Gomera, Guatemala",earthquake,5.8,2,0.086,37,reviewed,us,us
 2023-02-02T05:44:45.760Z,33.419,-116.6381667,11.13,0.17,ml,16,86,0.08127,0.25,ci,ci40165359,2023-02-02T05:55:27.492Z,"15km N of Warner Springs, CA",earthquake,0.71,1.44,0.09,3,automatic,ci,ci
 2023-02-02T05:34:48.910Z,38.7994995,-122.8079987,2,1.07,md,19,93,0.0118,0.02,nc,nc73840846,2023-02-02T06:36:14.327Z,"5km WNW of The Geysers, CA",earthquake,0.22,0.44,0.21,21,automatic,nc,nc
 2023-02-02T05:33:09.086Z,31.6345,-104.3686,5,2.6,ml,18,113,0.371,0.28,us,us6000jkx0,2023-02-02T05:45:11.040Z,"60 km S of Whites City, New Mexico",earthquake,1.46,1.905,0.06,48,reviewed,us,us
@@ -228,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-01T11:52:50.730Z,38.8031667,-122.7923333,3.35,0.94,md,41,47,0.005326,0.02,nc,nc73840511,2023-02-01T19:37:11.446Z,"4km NW of The Geysers, CA",earthquake,0.16,0.23,0.158,8,reviewed,nc,nc
 2023-02-01T11:51:36.890Z,33.8921667,-116.26,6.35,1.24,ml,24,85,0.1166,0.21,ci,ci40164999,2023-02-01T14:38:14.380Z,"14km ENE of Thousand Palms, CA",earthquake,0.32,1.52,0.166,26,reviewed,ci,ci
 2023-02-01T11:43:47.307Z,61.5581,-149.9852,32.1,1.8,ml,,,,0.37,ak,ak0231h406wa,2023-02-01T11:45:30.155Z,"4 km NNW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-02-01T11:30:10.230Z,59.0008,-152.2809,72.4,2.3,ml,,,,0.27,ak,ak0231h3xbq7,2023-02-01T11:45:25.040Z,"44 km SSW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
