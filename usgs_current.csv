@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-03T13:29:17.625Z,64.6781,-149.1479,21.1,0.8,ml,,,,0.33,ak,ak0231kg6os2,2023-02-03T13:31:25.000Z,"8 km N of Four Mile Road, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-03T13:22:38.358Z,60.6369,-151.6312,62.6,1.3,ml,,,,0.6,ak,ak0231kg58d7,2023-02-03T13:24:36.281Z,"17 km W of Salamatof, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2023-02-03T13:17:48.171Z,60.7201,-149.6271,30.9,2.4,ml,,,,0.37,ak,ak0231kg46jl,2023-02-03T13:19:20.793Z,"21 km SSW of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-02-03T13:17:48.171Z,60.7201,-149.6271,30.9,2.4,ml,,,,0.37,ak,ak0231kg46jl,2023-02-03T13:37:34.040Z,"21 km SSW of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-03T13:16:55.620Z,38.7885017,-122.7226639,2.19,1.22,md,13,91,0.01218,0.01,nc,nc73841411,2023-02-03T13:27:10.314Z,"3km WNW of Anderson Springs, CA",earthquake,0.3,0.64,0.24,12,automatic,nc,nc
 2023-02-03T13:10:17.408Z,61.7449,-149.6365,29.5,1.6,ml,,,,0.51,ak,ak0231kg2m5o,2023-02-03T13:12:09.224Z,"13 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-03T13:09:33.310Z,38.8363342,-122.7900009,1.83,0.72,md,7,79,0.002089,0.01,nc,nc73841406,2023-02-03T13:28:12.320Z,"6km WNW of Cobb, CA",earthquake,0.51,1.55,0.26,8,automatic,nc,nc
