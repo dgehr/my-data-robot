@@ -239,5 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-02T05:48:28.189Z,13.3485,-91.4286,10,4.1,mb,39,166,1.483,0.69,us,us6000jkx2,2023-02-02T17:59:43.614Z,"near the coast of Guatemala",earthquake,5.8,2,0.086,37,reviewed,us,us
 2023-02-02T05:44:46.090Z,33.4241667,-116.6258333,7.17,0.22,ml,24,89,0.07307,0.09,ci,ci40165359,2023-02-02T18:26:08.219Z,"15km SSE of Anza, CA",earthquake,0.17,0.39,0.149,3,reviewed,ci,ci
 2023-02-02T05:39:19.070Z,19.7615,-156.1685,34.76,2.1,md,33,240,,0.24,hv,hv73317552,2023-02-03T03:06:22.990Z,"19 km W of Kalaoa, Hawaii",earthquake,0.8,1.1,0.110660783030092,18,reviewed,hv,hv
-2023-02-02T05:34:48.910Z,38.7994995,-122.8079987,2,1.07,md,19,93,0.0118,0.02,nc,nc73840846,2023-02-02T06:36:14.327Z,"5km WNW of The Geysers, CA",earthquake,0.22,0.44,0.21,21,automatic,nc,nc
-2023-02-02T05:33:09.290Z,31.65565352,-104.3664765,7.468383789,2.7,ml,44,59,0.05589683111,0.2,tx,tx2023cgxc,2023-02-02T18:20:32.145Z,"57 km S of Whites City, New Mexico",earthquake,0.7428080817,0.8039887205,0,6,reviewed,tx,tx
