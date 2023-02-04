@@ -224,5 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-03T14:08:55.237Z,62.969,-149.3418,0,1.9,ml,,,,0.73,ak,ak0231kgnp8z,2023-02-03T14:10:54.815Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-03T14:05:47.270Z,37.9541667,-112.534,10.73,1.54,md,8,242,0.3959,0.15,uu,uu60530016,2023-02-03T17:35:28.250Z,"16 km NNW of Panguitch, Utah",earthquake,2.1,1.21,0.144,6,reviewed,uu,uu
 2023-02-03T14:01:46.748Z,59.3815,-153.15,84.9,1.7,ml,,,,0.74,ak,ak0231kgm6kk,2023-02-03T14:10:28.909Z,"69 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-02-03T13:55:39.664Z,38.158,-117.9389,12.6,1,ml,14,145.77,0.025,0.163,nn,nn00855645,2023-02-03T17:12:09.913Z,"29 km SSE of Mina, Nevada",earthquake,,1,0.29,4,reviewed,nn,nn
-2023-02-03T13:52:48.560Z,58.1693333333333,-155.304833333333,1.92,-0.15,ml,8,172,,0.08,av,av91754636,2023-02-04T00:42:36.590Z,"83 km NW of Karluk, Alaska",earthquake,0.29,0.93,0.343309139776819,8,reviewed,av,av
