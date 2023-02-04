@@ -31,6 +31,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-04T16:42:40.600Z,33.4398333,-116.5721667,11.59,0.59,ml,18,133,0.06021,0.21,ci,ci40410960,2023-02-04T16:46:12.643Z,"16km SE of Anza, CA",earthquake,0.55,0.77,0.2,12,automatic,ci,ci
 2023-02-04T16:40:40.024Z,22.8501,144.0089,40.137,4.5,mb,33,122,9.247,0.78,us,us6000jlf8,2023-02-04T18:33:01.040Z,"Volcano Islands, Japan region",earthquake,13.41,8.136,0.076,51,reviewed,us,us
 2023-02-04T16:35:39.166Z,12.5593,-88.349,52.812,4.6,mb,31,182,1.282,1.06,us,us6000jlf4,2023-02-04T18:27:53.040Z,"76 km SSW of Chirilagua, El Salvador",earthquake,6.98,9.194,0.038,212,reviewed,us,us
+2023-02-04T16:33:49.656Z,60.739,-153.8016,78.9,1.8,ml,,,,0.55,ak,ak0231m5jdd5,2023-02-04T19:34:18.798Z,"Southern Alaska",earthquake,,12.7,,,reviewed,ak,ak
+2023-02-04T16:33:48.927Z,60.8303,-155.1725,54.1,1.3,ml,,,,0.48,ak,ak0231m5j9d8,2023-02-04T19:34:45.197Z,"Southern Alaska",earthquake,,77.1,,,reviewed,ak,ak
 2023-02-04T16:29:11.550Z,35.785,-117.617,6.84,0.6,ml,10,114,0.03452,0.22,ci,ci40410952,2023-02-04T16:32:51.570Z,"19km NNE of Ridgecrest, CA",earthquake,0.63,1.07,0.074,7,automatic,ci,ci
 2023-02-04T16:26:51.213Z,61.6932,-149.903,38.5,1.2,ml,,,,0.38,ak,ak0231m5hrj5,2023-02-04T16:28:53.202Z,"8 km NNW of Houston, Alaska",earthquake,,3,,,automatic,ak,ak
 2023-02-04T16:19:50.500Z,38.7978325,-122.7511673,2.09,0.78,md,9,95,0.007236,0.02,nc,nc73841861,2023-02-04T18:49:13.911Z,"2km N of The Geysers, CA",earthquake,0.35,0.85,0.19,10,automatic,nc,nc
@@ -168,7 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-03T23:35:39.760Z,35.8863335,-120.4398346,9.43,1.03,md,14,111,0.01655,0.09,nc,nc73841561,2023-02-04T00:11:18.191Z,"2km SSW of Parkfield, CA",earthquake,1.35,2.04,0.15,5,automatic,nc,nc
 2023-02-03T23:31:18.650Z,53.9155,-166.694166666667,4.69,0.47,ml,7,114,,0.13,av,av91754856,2023-02-04T03:08:41.380Z,"10 km WNW of Dutch Harbor, Alaska",earthquake,0.33,0.68,0.196698479343452,7,reviewed,av,av
 2023-02-03T23:23:14.586Z,60.0383,-152.9807,98.2,1.4,ml,,,,0.55,ak,ak0231km3qaq,2023-02-03T23:25:11.700Z,"68 km ENE of Pedro Bay, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-02-03T23:23:05.210Z,37.6663322,-122.5134964,5.22,2.29,md,45,102,0.04229,0.05,nc,nc73841556,2023-02-04T04:29:47.516Z,"5km WSW of Colma, CA",earthquake,0.21,0.32,0.21,43,automatic,nc,nc
+2023-02-03T23:23:05.210Z,37.6663322,-122.5134964,5.22,2.29,md,45,102,0.04229,0.05,nc,nc73841556,2023-02-04T19:32:01.595Z,"5km WSW of Colma, CA",earthquake,0.21,0.32,0.21,43,automatic,nc,nc
 2023-02-03T23:21:08.650Z,58.301,-154.986333333333,2.95,-0.92,ml,4,209,,0.08,av,av91087123,2023-02-04T03:22:52.090Z,"87 km NNW of Karluk, Alaska",earthquake,0.53,0.59,0.184388336723754,4,reviewed,av,av
 2023-02-03T23:20:10.704Z,61.1127,-152.4947,144.1,1.8,ml,,,,0.28,ak,ak0231km32um,2023-02-03T23:22:14.668Z,"73 km W of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-03T23:19:12.860Z,58.2525,-155.128833333333,2.58,-0.47,ml,5,151,,0.03,av,av91087128,2023-02-04T03:26:19.220Z,"85 km NNW of Karluk, Alaska",earthquake,0.27,0.36,0.133412127727968,6,reviewed,av,av
