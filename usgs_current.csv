@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-04T05:49:44.940Z,34.5286667,-118.6701667,0.51,2.45,ml,75,18,0.09627,0.3,ci,ci40410664,2023-02-04T05:54:59.747Z,"6km NW of Castaic, CA",earthquake,0.24,0.62,0.194,26,automatic,ci,ci
 2023-02-04T05:49:11.320Z,38.8428345,-122.8421631,1.93,0.71,md,10,110,0.00672,0.01,nc,nc73841666,2023-02-04T05:50:45.982Z,"10km NW of The Geysers, CA",earthquake,0.41,0.48,0.23,10,automatic,nc,nc
 2023-02-04T05:42:05.630Z,61.9374,-150.2463,20.1,1,ml,,,,0.12,ak,ak0231lz1btl,2023-02-04T05:44:34.165Z,"Southern Alaska",earthquake,,10.8,,,automatic,ak,ak
 2023-02-04T05:37:02.600Z,36.5144997,-121.0818329,8.11,1.24,md,6,161,0.07236,0.03,nc,nc73841656,2023-02-04T05:50:10.869Z,"6km ESE of Pinnacles, CA",earthquake,0.95,2.6,0.29,5,automatic,nc,nc
