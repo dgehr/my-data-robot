@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-05T18:02:20.300Z,63.7952,-146.5552,0,1.4,ml,,,,0.55,ak,ak0231nu2rny,2023-02-05T18:04:03.771Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-05T18:01:19.960Z,18.0105,-66.73,11.5,2.28,md,10,183,0.1221,0.09,pr,pr71395458,2023-02-05T18:12:15.730Z,"2 km NW of Tallaboa, Puerto Rico",earthquake,0.39,0.79,0.050067474327544,6,reviewed,pr,pr
 2023-02-05T17:39:26.758Z,63.2374,-144.9824,5.7,1.2,ml,,,,1.45,ak,ak0231ntpa0y,2023-02-05T17:42:36.698Z,"35 km ENE of Paxson, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-02-05T17:37:04.070Z,38.8283348,-122.8521652,1.87,0.76,md,9,88,0.01436,0.01,nc,nc73842301,2023-02-05T18:36:11.943Z,"10km NW of The Geysers, CA",earthquake,0.3,0.76,0.35,10,automatic,nc,nc
+2023-02-05T17:37:04.070Z,38.8283348,-122.8521652,1.87,0.76,md,9,88,0.01436,0.01,nc,nc73842301,2023-02-05T19:59:14.483Z,"10km NW of The Geysers, CA",earthquake,0.3,0.76,0.35,10,automatic,nc,nc
 2023-02-05T17:33:18.613Z,62.0423,-147.7903,32.6,1.5,ml,,,,1.22,ak,ak0231ntnz4l,2023-02-05T17:35:11.376Z,"27 km NNW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-05T16:41:18.590Z,19.1438331604004,-155.373672485352,29.5699996948242,1.77999997,md,34,189,,0.129999995,hv,hv73319797,2023-02-05T16:44:33.990Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.66,1.25999999,0.129999995,9,automatic,hv,hv
 2023-02-05T16:20:50.970Z,35.6873333,-117.5365,10.13,1.09,ml,12,151,0.1374,0.17,ci,ci40411336,2023-02-05T16:24:26.859Z,"15km ENE of Ridgecrest, CA",earthquake,0.51,1.44,0.171,11,automatic,ci,ci
