@@ -1,14 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-07T22:13:23.980Z,38.8400002,-122.8233337,2.17,0.71,md,8,89,0.009595,0.03,nc,nc73843201,2023-02-07T22:26:10.625Z,"9km WNW of Cobb, CA",earthquake,0.47,1.12,0.39,10,automatic,nc,nc
 2023-02-07T21:51:23.350Z,38.7741661,-122.7360001,2.33,1.11,md,11,118,0.009075,0.02,nc,nc73843191,2023-02-07T22:12:11.523Z,"2km E of The Geysers, CA",earthquake,0.47,0.71,0.12,13,automatic,nc,nc
-2023-02-07T21:50:05.030Z,38.788166,-122.7289963,0.92,0.78,md,11,91,0.007792,0.02,nc,nc73843181,2023-02-07T22:02:11.455Z,"3km ENE of The Geysers, CA",earthquake,0.27,0.63,0.06,10,automatic,nc,nc
-2023-02-07T21:43:53.720Z,33.4021667,-116.382,3.32,1.28,ml,40,37,0.07242,0.23,ci,ci40411992,2023-02-07T21:55:07.240Z,"16km N of Borrego Springs, CA",earthquake,0.27,0.81,0.202,27,automatic,ci,ci
+2023-02-07T21:50:05.030Z,38.788166,-122.7289963,0.92,0.78,md,11,91,0.007792,0.02,nc,nc73843181,2023-02-07T22:48:17.788Z,"3km ENE of The Geysers, CA",earthquake,0.27,0.63,0.06,10,automatic,nc,nc
+2023-02-07T21:43:53.720Z,33.4021667,-116.382,3.32,1.28,ml,40,37,0.07242,0.23,ci,ci40411992,2023-02-07T22:49:44.396Z,"16km N of Borrego Springs, CA",earthquake,0.27,0.81,0.202,27,reviewed,ci,ci
 2023-02-07T21:42:10.502Z,62.5249,-146.4472,100,2,ml,,,,1.11,ak,ak0231r76cde,2023-02-07T21:45:32.025Z,"27 km N of Lake Louise, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-02-07T21:31:36.634Z,7.2015,-76.9568,24.202,4.9,mb,61,101,1.738,1.01,us,us6000jmce,2023-02-07T22:17:24.607Z,"28 km NNW of Murindó, Colombia",earthquake,4.52,6.015,0.051,119,reviewed,us,us
 2023-02-07T21:30:17.276Z,-10.6686,164.9597,51.631,5.4,mww,71,86,5.085,0.95,us,us6000jmcg,2023-02-07T21:54:46.832Z,"91 km W of Lata, Solomon Islands",earthquake,9.24,6.907,0.078,16,reviewed,us,us
 2023-02-07T21:21:26.864Z,37.8863,37.4652,10,4.9,mb,77,55,0.742,0.91,us,us6000jmc7,2023-02-07T21:38:48.040Z,"central Turkey",earthquake,4.25,1.847,0.06,89,reviewed,us,us
 2023-02-07T21:16:54.881Z,61.26,-147.9838,10.1,1.4,ml,,,,1.06,ak,ak0231r70u5s,2023-02-07T21:19:16.866Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-02-07T21:14:29.089Z,32.1292,35.283,10,4.1,mb,11,171,3.261,0.56,us,us6000jmcs,2023-02-07T22:39:14.629Z,"1 km SSW of Baytā al Fawqā, Palestinian Territory",earthquake,9.11,1.984,0.301,4,reviewed,us,us
+2023-02-07T21:14:29.089Z,32.1292,35.283,10,4.1,mb,11,171,3.261,0.56,us,us6000jmcs,2023-02-07T22:49:38.553Z,"1 km SSW of Baytā al Fawqā, Palestinian Territory",earthquake,9.11,1.984,0.301,4,reviewed,us,us
 2023-02-07T21:11:27.260Z,44.7895,-110.9688333,8.3,1.47,ml,13,114,0.04021,0.15,uu,uu60530416,2023-02-07T22:38:08.080Z,"Wyoming",earthquake,0.4,0.69,0.081,2,reviewed,uu,uu
 2023-02-07T21:10:57.920Z,33.8935,-117.5088333,5.37,1.06,ml,18,73,0.09261,0.28,ci,ci40411976,2023-02-07T21:14:37.854Z,"2km NNE of Home Gardens, CA",earthquake,0.71,1.36,0.224,21,automatic,ci,ci
 2023-02-07T21:04:21.130Z,33.3483333,-116.3871667,7.46,0.82,ml,27,67,0.06641,0.12,ci,ci40411968,2023-02-07T21:08:05.050Z,"10km N of Borrego Springs, CA",earthquake,0.2,0.58,0.111,21,automatic,ci,ci
@@ -29,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-07T19:13:48.746Z,38.1175,36.9616,5.404,4.4,mb,75,44,0.964,0.76,us,us6000jmbj,2023-02-07T22:39:10.040Z,"15 km SSE of Afşin, Turkey",earthquake,4.36,4.485,0.078,52,reviewed,us,us
 2023-02-07T18:58:50.170Z,34.0301667,-116.7563333,27.2,0.94,ml,13,148,0.09039,0.27,ci,ci40411920,2023-02-07T19:02:22.944Z,"13km NNE of Cabazon, CA",earthquake,0.83,1.05,0.277,21,automatic,ci,ci
 2023-02-07T18:43:10.720Z,38.8349991,-122.8176651,1.08,0.52,md,7,133,0.01302,0.02,nc,nc73843106,2023-02-07T19:06:13.188Z,"8km W of Cobb, CA",earthquake,0.53,1.33,0.32,8,automatic,nc,nc
-2023-02-07T18:36:31.710Z,38.9235001,-122.6484985,1.69,1.81,md,11,138,0.02324,0.11,nc,nc73843101,2023-02-07T22:17:11.684Z,"4km WNW of Lower Lake, CA",earthquake,0.52,0.98,0.1,10,automatic,nc,nc
+2023-02-07T18:36:31.710Z,38.9235001,-122.6484985,1.69,1.81,md,11,138,0.02324,0.11,nc,nc73843101,2023-02-07T22:44:13.766Z,"4km WNW of Lower Lake, CA",earthquake,0.52,0.98,0.1,10,automatic,nc,nc
 2023-02-07T18:30:51.689Z,64.5046,-160.1881,11.607,2.8,ml,19,76,1.216,0.71,us,us6000jmbf,2023-02-07T22:19:46.040Z,"51 km ENE of Shaktoolik, Alaska",earthquake,4.42,6.956,0.041,80,reviewed,us,us
 2023-02-07T18:27:14.402Z,-6.6183,127.53,397.072,4.1,mb,44,47,3.15,0.74,us,us6000jmb8,2023-02-07T19:41:54.040Z,"218 km NNE of Lospalos, Timor Leste",earthquake,8.35,8.722,0.1,30,reviewed,us,us
 2023-02-07T18:25:23.080Z,18.0391666666667,-66.7926666666667,16.13,1.93,md,11,145,0.1042,0.11,pr,pr71395573,2023-02-07T18:42:51.600Z,"2 km N of Guayanilla, Puerto Rico",earthquake,0.34,1.07,0.104517521924378,6,reviewed,pr,pr
@@ -63,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-07T16:13:34.340Z,44.7921667,-110.961,8.4,0.58,md,9,161,0.04596,0.17,uu,uu60530371,2023-02-07T17:29:04.450Z,"18 km E of Hebgen Lake Estates, Montana",earthquake,0.73,1.01,0.129,5,reviewed,uu,uu
 2023-02-07T16:11:17.094Z,-21.0797,-179.079,614.716,4.8,mb,72,42,3.619,0.8,us,us6000jm98,2023-02-07T16:39:02.040Z,"Fiji region",earthquake,11.92,7.134,0.053,109,reviewed,us,us
 2023-02-07T16:02:30.990Z,44.792,-110.967,7.81,0.18,md,6,231,0.04295,0.15,uu,uu60530366,2023-02-07T17:24:54.510Z,"17 km E of Hebgen Lake Estates, Montana",earthquake,1.05,1.21,0.387,4,reviewed,uu,uu
-2023-02-07T16:00:39.340Z,31.9996667,-116.8195,11.84,2.32,ml,8,263,0.3393,0.16,ci,ci40411856,2023-02-07T16:04:17.995Z,"17km NW of El Sauzal, B.C., MX",earthquake,3.48,10.4,0.133,23,automatic,ci,ci
+2023-02-07T16:00:37.710Z,31.9246667,-116.9058333,5.46,2.38,ml,22,264,0.4385,0.19,ci,ci40411856,2023-02-07T22:46:12.207Z,"21km W of El Sauzal, B.C., MX",earthquake,0.66,31.61,0.12,23,reviewed,ci,ci
 2023-02-07T15:48:53.715Z,38.0351,36.4807,8.309,5,mww,105,23,0.955,0.67,us,us6000jm96,2023-02-07T17:55:59.728Z,"2 km NW of Göksun, Turkey",earthquake,3.77,3.613,0.062,25,reviewed,us,us
 2023-02-07T15:45:46.210Z,37.8984985,-122.6559982,6.91,1.7,md,11,185,0.05339,0.06,nc,nc73843026,2023-02-07T19:02:13.165Z,"1km WSW of Stinson Beach, CA",earthquake,0.89,0.71,0.19,9,automatic,nc,nc
 2023-02-07T15:38:08.830Z,32.9816667,-116.4471667,12.17,1.05,ml,20,97,0.03224,0.17,ci,ci40411848,2023-02-07T22:39:31.153Z,"18km SE of Julian, CA",earthquake,0.29,0.54,0.072,12,reviewed,ci,ci
