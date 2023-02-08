@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-08T23:26:12.030Z,38.8423347,-122.7648315,18.97,1.26,md,6,197,0.01249,0.07,nc,nc73843711,2023-02-08T23:27:46.168Z,"4km WNW of Cobb, CA",earthquake,3.44,2.22,,1,automatic,nc,nc
+2023-02-08T23:42:44.250Z,38.8235016,-122.8511658,2.23,0.94,md,18,60,0.006015,0.01,nc,nc73843716,2023-02-08T23:44:21.246Z,"10km WNW of The Geysers, CA",earthquake,0.21,0.47,0.2,19,automatic,nc,nc
+2023-02-08T23:26:12.030Z,38.8423347,-122.7648315,18.97,1.26,md,6,197,0.01249,0.07,nc,nc73843711,2023-02-08T23:43:10.703Z,"4km WNW of Cobb, CA",earthquake,3.44,2.22,,1,automatic,nc,nc
 2023-02-08T22:48:46.073Z,63.32,-144.9231,3.4,1.2,ml,,,,0.43,ak,ak0231svcggz,2023-02-08T22:51:12.686Z,"39 km SSW of Dry Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-08T22:36:50.425Z,38.2174,38.2049,16.084,4,mb,29,91,1.309,0.6,us,us6000jmll,2023-02-08T22:47:15.040Z,"9 km SSW of Yeşilyurt, Turkey",earthquake,4.93,5.752,0.183,8,reviewed,us,us
 2023-02-08T22:22:11.360Z,19.2430000305176,-155.396835327148,31.7700004577637,1.96000004,md,26,140,,0.119999997,hv,hv73321612,2023-02-08T22:25:48.450Z,"Hawaii region, Hawaii",earthquake,0.69,0.829999983,0.930000007,13,automatic,hv,hv
