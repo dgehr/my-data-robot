@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-10T05:38:26.998Z,62.1894,-150.1299,62.3,1.5,ml,,,,0.29,ak,ak0231vw8lkb,2023-02-10T05:40:14.349Z,"14 km WNW of Susitna North, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-02-10T05:30:02.040Z,38.8323326,-122.805336,1.26,0.82,md,10,66,0.009661,0.01,nc,nc73844396,2023-02-10T05:31:34.865Z,"7km W of Cobb, CA",earthquake,0.28,1.25,0.22,11,automatic,nc,nc
 2023-02-10T05:29:01.570Z,38.8321648,-122.8056641,1.63,0.95,md,13,93,0.00941,0.02,nc,nc73844391,2023-02-10T05:30:34.887Z,"7km W of Cobb, CA",earthquake,0.26,0.7,0.23,13,automatic,nc,nc
 2023-02-10T05:18:08.100Z,38.8375015,-122.7839966,1.71,0.67,md,9,76,0.005039,0.02,nc,nc73844386,2023-02-10T05:34:10.811Z,"6km WNW of Cobb, CA",earthquake,0.41,0.86,0.22,8,automatic,nc,nc
 2023-02-10T05:13:08.820Z,38.8321648,-122.8054962,1.55,1.33,md,21,47,0.009459,0.01,nc,nc73844381,2023-02-10T05:30:13.023Z,"7km W of Cobb, CA",earthquake,0.19,0.4,0.13,21,automatic,nc,nc
 2023-02-10T05:08:11.060Z,35.5976667,-117.4266667,6.12,0.9,ml,11,177,0.08849,0.15,ci,ci40412976,2023-02-10T05:11:45.761Z,"19km S of Searles Valley, CA",earthquake,0.63,1.94,0.121,10,automatic,ci,ci
-2023-02-10T04:59:36.630Z,31.6765052,-104.5410803,5.514575195,2.5,ml,21,80,0.03526477032,0.2,tx,tx2023cvma,2023-02-10T05:15:05.771Z,"57 km SSW of Whites City, New Mexico",earthquake,1.175670519,0.4944365703,0.1,11,reviewed,tx,tx
+2023-02-10T04:59:36.630Z,31.6765052,-104.5410803,5.514575195,2.5,ml,21,80,0.03526477032,0.2,tx,tx2023cvma,2023-02-10T05:38:02.040Z,"57 km SSW of Whites City, New Mexico",earthquake,1.175670519,0.4944365703,0.1,11,reviewed,tx,tx
 2023-02-10T04:50:24.897Z,38.175,38.1644,10,4.8,mb,55,79,1.255,0.76,us,us6000jn0h,2023-02-10T05:06:09.040Z,"15 km SSW of Yeşilyurt, Turkey",earthquake,4.12,1.87,0.1,31,reviewed,us,us
 2023-02-10T04:44:11.405Z,48.8668,153.6963,105.885,4.4,mb,36,135,5.207,0.77,us,us6000jn0j,2023-02-10T05:32:54.040Z,"266 km SW of Severo-Kuril’sk, Russia",earthquake,6.98,8.232,0.112,23,reviewed,us,us
 2023-02-10T04:42:46.828Z,32.74932861,-100.6508432,7.898885091,2.8,ml,16,57,0.07743732085,0.1,tx,tx2023cvll,2023-02-10T05:13:18.040Z,"16 km NE of Hermleigh, Texas",earthquake,0.6154421092,1.026597284,0.1,9,reviewed,tx,tx
@@ -244,6 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-09T05:42:51.240Z,56.9116666666667,-158.05,1.91,0.88,ml,4,270,,0.08,av,av91088163,2023-02-10T03:44:19.670Z,"35 km E of Port Heiden, Alaska",earthquake,0.68,1.58,0.484496090575776,4,reviewed,av,av
 2023-02-09T05:42:18.350Z,56.912,-158.067666666667,2.42,-0.59,ml,4,256,,0.1,av,av91088158,2023-02-10T03:40:03.320Z,"34 km E of Port Heiden, Alaska",earthquake,0.71,1.37,0.244564647476663,4,reviewed,av,av
 2023-02-09T05:41:57.990Z,56.9143333333333,-158.037833333333,0.89,0.24,ml,4,277,,0.07,av,av91088153,2023-02-10T03:37:41.710Z,"36 km E of Port Heiden, Alaska",earthquake,0.7,3.49,0.559756222927628,4,reviewed,av,av
-2023-02-09T05:40:13.160Z,35.5033333,-118.3856667,8.25,0.92,ml,18,84,0.1746,0.08,ci,ci40412512,2023-02-09T15:49:15.648Z,"14km SE of Bodfish, CA",earthquake,0.16,0.75,0.125,11,reviewed,ci,ci
-2023-02-09T05:37:35.117Z,38.2127,38.1982,17.431,4.1,mb,27,104,1.302,0.61,us,us6000jmnc,2023-02-09T06:30:37.040Z,"10 km SSW of Yeşilyurt, Turkey",earthquake,5.19,5.117,0.262,5,reviewed,us,us
-2023-02-09T05:36:42.310Z,33.5128333,-116.4553333,7.17,0.17,ml,17,101,0.07732,0.13,ci,ci40412504,2023-02-09T15:35:06.383Z,"21km ESE of Anza, CA",earthquake,0.25,0.89,0.127,9,reviewed,ci,ci
