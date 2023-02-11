@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-11T10:16:50.750Z,38.8408318,-122.8081665,2.71,1.03,md,18,54,0.01413,0.04,nc,nc73844921,2023-02-11T10:18:25.883Z,"8km WNW of Cobb, CA",earthquake,0.29,0.7,0.08,17,automatic,nc,nc
+2023-02-11T10:35:02.300Z,38.8233337,-122.8450012,2.31,0.67,md,11,77,0.01018,0.01,nc,nc73844926,2023-02-11T10:36:35.884Z,"9km WNW of The Geysers, CA",earthquake,0.35,0.68,0.42,14,automatic,nc,nc
+2023-02-11T10:16:50.750Z,38.8408318,-122.8081665,2.71,1.03,md,18,54,0.01413,0.04,nc,nc73844921,2023-02-11T10:30:10.489Z,"8km WNW of Cobb, CA",earthquake,0.29,0.7,0.08,17,automatic,nc,nc
 2023-02-11T10:00:42.065Z,-21.3964,-68.7248,148.575,4.4,mb,21,68,0.794,0.67,us,us6000jnae,2023-02-11T10:22:34.040Z,"Antofagasta, Chile",earthquake,6.31,6.999,0.22,6,reviewed,us,us
 2023-02-11T09:49:38.370Z,38.8240013,-122.7941666,2.73,1.08,md,20,60,0.01244,0.02,nc,nc73844916,2023-02-11T10:03:11.335Z,"6km NNW of The Geysers, CA",earthquake,0.26,0.51,0.09,23,automatic,nc,nc
 2023-02-11T09:31:31.106Z,59.2419,-152.4003,71.2,2.2,ml,,,,0.84,ak,ak0231xm46s6,2023-02-11T09:34:32.380Z,"30 km WSW of Nanwalek, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -214,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-10T10:46:41.340Z,44.7803333,-110.8128333,5.23,1.59,ml,17,97,0.02799,0.15,uu,uu60530816,2023-02-10T16:02:59.810Z,"Wyoming",earthquake,0.43,1.09,0.302,3,reviewed,uu,uu
 2023-02-10T10:45:10.142Z,-20.207,-69.2005,107.735,4.4,mb,19,85,0.536,0.67,us,us6000jn2c,2023-02-10T14:03:04.040Z,"99 km E of Iquique, Chile",earthquake,4.38,5.807,0.24,5,reviewed,us,us
 2023-02-10T10:43:50.230Z,18.0478333333333,-65.4041666666667,17.67,2.53,md,6,229,0.09841,0.14,pr,pr71395828,2023-02-10T11:13:39.300Z,"8 km SE of Esperanza, Puerto Rico",earthquake,1.31,0.76,0.162493768336527,5,reviewed,pr,pr
-2023-02-10T10:35:39.670Z,44.7941667,-110.9628333,9.56,1.25,ml,13,117,0.04654,0.13,uu,uu60530811,2023-02-10T16:05:36.450Z,"18 km E of Hebgen Lake Estates, Montana",earthquake,0.44,0.71,0.195,2,reviewed,uu,uu
