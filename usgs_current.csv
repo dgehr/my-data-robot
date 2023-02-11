@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-11T23:35:16.164Z,59.4695,-146.5396,34.5,2.3,ml,,,,0.72,ak,ak0231xuh2yo,2023-02-11T23:38:05.765Z,"106 km SE of Chenega, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-02-11T23:27:48.220Z,38.7910004,-122.7628326,2.56,0.34,md,7,97,0.009915,0.01,nc,nc73845116,2023-02-11T23:29:24.041Z,"2km NNW of The Geysers, CA",earthquake,0.66,1.12,0.1,6,automatic,nc,nc
 2023-02-11T23:27:30.070Z,38.8351669,-122.7904968,0.99,0.76,md,7,82,0.00324,0.02,nc,nc73845111,2023-02-11T23:29:04.038Z,"6km WNW of Cobb, CA",earthquake,0.35,1.73,0.12,9,automatic,nc,nc
 2023-02-11T23:20:05.480Z,17.9503333333333,-66.5171666666667,13.04,2.38,md,12,102,0.06433,0.17,pr,pr71395973,2023-02-11T23:29:36.010Z,"5 km SSW of Potala Pastillo, Puerto Rico",earthquake,0.39,0.3,0.129204720012783,6,reviewed,pr,pr
