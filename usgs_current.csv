@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-12T18:43:22.560Z,61.7564,-151.5213,73.5,2.2,ml,,,,0.62,ak,ak0231zf2znk,2023-02-12T18:46:07.020Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-02-12T18:42:21.660Z,38.7926674,-122.7718353,2.48,1.01,md,16,52,0.01236,0.02,nc,nc73845401,2023-02-12T18:43:58.759Z,"2km NW of The Geysers, CA",earthquake,0.28,0.55,0.22,15,automatic,nc,nc
 2023-02-12T18:40:49.744Z,64.3265,-146.8448,7.6,2.2,ml,,,,0.77,ak,ak0231zf2elq,2023-02-12T18:42:49.769Z,"12 km WSW of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-12T18:35:00.078Z,61.9077,-144.0815,7.1,1.7,ml,,,,0.44,ak,ak0231zf186v,2023-02-12T18:37:01.689Z,"47 km NNE of Chitina, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -32,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-12T15:40:48.088Z,35.1460228,-97.57754517,0.8110325933,1.86,ml,10,71.25426865,0.08598297089,0.65520374,ok,ok2023czye,2023-02-12T15:49:10.261Z,"4 km N of Cole, Oklahoma",earthquake,3.386821745,2.944506267,,8,automatic,ok,ok
 2023-02-12T15:35:18.819Z,63.1698,-150.5842,120.8,1.7,ml,,,,0.27,ak,ak0231zd8ytl,2023-02-12T15:37:42.441Z,"70 km SE of Denali National Park, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-02-12T15:34:40.850Z,19.1323337554932,-155.363998413086,29.3299999237061,1.76999998,md,31,226,,0.119999997,hv,hv73323317,2023-02-12T15:37:47.430Z,"Hawaii region, Hawaii",earthquake,0.73,0.959999979,1.76999998,4,automatic,hv,hv
-2023-02-12T15:30:32.500Z,40.3989983,-124.3525009,20.01,3.17,ml,18,223,0.07734,0.08,nc,nc73845301,2023-02-12T18:19:12.454Z,"10km NW of Petrolia, CA",earthquake,1.02,0.35,0.28,10,automatic,nc,nc
+2023-02-12T15:30:32.500Z,40.3989983,-124.3525009,20.01,3.17,ml,18,223,0.07734,0.08,nc,nc73845301,2023-02-12T18:45:08.787Z,"10km NW of Petrolia, CA",earthquake,1.02,0.35,0.28,10,automatic,nc,nc
 2023-02-12T15:19:36.199Z,32.7792,141.7648,24.929,4.5,mb,17,156,1.674,0.6,us,us6000jng8,2023-02-12T17:14:54.040Z,"294 km SSE of Katsuura, Japan",earthquake,11.02,7.318,0.191,8,reviewed,us,us
 2023-02-12T15:11:43.080Z,34.0448333,-118.5421667,17.21,1.18,ml,7,172,0.1254,0.32,ci,ci40413816,2023-02-12T15:15:11.568Z,"6km WNW of Santa Monica, CA",earthquake,1.54,4.09,0.35,20,automatic,ci,ci
 2023-02-12T15:09:16.440Z,38.8173332,-122.8065033,3.11,1.08,md,20,50,0.006665,0.02,nc,nc73845296,2023-02-12T15:42:14.448Z,"6km NW of The Geysers, CA",earthquake,0.25,0.63,0.16,21,automatic,nc,nc
