@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-12T14:50:13.435Z,64.9476,-149.033,17.9,1.2,ml,,,,0.44,ak,ak0231zcqqjj,2023-02-12T14:53:26.135Z,"27 km SSE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-12T14:40:40.301Z,59.9009,-151.6558,64.6,1.7,ml,,,,0.45,ak,ak0231zconge,2023-02-12T14:42:56.341Z,"6 km SE of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-02-12T14:37:13.235Z,60.0666,-152.8027,103.6,2.6,ml,,,,0.3,ak,ak0231zcny7v,2023-02-12T14:40:12.412Z,"61 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-12T14:20:31.706Z,60.3062,-146.8569,8.1,2.1,ml,,,,0.43,ak,ak0231zckcgy,2023-02-12T14:22:18.393Z,"62 km S of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
