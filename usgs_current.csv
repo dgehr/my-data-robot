@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-13T06:55:22.840Z,38.8073349,-122.8478317,10.82,0.5,md,7,147,0.01288,0.05,nc,nc73845626,2023-02-13T06:56:59.529Z,"9km WNW of The Geysers, CA",earthquake,3.22,7.23,0.27,8,automatic,nc,nc
+2023-02-13T06:53:23.850Z,38.8339996,-122.8130035,1.71,0.97,md,13,56,0.01083,0.01,nc,nc73845621,2023-02-13T06:54:59.535Z,"8km W of Cobb, CA",earthquake,0.3,0.65,0.28,12,automatic,nc,nc
+2023-02-13T06:53:11.930Z,38.7878342,-122.7655029,2.6,0.77,md,9,90,0.01355,0.01,nc,nc73845616,2023-02-13T06:54:49.521Z,"1km NW of The Geysers, CA",earthquake,0.43,0.98,0.06,7,automatic,nc,nc
 2023-02-13T06:37:33.932Z,61.8505,-149.881,59.3,1.6,ml,,,,0.4,ak,ak02320vfvgx,2023-02-13T06:39:34.269Z,"14 km NE of Willow, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-02-13T06:22:31.742Z,63.5838,-149.1738,13.2,1.5,ml,,,,0.45,ak,ak02320vcnk6,2023-02-13T06:24:59.770Z,"21 km SW of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-13T06:15:06.980Z,19.056999206543,-155.415161132812,35.2799987792969,2.45,ml,36,204,,0.170000002,hv,hv73323592,2023-02-13T06:20:48.320Z,"17 km E of Naalehu, Hawaii",earthquake,0.7,1.12,3.48,7,automatic,hv,hv
