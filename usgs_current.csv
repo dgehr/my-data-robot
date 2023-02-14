@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-14T23:25:40.820Z,34.1386681,-117.4283371,5.83,1.28,ml,16,124,0.09078,0.21,ci,ci40414704,2023-02-14T23:27:50.536Z,"5km NNE of Fontana, CA",earthquake,0.62,1.87,0.235,15,automatic,ci,ci
+2023-02-14T23:26:46.820Z,19.2516670227051,-155.396499633789,29.7800006866455,1.72000003,md,22,177,,0.119999997,hv,hv73324662,2023-02-14T23:32:19.270Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.91,0.99000001,1.80999994,4,automatic,hv,hv
+2023-02-14T23:25:40.540Z,34.1473333,-117.4318333,10.97,1.15,ml,18,91,0.08241,0.25,ci,ci40414704,2023-02-14T23:29:11.939Z,"6km NNE of Fontana, CA",earthquake,0.49,0.9,0.255,28,automatic,ci,ci
 2023-02-14T23:21:37.620Z,38.840168,-122.8221664,2.1,1.16,md,22,84,0.01052,0.02,nc,nc73846491,2023-02-14T23:23:14.015Z,"9km WNW of Cobb, CA",earthquake,0.22,0.49,0.21,22,automatic,nc,nc
+2023-02-14T23:14:01.639Z,38.5556,37.4549,2.628,4.2,mb,49,65,0.872,0.89,us,us6000jnzr,2023-02-14T23:31:58.040Z,"Central Turkey",earthquake,4.71,4.089,0.108,24,reviewed,us,us
 2023-02-14T23:13:52.200Z,64.0234,-148.7974,0,1.8,ml,,,,0.41,ak,ak02322syhh0,2023-02-14T23:15:43.989Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-14T23:05:24.164Z,-23.7928,-179.9689,528.28,4.7,mb,35,123,5.122,0.82,us,us6000jnzm,2023-02-14T23:24:57.040Z,"south of the Fiji Islands",earthquake,8.98,9.831,0.101,30,reviewed,us,us
 2023-02-14T22:54:13.420Z,44.7835,-110.8123333,6.43,0.66,md,14,183,0.0276,0.21,uu,uu60531221,2023-02-14T23:04:06.180Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.61,1,0.214,7,reviewed,uu,uu
