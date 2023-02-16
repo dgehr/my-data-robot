@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-16T16:54:51.460Z,35.8835,-117.6536667,4.23,1.46,ml,14,106,0.06703,0.14,ci,ci40415344,2023-02-16T16:58:26.526Z,"24km ESE of Little Lake, CA",earthquake,0.24,0.57,0.115,14,automatic,ci,ci
+2023-02-16T16:54:05.189Z,60.5519,-151.053,52.5,1.6,ml,,,,0.61,ak,ak0232603tye,2023-02-16T16:56:24.480Z,"2 km NE of Ridgeway, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-02-16T16:51:54.397Z,64.6798,-149.6597,17.6,1.1,ml,,,,0.63,ak,ak0232603alr,2023-02-16T16:53:49.798Z,"27 km WNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-16T16:40:54.385Z,57.0823,-157.3581,2.3,2.5,ml,,,,0.52,ak,ak0232600xq6,2023-02-16T16:43:05.493Z,"48 km S of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-16T16:29:41.580Z,38.8338318,-122.7921677,1.65,0.73,md,9,86,0.004787,0.01,nc,nc73847321,2023-02-16T16:46:12.607Z,"6km WNW of Cobb, CA",earthquake,0.41,1.2,0.4,9,automatic,nc,nc
 2023-02-16T16:29:22.210Z,33.673,-116.7753333,9.86,0.84,ml,25,57,0.06364,0.17,ci,ci40415336,2023-02-16T16:33:00.371Z,"9km SW of Idyllwild, CA",earthquake,0.31,0.56,0.183,25,automatic,ci,ci
@@ -67,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-16T07:33:43.100Z,38.7955017,-122.7623367,2.36,0.87,md,13,61,0.005512,0.02,nc,nc73847171,2023-02-16T08:00:11.417Z,"2km NNW of The Geysers, CA",earthquake,0.28,0.59,0.16,12,automatic,nc,nc
 2023-02-16T07:32:15.860Z,38.8231659,-122.8563309,2.14,1.03,md,17,117,0.004393,0.02,nc,nc73847166,2023-02-16T07:54:10.376Z,"10km WNW of The Geysers, CA",earthquake,0.3,0.38,0.29,18,automatic,nc,nc
 2023-02-16T07:31:12.243Z,62.7601,-149.5177,67.2,1.6,ml,,,,0.55,ak,ak02325um0l4,2023-02-16T07:32:58.407Z,"Central Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-02-16T07:30:50.520Z,33.199,-115.5888333,2.93,2.12,ml,35,89,0.03109,0.19,ci,ci40415184,2023-02-16T07:35:01.379Z,"8km SW of Niland, CA",earthquake,0.28,0.34,0.152,26,automatic,ci,ci
+2023-02-16T07:30:50.500Z,33.199,-115.586,3.69,2.19,ml,43,89,0.03285,0.18,ci,ci40415184,2023-02-16T16:55:37.511Z,"8km SW of Niland, CA",earthquake,0.19,0.2,0.168,55,reviewed,ci,ci
 2023-02-16T07:30:49.090Z,38.8233337,-122.8553314,2.26,0.29,md,9,136,0.004374,0.01,nc,nc73847161,2023-02-16T08:38:14.656Z,"10km WNW of The Geysers, CA",earthquake,0.46,0.93,0.15,9,automatic,nc,nc
 2023-02-16T07:26:25.570Z,35.9846649,-120.5471649,2.41,1.83,md,19,52,0.01083,0.07,nc,nc73847156,2023-02-16T10:36:15.377Z,"14km NW of Parkfield, CA",earthquake,0.24,0.43,0.15,10,automatic,nc,nc
 2023-02-16T07:23:08.060Z,33.1825,-115.6483333,7.33,1.48,ml,6,226,0.02161,0.25,ci,ci40415168,2023-02-16T15:53:47.884Z,"14km WSW of Niland, CA",earthquake,2.07,1.08,0.213,4,reviewed,ci,ci
