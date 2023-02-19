@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-19T02:05:11.212Z,57.951,-155.9674,37.6,1.7,ml,,,,0.62,ak,ak0232aq3bch,2023-02-19T02:07:09.530Z,"Alaska Peninsula",earthquake,,1.5,,,automatic,ak,ak
 2023-02-19T02:01:36.990Z,38.8163338,-122.8058319,3.03,1.43,md,31,39,0.007791,0.02,nc,nc73848416,2023-02-19T02:19:13.365Z,"6km NW of The Geysers, CA",earthquake,0.2,0.4,0.19,32,automatic,nc,nc
 2023-02-19T01:48:38.869Z,-1.1376,-80.7573,10,4.3,mb,18,231,1.199,0.92,us,us6000jq0w,2023-02-19T02:06:13.040Z,"near the coast of Ecuador",earthquake,6.97,1.986,0.306,3,reviewed,us,us
-2023-02-19T01:46:57.197Z,59.3918,-153.0384,81.9,4,ml,,,,0.58,ak,ak0232apqri0,2023-02-19T02:29:08.069Z,"63 km W of Nanwalek, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2023-02-19T01:46:57.197Z,59.3918,-153.0384,81.9,4,ml,,,,0.58,ak,ak0232apqri0,2023-02-19T03:25:06.035Z,"63 km W of Nanwalek, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-02-19T01:43:42.693Z,61.6866,-150.134,33.4,1.7,ml,,,,0.59,ak,ak0232apq3dp,2023-02-19T01:46:59.049Z,"8 km SW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-19T01:28:34.630Z,32.9893333,-115.9348333,2.83,1.57,ml,31,41,0.1062,0.26,ci,ci40416160,2023-02-19T01:32:11.950Z,"25km SE of Ocotillo Wells, CA",earthquake,0.36,0.79,0.27,26,automatic,ci,ci
 2023-02-19T01:17:05.790Z,38.7854996,-122.7669983,3.28,0.75,md,10,121,0.01479,0.02,nc,nc73848381,2023-02-19T03:21:11.685Z,"1km NW of The Geysers, CA",earthquake,0.44,1,0.23,13,automatic,nc,nc
