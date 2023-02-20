@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-20T10:46:05.133Z,60.1013,-151.2232,23.1,1.5,ml,,,,0.71,ak,ak0232cimwkh,2023-02-20T10:48:11.790Z,"17 km SSE of Clam Gulch, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-02-20T10:43:34.570Z,38.7751656,-122.7296677,1.35,1.05,md,11,131,0.009766,0.04,nc,nc73848926,2023-02-20T10:45:08.654Z,"2km E of The Geysers, CA",earthquake,0.45,0.59,0.13,9,automatic,nc,nc
+2023-02-20T10:42:06.560Z,35.1866684,-120.7306671,4.43,1.58,md,9,171,0.0623,0.05,nc,nc73848921,2023-02-20T10:46:54.791Z,"1km N of Avila Beach, CA",earthquake,0.48,1.05,0.12,10,automatic,nc,nc
+2023-02-20T10:41:29.740Z,35.1855011,-120.7314987,4.85,2.04,md,16,164,0.06272,0.06,nc,nc73848916,2023-02-20T10:48:10.184Z,"1km N of Avila Beach, CA",earthquake,0.34,0.55,0.14,17,automatic,nc,nc
 2023-02-20T10:26:11.970Z,34.3005,-117.0318333,8.97,1.66,ml,61,43,0.09956,0.17,ci,ci40416808,2023-02-20T10:36:40.380Z,"12km NE of Running Springs, CA",earthquake,0.2,0.5,0.184,25,automatic,ci,ci
 2023-02-20T10:13:22.640Z,33.2986667,-116.771,12.15,0.87,ml,35,38,0.06335,0.16,ci,ci40416800,2023-02-20T10:16:53.475Z,"6km N of Lake Henshaw, CA",earthquake,0.2,0.69,0.13,23,automatic,ci,ci
 2023-02-20T10:02:44.738Z,60.3705,-153.1793,152.3,2.2,ml,,,,0.56,ak,ak0232cidk5l,2023-02-20T10:06:31.773Z,"65 km ENE of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
