@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-21T13:44:26.090Z,33.9993333,-116.7905,17.39,1.05,ml,34,72,0.0385,0.23,ci,ci40417472,2023-02-21T13:47:57.287Z,"9km N of Cabazon, CA",earthquake,0.35,0.72,0.149,28,automatic,ci,ci
 2023-02-21T13:28:21.370Z,35.1091667,-117.5231667,0.17,1.39,ml,18,136,0.2081,0.23,ci,ci40417464,2023-02-21T13:31:57.034Z,"17km NE of Boron, CA",earthquake,0.44,31.61,0.179,27,automatic,ci,ci
 2023-02-21T13:27:40.310Z,33.3483333,-116.837,16.94,0.49,ml,18,50,0.1298,0.16,ci,ci40417456,2023-02-21T13:31:26.351Z,"3km ESE of Palomar Observatory, CA",earthquake,0.34,0.89,0.24,8,automatic,ci,ci
 2023-02-21T13:25:36.520Z,35.3453333,-118.5631667,7.73,1.47,ml,24,75,0.1283,0.16,ci,ci40417448,2023-02-21T13:36:26.350Z,"26km NNW of Tehachapi, CA",earthquake,0.23,1.31,0.161,23,automatic,ci,ci
@@ -189,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-20T14:24:35.410Z,33.3836667,-117.088,0.29,1.27,ml,14,95,0.1544,0.24,ci,ci40416896,2023-02-20T14:28:12.946Z,"2km NNW of Pala, CA",earthquake,0.77,31.61,0.316,15,automatic,ci,ci
 2023-02-20T14:13:12.256Z,-23.4178,-69.1114,103.452,4.1,mb,14,104,0.826,0.79,us,us6000jqad,2023-02-20T14:45:44.040Z,"108 km S of Calama, Chile",earthquake,5.3,5.364,0.524,1,reviewed,us,us
 2023-02-20T14:06:18.870Z,19.1944999694824,-155.451995849609,31.3600006103516,2.23000002,md,38,121,,0.119999997,hv,hv73327927,2023-02-20T14:09:35.310Z,"2 km ESE of Pāhala, Hawaii",earthquake,0.67,0.839999974,1.07000005,25,automatic,hv,hv
-2023-02-20T13:48:19.770Z,39.1476669,-123.2633362,1.87,2.3,md,18,62,0.06501,0.09,nc,nc73848971,2023-02-21T05:22:52.093Z,"5km W of Ukiah, CA",earthquake,0.26,10.43,0.14,17,automatic,nc,nc
