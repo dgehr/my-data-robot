@@ -188,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-20T15:58:02.862Z,-20.7666,-67.9306,176.616,4,mb,20,68,1.481,0.96,us,us6000jqb0,2023-02-20T16:38:33.040Z,"116 km WSW of Colchani, Bolivia",earthquake,5.91,12.19,0.231,5,reviewed,us,us
 2023-02-20T15:57:41.220Z,32.9671667,-115.5361667,6.26,1.72,ml,26,87,0.06869,0.26,ci,ci40416920,2023-02-20T16:08:44.860Z,"1km SSW of Brawley, CA",earthquake,0.45,1.59,0.213,27,automatic,ci,ci
 2023-02-20T15:50:14.150Z,33.2668333,-116.3061667,9.65,1.01,ml,30,55,0.08591,0.18,ci,ci40416912,2023-02-20T15:53:42.383Z,"6km E of Borrego Springs, CA",earthquake,0.3,0.72,0.183,23,automatic,ci,ci
-2023-02-20T15:39:40.533Z,60.3911,-152.6681,87.5,1.7,ml,,,,0.45,ak,ak0232clknb9,2023-02-20T15:41:42.957Z,"67 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
