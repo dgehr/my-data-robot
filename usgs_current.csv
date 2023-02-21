@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-21T16:28:33.430Z,38.7980003,-122.751503,1.55,1.3,md,20,96,0.006929,0.02,nc,nc73849396,2023-02-21T18:51:11.541Z,"2km N of The Geysers, CA",earthquake,0.25,0.43,0.22,19,automatic,nc,nc
 2023-02-21T16:15:52.372Z,-6.2269,130.104,10.47,5,mb,83,64,1.705,1.09,us,us6000jqku,2023-02-21T16:35:43.040Z,"Banda Sea",earthquake,6.08,4.62,0.077,54,reviewed,us,us
 2023-02-21T16:15:24.126Z,61.6426,-150.9138,61.1,2.4,ml,,,,0.61,ak,ak0232e9k8yk,2023-02-21T17:10:59.040Z,"23 km WNW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-02-21T16:11:53.730Z,62.2572,-150.1633,17.4,1.4,ml,,,,0.53,ak,ak0232e9jgdp,2023-02-21T16:13:58.668Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-02-21T16:11:53.730Z,62.2572,-150.1633,17.4,1.4,ml,,,,0.53,ak,ak0232e9jgdp,2023-02-21T16:13:58.668Z,"7 km SSE of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-21T16:06:49.627Z,36.2043,36.0917,10,4.2,mb,38,218,1.319,0.77,us,us6000jqkr,2023-02-21T17:13:49.085Z,"1 km ESE of Toygarlı, Turkey",earthquake,4.28,1.957,0.146,13,reviewed,us,us
 2023-02-21T15:58:15.950Z,33.2645,-116.4208333,4.69,0.96,ml,32,78,0.004805,0.2,ci,ci40417552,2023-02-21T17:58:41.133Z,"4km WNW of Borrego Springs, CA",earthquake,0.36,0.62,0.129,25,reviewed,ci,ci
 2023-02-21T15:57:59.408Z,58.0604,-155.5576,21.7,1.1,ml,,,,0.62,ak,ak0232e97w5g,2023-02-21T15:59:38.196Z,"85 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -194,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-20T20:52:15.430Z,34.4473333,-117.9636667,16.19,1.27,ml,16,59,0.007009,0.34,ci,ci40417048,2023-02-20T20:55:48.560Z,"8km SW of Pearblossom, CA",earthquake,0.75,1.28,0.369,21,automatic,ci,ci
 2023-02-20T20:50:18.440Z,33.2401667,-116.1056667,3.95,1.4,ml,37,71,0.0991,0.25,ci,ci40417040,2023-02-20T21:00:59.520Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.31,1.49,0.146,26,automatic,ci,ci
 2023-02-20T20:46:44.290Z,19.2466659545898,-155.394836425781,33,2.32,ml,37,144,,0.129999995,hv,hv73328162,2023-02-20T21:04:57.040Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.6,1.03999996,4.03,5,automatic,hv,hv
-2023-02-20T20:42:30.052Z,56.6258,-158.7026,100.1,2.1,ml,,,,0.57,ak,ak0232cokg3u,2023-02-21T00:18:43.502Z,"35 km S of Port Heiden, Alaska",earthquake,,0.4,,,reviewed,ak,ak
