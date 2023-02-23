@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-23T15:31:03.440Z,38.8419991,-122.8786697,2.25,0.62,md,8,112,0.008098,0.02,nc,nc73850666,2023-02-23T15:32:37.664Z,"13km ENE of Cloverdale, CA",earthquake,0.39,0.79,0.49,9,automatic,nc,nc
 2023-02-23T15:23:32.140Z,19.2021675109863,-155.481002807617,31.7299995422363,2.17,ml,40,84,,0.109999999,hv,hv73329377,2023-02-23T15:29:02.560Z,"0 km WSW of Pāhala, Hawaii",earthquake,0.64,0.730000019,5.27,3,automatic,hv,hv
 2023-02-23T14:16:35.670Z,19.1415004730225,-155.493667602539,33.0800018310547,1.94000006,md,28,211,,0.140000001,hv,hv73329332,2023-02-23T14:19:36.330Z,"6 km SSW of Pāhala, Hawaii",earthquake,1.01,1.13999999,0.959999979,8,automatic,hv,hv
 2023-02-23T14:15:58.378Z,62.407,-151.4109,2.3,1.6,ml,,,,0.66,ak,ak0232hjg5dp,2023-02-23T14:18:01.582Z,"34 km WSW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-23T14:08:27.114Z,55.6457,-158.7198,18.9,3.1,ml,,,,0.75,ak,ak0232hjekyf,2023-02-23T14:21:24.740Z,"39 km SE of Perryville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-23T14:06:05.330Z,17.6995,-66.6931666666667,23.54,2.56,md,11,245,0.2443,0.35,pr,pr71397178,2023-02-23T15:09:08.300Z,"32 km S of Tallaboa, Puerto Rico",earthquake,1.49,3.41,0.24103156836061,6,reviewed,pr,pr
 2023-02-23T13:41:01.783Z,58.7981,-154.4732,122.6,2.5,ml,,,,0.47,ak,ak0232hj062v,2023-02-23T13:42:58.177Z,"73 km SSE of Kokhanok, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-02-23T13:30:25.710Z,33.7973333,-118.4023333,13.49,1.63,ml,16,118,0.05375,0.38,ci,ci40418056,2023-02-23T15:23:21.813Z,"1km WSW of Palos Verdes Estates, CA",earthquake,1.18,1.61,0.189,33,automatic,ci,ci
+2023-02-23T13:30:25.710Z,33.7973333,-118.4023333,13.49,1.63,ml,16,118,0.05375,0.38,ci,ci40418056,2023-02-23T15:36:32.262Z,"1km WSW of Palos Verdes Estates, CA",earthquake,1.18,1.61,0.189,33,automatic,ci,ci
 2023-02-23T13:18:05.420Z,33.8161667,-118.3671667,7.04,1.93,ml,38,93,0.06042,0.27,ci,ci40418048,2023-02-23T15:00:20.132Z,"3km NE of Palos Verdes Estates, CA",earthquake,0.39,0.9,0.197,25,automatic,ci,ci
 2023-02-23T13:16:39.446Z,63.3061,-145.4859,14.8,0.9,ml,,,,0.58,ak,ak0232hiuw14,2023-02-23T13:22:05.247Z,"24 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-23T13:01:20.909Z,-24.0471,-66.8984,214.011,5.3,mww,53,44,1.603,0.77,us,us6000jr0f,2023-02-23T14:08:36.040Z,"61 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.35,8.195,0.051,37,reviewed,us,us
@@ -126,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-22T21:38:29.484Z,58.1768,-155.2725,0.1,0.6,ml,,,,0.71,ak,ak0232g07pd0,2023-02-22T21:39:55.870Z,"83 km NW of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-02-22T21:18:44.007Z,23.9638,121.7741,8.774,4.4,mb,34,83,0.266,0.51,us,us6000jqwd,2023-02-22T23:06:06.040Z,"17 km E of Hualien City, Taiwan",earthquake,2.29,4.572,0.126,18,reviewed,us,us
 2023-02-22T21:13:48.378Z,60.6213,-151.3374,31,1.5,ml,,,,0.65,ak,ak0232g02dx1,2023-02-22T21:16:13.743Z,"1 km NW of Salamatof, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-02-22T21:09:15.496Z,61.3592,-150.0561,38.8,2.3,ml,,,,0.68,ak,ak0232g01gfy,2023-02-23T00:21:07.389Z,"4 km W of Point MacKenzie, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2023-02-22T21:09:15.496Z,61.3592,-150.0561,38.8,2.3,ml,,,,0.68,ak,ak0232g01gfy,2023-02-23T00:21:07.389Z,"Southern Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2023-02-22T21:08:58.770Z,37.5566667,-118.8676667,7.57,0.74,md,6,218,0.04525,0.03,nc,nc73850341,2023-02-23T09:13:10.518Z,"13km SE of Mammoth Lakes, CA",earthquake,1.41,1.74,0.069,5,reviewed,nc,nc
 2023-02-22T21:05:56.425Z,62.2415,-151.24,72.3,1.6,ml,,,,0.67,ak,ak0232g00ot6,2023-02-22T21:08:09.047Z,"29 km NNE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-22T20:57:42.546Z,61.4513,-150.0808,30.7,1.3,ml,,,,0.5,ak,ak0232fzqdda,2023-02-22T21:00:03.882Z,"10 km SW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -185,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-22T15:48:28.209Z,61.4746,-150.0414,33.4,1.3,ml,,,,0.68,ak,ak0232fwp8sk,2023-02-22T15:50:37.214Z,"6 km SW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-22T15:48:21.690Z,40.5558319,-124.2126694,14.43,3.21,ml,21,177,0.2341,0.12,nc,nc73850141,2023-02-23T00:44:05.211Z,"5km ESE of Ferndale, CA",earthquake,0.78,0.74,0.302,10,automatic,nc,nc
 2023-02-22T15:43:50.270Z,36.9911667,-121.821,11.66,1.54,md,30,87,0.06382,0.12,nc,nc73850136,2023-02-23T04:59:19.119Z,"1km WNW of Corralitos, CA",earthquake,0.3,0.46,0.226,26,reviewed,nc,nc
-2023-02-22T15:35:30.540Z,46.8385,-121.7125,2.49,1.07,ml,12,224,0.01435,0.09,uw,uw61899242,2023-02-22T18:51:07.950Z,"25 km ENE of Ashford, Washington",earthquake,0.59,0.79,0.3115332543898579,5,reviewed,uw,uw
