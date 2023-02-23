@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-23T21:19:22.400Z,38.1523323,-122.2453308,7.59,1.89,md,29,67,0.0769,0.12,nc,nc73850776,2023-02-23T21:20:59.740Z,"3km SSE of American Canyon, CA",earthquake,0.24,0.78,0.1,19,automatic,nc,nc
+2023-02-23T21:01:06.680Z,52.4508,179.2507,12.8,3,ml,,,,0.31,ak,ak0232hnixom,2023-02-23T21:32:24.203Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,13,,,reviewed,ak,ak
 2023-02-23T20:52:44.840Z,36.199,-117.8685,1.45,2.11,ml,22,88,0.082,0.14,ci,ci40418080,2023-02-23T21:15:54.178Z,"15km SE of Olancha, CA",earthquake,0.2,0.33,0.11,22,reviewed,ci,ci
 2023-02-23T20:37:12.345Z,64.8512,-147.427,16.8,1.1,ml,,,,0.26,ak,ak0232hn5d5w,2023-02-23T20:42:00.167Z,"7 km NE of Badger, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-23T20:35:13.223Z,58.1766,-155.401,1.2,1.9,ml,,,,0.78,ak,ak0232hn4xtc,2023-02-23T20:37:06.043Z,"87 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
