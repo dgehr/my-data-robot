@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-24T20:40:41.900Z,19.4148330688477,-155.279327392578,7.94000005722046,2.70000005,md,17,72,,0.159999996,hv,hv73330202,2023-02-24T20:44:02.350Z,"5 km WSW of Volcano, Hawaii",earthquake,0.83,0.49000001,1.25,7,automatic,hv,hv
+2023-02-24T20:40:41.900Z,19.4148330688477,-155.279327392578,7.94000005722046,1.71,ml,17,72,,0.159999996,hv,hv73330202,2023-02-24T20:46:12.480Z,"5 km WSW of Volcano, Hawaii",earthquake,0.83,0.49000001,0.24,6,automatic,hv,hv
 2023-02-24T20:38:34.880Z,38.8235016,-122.8000031,-0.53,1.08,md,12,57,0.007867,0.02,nc,nc73851271,2023-02-24T20:40:08.113Z,"6km NW of The Geysers, CA",earthquake,0.2,0.8,0.31,13,automatic,nc,nc
 2023-02-24T20:36:55.560Z,38.788166,-122.7468338,1.38,1.31,md,17,140,0.016,0.03,nc,nc73851261,2023-02-24T20:38:28.381Z,"2km NE of The Geysers, CA",earthquake,0.31,0.49,0.16,19,automatic,nc,nc
 2023-02-24T20:21:38.352Z,58.2362,-155.1851,1.2,0.2,ml,,,,0.08,ak,ak0232jalc97,2023-02-24T20:23:15.373Z,"86 km NNW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
@@ -109,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-24T07:33:17.280Z,37.9123344,-122.2890015,6.35,1.65,md,16,89,0.0481,0.09,nc,nc73851011,2023-02-24T16:58:16.724Z,"1km WNW of Kensington, CA",earthquake,0.35,0.7,0.09,10,automatic,nc,nc
 2023-02-24T07:22:26.750Z,33.7291667,-116.8238333,16.43,0.76,ml,22,167,0.09201,0.14,ci,ci40418248,2023-02-24T17:03:52.070Z,"7km ESE of Valle Vista, CA",earthquake,0.36,0.51,0.164,12,reviewed,ci,ci
 2023-02-24T07:13:46.710Z,38.7868347,-122.7683334,2.07,1.83,md,29,76,0.01533,0.05,nc,nc73850996,2023-02-24T09:57:17.555Z,"2km NW of The Geysers, CA",earthquake,0.22,0.34,0.16,29,automatic,nc,nc
-2023-02-24T07:02:58.599Z,18.5969,-63.3603,35.298,4.5,mwr,91,68,0.608,0.93,us,us6000jr7i,2023-02-24T14:09:34.809Z,"52 km NNW of Sandy Ground Village, Anguilla",earthquake,5.01,5.169,0.043,51,reviewed,us,us
+2023-02-24T07:02:58.599Z,18.5969,-63.3603,35.298,4.5,mwr,91,68,0.608,0.93,us,us6000jr7i,2023-02-24T20:48:24.537Z,"52 km NNW of Sandy Ground Village, Anguilla",earthquake,5.01,5.169,0.043,51,reviewed,us,us
 2023-02-24T07:00:43.995Z,61.475,-148.0107,19,1,ml,,,,0.66,ak,ak0232j2q7sf,2023-02-24T07:12:04.733Z,"41 km SSW of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-24T06:57:14.204Z,60.5438,-151.1788,25.8,1.5,ml,,,,1.1,ak,ak0232j2gxp8,2023-02-24T08:04:25.196Z,"4 km ESE of Kenai, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-24T06:54:28.140Z,33.9825,-116.6265,17.61,1.29,ml,30,49,0.05865,0.09,ci,ci40418240,2023-02-24T18:10:37.820Z,"8km SSW of Morongo Valley, CA",earthquake,0.17,0.4,0.13,24,reviewed,ci,ci
