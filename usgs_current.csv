@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-26T09:45:35.570Z,38.8339996,-122.8180008,1.72,1.27,md,17,77,0.01227,0.02,nc,nc73851921,2023-02-26T09:47:13.224Z,"8km NW of The Geysers, CA",earthquake,0.25,0.55,0.11,18,automatic,nc,nc
+2023-02-26T09:59:55.700Z,19.2528324127197,-155.400665283203,31.7600002288818,2.21000004,md,39,129,,0.140000001,hv,hv73330957,2023-02-26T10:03:00.680Z,"Hawaii region, Hawaii",earthquake,0.59,0.779999971,1.17999995,24,automatic,hv,hv
+2023-02-26T09:45:35.570Z,38.8339996,-122.8180008,1.72,1.27,md,17,77,0.01227,0.02,nc,nc73851921,2023-02-26T10:03:15.069Z,"8km NW of The Geysers, CA",earthquake,0.25,0.55,0.11,18,automatic,nc,nc
 2023-02-26T09:26:06.457Z,65.7815,-147.8909,0,1.6,ml,,,,0.75,ak,ak0232mf59vr,2023-02-26T09:34:42.754Z,"northern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-02-26T09:14:47.883Z,19.1312,121.0896,37.773,4.9,mb,73,116,3.668,0.68,us,us6000jrp8,2023-02-26T09:31:34.040Z,"Babuyan Islands region, Philippines",earthquake,9.11,7.219,0.064,76,reviewed,us,us
 2023-02-26T08:57:38.618Z,59.4772,-151.4414,29.2,1.7,ml,,,,0.32,ak,ak0232meqjs5,2023-02-26T08:59:35.622Z,"11 km E of Seldovia Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -25,6 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-26T05:48:59.189Z,37.7108,-97.2251,1.906,2.3,mb_lg,32,99,0.055,0.5,us,us6000jrnq,2023-02-26T09:40:45.924Z,"4 km NE of Eastborough, Kansas",earthquake,1.43,7.946,0.208,6,reviewed,us,us
 2023-02-26T05:45:43.270Z,35.6386667,-117.4553333,9.43,2.36,ml,26,73,0.1355,0.16,ci,ci40418776,2023-02-26T05:56:39.150Z,"15km SSW of Searles Valley, CA",earthquake,0.29,0.71,0.156,25,automatic,ci,ci
 2023-02-26T05:43:34.770Z,33.7026667,-116.714,16.84,0.92,ml,30,75,0.008479,0.21,ci,ci40418768,2023-02-26T05:47:02.276Z,"4km S of Idyllwild, CA",earthquake,0.39,0.57,0.135,19,automatic,ci,ci
+2023-02-26T05:41:26.876Z,53.3167,-165.1735,41.2,3.4,ml,,,,0.29,ak,ak0232mcut39,2023-02-26T10:00:32.225Z,"99 km SSE of Akutan, Alaska",earthquake,,1.5,,,reviewed,ak,ak
 2023-02-26T05:38:52.674Z,58.2706,-154.8637,12.1,0.7,ml,,,,0.35,ak,ak0232mcu7gh,2023-02-26T05:41:37.711Z,"81 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-26T05:30:15.450Z,38.8468323,-122.8150024,0.63,0.78,md,10,92,0.01018,0.03,nc,nc73851851,2023-02-26T06:03:11.648Z,"8km WNW of Cobb, CA",earthquake,0.3,0.49,0.18,9,automatic,nc,nc
 2023-02-26T05:23:05.552Z,63.2916,-148.8714,80.1,1.5,ml,,,,0.6,ak,ak0232mcqw2j,2023-02-26T05:24:58.946Z,"11 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -35,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-26T04:34:37.180Z,38.8233337,-122.7955017,0.9,0.46,md,8,91,0.01138,0.01,nc,nc73851841,2023-02-26T05:35:15.481Z,"6km NNW of The Geysers, CA",earthquake,0.39,0.86,0.32,8,automatic,nc,nc
 2023-02-26T03:53:02.135Z,5.5632,126.4766,10,4.8,mb,22,121,1.742,0.7,us,us6000jrn6,2023-02-26T04:11:03.040Z,"94 km SSE of Pondaguitan, Philippines",earthquake,6.45,1.885,0.139,19,reviewed,us,us
 2023-02-26T03:45:19.890Z,34.0168333,-116.7683333,16.25,1.07,ml,23,90,0.1023,0.18,ci,ci40418736,2023-02-26T03:49:06.657Z,"11km N of Cabazon, CA",earthquake,0.39,0.76,0.156,28,automatic,ci,ci
-2023-02-26T03:21:19.743Z,-11.2993,165.7764,10,4.9,mb,24,117,4.35,0.57,us,us6000jrn4,2023-02-26T03:39:31.040Z,"63 km S of Lata, Solomon Islands",earthquake,10.65,1.92,0.11,26,reviewed,us,us
+2023-02-26T03:21:19.743Z,-11.2993,165.7764,10,4.9,mb,24,117,4.35,0.57,us,us6000jrn4,2023-02-26T03:39:31.040Z,"Santa Cruz Islands",earthquake,10.65,1.92,0.11,26,reviewed,us,us
 2023-02-26T03:00:28.260Z,36.1856667,-118.0501667,3.08,1.62,ml,11,90,0.1721,0.16,ci,ci40418728,2023-02-26T03:04:15.826Z,"11km SSW of Olancha, CA",earthquake,0.44,2.41,0.277,17,automatic,ci,ci
 2023-02-26T02:26:31.093Z,36.0612,36.0298,10,4.4,mb,36,119,1.459,0.77,us,us6000jrn1,2023-02-26T07:05:47.868Z,"7 km SW of Büyükçat, Turkey",earthquake,6.41,1.926,0.144,14,reviewed,us,us
 2023-02-26T02:24:23.500Z,38.8163338,-122.8068314,3.12,0.78,md,15,48,0.007492,0.02,nc,nc73851826,2023-02-26T04:27:14.022Z,"6km NW of The Geysers, CA",earthquake,0.29,1.17,0.14,18,automatic,nc,nc
@@ -152,8 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-25T10:44:17.330Z,60.2613,-152.468,105.1,1.9,ml,,,,0.19,ak,ak0232ksb8jp,2023-02-25T10:45:59.069Z,"50 km WNW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-02-25T10:34:40.140Z,33.2328333,-116.0975,8.54,1.44,ml,34,71,0.09697,0.22,ci,ci40418544,2023-02-25T10:45:09.930Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.34,1.68,0.138,28,automatic,ci,ci
 2023-02-25T10:32:12.990Z,19.15016746521,-155.363830566406,30.2399997711182,1.83000004,md,28,223,,0.140000001,hv,hv73330552,2023-02-25T10:35:17.280Z,"Hawaii region, Hawaii",earthquake,0.85,0.850000024,1.03999996,3,automatic,hv,hv
-2023-02-25T10:27:12.200Z,37.9941,34.0224,16.466,5.2,mww,101,55,1.67,0.85,us,us6000jriw,2023-02-26T06:48:41.241Z,"19 km ENE of Emirgazi, Turkey",earthquake,5.02,3.928,0.048,41,reviewed,us,us
+2023-02-25T10:27:12.200Z,37.9941,34.0224,16.466,5.2,mww,101,55,1.67,0.85,us,us6000jriw,2023-02-26T09:54:46.118Z,"19 km ENE of Emirgazi, Turkey",earthquake,5.02,3.928,0.048,41,reviewed,us,us
 2023-02-25T10:25:44.492Z,27.1653,126.7673,10,5.1,mb,50,60,1.382,0.56,us,us6000jrix,2023-02-26T01:42:53.878Z,"133 km NW of Ishikawa, Japan",earthquake,7,1.631,0.094,37,reviewed,us,us
 2023-02-25T10:21:42.240Z,38.8113327,-122.7860031,1.29,1.08,md,13,53,0.004578,0.01,nc,nc73851546,2023-02-25T12:49:12.308Z,"5km NW of The Geysers, CA",earthquake,0.27,0.49,0.18,15,automatic,nc,nc
 2023-02-25T10:15:58.770Z,34.0186667,-117.1088333,15.46,1.33,ml,29,56,0.08802,0.19,ci,ci40418536,2023-02-25T10:19:27.862Z,"6km WNW of Calimesa, CA",earthquake,0.28,0.62,0.14,30,automatic,ci,ci
-2023-02-25T10:03:01.440Z,38.8284988,-122.7866669,4.16,0.32,md,8,82,0.0103,0.03,nc,nc73851541,2023-02-25T12:22:13.015Z,"6km W of Cobb, CA",earthquake,0.89,1.8,0.15,7,automatic,nc,nc
