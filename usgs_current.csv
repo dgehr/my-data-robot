@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-28T10:03:54.450Z,19.1590003967285,-155.48616027832,33.3499984741211,2.22000003,md,26,161,,0.119999997,hv,hv73331747,2023-02-28T10:07:00.200Z,"Island of Hawaii, Hawaii",earthquake,1.09,1.27999997,1.08000004,12,automatic,hv,hv
 2023-02-28T10:03:05.094Z,61.3227,-146.7114,16.1,1.1,ml,,,,0.76,ak,ak0232pqoggq,2023-02-28T10:05:32.174Z,"28 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-28T09:53:09.010Z,38.8180008,-122.7633362,1.41,0.82,md,10,171,0.01347,0.03,nc,nc73852811,2023-02-28T10:18:13.303Z,"4km W of Cobb, CA",earthquake,0.33,0.71,0.25,11,automatic,nc,nc
-2023-02-28T09:48:22.200Z,38.8171654,-122.8255005,1.85,0.76,md,12,55,0.008769,0.02,nc,nc73852806,2023-02-28T10:06:12.243Z,"8km NW of The Geysers, CA",earthquake,0.28,0.71,0.45,12,automatic,nc,nc
+2023-02-28T09:48:22.200Z,38.8171654,-122.8255005,1.85,0.76,md,12,55,0.008769,0.02,nc,nc73852806,2023-02-28T11:51:10.900Z,"8km NW of The Geysers, CA",earthquake,0.28,0.71,0.45,12,automatic,nc,nc
 2023-02-28T09:37:25.630Z,38.7908325,-122.7603302,1.96,0.72,md,8,110,0.00979,0.02,nc,nc73852801,2023-02-28T11:37:12.925Z,"2km NNW of The Geysers, CA",earthquake,0.43,1.02,0.03,8,automatic,nc,nc
 2023-02-28T09:17:15.829Z,67.2642,-157.4541,1.5,2.8,ml,,,,0.55,ak,ak0232pq6204,2023-02-28T11:38:44.390Z,"26 km NE of Ambler, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-02-28T08:53:56.050Z,33.6661667,-116.6831667,15.51,0.94,ml,33,59,0.05179,0.19,ci,ci40419456,2023-02-28T08:57:27.098Z,"9km SSE of Idyllwild, CA",earthquake,0.25,0.44,0.14,28,automatic,ci,ci
@@ -184,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-27T12:24:04.850Z,38.8348351,-122.7898331,1.45,0.82,md,9,73,0.003591,0.02,nc,nc73852366,2023-02-27T14:31:12.372Z,"6km WNW of Cobb, CA",earthquake,0.39,1.1,0.3,10,automatic,nc,nc
 2023-02-27T12:08:26.272Z,-21.594,-66.8645,216.914,4.6,mb,48,121,1.819,0.8,us,us6000jrx4,2023-02-27T12:23:31.040Z,"Potosi, Bolivia",earthquake,7.59,3.764,0.073,56,reviewed,us,us
 2023-02-27T12:04:44.740Z,37.8120003,-121.9868317,7.14,1,md,7,180,0.04699,0.03,nc,nc73852361,2023-02-27T14:05:14.084Z,"2km SE of Danville, CA",earthquake,0.55,0.75,0.1,7,automatic,nc,nc
-2023-02-27T11:51:25.740Z,35.2993333,-118.5338333,5.72,1.27,ml,20,67,0.09282,0.2,ci,ci40419192,2023-02-27T11:54:56.192Z,"20km NNW of Tehachapi, CA",earthquake,0.32,1.49,0.218,14,automatic,ci,ci
