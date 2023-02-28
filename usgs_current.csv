@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-28T13:30:51.780Z,35.6108322,-117.4178314,7.54,3.35,ml,64,33,0.09608,0.17,ci,ci40419496,2023-02-28T13:37:51.779Z,"17km SSW of Trona, CA",earthquake,0.21,0.76,0.234,19,reviewed,ci,ci
+2023-02-28T13:30:51.780Z,35.6108322,-117.4178314,7.54,3.35,ml,64,33,0.09608,0.17,ci,ci40419496,2023-02-28T13:42:12.670Z,"17km SSW of Trona, CA",earthquake,0.21,0.76,0.234,19,reviewed,ci,ci
 2023-02-28T13:30:26.750Z,38.8191681,-122.8551636,29.83,1.26,md,12,126,0.01621,0.11,nc,nc73852901,2023-02-28T13:32:01.176Z,"10km WNW of The Geysers, CA",earthquake,4.28,4.05,0.09,8,automatic,nc,nc
 2023-02-28T13:23:06.970Z,19.140832901001,-155.372833251953,31.2199993133545,2.13000011,md,38,184,,0.119999997,hv,hv73331817,2023-02-28T13:26:28.090Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.64,0.99000001,1.16999996,22,automatic,hv,hv
 2023-02-28T13:10:27.010Z,38.8311653,-122.815834,1.76,1.08,md,20,50,0.008969,0.02,nc,nc73852891,2023-02-28T13:28:12.487Z,"8km NW of The Geysers, CA",earthquake,0.21,0.48,0.15,20,automatic,nc,nc
