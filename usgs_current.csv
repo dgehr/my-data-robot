@@ -56,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-02T10:56:20.160Z,39.4121666,-122.9083328,0.29,1.66,md,7,192,0.1745,0.04,nc,nc73854346,2023-03-02T13:05:17.423Z,"4km E of Lake Pillsbury, CA",earthquake,0.66,8.66,0.08,3,automatic,nc,nc
 2023-03-02T10:46:27.630Z,35.8761667,-117.753,9.02,1.13,ml,16,101,0.06815,0.12,ci,ci40420088,2023-03-02T16:49:03.848Z,"15km ESE of Little Lake, CA",earthquake,0.27,0.58,0.112,9,reviewed,ci,ci
 2023-03-02T10:24:28.140Z,61.748,-150.7082,40.3,1.9,ml,,,,0.75,ak,ak0232t1vpj2,2023-03-02T10:26:13.280Z,"25 km NNW of Susitna, Alaska",earthquake,,2.6,,,automatic,ak,ak
-2023-03-02T10:12:07.927Z,61.3857,-149.9625,42.1,1.9,ml,,,,0.82,ak,ak0232t1t3dk,2023-03-02T10:14:57.455Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-03-02T10:12:07.927Z,61.3857,-149.9625,42.1,1.9,ml,,,,0.82,ak,ak0232t1t3dk,2023-03-02T19:30:10.989Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-02T10:10:11.080Z,38.7919998,-122.7613297,1.07,1.03,md,10,63,0.008705,0.02,nc,nc73854331,2023-03-02T12:38:15.272Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.5,0.27,11,automatic,nc,nc
 2023-03-02T10:08:50.690Z,62.9349,-148.1629,62,1,ml,,,,0.28,ak,ak0232t1sanf,2023-03-02T18:14:37.677Z,"Central Alaska",earthquake,,1,,,reviewed,ak,ak
 2023-03-02T09:56:40.758Z,61.1737,-147.308,3,1.8,ml,,,,0.34,ak,ak0232t1h5t7,2023-03-02T10:14:19.870Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -167,5 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-01T20:06:17.300Z,58.1798,-155.2861,1,0.9,ml,,,,0.2,ak,ak0232rk6so8,2023-03-01T23:36:55.647Z,"84 km NW of Karluk, Alaska",earthquake,,0,,,reviewed,ak,ak
 2023-03-01T19:54:01.760Z,38.8266678,-122.8174973,3.05,0.66,md,7,76,0.01415,0.01,nc,nc73854096,2023-03-01T20:13:11.356Z,"8km NW of The Geysers, CA",earthquake,0.58,1.79,0.31,9,automatic,nc,nc
 2023-03-01T19:44:19.460Z,38.7746658,-122.7296677,1.51,1.24,md,11,84,0.01018,0.03,nc,nc73854091,2023-03-01T23:32:12.519Z,"2km E of The Geysers, CA",earthquake,0.37,0.67,0.19,12,automatic,nc,nc
-2023-03-01T19:31:46.580Z,38.8504982,-122.7795029,1.39,1.18,md,14,156,0.008249,0.02,nc,nc73854086,2023-03-01T23:05:15.370Z,"6km WNW of Cobb, CA",earthquake,0.34,0.3,0.43,14,automatic,nc,nc
-2023-03-01T19:29:50.732Z,44.5353,149.5047,35,5,mb,44,92,4.977,0.78,us,us7000jgmv,2023-03-01T19:49:42.040Z,"149 km ESE of Kuril’sk, Russia",earthquake,10.72,1.929,0.061,86,reviewed,us,us
