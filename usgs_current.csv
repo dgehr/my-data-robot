@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-02T18:28:27.820Z,35.12483333,-97.574,7.54,1.81,ml,76,29,0.0674867568,0.4,ok,ok2023ehat,2023-03-02T18:42:16.532Z,"2 km N of Cole, Oklahoma",earthquake,,0.7,0.22,32,reviewed,ok,ok
 2023-03-02T18:11:07.192Z,-14.9109,166.6423,10,5.4,mb,42,45,6.041,0.79,us,us7000jgv8,2023-03-02T18:35:35.800Z,"48 km WNW of Port-Olry, Vanuatu",earthquake,8.52,1.867,0.098,35,reviewed,us,us
 2023-03-02T18:07:09.710Z,33.7256667,-116.0425,9.85,0.95,ml,21,136,0.08025,0.21,ci,ci40420152,2023-03-02T18:10:39.048Z,"13km NE of Thermal, CA",earthquake,0.5,0.98,0.071,17,automatic,ci,ci
-2023-03-02T18:04:29.540Z,-15.4087,166.3656,10,6.5,mww,66,45,5.483,1.38,us,usd000j5jt,2023-03-02T19:12:42.560Z,"86 km WSW of Port-Olry, Vanuatu",earthquake,7.51,1.84,0.042,55,reviewed,us,us
+2023-03-02T18:04:29.540Z,-15.4087,166.3656,10,6.5,mww,66,45,5.483,1.38,us,usd000j5jt,2023-03-02T19:16:59.407Z,"86 km WSW of Port-Olry, Vanuatu",earthquake,7.51,1.84,0.042,55,reviewed,us,us
 2023-03-02T17:51:56.780Z,19.4433326721191,-155.488494873047,9.21000003814697,1.94000006,md,29,84,,0.159999996,hv,hv73332507,2023-03-02T17:54:58.800Z,"26 km N of Pāhala, Hawaii",earthquake,0.6,0.400000006,0.119999997,13,automatic,hv,hv
 2023-03-02T17:09:19.610Z,19.1643333435059,-155.484161376953,36.7000007629395,2.13000011,md,21,254,,0.159999996,hv,hv73332502,2023-03-02T17:12:44.370Z,"4 km S of Pāhala, Hawaii",earthquake,1.65,2.78999996,2.13000011,4,automatic,hv,hv
 2023-03-02T16:52:32.550Z,33.4218333,-116.6005,12.08,1.02,ml,32,40,0.07349,0.16,ci,ci40420136,2023-03-02T17:37:02.358Z,"16km N of Warner Springs, CA",earthquake,0.2,0.55,0.186,14,reviewed,ci,ci
@@ -119,6 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-02T02:27:03.929Z,64.9473,-147.2891,0,1.7,ml,,,,0.89,ak,ak0232sx4tqz,2023-03-02T02:30:02.825Z,"14 km NW of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-02T02:16:26.810Z,38.8026657,-122.7791672,0.93,0.77,md,8,219,0.01064,0.02,nc,nc73854221,2023-03-02T02:33:14.616Z,"3km NW of The Geysers, CA",earthquake,1.11,0.81,0.26,9,automatic,nc,nc
 2023-03-02T02:14:40.350Z,33.4931667,-116.781,4.53,0.8,ml,23,39,0.02506,0.17,ci,ci40420040,2023-03-02T14:58:32.883Z,"10km NE of Aguanga, CA",earthquake,0.22,0.44,0.064,5,reviewed,ci,ci
+2023-03-02T02:05:24.516Z,38.8757,-119.6078,0,0.3,ml,3,296.6,0.018,0.1289,nn,nn00856523,2023-03-02T19:17:37.551Z,"3 km ENE of Carter Springs, Nevada",earthquake,,0,0,1,reviewed,nn,nn
 2023-03-02T01:39:17.210Z,38.8346672,-122.7896652,1.58,0.28,md,9,86,0.003774,0.01,nc,nc73854211,2023-03-02T01:53:12.376Z,"6km WNW of Cobb, CA",earthquake,0.38,0.98,0.2,10,automatic,nc,nc
 2023-03-02T01:30:28.465Z,-5.9874,146.3809,92.877,5,mb,43,118,3.482,0.66,us,us7000jgq8,2023-03-02T03:08:00.296Z,"66 km ENE of Kainantu, Papua New Guinea",earthquake,11.21,8.214,0.072,61,reviewed,us,us
 2023-03-02T01:27:12.800Z,61.2413,-144.9235,23.2,1.9,ml,,,,0.33,ak,ak0232swjf1s,2023-03-02T01:29:06.041Z,"40 km SW of Chitina, Alaska",earthquake,,0.5,,,automatic,ak,ak
