@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-02T06:05:22.840Z,19.33,-155.202,3.23,2.73,ml,39,82,,0.11,hv,hv73332377,2023-03-02T06:46:56.970Z,"12 km SSE of Volcano, Hawaii",earthquake,0.22,0.87,0.161256997406412,27,reviewed,hv,hv
 2023-03-02T05:51:53.260Z,58.1888333333333,-155.27,2.07,0.2,ml,4,171,,0.02,av,av91779191,2023-03-02T19:12:43.570Z,"84 km NW of Karluk, Alaska",earthquake,0.37,1.23,0.288142178919406,4,reviewed,av,av
 2023-03-02T05:48:21.817Z,61.0636,-151.0251,53.4,2,ml,,,,0.59,ak,ak0232sz1o79,2023-03-02T05:50:22.176Z,"6 km E of Tyonek, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2023-03-02T05:42:02.894Z,-55.0984,-31.4958,10,5.2,mww,44,73,3.01,0.53,us,us7000jgrg,2023-03-02T05:59:04.040Z,"South Georgia Island region",earthquake,5.37,1.868,0.098,10,reviewed,us,us
