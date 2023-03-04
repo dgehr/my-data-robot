@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-04T06:07:20.330Z,37.6775017,-122.5111694,12.29,1.25,md,13,184,0.04951,0.03,nc,nc73855236,2023-03-04T06:08:54.459Z,"4km WSW of Daly City, CA",earthquake,0.51,0.89,0.26,8,automatic,nc,nc
+2023-03-04T06:15:48.227Z,59.1693,-136.5125,17.1,2.1,ml,,,,0.93,ak,ak0232wais72,2023-03-04T06:18:59.892Z,"39 km SW of Covenant Life, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-04T06:07:20.330Z,37.6775017,-122.5111694,12.29,1.25,md,13,184,0.04951,0.03,nc,nc73855236,2023-03-04T06:24:14.827Z,"4km WSW of Daly City, CA",earthquake,0.51,0.89,0.26,8,automatic,nc,nc
 2023-03-04T05:57:17.050Z,35.6318333,-117.4173333,6,1.12,ml,17,135,0.05816,0.19,ci,ci40420728,2023-03-04T06:00:55.021Z,"15km SSW of Trona, CA",earthquake,0.54,0.91,0.154,12,automatic,ci,ci
 2023-03-04T05:45:36.600Z,38.8218346,-122.7639999,1.95,1.05,md,15,120,0.009783,0.01,nc,nc73855231,2023-03-04T06:13:14.766Z,"4km W of Cobb, CA",earthquake,0.28,0.46,0.22,15,automatic,nc,nc
 2023-03-04T05:44:33.620Z,35.6575,-117.461,0.87,1.26,ml,10,184,0.07085,0.22,ci,ci40420720,2023-03-04T05:48:11.930Z,"13km SSW of Searles Valley, CA",earthquake,1.17,1.27,0.198,11,automatic,ci,ci
@@ -243,4 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-03T06:45:12.210Z,34.0671667,-117.1496667,10.68,1.22,ml,39,67,0.04423,0.2,ci,ci40420336,2023-03-03T14:40:30.010Z,"1km WSW of Mentone, CA",earthquake,0.25,0.4,0.157,25,reviewed,ci,ci
 2023-03-03T06:35:25.060Z,33.2723333,-116.2596667,12.11,1.39,ml,58,37,0.07957,0.17,ci,ci40420328,2023-03-03T18:43:47.110Z,"11km E of Borrego Springs, CA",earthquake,0.16,0.5,0.142,25,reviewed,ci,ci
 2023-03-03T06:31:39.280Z,51.8595,-177.9485,4.72,0.52,ml,4,147,,0.1,av,av91780731,2023-03-03T18:59:02.030Z,"90 km W of Adak, Alaska",earthquake,0.42,1.59,0.290137472605727,4,reviewed,av,av
-2023-03-03T06:26:34.120Z,35.5511667,-118.4095,6.51,1.18,ml,18,67,0.1232,0.14,ci,ci40420320,2023-03-03T18:32:32.438Z,"8km ESE of Bodfish, CA",earthquake,0.25,0.75,0.185,11,reviewed,ci,ci
