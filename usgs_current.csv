@@ -201,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-03T18:11:49.500Z,37.1438333,-121.5491667,3.18,1.13,md,13,64,0.06478,0.13,nc,nc73855021,2023-03-04T04:01:14.967Z,"8km NE of San Martin, CA",earthquake,0.39,1.2,0.116,13,reviewed,nc,nc
 2023-03-03T18:09:56.873Z,61.9482,-149.7868,21.9,1.5,ml,,,,0.28,ak,ak0232uu3dc7,2023-03-03T18:12:05.612Z,"23 km S of Susitna North, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-03T17:57:30.278Z,23.977,122.2299,22.607,4.4,mwr,106,95,0.613,0.76,us,us7000jh52,2023-03-04T01:27:30.991Z,"63 km E of Hualien City, Taiwan",earthquake,3.41,4.799,0.061,26,reviewed,us,us
-2023-03-03T17:39:45.780Z,56.9051666666667,-158.0575,2.28,0.89,ml,4,259,,0.03,av,av91091818,2023-03-04T00:56:14.770Z,"35 km E of Port Heiden, Alaska",earthquake,1.42,1.21,0.208360170707662,4,reviewed,av,av
