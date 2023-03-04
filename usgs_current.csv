@@ -234,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-03T11:29:57.880Z,58.2358333333333,-155.144,2.74,-0.43,ml,5,221,,0.09,av,av91091773,2023-03-03T21:50:29.230Z,"84 km NNW of Karluk, Alaska",earthquake,0.48,0.57,0.149247232478486,5,reviewed,av,av
 2023-03-03T11:25:34.488Z,60.3994,-150.1898,39.5,2,ml,,,,0.37,ak,ak0232uq0pu0,2023-03-03T11:37:53.509Z,"22 km WSW of Cooper Landing, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-03T11:20:33.570Z,38.8286667,-122.854332,2.33,0.69,md,8,181,0.01589,0.01,nc,nc73854911,2023-03-03T13:07:16.630Z,"10km NW of The Geysers, CA",earthquake,0.62,1.26,0.3,9,automatic,nc,nc
-2023-03-03T11:03:50.490Z,61.0683,-151.0489,51.3,2,ml,,,,0.43,ak,ak0232upw1bd,2023-03-03T11:06:06.078Z,"4 km E of Tyonek, Alaska",earthquake,,1.2,,,automatic,ak,ak
