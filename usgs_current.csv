@@ -174,5 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T21:45:32.582Z,64.6068,-148.0265,21,1.2,ml,,,,0.4,ak,ak0232wjmoju,2023-03-04T21:46:57.034Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-04T21:36:31.950Z,33.4975,-116.7808333,4.81,0.31,ml,23,39,0.02204,0.16,ci,ci40421000,2023-03-05T17:21:16.523Z,"10km NE of Aguanga, CA",earthquake,0.22,0.4,0.041,3,reviewed,ci,ci
 2023-03-04T21:35:18.000Z,33.4966667,-116.7848333,4.17,0.72,ml,25,39,0.02033,0.18,ci,ci40420992,2023-03-04T21:38:48.903Z,"10km NE of Aguanga, CA",earthquake,0.25,0.48,0.113,17,automatic,ci,ci
-2023-03-04T21:28:53.167Z,61.3088,-151.1626,57.7,1.8,ml,,,,0.4,ak,ak0232wjj2ys,2023-03-04T21:30:27.515Z,"19 km NNW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-03-04T21:28:34.501Z,57.4884,-155.7289,28.9,1.8,ml,,,,0.84,ak,ak0232wjj1iy,2023-03-04T21:30:24.870Z,"76 km W of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
