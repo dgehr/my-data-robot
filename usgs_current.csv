@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-05T08:38:30.720Z,33.7616653,-116.939003,14.7,1.36,ml,41,94,0.05211,0.17,ci,ci40421104,2023-03-05T08:40:56.439Z,"3km SE of San Jacinto, CA",earthquake,0.32,0.54,0.261,12,automatic,ci,ci
+2023-03-05T08:43:47.230Z,32.4383333,-115.2348333,2.17,1.95,ml,12,96,0.06224,0.36,ci,ci40421112,2023-03-05T08:47:29.492Z,"10km NNW of Delta, B.C., MX",earthquake,0.77,1.49,0.259,18,automatic,ci,ci
+2023-03-05T08:40:42.453Z,62.9831,-148.8622,9.5,1.4,ml,,,,0.17,ak,ak0232xzecd1,2023-03-05T08:42:04.342Z,"45 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-05T08:38:30.830Z,33.7605,-116.9386667,13.89,1.22,ml,33,40,0.05327,0.22,ci,ci40421104,2023-03-05T08:42:24.558Z,"3km SE of San Jacinto, CA",earthquake,0.29,0.55,0.161,28,automatic,ci,ci
 2023-03-05T08:36:51.410Z,33.7668333,-116.9461667,15.5,1.02,ml,29,53,0.04488,0.29,ci,ci40421096,2023-03-05T08:40:23.433Z,"2km SSE of San Jacinto, CA",earthquake,0.44,0.78,0.146,27,automatic,ci,ci
 2023-03-05T08:36:09.420Z,38.8413315,-122.8424988,2.31,0.66,md,9,138,0.006122,0.06,nc,nc73855606,2023-03-05T08:37:44.260Z,"10km NW of The Geysers, CA",earthquake,0.6,0.63,0.28,8,automatic,nc,nc
 2023-03-05T08:29:52.129Z,61.1632,-147.1391,0,1.5,ml,,,,1.44,ak,ak0232xzc06s,2023-03-05T08:32:02.851Z,"41 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
