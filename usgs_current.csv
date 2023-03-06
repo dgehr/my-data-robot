@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-03-06T09:34:43.750Z,34.0085,-118.3723333,10.34,1.33,ml,18,53,0.009386,0.29,ci,ci40421448,2023-03-06T09:38:22.640Z,"1km N of Baldwin Hills, CA",earthquake,0.76,0.93,0.34,31,automatic,ci,ci
 2023-03-06T09:32:36.187Z,59.5719,-153.0211,110.8,1.1,ml,,,,0.32,ak,ak0232znhe8y,2023-03-06T09:35:04.842Z,"65 km ESE of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-03-06T09:31:54.583Z,63.1984,-151.3112,3.7,2,ml,,,,0.33,ak,ak0232znh7ya,2023-03-06T09:34:16.900Z,"43 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-06T09:31:54.583Z,63.1984,-151.3112,3.7,2,ml,,,,0.33,ak,ak0232znh7ya,2023-03-06T09:42:14.042Z,"43 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-06T09:27:07.060Z,33.399,-116.3865,2.4,1.07,ml,37,35,0.1283,0.23,ci,ci40421440,2023-03-06T09:30:43.937Z,"16km N of Borrego Springs, CA",earthquake,0.29,1.14,0.16,27,automatic,ci,ci
+2023-03-06T09:25:49.518Z,-60.9286,-33.4164,10,5,mb,33,66,6.864,0.64,us,us7000jhln,2023-03-06T09:46:33.040Z,"Scotia Sea",earthquake,10.42,1.864,0.107,28,reviewed,us,us
+2023-03-06T09:25:38.486Z,12.0645,-87.9523,42.429,4.9,mb,67,153,1.3,1.04,us,us7000jhlk,2023-03-06T09:40:31.040Z,"92 km SW of Jiquilillo, Nicaragua",earthquake,5.79,9.359,0.03,354,reviewed,us,us
 2023-03-06T09:20:53.920Z,19.1861667633057,-155.48616027832,34.0800018310547,1.96000004,md,34,77,,0.0900000036,hv,hv73334427,2023-03-06T09:24:06.540Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.73,0.949999988,1.98000002,4,automatic,hv,hv
 2023-03-06T09:17:14.030Z,34.3236667,-118.5003333,7.27,1.41,ml,24,89,0.02096,0.28,ci,ci40421432,2023-03-06T09:20:53.552Z,"5km WNW of Sylmar, CA",earthquake,0.52,0.72,0.127,28,automatic,ci,ci
 2023-03-06T09:14:48.040Z,38.8223343,-122.8058319,2.96,0.77,md,12,84,0.003479,0.01,nc,nc73856046,2023-03-06T09:36:12.438Z,"7km NW of The Geysers, CA",earthquake,0.45,1.34,0.41,14,automatic,nc,nc
