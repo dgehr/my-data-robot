@@ -198,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T14:07:05.190Z,38.8465004,-122.8160019,1.46,0.71,md,11,63,0.009965,0.03,nc,nc73855686,2023-03-05T16:18:10.088Z,"8km WNW of Cobb, CA",earthquake,0.31,0.78,0.09,12,automatic,nc,nc
 2023-03-05T14:02:48.020Z,38.8458328,-122.8133316,1.99,0.97,md,20,52,0.01178,0.06,nc,nc73855681,2023-03-05T16:50:13.262Z,"8km WNW of Cobb, CA",earthquake,0.23,0.52,0.11,21,automatic,nc,nc
 2023-03-05T13:59:05.610Z,51.8686666666667,-178.158333333333,9.27,1.24,ml,6,138,,0.16,av,av91784786,2023-03-05T20:42:43.800Z,"104 km W of Adak, Alaska",earthquake,0.79,0.34,0.166909285215511,6,reviewed,av,av
-2023-03-05T13:56:23.178Z,63.1053,-149.8414,95.9,1.7,ml,,,,0.71,ak,ak0232y2gwct,2023-03-05T13:59:06.417Z,"54 km SW of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
