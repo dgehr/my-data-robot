@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-06T17:07:09.940Z,38.8178329,-122.7624969,1.74,1.16,md,9,116,0.01389,0.01,nc,nc73856161,2023-03-06T17:27:11.214Z,"3km W of Cobb, CA",earthquake,0.38,0.98,0.33,10,automatic,nc,nc
+2023-03-06T17:29:52.470Z,35.8045,-117.6273333,6.14,1.29,ml,15,77,0.02671,0.15,ci,ci40421512,2023-03-06T17:33:21.376Z,"21km WNW of Searles Valley, CA",earthquake,0.29,0.56,0.182,12,automatic,ci,ci
+2023-03-06T17:07:09.940Z,38.8178329,-122.7624969,1.74,1.16,md,9,116,0.01389,0.01,nc,nc73856161,2023-03-06T17:33:14.248Z,"3km W of Cobb, CA",earthquake,0.38,0.98,0.33,10,automatic,nc,nc
 2023-03-06T17:07:09.016Z,36.7582,-116.2354,4,0,ml,10,97.36,0.033,0.1208,nn,nn00856600,2023-03-06T17:07:57.921Z,"49 km ESE of Beatty, Nevada",earthquake,,0.8,0.94,5,automatic,nn,nn
 2023-03-06T16:39:47.450Z,36.58783333,-97.81183333,7.05,1.81,ml,54,61,0.1610683929,0.18,ok,ok2023eofe,2023-03-06T16:50:41.611Z,"4 km NNE of Kremlin, Oklahoma",earthquake,,0.5,0.27,7,reviewed,ok,ok
 2023-03-06T16:17:28.440Z,38.8203316,-122.783165,-0.81,0.71,md,8,143,0.01448,0.21,nc,nc73856146,2023-03-06T17:20:14.180Z,"5km W of Cobb, CA",earthquake,0.67,2.65,0.38,7,automatic,nc,nc
