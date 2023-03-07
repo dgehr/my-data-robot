@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-07T10:45:44.220Z,32.7735,-115.4385,8.34,1.58,ml,12,75,0.03249,0.22,ci,ci40421704,2023-03-07T10:49:17.157Z,"7km SW of Holtville, CA",earthquake,0.66,1.33,0.137,15,automatic,ci,ci
 2023-03-07T10:40:25.960Z,33.9343333,-116.796,19.5,0.96,ml,23,58,0.1005,0.21,ci,ci40421696,2023-03-07T10:43:56.129Z,"2km NNW of Cabazon, CA",earthquake,0.41,1.04,0.17,27,automatic,ci,ci
 2023-03-07T10:27:54.190Z,33.9773333,-116.6855,12.42,0.77,ml,19,68,0.06854,0.17,ci,ci40421688,2023-03-07T10:31:21.666Z,"12km NE of Cabazon, CA",earthquake,0.34,1.15,0.156,22,automatic,ci,ci
 2023-03-07T10:07:02.395Z,60.5057,-152.3091,99.8,1.7,ml,,,,0.25,ak,ak02331bgqu7,2023-03-07T10:08:51.667Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -15,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T09:07:49.640Z,38.841835,-122.841835,1.93,0.26,md,8,128,0.005923,0.02,nc,nc73856381,2023-03-07T09:25:13.896Z,"10km NW of The Geysers, CA",earthquake,0.36,0.77,0.12,8,automatic,nc,nc
 2023-03-07T09:03:06.840Z,19.5408,-64.8995,32,3.74,md,12,296,1.1891,0.2,pr,pr2023066000,2023-03-07T10:44:09.040Z,"132 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.85,16.51,0.05,5,reviewed,pr,pr
 2023-03-07T09:01:30.545Z,-17.3331,-65.757,66.349,4.7,mb,44,72,2.021,0.87,us,us7000jhuw,2023-03-07T10:37:57.715Z,"Cochabamba, Bolivia",earthquake,6.3,8.193,0.045,151,reviewed,us,us
-2023-03-07T08:47:42.281Z,7.6219,126.2112,10,5.6,mww,93,44,0.833,0.94,us,us7000jhuv,2023-03-07T09:46:26.367Z,"9 km ENE of Bantacan, Philippines",earthquake,6.72,1.85,0.061,26,reviewed,us,us
+2023-03-07T08:47:42.281Z,7.6219,126.2112,10,5.6,mww,93,44,0.833,0.94,us,us7000jhuv,2023-03-07T10:51:39.715Z,"9 km ENE of Bantacan, Philippines",earthquake,6.72,1.85,0.061,26,reviewed,us,us
 2023-03-07T08:44:39.221Z,61.7432,-149.5695,30.3,1.7,ml,,,,0.39,ak,ak02331ahvyq,2023-03-07T08:46:22.578Z,"13 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-07T08:42:10.110Z,35.6643333,-117.5718307,4.79,3.03,ml,52,55,0.07489,0.18,ci,ci40421656,2023-03-07T10:09:29.820Z,"11km ENE of Ridgecrest, CA",earthquake,0.21,0.48,0.168,19,automatic,ci,ci
 2023-03-07T08:38:48.410Z,37.2826653,-121.6589966,3.54,1.36,md,11,56,0.02619,0.05,nc,nc73856361,2023-03-07T10:35:17.327Z,"16km E of Seven Trees, CA",earthquake,0.3,0.6,0.19,9,automatic,nc,nc
