@@ -331,4 +331,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T20:00:33.282Z,57.086,-154.7917,29.1,2,ml,,,,0.31,ak,ak02336fzoqo,2023-03-10T20:02:09.467Z,"40 km WNW of Akhiok, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-10T20:00:24.460Z,35.91433333,-95.145,0,1.44,ml,57,107,0.2708468506,0.53,ok,ok2023evtv,2023-03-10T20:08:30.391Z,"2 km S of Hulbert, Oklahoma",quarry blast,,0.6,0.22,15,reviewed,ok,ok
 2023-03-10T19:49:49.725Z,31.60928751,-103.9626159,7.828295898,1.7,ml,17,69,0.005494851948,0.1,tx,tx2023evtl,2023-03-11T12:57:55.730Z,"36 km WSW of Mentone, Texas",earthquake,0.6605499561,0.6849311735,0.2,12,reviewed,tx,tx
-2023-03-10T19:30:22.158Z,51.8687,-178.0622,7.455,3.3,ml,18,96,0.037,0.54,us,us7000jj15,2023-03-11T14:49:39.040Z,"98 km W of Adak, Alaska",earthquake,1.56,1.503,0.097,14,reviewed,us,us
