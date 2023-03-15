@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-15T17:22:27.950Z,17.9445,-66.9555,6.67,,,9,217,0.05242,0.08,pr,pr71400098,2023-03-15T17:46:10.380Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.38,0.24,,,reviewed,pr,pr
+2023-03-15T17:49:26.300Z,19.1778335571289,-155.498001098633,31.3199996948242,2.00999999,md,24,199,,0.119999997,hv,hv73340527,2023-03-15T17:53:02.840Z,"3 km SW of Pāhala, Hawaii",earthquake,1.03,1.34000003,2.00999999,4,automatic,hv,hv
+2023-03-15T17:22:27.950Z,17.9445,-66.9555,6.67,2.66,md,9,217,0.05242,0.08,pr,pr71400098,2023-03-15T17:52:04.520Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.38,0.24,0.186655041891994,4,reviewed,pr,pr
 2023-03-15T17:17:17.310Z,17.9366666666667,-66.9576666666667,5.72,2.67,md,3,240,0.05854,0.05,pr,pr71400093,2023-03-15T17:42:05.930Z,"6 km SW of Guánica, Puerto Rico",earthquake,1.77,1.7,0.10945069931549,2,reviewed,pr,pr
 2023-03-15T17:17:01.910Z,17.9593333333333,-66.9543333333333,6.72,3.13,md,15,199,0.04533,0.28,pr,pr71400083,2023-03-15T17:42:52.500Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.98,0.39,0.0326340280460751,4,reviewed,pr,pr
 2023-03-15T17:10:29.890Z,44.7563333,-111.1171667,10.29,0.05,md,5,140,0.04055,0.11,uu,uu60534146,2023-03-15T17:24:16.270Z,"5 km ESE of Hebgen Lake Estates, Montana",earthquake,0.88,1.64,0.085,3,reviewed,uu,uu
@@ -274,4 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T18:07:53.250Z,36.6926651,-121.3413315,4.22,2.61,md,30,91,0.01534,0.16,nc,nc73856855,2023-03-14T21:42:11.318Z,"11km S of Tres Pinos, CA",earthquake,0.3,0.66,0.25,34,automatic,nc,nc
 2023-03-14T18:03:44.210Z,51.8295,-178.111833333333,3.19,1.37,ml,6,142,,0.2,av,av91805351,2023-03-14T19:41:43.690Z,"101 km W of Adak, Alaska",earthquake,0.71,0.66,0.131598971040648,6,reviewed,av,av
 2023-03-14T17:59:22.290Z,58.235,-155.213333333333,7.29,-0.42,ml,5,113,,0.23,av,av91805346,2023-03-14T19:24:44.210Z,"Alaska Peninsula",earthquake,0.72,1.64,0.270658694521699,5,reviewed,av,av
-2023-03-14T17:55:39.830Z,51.8581666666667,-178.086333333333,2.98,0.69,ml,4,208,,0.12,av,av91805341,2023-03-14T19:39:00.710Z,"100 km W of Adak, Alaska",earthquake,0.59,1.03,0.216735869944309,4,reviewed,av,av
