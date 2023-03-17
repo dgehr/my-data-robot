@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T03:49:56.340Z,34.02,-116.738,18.34,1.16,ml,32,48,0.05989,0.2,ci,ci40185783,2023-03-17T04:00:58.460Z,"12km NNE of Cabazon, CA",earthquake,0.35,0.58,0.216,28,automatic,ci,ci
 2023-03-17T03:44:13.240Z,38.7519989,-122.7099991,0.82,0.83,md,8,128,0.01506,0.03,nc,nc73858005,2023-03-17T05:30:10.691Z,"3km SSW of Anderson Springs, CA",earthquake,0.38,0.59,0.41,6,automatic,nc,nc
 2023-03-17T03:40:16.863Z,31.6299,-104.4732,5.737,2.7,ml,22,67,0.045,0.26,us,us7000jkqf,2023-03-17T03:53:51.040Z,"61 km S of Whites City, New Mexico",earthquake,2.21,1.727,0.077,49,reviewed,us,us
-2023-03-17T03:38:28.042Z,4.941,125.4914,178.641,4.5,mb,16,116,2.117,1.19,us,us7000jkql,2023-03-17T04:19:44.040Z,"51 km S of Sarangani, Philippines",earthquake,10.68,9.594,0.191,8,reviewed,us,us
+2023-03-17T03:38:28.042Z,4.941,125.4914,178.641,4.5,mb,16,116,2.117,1.19,us,us7000jkql,2023-03-17T04:19:44.040Z,"Pulau-Pulau Sangihe, Indonesia",earthquake,10.68,9.594,0.191,8,reviewed,us,us
 2023-03-17T03:38:03.191Z,62.7771,-149.519,0,1.6,ml,,,,0.63,ak,ak0233hqutsv,2023-03-17T03:39:53.826Z,"47 km NE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-17T03:33:15.323Z,52.5639,-169.9892,44.76,4.2,mb,20,179,0.801,0.78,us,us7000jkqe,2023-03-17T04:04:47.040Z,"86 km WSW of Nikolski, Alaska",earthquake,12.56,11.622,0.158,11,reviewed,us,us
 2023-03-17T03:26:18.310Z,19.2768,-67.8263,96,4.41,md,20,252,0.9435,0.58,pr,pr2023076000,2023-03-17T06:32:53.736Z,"98 km NE of Punta Cana, Dominican Republic",earthquake,4.97,7.42,0.1,17,reviewed,pr,pr
@@ -247,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T08:12:51.050Z,35.7529984,-121.2436676,6.07,1.82,md,24,183,0.1017,0.09,nc,nc73857675,2023-03-16T10:42:15.994Z,"13km NNW of San Simeon, CA",earthquake,0.39,0.99,0.15,13,automatic,nc,nc
 2023-03-16T08:12:20.618Z,-18.7966,168.3046,35,4.6,mb,18,117,3.493,0.61,us,us7000jkdv,2023-03-16T08:59:44.040Z,"117 km S of Port-Vila, Vanuatu",earthquake,7.62,1.96,0.151,14,reviewed,us,us
 2023-03-16T08:06:48.090Z,39.4196663,-123.2740021,6.45,1.51,md,8,87,0.06956,0.05,nc,nc73857670,2023-03-16T10:15:14.846Z,"7km E of Willits, CA",earthquake,0.37,1.32,0.11,5,automatic,nc,nc
-2023-03-16T07:58:19.200Z,51.8418333333333,-178.065333333333,1.14,2.15,ml,8,130,,0.26,av,av91807581,2023-03-16T19:41:34.190Z,"98 km W of Adak, Alaska",earthquake,0.6,0.86,0.207625943217828,7,reviewed,av,av
