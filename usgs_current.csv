@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-19T04:42:15.830Z,38.7823334,-122.742836,0.01,0.99,md,11,78,0.02133,0.01,nc,nc73859035,2023-03-19T04:43:50.988Z,"1km ENE of The Geysers, CA",earthquake,0.27,0.9,0.25,10,automatic,nc,nc
+2023-03-19T04:42:12.657Z,37.5072,-117.5905,14,0.6,ml,9,190.56,0.781,0.1256,nn,nn00857212,2023-03-19T04:43:26.231Z,"27 km S of Silver Peak, Nevada",earthquake,,1.1,1.05,6,automatic,nn,nn
 2023-03-19T04:35:19.490Z,33.7286667,-116.8383333,15.45,0.7,ml,23,105,0.08245,0.19,ci,ci40186799,2023-03-19T04:39:03.480Z,"6km ESE of Valle Vista, CA",earthquake,0.37,0.6,0.165,16,automatic,ci,ci
 2023-03-19T04:34:16.719Z,37.306,-117.6585,8.5,-0.2,ml,8,169.72,0.074,0.2756,nn,nn00857211,2023-03-19T04:35:36.395Z,"California-Nevada border region",earthquake,,1.6,0.94,5,automatic,nn,nn
 2023-03-19T04:33:15.026Z,62.1572,-150.7668,60.6,2,ml,,,,0.31,ak,ak0233l2hwq6,2023-03-19T04:35:22.775Z,"33 km WSW of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -212,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T05:03:48.010Z,19.404167175293,-155.289993286133,2.94000005722046,1.80999994,md,9,152,,0.310000002,hv,hv73342907,2023-03-18T05:06:37.240Z,"Island of Hawaii, Hawaii",earthquake,1.08,0.75999999,1.91999996,4,automatic,hv,hv
 2023-03-18T05:00:00.310Z,47.16683333333334,-121.95266666666667,18.97,0.77,ml,17,273,0.1789,0.11,uw,uw61903002,2023-03-18T17:34:24.350Z,"5 km SE of Enumclaw, Washington",earthquake,0.71,1.31,0.14297234587020213,13,reviewed,uw,uw
 2023-03-18T04:52:19.010Z,33.5615,-116.6478333,12.99,1.35,ml,48,38,0.01532,0.18,ci,ci40186295,2023-03-18T17:48:16.850Z,"2km ENE of Anza, CA",earthquake,0.22,0.34,0.244,25,reviewed,ci,ci
-2023-03-18T04:45:54.790Z,61.6066,-147.6937,22.6,2,ml,,,,0.63,ak,ak0233jf17w7,2023-03-18T04:47:41.906Z,"22 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
