@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-20T13:52:14.723Z,59.4605,-152.7449,68.8,1.8,ml,,,,0.86,ak,ak0233mvi88w,2023-03-20T13:54:55.835Z,"48 km WNW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-20T13:20:07.680Z,38.8171654,-122.82267,2.21,1.77,md,34,48,0.009721,0.03,nc,nc73859775,2023-03-20T13:37:15.879Z,"7km NW of The Geysers, CA",earthquake,0.16,0.29,0.12,35,automatic,nc,nc
 2023-03-20T13:17:25.519Z,61.613,-150.1193,31.7,1.6,ml,,,,0.81,ak,ak0233mvar0n,2023-03-20T13:19:13.911Z,"13 km NW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-20T13:09:18.430Z,34.0111667,-118.3613333,8.65,1.89,ml,48,44,0.01753,0.25,ci,ci40187535,2023-03-20T13:24:10.941Z,"1km NE of Baldwin Hills, CA",earthquake,0.3,0.6,0.224,26,automatic,ci,ci
@@ -10,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T12:40:11.110Z,32.7353333,-115.4868333,11.8,1.98,ml,29,45,0.07752,0.31,ci,ci40187511,2023-03-20T12:50:49.170Z,"4km E of Heber, CA",earthquake,0.43,0.78,0.189,29,automatic,ci,ci
 2023-03-20T12:35:22.280Z,19.4293327331543,-155.483001708984,6.82999992370605,2.15,ml,33,81,,0.189999998,hv,hv73344832,2023-03-20T12:40:52.950Z,"25 km N of Pāhala, Hawaii",earthquake,0.37,0.600000024,0.36,10,automatic,hv,hv
 2023-03-20T12:30:15.440Z,33.0948333,-116.057,7.71,1.31,ml,25,62,0.1028,0.22,ci,ci40187503,2023-03-20T12:33:56.455Z,"9km SE of Ocotillo Wells, CA",earthquake,0.32,0.94,0.182,28,automatic,ci,ci
-2023-03-20T12:16:36.223Z,58.1611,-155.3786,1.2,1.1,ml,,,,0.41,ak,ak0233mup4j3,2023-03-20T12:20:43.025Z,"85 km NW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2023-03-20T12:16:36.223Z,58.1611,-155.3786,1.2,1.1,ml,,,,0.41,ak,ak0233mup4j3,2023-03-20T12:20:43.025Z,"Alaska Peninsula",earthquake,,2.3,,,automatic,ak,ak
 2023-03-20T12:15:15.720Z,38.8238335,-122.8008347,2.53,1.21,md,26,32,0.00723,0.02,nc,nc73859765,2023-03-20T12:40:12.534Z,"6km NW of The Geysers, CA",earthquake,0.21,0.43,0.13,26,automatic,nc,nc
 2023-03-20T12:14:13.933Z,61.7984,-149.4043,34.3,2.7,ml,,,,0.55,ak,ak0233muondd,2023-03-20T12:26:22.040Z,"10 km NW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-20T12:13:25.737Z,61.1774,-144.3286,1.4,1.8,ml,,,,1.69,ak,ak0233muogkk,2023-03-20T12:15:38.628Z,"38 km S of Chitina, Alaska",earthquake,,2.6,,,automatic,ak,ak
@@ -24,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T11:33:28.240Z,31.8543333,-116.1368333,19.55,2.3,ml,8,82,0.2197,0.18,ci,ci40187479,2023-03-20T11:57:02.643Z,"43km ENE of Maneadero, B.C., MX",earthquake,0.57,1.94,0.164,17,automatic,ci,ci
 2023-03-20T11:06:18.080Z,37.2333336,-121.6653366,3.77,1.65,md,16,68,0.02635,0.05,nc,nc73859740,2023-03-20T13:32:10.967Z,"12km N of Morgan Hill, CA",earthquake,0.23,0.5,0.15,12,automatic,nc,nc
 2023-03-20T10:54:31.610Z,19.3951663970947,-155.417831420898,7.59000015258789,2.15,ml,35,66,,0.159999996,hv,hv73344742,2023-03-20T11:00:03.150Z,"20 km WSW of Volcano, Hawaii",earthquake,0.32,0.680000007,2.38,15,automatic,hv,hv
-2023-03-20T10:54:31.590Z,36.6888351,-121.3573303,1.96,1.94,md,23,56,0.02052,0.15,nc,nc73859735,2023-03-20T13:06:10.814Z,"12km SSW of Tres Pinos, CA",earthquake,0.31,0.72,0.18,21,automatic,nc,nc
+2023-03-20T10:54:31.590Z,36.6888351,-121.3573303,1.96,1.94,md,23,56,0.02052,0.15,nc,nc73859735,2023-03-20T13:50:12.962Z,"12km SSW of Tres Pinos, CA",earthquake,0.31,0.72,0.18,21,automatic,nc,nc
 2023-03-20T10:39:08.290Z,34.8778333,-119.0265,12.33,1.25,ml,19,62,0.08434,0.21,ci,ci40187471,2023-03-20T10:42:46.082Z,"10km NW of Frazier Park, CA",earthquake,0.42,0.77,0.232,16,automatic,ci,ci
 2023-03-20T10:35:53.679Z,36.9836,-116.1152,11.3,0.5,ml,16,121.94,0.07,0.1807,nn,nn00857259,2023-03-20T10:36:26.976Z,"57 km E of Beatty, Nevada",earthquake,,1.1,1.05,11,automatic,nn,nn
 2023-03-20T10:34:42.530Z,18.582,-66.691,26,3.46,md,19,214,0.1925,0.21,pr,pr2023079000,2023-03-20T13:21:56.777Z,"12 km NNE of Arecibo, Puerto Rico",earthquake,0.79,1.32,0.1,18,reviewed,pr,pr
@@ -91,7 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T03:21:16.270Z,38.7016678,-122.784668,4.7,1.39,md,23,168,0.02322,0.02,nc,nc73859540,2023-03-20T05:58:15.034Z,"9km SSW of The Geysers, CA",earthquake,0.45,0.75,0.25,22,automatic,nc,nc
 2023-03-20T03:15:22.840Z,32.9101667,-116.2481667,5.56,1.44,ml,36,62,0.06418,0.2,ci,ci40187335,2023-03-20T03:26:09.550Z,"28km ENE of Pine Valley, CA",earthquake,0.28,0.9,0.127,26,automatic,ci,ci
 2023-03-20T03:06:17.020Z,38.8390007,-122.7825012,1.88,0.36,md,10,81,0.005971,0.01,nc,nc73859535,2023-03-20T03:22:16.125Z,"6km WNW of Cobb, CA",earthquake,0.37,0.49,0.3,9,automatic,nc,nc
-2023-03-20T02:54:36.100Z,45.330333333333336,-121.6925,5.61,0.27,ml,10,135,0.0137,0.14,uw,uw61903487,2023-03-20T04:21:18.560Z,"5 km ENE of Government Camp, Oregon",earthquake,0.38,0.5,0.0740149023436697,7,reviewed,uw,uw
+2023-03-20T02:54:36.100Z,45.330333333333336,-121.6925,5.61,0.27,ml,10,135,0.0137,0.14,uw,uw61903487,2023-03-20T04:21:18.560Z,"Washington-Oregon border region",earthquake,0.38,0.5,0.0740149023436697,7,reviewed,uw,uw
 2023-03-20T02:52:20.336Z,37.5334,-117.9612,7,1.8,ml,11,235.85,0.579,0.3725,nn,nn00857248,2023-03-20T02:53:53.582Z,"17 km SSE of Dyer, Nevada",earthquake,,1.5,0.91,6,automatic,nn,nn
 2023-03-20T02:50:01.710Z,38.7091675,-122.7835007,3.87,1.35,md,17,232,0.02053,0.03,nc,nc73859525,2023-03-20T05:32:14.892Z,"8km SSW of The Geysers, CA",earthquake,0.74,0.93,0.16,16,automatic,nc,nc
 2023-03-20T02:48:53.874Z,36.9797,-116.1194,8.4,0.3,ml,8,121.07,0.069,0.0976,nn,nn00857247,2023-03-20T02:49:43.216Z,"57 km E of Beatty, Nevada",earthquake,,1.2,1.19,6,automatic,nn,nn
@@ -203,6 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T14:13:54.490Z,38.8339996,-122.8186646,0.68,0.66,md,6,160,0.01254,0.01,nc,nc73859295,2023-03-19T15:01:11.946Z,"8km NW of The Geysers, CA",earthquake,0.52,1.89,0.47,8,automatic,nc,nc
 2023-03-19T14:13:37.230Z,38.8334999,-122.8168335,2.44,0.72,md,11,83,0.01139,0.03,nc,nc73859290,2023-03-19T14:46:12.856Z,"8km NW of The Geysers, CA",earthquake,0.42,0.74,0.2,13,automatic,nc,nc
 2023-03-19T14:12:30.690Z,10.7736,-86.4849,32.828,4.5,mb,31,187,1.142,0.65,us,us7000jl9c,2023-03-19T18:42:56.040Z,"off the coast of Costa Rica",earthquake,6.26,9.821,0.06,82,reviewed,us,us
-2023-03-19T13:54:46.290Z,46.8745,-121.747,0.5,0.14,ml,9,171,0.01073,0.1,uw,uw61903362,2023-03-20T04:30:30.810Z,"25 km ENE of Ashford, Washington",earthquake,0.39,0.71,0.1473639284199811,6,reviewed,uw,uw
-2023-03-19T13:52:20.390Z,38.8336678,-122.8065033,2.34,1.41,md,26,73,0.01063,0.02,nc,nc73859275,2023-03-19T15:45:13.213Z,"7km W of Cobb, CA",earthquake,0.21,0.38,0.14,26,automatic,nc,nc
-2023-03-19T13:49:55.520Z,37.6318333,-118.8691667,2.24,0.02,md,9,93,0.01374,0.02,nc,nc73859270,2023-03-20T00:21:16.068Z,"10km E of Mammoth Lakes, CA",earthquake,0.41,0.96,0.277,9,reviewed,nc,nc
