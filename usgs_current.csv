@@ -176,6 +176,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T17:06:36.969Z,64.822,-147.4557,15.5,1.1,ml,,,,0.24,ak,ak0233la2sy8,2023-03-19T17:08:38.616Z,"4 km ENE of Badger, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-19T16:42:41.650Z,44.808,-110.9713333,7.79,2.31,ml,20,147,0.05462,0.11,uu,uu60534591,2023-03-20T13:12:29.590Z,"Wyoming",earthquake,0.39,0.47,0.246,5,reviewed,uu,uu
 2023-03-19T16:37:11.750Z,38.8353348,-122.8040009,2.08,0.72,md,13,61,0.0111,0.02,nc,nc73859340,2023-03-19T18:50:14.219Z,"7km WNW of Cobb, CA",earthquake,0.29,0.73,0.2,11,automatic,nc,nc
+2023-03-19T16:36:46.679Z,36.6335,-98.9335,6.19,1.57,ml,42,76,0.001799646848,0.25,ok,ok2023flyq,2023-03-20T13:44:21.398Z,"7 km NW of Waynoka, Oklahoma",earthquake,,0.5,0.21,4,reviewed,ok,ok
 2023-03-19T16:31:09.761Z,61.1527,-151.3687,70.5,1.8,ml,,,,0.38,ak,ak0233l9mo5c,2023-03-19T16:33:52.511Z,"15 km W of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-19T16:12:04.050Z,19.1354999542236,-155.386840820312,31.4099998474121,1.83000004,md,37,182,,0.119999997,hv,hv73344197,2023-03-19T16:15:17.540Z,"12 km SE of Pāhala, Hawaii",earthquake,0.58,1.01999998,1.37,8,automatic,hv,hv
 2023-03-19T15:59:40.675Z,56.2239,-152.071,10,2.5,ml,,,,1.65,ak,ak0233l9g17j,2023-03-19T19:28:44.278Z,"Kodiak Island region, Alaska",earthquake,,0,,,reviewed,ak,ak
