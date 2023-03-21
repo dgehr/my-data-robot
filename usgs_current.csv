@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-21T04:47:40.205Z,65.1564,-148.9175,16.6,2.5,ml,,,,0.56,ak,ak0233odnnok,2023-03-21T04:49:35.571Z,"20 km E of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-21T04:17:36.117Z,63.4587,-151.1912,2.7,1.6,ml,,,,0.98,ak,ak0233odh7vv,2023-03-21T04:20:10.727Z,"28 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-21T04:16:24.720Z,34.121,-117.9581667,29.83,1.45,ml,12,115,0.1949,0.36,ci,ci40187807,2023-03-21T04:20:11.368Z,"3km NW of Irwindale, CA",earthquake,2.46,1.43,0.36,26,automatic,ci,ci
 2023-03-21T04:16:22.020Z,18.9581666666667,-67.1853333333333,14.87,3.28,md,11,283,0.4931,0.26,pr,pr71400968,2023-03-21T04:32:59.120Z,"52 km N of San Antonio, Puerto Rico",earthquake,1.01,1.78,0.0924219656223504,9,reviewed,pr,pr
