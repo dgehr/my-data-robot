@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-24T21:29:04.930Z,19.2721672058105,-155.391830444336,-0.709999978542328,2.6400001,md,35,124,,0.310000002,hv,hv73348447,2023-03-24T21:32:20.030Z,"11 km NE of Pāhala, Hawaii",earthquake,0.56,0.280000001,0.829999983,25,automatic,hv,hv
 2023-03-24T21:22:18.040Z,38.7883339,-122.7678299,3.17,0.77,md,8,97,0.01382,0.01,nc,nc73861745,2023-03-24T21:23:53.088Z,"2km NW of The Geysers, CA",earthquake,0.58,1.68,0.32,8,automatic,nc,nc
 2023-03-24T21:13:43.620Z,35.0638333,-119.0006667,8.74,1.31,ml,14,132,0.1501,0.22,ci,ci40189543,2023-03-24T21:17:24.237Z,"15km NNW of Grapevine, CA",earthquake,0.67,1.74,0.158,17,automatic,ci,ci
 2023-03-24T21:07:55.980Z,19.2099990844727,-155.3818359375,29.1900005340576,1.72000003,md,22,171,,0.109999999,hv,hv73348442,2023-03-24T21:11:01.860Z,"10 km E of Pāhala, Hawaii",earthquake,0.69,1.10000002,0.850000024,3,automatic,hv,hv
@@ -119,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T13:47:14.060Z,33.1823333,-116.4076667,11.48,1.73,ml,58,31,0.086,0.18,ci,ci40189143,2023-03-24T13:50:57.951Z,"9km SSW of Borrego Springs, CA",earthquake,0.2,0.41,0.183,24,automatic,ci,ci
 2023-03-24T13:46:12.330Z,33.1948333,-116.797,23.01,2.31,ml,14,73,0.3059,0.43,ci,ci40189135,2023-03-24T17:50:20.714Z,"6km SSW of Lake Henshaw, CA",earthquake,1.11,5.55,0.262,2,automatic,ci,ci
 2023-03-24T13:46:04.070Z,33.184166,-116.4095001,10.74,1.92,ml,28,61,0.08405,0.21,ci,ci40189127,2023-03-24T13:48:24.876Z,"9km SSW of Borrego Springs, CA",earthquake,0.35,0.82,0.307,6,automatic,ci,ci
-2023-03-24T13:45:13.720Z,33.1781654,-116.4123306,12.06,3.51,ml,98,18,0.08988,0.21,ci,ci40189119,2023-03-24T21:23:52.630Z,"9km SSW of Borrego Springs, CA",earthquake,0.2,0.82,0.363,14,reviewed,ci,ci
+2023-03-24T13:45:13.720Z,33.1781654,-116.4123306,12.06,3.51,ml,98,18,0.08988,0.21,ci,ci40189119,2023-03-24T21:29:23.143Z,"9km SSW of Borrego Springs, CA",earthquake,0.2,0.82,0.363,14,reviewed,ci,ci
 2023-03-24T13:43:51.979Z,36.42116667,-96.91216667,6,2.21,ml,98,66,0,0.28,ok,ok2023fuwl,2023-03-24T13:53:08.907Z,"13 km NW of Pawnee, Oklahoma",earthquake,,0.3,0.21,43,reviewed,ok,ok
 2023-03-24T13:42:38.150Z,33.1836667,-116.4038333,12.18,1.08,ml,26,65,0.08504,0.2,ci,ci40189111,2023-03-24T13:55:18.219Z,"8km SSW of Borrego Springs, CA",earthquake,0.33,0.98,0.179,26,automatic,ci,ci
 2023-03-24T13:37:18.900Z,51.8816666666667,-177.920333333333,3.58,1.25,ml,5,201,,0.21,av,av91817691,2023-03-24T17:45:46.200Z,"88 km W of Adak, Alaska",earthquake,0.81,1.76,0.0407446355755674,5,reviewed,av,av
@@ -328,4 +329,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T21:49:02.019Z,63.2384,-150.3348,91,1.7,ml,,,,0.6,ak,ak0233ryv2ft,2023-03-23T21:51:13.973Z,"71 km WSW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-03-23T21:44:12.490Z,44.529333333333334,-117.47966666666667,0.52,1.58,ml,6,95,0.3461,0.67,uw,uw61904512,2023-03-23T23:41:56.950Z,"Oregon-Idaho border region",earthquake,1.46,3.4,0.07474704031098389,4,reviewed,uw,uw
 2023-03-23T21:36:01.890Z,35.7753333,-117.5973333,9.3,1.61,ml,25,66,0.1402,0.11,ci,ci40188791,2023-03-23T23:57:37.300Z,"18km W of Searles Valley, CA",earthquake,0.17,0.53,0.139,23,reviewed,ci,ci
-2023-03-23T21:29:04.970Z,33.3431667,-116.8473333,9.52,1.28,ml,44,43,0.1301,0.17,ci,ci40188783,2023-03-23T23:41:20.180Z,"2km SE of Palomar Observatory, CA",earthquake,0.17,0.72,0.11,24,reviewed,ci,ci
