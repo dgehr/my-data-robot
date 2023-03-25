@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-03-25T04:14:35.440Z,38.7893333,-122.767334,1.71,1.06,md,15,77,0.01275,0.03,nc,nc73861890,2023-03-25T04:16:15.073Z,"2km NW of The Geysers, CA",earthquake,0.31,0.53,0.1,15,automatic,nc,nc
+2023-03-25T04:11:29.250Z,51.8611666666667,-178.069166666667,-1.8,1.66,ml,5,184,,0.24,av,av91818296,2023-03-25T04:39:11.460Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.73,1.4,0.26190431252114,5,reviewed,av,av
 2023-03-25T04:10:19.078Z,61.4741,-148.7414,30.4,1.6,ml,,,,0.47,ak,ak0233uzl2j7,2023-03-25T04:11:54.861Z,"9 km E of Knik River, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-03-25T04:03:45.330Z,35.7669983,-120.3246689,7.58,1.1,md,10,133,0.01378,0.02,nc,nc73861885,2023-03-25T04:05:26.429Z,"6km NNW of Cholame, CA",earthquake,1.41,0.8,0.27,4,automatic,nc,nc
 2023-03-25T04:02:42.250Z,38.8183327,-122.824501,2.2,0.43,md,10,63,0.009511,0.02,nc,nc73861880,2023-03-25T04:15:11.647Z,"8km NW of The Geysers, CA",earthquake,0.35,0.82,0.24,10,automatic,nc,nc
