@@ -308,4 +308,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T03:42:05.090Z,19.4986666666667,-155.4755,5.1,1.37,ml,21,104,,0.11,hv,hv73347662,2023-03-24T05:00:47.850Z,"26 km WNW of Volcano, Hawaii",earthquake,0.29,1.05,0.376383741992776,2,reviewed,hv,hv
 2023-03-24T03:41:28.927Z,60.7344,-150.9734,48,2.2,ml,,,,0.41,ak,ak0233tbmye4,2023-03-24T03:43:02.043Z,"Kenai Peninsula, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-24T03:38:17.900Z,19.5023333333333,-155.467833333333,0.25,1.28,ml,16,110,,0.11,hv,hv73347657,2023-03-24T05:11:37.740Z,"25 km WNW of Volcano, Hawaii",earthquake,0.32,0.76,0.219693770653684,2,reviewed,hv,hv
-2023-03-24T03:30:14.780Z,19.5133333333333,-155.4625,7.14,2.48,ml,26,118,,0.13,hv,hv73347642,2023-03-24T05:20:07.080Z,"25 km WNW of Volcano, Hawaii",earthquake,0.29,0.96,0.146795898535423,4,reviewed,hv,hv
