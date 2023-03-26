@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-26T10:36:27.660Z,38.7980003,-122.815834,2.66,1.49,md,32,68,0.01389,0.04,nc,nc73862495,2023-03-26T10:52:12.320Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.37,0.18,29,automatic,nc,nc
+2023-03-26T10:43:44.822Z,-7.5337,130.3732,24.189,4.9,mb,49,99,3.028,0.58,us,us7000jmu9,2023-03-26T11:00:52.040Z,"Pulau Pulau Tanimbar, Indonesia",earthquake,4.77,5.67,0.08,49,reviewed,us,us
+2023-03-26T10:36:27.660Z,38.7980003,-122.815834,2.66,1.49,md,32,68,0.01389,0.04,nc,nc73862495,2023-03-26T10:58:14.358Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.37,0.18,29,automatic,nc,nc
 2023-03-26T10:32:17.580Z,38.8359985,-122.793663,2.52,0.96,md,9,58,0.003537,0.02,nc,nc73862490,2023-03-26T10:48:15.298Z,"6km WNW of Cobb, CA",earthquake,0.47,1.47,0.31,12,automatic,nc,nc
 2023-03-26T10:31:30.154Z,61.3045,-150.0815,35.1,2.5,ml,,,,0.47,ak,ak0233wqtjjr,2023-03-26T10:49:26.687Z,"8 km SW of Point MacKenzie, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-03-26T10:15:56.839Z,58.2136,-155.2069,1.2,0.2,ml,,,,0.08,ak,ak0233wqq65f,2023-03-26T10:18:23.320Z,"84 km NNW of Karluk, Alaska",earthquake,,3.3,,,automatic,ak,ak
