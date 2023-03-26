@@ -211,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T00:02:43.956Z,-21.0284,-68.6124,105.24,5.4,mww,100,32,0.817,1.22,us,us7000jmrf,2023-03-26T04:10:29.820Z,"161 km NNE of Calama, Chile",earthquake,5.6,4.676,0.046,46,reviewed,us,us
 2023-03-26T00:02:16.800Z,38.855835,-122.8125,0.19,0.39,md,8,112,0.008552,0.01,nc,nc73862255,2023-03-26T00:22:14.830Z,"9km WNW of Cobb, CA",earthquake,0.24,0.89,0.3,9,automatic,nc,nc
 2023-03-26T00:01:04.972Z,64.0724,-149.6253,14.3,1.3,ml,,,,0.39,ak,ak0233wkoq2p,2023-03-26T00:02:52.793Z,"25 km WNW of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-25T23:58:05.670Z,61.2526,-147.0016,0,2.1,ml,,,,0.62,ak,ak0233vb6kd3,2023-03-26T00:00:21.294Z,"37 km WNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-03-25T23:57:13.042Z,37.3756,-117.3536,1.5,1.7,ml,14,209.09,0.326,0.2703,nn,nn00857500,2023-03-25T23:58:27.253Z,"38 km SSW of Goldfield, Nevada",earthquake,,34.3,0.92,9,automatic,nn,nn
