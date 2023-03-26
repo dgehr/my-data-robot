@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-26T23:22:45.260Z,37.6035004,-118.7798309,5.11,1.74,md,17,151,0.04139,0.02,nc,nc73862735,2023-03-26T23:24:23.916Z,"10km WNW of Toms Place, CA",earthquake,0.37,0.47,0.11,16,automatic,nc,nc
+2023-03-26T23:34:54.258Z,58.175,-155.4368,15.8,0.1,ml,,,,0.54,ak,ak0233wykvf5,2023-03-26T23:36:03.970Z,"89 km NW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-03-26T23:30:53.040Z,38.8195,-122.8241653,1.95,0.39,md,8,85,0.009223,0.01,nc,nc73862740,2023-03-26T23:32:28.707Z,"8km NW of The Geysers, CA",earthquake,0.49,1.12,0.26,8,automatic,nc,nc
+2023-03-26T23:23:29.178Z,36.3453,69.9122,124.116,4.2,mb,22,155,1.935,0.85,us,us7000jmxe,2023-03-26T23:35:29.040Z,"25 km S of Farkhār, Afghanistan",earthquake,5.6,12.437,0.152,12,reviewed,us,us
+2023-03-26T23:22:45.260Z,37.6035004,-118.7798309,5.11,1.74,md,17,151,0.04139,0.02,nc,nc73862735,2023-03-26T23:31:10.834Z,"10km WNW of Toms Place, CA",earthquake,0.37,0.47,0.11,16,automatic,nc,nc
 2023-03-26T23:17:36.077Z,59.6148,-153.5277,120,1.8,ml,,,,0.5,ak,ak0233wyh6up,2023-03-26T23:19:48.913Z,"37 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-26T23:12:30.510Z,32.545,-115.2395,22.01,2.26,ml,28,52,0.1368,0.32,ci,ci40190351,2023-03-26T23:22:51.210Z,"11km ESE of Puebla, B.C., MX",earthquake,0.56,1.46,0.195,26,automatic,ci,ci
 2023-03-26T23:12:29.950Z,32.5099983,-115.2228317,24.34,2.61,ml,25,194,0.1139,0.24,ci,ci40190343,2023-03-26T23:14:35.623Z,"14km ESE of Puebla, B.C., MX",earthquake,1.02,1.38,0.56,6,automatic,ci,ci
@@ -211,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T23:58:05.670Z,61.2526,-147.0016,0,2.1,ml,,,,0.62,ak,ak0233vb6kd3,2023-03-26T00:00:21.294Z,"37 km WNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-25T23:57:13.042Z,37.3756,-117.3536,1.5,1.7,ml,14,209.09,0.326,0.2703,nn,nn00857500,2023-03-25T23:58:27.253Z,"38 km SSW of Goldfield, Nevada",earthquake,,34.3,0.92,9,automatic,nn,nn
 2023-03-25T23:44:43.010Z,51.8625,-178.0695,-1.8,1.06,ml,4,182,,0.26,av,av91819301,2023-03-26T02:51:10.670Z,"98 km W of Adak, Alaska",earthquake,1.18,1.72,0.276774887066968,4,reviewed,av,av
-2023-03-25T23:29:05.309Z,-18.2083,168.0275,35,4.8,mb,44,58,2.857,0.63,us,us7000jmra,2023-03-25T23:57:28.040Z,"60 km SSW of Port-Vila, Vanuatu",earthquake,7.53,1.92,0.088,40,reviewed,us,us
