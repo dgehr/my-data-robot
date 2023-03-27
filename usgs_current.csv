@@ -15,6 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T20:44:32.530Z,38.814167,-122.8246689,2.35,0.9,md,16,71,0.006357,0.02,nc,nc73863165,2023-03-27T21:03:10.591Z,"7km NW of The Geysers, CA",earthquake,0.29,0.73,0.17,18,automatic,nc,nc
 2023-03-27T20:33:36.380Z,33.526,-116.7258333,5.38,0.73,ml,26,62,0.04045,0.18,ci,ci40190615,2023-03-27T20:37:17.249Z,"6km WSW of Anza, CA",earthquake,0.31,0.59,0.131,16,automatic,ci,ci
 2023-03-27T20:30:49.719Z,36.7218,-116.2762,6.5,0.4,ml,25,67.88,0.017,0.1076,nn,nn00857543,2023-03-27T21:48:47.198Z,"California-Nevada border region",earthquake,,0.6,0.81,14,reviewed,nn,nn
+2023-03-27T20:27:45.060Z,47.72983333333333,-122.5745,21.15,1.8,ml,39,63,0.05192,0.27,uw,uw61905237,2023-03-27T22:23:06.670Z,"1 km W of Suquamish, Washington",earthquake,0.37,0.62,0.19850798084117272,24,reviewed,uw,uw
 2023-03-27T20:19:18.240Z,33.5213333,-116.7283333,3.73,1.61,ml,53,33,0.04458,0.2,ci,ci40190607,2023-03-27T21:06:45.000Z,"6km SW of Anza, CA",earthquake,0.19,0.48,0.187,27,reviewed,ci,ci
 2023-03-27T20:16:01.390Z,51.8543333333333,-178.090166666667,3.41,0.94,ml,5,213,,0.14,av,av91822011,2023-03-27T20:54:25.990Z,"100 km W of Adak, Alaska",earthquake,0.66,0.46,0.144505026893813,5,reviewed,av,av
 2023-03-27T20:03:31.810Z,62.8924,-150.6266,78.1,1.6,ml,,,,0.46,ak,ak0233yk5865,2023-03-27T20:05:32.080Z,"44 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -48,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T17:00:27.230Z,38.7996674,-122.7513351,1.62,1.87,md,25,98,0.006615,0.04,nc,nc73863090,2023-03-27T20:28:15.357Z,"2km N of The Geysers, CA",earthquake,0.25,0.39,0.21,23,automatic,nc,nc
 2023-03-27T17:00:06.540Z,38.7695007,-122.7376633,1.15,2.51,md,51,36,0.01374,0.1,nc,nc73863085,2023-03-27T20:01:15.179Z,"2km ESE of The Geysers, CA",earthquake,0.18,0.37,0.12,56,automatic,nc,nc
 2023-03-27T16:59:34.992Z,62.5559,-152.4805,0,1.6,ml,,,,0.79,ak,ak0233yi3i3f,2023-03-27T17:01:55.837Z,"84 km NW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-27T16:57:52.410Z,19.3584995269775,-155.022338867188,3.77999997138977,2.14,ml,28,171,,0.389999986,hv,hv73350577,2023-03-27T17:03:22.930Z,"16 km SW of Leilani Estates, Hawaii",earthquake,1.02,2.02999997,0.81,6,automatic,hv,hv
+2023-03-27T16:57:52.160Z,19.367,-155.0245,7.9,2.11,ml,15,160,,0.1,hv,hv73350577,2023-03-27T22:24:28.050Z,"15 km SSE of Eden Roc, Hawaii",earthquake,0.57,0.89,0.17507246841802,10,reviewed,hv,hv
 2023-03-27T16:49:07.520Z,51.8511666666667,-178.077166666667,2.89,1.75,ml,5,207,,0.14,av,av91821831,2023-03-27T19:48:05.320Z,"99 km W of Adak, Alaska",earthquake,0.6,0.87,0.252518724923501,5,reviewed,av,av
 2023-03-27T16:31:20.401Z,14.0666,-90.9464,101.368,4.3,mb,74,128,0.635,0.91,us,us7000jn1g,2023-03-27T17:14:04.317Z,"11 km E of La Gomera, Guatemala",earthquake,8.19,3.363,0.075,50,reviewed,us,us
 2023-03-27T16:30:09.690Z,33.7791667,-116.0456667,9.91,1.14,ml,21,115,0.1309,0.19,ci,ci40190527,2023-03-27T16:33:49.048Z,"16km NE of Coachella, CA",earthquake,0.35,0.89,0.176,24,automatic,ci,ci
@@ -183,6 +184,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T02:56:06.731Z,-5.5666,146.923,186.972,4.6,mb,36,92,3.821,0.77,us,us7000jmyc,2023-03-27T03:17:34.040Z,"128 km N of Lae, Papua New Guinea",earthquake,12.04,7.874,0.101,29,reviewed,us,us
 2023-03-27T02:56:00.150Z,46.352333333333334,-119.58683333333333,16.28,0.37,ml,12,216,0.04222,0.06,uw,uw61904977,2023-03-27T16:29:47.750Z,"12 km NW of Benton City, Washington",earthquake,0.41,0.43,0.13924773788961453,9,reviewed,uw,uw
 2023-03-27T02:53:43.417Z,-22.7695,171.7227,10.385,5,mb,47,101,3.952,0.94,us,us7000jmyb,2023-03-27T03:09:14.040Z,"southeast of the Loyalty Islands",earthquake,10.18,4.85,0.093,37,reviewed,us,us
+2023-03-27T02:45:00.500Z,51.8501666666667,-178.061666666667,4.25,1.22,ml,4,191,,0.22,av,av91820906,2023-03-27T22:23:39.740Z,"98 km W of Adak, Alaska",earthquake,0.79,1.2,0.291706089251858,4,reviewed,av,av
 2023-03-27T02:44:15.740Z,58.245,-155.076833333333,4.57,0.07,ml,13,102,,0.21,av,av91820901,2023-03-27T22:20:47.490Z,"83 km NNW of Karluk, Alaska",earthquake,0.28,0.61,0.230546839417163,13,reviewed,av,av
 2023-03-27T02:43:21.769Z,62.9568,-148.2748,0,1.6,ml,,,,0.7,ak,ak0233y9nz5c,2023-03-27T02:45:34.228Z,"59 km SE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-27T02:42:37.872Z,-26.154,178.5166,630.659,4.5,mb,34,73,4.406,0.94,us,us7000jmy9,2023-03-27T02:57:28.040Z,"south of the Fiji Islands",earthquake,11.89,7.558,0.112,23,reviewed,us,us
@@ -231,7 +233,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T23:55:25.890Z,34.4513333,-117.7443333,6.07,0.95,ml,10,191,0.0838,0.11,ci,ci40190359,2023-03-26T23:59:03.543Z,"6km SE of Llano, CA",earthquake,0.56,0.9,0.189,14,automatic,ci,ci
 2023-03-26T23:34:54.258Z,58.175,-155.4368,15.8,0.1,ml,,,,0.54,ak,ak0233wykvf5,2023-03-26T23:36:03.970Z,"89 km NW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-03-26T23:30:53.040Z,38.8195,-122.8241653,1.95,0.39,md,8,85,0.009223,0.01,nc,nc73862740,2023-03-27T02:00:13.730Z,"8km NW of The Geysers, CA",earthquake,0.49,1.12,0.26,8,automatic,nc,nc
-2023-03-26T23:23:29.178Z,36.3453,69.9122,124.116,4.2,mb,22,155,1.935,0.85,us,us7000jmxe,2023-03-26T23:35:29.040Z,"25 km S of Farkhār, Afghanistan",earthquake,5.6,12.437,0.152,12,reviewed,us,us
+2023-03-26T23:23:28.598Z,36.3373,69.9801,123.656,4.2,mb,33,87,1.949,0.59,us,us7000jmxe,2023-03-27T22:26:30.040Z,"28 km SSE of Farkhār, Afghanistan",earthquake,6.77,11.929,0.152,12,reviewed,us,us
 2023-03-26T23:22:45.240Z,37.6026667,-118.7795,5.08,1.83,md,21,106,0.03927,0.04,nc,nc73862735,2023-03-27T22:21:11.087Z,"10km WNW of Toms Place, CA",earthquake,0.34,0.31,0.131,24,reviewed,nc,nc
 2023-03-26T23:17:36.077Z,59.6148,-153.5277,120,1.8,ml,,,,0.5,ak,ak0233wyh6up,2023-03-26T23:19:48.913Z,"37 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-26T23:12:30.510Z,32.545,-115.2395,22.01,2.26,ml,28,52,0.1368,0.32,ci,ci40190351,2023-03-26T23:22:51.210Z,"11km ESE of Puebla, B.C., MX",earthquake,0.56,1.46,0.195,26,automatic,ci,ci
