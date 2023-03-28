@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-28T09:18:27.744Z,41.147,142.799,30.947,6.2,mww,161,44,0.908,0.77,us,us6000k09q,2023-03-28T09:38:10.040Z,"129 km ENE of Misawa, Japan",earthquake,5.86,4.216,0.071,19,reviewed,us,us
 2023-03-28T09:16:49.961Z,56.2344,-156.4389,51.1,2.4,ml,,,,0.57,ak,ak0234017mpw,2023-03-28T09:20:02.313Z,"121 km E of Chignik, Alaska",earthquake,,7.7,,,automatic,ak,ak
 2023-03-28T09:15:49.090Z,35.4396667,-119.983,14.02,1.64,ml,16,135,0.1256,0.24,ci,ci40190775,2023-03-28T09:19:35.220Z,"10km N of Simmler, CA",earthquake,0.56,1.22,0.117,20,automatic,ci,ci
 2023-03-28T09:13:30.690Z,38.7973328,-122.7505035,1.29,2.35,md,40,49,0.007911,0.08,nc,nc73863445,2023-03-28T09:20:10.208Z,"2km NNE of The Geysers, CA",earthquake,0.19,0.31,0.2,44,automatic,nc,nc
@@ -256,4 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T09:57:33.500Z,38.8131676,-122.8278351,2.01,0.77,md,12,78,0.00442,0.02,nc,nc73862965,2023-03-27T11:21:11.080Z,"7km WNW of The Geysers, CA",earthquake,0.28,0.6,0.3,15,automatic,nc,nc
 2023-03-27T09:53:07.940Z,34.0191667,-117.0953333,19.02,0.92,ml,25,81,0.09627,0.19,ci,ci40190471,2023-03-27T09:56:44.766Z,"5km WSW of Yucaipa, CA",earthquake,0.31,0.66,0.144,23,automatic,ci,ci
 2023-03-27T09:44:24.770Z,19.1698333333333,-155.485666666667,32.65,1.63,md,27,147,,0.13,hv,hv73350252,2023-03-27T23:26:50.110Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.67,0.92,0.101649450642164,14,reviewed,hv,hv
-2023-03-27T09:34:18.750Z,37.5875,-118.8665,4.12,-0.14,md,10,218,0.02981,0.06,nc,nc73862960,2023-03-27T20:17:17.970Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.85,1.4,0.144,8,reviewed,nc,nc
