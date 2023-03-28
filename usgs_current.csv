@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-28T09:59:28.890Z,38.7591667,-122.7163315,1.7,1.12,md,7,117,0.007095,0.01,nc,nc73863460,2023-03-28T10:01:09.781Z,"3km SW of Anderson Springs, CA",earthquake,0.69,0.39,0.25,7,automatic,nc,nc
 2023-03-28T09:45:51.316Z,58.8543,-153.9603,99.7,1.4,ml,,,,0.46,ak,ak023401dufe,2023-03-28T09:47:56.086Z,"80 km SE of Kokhanok, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-03-28T09:18:27.744Z,41.147,142.799,30.947,6.2,mww,161,44,0.908,0.77,us,us6000k09q,2023-03-28T09:51:05.398Z,"129 km ENE of Misawa, Japan",earthquake,5.86,4.216,0.071,19,reviewed,us,us
+2023-03-28T09:18:27.744Z,41.147,142.799,30.947,6.2,mww,161,44,0.908,0.77,us,us6000k09q,2023-03-28T10:00:08.594Z,"129 km ENE of Misawa, Japan",earthquake,5.86,4.216,0.071,19,reviewed,us,us
 2023-03-28T09:16:49.961Z,56.2344,-156.4389,51.1,2.4,ml,,,,0.57,ak,ak0234017mpw,2023-03-28T09:20:02.313Z,"121 km E of Chignik, Alaska",earthquake,,7.7,,,automatic,ak,ak
 2023-03-28T09:15:49.090Z,35.4396667,-119.983,14.02,1.64,ml,16,135,0.1256,0.24,ci,ci40190775,2023-03-28T09:19:35.220Z,"10km N of Simmler, CA",earthquake,0.56,1.22,0.117,20,automatic,ci,ci
 2023-03-28T09:13:30.690Z,38.7973328,-122.7505035,1.29,2.35,md,40,49,0.007911,0.08,nc,nc73863445,2023-03-28T09:52:15.398Z,"2km NNE of The Geysers, CA",earthquake,0.19,0.31,0.2,44,automatic,nc,nc
@@ -254,5 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T10:20:08.971Z,60.3491,-143.4918,1.2,2.5,ml,,,,0.67,ak,ak0233yeahke,2023-03-28T06:48:37.040Z,"124 km SSW of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-27T10:14:20.440Z,51.8353333333333,-177.990833333333,-1.8,1.47,ml,5,124,,0.21,av,av91821346,2023-03-27T20:02:53.550Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.43,1.49,0.186117860479863,5,reviewed,av,av
 2023-03-27T10:07:05.239Z,62.0702,-150.3187,34.5,1.5,ml,,,,0.54,ak,ak0233ye7oxn,2023-03-27T10:14:46.985Z,"26 km WSW of Susitna North, Alaska",earthquake,,3.7,,,automatic,ak,ak
-2023-03-27T10:02:18.500Z,53.876,-166.57,4.76,0.42,ml,7,110,,0.15,av,av91821331,2023-03-28T00:51:48.110Z,"2 km W of Unalaska, Alaska",earthquake,0.43,0.94,0.187200140922799,7,reviewed,av,av
-2023-03-27T09:57:33.500Z,38.8131676,-122.8278351,2.01,0.77,md,12,78,0.00442,0.02,nc,nc73862965,2023-03-27T11:21:11.080Z,"7km WNW of The Geysers, CA",earthquake,0.28,0.6,0.3,15,automatic,nc,nc
