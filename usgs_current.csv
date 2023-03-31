@@ -232,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T07:42:58.870Z,33.265,-116.4278333,5.24,0.97,ml,32,90,0.009495,0.18,ci,ci39507754,2023-03-30T17:17:20.155Z,"5km WNW of Borrego Springs, CA",earthquake,0.26,0.4,0.162,18,reviewed,ci,ci
 2023-03-30T07:36:47.190Z,53.8798333333333,-166.577333333333,4.77,0.42,ml,6,162,,0.14,av,av91825461,2023-03-31T01:50:23.690Z,"2 km WSW of Dutch Harbor, Alaska",earthquake,0.47,1.21,0.283069703958247,6,reviewed,av,av
 2023-03-30T07:35:32.570Z,38.8458328,-122.8170013,0.92,0.71,md,15,61,0.01011,0.04,nc,nc73864365,2023-03-30T07:54:09.940Z,"9km WNW of Cobb, CA",earthquake,0.21,0.46,0.07,13,automatic,nc,nc
-2023-03-30T07:28:03.900Z,38.7999992,-122.7526703,2.31,0.75,md,6,125,0.005538,0.01,nc,nc73864360,2023-03-30T07:46:10.896Z,"2km N of The Geysers, CA",earthquake,0.41,1.18,0.14,8,automatic,nc,nc
