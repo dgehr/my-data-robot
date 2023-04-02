@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-02T21:38:29.684Z,63.3479,-151.0107,11.6,2.6,ml,,,,0.95,ak,ak02348i68l0,2023-04-02T21:39:52.545Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-02T21:28:22.630Z,19.3736667633057,-155.292999267578,2.32999992370605,1.89,ml,15,97,,0.109999999,hv,hv73355137,2023-04-02T21:33:53.470Z,"Hawaii region, Hawaii",earthquake,0.37,0.550000012,0.79,4,automatic,hv,hv
 2023-04-02T21:06:39.430Z,38.8273315,-122.8144989,1.89,1.03,md,12,82,0.01658,0.02,nc,nc73865985,2023-04-02T21:27:15.204Z,"8km NW of The Geysers, CA",earthquake,0.28,0.53,0.2,13,automatic,nc,nc
 2023-04-02T20:43:21.850Z,38.8434982,-122.8773346,2.03,1.15,md,9,163,0.02256,0.02,nc,nc73865975,2023-04-02T21:01:15.034Z,"13km NW of The Geysers, CA",earthquake,0.53,0.76,0.18,11,automatic,nc,nc
