@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-03T03:43:07.138Z,60.6005,-152.4964,147.9,1.5,ml,,,,0.79,ak,ak02349v0t2x,2023-04-03T03:49:14.993Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-04-03T03:39:03.198Z,44.4468,-124.5458,22.597,2.5,ml,33,109,0.569,0.73,us,us6000k1my,2023-04-03T03:48:28.040Z,"offshore Oregon",earthquake,2.58,8.967,0.045,64,reviewed,us,us
 2023-04-03T03:06:57.764Z,52.7772,158.4839,105.631,6.5,mww,104,30,0.266,0.89,us,us6000k1mn,2023-04-03T03:40:14.869Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake,8.7,4.602,0.069,20,reviewed,us,us
 2023-04-03T03:02:55.983Z,61.5769,-150.022,37.4,1.8,ml,,,,0.13,ak,ak02349us4hq,2023-04-03T03:04:40.273Z,"Southern Alaska",earthquake,,8.7,,,automatic,ak,ak
 2023-04-03T03:02:44.500Z,61.7045,-149.7117,35.4,1.8,ml,,,,0.99,ak,ak02349us3lu,2023-04-03T03:06:41.351Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -48,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T19:09:56.712Z,53.8776,-166.5876,5.7,1.8,ml,,,,0.46,ak,ak02348gt72s,2023-04-02T20:40:34.381Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-04-02T19:05:41.204Z,64.8633,-148.6953,19.7,2.7,ml,,,,0.57,ak,ak02348gsboo,2023-04-02T21:27:00.592Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-02T18:53:07.251Z,2.826,95.4878,29.298,4.9,mb,87,172,2.577,0.63,us,us6000k1k9,2023-04-02T20:02:41.040Z,"Simeulue, Indonesia",earthquake,7.36,2.768,0.067,69,reviewed,us,us
-2023-04-02T18:18:13.810Z,19.5418333333333,-155.931666666667,11.57,3.78,ml,45,195,,0.16,hv,hv73355062,2023-04-03T03:33:16.254Z,"Hawaii region, Hawaii",earthquake,0.59,0.29,0.149543647272284,27,reviewed,hv,hv
+2023-04-02T18:18:13.810Z,19.5418333333333,-155.931666666667,11.57,3.78,ml,45,195,,0.16,hv,hv73355062,2023-04-03T03:44:21.604Z,"Hawaii region, Hawaii",earthquake,0.59,0.29,0.149543647272284,27,reviewed,hv,hv
 2023-04-02T18:13:56.399Z,60.6718,-150.7874,47.7,1.2,ml,,,,0.19,ak,ak02348g8mzb,2023-04-02T18:15:32.757Z,"Kenai Peninsula, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-04-02T18:05:01.350Z,33.4016667,-116.9098333,10.9,0.74,ml,20,44,0.1028,0.16,ci,ci39509138,2023-04-02T18:08:39.312Z,"6km SW of Aguanga, CA",earthquake,0.28,0.94,0.196,17,automatic,ci,ci
 2023-04-02T18:04:10.747Z,-4.2924,143.155,62.603,7,mww,105,31,6.45,1.09,us,us6000k1id,2023-04-03T03:26:51.799Z,"New Guinea, Papua New Guinea",earthquake,8.1,4.802,0.047,44,reviewed,us,us
@@ -159,4 +161,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T04:03:36.353Z,61.2918,-146.8596,24,1.8,ml,,,,1.08,ak,ak023487udsz,2023-04-02T04:05:37.833Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-02T03:58:38.010Z,53.8723333333333,-166.581166666667,7.29,2.5,ml,14,118,,0.2,av,av91830131,2023-04-02T13:38:22.650Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.42,0.39,0.199497255003652,15,reviewed,av,av
 2023-04-02T03:57:26.730Z,38.848835,-122.8136673,0.94,0.55,md,6,123,0.01987,0.01,nc,nc73865680,2023-04-02T06:37:11.655Z,"8km WNW of Cobb, CA",earthquake,0.31,1.67,0.29,7,automatic,nc,nc
-2023-04-02T03:51:59.325Z,59.7509,-150.632,53.8,2,ml,,,,0.57,ak,ak023487jacc,2023-04-02T03:53:49.504Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
