@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-03T06:48:34.030Z,34.0251667,-117.1535,14.82,0.95,ml,25,94,0.03564,0.16,ci,ci39509282,2023-04-03T06:52:16.561Z,"4km SE of Redlands, CA",earthquake,0.27,0.57,0.136,18,automatic,ci,ci
 2023-04-03T06:21:36.411Z,58.1997,-155.2828,0.6,0.3,ml,,,,1.1,ak,ak02349wogeh,2023-04-03T06:22:50.083Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
 2023-04-03T05:59:16.380Z,36.9956665,-121.6685028,8.77,1.83,md,26,55,0.03332,0.17,nc,nc73866125,2023-04-03T06:28:24.477Z,"8km NE of Interlaken, CA",earthquake,0.43,0.68,0.17,24,automatic,nc,nc
 2023-04-03T05:55:17.624Z,62.6065,-152.8592,0,1.4,ml,,,,0.82,ak,ak02349wa9oy,2023-04-03T05:57:56.213Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
