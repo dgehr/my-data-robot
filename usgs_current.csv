@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-03T02:19:07.210Z,38.036335,-121.9375,23.74,1.99,md,7,120,0.06269,0.19,nc,nc73866065,2023-04-03T02:38:04.916Z,"2km ENE of Bay Point, CA",earthquake,1.29,1.13,0.12,6,automatic,nc,nc
+2023-04-03T02:19:07.210Z,38.036335,-121.9375,23.74,1.99,md,7,120,0.06269,0.19,nc,nc73866065,2023-04-03T02:54:16.248Z,"2km ENE of Bay Point, CA",earthquake,1.29,1.13,0.12,6,automatic,nc,nc
 2023-04-03T02:12:51.831Z,43.9161,-129.4577,10,3.8,mb,37,275,3.917,0.79,us,us6000k1mg,2023-04-03T02:31:34.040Z,"off the coast of Oregon",earthquake,11.97,2.022,0.141,14,reviewed,us,us
 2023-04-03T02:08:46.180Z,19.1478328704834,-155.466506958008,32.5299987792969,1.89999998,md,27,215,,0.159999996,hv,hv73355247,2023-04-03T02:12:06.200Z,"Hawaii region, Hawaii",earthquake,1.02,1.34000003,0.75,8,automatic,hv,hv
 2023-04-03T02:03:43.969Z,68.2709,-158.729,36,2.9,ml,,,,0.33,ak,ak02349u6voc,2023-04-03T02:47:05.040Z,"northern Alaska",earthquake,,19.9,,,automatic,ak,ak
