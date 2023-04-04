@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-04T04:43:16.653Z,65.4314,-153.4416,0,1.6,ml,,,,0.75,ak,ak0234bj5m0w,2023-04-04T04:47:02.054Z,"69 km WNW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-04T04:27:40.481Z,2.5867,128.3256,190.461,4.6,mb,22,158,2.042,0.48,us,us6000k1vb,2023-04-04T04:44:58.040Z,"101 km NNE of Tobelo, Indonesia",earthquake,12.76,10.281,0.151,13,reviewed,us,us
 2023-04-04T04:18:11.967Z,60.1472,-152.5517,81.1,1.8,ml,,,,0.43,ak,ak0234bj08ng,2023-04-04T04:20:00.180Z,"50 km WNW of Ninilchik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-04T04:08:02.490Z,63.6329,-148.3264,90.7,1.1,ml,,,,0.44,ak,ak0234biy2rd,2023-04-04T04:10:23.107Z,"31 km ESE of Denali Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-04T04:02:46.926Z,62.3882,-150.184,52.4,3.1,ml,,,,0.67,ak,ak0234biwvuu,2023-04-04T04:09:00.537Z,"8 km SSW of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -199,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T04:59:24.259Z,59.4127,-153.5496,106.4,1.7,ml,,,,0.44,ak,ak02349vppgp,2023-04-03T05:01:21.550Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-03T04:56:39.550Z,62.622,-149.6136,70.9,1.2,ml,,,,0.77,ak,ak02349vp3hv,2023-04-03T05:01:16.719Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-03T04:49:31.330Z,33.9878333,-117.176,16.03,1.62,ml,40,77,0.04044,0.19,ci,ci39509274,2023-04-03T13:37:13.247Z,"8km S of Redlands, CA",earthquake,0.23,0.46,0.17,26,reviewed,ci,ci
-2023-04-03T04:46:45.491Z,61.1864,-146.8155,36,1.5,ml,,,,0.58,ak,ak02349vmysl,2023-04-03T04:48:30.457Z,"Southern Alaska",earthquake,,8.4,,,automatic,ak,ak
