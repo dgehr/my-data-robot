@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-06T14:42:12.866Z,57.971,-154.7711,60.9,1.5,ml,,,,0.3,ak,ak0234f06exy,2023-04-06T14:43:31.352Z,"Kodiak Island region, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-06T14:20:46.290Z,33.8998333,-116.317,4.14,0.97,ml,29,68,0.0865,0.24,ci,ci39510578,2023-04-06T14:24:23.193Z,"11km NE of Thousand Palms, CA",earthquake,0.42,1.46,0.152,22,automatic,ci,ci
-2023-04-06T14:20:29.124Z,63.0475,-150.4432,100.2,3.6,ml,,,,0.78,ak,ak0234f01qd2,2023-04-06T14:37:03.463Z,"63 km NNE of Petersville, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-04-06T14:20:29.124Z,63.0475,-150.4432,100.2,3.6,ml,,,,0.78,ak,ak0234f01qd2,2023-04-06T14:40:46.948Z,"63 km NNE of Petersville, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-04-06T14:00:14.324Z,62.4123,-151.2329,75.3,1.9,ml,,,,0.59,ak,ak0234ezxezc,2023-04-06T14:02:35.485Z,"25 km WSW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-06T13:55:50.830Z,38.7558327,-122.7275009,3.01,1.06,md,9,148,0.006111,0.02,nc,nc73868035,2023-04-06T14:13:14.864Z,"4km SE of The Geysers, CA",earthquake,0.37,0.76,0.31,11,automatic,nc,nc
 2023-04-06T13:43:36.926Z,62.8858,-148.1193,54.9,1.1,ml,,,,0.21,ak,ak0234ezl8ws,2023-04-06T13:45:29.798Z,"70 km SE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -43,13 +44,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T09:28:24.121Z,60.1981,-152.4865,94,1.6,ml,,,,0.46,ak,ak0234ex49rg,2023-04-06T09:31:07.566Z,"48 km WNW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-04-06T09:21:34.390Z,34.0241667,-117.5991667,3.15,0.78,ml,14,109,0.03679,0.2,ci,ci39510490,2023-04-06T09:25:04.834Z,"4km SE of Ontario, CA",earthquake,0.29,0.36,0.106,15,automatic,ci,ci
 2023-04-06T09:20:41.164Z,35.79223633,-96.98249817,4.563059807,1.93,ml,5,124.3404007,0.1791822463,0.01392231342,ok,ok2023gshh,2023-04-06T12:09:48.984Z,"3 km ESE of Carney, Oklahoma",earthquake,4.796960085,4.011939344,0.16,5,automatic,ok,ok
-2023-04-06T09:16:56.829Z,35.7915,-96.9785,7.23,3.24,ml,81,31,0,0.14,ok,ok2023gshe,2023-04-06T13:55:01.509Z,"3 km ESE of Carney, Oklahoma",earthquake,,0.3,0.2,37,reviewed,ok,ok
+2023-04-06T09:16:56.829Z,35.7915,-96.9785,7.23,3.24,ml,81,31,0,0.14,ok,ok2023gshe,2023-04-06T14:37:40.195Z,"3 km ESE of Carney, Oklahoma",earthquake,,0.3,0.2,37,reviewed,ok,ok
 2023-04-06T09:16:52.992Z,62.2768,-149.7592,14,1.5,ml,,,,0.56,ak,ak0234ex1reb,2023-04-06T09:19:19.364Z,"13 km NNE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-06T09:16:00.023Z,63.373,-147.415,78.3,1.3,ml,,,,0.42,ak,ak0234ex1nb6,2023-04-06T09:17:27.481Z,"76 km E of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-06T09:10:53.017Z,60.0447,-152.8893,91.5,1.7,ml,,,,0.3,ak,ak0234ex0h3p,2023-04-06T09:12:34.850Z,"65 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-04-06T09:08:39.979Z,35.79383333,-96.97333333,7.5,2.12,ml,85,33,0,0.23,ok,ok2023gsgx,2023-04-06T14:04:01.168Z,"3 km ESE of Carney, Oklahoma",earthquake,,0.6,0.24,45,reviewed,ok,ok
+2023-04-06T09:08:39.979Z,35.79383333,-96.97333333,7.5,2.12,ml,85,33,0,0.23,ok,ok2023gsgx,2023-04-06T14:41:06.368Z,"3 km ESE of Carney, Oklahoma",earthquake,,0.6,0.24,45,reviewed,ok,ok
 2023-04-06T08:58:04.066Z,62.2436,-150.2293,17.2,1.5,ml,,,,0.5,ak,ak0234ewp83a,2023-04-06T08:59:45.675Z,"8 km S of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-06T08:57:16.809Z,35.7935,-96.96983333,7,4,mwr,99,32,0,0.18,ok,ok2023gsgn,2023-04-06T14:32:47.278Z,"4 km ESE of Carney, Oklahoma",earthquake,,0.4,,44,reviewed,ok,us
+2023-04-06T08:57:16.809Z,35.7935,-96.96983333,7,4,mwr,99,32,0,0.18,ok,ok2023gsgn,2023-04-06T14:43:29.820Z,"4 km ESE of Carney, Oklahoma",earthquake,,0.4,,44,reviewed,ok,us
 2023-04-06T08:56:57.058Z,64.6638,-149.2307,14,1.1,ml,,,,0.81,ak,ak0234ewowqx,2023-04-06T08:58:44.881Z,"8 km NW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-06T08:54:32.231Z,-43.5791,172.7848,15.692,2.5,ml,13,191,0.159,0.4,us,us6000k2dl,2023-04-06T13:43:54.183Z,"13 km ESE of Christchurch, New Zealand",earthquake,3.27,5.018,0.091,16,reviewed,us,us
 2023-04-06T08:42:36.790Z,38.8218346,-122.7653351,2.26,0.74,md,11,118,0.009336,0.02,nc,nc73867915,2023-04-06T10:28:11.668Z,"4km W of Cobb, CA",earthquake,0.35,0.69,0.17,11,automatic,nc,nc
@@ -143,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T00:45:18.940Z,38.8310013,-122.8010025,1.49,1.11,md,24,41,0.01039,0.04,nc,nc73867715,2023-04-06T04:08:15.299Z,"7km W of Cobb, CA",earthquake,0.2,0.35,0.15,25,automatic,nc,nc
 2023-04-06T00:44:57.933Z,57.7718,-156.5286,132.6,1.8,ml,,,,0.11,ak,ak0234eruvdt,2023-04-06T00:46:29.215Z,"59 km ENE of Ugashik, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-04-06T00:42:07.423Z,61.5625,-146.2156,38.9,1.6,ml,,,,0.79,ak,ak0234eruc1y,2023-04-06T00:43:55.018Z,"48 km N of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-04-06T00:38:29.970Z,33.6631667,-116.6948333,16.41,0.42,ml,11,120,0.05052,0.19,ci,ci39510226,2023-04-06T00:42:13.577Z,"9km SSE of Idyllwild, CA",earthquake,0.74,0.55,0.157,8,automatic,ci,ci
+2023-04-06T00:38:29.960Z,33.6653333,-116.698,15.81,0.46,ml,14,93,0.0205,0.07,ci,ci39510226,2023-04-06T14:42:11.258Z,"8km SSE of Idyllwild, CA",earthquake,0.25,0.37,0.175,5,reviewed,ci,ci
 2023-04-06T00:32:02.986Z,-0.4926,122.2314,10,5.2,mww,55,75,0.768,0.55,us,us6000k29k,2023-04-06T00:49:07.040Z,"80 km NW of Luwuk, Indonesia",earthquake,6.53,1.852,0.098,10,reviewed,us,us
 2023-04-06T00:28:19.570Z,51.8635,-178.095333333333,3.19,0.87,ml,4,211,,0.24,av,av91836526,2023-04-06T02:22:55.760Z,"100 km W of Adak, Alaska",earthquake,0.92,0.67,0.124398252495844,4,reviewed,av,av
 2023-04-06T00:22:29.920Z,51.8585,-178.082,3.81,0.1,ml,4,204,,0.12,av,av91836511,2023-04-06T02:18:57.740Z,"99 km W of Adak, Alaska",earthquake,0.46,0.44,0.214632048501094,4,reviewed,av,av
@@ -156,7 +157,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T23:55:43.290Z,38.8263321,-122.9416656,4.46,1.15,md,11,124,0.01898,0.03,nc,nc73867700,2023-04-06T03:28:14.075Z,"7km ENE of Cloverdale, CA",earthquake,0.58,1.33,0.13,13,automatic,nc,nc
 2023-04-05T23:55:12.160Z,58.1883333333333,-155.272333333333,1.79,-0.19,ml,5,143,,0.02,av,av91096923,2023-04-06T00:19:24.670Z,"84 km NW of Karluk, Alaska",earthquake,0.21,0.78,0.338108375880049,5,reviewed,av,av
 2023-04-05T23:54:55.250Z,58.1905,-155.2725,2.22,0.06,ml,8,141,,0.05,av,av91836461,2023-04-06T00:17:26.650Z,"84 km NW of Karluk, Alaska",earthquake,0.22,0.51,0.487872645914962,8,reviewed,av,av
-2023-04-05T23:53:28.930Z,33.5756667,-116.7851667,8.39,0.31,ml,14,117,0.02515,0.14,ci,ci39510210,2023-04-05T23:57:08.636Z,"11km WNW of Anza, CA",earthquake,0.58,0.46,0.136,7,automatic,ci,ci
+2023-04-05T23:53:28.840Z,33.565,-116.792,8.26,0.33,ml,19,92,0.0369,0.11,ci,ci39510210,2023-04-06T14:37:48.076Z,"11km W of Anza, CA",earthquake,0.24,0.42,0.085,5,reviewed,ci,ci
 2023-04-05T23:52:59.850Z,58.2691666666667,-154.987666666667,3.01,-0.14,ml,8,137,,0.09,av,av91836456,2023-04-06T00:14:24.330Z,"84 km NNW of Karluk, Alaska",earthquake,0.29,0.72,0.389194849794859,8,reviewed,av,av
 2023-04-05T23:51:21.664Z,64.8047,-148.0066,14.2,0.4,ml,,,,0.33,ak,ak0234di1x1v,2023-04-05T23:53:16.480Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2023-04-05T23:50:58.720Z,33.511,-116.5375,13.58,0.82,ml,28,57,0.04669,0.14,ci,ci39510202,2023-04-06T13:51:54.803Z,"14km ESE of Anza, CA",earthquake,0.23,0.36,0.246,22,reviewed,ci,ci
@@ -293,4 +294,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T14:51:19.880Z,40.4736667,-124.4463333,20.05,1.65,md,12,249,0.08305,0.08,nc,nc73867355,2023-04-05T20:46:10.552Z,"19km SW of Ferndale, CA",earthquake,1.44,0.58,0.081,5,reviewed,nc,nc
 2023-04-05T14:49:29.580Z,38.7985001,-122.748497,1.83,0.76,md,8,99,0.009017,0.01,nc,nc73867350,2023-04-05T15:07:17.485Z,"2km NNE of The Geysers, CA",earthquake,0.33,0.86,0.05,6,automatic,nc,nc
 2023-04-05T14:46:10.900Z,33.2896667,-116.7428333,13.05,1.01,ml,37,44,0.05518,0.2,ci,ci39510010,2023-04-05T16:25:28.676Z,"6km NNE of Lake Henshaw, CA",earthquake,0.28,0.63,0.166,26,reviewed,ci,ci
-2023-04-05T14:38:07.129Z,35.795,-96.9645,7.73,1.95,ml,80,34,0.1871632722,0.19,ok,ok2023gqwg,2023-04-06T10:33:23.469Z,"4 km ESE of Carney, Oklahoma",earthquake,,0.5,0.2,44,reviewed,ok,ok
