@@ -94,7 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T22:15:17.480Z,35.495,-118.4,5.89,1.82,ml,32,42,0.178,0.13,ci,ci39510178,2023-04-05T22:30:25.842Z,"13km SE of Bodfish, CA",earthquake,0.17,0.87,0.247,24,reviewed,ci,ci
 2023-04-05T22:07:52.010Z,51.8605,-178.0795,-1.8,0.29,ml,5,198,,0.18,av,av91836326,2023-04-05T22:30:51.290Z,"99 km W of Adak, Alaska",earthquake,0.57,1.34,0.179586803828291,5,reviewed,av,av
 2023-04-05T21:59:16.010Z,33.4421667,-116.6366667,6.15,0.39,ml,13,152,0.05979,0.09,ci,ci39510154,2023-04-05T22:18:04.927Z,"13km SSE of Anza, CA",earthquake,0.28,0.43,0.143,9,reviewed,ci,ci
-2023-04-05T21:53:27.270Z,38.7955,-122.7668333,1.51,0.22,md,19,70,0.00756,0.02,nc,nc73867625,2023-04-06T04:13:10.328Z,"2km NNW of The Geysers, CA",earthquake,0.19,0.23,0.276,17,reviewed,nc,nc
+2023-04-05T21:53:27.270Z,38.7955,-122.7668333,1.51,0.22,md,19,70,0.00756,0.02,nc,nc73867625,2023-04-06T04:44:16.484Z,"2km NNW of The Geysers, CA",earthquake,0.19,0.23,0.276,17,reviewed,nc,nc
 2023-04-05T21:47:14.800Z,53.891,-166.5785,2.81,-0.42,ml,5,174,,0.12,av,av91836296,2023-04-05T22:25:38.850Z,"2 km W of Dutch Harbor, Alaska",earthquake,0.57,1.77,0.268147615832132,5,reviewed,av,av
 2023-04-05T21:36:29.060Z,38.8143349,-122.8253326,2.36,0.92,md,13,55,0.006231,0.02,nc,nc73867610,2023-04-05T21:50:10.917Z,"7km NW of The Geysers, CA",earthquake,0.28,0.62,0.18,14,automatic,nc,nc
 2023-04-05T21:36:13.806Z,63.2039,-151.1273,0,1.5,ml,,,,0.89,ak,ak0234dgrtgk,2023-04-05T21:38:29.262Z,"47 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -328,4 +328,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T05:09:00.430Z,38.8323326,-122.7928314,1.74,0.46,md,9,90,0.006371,0.01,nc,nc73867085,2023-04-05T05:26:12.940Z,"6km W of Cobb, CA",earthquake,0.37,1.21,0.29,9,automatic,nc,nc
 2023-04-05T05:08:30.010Z,36.794,-121.3068333,9.68,0.9,md,14,153,0.09206,0.06,nc,nc73867090,2023-04-05T06:50:13.453Z,"1km ENE of Tres Pinos, CA",earthquake,0.34,0.65,0.185,9,reviewed,nc,nc
 2023-04-05T05:07:33.204Z,60.2709,-152.6986,99.4,1.8,ml,,,,0.68,ak,ak0234d72pih,2023-04-05T05:10:54.341Z,"62 km WNW of Ninilchik, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2023-04-05T04:50:01.870Z,19.191333770752,-155.385665893555,29.2199993133545,1.80999994,md,36,164,,0.109999999,hv,hv73356897,2023-04-05T04:53:16.030Z,"Island of Hawaii, Hawaii",earthquake,0.72,1,0.769999981,8,automatic,hv,hv
