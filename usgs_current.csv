@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-07T15:41:48.807Z,36.7747,-115.6535,4.2,0.6,ml,13,208.51,0.27,0.2883,nn,nn00857932,2023-04-07T15:43:52.128Z,"22 km N of Indian Springs, Nevada",earthquake,,3.5,0.26,8,automatic,nn,nn
 2023-04-07T15:10:44.732Z,61.2603,-145.9937,35.5,1.6,ml,,,,0.57,ak,ak0234go4el5,2023-04-07T15:23:18.700Z,"23 km NE of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-07T15:07:34.081Z,36.7166,-116.0748,1.3,1.5,ml,25,91.02,0.028,0.2647,nn,nn00857929,2023-04-07T15:09:43.842Z,"39 km WNW of Indian Springs, Nevada",earthquake,,0.3,0.96,19,automatic,nn,nn
 2023-04-07T15:04:20.580Z,33.2498333,-116.0673333,5.07,1.26,ml,40,68,0.1069,0.25,ci,ci40437656,2023-04-07T15:15:03.230Z,"12km WSW of Salton City, CA",earthquake,0.31,1.19,0.109,26,automatic,ci,ci
