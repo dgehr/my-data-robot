@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-11T05:47:55.530Z,38.7961655,-122.7320023,0.77,0.73,md,8,140,0.01343,0.01,nc,nc73870535,2023-04-11T05:49:31.676Z,"3km NE of The Geysers, CA",earthquake,0.35,0.71,0.2,8,automatic,nc,nc
 2023-04-11T05:38:10.217Z,60.168,-152.8765,99.2,2,ml,,,,0.51,ak,ak0234n4hdya,2023-04-11T05:39:40.488Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-11T05:23:00.314Z,60.2458,-152.6731,106.5,1.6,ml,,,,0.23,ak,ak0234n4e5e7,2023-04-11T05:24:30.391Z,"59 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-04-11T05:17:24.660Z,36.0358315,-120.6054993,1.32,1.28,md,14,103,0.03376,0.09,nc,nc73870525,2023-04-11T05:31:10.012Z,"22km NW of Parkfield, CA",earthquake,0.51,2.34,0.1,4,automatic,nc,nc
+2023-04-11T05:17:24.660Z,36.0358315,-120.6054993,1.32,1.28,md,14,103,0.03376,0.09,nc,nc73870525,2023-04-11T05:49:15.109Z,"22km NW of Parkfield, CA",earthquake,0.51,2.34,0.1,4,automatic,nc,nc
 2023-04-11T05:15:23.361Z,60.1054,-153.1458,123,1.5,ml,,,,0.3,ak,ak0234n4chg0,2023-04-11T05:18:29.505Z,"64 km ENE of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-11T05:08:51.292Z,64.5624,-149.2179,11.3,1.6,ml,,,,0.3,ak,ak0234n4b1l5,2023-04-11T05:10:17.879Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-11T04:55:46.000Z,33.5796667,-116.811,9.08,0.16,ml,16,115,0.04157,0.19,ci,ci40439520,2023-04-11T04:59:22.637Z,"13km WNW of Anza, CA",earthquake,0.5,0.67,0.095,5,automatic,ci,ci
