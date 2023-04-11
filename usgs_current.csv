@@ -266,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T21:48:33.760Z,35.6676667,-117.5601667,10.36,0.99,ml,19,72,0.08488,0.17,ci,ci40439432,2023-04-11T00:38:00.071Z,"12km ENE of Ridgecrest, CA",earthquake,0.38,0.66,0.136,9,reviewed,ci,ci
 2023-04-10T21:45:36.310Z,60.0108333333333,-153.105166666667,-0.99,-1.07,ml,5,126,,0.07,av,av91843391,2023-04-10T22:49:46.670Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.32,5.54,0.128355630993129,5,reviewed,av,av
 2023-04-10T21:38:48.270Z,35.6786667,-117.4903333,7.43,2.59,ml,39,45,0.05591,0.13,ci,ci40439424,2023-04-11T16:40:28.870Z,"13km SW of Searles Valley, CA",earthquake,0.14,0.44,0.131,25,reviewed,ci,ci
-2023-04-10T21:36:50.210Z,57.6013333333333,-156.518,8.46,0.2,ml,4,246,,0.13,av,av91843386,2023-04-10T22:47:59.990Z,"53 km E of Ugashik, Alaska",earthquake,0.87,2.58,0.322770928559627,4,reviewed,av,av
