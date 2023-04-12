@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-12T14:35:50.190Z,38.7758331,-122.7518311,0.92,1.35,md,22,81,0.01393,0.03,nc,nc73872375,2023-04-12T14:37:26.130Z,"0km ESE of The Geysers, CA",earthquake,0.24,0.45,0.18,21,automatic,nc,nc
+2023-04-12T14:35:18.600Z,38.8240013,-122.8041687,3.52,0.65,md,9,94,0.004652,0.02,nc,nc73872370,2023-04-12T14:36:56.407Z,"7km NW of The Geysers, CA",earthquake,0.49,2.14,0.23,9,automatic,nc,nc
+2023-04-12T14:34:02.000Z,38.8264999,-122.7971649,1.01,1.07,md,12,60,0.01055,0.02,nc,nc73872365,2023-04-12T14:35:43.394Z,"6km W of Cobb, CA",earthquake,0.27,0.69,0.3,13,automatic,nc,nc
 2023-04-12T14:31:03.170Z,38.8198318,-122.8056641,2.47,1.14,md,10,100,0.004952,0.01,nc,nc73872360,2023-04-12T14:32:41.240Z,"6km NW of The Geysers, CA",earthquake,0.39,1.1,0.18,10,automatic,nc,nc
 2023-04-12T14:29:18.985Z,61.3084,-150.3801,43.5,1.4,ml,,,,0.65,ak,ak0234oxbq2i,2023-04-12T14:31:56.823Z,"22 km WSW of Point MacKenzie, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-04-12T14:05:34.359Z,35.63616667,-97.98933333,5.27,1.8,ml,82,33,0.1430719244,0.23,ok,ok2023hdps,2023-04-12T14:20:22.607Z,"Oklahoma",earthquake,,0.6,0.23,49,reviewed,ok,ok
@@ -196,8 +199,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T05:41:18.340Z,38.8423347,-122.8195038,4.2,2.02,md,8,194,0.01267,0.03,nc,nc73871205,2023-04-12T05:42:55.324Z,"9km WNW of Cobb, CA",earthquake,1.1,1.97,0.2,2,automatic,nc,nc
 2023-04-12T05:40:51.100Z,38.8233337,-122.8115005,0.19,2.81,md,9,100,0.0288,0.04,nc,nc73871195,2023-04-12T09:48:24.628Z,"7km NW of The Geysers, CA",earthquake,0.23,1.18,0.17,10,automatic,nc,nc
 2023-04-12T05:40:43.360Z,38.843,-122.7673333,1.33,1.8,md,29,157,0.00709,0.05,nc,nc73871190,2023-04-12T13:16:14.822Z,"4km WNW of Cobb, CA",earthquake,0.23,0.17,0.137,11,reviewed,nc,nc
-2023-04-12T05:40:30.970Z,38.8378333,-122.8048333,0.27,2.82,md,37,58,0.01133,0.04,nc,nc73871185,2023-04-12T14:02:11.089Z,"7km WNW of Cobb, CA",earthquake,0.13,0.25,0.264,29,reviewed,nc,nc
-2023-04-12T05:39:51.750Z,38.8351667,-122.8068333,2.45,4.43,mw,103,24,0.01202,0.07,nc,nc73871215,2023-04-12T14:30:01.060Z,"7km WNW of Cobb, CA",earthquake,0.08,0.12,,4,reviewed,nc,nc
+2023-04-12T05:40:30.970Z,38.8378333,-122.8048333,0.27,2.82,md,37,58,0.01133,0.04,nc,nc73871185,2023-04-12T14:37:16.323Z,"7km WNW of Cobb, CA",earthquake,0.13,0.25,0.264,29,reviewed,nc,nc
+2023-04-12T05:39:51.750Z,38.8351667,-122.8068333,2.45,4.43,mw,103,24,0.01202,0.07,nc,nc73871215,2023-04-12T14:35:05.760Z,"7km WNW of Cobb, CA",earthquake,0.08,0.12,,4,reviewed,nc,nc
 2023-04-12T05:38:33.630Z,17.948,-66.9561666666667,15.25,2.37,md,6,215,0.07799,0.06,pr,pr71404363,2023-04-12T06:36:46.750Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.72,0.65,0.0303531481775741,4,reviewed,pr,pr
 2023-04-12T05:34:01.980Z,33.542,-116.86,15.85,1.47,ml,16,105,0.09523,0.26,ci,ci40439952,2023-04-12T05:37:58.001Z,"11km N of Aguanga, CA",earthquake,0.88,1.86,0.253,28,automatic,ci,ci
 2023-04-12T05:34:01.840Z,33.1981667,-115.8821667,5.35,1.72,ml,43,61,0.08384,0.22,ci,ci40439944,2023-04-12T05:45:21.690Z,"13km SSE of Salton City, CA",earthquake,0.29,0.95,0.153,27,automatic,ci,ci
@@ -384,4 +387,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T15:04:22.006Z,60.8328,-147.036,9.3,1.7,ml,,,,0.49,ak,ak0234na8gig,2023-04-11T15:06:05.410Z,"19 km W of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-11T14:52:55.450Z,58.1726666666667,-155.293666666667,1.77,-0.24,ml,8,165,,0.09,av,av91844456,2023-04-11T20:17:23.900Z,"Alaska Peninsula",earthquake,0.25,0.48,0.241699213186156,8,reviewed,av,av
 2023-04-11T14:43:55.970Z,38.8160019,-122.7835007,1.39,0.85,md,7,105,0.003513,0.01,nc,nc73870735,2023-04-11T15:06:12.526Z,"5km NNW of The Geysers, CA",earthquake,0.46,1.01,0.19,8,automatic,nc,nc
-2023-04-11T14:38:26.990Z,38.8380013,-122.8030014,1.89,0.71,md,11,62,0.009893,0.02,nc,nc73870730,2023-04-11T14:56:12.465Z,"7km WNW of Cobb, CA",earthquake,0.34,0.68,0.14,11,automatic,nc,nc
