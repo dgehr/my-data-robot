@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T03:28:15.374Z,69.6126,-144.2188,8.8,2.5,ml,,,,0.74,ak,ak0234oqrqf5,2023-04-12T03:34:23.787Z,"62 km SSW of Kaktovik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-12T03:23:40.200Z,33.0635,-116.396,8.33,0.87,ml,15,102,0.1336,0.28,ci,ci40439896,2023-04-12T03:27:12.584Z,"19km E of Julian, CA",earthquake,0.58,3.31,0.143,14,automatic,ci,ci
 2023-04-12T03:23:26.720Z,38.7900009,-122.7321701,0.8,0.45,md,6,120,0.007635,0.01,nc,nc73871115,2023-04-12T04:30:16.586Z,"2km NE of The Geysers, CA",earthquake,0.34,2.21,0.28,7,automatic,nc,nc
-2023-04-12T03:14:12.510Z,38.8113327,-122.8358307,0.98,1.24,md,22,61,0.005751,0.02,nc,nc73871105,2023-04-12T04:17:20.521Z,"8km WNW of The Geysers, CA",earthquake,0.18,0.35,0.19,23,automatic,nc,nc
+2023-04-12T03:14:12.510Z,38.8113327,-122.8358307,0.98,1.24,md,22,61,0.005751,0.02,nc,nc73871105,2023-04-12T04:42:10.657Z,"8km WNW of The Geysers, CA",earthquake,0.18,0.35,0.19,23,automatic,nc,nc
 2023-04-12T03:09:13.530Z,38.8069992,-122.7786636,0.88,0.6,md,7,148,0.006447,0.01,nc,nc73871090,2023-04-12T03:55:13.410Z,"4km NNW of The Geysers, CA",earthquake,0.61,0.83,0.31,8,automatic,nc,nc
 2023-04-12T03:07:52.130Z,38.8255005,-122.8031693,2.38,1.07,md,23,46,0.005789,0.01,nc,nc73871085,2023-04-12T03:43:15.343Z,"7km NW of The Geysers, CA",earthquake,0.2,0.41,0.29,25,automatic,nc,nc
 2023-04-12T03:05:28.870Z,52.3938,152.438,500.48,4.2,mb,50,135,3.276,0.53,us,us6000k3pr,2023-04-12T03:23:55.040Z,"296 km WNW of Ozernovskiy, Russia",earthquake,13.89,10.209,0.043,149,reviewed,us,us
@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T03:03:31.567Z,-6.0608,129.2026,235.142,4.9,mb,57,79,1.68,0.62,us,us6000k3pp,2023-04-12T03:20:16.040Z,"284 km SSE of Ambon, Indonesia",earthquake,9.5,7.474,0.076,58,reviewed,us,us
 2023-04-12T02:34:16.290Z,34.0051667,-116.8556667,16.75,2.08,ml,73,26,0.04976,0.22,ci,ci40439888,2023-04-12T02:37:54.308Z,"9km NNE of Banning, CA",earthquake,0.21,0.52,0.166,25,automatic,ci,ci
 2023-04-12T02:25:44.620Z,38.8096657,-122.8353348,0.87,0.73,md,14,72,0.004876,0.02,nc,nc73871070,2023-04-12T03:19:14.207Z,"8km WNW of The Geysers, CA",earthquake,0.21,0.49,0.24,14,automatic,nc,nc
-2023-04-12T02:22:35.310Z,36.5620003,-121.159668,4.24,3.32,ml,54,64,0.02287,0.16,nc,nc73871065,2023-04-12T04:30:17.586Z,"4km NNW of Pinnacles, CA",earthquake,0.24,0.63,0.247,30,automatic,nc,nc
+2023-04-12T02:22:35.310Z,36.5620003,-121.159668,4.24,3.32,ml,54,64,0.02287,0.16,nc,nc73871065,2023-04-12T04:39:13.409Z,"4km NNW of Pinnacles, CA",earthquake,0.24,0.63,0.247,30,automatic,nc,nc
 2023-04-12T02:21:21.790Z,33.7113333,-116.7548333,15.54,0.83,ml,24,69,0.0339,0.17,ci,ci40439872,2023-04-12T02:24:48.333Z,"5km SW of Idyllwild, CA",earthquake,0.31,0.46,0.178,21,automatic,ci,ci
 2023-04-12T02:18:02.440Z,33.4545,-116.5825,5.75,0.67,ml,26,103,0.04334,0.15,ci,ci40439856,2023-04-12T02:21:33.208Z,"14km SE of Anza, CA",earthquake,0.25,0.46,0.108,17,automatic,ci,ci
 2023-04-12T02:17:20.390Z,17.9313333333333,-66.8485,14.47,1.99,md,7,222,0.05242,0.07,pr,pr71404333,2023-04-12T02:37:24.180Z,"6 km SE of Maria Antonia, Puerto Rico",earthquake,0.96,0.74,0.0903799345914755,5,reviewed,pr,pr
