@@ -1,5 +1,4 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-13T19:59:30.490Z,32.7826667,-116.5405,5.46,1.69,ml,7,108,0.1472,0.3,ci,ci40440544,2023-04-13T20:03:10.915Z,"4km SSW of Pine Valley, CA",earthquake,1.4,31.61,0.137,6,automatic,ci,ci
 2023-04-13T19:42:51.890Z,19.4003333333333,-155.284666666667,0.85,0.4,md,11,116,,0.07,hv,hv73362937,2023-04-13T19:56:58.820Z,"Hawaii region, Hawaii",earthquake,0.25,0.22,0.166582693950763,4,reviewed,hv,hv
 2023-04-13T19:33:03.910Z,33.4916667,-116.4553333,11.62,0.76,ml,29,66,0.04018,0.2,ci,ci40440536,2023-04-13T19:36:37.760Z,"21km ESE of Anza, CA",earthquake,0.41,0.72,0.112,14,automatic,ci,ci
 2023-04-13T19:32:56.070Z,19.4083333333333,-155.286833333333,0.96,0.82,md,19,70,,0.11,hv,hv73362922,2023-04-13T19:54:07.810Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.12,0.133999661407403,6,reviewed,hv,hv
@@ -209,7 +208,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-13T00:57:24.880Z,33.4608333,-116.5611667,8.9,0.18,ml,16,114,0.04814,0.12,ci,ci37527332,2023-04-13T14:57:15.894Z,"15km SE of Anza, CA",earthquake,0.35,0.5,0.119,8,reviewed,ci,ci
 2023-04-13T00:57:11.610Z,33.3801667,-116.8818333,13.53,0.86,ml,39,37,0.1043,0.16,ci,ci40440320,2023-04-13T14:48:52.786Z,"3km NNW of Palomar Observatory, CA",earthquake,0.19,0.6,0.221,14,reviewed,ci,ci
 2023-04-13T00:55:11.284Z,37.6961,142.4485,31.232,4.4,mb,27,209,3.271,0.5,us,us6000k3yb,2023-04-13T02:08:59.040Z,"128 km SE of Ishinomaki, Japan",earthquake,11.76,7.091,0.126,18,reviewed,us,us
-2023-04-13T00:52:21.630Z,33.3748333,-116.8818333,12.02,2.63,ml,89,25,0.1263,0.23,ci,ci40440312,2023-04-13T16:48:18.141Z,"3km NW of Palomar Observatory, CA",earthquake,0.18,0.77,0.212,25,automatic,ci,ci
+2023-04-13T00:52:21.630Z,33.3748333,-116.8818333,12.02,2.63,ml,89,25,0.1263,0.23,ci,ci40440312,2023-04-13T20:25:13.606Z,"3km NW of Palomar Observatory, CA",earthquake,0.18,0.77,0.212,25,automatic,ci,ci
 2023-04-13T00:47:59.410Z,58.1878333333333,-155.294833333333,1.68,-0.31,ml,5,169,,0.03,av,av91846011,2023-04-13T02:56:01.010Z,"Alaska Peninsula",earthquake,0.28,0.76,0.358686619136316,5,reviewed,av,av
 2023-04-13T00:42:57.240Z,19.2014999389648,-155.382339477539,28.2199993133545,2.31999993,md,22,208,,0.109999999,hv,hv73362207,2023-04-13T00:48:45.490Z,"10 km E of Pāhala, Hawaii",earthquake,1.18,1.16999996,2.31999993,4,automatic,hv,hv
 2023-04-13T00:40:27.035Z,61.9535,-150.5927,13.6,1.9,ml,,,,0.81,ak,ak0234qcldlc,2023-04-13T00:42:05.802Z,"37 km NW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -277,4 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T20:27:40.091Z,62.2125,-149.4475,27.5,1.4,ml,,,,0.4,ak,ak0234p0vxw9,2023-04-12T20:31:19.549Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-12T20:26:45.105Z,65.3957,-166.0172,6.5,3.1,ml,,,,1.03,ak,ak0234p0vqke,2023-04-12T20:37:38.316Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-12T20:26:45.049Z,34.48683333,-96.82733333,0,1.57,ml,38,93,0.2591491461,0.46,ok,ok2023hech,2023-04-13T16:01:49.526Z,"8 km SSE of Hickory, Oklahoma",quarry blast,,0.6,0.18,7,reviewed,ok,ok
-2023-04-12T20:20:29.260Z,33.6493333,-116.6996667,13.73,0.79,ml,22,101,0.06285,0.18,ci,ci40440192,2023-04-12T20:53:15.163Z,"10km S of Idyllwild, CA",earthquake,0.41,0.5,0.303,17,reviewed,ci,ci
