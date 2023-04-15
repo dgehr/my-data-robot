@@ -206,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-14T17:36:48.030Z,59.9881666666667,-152.8345,8.29,-0.03,ml,5,314,,0.18,av,av91848516,2023-04-14T20:34:50.560Z,"60 km WNW of Anchor Point, Alaska",earthquake,1.87,2.88,0.152708650782088,5,reviewed,av,av
 2023-04-14T17:34:47.035Z,62.702,-148.2947,49.4,1.4,ml,,,,0.86,ak,ak0234sa7um7,2023-04-14T17:37:22.118Z,"83 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-14T17:31:51.324Z,60.218,-152.0532,80,1.4,ml,,,,0.18,ak,ak0234sa77ss,2023-04-14T17:33:25.021Z,"28 km NW of Ninilchik, Alaska",earthquake,,2,,,automatic,ak,ak
-2023-04-14T17:27:42.330Z,51.8548333333333,-178.1185,3.5,1.37,ml,5,232,,0.32,av,av91848501,2023-04-14T20:26:27.610Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.44,1.03,0.169840702263967,5,reviewed,av,av
