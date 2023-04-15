@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-15T16:56:30.590Z,34.026001,-117.2166672,13.95,1.83,ml,81,44,0.08649,0.19,ci,ci40441160,2023-04-15T17:00:10.119Z,"5km SW of Redlands, CA",earthquake,0.21,0.44,0.278,28,automatic,ci,ci
+2023-04-15T16:54:42.285Z,63.1979,-145.0874,3.6,1.7,ml,,,,0.64,ak,ak0234txa1gk,2023-04-15T16:56:30.735Z,"29 km ENE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-15T16:54:14.970Z,38.8404999,-122.802002,1.68,0.21,md,8,69,0.009341,0.01,nc,nc73873995,2023-04-15T16:55:51.272Z,"7km WNW of Cobb, CA",earthquake,0.47,1.34,0.11,9,automatic,nc,nc
+2023-04-15T16:53:41.760Z,38.8263321,-122.8306656,2.17,0.68,md,9,76,0.004684,0.01,nc,nc73873990,2023-04-15T16:55:17.202Z,"8km NW of The Geysers, CA",earthquake,0.41,0.94,0.21,10,automatic,nc,nc
 2023-04-15T16:46:42.130Z,38.795166,-122.7823334,2.35,0.71,md,8,141,0.004794,0.02,nc,nc73873985,2023-04-15T16:48:16.037Z,"3km NW of The Geysers, CA",earthquake,0.52,1,0.12,9,automatic,nc,nc
 2023-04-15T16:21:30.060Z,38.7891655,-122.7839966,8.27,0.76,md,10,160,0.005045,0.08,nc,nc73873980,2023-04-15T16:23:06.832Z,"3km WNW of The Geysers, CA",earthquake,1.66,3.66,0.21,11,automatic,nc,nc
-2023-04-15T16:16:19.800Z,38.8128319,-122.8083344,1.2,0.75,md,9,142,0.01128,0.01,nc,nc73873970,2023-04-15T16:17:56.965Z,"6km NW of The Geysers, CA",earthquake,0.36,1.03,0.12,9,automatic,nc,nc
-2023-04-15T16:15:49.465Z,62.9462,-149.7143,250,1.1,ml,,,,0.88,ak,ak0234tx1p36,2023-04-15T16:18:12.046Z,"58 km NNE of Chase, Alaska",earthquake,,5.7,,,automatic,ak,ak
+2023-04-15T16:16:19.800Z,38.8128319,-122.8083344,1.2,0.75,md,9,142,0.01128,0.01,nc,nc73873970,2023-04-15T16:56:13.486Z,"6km NW of The Geysers, CA",earthquake,0.36,1.03,0.12,9,automatic,nc,nc
 2023-04-15T16:14:18.870Z,34.2306667,-116.7976667,0.01,1.35,ml,11,216,0.3438,0.36,ci,ci40441144,2023-04-15T16:17:54.913Z,"6km SE of Big Bear City, CA",earthquake,2.99,31.61,0.231,7,automatic,ci,ci
 2023-04-15T16:10:09.440Z,38.8144989,-122.831337,1.31,0.68,md,8,101,0.00587,0.01,nc,nc73873965,2023-04-15T16:44:12.409Z,"8km WNW of The Geysers, CA",earthquake,0.32,0.86,0.26,9,automatic,nc,nc
 2023-04-15T16:06:41.180Z,38.814167,-122.8301697,1.4,0.69,md,15,60,0.005348,0.01,nc,nc73873960,2023-04-15T16:32:12.324Z,"8km WNW of The Geysers, CA",earthquake,0.25,0.55,0.46,14,automatic,nc,nc
@@ -203,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-14T17:27:42.330Z,51.8548333333333,-178.1185,3.5,1.37,ml,5,232,,0.32,av,av91848501,2023-04-14T20:26:27.610Z,"102 km W of Adak, Alaska",earthquake,1.44,1.03,0.169840702263967,5,reviewed,av,av
 2023-04-14T17:07:58.330Z,35.9958333,-117.3525,3.82,1.29,ml,22,74,0.1188,0.17,ci,ci40440808,2023-04-14T20:01:52.885Z,"26km N of Searles Valley, CA",earthquake,0.27,0.88,0.108,9,reviewed,ci,ci
 2023-04-14T17:06:19.242Z,14.224,-92.2395,44.124,4.4,mb,121,182,2.408,0.62,us,us6000k4if,2023-04-14T19:24:29.040Z,"near the coast of Chiapas, Mexico",earthquake,14.19,11.745,0.049,123,reviewed,us,us
-2023-04-14T16:58:36.090Z,60.0246666666667,-153.062166666667,-0.46,-0.62,ml,5,111,,0.1,av,av91848466,2023-04-14T18:33:31.550Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.36,2.84,0.342728046118994,5,reviewed,av,av
