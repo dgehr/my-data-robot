@@ -154,4 +154,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-15T15:50:51.540Z,33.9798333,-116.837,10.36,1.13,ml,38,46,0.06028,0.18,ci,ci40441120,2023-04-15T15:54:27.247Z,"7km NNE of Banning, CA",earthquake,0.24,0.46,0.133,26,automatic,ci,ci
 2023-04-15T15:07:06.934Z,-4.8648,102.9744,56.688,5.5,mww,159,77,0.501,0.9,us,us6000k4pf,2023-04-16T00:41:14.221Z,"97 km SSW of Pagar Alam, Indonesia",earthquake,6.99,5.064,0.073,18,reviewed,us,us
 2023-04-15T15:01:33.253Z,-33.7544,56.184,10,5.9,mww,26,118,11.867,1.05,us,us6000k4pd,2023-04-15T17:04:23.596Z,"Southwest Indian Ridge",earthquake,7.45,1.921,0.068,21,reviewed,us,us
-2023-04-15T14:46:41.538Z,58.1896,-155.3346,1.1,0.6,ml,,,,0.22,ak,ak0234tw1ggp,2023-04-15T14:47:41.425Z,"86 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
