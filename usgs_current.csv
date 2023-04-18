@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-18T23:19:19.980Z,38.8338318,-122.7886658,0.52,1.46,md,25,63,0.004755,0.04,nc,nc73875280,2023-04-18T23:20:56.521Z,"6km WNW of Cobb, CA",earthquake,0.17,0.33,0.15,25,automatic,nc,nc
+2023-04-18T23:19:19.980Z,38.8338318,-122.7886658,0.52,1.46,md,25,63,0.004755,0.04,nc,nc73875280,2023-04-18T23:30:10.967Z,"6km WNW of Cobb, CA",earthquake,0.17,0.33,0.15,25,automatic,nc,nc
 2023-04-18T22:50:19.040Z,36.4846649,-120.8856659,8.27,1.23,md,6,177,0.1231,0.01,nc,nc73875275,2023-04-18T23:03:10.822Z,"20km WNW of New Idria, CA",earthquake,0.56,2.77,0.26,7,automatic,nc,nc
 2023-04-18T22:39:29.789Z,-3.8909,101.7144,48.82,4.6,mb,27,180,1.323,0.98,us,us6000k5eb,2023-04-18T22:57:16.040Z,"62 km W of Bengkulu, Indonesia",earthquake,6.88,8.599,0.141,15,reviewed,us,us
 2023-04-18T22:30:29.670Z,38.7973328,-122.7815018,1.53,0.75,md,8,77,0.006507,0.01,nc,nc73875260,2023-04-18T22:32:05.647Z,"3km NW of The Geysers, CA",earthquake,0.43,1,0.11,8,automatic,nc,nc
