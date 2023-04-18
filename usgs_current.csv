@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-18T10:03:29.420Z,33.4606667,-116.4433365,7.73,1.36,ml,51,84,0.06428,0.21,ci,ci40442304,2023-04-18T10:05:34.311Z,"24km NNW of Borrego Springs, CA",earthquake,0.27,0.79,0.177,14,automatic,ci,ci
 2023-04-18T09:50:59.777Z,63.1141,-150.8456,25,1.6,ml,,,,0.89,ak,ak0234yrp86x,2023-04-18T09:52:49.252Z,"64 km SE of Denali National Park, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-04-18T09:48:24.200Z,19.2251663208008,-155.044830322266,41.8600006103516,2.95,ml,46,221,,0.129999995,hv,hv73368022,2023-04-18T09:53:55.130Z,"28 km SSE of Fern Forest, Hawaii",earthquake,0.83,0.49000001,1.88,23,automatic,hv,hv
 2023-04-18T09:48:13.420Z,19.3971672058105,-155.285659790039,-1.08000004291534,2.49,ml,5,154,,0.100000001,hv,hv73368017,2023-04-18T09:53:44.380Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.870000005,1.86,23,automatic,hv,hv
@@ -174,7 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T10:27:51.030Z,19.158166885376,-155.484664916992,31.6299991607666,2.15,ml,37,128,,0.140000001,hv,hv73366692,2023-04-17T10:33:21.060Z,"5 km S of Pāhala, Hawaii",earthquake,0.67,1,5.34,3,automatic,hv,hv
 2023-04-17T10:20:03.320Z,35.505,-118.3873333,7.05,2.55,ml,48,32,0.1726,0.15,ci,ci40441856,2023-04-17T23:16:42.210Z,"13km SE of Bodfish, CA",earthquake,0.13,1.1,0.206,26,reviewed,ci,ci
 2023-04-17T10:08:39.796Z,61.7204,-150.7574,58.2,1.7,ml,,,,0.39,ak,ak0234x4i9or,2023-04-17T10:10:47.029Z,"23 km NNW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-04-17T10:02:32.810Z,53.5033333333333,-166.963,19.32,0.38,ml,6,324,,0.13,av,av91097603,2023-04-18T02:55:40.190Z,"50 km SW of Unalaska, Alaska",earthquake,1.73,0.88,0.194420586105809,6,reviewed,av,av
-2023-04-17T09:55:59.183Z,42.1444,-120.1847,6.4,0.3,ml,3,241.73,0.152,0.0481,nn,nn00858318,2023-04-17T20:31:29.931Z,"14 km ESE of Lakeview, Oregon",earthquake,,6.8,0.97,3,reviewed,nn,nn
-2023-04-17T09:55:05.100Z,38.8320007,-122.7969971,2.18,0.79,md,17,43,0.008243,0.01,nc,nc73874640,2023-04-17T10:29:15.363Z,"6km W of Cobb, CA",earthquake,0.26,0.79,0.21,19,automatic,nc,nc
-2023-04-17T09:54:58.350Z,36.5701675,-121.0709991,11.29,1.94,md,20,129,0.02663,0.11,nc,nc73874635,2023-04-17T11:52:12.733Z,"8km ENE of Pinnacles, CA",earthquake,0.55,0.81,0.15,21,automatic,nc,nc
