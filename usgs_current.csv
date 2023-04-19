@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-19T09:52:05.360Z,38.7924995,-122.7559967,1.1,1.07,md,9,98,0.008617,0.03,nc,nc73875385,2023-04-19T09:53:39.805Z,"2km N of The Geysers, CA",earthquake,0.3,0.64,0.2,10,automatic,nc,nc
 2023-04-19T09:25:46.053Z,60.8542,-146.4413,18.8,1.5,ml,,,,0.56,ak,ak02350f36q5,2023-04-19T09:27:57.682Z,"12 km E of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-19T09:15:34.274Z,61.7382,-151.8206,163.1,1.5,ml,,,,1.1,ak,ak02350f10nn,2023-04-19T09:17:32.832Z,"Southern Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-04-19T09:11:05.420Z,19.3963333333333,-155.269333333333,0.16,0.48,md,11,102,,0.11,hv,hv73369047,2023-04-19T09:28:00.950Z,"6 km SW of Volcano, Hawaii",earthquake,0.25,0.16,0.126590509580932,3,reviewed,hv,hv
@@ -204,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-18T10:03:29.380Z,33.4605,-116.4425,7.68,1.34,ml,64,51,0.06429,0.18,ci,ci40442304,2023-04-18T17:50:04.670Z,"24km NNW of Borrego Springs, CA",earthquake,0.16,0.51,0.106,33,reviewed,ci,ci
 2023-04-18T10:01:10.315Z,36.4384,-115.9229,7.4,1.5,ml,28,134.53,0.226,0.1182,nn,nn00858359,2023-04-18T16:27:09.432Z,"26 km NNE of Pahrump, Nevada",earthquake,,2.3,1,15,reviewed,nn,nn
 2023-04-18T09:57:42.014Z,37.3073,-116.4181,6.2,0.3,ml,14,231.25,0.02,0.1403,nn,nn00858373,2023-04-18T20:00:28.858Z,"Nevada",earthquake,,1.2,0.95,8,reviewed,nn,nn
-2023-04-18T09:50:59.777Z,63.1141,-150.8456,25,1.6,ml,,,,0.89,ak,ak0234yrp86x,2023-04-18T09:52:49.252Z,"64 km SE of Denali National Park, Alaska",earthquake,,2.2,,,automatic,ak,ak
