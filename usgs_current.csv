@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-19T20:48:23.487Z,61.5054,-151.9974,0.3,0.7,ml,,,,0.28,ak,ak02350lru3w,2023-04-19T20:49:37.708Z,"62 km SSW of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-04-19T20:44:12.580Z,19.3333339691162,-155.135833740234,2.52999997138977,2.18,ml,34,100,,0.189999998,hv,hv73369517,2023-04-19T20:49:43.890Z,"14 km S of Fern Forest, Hawaii",earthquake,0.37,0.660000026,0.35,9,automatic,hv,hv
+2023-04-19T20:43:58.050Z,19.324333190918,-155.132171630859,4.03000020980835,2.17,ml,16,226,,0.0900000036,hv,hv73369512,2023-04-19T20:49:28.420Z,"Hawaii region, Hawaii",earthquake,0.87,2.58999991,0.38,8,automatic,hv,hv
 2023-04-19T20:41:43.380Z,61.5664,-151.7798,76.3,0.9,ml,,,,1.01,ak,ak02350lqdmq,2023-04-19T20:44:08.451Z,"51 km SSW of Skwentna, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-04-19T20:29:27.110Z,33.957,-116.9215,13.37,1.27,ml,48,38,0.1225,0.19,ci,ci40442888,2023-04-19T20:33:08.066Z,"5km NW of Banning, CA",earthquake,0.21,0.69,0.137,27,automatic,ci,ci
 2023-04-19T20:00:35.964Z,59.3053,-153.4662,102.9,1.8,ml,,,,0.36,ak,ak02350lhkp9,2023-04-19T20:02:36.000Z,"64 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -228,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-18T21:15:26.530Z,61.3411666666667,-152.244333333333,2.87,-0.16,ml,8,160,,0.2,av,av91854051,2023-04-19T19:50:47.360Z,"66 km WNW of Beluga, Alaska",earthquake,0.67,1.43,0.13394259779687,7,reviewed,av,av
 2023-04-18T21:12:26.530Z,33.5795,-116.8063333,6.64,0.53,ml,17,98,0.03799,0.18,ci,ci40442520,2023-04-19T17:15:06.056Z,"13km WNW of Anza, CA",earthquake,0.47,0.74,0.133,5,reviewed,ci,ci
 2023-04-18T20:59:36.630Z,58.1803333333333,-155.307666666667,1.71,0.01,ml,8,160,,0.06,av,av91854041,2023-04-19T19:25:49.420Z,"84 km NW of Karluk, Alaska",earthquake,0.24,0.53,0.231283935763625,8,reviewed,av,av
-2023-04-18T20:47:41.700Z,47.6135,-121.786,-0.47,1.996451497077942,ml,4,146,0.1042,0.12,uw,uw61918386,2023-04-19T00:52:26.840Z,"Washington",explosion,1.35,31.61,0.4898228943347931,8,reviewed,uw,uw
