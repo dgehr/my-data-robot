@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-20T14:33:23.594Z,58.6673,-154.4937,97.5,1.3,ml,,,,0.46,ak,ak023525nd8n,2023-04-20T14:34:46.826Z,"87 km S of Kokhanok, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-04-20T14:18:12.970Z,19.2465000152588,-155.392837524414,29.3899993896484,1.72000003,md,34,154,,0.119999997,hv,hv73370277,2023-04-20T14:21:25.650Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.78,0.819999993,1.16999996,7,automatic,hv,hv
 2023-04-20T14:13:49.586Z,57.5864,-155.3277,184.8,1.3,ml,,,,0.85,ak,ak023525j4xa,2023-04-20T14:16:21.038Z,"52 km W of Karluk, Alaska",earthquake,,6.2,,,automatic,ak,ak
 2023-04-20T14:05:39.590Z,33.7496667,-115.9088333,8.29,0.97,ml,17,116,0.07841,0.18,ci,ci40443096,2023-04-20T14:09:21.137Z,"25km ENE of Thermal, CA",earthquake,0.39,1.03,0.072,14,automatic,ci,ci
@@ -95,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-20T03:48:13.788Z,61.5189,-146.456,29.2,3.4,ml,,,,0.69,ak,ak02351z6sho,2023-04-20T04:14:14.040Z,"43 km N of Valdez, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-04-20T03:45:17.760Z,61.1076,-150.8987,53.8,1.8,ml,,,,0.13,ak,ak02351z65q8,2023-04-20T03:46:33.161Z,"10 km ESE of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-20T03:42:54.260Z,37.9203333,-121.8351667,11.41,1.73,md,60,64,0.0575,0.19,nc,nc73875705,2023-04-20T09:42:10.411Z,"9km ESE of Clayton, CA",earthquake,0.24,0.5,0.126,58,reviewed,nc,nc
-2023-04-20T03:35:47.710Z,37.9163333,-121.8396667,16.04,3.65,mw,207,32,0.05353,0.26,nc,nc73875700,2023-04-20T14:25:49.186Z,"9km ESE of Clayton, CA",earthquake,0.15,0.39,,3,reviewed,nc,nc
+2023-04-20T03:35:47.710Z,37.9163333,-121.8396667,16.04,3.65,mw,207,32,0.05353,0.26,nc,nc73875700,2023-04-20T14:30:23.411Z,"9km ESE of Clayton, CA",earthquake,0.15,0.39,,3,reviewed,nc,nc
 2023-04-20T03:34:58.140Z,38.7789993,-122.7450027,0.3,1.17,md,15,75,0.007731,0.03,nc,nc73875695,2023-04-20T06:10:14.068Z,"1km E of The Geysers, CA",earthquake,0.2,0.41,0.17,14,automatic,nc,nc
 2023-04-20T03:22:00.990Z,19.3449993133545,-155.188003540039,0.769999980926514,1.82,ml,34,96,,0.25,hv,hv73369772,2023-04-20T03:27:32.400Z,"11 km SSE of Volcano, Hawaii",earthquake,0.38,0.460000008,0.22,3,automatic,hv,hv
 2023-04-20T03:21:05.740Z,34.4985,-97.6915,14.83,2.07,ml,78,43,0.1547696289,0.41,ok,ok2023hrkm,2023-04-20T12:03:31.697Z,"4 km NNW of Velma, Oklahoma",earthquake,,1.3,0.18,27,reviewed,ok,ok
