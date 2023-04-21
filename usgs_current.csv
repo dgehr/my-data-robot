@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-21T11:31:47.998Z,61.6817,-147.5635,87.5,1.4,ml,,,,1.21,ak,ak02353re1db,2023-04-21T11:33:52.034Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-04-21T11:29:25.900Z,38.7939987,-122.7646637,4.22,0.75,md,8,86,0.007665,0.02,nc,nc73876225,2023-04-21T11:31:03.803Z,"2km NNW of The Geysers, CA",earthquake,0.7,2.02,0.02,6,automatic,nc,nc
+2023-04-21T11:29:25.900Z,38.7939987,-122.7646637,4.22,0.75,md,8,86,0.007665,0.02,nc,nc73876225,2023-04-21T11:46:15.152Z,"2km NNW of The Geysers, CA",earthquake,0.7,2.02,0.02,6,automatic,nc,nc
 2023-04-21T11:28:56.115Z,61.0228,-152.3918,104.1,0.7,ml,,,,0.49,ak,ak02353rdeuj,2023-04-21T11:30:41.362Z,"67 km W of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-21T11:16:00.853Z,2.8448,127.181,49.857,4.7,mb,48,133,2.067,0.66,us,us6000k611,2023-04-21T11:32:35.040Z,"Molucca Sea",earthquake,7.84,7.671,0.081,46,reviewed,us,us
 2023-04-21T11:08:24.830Z,38.7781677,-122.7566681,1.12,0.74,md,8,77,0.01028,0.02,nc,nc73876220,2023-04-21T11:25:15.047Z,"0km NNW of The Geysers, CA",earthquake,0.41,0.81,0.2,7,automatic,nc,nc
@@ -257,5 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-20T11:56:40.020Z,59.999,-153.059,-2.56,-1.08,ml,5,139,,0.13,av,av91855641,2023-04-20T23:28:25.360Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.34,1.79,0.135645040186656,5,reviewed,av,av
 2023-04-20T11:56:18.882Z,38.5018,-119.4584,4.8,0.9,ml,6,243.06,0.016,0.0477,nn,nn00858477,2023-04-20T21:22:45.055Z,"California-Nevada border region",earthquake,,2.5,0,1,reviewed,nn,nn
 2023-04-20T11:50:01.264Z,61.2162,-150.0363,42.3,1.3,ml,,,,0.35,ak,ak023523ynvi,2023-04-20T12:02:00.448Z,"7 km W of Anchorage, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-04-20T11:43:03.860Z,19.3856666666667,-155.281,1.61,2.53,ml,27,66,,0.11,hv,hv73370112,2023-04-20T13:00:02.811Z,"8 km SW of Volcano, Hawaii",earthquake,0.21,0.13,0.279183641827299,15,reviewed,hv,hv
-2023-04-20T11:42:56.950Z,19.4028333333333,-155.270666666667,0.24,0.4,md,13,72,,0.1,hv,hv73370107,2023-04-20T12:49:03.210Z,"5 km SW of Volcano, Hawaii",earthquake,0.16,0.27,0.121203474158585,4,reviewed,hv,hv
