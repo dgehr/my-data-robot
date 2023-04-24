@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-24T16:30:34.310Z,35.6568333,-117.486,6.09,-0.04,ml,5,167,0.05139,0.09,ci,ci40444920,2023-04-24T18:35:27.580Z,"14km SSW of Searles Valley, CA",earthquake,0.44,0.61,0.116,2,reviewed,ci,ci
 2023-04-24T16:26:53.480Z,41.8878333,-111.6245,11.39,1.46,ml,18,73,0.1339,0.11,uu,uu60538076,2023-04-24T17:19:17.400Z,"16 km ESE of Richmond, Utah",earthquake,0.35,0.78,0.135,2,reviewed,uu,uu
 2023-04-24T16:26:36.136Z,-30.011,-177.4773,35,5,mb,35,129,0.84,1.2,us,us6000k6st,2023-04-24T16:45:19.040Z,"Kermadec Islands, New Zealand",earthquake,6.3,1.833,0.092,38,reviewed,us,us
-2023-04-24T16:21:25.690Z,37.7671667,-122.566,11.06,1.16,md,21,159,0.0774,0.05,nc,nc73877370,2023-04-24T19:37:11.474Z,"7km NW of San Francisco Zoo, CA",earthquake,0.38,0.54,0.131,18,reviewed,nc,nc
+2023-04-24T16:21:25.690Z,37.7671667,-122.566,11.06,1.16,md,21,159,0.0774,0.05,nc,nc73877370,2023-04-24T19:47:19.541Z,"7km NW of San Francisco Zoo, CA",earthquake,0.38,0.54,0.131,18,reviewed,nc,nc
 2023-04-24T16:18:04.000Z,58.1696666666667,-155.3275,0.92,-0.19,ml,6,177,,0.03,av,av91862111,2023-04-24T19:25:03.130Z,"84 km NW of Karluk, Alaska",earthquake,0.23,1.18,0.235884628689943,6,reviewed,av,av
 2023-04-24T16:07:03.180Z,17.9301666666667,-67.0195,10.34,2.45,md,6,241,0.04559,0.11,pr,pr71406598,2023-04-24T16:30:29.040Z,"5 km SSE of La Parguera, Puerto Rico",earthquake,0.86,0.66,0.0783708614736938,3,reviewed,pr,pr
 2023-04-24T16:06:20.870Z,58.1738333333333,-155.326,2.56,0.39,ml,9,172,,0.1,av,av91862096,2023-04-24T19:22:20.420Z,"84 km NW of Karluk, Alaska",earthquake,0.28,0.39,0.290354516719672,9,reviewed,av,av
@@ -45,6 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-24T15:20:47.669Z,9.0327,126.2764,77.497,4.5,mb,54,110,2.069,0.96,us,us6000k6sf,2023-04-24T16:33:17.040Z,"5 km ENE of Tago, Philippines",earthquake,10.83,4.896,0.078,49,reviewed,us,us
 2023-04-24T15:19:56.380Z,33.4678333,-116.4735,13.43,1.31,ml,42,81,0.06831,0.17,ci,ci40444888,2023-04-24T15:30:55.510Z,"21km ESE of Anza, CA",earthquake,0.23,0.45,0.173,28,automatic,ci,ci
 2023-04-24T15:11:32.236Z,64.7519,-148.501,4.5,0.9,ml,,,,1.13,ak,ak02358s9hmn,2023-04-24T15:13:29.168Z,"25 km WSW of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-24T15:08:44.510Z,57.59,-156.489333333333,7.47,1.34,ml,5,252,,0.11,av,av91862041,2023-04-24T19:53:28.530Z,"55 km E of Ugashik, Alaska",earthquake,0.59,0.98,0.423513518042999,5,reviewed,av,av
 2023-04-24T15:07:50.347Z,64.413,-146.9807,13.5,1,ml,,,,0.33,ak,ak02358s8o9a,2023-04-24T15:10:24.282Z,"12 km SSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-24T15:05:11.150Z,38.8258324,-122.8056641,2.32,0.76,md,9,107,0.004218,0.02,nc,nc73877345,2023-04-24T17:47:19.796Z,"7km NW of The Geysers, CA",earthquake,0.47,0.94,0.13,9,automatic,nc,nc
 2023-04-24T15:01:14.868Z,65.6703,-148.6101,0,1.4,ml,,,,0.62,ak,ak02358s7b8e,2023-04-24T15:03:12.191Z,"16 km N of Livengood, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -222,7 +223,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-23T20:59:07.190Z,37.9718323,-121.8304977,19.96,2.65,md,49,92,0.1077,0.27,nc,nc73877105,2023-04-24T09:25:55.984Z,"4km SSW of Antioch, CA",earthquake,0.4,0.53,0.14,48,automatic,nc,nc
 2023-04-23T20:55:31.350Z,33.0705,-117.6116667,10.94,1.64,ml,32,237,0.308,0.18,ci,ci40444608,2023-04-24T16:46:41.141Z,"26km WSW of Carlsbad, CA",earthquake,0.5,0.84,0.146,25,reviewed,ci,ci
 2023-04-23T20:46:14.306Z,58.1857,-155.2343,0,1.6,ml,,,,0.66,ak,ak023577wrxy,2023-04-23T20:47:48.843Z,"82 km NW of Karluk, Alaska",earthquake,,12.5,,,automatic,ak,ak
-2023-04-23T20:42:39.310Z,37.6643333,-122.5188333,5.45,1.45,md,28,106,0.03136,0.06,nc,nc73877090,2023-04-24T19:43:04.733Z,"5km WSW of Colma, CA",earthquake,0.31,0.22,0.188,25,reviewed,nc,nc
+2023-04-23T20:42:39.310Z,37.6643333,-122.5188333,5.45,1.45,md,28,106,0.03136,0.06,nc,nc73877090,2023-04-24T19:51:11.564Z,"5km WSW of Colma, CA",earthquake,0.31,0.22,0.188,25,reviewed,nc,nc
 2023-04-23T20:37:33.200Z,37.6643333,-122.5133362,5.28,1.81,md,16,192,0.04085,0.04,nc,nc73877080,2023-04-24T06:38:05.846Z,"5km WSW of Colma, CA",earthquake,0.33,0.54,0.15,12,automatic,nc,nc
 2023-04-23T20:34:57.260Z,38.8381653,-122.7826691,1.87,1.1,md,14,76,0.005999,0.02,nc,nc73877070,2023-04-24T00:18:15.227Z,"6km WNW of Cobb, CA",earthquake,0.29,0.56,0.33,16,automatic,nc,nc
 2023-04-23T20:32:58.990Z,37.967,-121.8421667,18.65,1.66,md,29,110,0.07496,0.11,nc,nc73877075,2023-04-24T02:36:14.151Z,"5km SW of Antioch, CA",earthquake,0.34,0.63,0.307,31,reviewed,nc,nc
@@ -233,5 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-23T20:05:55.120Z,46.93783333333333,-121.9575,12.74,0.4,ml,17,116,0.03358,0.11,uw,uw61919221,2023-04-23T22:17:46.410Z,"17 km SSE of Carbonado, Washington",earthquake,0.48,0.48,0.08944802870326402,10,reviewed,uw,uw
 2023-04-23T20:01:29.280Z,37.9469986,-121.8416672,5.77,2.13,md,14,91,0.1322,0.17,nc,nc73877050,2023-04-23T23:36:13.004Z,"7km SSW of Antioch, CA",earthquake,0.43,12.85,0.11,15,automatic,nc,nc
 2023-04-23T19:57:40.520Z,44.7403333,-110.0333333,5.51,0.2,md,4,174,0.07985,0.09,uu,uu60538041,2023-04-24T17:23:01.260Z,"29 km S of Silver Gate, Montana",earthquake,1.15,3.21,0.13,3,reviewed,uu,uu
-2023-04-23T19:52:52.420Z,33.9141667,-116.9315,14.95,0.75,ml,31,91,0.1375,0.15,ci,ci40444592,2023-04-24T16:31:32.984Z,"4km ESE of Beaumont, CA",earthquake,0.22,0.55,0.116,11,reviewed,ci,ci
-2023-04-23T19:48:53.690Z,37.9749985,-121.8416672,19.17,2.52,md,46,89,0.1471,0.25,nc,nc73877045,2023-04-23T22:54:12.743Z,"5km SW of Antioch, CA",earthquake,0.38,0.45,0.12,40,automatic,nc,nc
