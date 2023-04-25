@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-25T10:42:43.560Z,39.3768349,-122.9061661,2.61,2.38,md,21,120,0.1719,0.11,nc,nc73877550,2023-04-25T10:44:22.563Z,"6km SE of Lake Pillsbury, CA",earthquake,0.3,2.02,0.17,18,automatic,nc,nc
+2023-04-25T10:40:27.730Z,61.5085,-151.2583,25.5,0.9,ml,,,,0.36,ak,ak0235aczvmd,2023-04-25T10:41:58.772Z,"39 km W of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-04-25T10:35:37.460Z,33.6026667,-116.804,6.65,0.34,ml,13,67,0.0456,0.16,ci,ci40445216,2023-04-25T10:39:10.280Z,"13km WNW of Anza, CA",earthquake,0.44,0.68,0.242,5,automatic,ci,ci
 2023-04-25T10:18:04.057Z,65.4561,-144.7746,0,1.4,ml,,,,0.91,ak,ak0235acv41h,2023-04-25T10:20:14.244Z,"13 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-25T10:07:19.870Z,34.0315,-117.1061667,9.73,0.84,ml,22,57,0.006524,0.19,ci,ci40445208,2023-04-25T10:10:55.902Z,"5km SSE of Mentone, CA",earthquake,0.33,0.78,0.172,18,automatic,ci,ci
 2023-04-25T10:04:47.382Z,59.2366,-153.3262,99.4,1.5,ml,,,,0.5,ak,ak0235acs7cy,2023-04-25T10:06:19.926Z,"Southern Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -216,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-24T10:52:27.330Z,33.2253333,-116.087,8.34,1.42,ml,42,52,0.09709,0.22,ci,ci40444792,2023-04-24T11:02:56.620Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.26,1.15,0.116,27,automatic,ci,ci
 2023-04-24T10:51:45.270Z,54.1376666666667,-165.924666666667,3.93,-1.07,ml,7,92,,0.25,av,av91098238,2023-04-25T02:23:40.900Z,"9 km W of Akutan, Alaska",earthquake,0.37,0.89,0.190290905105891,7,reviewed,av,av
 2023-04-24T10:47:07.860Z,33.3881667,-116.9,14.44,0.73,ml,22,62,0.04653,0.16,ci,ci40444784,2023-04-24T10:50:39.129Z,"5km NW of Palomar Observatory, CA",earthquake,0.35,0.58,0.155,19,automatic,ci,ci
-2023-04-24T10:40:54.600Z,38.1785,-112.883,5.79,1.43,ml,18,91,0.1161,0.11,uu,uu60538066,2023-04-24T16:17:33.650Z,"5 km SE of Minersville, Utah",earthquake,0.42,1.65,0.068,3,reviewed,uu,uu
-2023-04-24T10:39:44.280Z,33.6011667,-116.8011667,6.23,0.5,ml,14,83,0.03182,0.11,ci,ci40444776,2023-04-24T13:10:27.555Z,"13km WNW of Anza, CA",earthquake,0.28,0.5,0.311,8,reviewed,ci,ci
