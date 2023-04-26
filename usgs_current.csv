@@ -38,6 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-26T15:07:51.320Z,44.6033333,-110.7263333,5.03,0.73,md,8,129,0.05944,0.2,uu,uu60538346,2023-04-26T17:24:28.940Z,"30 km ESE of West Yellowstone, Montana",earthquake,1,2.68,0.47,7,reviewed,uu,uu
 2023-04-26T15:06:28.390Z,44.6161667,-110.7235,4.84,0.79,md,8,127,0.05839,0.08,uu,uu60538341,2023-04-26T17:28:07.580Z,"30 km E of West Yellowstone, Montana",earthquake,0.66,0.58,0.337,6,reviewed,uu,uu
 2023-04-26T14:58:06.999Z,61.5047,-152.611,0,0.7,ml,,,,1.2,ak,ak0235c30s1w,2023-04-26T15:07:38.739Z,"83 km SW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-04-26T14:46:26.920Z,19.4915,-155.464166666667,0.06,2.94,ml,49,37,,0.14,hv,hv73377467,2023-04-26T18:38:28.810Z,"Island of Hawaii, Hawaii",earthquake,0.24,0.58,0.178779046669715,29,reviewed,hv,hv
 2023-04-26T14:46:02.420Z,19.1205005645752,-155.408996582031,31.0100002288818,3.2,ml,19,228,,0.119999997,hv,hv73377462,2023-04-26T14:51:34.160Z,"11 km SE of Pāhala, Hawaii",earthquake,1.13,1.54999995,1.89,24,automatic,hv,hv
 2023-04-26T14:45:37.500Z,34.2073333,-116.8245,2.88,1.29,ml,28,54,0.09677,0.24,ci,ci40445872,2023-04-26T14:49:17.760Z,"6km SSE of Big Bear City, CA",earthquake,0.36,1.11,0.287,28,automatic,ci,ci
 2023-04-26T14:44:30.950Z,35.7865,-117.5831667,7.09,1.09,ml,15,138,0.03142,0.2,ci,ci40445864,2023-04-26T14:48:03.879Z,"16km W of Searles Valley, CA",earthquake,0.45,0.66,0.101,8,automatic,ci,ci
@@ -144,7 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-26T05:04:42.500Z,37.6363333,-119.037,-0.5,0.4,md,10,161,0.009073,0.06,nc,nc73877865,2023-04-26T18:34:10.709Z,"5km W of Mammoth Lakes, CA",earthquake,0.38,0.23,0.357,10,reviewed,nc,nc
 2023-04-26T05:03:42.340Z,33.171,-116.5303333,15.97,1.03,ml,28,94,0.102,0.14,ci,ci40445720,2023-04-26T17:41:39.265Z,"12km NNE of Julian, CA",earthquake,0.22,0.52,0.193,21,reviewed,ci,ci
 2023-04-26T05:03:38.050Z,33.1685,-116.521,16.34,0.85,ml,29,101,0.1102,0.15,ci,ci40445712,2023-04-26T17:36:09.057Z,"12km NE of Julian, CA",earthquake,0.25,0.57,0.133,15,reviewed,ci,ci
-2023-04-26T04:55:37.520Z,37.6346667,-119.037,-0.68,0.29,md,10,164,0.01034,0.07,nc,nc73877855,2023-04-26T18:30:10.680Z,"5km W of Mammoth Lakes, CA",earthquake,0.79,0.21,0.169,8,reviewed,nc,nc
+2023-04-26T04:55:37.520Z,37.6346667,-119.037,-0.68,0.29,md,10,164,0.01034,0.07,nc,nc73877855,2023-04-26T18:42:17.757Z,"5km W of Mammoth Lakes, CA",earthquake,0.79,0.21,0.169,8,reviewed,nc,nc
 2023-04-26T04:50:48.110Z,44.7275,-111.1015,8.38,0.62,ml,11,103,0.06876,0.14,uu,uu60538316,2023-04-26T13:14:18.840Z,"Idaho-Montana border region",earthquake,0.49,1.29,0.35,2,reviewed,uu,uu
 2023-04-26T04:38:53.400Z,39.0541649,-123.0656662,6.44,2.48,md,37,62,0.1506,0.08,nc,nc73877845,2023-04-26T08:02:57.566Z,"12km SE of Talmage, CA",earthquake,0.22,1.1,0.15,40,automatic,nc,nc
 2023-04-26T04:38:46.190Z,38.7941666,-122.7454987,1.26,1.33,md,24,93,0.01284,0.03,nc,nc73877840,2023-04-26T07:21:11.800Z,"2km NNE of The Geysers, CA",earthquake,0.23,0.41,0.13,27,automatic,nc,nc
@@ -152,7 +153,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-26T04:37:45.625Z,60.4695,-150.9301,25.7,1.4,ml,,,,0.63,ak,ak0235bwy0pu,2023-04-26T04:39:56.260Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-26T04:32:38.534Z,63.1779,-151.8768,6.2,1.4,ml,,,,0.63,ak,ak0235bwwxl9,2023-04-26T04:34:49.834Z,"41 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-26T04:20:26.603Z,13.9721,145.1109,118.644,4.5,mb,22,78,0.448,0.53,us,us7000jvy2,2023-04-26T05:41:37.330Z,"53 km NNE of Yigo Village, Guam",earthquake,10.18,6.608,0.055,98,reviewed,us,us
-2023-04-26T04:07:08.630Z,38.7775,-122.7153333,1.92,0.75,md,34,38,0.0101,0.04,nc,nc73877830,2023-04-26T18:34:38.666Z,"2km W of Anderson Springs, CA",earthquake,0.17,0.26,0.253,30,reviewed,nc,nc
+2023-04-26T04:07:08.630Z,38.7775,-122.7153333,1.92,0.75,md,34,38,0.0101,0.04,nc,nc73877830,2023-04-26T18:42:10.756Z,"2km W of Anderson Springs, CA",earthquake,0.17,0.26,0.253,30,reviewed,nc,nc
 2023-04-26T04:02:23.193Z,58.1853,-155.4028,1.1,1.9,ml,,,,0.52,ak,ak0235bwqgxb,2023-04-26T04:06:02.513Z,"88 km NW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-26T03:32:09.500Z,19.408166885376,-155.326995849609,4.30999994277954,2.14,ml,34,72,,0.25999999,hv,hv73376677,2023-04-26T03:37:40.210Z,"10 km WSW of Volcano, Hawaii",earthquake,0.5,0.879999995,0.25,10,automatic,hv,hv
 2023-04-26T03:30:22.445Z,63.2411,-150.6004,112.5,1.3,ml,,,,0.3,ak,ak0235bwb1b8,2023-04-26T03:32:02.835Z,"Central Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -271,8 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T18:55:47.677Z,-4.0453,134.0713,35.793,4.7,mb,88,38,2.135,0.47,us,us7000jvv0,2023-04-25T20:54:22.040Z,"175 km WSW of Nabire, Indonesia",earthquake,7.69,4.892,0.064,81,reviewed,us,us
 2023-04-25T18:47:50.119Z,35.151,-97.75716667,6.06,1.67,ml,69,40,0.06118799283,0.33,ok,ok2023ibso,2023-04-25T19:41:32.252Z,"9 km W of Blanchard, Oklahoma",earthquake,,0.6,0.18,8,reviewed,ok,ok
 2023-04-25T18:45:56.250Z,17.947,-66.9501666666667,7.92,2.05,md,7,215,0.0468,0.03,pr,pr71406738,2023-04-25T19:00:13.770Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.91,0.57,0.0748303276052695,5,reviewed,pr,pr
-2023-04-25T18:43:00.950Z,56.8743333333333,-158.047166666667,-2.19,1.46,ml,5,266,,0.3,av,av91098288,2023-04-26T01:54:27.960Z,"68 km NNE of Chignik, Alaska",earthquake,2.08,3.06,0.274410520488454,5,reviewed,av,av
-2023-04-25T18:42:56.510Z,51.8558333333333,-178.092166666667,3.92,1.3,ml,5,214,,0.1,av,av91863236,2023-04-26T01:48:19.480Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.53,0.37,0.24338533584337,5,reviewed,av,av
-2023-04-25T18:40:28.540Z,38.8261681,-122.8181686,0.69,0.78,md,19,55,0.006903,0.02,nc,nc73877640,2023-04-25T21:27:14.194Z,"8km NW of The Geysers, CA",earthquake,0.17,0.44,0.16,20,automatic,nc,nc
-2023-04-25T18:39:28.640Z,37.001,-119.8183333,-0.39,1.76,md,8,209,0.08901,0.2,nc,nc73877645,2023-04-25T19:21:51.281Z,"5km ENE of Bonadelle Ranchos-Madera Ranchos, CA",quarry blast,1.66,31.61,0.111,11,reviewed,nc,nc
-2023-04-25T18:37:46.120Z,44.8033333,-110.8108333,4.7,1.39,ml,16,149,0.03198,0.13,uu,uu60538271,2023-04-25T19:30:46.480Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.48,0.44,0.509,3,reviewed,uu,uu
