@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-27T22:40:17.490Z,33.52,-116.5233333,10.65,0.72,ml,29,44,0.03795,0.25,ci,ci40212071,2023-04-27T22:43:59.279Z,"14km ESE of Anza, CA",earthquake,0.4,0.61,0.214,18,automatic,ci,ci
+2023-04-27T22:39:01.967Z,36.0032,59.3175,10,4.9,mb,96,77,7.779,0.71,us,us7000jwf5,2023-04-27T22:59:18.192Z,"41 km SW of Mashhad, Iran",earthquake,7.63,1.868,0.046,151,reviewed,us,us
+2023-04-27T22:35:23.180Z,51.8521666666667,-178.077166666667,2.17,0.25,ml,4,205,,0.17,av,av91865861,2023-04-27T23:00:16.180Z,"99 km W of Adak, Alaska",earthquake,0.73,1.34,0.310446827507889,4,reviewed,av,av
 2023-04-27T22:28:31.828Z,31.6525,-104.1915,6.291,2.6,ml,30,105,0.22,0.46,us,us7000jwf4,2023-04-27T22:45:34.040Z,"53 km NW of Toyah, Texas",earthquake,1.91,1.825,0.046,62,reviewed,us,us
 2023-04-27T22:16:18.888Z,57.1034,-155.2395,12.3,2,ml,,,,0.47,ak,ak0235dv2m00,2023-04-27T22:19:04.369Z,"67 km WNW of Akhiok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-27T22:12:59.780Z,19.2441673278809,-155.376495361328,28.6499996185303,1.79999995,md,30,144,,0.209999993,hv,hv73379547,2023-04-27T22:16:07.780Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.8,1.23000002,0.889999986,3,automatic,hv,hv
@@ -305,4 +307,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-26T23:07:44.908Z,57.3806,-155.6217,19.9,1.6,ml,,,,0.18,ak,ak0235c82toa,2023-04-26T23:08:58.560Z,"Alaska Peninsula",earthquake,,6.1,,,automatic,ak,ak
 2023-04-26T23:07:40.830Z,38.8370018,-122.7921677,2.49,0.92,md,12,57,0.002001,0.01,nc,nc73880706,2023-04-26T23:32:14.557Z,"6km WNW of Cobb, CA",earthquake,0.47,1.4,0.23,12,automatic,nc,nc
 2023-04-26T23:05:21.230Z,36.9691667,-121.6076667,3.37,0.4,md,11,69,0.02475,0.11,nc,nc73880701,2023-04-27T06:59:11.364Z,"5km SW of Gilroy, CA",earthquake,0.29,0.78,0.165,7,reviewed,nc,nc
-2023-04-26T22:55:43.488Z,31.51492371,-104.0073513,8.445288086,2.1,ml,37,57,0.04461258091,0.2,tx,tx2023idwg,2023-04-27T16:48:58.741Z,"30 km NW of Toyah, Texas",earthquake,0.6707889604000001,0.6329514073,0.2,19,reviewed,tx,tx
