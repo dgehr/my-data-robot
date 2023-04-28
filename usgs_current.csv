@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-28T03:20:13.542Z,60.4538,-143.2416,19,2,ml,,,,0.44,ak,ak0235f7bkga,2023-04-28T03:21:48.433Z,"110 km S of McCarthy, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-04-28T03:04:35.880Z,34.1186667,-116.9161667,4.89,1.36,ml,45,59,0.02992,0.21,ci,ci40212287,2023-04-28T03:08:13.720Z,"14km S of Big Bear Lake, CA",earthquake,0.23,0.64,0.154,27,automatic,ci,ci
 2023-04-28T02:58:29.051Z,57.5233,-152.5908,30.6,2.5,ml,,,,0.71,ak,ak0235f6yb95,2023-04-28T03:02:20.011Z,"18 km SSE of Womens Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-28T02:50:12.220Z,17.9791666666667,-66.8478333333333,9.4,2.3,md,4,194,0.03019,0.15,pr,pr71406958,2023-04-28T03:06:03.990Z,"3 km WSW of Indios, Puerto Rico",earthquake,3.57,0.76,0.14266201255146,4,reviewed,pr,pr
@@ -19,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T00:39:55.830Z,34.0133333,-117.574,5.59,1.28,ml,18,69,0.01348,0.22,ci,ci40212199,2023-04-28T00:43:40.330Z,"6km WNW of Mira Loma, CA",earthquake,0.38,0.6,0.299,36,automatic,ci,ci
 2023-04-28T00:28:26.835Z,-17.3318,-70.3202,171.494,4.3,mb,25,148,0.842,0.54,us,us7000jwfs,2023-04-28T00:58:10.040Z,"2 km S of Huanuara, Peru",earthquake,12.13,6.225,0.189,8,reviewed,us,us
 2023-04-28T00:19:25.410Z,38.8186684,-122.8219986,2.22,0.81,md,21,50,0.01044,0.02,nc,nc73881206,2023-04-28T00:45:12.808Z,"7km NW of The Geysers, CA",earthquake,0.21,0.5,0.19,23,automatic,nc,nc
-2023-04-28T00:18:55.480Z,38.8176651,-122.8218307,2.21,1.32,md,29,48,0.01049,0.02,nc,nc73881201,2023-04-28T00:35:14.752Z,"7km NW of The Geysers, CA",earthquake,0.18,0.35,0.12,29,automatic,nc,nc
+2023-04-28T00:18:55.480Z,38.8176651,-122.8218307,2.21,1.32,md,29,48,0.01049,0.02,nc,nc73881201,2023-04-28T03:23:11.718Z,"7km NW of The Geysers, CA",earthquake,0.18,0.35,0.12,29,automatic,nc,nc
 2023-04-28T00:17:31.475Z,61.4933,-151.9411,1.6,1.4,ml,,,,0.61,ak,ak0235f5invf,2023-04-28T01:54:24.740Z,"60 km NW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-28T00:13:38.630Z,33.2476667,-116.366,10.79,1.27,ml,43,30,0.04751,0.23,ci,ci40212159,2023-04-28T00:41:04.830Z,"1km SE of Borrego Springs, CA",earthquake,0.28,0.64,0.197,27,automatic,ci,ci
 2023-04-28T00:12:13.062Z,35.79876328,-96.97602844,3.453060865,1.9,ml,41,47.59155655,0.1780193001,0.5459378496,ok,ok2023ifug,2023-04-28T00:16:11.508Z,"3 km ESE of Carney, Oklahoma",earthquake,1.791433926,1.53439217,0.2,32,automatic,ok,ok
@@ -326,4 +327,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-27T03:29:04.690Z,46.892,-112.520333333333,12.42,1.24,ml,13,118,0.05445,0.09,mb,mb90011513,2023-04-27T04:51:24.360Z,"western Montana",earthquake,0.33,0.48,0.146128701016785,5,reviewed,mb,mb
 2023-04-27T03:29:03.950Z,52.0648333333333,-176.038833333333,6.8,0.18,ml,5,163,,0.14,av,av91098428,2023-04-27T21:00:20.640Z,"46 km ENE of Adak, Alaska",earthquake,0.96,0.7,0.216737117298738,4,reviewed,av,av
 2023-04-27T03:28:23.770Z,52.0811666666667,-176.0145,7.01,1.15,ml,5,216,,0.15,av,av91864926,2023-04-27T20:58:03.020Z,"48 km ENE of Adak, Alaska",earthquake,0.77,0.92,0.197918616363985,4,reviewed,av,av
-2023-04-27T03:24:46.220Z,52.0496666666667,-176.051666666667,8.12,0.1,ml,5,135,,0.22,av,av91098433,2023-04-27T21:03:21.460Z,"44 km ENE of Adak, Alaska",earthquake,0.89,1.2,0.255328443023305,4,reviewed,av,av
