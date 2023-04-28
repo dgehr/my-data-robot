@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-28T19:20:02.982Z,58.1715,-155.3148,1.2,0.4,ml,,,,0.46,ak,ak0235fguhbe,2023-04-28T19:21:47.071Z,"84 km NW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-04-28T18:53:11.360Z,44.8066667,-110.9711667,8.95,2.25,ml,24,146,0.05349,0.12,uu,uu60538616,2023-04-28T19:22:57.540Z,"17 km ENE of Hebgen Lake Estates, Montana",earthquake,0.37,0.5,0.2,5,reviewed,uu,uu
 2023-04-28T18:53:05.470Z,33.4521667,-116.5795,10.44,1.01,ml,42,52,0.04647,0.15,ci,ci40213159,2023-04-28T18:56:44.038Z,"14km SE of Anza, CA",earthquake,0.18,0.33,0.173,26,automatic,ci,ci
 2023-04-28T18:53:00.320Z,33.1341667,-116.4956665,3.75,1.35,ml,29,127,0.177,0.34,ci,ci40213151,2023-04-28T18:55:14.743Z,"12km ENE of Julian, CA",earthquake,1.38,7.44,0.4,13,automatic,ci,ci
 2023-04-28T18:46:18.430Z,33.7273333,-118.6995,0.85,1.95,ml,5,104,0.3697,0.22,ci,ci40213143,2023-04-28T18:49:58.145Z,"29km W of Rancho Palos Verdes, CA",earthquake,1.04,31.61,0.157,25,automatic,ci,ci
