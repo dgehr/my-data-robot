@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-28T15:36:35.530Z,34.7723333,-118.9203333,12.61,1.57,ml,29,90,0.04045,0.27,ci,ci40212895,2023-04-28T15:40:18.071Z,"6km SSE of Frazier Park, CA",earthquake,0.5,0.71,0.301,30,automatic,ci,ci
-2023-04-28T15:34:37.580Z,38.8193321,-122.8228302,2.3,1.32,md,23,52,0.01025,0.02,nc,nc73881421,2023-04-28T15:36:11.160Z,"7km NW of The Geysers, CA",earthquake,0.21,0.37,0.24,25,automatic,nc,nc
+2023-04-28T15:34:37.580Z,38.8193321,-122.8228302,2.3,1.32,md,23,52,0.01025,0.02,nc,nc73881421,2023-04-28T15:51:11.200Z,"7km NW of The Geysers, CA",earthquake,0.21,0.37,0.24,25,automatic,nc,nc
 2023-04-28T15:22:17.282Z,38.7034,-118.8183,1.7,1.6,ml,11,138.5,0.514,0.1615,nn,nn00858841,2023-04-28T15:24:46.959Z,"8 km NW of Walker Lake, Nevada",earthquake,,3.4,0.18,7,automatic,nn,nn
 2023-04-28T15:15:46.259Z,60.2603,-152.786,113.3,1.6,ml,,,,0.4,ak,ak0235fefrnl,2023-04-28T15:17:45.311Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-28T15:07:41.326Z,-15.2641,167.3642,138.301,4.6,mb,35,94,6.019,0.52,us,us7000jwpk,2023-04-28T15:28:36.040Z,"Vanuatu",earthquake,10.55,5.821,0.083,45,reviewed,us,us
@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T14:30:38.980Z,19.1516666412354,-155.466506958008,29.5100002288818,1.96,ml,38,166,,0.150000006,hv,hv73380942,2023-04-28T14:36:09.350Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.64,0.839999974,4.03,5,automatic,hv,hv
 2023-04-28T14:26:44.155Z,-24.9306,178.961,608.807,4.8,mb,22,91,5.132,0.84,us,us7000jwnf,2023-04-28T15:18:39.040Z,"south of the Fiji Islands",earthquake,19.39,18.254,0.114,24,reviewed,us,us
 2023-04-28T14:25:37.220Z,58.1849,-147.1459,0,2.9,ml,,,,1.03,ak,ak0235fdwgii,2023-04-28T14:28:40.524Z,"Gulf of Alaska",earthquake,,3.5,,,automatic,ak,ak
-2023-04-28T14:09:20.670Z,37.2014999,-121.5940018,2.82,1.4,md,9,98,0.04597,0.06,nc,nc73881401,2023-04-28T15:41:12.135Z,"10km NE of Morgan Hill, CA",earthquake,0.37,0.87,0.15,7,automatic,nc,nc
+2023-04-28T14:09:20.670Z,37.2014999,-121.5940018,2.82,1.4,md,9,98,0.04597,0.06,nc,nc73881401,2023-04-28T15:52:13.206Z,"10km NE of Morgan Hill, CA",earthquake,0.37,0.87,0.15,7,automatic,nc,nc
 2023-04-28T13:52:41.520Z,35.3098333,-118.5363333,5.08,1.63,ml,31,70,0.0963,0.21,ci,ci40212751,2023-04-28T14:03:36.120Z,"21km NNW of Tehachapi, CA",earthquake,0.3,0.94,0.181,26,automatic,ci,ci
 2023-04-28T13:39:29.000Z,38.7815018,-122.7638321,0.84,0.73,md,9,95,0.01087,0.03,nc,nc73881391,2023-04-28T14:58:16.879Z,"1km NW of The Geysers, CA",earthquake,0.4,0.83,0.13,8,automatic,nc,nc
 2023-04-28T13:36:22.475Z,62.4553,-151.4469,79.3,1.4,ml,,,,0.54,ak,ak0235fddcnb,2023-04-28T13:38:35.800Z,"35 km W of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -160,10 +160,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T00:54:05.288Z,38.1704,-117.996,7.1,1.7,ml,13,95.48,0.03,0.3149,nn,nn00858793,2023-04-28T00:56:49.505Z,"26 km SSE of Mina, Nevada",earthquake,,0.4,0.71,8,automatic,nn,nn
 2023-04-28T00:49:30.950Z,38.8364983,-122.8063354,1.99,0.24,md,8,111,0.01263,0.01,nc,nc73881211,2023-04-28T01:06:14.922Z,"7km WNW of Cobb, CA",earthquake,0.53,1.5,0.12,9,automatic,nc,nc
 2023-04-28T00:45:49.560Z,46.0008333333333,-111.0825,9.98,0.98,ml,15,83,0.1727,0.24,mb,mb90011563,2023-04-28T15:35:45.900Z,"18 km NNW of Springhill, Montana",earthquake,0.52,1.53,0.0712857027095851,3,reviewed,mb,mb
+2023-04-28T00:40:00.100Z,32.6956667,-115.5355,6.6,2.41,ml,34,45,0.07519,0.23,ci,ci40212207,2023-04-28T15:51:31.201Z,"4km WNW of Calexico, CA",earthquake,0.24,0.89,0.253,21,reviewed,ci,ci
 2023-04-28T00:39:55.830Z,34.0148333,-117.5675,4.32,0.85,ml,20,76,0.01132,0.14,ci,ci40212199,2023-04-28T14:24:49.509Z,"5km WNW of Mira Loma, CA",earthquake,0.23,0.42,0.142,15,reviewed,ci,ci
 2023-04-28T00:28:26.835Z,-17.3318,-70.3202,171.494,4.3,mb,25,148,0.842,0.54,us,us7000jwfs,2023-04-28T00:58:10.040Z,"2 km S of Huanuara, Peru",earthquake,12.13,6.225,0.189,8,reviewed,us,us
 2023-04-28T00:19:25.410Z,38.8186684,-122.8219986,2.22,0.81,md,21,50,0.01044,0.02,nc,nc73881206,2023-04-28T00:45:12.808Z,"7km NW of The Geysers, CA",earthquake,0.21,0.5,0.19,23,automatic,nc,nc
-2023-04-28T00:18:55.480Z,38.8176651,-122.8218307,2.21,1.32,md,29,48,0.01049,0.02,nc,nc73881201,2023-04-28T03:44:12.837Z,"7km NW of The Geysers, CA",earthquake,0.18,0.35,0.12,29,automatic,nc,nc
+2023-04-28T00:18:55.490Z,38.8178333,-122.822,2.19,1.23,md,42,48,0.01056,0.04,nc,nc73881201,2023-04-28T15:54:52.743Z,"7km NW of The Geysers, CA",earthquake,0.14,0.25,0.154,37,reviewed,nc,nc
 2023-04-28T00:17:31.475Z,61.4933,-151.9411,1.6,1.4,ml,,,,0.61,ak,ak0235f5invf,2023-04-28T01:54:24.740Z,"60 km NW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-28T00:13:38.630Z,33.2476667,-116.366,10.79,1.27,ml,43,30,0.04751,0.23,ci,ci40212159,2023-04-28T00:41:04.830Z,"1km SE of Borrego Springs, CA",earthquake,0.28,0.64,0.197,27,automatic,ci,ci
 2023-04-28T00:12:13.000Z,35.79383333,-96.96883333,7.59,1.79,ml,94,32,0,0.22,ok,ok2023ifug,2023-04-28T12:34:49.254Z,"4 km ESE of Carney, Oklahoma",earthquake,,0.5,0.22,47,reviewed,ok,ok
@@ -285,5 +286,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-27T16:07:42.880Z,33.7676667,-116.9323333,13.89,1.24,ml,37,67,0.08069,0.14,ci,ci40211415,2023-04-27T20:32:38.160Z,"3km SE of San Jacinto, CA",earthquake,0.21,0.43,0.161,23,reviewed,ci,ci
 2023-04-27T16:01:10.642Z,60.6173,-142.6643,5.8,1.7,ml,,,,0.81,ak,ak0235drerzs,2023-04-27T16:03:00.587Z,"91 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-27T15:59:24.871Z,39.6436,-120.0421,5.2,0.3,ml,3,192.43,0.072,0.0606,nn,nn00858788,2023-04-27T22:39:16.711Z,"6 km SW of Cold Springs, Nevada",earthquake,,9.5,0.11,2,reviewed,nn,nn
-2023-04-27T15:56:27.970Z,38.8148346,-122.8311691,1.38,0.82,md,9,103,0.006158,0.01,nc,nc73880986,2023-04-27T18:23:11.511Z,"8km WNW of The Geysers, CA",earthquake,0.43,0.73,0.13,9,automatic,nc,nc
-2023-04-27T15:53:09.931Z,62.0445,-149.8801,56.7,1.5,ml,,,,0.48,ak,ak0235dr4hkh,2023-04-27T15:55:24.696Z,"13 km S of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
