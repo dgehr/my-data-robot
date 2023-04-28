@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-28T17:18:50.787Z,63.1518,-151.3188,0.1,1.2,ml,,,,0.9,ak,ak0235ffnab2,2023-04-28T17:22:00.120Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-28T17:10:00.410Z,32.6986667,-115.538,8.85,1.82,ml,15,73,0.0964,0.24,ci,ci40213015,2023-04-28T17:13:42.173Z,"4km SSW of Heber, CA",earthquake,0.64,1.91,0.311,29,automatic,ci,ci
 2023-04-28T17:04:58.370Z,32.6961667,-115.535,4.72,1.95,ml,20,75,0.1318,0.25,ci,ci40213007,2023-04-28T17:08:45.547Z,"4km WNW of Calexico, CA",earthquake,0.54,1.57,0.302,28,automatic,ci,ci
 2023-04-28T16:52:53.490Z,19.1651668548584,-155.485504150391,33.6699981689453,2.24,ml,45,111,,0.119999997,hv,hv73381182,2023-04-28T16:58:23.470Z,"4 km S of Pāhala, Hawaii",earthquake,0.54,0.720000029,2.2,16,automatic,hv,hv
@@ -34,6 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T13:18:27.338Z,58.1177,-155.5793,19.3,0.6,ml,,,,0.6,ak,ak0235fd9i4t,2023-04-28T13:19:54.286Z,"89 km SE of King Salmon, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-28T13:17:27.090Z,19.265,-155.411833333333,7.95,1.87,ml,21,81,,0.08,hv,hv73380817,2023-04-28T13:30:07.280Z,"9 km NE of Pāhala, Hawaii",earthquake,0.36,0.73,0.147231076946263,8,reviewed,hv,hv
 2023-04-28T13:14:45.580Z,33.5143333,-116.5573333,11.56,0.57,ml,24,69,0.04229,0.14,ci,ci40212719,2023-04-28T13:18:24.311Z,"12km ESE of Anza, CA",earthquake,0.27,0.43,0.106,15,automatic,ci,ci
+2023-04-28T13:13:26.256Z,31.60747235,-104.0841808,8.959448242,2.3,ml,44,59,0.0271754271,0.3,tx,tx2023igua,2023-04-28T17:22:23.445Z,"42 km NW of Toyah, Texas",earthquake,0.5985794505,0.6334632759,0.2,19,reviewed,tx,tx
 2023-04-28T13:11:27.450Z,38.8348333,-122.8068333,3.17,1.33,md,45,34,0.0117,0.04,nc,nc73881386,2023-04-28T16:53:14.584Z,"7km W of Cobb, CA",earthquake,0.16,0.27,0.237,39,reviewed,nc,nc
 2023-04-28T13:01:50.990Z,19.3986666666667,-155.263833333333,1.57,0.27,md,12,65,,0.1,hv,hv73380797,2023-04-28T13:23:32.770Z,"5 km SSW of Volcano, Hawaii",earthquake,0.18,0.29,0.0282485697369001,2,reviewed,hv,hv
 2023-04-28T13:00:49.710Z,19.3951666666667,-155.281,0.88,0.18,md,11,83,,0.11,hv,hv73380787,2023-04-28T13:10:59.260Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.27,0.0628608451596383,2,reviewed,hv,hv
@@ -118,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T05:57:02.240Z,33.9446667,-117.0141667,8.78,1.03,ml,42,39,0.03632,0.26,ci,ci40212391,2023-04-28T06:00:39.949Z,"4km WNW of Beaumont, CA",earthquake,0.29,0.78,0.162,27,automatic,ci,ci
 2023-04-28T05:47:02.800Z,33.715,-116.7481667,16.33,0.56,ml,22,86,0.0286,0.15,ci,ci40212383,2023-04-28T12:58:10.158Z,"4km SW of Idyllwild, CA",earthquake,0.4,0.48,0.073,10,reviewed,ci,ci
 2023-04-28T05:44:18.480Z,40.9565,-122.182,14.56,1.61,md,18,101,0.1401,0.05,nc,nc73881281,2023-04-28T08:44:14.667Z,"24km WSW of Big Bend, CA",earthquake,0.35,0.76,0.26,20,reviewed,nc,nc
-2023-04-28T05:41:08.163Z,36.4652,-115.7667,8.3,0.8,ml,22,306.75,0.252,0.0936,nn,nn00858823,2023-04-28T17:12:58.233Z,"Nevada",earthquake,,5.3,0.21,8,reviewed,nn,nn
+2023-04-28T05:41:08.163Z,36.4652,-115.7667,8.3,0.8,ml,22,306.75,0.252,0.0936,nn,nn00858823,2023-04-28T17:12:58.233Z,"14 km SW of Indian Springs, Nevada",earthquake,,5.3,0.21,8,reviewed,nn,nn
 2023-04-28T05:28:17.050Z,38.8326683,-122.7926636,1.83,1.07,md,11,79,0.006012,0.01,nc,nc73881276,2023-04-28T05:58:16.645Z,"6km W of Cobb, CA",earthquake,0.35,0.55,0.22,14,automatic,nc,nc
 2023-04-28T05:19:20.569Z,31.67138095,-104.3867992,8.316748047,2.4,ml,51,69,0.03450847423,0.3,tx,tx2023igek,2023-04-28T16:03:57.235Z,"55 km S of Whites City, New Mexico",earthquake,0.8171664039,0.8383751553,0.2,24,reviewed,tx,tx
 2023-04-28T05:18:14.673Z,32.0462,140.8637,58.273,4.4,mb,43,131,1.386,0.66,us,us7000jwk9,2023-04-28T05:34:46.040Z,"Izu Islands, Japan region",earthquake,10.82,7.916,0.102,28,reviewed,us,us
