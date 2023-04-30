@@ -419,4 +419,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T11:25:17.300Z,38.8160019,-122.7623367,1.79,0.82,md,12,112,0.01459,0.02,nc,nc73881766,2023-04-29T13:30:14.900Z,"4km WSW of Cobb, CA",earthquake,0.31,0.69,0.14,12,automatic,nc,nc
 2023-04-29T11:24:58.520Z,32.7178333,-115.5508333,1.09,1.38,ml,12,113,0.07566,0.25,ci,ci40214143,2023-04-29T11:28:35.651Z,"2km SW of Heber, CA",earthquake,0.63,31.61,0.266,19,automatic,ci,ci
 2023-04-29T11:22:54.533Z,57.6008,-156.6111,121.1,1.4,ml,,,,0.24,ak,ak0235gzmwdp,2023-04-29T11:26:52.421Z,"48 km ENE of Ugashik, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-04-29T11:15:50.860Z,19.4116668701172,-155.329498291016,4.55000019073486,1.73000002,md,30,64,,0.180000007,hv,hv73382482,2023-04-29T11:19:09.490Z,"10 km WSW of Volcano, Hawaii",earthquake,0.43,0.769999981,1.11000001,11,automatic,hv,hv
