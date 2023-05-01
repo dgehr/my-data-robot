@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-01T02:52:20.310Z,38.8123322,-122.8281631,1.6,0.84,md,20,56,0.003549,0.02,nc,nc73882551,2023-05-01T02:53:56.660Z,"7km WNW of The Geysers, CA",earthquake,0.19,0.42,0.25,20,automatic,nc,nc
 2023-05-01T02:26:55.934Z,57.5918,-154.8893,72.7,2.4,ml,,,,0.54,ak,ak0235k5djvr,2023-05-01T02:30:06.955Z,"26 km W of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-01T02:22:27.800Z,25.9711,128.5975,6.761,5.3,mww,74,64,0.909,0.83,us,us7000jxaa,2023-05-01T02:40:50.771Z,"82 km ESE of Katsuren-haebaru, Japan",earthquake,5.46,2.005,0.069,20,reviewed,us,us
 2023-05-01T02:21:00.774Z,25.9929,128.5964,8.405,5.1,mb,77,64,0.888,1.17,us,us7000jxab,2023-05-01T02:47:09.040Z,"81 km ESE of Katsuren-haebaru, Japan",earthquake,4.5,3.831,0.052,120,reviewed,us,us
@@ -22,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-01T00:13:40.500Z,27.6953,56.7208,10,4.2,mb,37,145,2.778,0.67,us,us7000jx9i,2023-05-01T00:25:04.040Z,"71 km NE of Bandar Abbas, Iran",earthquake,12,1.968,0.096,30,reviewed,us,us
 2023-05-01T00:07:41.128Z,62.3844,-149.1149,15.2,1,ml,,,,0.25,ak,ak0235k42kxs,2023-05-01T00:09:16.565Z,"45 km ENE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-01T00:06:42.270Z,36.8003349,-121.4943314,5.13,1.37,md,6,147,0.01961,0.02,nc,nc73882516,2023-05-01T00:47:19.795Z,"6km SE of San Juan Bautista, CA",earthquake,0.6,0.5,0.14,6,automatic,nc,nc
-2023-04-30T23:58:56.700Z,36.793499,-121.5403366,-0.09,1.73,md,22,71,0.03873,0.23,nc,nc73882511,2023-05-01T02:40:15.465Z,"6km S of San Juan Bautista, CA",earthquake,0.44,1.93,0.21,18,automatic,nc,nc
+2023-04-30T23:58:56.700Z,36.793499,-121.5403366,-0.09,1.73,md,22,71,0.03873,0.23,nc,nc73882511,2023-05-01T02:53:11.542Z,"6km S of San Juan Bautista, CA",earthquake,0.44,1.93,0.21,18,automatic,nc,nc
 2023-04-30T23:58:20.569Z,42.0561,142.5287,71.973,4.5,mb,46,117,0.47,0.7,us,us7000jx9f,2023-05-01T00:15:40.040Z,"23 km WSW of Urakawa, Japan",earthquake,6.64,7.769,0.081,44,reviewed,us,us
 2023-04-30T23:57:33.440Z,38.8224983,-122.8519974,2.03,1.05,md,15,89,0.006317,0.02,nc,nc73882506,2023-05-01T02:27:11.399Z,"10km WNW of The Geysers, CA",earthquake,0.29,0.45,0.32,16,automatic,nc,nc
 2023-04-30T23:53:15.632Z,63.1997,-150.5245,124.9,1.4,ml,,,,0.2,ak,ak0235iui0bv,2023-04-30T23:55:23.310Z,"71 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -299,5 +300,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T03:00:50.688Z,12.1156,-87.8524,37.743,4.2,mb,24,191,0.997,1.65,us,us7000jx38,2023-04-30T03:17:11.040Z,"82 km SSW of Jiquilillo, Nicaragua",earthquake,7,7.984,0.108,24,reviewed,us,us
 2023-04-30T02:58:56.200Z,34.621,-119.0836667,-0.11,1.2,ml,19,42,0.1131,0.28,ci,ci40215359,2023-04-30T03:02:46.158Z,"24km NE of Ojai, CA",earthquake,0.37,31.61,0.295,11,automatic,ci,ci
 2023-04-30T02:55:23.460Z,58.2273333333333,-155.141,0.15,-0.55,ml,4,231,,0.11,av,av91868616,2023-04-30T05:23:53.740Z,"83 km NNW of Karluk, Alaska",earthquake,0.73,8.71,0.174511110232189,4,reviewed,av,av
-2023-04-30T02:52:22.740Z,18.0276666666667,-66.7815,16.59,2.23,md,9,146,0.1067,0.22,pr,pr71407248,2023-04-30T03:12:01.660Z,"1 km NE of Guayanilla, Puerto Rico",earthquake,0.63,0.82,0.207500138172933,6,reviewed,pr,pr
-2023-04-30T02:52:11.136Z,58.2733,-155.199,0,-0.2,ml,,,,0.79,ak,ak0235ihzohq,2023-04-30T14:15:06.720Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
