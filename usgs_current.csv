@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-01T07:37:54.713Z,61.7528,-146.4391,31.3,1.9,ml,,,,0.58,ak,ak0235k8f2pb,2023-05-01T07:39:44.317Z,"31 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-01T07:15:06.965Z,62.0155,-148.8858,21.9,0.8,ml,,,,0.36,ak,ak0235k8a9a0,2023-05-01T07:17:14.739Z,"27 km NNW of Sutton-Alpine, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-01T06:51:00.060Z,38.8216667,-122.8523331,2.44,0.94,md,12,105,0.006858,0.01,nc,nc73882626,2023-05-01T07:07:12.983Z,"10km WNW of The Geysers, CA",earthquake,0.34,0.97,0.29,12,automatic,nc,nc
 2023-05-01T06:42:52.520Z,19.4290008544922,-155.315170288086,2.30999994277954,2.34,ml,29,87,,0.180000007,hv,hv73385392,2023-05-01T06:48:24.410Z,"8 km W of Volcano, Hawaii",earthquake,0.3,0.529999971,0.35,13,automatic,hv,hv
@@ -247,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T07:50:11.200Z,19.1585006713867,-155.477661132812,32.9000015258789,2.00999999,md,35,168,,0.129999995,hv,hv73384142,2023-04-30T07:53:27.630Z,"4 km S of Pāhala, Hawaii",earthquake,0.63,1.10000002,0.25,9,automatic,hv,hv
 2023-04-30T07:46:35.370Z,33.1955,-115.6006667,2.67,1.33,ml,16,88,0.02193,0.2,ci,ci37535180,2023-04-30T20:45:20.833Z,"9km WSW of Niland, CA",earthquake,0.29,0.33,0.254,9,reviewed,ci,ci
 2023-04-30T07:46:28.930Z,33.1943333,-115.5981667,3.19,1.19,ml,16,88,0.02231,0.16,ci,ci40215703,2023-04-30T20:40:29.139Z,"9km SW of Niland, CA",earthquake,0.24,0.27,0.336,6,reviewed,ci,ci
-2023-04-30T07:38:50.850Z,60.0103333333333,-153.121666666667,-1.42,-0.86,ml,5,148,,0.13,av,av91868951,2023-04-30T22:30:07.380Z,"60 km ENE of Pedro Bay, Alaska",earthquake,0.62,10.55,0.223368538788443,5,reviewed,av,av
-2023-04-30T07:37:28.850Z,33.195,-115.6021667,1.98,1.47,ml,15,120,0.02081,0.18,ci,ci40215695,2023-04-30T07:41:04.030Z,"9km WSW of Niland, CA",earthquake,0.41,0.39,0.174,14,automatic,ci,ci
