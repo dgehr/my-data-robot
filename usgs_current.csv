@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T11:54:06.090Z,60.2902,-153.1424,122.3,1.4,ml,,,,0.55,ak,ak0235lyfp1d,2023-05-02T11:55:52.115Z,"65 km E of Port Alsworth, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-02T11:46:05.147Z,38.3777,-96.8782,5,2.3,mb_lg,23,104,0.736,0.55,us,us7000jxhg,2023-05-02T12:19:22.860Z,"Kansas",earthquake,2.51,2.001,0.128,16,reviewed,us,us
 2023-05-02T11:42:33.590Z,19.1691665649414,-155.484329223633,30.1200008392334,1.87,md,36,100,,0.0900000036,hv,hv73386682,2023-05-02T11:45:51.660Z,"3 km S of Pāhala, Hawaii",earthquake,0.56,1.00999999,0.529999971,5,automatic,hv,hv
-2023-05-02T11:26:35.520Z,38.8311653,-122.8573303,2.22,1.1,md,21,64,0.003633,0.02,nc,nc73882986,2023-05-02T14:28:10.657Z,"11km NW of The Geysers, CA",earthquake,0.27,0.39,0.23,23,automatic,nc,nc
+2023-05-02T11:26:35.520Z,38.8311653,-122.8573303,2.22,1.1,md,21,64,0.003633,0.02,nc,nc73882986,2023-05-02T14:32:14.680Z,"11km NW of The Geysers, CA",earthquake,0.27,0.39,0.23,23,automatic,nc,nc
 2023-05-02T11:25:12.030Z,33.6715,-116.7598333,16.12,0.74,ml,20,105,0.05491,0.14,ci,ci40217159,2023-05-02T13:19:43.292Z,"8km SSW of Idyllwild, CA",earthquake,0.31,0.53,0.174,17,reviewed,ci,ci
 2023-05-02T11:23:41.151Z,61.8749,-146.8582,32.7,1.4,ml,,,,1.31,ak,ak0235ly94jn,2023-05-02T11:25:35.772Z,"13 km SSW of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-02T11:21:52.490Z,17.9876666666667,-66.787,11.26,2.8,md,12,171,0.03244,0.15,pr,pr71407508,2023-05-02T11:47:33.120Z,"3 km ESE of Indios, Puerto Rico",earthquake,0.38,0.47,0.0189530566201979,6,reviewed,pr,pr
@@ -85,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T00:32:10.140Z,38.485,-112.8446667,0.52,0.25,md,11,103,0.009602,0.08,uu,uu60538891,2023-05-02T14:14:38.670Z,"17 km NE of Milford, Utah",earthquake,0.25,0.71,0.603,4,reviewed,uu,uu
 2023-05-02T00:31:24.870Z,38.4831667,-112.8466667,0.67,-0.13,md,9,104,0.009552,0.06,uu,uu60538886,2023-05-02T14:10:29.640Z,"17 km ENE of Milford, Utah",earthquake,0.25,0.67,0.292,3,reviewed,uu,uu
 2023-05-02T00:21:17.760Z,35.7945,-96.97366667,7.13,1.1,ml,64,45,0.1826641551,0.23,ok,ok2023inco,2023-05-02T12:12:28.358Z,"3 km ESE of Carney, Oklahoma",earthquake,,0.5,0.2,24,reviewed,ok,ok
-2023-05-02T00:19:35.430Z,35.9438333,-117.4958333,0.15,3.21,ml,33,57,0.1522,0.18,ci,ci40217047,2023-05-02T14:30:09.983Z,"21km NNW of Searles Valley, CA",earthquake,0.2,0.44,0.184,64,reviewed,ci,ci
+2023-05-02T00:19:35.430Z,35.9438333,-117.4958333,0.15,3.21,ml,33,57,0.1522,0.18,ci,ci40217047,2023-05-02T14:31:03.537Z,"21km NNW of Searles Valley, CA",earthquake,0.2,0.44,0.184,64,reviewed,ci,ci
 2023-05-02T00:11:21.343Z,61.5532,-149.9371,35.1,1.9,ml,,,,0.59,ak,ak0235lrmqrq,2023-05-02T00:47:45.922Z,"3 km NNE of Big Lake, Alaska",earthquake,,4,,,automatic,ak,ak
 2023-05-02T00:10:37.610Z,38.822834,-122.8246689,1.56,0.88,md,13,59,0.008098,0.12,nc,nc73882881,2023-05-02T00:42:14.582Z,"8km NW of The Geysers, CA",earthquake,0.45,0.97,0.18,14,automatic,nc,nc
 2023-05-01T23:55:21.200Z,38.8198318,-122.8231659,2.39,0.77,md,17,50,0.009831,0.02,nc,nc73882876,2023-05-02T00:21:14.442Z,"8km NW of The Geysers, CA",earthquake,0.25,0.79,0.15,17,automatic,nc,nc
