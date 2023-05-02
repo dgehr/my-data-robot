@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-02T04:53:49.650Z,38.7425003,-122.4321671,-0.53,1.5,md,8,108,0.07717,0.13,nc,nc73882931,2023-05-02T04:55:24.216Z,"13km ESE of Hidden Valley Lake, CA",earthquake,0.48,3.37,0.09,8,automatic,nc,nc
+2023-05-02T04:51:21.159Z,37.0488,-116.2042,6.1,0.7,ml,9,113.27,0.106,0.1467,nn,nn00858954,2023-05-02T04:53:18.138Z,"Nevada",earthquake,,1.7,1.2,6,automatic,nn,nn
 2023-05-02T04:29:37.390Z,32.6875,-115.5753333,16.39,2.08,ml,10,80,0.08654,0.21,ci,ci40217087,2023-05-02T04:35:02.173Z,"6km SW of Heber, CA",earthquake,0.61,1.29,0.237,26,automatic,ci,ci
 2023-05-02T04:21:59.770Z,19.1903324127197,-155.485336303711,31.5100002288818,2.1400001,md,40,73,,0.100000001,hv,hv73386322,2023-05-02T04:25:25.310Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.56,0.860000014,1.40999997,19,automatic,hv,hv
 2023-05-02T03:39:17.815Z,45.8504,148.7714,169.256,4.2,mb,30,161,4.712,0.65,us,us7000jxg3,2023-05-02T03:54:33.040Z,"98 km NE of Kuril’sk, Russia",earthquake,10.77,14.495,0.093,32,reviewed,us,us
