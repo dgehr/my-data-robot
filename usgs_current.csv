@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T15:57:58.350Z,17.9146666666667,-66.8811666666667,14.23,2.58,md,6,226,0.1645,0.15,pr,pr71407658,2023-05-03T16:24:17.370Z,"6 km SSE of Guánica, Puerto Rico",earthquake,1.02,2.63,0.0642955890347496,6,reviewed,pr,pr
 2023-05-03T15:53:03.153Z,38.4362,-118.9006,0,1.4,ml,9,118.39,0.361,0.1656,nn,nn00859035,2023-05-03T21:22:21.121Z,"26 km WSW of Hawthorne, Nevada",earthquake,,0,0.21,3,reviewed,nn,nn
 2023-05-03T15:48:46.590Z,38.8320007,-122.8150024,1.57,1.86,md,35,45,0.009416,0.04,nc,nc73883481,2023-05-03T16:10:16.184Z,"8km NW of The Geysers, CA",earthquake,0.15,0.27,0.17,36,automatic,nc,nc
-2023-05-03T15:38:54.190Z,19.2051666666667,-155.369666666667,33.82,1.55,md,34,200,,0.1,hv,hv73388027,2023-05-03T21:50:40.580Z,"11 km E of Pāhala, Hawaii",earthquake,0.57,0.62,0.161295957635067,14,reviewed,hv,hv
