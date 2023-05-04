@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-04T21:42:05.450Z,33.8653336,-116.8478317,18.7,1.4,ml,39,100,0.1238,0.2,ci,ci40219191,2023-05-04T21:44:20.471Z,"7km SSE of Banning, CA",earthquake,0.38,0.56,0.357,11,automatic,ci,ci
+2023-05-04T21:40:17.040Z,38.833168,-122.8156662,1.86,1.07,md,22,55,0.01069,0.02,nc,nc73883871,2023-05-04T21:41:50.235Z,"8km NW of The Geysers, CA",earthquake,0.19,0.51,0.14,23,automatic,nc,nc
 2023-05-04T21:22:10.740Z,33.8353333,-117.494,1.28,1.37,ml,13,95,0.04452,0.28,ci,ci40219151,2023-05-04T21:25:47.247Z,"5km SSE of Home Gardens, CA",quarry blast,0.61,0.92,0.308,25,automatic,ci,ci
 2023-05-04T20:29:40.055Z,62.1655,-150.2455,57.9,1.6,ml,,,,0.39,ak,ak0235peq06t,2023-05-04T20:31:30.995Z,"16 km S of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-04T20:20:01.680Z,33.6848333,-116.7798333,17.19,0.38,ml,14,50,0.06371,0.16,ci,ci40219127,2023-05-04T20:23:37.100Z,"8km SW of Idyllwild, CA",earthquake,0.45,0.87,0.07,5,automatic,ci,ci
@@ -86,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-04T08:42:57.700Z,38.844,-122.816,1,1.03,md,28,44,0.01209,0.06,nc,nc73883741,2023-05-04T20:55:10.879Z,"8km WNW of Cobb, CA",earthquake,0.16,0.25,0.11,26,reviewed,nc,nc
 2023-05-04T08:42:53.340Z,38.8451667,-122.8148333,1.4,0.52,md,26,56,0.01158,0.03,nc,nc73883736,2023-05-04T20:15:10.650Z,"8km WNW of Cobb, CA",earthquake,0.16,0.25,0.27,17,reviewed,nc,nc
 2023-05-04T08:40:32.940Z,-29.5973,-177.0793,35,4.8,mb,33,120,0.806,0.46,us,us6000k9f4,2023-05-04T09:10:34.040Z,"Kermadec Islands, New Zealand",earthquake,4.76,1.931,0.1,31,reviewed,us,us
-2023-05-04T08:40:04.350Z,39.6146667,-122.0338333,21.6,2.27,md,25,82,0.2975,0.08,nc,nc73883731,2023-05-04T19:49:13.606Z,"14km S of Hamilton City, CA",earthquake,0.26,0.48,0.269,30,reviewed,nc,nc
+2023-05-04T08:40:04.350Z,39.6146667,-122.0338333,21.6,2.27,md,25,82,0.2975,0.08,nc,nc73883731,2023-05-04T21:43:11.143Z,"14km S of Hamilton City, CA",earthquake,0.26,0.48,0.269,30,reviewed,nc,nc
 2023-05-04T08:38:38.200Z,38.855999,-122.7756653,1.57,0.7,md,11,170,0.01339,0.03,nc,nc73883726,2023-05-04T09:46:10.785Z,"6km NW of Cobb, CA",earthquake,0.42,0.48,0.32,11,automatic,nc,nc
 2023-05-04T08:32:19.200Z,18.6218,-68.7691,163,4.13,md,13,138,0.4024,0.66,pr,pr2023124002,2023-05-04T08:59:47.963Z,"6 km W of Salvaleón de Higüey, Dominican Republic",earthquake,4.75,2.61,0.13,10,reviewed,pr,pr
 2023-05-04T08:23:29.260Z,19.414,-155.261666666667,1.69,2.01,ml,29,96,,0.1,hv,hv73388832,2023-05-04T21:16:04.250Z,"4 km SW of Volcano, Hawaii",earthquake,0.14,0.19,0.0630310504630225,11,reviewed,hv,hv
@@ -98,6 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-04T07:51:54.100Z,19.3591666666667,-155.430333333333,9.74,2.45,ml,36,63,,0.12,hv,hv73388802,2023-05-04T08:06:43.600Z,"18 km NNE of Pāhala, Hawaii",earthquake,0.37,0.63,0.135708870056505,23,reviewed,hv,hv
 2023-05-04T07:51:22.971Z,61.4297,-147.1897,17.5,1.7,ml,,,,1.21,ak,ak0235p741rd,2023-05-04T07:53:04.819Z,"48 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-04T07:34:54.900Z,61.7914,-150.0445,51.3,1.1,ml,,,,0.24,ak,ak0235p70h1u,2023-05-04T07:36:30.981Z,"4 km N of Willow, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2023-05-04T07:28:39.220Z,60.5423333333333,-152.761833333333,4.77,0.21,ml,7,112,,0.1,av,av91873461,2023-05-04T21:44:51.050Z,"79 km W of Salamatof, Alaska",earthquake,0.38,1,0.235328960891955,7,reviewed,av,av
 2023-05-04T07:14:06.280Z,19.1343,-67.1803,32,3.56,md,16,241,0.6704,0.48,pr,pr2023124001,2023-05-04T08:07:22.472Z,"71 km N of San Antonio, Puerto Rico",earthquake,1.81,11.77,0.03,8,reviewed,pr,pr
 2023-05-04T06:51:08.400Z,-33.2247,-179.3179,10,5,mb,40,53,4.128,0.8,us,us6000k9ej,2023-05-04T07:16:04.040Z,"south of the Kermadec Islands",earthquake,5.23,1.87,0.068,70,reviewed,us,us
 2023-05-04T06:47:22.080Z,17.9393333333333,-66.8416666666667,14.43,2.35,md,7,214,0.05042,0.2,pr,pr71407948,2023-05-04T06:55:42.100Z,"6 km SSW of Indios, Puerto Rico",earthquake,1.2,0.83,0.0605011303007301,4,reviewed,pr,pr
