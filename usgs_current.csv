@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-07T19:00:09.720Z,19.154167175293,-155.47883605957,30.1900005340576,1.87,md,32,168,,0.119999997,hv,hv73391842,2023-05-07T19:03:23.330Z,"5 km S of Pāhala, Hawaii",earthquake,0.86,1.29999995,1.87,4,automatic,hv,hv
 2023-05-07T18:49:18.015Z,63.1383,-150.4473,112.5,1.1,ml,,,,0.24,ak,ak0235uc9f2x,2023-05-07T18:51:11.255Z,"73 km NNE of Petersville, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-05-07T18:45:39.001Z,58.2665,-155.0595,0,2,ml,,,,0.55,ak,ak0235uc8lu4,2023-05-07T18:48:11.503Z,"85 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-07T18:39:36.240Z,33.1755,-116.4093333,10.38,0.93,ml,24,72,0.09268,0.27,ci,ci40220519,2023-05-07T18:43:15.996Z,"10km SSW of Borrego Springs, CA",earthquake,0.46,1.03,0.166,18,automatic,ci,ci
