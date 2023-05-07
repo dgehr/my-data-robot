@@ -158,7 +158,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T20:00:56.040Z,38.8465004,-122.8186646,1.05,0.84,md,15,66,0.008931,0.02,nc,nc73884646,2023-05-06T22:38:14.106Z,"9km WNW of Cobb, CA",earthquake,0.23,0.46,0.2,14,automatic,nc,nc
 2023-05-06T19:54:00.340Z,57.556,-154.6883,29.7,1.4,ml,,,,0.42,ak,ak0235spcjeq,2023-05-06T20:03:37.432Z,"14 km W of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-06T19:46:24.727Z,-6.1582,129.1053,243.981,4.4,mb,41,101,1.809,0.96,us,usd000jl9q,2023-05-06T21:19:06.040Z,"Banda Sea",earthquake,9.13,6.105,0.112,23,reviewed,us,us
-2023-05-06T19:45:26.870Z,38.8091667,-122.7591667,0.27,0.39,md,16,117,0.00854,0.03,nc,nc73884641,2023-05-07T13:15:12.392Z,"3km WSW of Cobb, CA",earthquake,0.17,0.26,0.128,12,reviewed,nc,nc
+2023-05-06T19:45:26.870Z,38.8091667,-122.7591667,0.27,0.39,md,16,117,0.00854,0.03,nc,nc73884641,2023-05-07T13:25:10.540Z,"3km WSW of Cobb, CA",earthquake,0.17,0.26,0.128,12,reviewed,nc,nc
 2023-05-06T19:38:58.358Z,2.3453,126.7916,53.379,4.8,mb,61,111,1.665,0.87,us,usd000jl9n,2023-05-06T20:53:05.040Z,"151 km WNW of Tobelo, Indonesia",earthquake,7.65,6.992,0.053,112,reviewed,us,us
 2023-05-06T19:38:56.403Z,2.3555,126.7046,35,4.8,mb,104,61,1.707,0.64,us,us6000ka2x,2023-05-06T20:29:29.040Z,"160 km WNW of Tobelo, Indonesia",earthquake,5.94,1.715,0.048,142,reviewed,us,us
 2023-05-06T19:33:15.110Z,34.0886667,-117.8171667,13.94,1.39,ml,31,85,0.008931,0.21,ci,ci40220055,2023-05-06T19:36:58.552Z,"2km SSW of San Dimas, CA",earthquake,0.44,0.54,0.24,28,automatic,ci,ci
@@ -227,5 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T13:35:06.847Z,31.5894,-104.5389,7.374,2.6,ml,18,103,0.085,0.26,us,us6000ka0x,2023-05-06T16:00:04.040Z,"western Texas",earthquake,1.03,5.426,0.097,38,reviewed,us,us
 2023-05-06T13:32:16.390Z,19.3388328552246,-155.299163818359,3.84999990463257,1.86000001,md,20,125,,0.150000006,hv,hv73390827,2023-05-06T13:35:24.630Z,"Hawaii region, Hawaii",earthquake,0.47,0.910000026,0.409999996,11,automatic,hv,hv
 2023-05-06T13:31:17.378Z,63.2891,-144.8652,0,1.8,ml,,,,0.78,ak,ak0235sln1mh,2023-05-06T13:33:17.554Z,"41 km SSW of Dry Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-05-06T13:21:55.339Z,62.4512,-149.3128,12.6,1.1,ml,,,,0.26,ak,ak0235slkze5,2023-05-06T13:23:17.466Z,"40 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-06T13:18:35.700Z,17.9265,-66.9555,15.69,1.88,md,6,230,0.08717,0.08,pr,pr71408318,2023-05-06T13:32:29.760Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.79,0.59,0.139315987653547,4,reviewed,pr,pr
