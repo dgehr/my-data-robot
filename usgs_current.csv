@@ -1,10 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-09T05:27:07.320Z,33.4723333,-116.5521667,9.15,0.52,ml,13,86,0.04739,0.19,ci,ci40221415,2023-05-09T05:30:45.113Z,"14km SE of Anza, CA",earthquake,0.54,0.91,0.137,11,automatic,ci,ci
+2023-05-09T05:26:49.496Z,63.1669,-150.4997,99,1.8,ml,,,,0.22,ak,ak0235xfgm5x,2023-05-09T05:29:09.415Z,"74 km SE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-05-09T05:25:25.150Z,33.706,-116.765,15.65,0.72,ml,31,34,0.04269,0.19,ci,ci40221407,2023-05-09T05:29:10.854Z,"6km SW of Idyllwild, CA",earthquake,0.33,0.52,0.13,18,automatic,ci,ci
 2023-05-09T05:04:17.082Z,60.0655,-152.3335,79.3,1.4,ml,,,,0.15,ak,ak0235xfbtws,2023-05-09T05:05:21.421Z,"36 km WNW of Happy Valley, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2023-05-09T05:01:04.370Z,19.4136657714844,-155.335494995117,1.69000005722046,1.73000002,md,13,86,,0.239999995,hv,hv73393567,2023-05-09T05:04:16.530Z,"11 km WSW of Volcano, Hawaii",earthquake,0.5,0.959999979,1.20000005,6,automatic,hv,hv
 2023-05-09T04:39:24.930Z,34.1211667,-117.2188333,5.02,0.94,ml,23,153,0.06506,0.24,ci,ci40221399,2023-05-09T05:00:04.387Z,"1km SW of Highland, CA",earthquake,0.72,1.54,0.173,18,automatic,ci,ci
 2023-05-09T04:26:02.080Z,17.8338,-66.9525,10,3.4,md,17,259,0.1592,0.16,pr,pr2023129000,2023-05-09T04:50:36.040Z,"15 km SSW of Guánica, Puerto Rico",earthquake,0.86,0.58,0.17,11,reviewed,pr,pr
 2023-05-09T04:24:12.890Z,33.2951667,-116.7395,12.97,0.47,ml,16,101,0.06119,0.11,ci,ci40221383,2023-05-09T04:27:45.899Z,"6km NNE of Lake Henshaw, CA",earthquake,0.35,0.53,0.125,7,automatic,ci,ci
-2023-05-09T04:15:18.140Z,62.2315,-148.8069,25.8,1.7,ml,,,,0.54,ak,ak0235xesr9i,2023-05-09T04:18:12.056Z,"50 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-09T04:15:18.140Z,62.2315,-148.8069,25.8,1.7,ml,,,,0.54,ak,ak0235xesr9i,2023-05-09T04:18:12.056Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-09T04:09:57.790Z,17.963,-66.9585,7.24,2.58,md,15,195,0.07637,0.16,pr,pr71408618,2023-05-09T04:48:04.090Z,"Puerto Rico region",earthquake,0.5,0.24,0.0750238891502373,5,reviewed,pr,pr
 2023-05-09T03:56:41.340Z,33.4823333,-116.4473333,11.61,0.75,ml,21,110,0.04477,0.2,ci,ci40221367,2023-05-09T04:00:23.888Z,"22km ESE of Anza, CA",earthquake,0.37,0.77,0.181,7,automatic,ci,ci
 2023-05-09T03:52:17.331Z,34.964,37.6595,10,4.4,mb,31,133,2.233,0.96,us,us6000kaiw,2023-05-09T04:22:55.040Z,"Syria",earthquake,6.04,1.962,0.098,30,reviewed,us,us
@@ -190,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T05:48:29.690Z,33.2941667,-116.7503333,8.57,0.51,ml,31,44,0.05846,0.14,ci,ci40220719,2023-05-08T20:25:07.523Z,"6km NNE of Lake Henshaw, CA",earthquake,0.19,0.59,0.166,19,reviewed,ci,ci
 2023-05-08T05:43:22.212Z,59.3001,-151.899,77.3,1.2,ml,,,,0.55,ak,ak0235vs0uql,2023-05-08T05:44:36.569Z,"6 km S of Nanwalek, Alaska",earthquake,,6.1,,,automatic,ak,ak
 2023-05-08T05:41:45.650Z,19.3953342437744,-155.276000976562,1.12999999523163,1.91999996,md,10,117,,0.100000001,hv,hv73392257,2023-05-08T05:47:26.930Z,"6 km SW of Volcano, Hawaii",earthquake,0.39,0.360000014,0.939999998,10,automatic,hv,hv
-2023-05-08T05:25:01.620Z,37.3120003,-121.677002,7.2,1.94,md,46,61,0.04036,0.07,nc,nc73885291,2023-05-08T09:10:13.168Z,"15km ESE of Alum Rock, CA",earthquake,0.14,0.32,0.2,36,automatic,nc,nc
