@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T04:39:24.930Z,34.1211667,-117.2188333,5.02,0.94,ml,23,153,0.06506,0.24,ci,ci40221399,2023-05-09T05:00:04.387Z,"1km SW of Highland, CA",earthquake,0.72,1.54,0.173,18,automatic,ci,ci
 2023-05-09T04:26:02.080Z,17.8338,-66.9525,10,3.4,md,17,259,0.1592,0.16,pr,pr2023129000,2023-05-09T04:50:36.040Z,"15 km SSW of Guánica, Puerto Rico",earthquake,0.86,0.58,0.17,11,reviewed,pr,pr
 2023-05-09T04:24:12.890Z,33.2951667,-116.7395,12.97,0.47,ml,16,101,0.06119,0.11,ci,ci40221383,2023-05-09T04:27:45.899Z,"6km NNE of Lake Henshaw, CA",earthquake,0.35,0.53,0.125,7,automatic,ci,ci
-2023-05-09T04:15:18.140Z,62.2315,-148.8069,25.8,1.7,ml,,,,0.54,ak,ak0235xesr9i,2023-05-09T04:18:12.056Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-09T04:15:18.140Z,62.2315,-148.8069,25.8,1.7,ml,,,,0.54,ak,ak0235xesr9i,2023-05-09T04:18:12.056Z,"50 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-09T04:09:57.790Z,17.963,-66.9585,7.24,2.58,md,15,195,0.07637,0.16,pr,pr71408618,2023-05-09T04:48:04.090Z,"Puerto Rico region",earthquake,0.5,0.24,0.0750238891502373,5,reviewed,pr,pr
 2023-05-09T03:56:41.340Z,33.4823333,-116.4473333,11.61,0.75,ml,21,110,0.04477,0.2,ci,ci40221367,2023-05-09T04:00:23.888Z,"22km ESE of Anza, CA",earthquake,0.37,0.77,0.181,7,automatic,ci,ci
 2023-05-09T03:52:17.331Z,34.964,37.6595,10,4.4,mb,31,133,2.233,0.96,us,us6000kaiw,2023-05-09T04:22:55.040Z,"Syria",earthquake,6.04,1.962,0.098,30,reviewed,us,us
@@ -186,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T08:18:21.200Z,38.8325005,-122.8171692,1.62,1,md,18,67,0.01065,0.02,nc,nc73885326,2023-05-08T10:35:17.739Z,"8km NW of The Geysers, CA",earthquake,0.23,0.52,0.21,17,automatic,nc,nc
 2023-05-08T08:16:54.058Z,59.9813,-152.4372,28.8,1.5,ml,,,,1.06,ak,ak0235vtnfo9,2023-05-08T08:19:31.875Z,"39 km W of Happy Valley, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-05-08T07:58:58.110Z,47.611333333333334,-120.2345,1.36,0.31,ml,6,182,0.05316,0.11,uw,uw61922526,2023-05-08T18:47:52.910Z,"7 km SSW of Entiat, Washington",earthquake,0.45,1.62,0.13229045504169185,6,reviewed,uw,uw
-2023-05-08T07:50:30.173Z,40.0919,-119.719,16.4,0.1,ml,3,216.17,0.079,0.0176,nn,nn00859192,2023-05-08T22:27:09.618Z,"18 km NNW of Sutcliffe, Nevada",earthquake,,4.1,0.27,2,reviewed,nn,nn
