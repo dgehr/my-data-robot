@@ -184,5 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T16:25:30.850Z,33.1758333,-115.6198333,2.57,1.43,ml,18,58,0.003877,0.19,ci,ci40220999,2023-05-08T18:57:45.710Z,"11km WNW of Calipatria, CA",earthquake,0.27,0.26,0.178,11,reviewed,ci,ci
 2023-05-08T16:10:06.391Z,52.3511,-131.9642,10,4.3,mb,146,95,0.474,0.7,us,us6000kaf3,2023-05-09T02:05:51.550Z,"244 km SSW of Prince Rupert, Canada",earthquake,4.8,1.88,0.05,117,reviewed,us,us
 2023-05-08T16:05:04.239Z,-12.4734,24.7218,10,4.7,mb,62,76,4.371,0.45,us,us6000kaf2,2023-05-09T14:35:45.672Z,"87 km SSE of Mwinilunga, Zambia",earthquake,7.42,1.873,0.083,44,reviewed,us,us
-2023-05-08T15:52:08.570Z,19.4206666666667,-155.334666666667,2.73,1.87,ml,33,75,,0.15,hv,hv73392932,2023-05-08T20:35:17.870Z,"10 km WSW of Volcano, Hawaii",earthquake,0.26,0.47,0.0772904022537714,8,reviewed,hv,hv
-2023-05-08T15:50:45.460Z,34.0413333,-118.6498333,7.17,1.67,ml,23,150,0.01821,0.18,ci,ci40220983,2023-05-09T06:56:54.473Z,"1km WNW of Las Flores, CA",earthquake,0.42,0.39,0.15,22,reviewed,ci,ci
