@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-09T16:36:00.200Z,38.758667,-122.7013321,1.55,1.06,md,8,214,0.009631,0.06,nc,nc73885726,2023-05-09T16:37:36.190Z,"2km SSW of Anderson Springs, CA",earthquake,0.99,0.7,0.09,8,automatic,nc,nc
 2023-05-09T16:05:57.040Z,33.7223333,-116.8156667,16.14,0.61,ml,17,132,0.08533,0.17,ci,ci40221671,2023-05-09T16:09:28.789Z,"8km ESE of Valle Vista, CA",earthquake,0.48,0.61,0.123,11,automatic,ci,ci
 2023-05-09T16:05:01.079Z,63.0555,-150.4268,81.4,1.8,ml,,,,0.56,ak,ak0235xlvs1n,2023-05-09T16:07:35.104Z,"64 km NNE of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-05-09T15:58:16.700Z,33.5853333,-116.7515,12.08,0.88,ml,33,65,0.01342,0.18,ci,ci40221655,2023-05-09T16:01:49.742Z,"8km WNW of Anza, CA",earthquake,0.31,0.49,0.135,19,automatic,ci,ci
-2023-05-09T15:56:04.110Z,36.5578346,-121.0396652,11.88,1.76,md,11,189,0.02061,0.06,nc,nc73885716,2023-05-09T16:11:16.919Z,"10km ENE of Pinnacles, CA",earthquake,1.25,1.27,0.3,10,automatic,nc,nc
+2023-05-09T15:56:04.110Z,36.5578346,-121.0396652,11.88,1.76,md,11,189,0.02061,0.06,nc,nc73885716,2023-05-09T16:28:12.036Z,"10km ENE of Pinnacles, CA",earthquake,1.25,1.27,0.3,10,automatic,nc,nc
 2023-05-09T15:39:47.130Z,38.2910004,-122.6388321,-0.26,1.42,md,8,75,0.07498,0.05,nc,nc73885711,2023-05-09T16:14:12.943Z,"3km ESE of Penngrove, CA",earthquake,0.39,1.71,0.16,8,automatic,nc,nc
 2023-05-09T15:22:07.602Z,36.4302,28.8639,24.786,4.3,mb,71,72,0.63,0.91,us,us6000kan7,2023-05-09T16:22:54.040Z,"29 km WSW of Ölüdeniz, Turkey",earthquake,3.37,5.487,0.093,33,reviewed,us,us
 2023-05-09T15:19:13.637Z,63.8679,-148.7368,78,1.7,ml,,,,1.75,ak,ak0235xlddfn,2023-05-09T15:21:19.769Z,"11 km E of Healy, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -16,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T14:51:26.566Z,61.1411,-150.7083,16.6,1.8,ml,,,,0.42,ak,ak0235xkytqo,2023-05-09T14:52:44.557Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-09T14:49:47.492Z,64.5829,-148.0835,10.7,1.5,ml,,,,0.63,ak,ak0235xkyfx9,2023-05-09T14:51:12.697Z,"28 km SSW of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-09T14:25:46.454Z,-5.4213,147.037,213.782,4.5,mb,28,76,3.959,0.83,us,us6000kamq,2023-05-09T14:44:49.040Z,"eastern New Guinea region, Papua New Guinea",earthquake,9.24,7.863,0.118,21,reviewed,us,us
-2023-05-09T14:25:27.590Z,36.7011681,-121.3793335,0.74,1.68,md,13,76,0.02712,0.21,nc,nc73885676,2023-05-09T16:22:12.993Z,"11km SSW of Tres Pinos, CA",earthquake,0.52,1.25,0.23,12,automatic,nc,nc
+2023-05-09T14:25:27.590Z,36.7011681,-121.3793335,0.74,1.68,md,13,76,0.02712,0.21,nc,nc73885676,2023-05-09T16:28:11.035Z,"11km SSW of Tres Pinos, CA",earthquake,0.52,1.25,0.23,12,automatic,nc,nc
 2023-05-09T14:10:44.451Z,53.7094,-167.4771,87.872,5,mb,102,87,0.366,0.78,us,us6000kamj,2023-05-09T16:20:57.240Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,9.42,4.772,0.027,431,reviewed,us,us
 2023-05-09T14:09:06.856Z,51.413,157.4113,149.551,4.5,mb,38,60,1.707,1.36,us,us6000kamp,2023-05-09T14:38:36.040Z,"63 km E of Ozernovskiy, Russia",earthquake,8,5.36,0.106,26,reviewed,us,us
 2023-05-09T14:07:41.010Z,19.386833190918,-155.278503417969,1.52999997138977,1.70000005,md,11,106,,0.0900000036,hv,hv73393952,2023-05-09T14:13:13.150Z,"7 km SW of Volcano, Hawaii",earthquake,0.38,0.289999992,0.860000014,9,automatic,hv,hv
@@ -98,7 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T03:31:47.710Z,35.23833333,-98.05,6.35,1.4,ml,88,67,0.02969417299,0.4,ok,ok2023jadj,2023-05-09T12:40:51.839Z,"10 km WNW of Pocasset, Oklahoma",earthquake,,0.6,0.22,32,reviewed,ok,ok
 2023-05-09T03:12:13.651Z,61.1961,-151.3625,124.6,1.2,ml,,,,0.99,ak,ak0235xe6o5x,2023-05-09T03:14:06.074Z,"16 km WNW of Beluga, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-05-09T03:05:55.974Z,64.9298,-147.2914,0,1.5,ml,,,,0.93,ak,ak0235xe59f1,2023-05-09T03:07:52.245Z,"13 km WNW of Two Rivers, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-09T03:01:11.470Z,33.5205,-116.5138333,12.28,1.62,ml,34,107,0.03959,0.19,ci,ci40221351,2023-05-09T03:04:52.617Z,"15km ESE of Anza, CA",earthquake,0.31,0.46,0.226,26,automatic,ci,ci
+2023-05-09T03:01:11.250Z,33.5118333,-116.5176667,12.91,1.52,ml,53,62,0.04689,0.19,ci,ci40221351,2023-05-09T16:30:27.272Z,"15km ESE of Anza, CA",earthquake,0.21,0.34,0.247,37,reviewed,ci,ci
 2023-05-09T03:01:09.100Z,33.5151667,-116.5183333,12.85,1.28,ml,41,62,0.04353,0.13,ci,ci40221343,2023-05-09T16:18:22.240Z,"15km ESE of Anza, CA",earthquake,0.16,0.3,0.168,19,reviewed,ci,ci
 2023-05-09T02:56:38.280Z,33.5208333,-116.5178333,12.51,0.34,ml,13,208,0.03819,0.12,ci,ci40221335,2023-05-09T15:21:25.395Z,"15km ESE of Anza, CA",earthquake,0.39,0.44,0.133,7,reviewed,ci,ci
 2023-05-09T02:56:34.470Z,33.5226667,-116.5223333,12.43,0.12,ml,8,204,0.03549,0.09,ci,ci37537724,2023-05-09T15:24:37.522Z,"14km ESE of Anza, CA",earthquake,0.6,0.63,0.106,5,reviewed,ci,ci
