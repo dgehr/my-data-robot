@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T08:38:17.050Z,38.8208351,-122.7868347,1.55,1.88,md,36,33,0.008962,0.05,nc,nc73886041,2023-05-10T11:16:14.056Z,"6km NNW of The Geysers, CA",earthquake,0.17,0.25,0.18,35,automatic,nc,nc
 2023-05-10T08:29:02.220Z,38.8428345,-122.8755035,1.96,1.36,md,23,123,0.006076,0.03,nc,nc73886036,2023-05-10T10:48:09.882Z,"13km NW of The Geysers, CA",earthquake,0.26,0.35,0.12,24,automatic,nc,nc
 2023-05-10T08:26:15.490Z,44.8111667,-110.8213333,5.43,0.12,md,9,214,0.03086,0.07,uu,uu60539556,2023-05-10T13:11:02.030Z,"20 km SSW of Mammoth, Wyoming",earthquake,0.75,0.55,0.132,5,reviewed,uu,uu
-2023-05-10T08:16:42.060Z,34.0258333,-117.4953333,17.87,2.86,ml,118,17,0.05899,0.24,ci,ci40222087,2023-05-10T13:33:08.700Z,"2km NNW of Glen Avon, CA",earthquake,0.2,0.46,0.137,25,automatic,ci,ci
+2023-05-10T08:16:42.060Z,34.0258333,-117.4953333,17.87,2.86,ml,118,17,0.05899,0.24,ci,ci40222087,2023-05-10T14:02:08.731Z,"2km NNW of Glen Avon, CA",earthquake,0.2,0.46,0.137,25,automatic,ci,ci
 2023-05-10T08:06:09.751Z,37.2038,-104.7596,2.811,2.3,ml,11,112,0.084,0.4,us,us6000kat7,2023-05-10T08:21:07.040Z,"8 km N of Segundo, Colorado",earthquake,1.51,3.49,0.105,12,reviewed,us,us
 2023-05-10T07:22:31.830Z,33.7075,-116.8315,14.12,1.17,ml,46,59,0.07848,0.21,ci,ci40222079,2023-05-10T13:22:31.045Z,"7km SE of Valle Vista, CA",earthquake,0.3,0.44,0.171,28,reviewed,ci,ci
 2023-05-10T07:21:12.080Z,33.7068333,-116.8285,15.3,1.03,ml,36,39,0.08187,0.24,ci,ci40222071,2023-05-10T07:24:48.297Z,"8km SE of Valle Vista, CA",earthquake,0.35,0.58,0.179,28,automatic,ci,ci
@@ -217,6 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T14:25:46.454Z,-5.4213,147.037,213.782,4.5,mb,28,76,3.959,0.83,us,us6000kamq,2023-05-09T14:44:49.040Z,"eastern New Guinea region, Papua New Guinea",earthquake,9.24,7.863,0.118,21,reviewed,us,us
 2023-05-09T14:25:27.540Z,36.7061667,-121.3813333,0.92,1.57,md,28,69,0.02801,0.14,nc,nc73885676,2023-05-10T00:02:10.939Z,"11km SSW of Tres Pinos, CA",earthquake,0.25,0.58,0.206,31,reviewed,nc,nc
 2023-05-09T14:10:44.451Z,53.7094,-167.4771,87.872,5,mb,102,87,0.366,0.78,us,us6000kamj,2023-05-10T08:20:59.163Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,9.42,4.772,0.027,431,reviewed,us,us
-2023-05-09T14:09:06.856Z,51.413,157.4113,149.551,4.5,mb,38,60,1.707,1.36,us,us6000kamp,2023-05-09T14:38:36.040Z,"63 km E of Ozernovskiy, Russia",earthquake,8,5.36,0.106,26,reviewed,us,us
-2023-05-09T14:07:41.010Z,19.386833190918,-155.278503417969,1.52999997138977,1.70000005,md,11,106,,0.0900000036,hv,hv73393952,2023-05-09T14:13:13.150Z,"7 km SW of Volcano, Hawaii",earthquake,0.38,0.289999992,0.860000014,9,automatic,hv,hv
-2023-05-09T14:00:18.935Z,63.0249,-151.5365,0,1.6,ml,,,,1.12,ak,ak0235xknvm7,2023-05-09T14:02:42.256Z,"58 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
