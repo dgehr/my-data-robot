@@ -226,7 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T07:05:34.670Z,38.8163333,-122.8128333,3.16,0.48,md,12,104,0.007373,0.02,nc,nc73886016,2023-05-10T14:41:15.470Z,"6km NW of The Geysers, CA",earthquake,0.43,0.3,0.272,12,reviewed,nc,nc
 2023-05-10T07:05:24.341Z,25.541,-109.8329,10,4.9,mb,60,135,1.85,1.2,us,us6000kasv,2023-05-10T16:19:13.976Z,"57 km WSW of Campo Pesquero el Colorado, Mexico",earthquake,6.92,1.894,0.034,272,reviewed,us,us
 2023-05-10T06:53:40.890Z,38.7519989,-122.720665,0.55,0.87,md,8,170,0.01013,0.03,nc,nc73886011,2023-05-10T07:33:14.699Z,"4km SW of Anderson Springs, CA",earthquake,0.39,0.52,0.26,7,automatic,nc,nc
-2023-05-10T06:51:08.540Z,58.306,-155.1265,1.31,-0.6,ml,4,219,,0.13,av,av91881091,2023-05-11T02:59:04.420Z,"Alaska Peninsula",earthquake,0.75,1.4,0.173315050880435,3,reviewed,av,av
-2023-05-10T06:48:41.790Z,58.269,-155.1055,3.4,-0.32,ml,4,122,,0.04,av,av91881086,2023-05-11T02:53:47.810Z,"86 km NNW of Karluk, Alaska",earthquake,0.41,0.92,0.189293041628669,3,reviewed,av,av
-2023-05-10T06:48:14.570Z,38.7529984,-122.7229996,0.57,0.99,md,8,163,0.008704,0.02,nc,nc73886006,2023-05-10T07:23:17.646Z,"4km SW of Anderson Springs, CA",earthquake,0.9,0.55,0.16,8,automatic,nc,nc
-2023-05-10T06:46:34.808Z,59.7014,-152.5651,78,2,ml,,,,0.31,ak,ak0235z3png8,2023-05-10T06:49:04.392Z,"42 km WSW of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
