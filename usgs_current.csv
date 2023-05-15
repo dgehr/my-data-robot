@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-15T11:28:56.600Z,38.8048325,-122.7811661,2.89,0.5,md,13,98,0.008423,0.02,nc,nc73888391,2023-05-15T11:30:30.937Z,"4km NW of The Geysers, CA",earthquake,0.37,0.71,0.25,13,automatic,nc,nc
+2023-05-15T11:27:14.460Z,19.3888339996338,-155.27766418457,0.230000004172325,2.77999997,md,36,84,,0.349999994,hv,hv73403102,2023-05-15T11:30:17.840Z,"7 km SW of Volcano, Hawaii",earthquake,0.43,0.340000004,1.12,21,automatic,hv,hv
 2023-05-15T11:21:21.350Z,38.847332,-122.8160019,1.34,0.51,md,6,92,0.009298,0.03,nc,nc73888381,2023-05-15T11:22:55.276Z,"8km WNW of Cobb, CA",earthquake,0.39,1,0.3,8,automatic,nc,nc
 2023-05-15T11:13:40.251Z,64.7076,-147.63,13.7,1.1,ml,,,,0.31,ak,ak02367g6hqh,2023-05-15T11:15:39.671Z,"11 km SSW of Badger, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-15T11:00:24.070Z,38.8201675,-122.8061676,2.41,0.85,md,16,52,0.004438,0.01,nc,nc73888371,2023-05-15T11:24:14.085Z,"6km NW of The Geysers, CA",earthquake,0.28,0.78,0.3,17,automatic,nc,nc
@@ -189,6 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-14T12:06:08.858Z,37.9,36.1805,8.423,4.1,mb,46,34,0.345,0.5,us,us6000kbui,2023-05-14T12:24:10.040Z,"12 km SE of Saimbeyli, Turkey",earthquake,3.96,3.9,0.123,18,reviewed,us,us
 2023-05-14T11:54:24.750Z,33.2711667,-116.4288333,3.52,0.97,ml,40,78,0.01022,0.21,ci,ci40224919,2023-05-14T11:58:10.074Z,"5km WNW of Borrego Springs, CA",earthquake,0.28,0.77,0.123,24,automatic,ci,ci
 2023-05-14T11:52:29.857Z,36.7415,-116.0525,5.6,-0.4,ml,6,169.05,0.047,0.1252,nn,nn00859525,2023-05-14T15:45:34.818Z,"39 km WNW of Indian Springs, Nevada",earthquake,,3.6,0.06,3,reviewed,nn,nn
-2023-05-14T11:29:07.590Z,33.2421,139.2767,15.334,4.8,mb,67,58,0.468,0.41,us,us6000kbuc,2023-05-14T12:02:24.040Z,"162 km S of Shimoda, Japan",earthquake,6.11,4.375,0.047,140,reviewed,us,us
-2023-05-14T11:27:53.171Z,56.9513,-33.8887,10,4.9,mb,88,47,7.286,0.49,us,us6000kbua,2023-05-14T11:50:24.040Z,"Reykjanes Ridge",earthquake,9.03,1.849,0.032,303,reviewed,us,us
-2023-05-14T11:26:52.117Z,60.3242,-141.4621,8.2,1.5,ml,,,,0.96,ak,ak02365spygr,2023-05-14T11:29:12.452Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
