@@ -84,6 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T11:46:11.740Z,38.7630005,-122.7088318,1.51,1.14,md,8,196,0.02973,0.02,nc,nc73889086,2023-05-17T12:52:13.324Z,"2km SW of Anderson Springs, CA",earthquake,0.46,0.94,0.13,9,automatic,nc,nc
 2023-05-17T11:39:09.037Z,64.951,-149.0376,17.8,1,ml,,,,0.66,ak,ak0236areoxj,2023-05-17T11:41:33.049Z,"26 km SSE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-17T11:13:16.490Z,19.2416667938232,-155.389663696289,31.6000003814697,1.83000004,md,28,164,,0.119999997,hv,hv73406162,2023-05-17T11:16:32.080Z,"Island of Hawaii, Hawaii",earthquake,0.63,1.11000001,0.75999999,6,automatic,hv,hv
+2023-05-17T11:03:09.375Z,40.2236,-121.0879,0,1.5,ml,4,327.39,0.662,0.1464,nn,nn00859627,2023-05-17T19:34:49.219Z,"1 km SSW of East Shore, California",earthquake,,0,0.31,4,reviewed,nn,nn
 2023-05-17T10:53:53.580Z,19.2423324584961,-155.385162353516,32.0699996948242,2.85,ml,48,142,,0.150000006,hv,hv73406132,2023-05-17T11:00:58.040Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.59,0.629999995,1.77,25,automatic,hv,hv
 2023-05-17T10:35:55.760Z,38.8126678,-122.8071671,2.33,0.92,md,13,62,0.01039,0.04,nc,nc73889081,2023-05-17T12:23:20.130Z,"6km NW of The Geysers, CA",earthquake,0.33,1.09,0.23,14,automatic,nc,nc
 2023-05-17T10:26:04.910Z,33.2103333,-117.423,15.26,0.93,ml,13,229,0.03945,0.1,ci,ci40226527,2023-05-17T13:28:36.239Z,"4km WSW of Camp Pendleton South, CA",earthquake,0.52,0.4,0.154,7,reviewed,ci,ci
@@ -220,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-16T20:01:21.090Z,38.8066673,-122.8396683,1.06,0.4,md,7,123,0.008486,0.03,nc,nc73888871,2023-05-16T20:29:19.151Z,"8km WNW of The Geysers, CA",earthquake,0.33,0.9,0.16,9,automatic,nc,nc
 2023-05-16T19:59:49.750Z,40.2243333,-121.123,4.39,2.3,md,20,63,0.02896,0.1,nc,nc73888866,2023-05-17T06:55:15.180Z,"3km ENE of Prattville, CA",earthquake,0.26,0.41,0.146,32,reviewed,nc,nc
 2023-05-16T19:50:14.017Z,58.9928,-152.5796,68.8,1.7,ml,,,,0.37,ak,ak023698p6jd,2023-05-16T19:52:33.582Z,"Kodiak Island region, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-05-16T19:31:52.330Z,32.8178333,-115.5816667,15.85,1.04,ml,10,130,0.06195,0.21,ci,ci40226231,2023-05-16T20:51:01.710Z,"4km SSW of Imperial, CA",earthquake,0.72,1.06,0.354,5,reviewed,ci,ci
