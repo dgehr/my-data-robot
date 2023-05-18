@@ -243,4 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T03:53:54.660Z,63.2359,-151.0938,0,1.1,ml,,,,0.64,ak,ak0236amqbmy,2023-05-17T03:55:45.613Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-17T03:49:07.464Z,-24.4137,-67.4891,201.812,4,mb,18,107,1.586,0.46,us,us6000kcg6,2023-05-18T02:39:03.040Z,"120 km W of San Antonio de los Cobres, Argentina",earthquake,9.91,12.37,0.52,1,reviewed,us,us
 2023-05-17T03:47:19.460Z,37.5976677,-122.0031662,5.82,2.25,md,46,51,0.03233,0.15,nc,nc73888976,2023-05-17T23:05:05.282Z,"1km E of Union City, CA",earthquake,0.21,0.56,0.14,44,automatic,nc,nc
-2023-05-17T03:45:26.670Z,38.8134995,-122.8133316,2.57,1.33,md,26,49,0.0102,0.03,nc,nc73888971,2023-05-17T05:31:13.632Z,"6km NW of The Geysers, CA",earthquake,0.22,0.4,0.12,26,automatic,nc,nc
