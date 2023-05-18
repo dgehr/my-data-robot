@@ -266,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T07:56:44.240Z,46.87466666666667,-121.72633333333333,-2.75,0.16,ml,10,96,0.005617,0.22,uw,uw61916337,2023-05-17T22:18:46.080Z,"26 km ENE of Ashford, Washington",earthquake,0.59,1.13,0.09072076232191326,7,reviewed,uw,uw
 2023-05-17T07:48:34.163Z,62.8575,-150.7522,83.3,1.9,ml,,,,0.52,ak,ak0236ap2xw8,2023-05-17T07:50:39.370Z,"40 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-17T07:47:34.110Z,38.8426666,-122.8219986,1.22,0.66,md,8,107,0.01129,0.02,nc,nc73889026,2023-05-17T08:04:15.577Z,"9km WNW of Cobb, CA",earthquake,0.6,1.17,0.44,9,automatic,nc,nc
-2023-05-17T07:42:41.340Z,34.0268333,-116.778,13.82,1,ml,45,39,0.02609,0.13,ci,ci40226503,2023-05-17T17:21:17.665Z,"12km N of Cabazon, CA",earthquake,0.15,0.31,0.166,23,reviewed,ci,ci
