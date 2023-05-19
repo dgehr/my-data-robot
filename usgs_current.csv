@@ -1,4 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-19T03:03:10.743Z,62.379,-147.7104,58.9,2.1,ml,,,,1.01,ak,ak0236dxi7fm,2023-05-19T03:05:46.764Z,"56 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-05-19T03:02:48.044Z,60.7248,-147.3189,17.6,1.1,ml,,,,0.98,ak,ak0236dxi2lt,2023-05-19T03:05:44.673Z,"38 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-19T03:00:45.792Z,61.3404,-141.1159,14.3,1.7,ml,,,,0.17,ak,ak0236dxhmzn,2023-05-19T03:02:18.615Z,"97 km E of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-19T02:58:13.440Z,38.8190002,-122.7959976,2.64,0.94,md,13,55,0.01103,0.01,nc,nc73889751,2023-05-19T02:59:46.525Z,"6km NW of The Geysers, CA",earthquake,0.4,1.18,0.16,13,automatic,nc,nc
+2023-05-19T02:57:07.000Z,-23.193,170.6519,10,7.7,Mi,25,107.99999136000069,2.962644,0.65,at,at00ruvxj7,2023-05-19T03:04:33.707Z,"southeast of the Loyalty Islands",earthquake,0,0,,6,reviewed,at,at
+2023-05-19T02:54:57.561Z,58.1778,-155.3531,0.8,0.4,ml,,,,0.94,ak,ak0236dx7syk,2023-05-19T02:57:34.609Z,"86 km NW of Karluk, Alaska",earthquake,,4.4,,,automatic,ak,ak
+2023-05-19T02:47:28.830Z,17.9395,-66.9373333333333,8.99,2.83,md,14,221,0.06562,0.12,pr,pr71409938,2023-05-19T02:59:26.590Z,"Puerto Rico region",earthquake,0.45,0.44,0.170770723510254,4,reviewed,pr,pr
 2023-05-19T02:42:55.123Z,61.3147,-150.3161,39.9,1.4,ml,,,,0.3,ak,ak0236dx586g,2023-05-19T02:44:07.082Z,"18 km WSW of Point MacKenzie, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-19T02:29:50.113Z,63.286,-142.8512,0,1.5,ml,,,,1.17,ak,ak0236dx2fhf,2023-05-19T02:31:46.652Z,"8 km SE of Tok, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-19T02:26:50.090Z,34.1015,-117.299,15.61,1.08,ml,23,145,0.125,0.18,ci,ci40227895,2023-05-19T02:30:32.779Z,"3km S of San Bernardino, CA",earthquake,0.43,0.95,0.184,26,automatic,ci,ci
