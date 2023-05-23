@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-23T16:49:22.578Z,57.9152,-154.3857,55.4,1.8,ml,,,,0.61,ak,ak0236kro44h,2023-05-23T16:51:15.217Z,"38 km N of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-23T16:28:29.446Z,60.0606,-153.1488,119.5,2,ml,,,,0.16,ak,ak0236krjmm8,2023-05-23T16:29:54.095Z,"61 km ENE of Pedro Bay, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-23T16:15:07.590Z,35.955,-117.6955,2.69,1.86,ml,20,86,0.09596,0.16,ci,ci40232327,2023-05-23T16:25:34.710Z,"19km E of Little Lake, CA",earthquake,0.25,0.59,0.201,22,automatic,ci,ci
 2023-05-23T16:13:38.850Z,38.8370018,-122.7986679,1.96,0.22,md,9,100,0.006651,0.02,nc,nc73891726,2023-05-23T16:30:14.174Z,"7km WNW of Cobb, CA",earthquake,0.45,1.05,0.09,10,automatic,nc,nc
@@ -23,6 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-23T13:19:35.890Z,38.7913322,-122.7603302,2.13,0.98,md,12,66,0.009292,0.03,nc,nc73891686,2023-05-23T14:39:13.503Z,"2km NNW of The Geysers, CA",earthquake,0.38,0.75,0.18,11,automatic,nc,nc
 2023-05-23T13:06:42.829Z,-22.9155,170.2164,10,4.8,mb,37,207,2.574,0.95,us,us7000k38w,2023-05-23T13:32:48.040Z,"280 km E of Vao, New Caledonia",earthquake,14.96,1.895,0.121,21,reviewed,us,us
 2023-05-23T13:00:37.559Z,-3.8346,151.5509,10,5,mb,56,77,0.707,0.68,us,us7000k38v,2023-05-23T13:20:56.040Z,"79 km WNW of Rabaul, Papua New Guinea",earthquake,9.05,1.851,0.083,47,reviewed,us,us
+2023-05-23T12:53:13.428Z,62.2016,-150.2158,49.4,0.8,ml,,,,0.61,ak,ak0236kpb7hh,2023-05-23T16:49:43.838Z,"12 km S of Trapper Creek, Alaska",earthquake,,3,,,reviewed,ak,ak
 2023-05-23T12:49:48.270Z,19.804,-65.6566666666667,19.26,3.27,md,5,318,1.53,0.25,pr,pr71410663,2023-05-23T13:15:46.250Z,"153 km N of Suárez, Puerto Rico",earthquake,8.93,17.72,0.00542638677504703,3,reviewed,pr,pr
 2023-05-23T12:47:03.348Z,62.4968,-148.2884,46.9,1.4,ml,,,,0.85,ak,ak0236kp9wse,2023-05-23T12:49:10.027Z,"78 km N of Chickaloon, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-23T12:35:32.318Z,37.2772,-117.5981,3.9,1.1,ml,10,133.15,0.058,0.272,nn,nn00860185,2023-05-23T12:37:46.197Z,"53 km S of Silver Peak, Nevada",earthquake,,3,1.05,6,automatic,nn,nn
