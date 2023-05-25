@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-25T20:41:08.002Z,35.05568314,-97.89836121,7.680758476,1.73,ml,12,144.9753876,0.1221584678,0.8298872779,ok,ok2023kerj,2023-05-25T20:43:16.728Z,"3 km E of Chickasha, Oklahoma",earthquake,4.285319063,3.745181985,0.23,5,automatic,ok,ok
+2023-05-25T20:40:15.670Z,38.8361664,-122.7921677,1.83,0.74,md,11,81,0.002654,0.01,nc,nc73889865,2023-05-25T20:41:52.407Z,"6km WNW of Cobb, CA",earthquake,0.3,0.97,0.12,12,automatic,nc,nc
 2023-05-25T20:31:32.300Z,33.836,-117.1016667,18.29,1.3,ml,24,76,0.1319,0.36,ci,ci40233663,2023-05-25T20:35:17.732Z,"6km NE of Nuevo, CA",earthquake,1.22,31.61,0.249,28,automatic,ci,ci
 2023-05-25T20:29:32.130Z,35.7708333,-117.5756667,7.02,0.94,ml,10,148,0.0482,0.18,ci,ci40233655,2023-05-25T20:33:10.318Z,"16km W of Searles Valley, CA",earthquake,0.65,0.96,0.222,7,automatic,ci,ci
 2023-05-25T20:25:26.299Z,60.0434,-140.3705,0,1.9,ml,,,,0.65,ak,ak0236o4zemt,2023-05-25T20:27:22.513Z,"Southern Yukon Territory, Canada",earthquake,,0.6,,,automatic,ak,ak
@@ -17,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T18:55:50.706Z,62.0501,-149.7163,30.2,1.6,ml,,,,0.59,ak,ak0236o3z0t8,2023-05-25T18:58:28.540Z,"14 km SSE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-25T18:52:59.750Z,19.1515007019043,-155.492172241211,30.1499996185303,1.97000003,md,38,143,,0.170000002,hv,hv73421372,2023-05-25T18:56:16.690Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.85,1.01999998,0.360000014,9,automatic,hv,hv
 2023-05-25T18:44:19.562Z,62.4706,-149.422,32.5,1.3,ml,,,,0.62,ak,ak0236o3wliu,2023-05-25T18:47:04.651Z,"35 km E of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-05-25T18:32:19.860Z,37.1496667,-121.5365,5.64,0.73,md,11,87,0.0663,0.06,nc,nc73889825,2023-05-25T20:28:21.158Z,"10km NE of San Martin, CA",earthquake,0.3,0.89,0.383,10,reviewed,nc,nc
+2023-05-25T18:32:19.860Z,37.1496667,-121.5365,5.64,0.73,md,11,87,0.0663,0.06,nc,nc73889825,2023-05-25T20:40:09.816Z,"10km NE of San Martin, CA",earthquake,0.3,0.89,0.383,10,reviewed,nc,nc
 2023-05-25T18:27:43.268Z,31.6083633,-103.9642257,8.908032227,2.4,ml,14,55,0.04244588104,0.1,tx,tx2023kena,2023-05-25T20:08:13.478Z,"36 km WSW of Mentone, Texas",earthquake,0.7053500433,0.8414104662000002,0.2,12,reviewed,tx,tx
 2023-05-25T18:18:41.440Z,37.9541667,-121.8318333,19.38,2.22,md,86,66,0.07275,0.24,nc,nc73889815,2023-05-25T20:35:15.787Z,"6km SSW of Antioch, CA",earthquake,0.23,0.35,0.157,68,reviewed,nc,nc
 2023-05-25T18:10:13.030Z,34.3423333,-118.47,5.42,1.46,ml,24,80,0.03986,0.21,ci,ci40233559,2023-05-25T18:13:55.700Z,"4km NNW of Sylmar, CA",earthquake,0.29,0.6,0.19,29,automatic,ci,ci
@@ -57,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T15:03:22.720Z,45.36266666666667,-121.81933333333333,4.59,0.52,ml,5,202,0.05592,0.02,uw,uw61919037,2023-05-25T17:56:42.830Z,"8 km NW of Government Camp, Oregon",earthquake,0.38,0.91,0.20717810090073085,3,reviewed,uw,uw
 2023-05-25T15:02:06.706Z,38.0682,38.5375,10,4,mb,33,69,0.665,0.91,us,us7000k3x7,2023-05-25T17:29:25.040Z,"7 km WNW of Sincik, Turkey",earthquake,2.61,1.953,0.13,17,reviewed,us,us
 2023-05-25T14:40:31.580Z,19.6115,-65.8491666666667,19.45,3.3,md,6,307,1.299,0.27,pr,pr71410993,2023-05-25T15:02:58.090Z,"129 km NNE of San Juan, Puerto Rico",earthquake,7.57,14.96,0.109033089221827,4,reviewed,pr,pr
-2023-05-25T14:38:29.630Z,36.7828333,-120.9116667,5.85,2.11,md,50,73,0.1456,0.14,nc,nc73889750,2023-05-25T20:36:09.792Z,"31km SW of South Dos Palos, CA",earthquake,0.21,1.04,0.183,62,reviewed,nc,nc
+2023-05-25T14:38:29.630Z,36.7828333,-120.9116667,5.85,2.11,md,50,73,0.1456,0.14,nc,nc73889750,2023-05-25T20:40:11.816Z,"31km SW of South Dos Palos, CA",earthquake,0.21,1.04,0.183,62,reviewed,nc,nc
 2023-05-25T14:29:53.280Z,35.885,-117.6933333,6.35,0.85,ml,18,77,0.0959,0.11,ci,ci40233351,2023-05-25T18:51:20.105Z,"20km ESE of Little Lake, CA",earthquake,0.19,0.65,0.061,10,reviewed,ci,ci
 2023-05-25T14:19:11.960Z,38.8345,-122.8056667,2.08,0.51,md,27,52,0.01161,0.02,nc,nc73889745,2023-05-25T17:57:10.847Z,"7km W of Cobb, CA",earthquake,0.16,0.39,0.176,26,reviewed,nc,nc
 2023-05-25T14:12:11.710Z,38.8151665,-122.807663,1.31,1.11,md,17,42,0.00843,0.02,nc,nc73889740,2023-05-25T15:08:14.541Z,"6km NW of The Geysers, CA",earthquake,0.21,0.54,0.12,19,automatic,nc,nc
