@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-27T22:41:46.880Z,38.8676682,-122.973999,6.93,0.28,md,8,190,0.07657,0.05,nc,nc73890745,2023-05-27T22:43:22.952Z,"8km NNE of Cloverdale, CA",earthquake,2.21,1.73,0.08,4,automatic,nc,nc
 2023-05-27T22:24:32.630Z,36.6931648,-121.3563309,1.01,2.16,md,28,53,0.01631,0.18,nc,nc73890735,2023-05-27T22:31:15.056Z,"11km SSW of Tres Pinos, CA",earthquake,0.33,0.79,0.14,26,automatic,nc,nc
 2023-05-27T22:21:20.656Z,36.4818,-116.6207,2.9,1.4,ml,20,169.71,0.098,0.1534,nn,nn00860422,2023-05-27T22:23:21.021Z,"21 km E of Furnace Creek, California",earthquake,,1.2,0.8,15,automatic,nn,nn
 2023-05-27T22:15:33.009Z,61.4667,-148.4735,32,1.6,ml,,,,0.47,ak,ak0236rh6u6s,2023-05-27T22:17:13.426Z,"Southern Alaska",earthquake,,0.1,,,automatic,ak,ak
