@@ -214,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T23:17:58.400Z,38.8271675,-122.821167,1.69,0.77,md,18,41,0.009448,0.02,nc,nc73891455,2023-05-29T23:51:13.248Z,"8km NW of The Geysers, CA",earthquake,0.22,0.44,0.17,18,automatic,nc,nc
 2023-05-29T23:12:29.480Z,44.471,-110.5973333,3.75,1.07,md,7,122,0.03465,0.03,uu,uu60541216,2023-05-30T15:13:31.380Z,"45 km ESE of West Yellowstone, Montana",earthquake,0.62,0.47,0.259,4,reviewed,uu,uu
 2023-05-29T22:52:37.110Z,44.4688333,-110.5955,3.57,2.13,ml,22,47,0.03228,0.14,uu,uu60541211,2023-05-30T13:57:17.730Z,"Wyoming",earthquake,0.3,0.81,0.545,3,reviewed,uu,uu
-2023-05-29T22:40:00.050Z,44.469,-110.5906667,3.73,1.16,md,9,123,0.03205,0.1,uu,uu60541206,2023-05-30T15:35:26.660Z,"Wyoming",earthquake,0.62,1.07,0.45,6,reviewed,uu,uu
-2023-05-29T22:38:23.110Z,44.4645,-110.5975,4.75,1.56,md,10,144,0.02833,0.05,uu,uu60541201,2023-05-30T15:38:46.820Z,"Yellowstone National Park, Wyoming",earthquake,0.66,0.37,0.561,5,reviewed,uu,uu
