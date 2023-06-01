@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-01T14:05:02.060Z,19.3904991149902,-155.279327392578,0.879999995231628,2.28,ml,26,55,,0.150000006,hv,hv73434092,2023-06-01T14:10:32.170Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.189999998,0.33,10,automatic,hv,hv
 2023-06-01T13:43:59.840Z,33.5498333,-116.9198333,13.05,0.67,ml,23,46,0.1,0.2,ci,ci40239783,2023-06-01T13:47:34.192Z,"13km NNW of Aguanga, CA",earthquake,0.3,0.84,0.114,14,automatic,ci,ci
 2023-06-01T13:16:24.925Z,63.2783,-150.4228,33.9,0.7,ml,,,,0.87,ak,ak0236zlivab,2023-06-01T13:19:28.164Z,"Central Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-06-01T13:14:30.564Z,61.5892,-148.2756,20.2,0.7,ml,,,,0.34,ak,ak0236zligb4,2023-06-01T13:16:42.629Z,"25 km SSE of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -147,6 +148,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T21:56:50.845Z,63.0592,-150.391,104.9,2.1,ml,,,,0.6,ak,ak0236y2zmbo,2023-05-31T21:58:53.273Z,"65 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-31T21:56:38.451Z,-3.6169,128.2412,119.534,5.2,mww,93,25,1.887,0.95,us,us7000k5db,2023-05-31T22:10:50.040Z,"Seram, Indonesia",earthquake,4.87,6.284,0.071,19,reviewed,us,us
 2023-05-31T21:41:36.540Z,19.1611671447754,-155.482833862305,32.8300018310547,1.98,ml,42,115,,0.119999997,hv,hv73432847,2023-05-31T21:47:07.980Z,"4 km S of Pāhala, Hawaii",earthquake,0.61,0.769999981,4.42,7,automatic,hv,hv
+2023-05-31T21:35:25.629Z,36.431,-96.9435,7.03,0.59,ml,22,67,0.02519505587,0.11,ok,ok2023kpsf,2023-06-01T14:09:44.594Z,"Oklahoma",earthquake,,0.4,0.28,4,reviewed,ok,ok
 2023-05-31T21:34:49.250Z,19.417,-155.265166666667,1.34,0.43,md,12,88,,0.09,hv,hv73432842,2023-06-01T00:52:48.770Z,"4 km SW of Volcano, Hawaii",earthquake,0.29,0.36,0.0858985348340187,2,reviewed,hv,hv
 2023-05-31T21:33:51.740Z,19.9783333333333,-155.628666666667,13.45,2.04,ml,10,140,,0.15,hv,hv72000543,2023-06-01T02:24:44.940Z,"6 km SE of Waimea, Hawaii",earthquake,0.71,0.42,0.147765673010184,4,reviewed,hv,hv
 2023-05-31T21:24:32.270Z,19.396,-155.305166666667,2.3,0.84,md,14,62,,0.09,hv,hv73432812,2023-06-01T01:03:36.020Z,"9 km SW of Volcano, Hawaii",earthquake,0.26,0.23,0.0821316465387077,3,reviewed,hv,hv
@@ -258,7 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T14:36:28.918Z,39.1619,-119.6142,5.9,0.5,ml,5,258.45,0.074,0.1253,nn,nn00860585,2023-06-01T02:04:15.041Z,"8 km SSW of Dayton, Nevada",earthquake,,4.2,0,1,reviewed,nn,nn
 2023-05-31T14:26:22.600Z,33.7131667,-116.725,18.51,0.88,ml,30,58,0.009248,0.2,ci,ci40238847,2023-05-31T14:29:51.918Z,"3km S of Idyllwild, CA",earthquake,0.33,0.41,0.146,24,automatic,ci,ci
 2023-05-31T14:22:09.380Z,18.2126,-68.6281,115,3.93,md,21,181,0.3894,0.53,pr,pr2023151001,2023-05-31T15:15:17.856Z,"18 km S of Boca de Yuma, Dominican Republic",earthquake,2.57,1.83,0.12,15,reviewed,pr,pr
-2023-05-31T14:19:34.290Z,38.8066673,-122.8263321,2.11,0.51,md,9,69,0.003126,0.02,nc,nc73892040,2023-05-31T15:10:16.530Z,"7km WNW of The Geysers, CA",earthquake,0.38,1.22,0.28,9,automatic,nc,nc
-2023-05-31T14:17:25.020Z,38.8100014,-122.7939987,2.92,0.74,md,9,108,0.002272,0.02,nc,nc73892035,2023-05-31T14:48:15.411Z,"5km NW of The Geysers, CA",earthquake,0.49,0.89,0.18,12,automatic,nc,nc
-2023-05-31T14:10:41.715Z,32.74749756,-100.6701362,8.534708659,3.1,ml,24,49,0.09464343166,0.2,tx,tx2023kpdn,2023-05-31T15:03:38.040Z,"15 km NE of Hermleigh, Texas",earthquake,1.277338177,1.227063171,0.1,12,reviewed,tx,tx
-2023-05-31T14:10:36.246Z,63.3566,-149.6357,15.3,1.4,ml,,,,1.2,ak,ak0236xyjozs,2023-05-31T14:12:33.433Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
