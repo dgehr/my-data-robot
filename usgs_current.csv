@@ -300,5 +300,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-02T03:52:54.470Z,44.4693333,-110.9705,7.59,1.45,ml,20,69,0.0981,0.21,uu,uu60541426,2023-06-02T14:57:07.600Z,"23 km SSE of West Yellowstone, Montana",earthquake,0.66,1.01,0.298,3,reviewed,uu,uu
 2023-06-02T03:52:13.130Z,44.4721667,-110.9608333,5.44,1.47,ml,17,114,0.0919,0.21,uu,uu60541421,2023-06-02T14:59:44.130Z,"23 km SSE of West Yellowstone, Montana",earthquake,0.63,2.18,0.219,4,reviewed,uu,uu
 2023-06-02T03:51:45.450Z,60.988,-152.394666666667,11.33,0.13,ml,11,158,,0.14,av,av91907536,2023-06-02T22:50:55.900Z,"Southern Alaska",earthquake,0.64,2.02,0.281559663711858,11,reviewed,av,av
-2023-06-02T03:42:57.334Z,39.6072,-119.9728,5.4,1.1,ml,6,189.67,0.009,0.0992,nn,nn00860723,2023-06-03T02:05:09.245Z,"8 km S of Cold Springs, Nevada",earthquake,,1.4,0.18,3,reviewed,nn,nn
-2023-06-02T03:39:22.670Z,58.1981666666667,-155.282,2.19,-0.18,ml,7,136,,0.04,av,av91907531,2023-06-02T22:53:38.780Z,"85 km NW of Karluk, Alaska",earthquake,0.26,0.46,0.302347071968826,7,reviewed,av,av
