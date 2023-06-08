@@ -281,6 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T07:18:24.380Z,33.4633333,-116.5628333,8.88,0.43,ml,15,108,0.0454,0.09,ci,ci40479784,2023-06-07T21:59:21.983Z,"14km SE of Anza, CA",earthquake,0.25,0.38,0.174,10,reviewed,ci,ci
 2023-06-07T07:14:50.920Z,45.3555,-121.709,4.67,0.92,ml,7,187,0.003926,0.09,uw,uw61931146,2023-06-08T05:17:34.730Z,"6 km NNE of Government Camp, Oregon",earthquake,0.88,0.86,0.2514518723281075,3,reviewed,uw,uw
 2023-06-07T07:11:17.070Z,58.1721666666667,-155.3255,1.85,-0.2,ml,7,113,,0.07,av,av91915381,2023-06-07T20:04:58.450Z,"84 km NW of Karluk, Alaska",earthquake,0.23,0.47,0.222355803254143,7,reviewed,av,av
-2023-06-07T07:03:21.362Z,36.7794,-115.9968,6.5,-0.2,ml,7,234.52,0.04,0.0633,nn,nn00860979,2023-06-07T17:51:43.863Z,"37 km NW of Indian Springs, Nevada",earthquake,,2,0.51,3,reviewed,nn,nn
-2023-06-07T07:02:25.760Z,37.7125,-122.5576667,8.16,2.16,md,74,107,0.06717,0.06,nc,nc73898076,2023-06-08T00:28:14.465Z,"5km WSW of San Francisco Zoo, CA",earthquake,0.16,0.34,0.153,52,reviewed,nc,nc
-2023-06-07T06:56:11.010Z,55.0563333333333,-162.251666666667,2.55,0.76,ml,5,140,,0.1,av,av91915371,2023-06-07T20:01:51.380Z,"Alaska Peninsula",earthquake,0.35,0.84,0.243387577828778,5,reviewed,av,av
