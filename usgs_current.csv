@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-09T01:43:26.020Z,38.0483333,-118.7473333,19.5,2.03,md,23,147,0.2912,0.1,nc,nc73898916,2023-06-09T06:42:16.313Z,"29km SE of Bodie, CA",earthquake,0.37,0.89,0.433,25,reviewed,nc,nc
 2023-06-09T01:23:03.660Z,17.9365,-66.9261666666667,10.32,2.42,md,5,225,0.05886,0.13,pr,pr71412703,2023-06-09T01:34:04.080Z,"4 km SSW of Guánica, Puerto Rico",earthquake,0.67,0.67,0.304314547826235,2,reviewed,pr,pr
 2023-06-09T01:21:53.355Z,33.8176,71.1228,58.111,4.4,mb,27,195,1.796,0.82,us,us7000k79v,2023-06-09T01:46:25.040Z,"31 km S of Landi Kotal, Pakistan",earthquake,8.68,6.742,0.115,22,reviewed,us,us
-2023-06-09T01:20:35.510Z,37.3453333,-122.1586667,7.32,1.09,md,17,44,0.02704,0.08,nc,nc73898911,2023-06-09T05:57:11.484Z,"4km SSW of Los Altos Hills, CA",earthquake,0.28,0.35,0.126,13,reviewed,nc,nc
+2023-06-09T01:20:35.510Z,37.3453333,-122.1586667,7.32,1.09,md,17,44,0.02704,0.08,nc,nc73898911,2023-06-09T06:52:12.372Z,"4km SSW of Los Altos Hills, CA",earthquake,0.28,0.35,0.126,13,reviewed,nc,nc
 2023-06-09T01:04:53.136Z,55.3222,163.0929,42.771,4.5,mb,46,122,3.482,0.9,us,us7000k79u,2023-06-09T01:25:18.040Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake,12.17,7.571,0.046,140,reviewed,us,us
 2023-06-09T00:55:01.230Z,33.3546667,-116.3683333,10.21,1.16,ml,41,33,0.09544,0.22,ci,ci40481168,2023-06-09T00:58:37.569Z,"11km N of Borrego Springs, CA",earthquake,0.28,0.64,0.189,28,automatic,ci,ci
 2023-06-09T00:46:36.250Z,38.7910004,-122.7476654,1.89,0.44,md,8,109,0.01154,0.02,nc,nc73898906,2023-06-09T01:04:13.395Z,"2km NNE of The Geysers, CA",earthquake,0.36,0.87,0.24,7,automatic,nc,nc
@@ -125,7 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-08T16:21:38.680Z,32.9871667,-115.6961667,7.82,1.24,ml,9,143,0.1087,0.13,ci,ci40480712,2023-06-08T16:25:11.359Z,"9km SW of Westmorland, CA",earthquake,0.49,0.93,0.341,17,automatic,ci,ci
 2023-06-08T16:02:33.181Z,60.2378,-153.2144,144.4,1.8,ml,,,,0.88,ak,ak0237b7zm6u,2023-06-08T16:05:43.427Z,"Southern Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-06-08T15:55:21.358Z,61.7099,-149.8793,34,1.4,ml,,,,0.35,ak,ak0237b7pimf,2023-06-08T15:56:32.997Z,"9 km ESE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-08T15:50:14.780Z,38.8286667,-122.7923333,1.43,1.19,md,41,33,0.009851,0.04,nc,nc73898706,2023-06-09T06:44:09.810Z,"6km W of Cobb, CA",earthquake,0.11,0.22,0.212,32,reviewed,nc,nc
+2023-06-08T15:50:14.780Z,38.8286667,-122.7923333,1.43,1.19,md,41,33,0.009851,0.04,nc,nc73898706,2023-06-09T06:52:11.373Z,"6km W of Cobb, CA",earthquake,0.11,0.22,0.212,32,reviewed,nc,nc
 2023-06-08T15:46:49.180Z,38.8296667,-122.7933333,1.56,0.35,md,20,58,0.009036,0.03,nc,nc73898701,2023-06-09T06:34:28.249Z,"6km W of Cobb, CA",earthquake,0.21,0.31,0.154,18,reviewed,nc,nc
 2023-06-08T15:43:37.417Z,39.622,-119.9728,6.7,1.4,ml,13,80.48,0.017,0.1484,nn,nn00861020,2023-06-08T16:14:57.000Z,"6 km S of Cold Springs, Nevada",earthquake,,1.1,0.18,7,reviewed,nn,nn
 2023-06-08T15:37:22.300Z,38.8289986,-122.7921677,1.51,1.69,md,33,58,0.009504,0.04,nc,nc73898696,2023-06-08T18:59:20.299Z,"6km W of Cobb, CA",earthquake,0.17,0.28,0.19,34,automatic,nc,nc
@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-08T06:54:38.291Z,-40.4787,177.1605,10,4.4,mb,14,128,0.725,1.85,us,us7000k72d,2023-06-08T09:33:16.082Z,"off the east coast of the North Island of New Zealand",earthquake,5.03,1.879,0.219,6,reviewed,us,us
 2023-06-08T06:54:18.870Z,38.8388329,-122.8103333,1.86,1.09,md,22,64,0.01542,0.03,nc,nc73898576,2023-06-08T07:23:17.901Z,"8km WNW of Cobb, CA",earthquake,0.23,0.46,0.1,23,automatic,nc,nc
 2023-06-08T06:54:00.030Z,38.8393326,-122.8101654,1.75,1.02,md,18,52,0.01551,0.03,nc,nc73898571,2023-06-08T07:11:17.824Z,"8km WNW of Cobb, CA",earthquake,0.22,0.53,0.13,19,automatic,nc,nc
-2023-06-08T06:52:06.290Z,35.94833333,-97.80083333,7.5,1.08,ml,38,52,0.1520701586,0.35,ok,ok2023ldfc,2023-06-08T13:34:32.867Z,"10 km ESE of Dover, Oklahoma",earthquake,,1,0.19,19,reviewed,ok,ok
