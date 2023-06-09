@@ -7,6 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-09T17:17:29.278Z,-1.2277,98.2117,6.959,4.6,mb,78,108,2.594,0.44,us,us7000k7gk,2023-06-09T18:07:13.040Z,"177 km WNW of Tuapejat, Indonesia",earthquake,4.4,4.833,0.074,61,reviewed,us,us
 2023-06-09T17:13:13.580Z,36.0668333,-117.6545,-0.32,1.05,ml,10,134,0.1259,0.1,ci,ci40481704,2023-06-09T17:16:48.925Z,"26km E of Coso Junction, CA",earthquake,0.26,31.61,0.253,7,automatic,ci,ci
 2023-06-09T17:10:01.793Z,63.268,-150.4996,125.7,1.8,ml,,,,0.2,ak,ak0237cw61lf,2023-06-09T17:12:23.419Z,"68 km ESE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-06-09T17:09:24.650Z,37.9066667,-112.9445,21.55,1.43,ml,9,189,0.2027,0.19,uu,uu60541906,2023-06-09T18:39:24.890Z,"11 km N of Summit, Utah",earthquake,1.6,0.87,0.061,4,reviewed,uu,uu
 2023-06-09T16:55:28.130Z,33.924,-116.9541667,16.2,1.21,ml,19,60,0.02212,0.3,ci,ci40481664,2023-06-09T17:07:54.615Z,"2km ESE of Beaumont, CA",earthquake,0.68,1.6,0.198,27,automatic,ci,ci
 2023-06-09T16:53:37.790Z,33.1646667,-116.7903333,17.13,1.02,ml,29,44,0.07589,0.19,ci,ci40481648,2023-06-09T16:57:18.099Z,"9km SSW of Lake Henshaw, CA",earthquake,0.28,0.66,0.208,24,automatic,ci,ci
 2023-06-09T16:36:54.872Z,59.7256,-152.9561,103,2.4,ml,,,,0.4,ak,ak0237cvqaow,2023-06-09T16:54:57.040Z,"63 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
