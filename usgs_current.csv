@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-10T09:51:05.191Z,61.2696,-150.6475,49.7,1.4,ml,,,,0.62,ak,ak0237ef6pvb,2023-06-10T09:52:45.985Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-10T09:44:34.300Z,38.7513351,-122.7243347,1.51,0.96,md,7,164,0.01025,0.02,nc,nc73899486,2023-06-10T10:21:14.831Z,"4km SW of Anderson Springs, CA",earthquake,0.39,0.52,0.29,9,automatic,nc,nc
 2023-06-10T09:44:05.200Z,38.7506676,-122.7231674,1.26,1.19,md,11,168,0.01099,0.03,nc,nc73899476,2023-06-10T10:19:10.963Z,"4km SW of Anderson Springs, CA",earthquake,0.31,0.39,0.14,12,automatic,nc,nc
-2023-06-10T09:43:04.110Z,38.7426682,-122.7220001,1.54,2.63,md,61,30,0.01903,0.08,nc,nc73899481,2023-06-10T10:10:16.758Z,"4km SW of Anderson Springs, CA",earthquake,0.15,0.29,0.18,72,automatic,nc,nc
+2023-06-10T09:43:04.110Z,38.7426682,-122.7220001,1.54,2.63,md,61,30,0.01903,0.08,nc,nc73899481,2023-06-10T10:35:11.912Z,"4km SW of Anderson Springs, CA",earthquake,0.15,0.29,0.18,72,automatic,nc,nc
 2023-06-10T09:30:31.110Z,35.6543333,-117.4253333,14.5,0.94,ml,9,159,0.1302,0.15,ci,ci40482416,2023-06-10T09:34:01.655Z,"13km S of Searles Valley, CA",earthquake,0.69,1.38,0.192,6,automatic,ci,ci
 2023-06-10T09:29:18.749Z,61.9047,-148.5777,36.5,1.2,ml,,,,0.71,ak,ak0237ef215u,2023-06-10T09:31:26.992Z,"13 km NNW of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-10T09:12:50.868Z,-15.977,-179.1556,10,5.8,mww,94,49,3.199,0.67,us,us7000k7m3,2023-06-10T09:47:01.079Z,"Fiji region",earthquake,11.05,1.762,0.069,20,reviewed,us,us
@@ -210,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-09T10:47:57.714Z,2.7093,128.2994,96.643,4.7,mb,38,79,2.138,0.77,us,us7000k7bs,2023-06-09T11:07:05.040Z,"113 km NNE of Tobelo, Indonesia",earthquake,9.27,7.491,0.099,31,reviewed,us,us
 2023-06-09T10:45:05.970Z,60.8859,-151.9496,86.1,0.8,ml,,,,0.6,ak,ak0237cs7ius,2023-06-09T10:47:13.932Z,"42 km WNW of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-09T10:44:48.650Z,31.67776641,-104.3943928,6.877099609,2.3,ml,48,69,0.02697752111,0.3,tx,tx2023lfig,2023-06-09T18:18:37.421Z,"55 km S of Whites City, New Mexico",earthquake,0.6865980123,0.7548945765,0,7,reviewed,tx,tx
-2023-06-09T10:37:14.690Z,38.8390007,-122.8238297,1.72,0.36,md,8,93,0.009113,0.01,nc,nc73899051,2023-06-09T13:09:16.646Z,"9km WNW of Cobb, CA",earthquake,0.84,2.15,0.26,9,automatic,nc,nc
-2023-06-09T10:34:05.118Z,-2.8138,129.2056,10,4.9,mb,61,63,1.835,0.28,us,us7000k7bn,2023-06-09T10:53:58.040Z,"59 km NNE of Masohi, Indonesia",earthquake,6.46,1.877,0.071,63,reviewed,us,us
