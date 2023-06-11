@@ -193,5 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-10T19:34:32.160Z,35.5026667,-118.3965,4.84,1.66,ml,32,32,0.1718,0.14,ci,ci40482896,2023-06-10T19:45:31.080Z,"13km SE of Bodfish, CA",earthquake,0.17,1.56,0.21,26,automatic,ci,ci
 2023-06-10T19:30:46.270Z,38.8276672,-122.7890015,1.62,1.04,md,15,56,0.01078,0.01,nc,nc73899631,2023-06-10T20:05:18.362Z,"6km W of Cobb, CA",earthquake,0.27,0.41,0.14,16,automatic,nc,nc
 2023-06-10T19:01:19.381Z,38.9816,-117.5938,1.8,1.6,ml,9,103.56,0.353,0.2901,nn,nn00861087,2023-06-10T20:44:41.630Z,"31 km ENE of Gabbs, Nevada",earthquake,,2.2,0.41,6,reviewed,nn,nn
-2023-06-10T18:40:25.320Z,38.0511665,-118.7738342,10.22,2.28,md,22,104,0.2857,0.05,nc,nc73899616,2023-06-10T20:41:30.337Z,"27km SE of Bodie, CA",earthquake,0.37,2.79,0.18,20,automatic,nc,nc
-2023-06-10T18:35:14.963Z,58.6436,-155.2126,131.6,1,ml,,,,0.32,ak,ak0237ekg7m0,2023-06-10T18:36:55.899Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
