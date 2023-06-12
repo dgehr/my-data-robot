@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-12T15:43:12.581Z,39.613,-119.9829,6.3,1.4,ml,10,123.95,0.017,0.1004,nn,nn00861138,2023-06-12T15:45:46.479Z,"7 km S of Cold Springs, Nevada",earthquake,,0.5,0.14,7,automatic,nn,nn
 2023-06-12T15:35:33.007Z,61.3601,-151.678,90.7,2.8,ml,,,,0.48,ak,ak0237htqn6x,2023-06-12T15:37:13.920Z,"40 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-12T15:13:15.642Z,36.3812294,-97.63763428,3.946743965,1.61,ml,15,67.98384094,0.1385554969,0.3414923274,ok,ok2023lldl,2023-06-12T15:16:13.004Z,"6 km ENE of Fairmont, Oklahoma",earthquake,2.925970392,2.597813897,0.23,5,automatic,ok,ok
 2023-06-12T15:12:58.600Z,19.3368339538574,-155.172836303711,1.3400000333786,2.26,ml,40,161,,0.239999995,hv,hv73449372,2023-06-12T15:18:28.430Z,"13 km SSE of Volcano, Hawaii",earthquake,0.37,0.5,0.24,11,automatic,hv,hv
@@ -100,9 +101,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T00:26:05.740Z,38.7483333,-122.698,0.87,1,md,28,88,0.005814,0.06,nc,nc73900191,2023-06-12T04:27:14.223Z,"3km S of Anderson Springs, CA",earthquake,0.25,0.25,0.163,21,reviewed,nc,nc
 2023-06-11T23:47:33.650Z,44.6441666666667,-114.3775,9.91,2.37,ml,19,95,0.3563,0.2,mb,mb90017668,2023-06-12T14:45:32.400Z,"19 km NW of Challis, Idaho",earthquake,0.47,0.85,0.278520659565732,33,reviewed,mb,mb
 2023-06-11T23:30:13.350Z,58.2028333333333,-155.343666666667,4.8,1.01,ml,7,262,,0.26,av,av91922491,2023-06-12T00:48:10.100Z,"88 km NW of Karluk, Alaska",earthquake,1.13,0.94,0.19503173647027,7,reviewed,av,av
+2023-06-11T23:27:05.220Z,35.0463333,-117.6746667,-0.82,1.84,ml,27,48,0.1131,0.21,ci,ci40483560,2023-06-12T15:49:06.395Z,"6km NNW of Boron, CA",quarry blast,0.36,31.61,0.144,26,reviewed,ci,ci
 2023-06-11T23:13:23.441Z,65.5371,-144.3477,0,1.6,ml,,,,0.92,ak,ak0237gau114,2023-06-11T23:15:34.301Z,"21 km E of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-11T22:40:53.862Z,62.756,-152.2114,0,1.6,ml,,,,0.82,ak,ak0237gaeg3u,2023-06-11T22:42:56.484Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-11T22:39:24.110Z,33.0321667,-116.4173333,9.46,1.14,ml,29,113,0.06045,0.22,ci,ci40483544,2023-06-11T22:49:50.270Z,"18km ESE of Julian, CA",earthquake,0.35,0.78,0.176,25,automatic,ci,ci
+2023-06-11T22:39:24.090Z,33.0321667,-116.419,9.88,1.13,ml,43,88,0.04781,0.18,ci,ci40483544,2023-06-12T15:44:09.370Z,"18km ESE of Julian, CA",earthquake,0.22,0.38,0.138,20,reviewed,ci,ci
 2023-06-11T22:29:49.522Z,58.4863,-154.9231,101.7,1.2,ml,,,,0.59,ak,ak0237gac2w8,2023-06-11T22:32:21.769Z,"103 km ESE of King Salmon, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-11T22:21:43.100Z,17.9076666666667,-66.8311666666667,13.06,2.29,md,7,234,0.08116,0.08,pr,pr71413063,2023-06-11T22:38:57.180Z,"9 km S of Indios, Puerto Rico",earthquake,1.09,0.48,0.0328266966863384,4,reviewed,pr,pr
 2023-06-11T21:44:09.299Z,64.5047,-150.3811,22,2,ml,,,,0.72,ak,ak0237g9trxd,2023-06-11T21:45:57.034Z,"56 km SSE of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -138,4 +140,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-11T16:24:35.727Z,35.42560959,-98.07091522,11.46523666,1.93,ml,11,84.7890625,0.03401511163,1.038942268,ok,ok2023ljkm,2023-06-11T16:26:57.399Z,"12 km WNW of Union City, Oklahoma",earthquake,6.059819388,6.747186924,0.26,9,automatic,ok,ok
 2023-06-11T16:11:18.231Z,61.3435,-146.7883,27.5,1.7,ml,,,,0.65,ak,ak0237g6njyn,2023-06-11T16:12:59.927Z,"33 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-11T16:08:29.665Z,64.9598,-146.0627,10.5,2.4,ml,,,,0.88,ak,ak0237g6mxp2,2023-06-11T16:54:46.040Z,"39 km ENE of Pleasant Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-11T15:49:00.970Z,33.9115,-116.7685,17.7,1.52,ml,52,27,0.01316,0.19,ci,ci40483376,2023-06-11T18:13:29.471Z,"2km ESE of Cabazon, CA",earthquake,0.2,0.49,0.131,26,reviewed,ci,ci
