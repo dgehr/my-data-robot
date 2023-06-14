@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-14T18:06:51.060Z,36.8886681,-121.6123352,1.23,2.32,md,7,68,0.01686,0.03,nc,nc73901146,2023-06-14T18:11:10.754Z,"3km E of Aromas, CA",earthquake,0.32,0.61,0.06,6,automatic,nc,nc
+2023-06-14T18:25:46.790Z,61.3638,-147.8832,18.5,0.9,ml,,,,0.17,ak,ak0237l6jivr,2023-06-14T18:27:51.347Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-14T18:24:16.550Z,38.7801666,-122.7668304,1.3,1,md,9,113,0.00947,0.02,nc,nc73901151,2023-06-14T18:25:53.955Z,"1km WNW of The Geysers, CA",earthquake,0.37,0.8,0.13,10,automatic,nc,nc
+2023-06-14T18:06:51.060Z,36.8886681,-121.6123352,1.23,2.32,md,7,68,0.01686,0.03,nc,nc73901146,2023-06-14T18:26:14.873Z,"3km E of Aromas, CA",earthquake,0.32,0.61,0.06,6,automatic,nc,nc
 2023-06-14T17:57:51.770Z,35.7973333,-117.5925,5.98,1.35,ml,22,70,0.1406,0.19,ci,ci40485808,2023-06-14T18:01:44.236Z,"17km W of Searles Valley, CA",earthquake,0.34,1.57,0.162,13,automatic,ci,ci
 2023-06-14T17:56:30.800Z,32.7125,-115.5393333,9.02,2.09,ml,23,49,0.08657,0.23,ci,ci40485800,2023-06-14T18:11:29.004Z,"2km SSW of Heber, CA",earthquake,0.44,1.26,0.228,27,automatic,ci,ci
 2023-06-14T17:54:57.859Z,58.1301,-155.4178,9.2,1.1,ml,,,,0.33,ak,ak0237l64bw9,2023-06-14T17:56:44.691Z,"84 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -63,6 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T11:09:56.730Z,49.4665,-116.818666666667,9.9,2.46,ml,10,227,1.22,0.06,mb,mb90018248,2023-06-14T14:02:45.080Z,"34 km E of Nelson, Canada",earthquake,0.73,1.09,0.218756590540744,3,reviewed,mb,mb
 2023-06-14T11:05:50.280Z,33.672,-116.7018333,15.84,0.11,ml,12,108,0.02358,0.15,ci,ci37526757,2023-06-14T18:14:12.680Z,"8km SSE of Idyllwild, CA",earthquake,0.56,0.83,0.137,3,reviewed,ci,ci
 2023-06-14T11:05:41.890Z,33.6748333,-116.7041667,15.14,0.3,ml,22,102,0.02601,0.11,ci,ci40485448,2023-06-14T18:10:50.655Z,"7km S of Idyllwild, CA",earthquake,0.23,0.41,0.113,12,reviewed,ci,ci
+2023-06-14T11:05:13.210Z,33.703,-116.7443333,16.25,0.04,ml,8,170,0.02643,0.08,ci,ci37526765,2023-06-14T18:18:19.784Z,"5km SSW of Idyllwild, CA",earthquake,0.38,0.36,0.186,3,reviewed,ci,ci
 2023-06-14T11:01:37.770Z,38.8069992,-122.8215027,2.09,1.1,md,15,66,0.00628,0.02,nc,nc73901026,2023-06-14T14:54:15.646Z,"6km WNW of The Geysers, CA",earthquake,0.27,0.46,0.23,16,automatic,nc,nc
 2023-06-14T10:51:14.883Z,62.6434,-151.3271,89.6,1.3,ml,,,,0.59,ak,ak0237l1xk74,2023-06-14T10:53:39.354Z,"33 km WNW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-06-14T10:48:28.561Z,-7.0874,117.0953,606.527,4.4,mb,36,78,1.856,0.61,us,us7000k8d9,2023-06-14T11:05:16.040Z,"152 km NNW of Pototano, Indonesia",earthquake,11.31,7.321,0.117,21,reviewed,us,us
@@ -107,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T06:21:30.724Z,65.3611,-144.5776,0,1.3,ml,,,,1.1,ak,ak0237kzdfio,2023-06-14T06:23:53.333Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-14T06:17:07.470Z,19.150333404541,-155.489166259766,30.5900001525879,1.98000002,md,35,163,,0.150000006,hv,hv73450602,2023-06-14T06:20:26.910Z,"5 km S of Pāhala, Hawaii",earthquake,0.81,1.10000002,0.980000019,3,automatic,hv,hv
 2023-06-14T06:10:20.630Z,33.4721667,-116.8791667,14.83,0.55,ml,21,61,0.06679,0.17,ci,ci40485352,2023-06-14T06:13:52.138Z,"4km NNW of Aguanga, CA",earthquake,0.32,0.61,0.125,11,automatic,ci,ci
-2023-06-14T06:07:20.120Z,33.146,-115.9795,6.85,1.57,ml,43,46,0.02745,0.23,ci,ci40485344,2023-06-14T06:18:31.870Z,"14km E of Ocotillo Wells, CA",earthquake,0.27,0.92,0.106,27,automatic,ci,ci
+2023-06-14T06:07:20.010Z,33.1465,-115.9788333,7.65,1.64,ml,55,41,0.02693,0.18,ci,ci40485344,2023-06-14T18:27:36.820Z,"14km E of Ocotillo Wells, CA",earthquake,0.15,0.39,0.14,55,reviewed,ci,ci
 2023-06-14T06:07:05.800Z,19.1611671447754,-155.48616027832,32.9799995422363,2,md,39,160,,0.140000001,hv,hv73450592,2023-06-14T06:10:16.970Z,"Island of Hawaii, Hawaii",earthquake,0.71,1.08000004,1.64999998,10,automatic,hv,hv
 2023-06-14T06:06:34.470Z,40.216,-121.1718333,4.86,2.14,md,24,55,0.03758,0.08,nc,nc73900966,2023-06-14T17:37:51.451Z,"0km ESE of Almanor, CA",earthquake,0.29,0.29,0.193,32,reviewed,nc,nc
 2023-06-14T05:52:00.390Z,62.8539,-149.6905,73.6,1.1,ml,,,,0.56,ak,ak0237kyykrr,2023-06-14T05:54:16.252Z,"49 km NNE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
