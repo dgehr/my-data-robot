@@ -25,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T06:10:20.630Z,33.4721667,-116.8791667,14.83,0.55,ml,21,61,0.06679,0.17,ci,ci40485352,2023-06-14T06:13:52.138Z,"4km NNW of Aguanga, CA",earthquake,0.32,0.61,0.125,11,automatic,ci,ci
 2023-06-14T06:07:20.120Z,33.146,-115.9795,6.85,1.57,ml,43,46,0.02745,0.23,ci,ci40485344,2023-06-14T06:18:31.870Z,"14km E of Ocotillo Wells, CA",earthquake,0.27,0.92,0.106,27,automatic,ci,ci
 2023-06-14T06:07:05.800Z,19.1611671447754,-155.48616027832,32.9799995422363,2,md,39,160,,0.140000001,hv,hv73450592,2023-06-14T06:10:16.970Z,"4 km S of Pāhala, Hawaii",earthquake,0.71,1.08000004,1.64999998,10,automatic,hv,hv
-2023-06-14T06:06:34.290Z,40.2423325,-121.1559982,1.8,2.24,md,6,124,0.3203,0.1,nc,nc73900966,2023-06-14T07:58:10.179Z,"3km NNE of Almanor, CA",earthquake,0.68,11.15,0.05,3,automatic,nc,nc
+2023-06-14T06:06:34.470Z,40.216,-121.1718333,4.86,2.14,md,24,55,0.03758,0.08,nc,nc73900966,2023-06-14T09:48:52.627Z,"0km ESE of Almanor, CA",earthquake,0.29,0.29,0.193,32,reviewed,nc,nc
 2023-06-14T05:52:00.390Z,62.8539,-149.6905,73.6,1.1,ml,,,,0.56,ak,ak0237kyykrr,2023-06-14T05:54:16.252Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-14T05:32:06.560Z,35.6696667,-118.171,10.83,0.63,ml,9,123,0.06368,0.13,ci,ci40485328,2023-06-14T05:35:33.850Z,"25km ESE of Kernville, CA",earthquake,0.54,0.6,0.136,6,automatic,ci,ci
 2023-06-14T05:28:52.201Z,58.1739,-155.293,0,1,ml,,,,0.47,ak,ak0237kytjl0,2023-06-14T05:30:32.511Z,"83 km NW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
