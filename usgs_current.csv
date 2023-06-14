@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T18:27:37.600Z,36.5466652,-121.1333313,2.36,1.57,md,9,133,0.04881,0.13,nc,nc73901161,2023-06-14T19:11:19.248Z,"2km NNE of Pinnacles, CA",earthquake,1.17,4.64,0.12,9,automatic,nc,nc
 2023-06-14T18:25:46.790Z,61.3638,-147.8832,18.5,0.9,ml,,,,0.17,ak,ak0237l6jivr,2023-06-14T18:27:51.347Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-14T18:24:16.550Z,38.7801666,-122.7668304,1.3,1,md,9,113,0.00947,0.02,nc,nc73901151,2023-06-14T18:51:16.099Z,"1km WNW of The Geysers, CA",earthquake,0.37,0.8,0.13,10,automatic,nc,nc
-2023-06-14T18:06:51.060Z,36.8886681,-121.6123352,1.23,2.32,md,7,68,0.01686,0.03,nc,nc73901146,2023-06-14T18:26:14.873Z,"3km E of Aromas, CA",earthquake,0.32,0.61,0.06,6,automatic,nc,nc
+2023-06-14T18:06:51.060Z,36.8886681,-121.6123352,1.23,2.32,md,7,68,0.01686,0.03,nc,nc73901146,2023-06-14T19:19:10.312Z,"3km E of Aromas, CA",earthquake,0.32,0.61,0.06,6,automatic,nc,nc
 2023-06-14T17:57:51.770Z,35.7973333,-117.5925,5.98,1.35,ml,22,70,0.1406,0.19,ci,ci40485808,2023-06-14T18:01:44.236Z,"17km W of Searles Valley, CA",earthquake,0.34,1.57,0.162,13,automatic,ci,ci
 2023-06-14T17:56:30.800Z,32.7125,-115.5393333,9.02,2.09,ml,23,49,0.08657,0.23,ci,ci40485800,2023-06-14T18:11:29.004Z,"2km SSW of Heber, CA",earthquake,0.44,1.26,0.228,27,automatic,ci,ci
 2023-06-14T17:54:57.859Z,58.1301,-155.4178,9.2,1.1,ml,,,,0.33,ak,ak0237l64bw9,2023-06-14T17:56:44.691Z,"84 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -235,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T19:51:52.211Z,-22.2997,-68.8288,132.481,4.2,mb,19,68,0.631,0.77,us,us7000k89a,2023-06-13T21:03:07.040Z,"19 km NNE of Calama, Chile",earthquake,5.86,6.179,0.263,5,reviewed,us,us
 2023-06-13T19:34:26.110Z,58.2211666666667,-155.147333333333,7.32,-0.11,ml,8,119,,0.25,av,av91925026,2023-06-13T20:17:26.470Z,"83 km NNW of Karluk, Alaska",earthquake,0.72,1.24,0.297569521243918,8,reviewed,av,av
 2023-06-13T19:27:37.800Z,38.7903328,-122.746666,0.98,0.74,md,8,88,0.01448,0.09,nc,nc73900761,2023-06-13T21:51:16.686Z,"2km NNE of The Geysers, CA",earthquake,0.39,1.21,0.05,7,automatic,nc,nc
-2023-06-13T19:22:06.152Z,-29.3364,-176.9515,35,4.9,mb,99,98,0.849,0.62,us,us7000k88g,2023-06-14T16:33:10.040Z,"Kermadec Islands region",earthquake,9.39,1.798,0.057,96,reviewed,us,us
