@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-14T21:40:14.404Z,12.0545,-86.7724,91.148,4.8,mb,64,136,0.521,0.85,us,us7000k8iy,2023-06-14T22:21:40.446Z,"30 km WNW of Villa El Carmen, Nicaragua",earthquake,5.84,5.204,0.03,348,reviewed,us,us
-2023-06-14T21:16:08.480Z,33.5013333,-116.7671667,12.35,0.48,ml,17,69,0.02983,0.29,ci,ci40485976,2023-06-14T21:19:40.814Z,"10km SW of Anza, CA",earthquake,0.71,1.06,0.226,11,automatic,ci,ci
+2023-06-14T21:16:08.690Z,33.5135,-116.7598333,10.97,0.24,ml,16,93,0.04183,0.08,ci,ci40485976,2023-06-14T22:28:06.973Z,"9km WSW of Anza, CA",earthquake,0.23,0.44,0.146,7,reviewed,ci,ci
 2023-06-14T21:04:32.060Z,33.7043333,-117.3371667,-0.53,1.61,ml,36,58,0.03079,0.23,ci,ci40485960,2023-06-14T22:24:13.446Z,"4km NNW of Lake Elsinore, CA",quarry blast,0.3,31.61,0.145,24,reviewed,ci,ci
 2023-06-14T20:29:41.240Z,37.1321678,-121.1756668,1.74,1.78,md,8,112,0.1298,0.1,nc,nc73901171,2023-06-14T21:13:15.067Z,"21km SW of Gustine, CA",earthquake,0.44,11.6,0.13,7,automatic,nc,nc
-2023-06-14T20:21:09.875Z,57.1397,-155.9035,29.7,1.9,ml,,,,0.64,ak,ak0237l7pgft,2023-06-14T20:23:45.907Z,"99 km ESE of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-14T20:21:09.875Z,57.1397,-155.9035,29.7,1.9,ml,,,,0.64,ak,ak0237l7pgft,2023-06-14T20:23:45.907Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2023-06-14T20:18:13.647Z,59.7744,-152.7026,92.4,1.6,ml,,,,0.15,ak,ak0237l7oudp,2023-06-14T20:54:04.186Z,"Southern Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-06-14T20:11:44.257Z,61.7479,-150.0694,19.2,1.5,ml,,,,0.75,ak,ak0237l7ndvd,2023-06-14T20:13:46.721Z,"1 km W of Willow, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-14T19:38:16.030Z,45.8061666666667,-113.7535,5.01,1.03,ml,9,189,0.5615,0.18,mb,mb90018308,2023-06-14T22:13:23.050Z,"Idaho-Montana border region",earthquake,1.42,12.76,0.0548938987876355,6,reviewed,mb,mb
@@ -46,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T15:27:38.102Z,58.2033,-155.26,0,0.8,ml,,,,1.05,ak,ak0237l4rmnt,2023-06-14T15:29:46.372Z,"85 km NW of Karluk, Alaska",earthquake,,20.3,,,automatic,ak,ak
 2023-06-14T15:20:56.098Z,62.7942,-149.3018,66.7,1.2,ml,,,,0.5,ak,ak0237l4q67d,2023-06-14T15:23:06.131Z,"56 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-14T15:19:55.300Z,19.4111671447754,-155.331832885742,3.35999989509583,1.89,ml,38,77,,0.159999996,hv,hv73450922,2023-06-14T15:25:25.940Z,"10 km WSW of Volcano, Hawaii",earthquake,0.32,0.930000007,0.53,10,automatic,hv,hv
-2023-06-14T15:18:43.010Z,38.8339996,-122.7886658,1.8,1.29,md,25,64,0.004594,0.05,nc,nc73901101,2023-06-14T17:49:14.609Z,"6km WNW of Cobb, CA",earthquake,0.2,0.37,0.17,27,automatic,nc,nc
+2023-06-14T15:18:43.000Z,38.8335,-122.7901667,2.01,1.25,md,45,41,0.004904,0.03,nc,nc73901101,2023-06-14T22:32:58.490Z,"6km WNW of Cobb, CA",earthquake,0.12,0.19,0.136,37,reviewed,nc,nc
 2023-06-14T15:06:05.271Z,64.964,-147.4947,0,0.9,ml,,,,0.65,ak,ak0237l4n281,2023-06-14T15:08:20.516Z,"5 km E of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-14T15:00:53.691Z,61.9724,-149.6038,38.3,1.2,ml,,,,0.42,ak,ak0237l4lvnh,2023-06-14T16:19:43.270Z,"24 km SSE of Susitna North, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2023-06-14T14:56:06.125Z,58.1768,-155.3542,1.3,1.1,ml,,,,0.41,ak,ak0237l4ccis,2023-06-14T14:58:17.857Z,"86 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -85,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T11:58:08.410Z,63.2125,-148.9347,0,1.4,ml,,,,0.9,ak,ak0237l2kd6g,2023-06-14T12:00:27.668Z,"19 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-14T11:34:11.230Z,38.8446655,-122.81633,0.84,0.69,md,13,84,0.01139,0.04,nc,nc73901046,2023-06-14T12:28:13.788Z,"8km WNW of Cobb, CA",earthquake,0.25,0.67,0.33,12,automatic,nc,nc
 2023-06-14T11:22:12.100Z,35.8933333,-120.437,10.16,0.9,md,35,67,0.007389,0.09,nc,nc73901041,2023-06-14T22:08:55.122Z,"1km SW of Parkfield, CA",earthquake,0.3,0.28,0.194,16,reviewed,nc,nc
-2023-06-14T11:19:26.360Z,37.4525,-118.6506667,-0.58,1.3,md,18,153,0.1974,0.07,nc,nc73901036,2023-06-14T22:09:10.418Z,"6km NW of Round Valley, CA",earthquake,0.36,5.77,0.141,16,reviewed,nc,nc
+2023-06-14T11:19:26.360Z,37.4525,-118.6506667,-0.58,1.3,md,18,153,0.1974,0.07,nc,nc73901036,2023-06-14T22:31:14.375Z,"6km NW of Round Valley, CA",earthquake,0.36,5.77,0.141,16,reviewed,nc,nc
 2023-06-14T11:17:26.670Z,19.2775001525879,-155.376831054688,30.4099998474121,2.45,ml,53,133,,0.189999998,hv,hv73450772,2023-06-14T11:22:56.750Z,"13 km NE of Pāhala, Hawaii",earthquake,0.61,0.660000026,2.94,25,automatic,hv,hv
 2023-06-14T11:09:56.730Z,49.4665,-116.818666666667,9.9,2.46,ml,10,227,1.22,0.06,mb,mb90018248,2023-06-14T14:02:45.080Z,"British Columbia, Canada",earthquake,0.73,1.09,0.218756590540744,3,reviewed,mb,mb
 2023-06-14T11:05:50.280Z,33.672,-116.7018333,15.84,0.11,ml,12,108,0.02358,0.15,ci,ci37526757,2023-06-14T18:14:12.680Z,"8km SSE of Idyllwild, CA",earthquake,0.56,0.83,0.137,3,reviewed,ci,ci
