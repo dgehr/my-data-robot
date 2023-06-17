@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-17T03:53:26.500Z,34.0715,-116.8566667,11.77,1.46,ml,44,50,0.05443,0.22,ci,ci40487584,2023-06-17T03:57:07.331Z,"16km N of Banning, CA",earthquake,0.26,0.7,0.156,28,automatic,ci,ci
+2023-06-17T03:53:08.400Z,32.8736667,-117.0985,14.2,1.61,ml,5,229,0.4078,0.26,ci,ci40487576,2023-06-17T03:56:58.263Z,"11km NNE of San Diego, CA",earthquake,2.95,31.61,0.174,7,automatic,ci,ci
+2023-06-17T03:50:44.238Z,60.1536,-153.2043,139.9,1.7,ml,,,,0.51,ak,ak0237pwdezr,2023-06-17T03:52:50.644Z,"61 km E of Port Alsworth, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-06-17T03:19:17.430Z,38.8230019,-122.81633,1.96,1.1,md,22,46,0.004903,0.05,nc,nc73901926,2023-06-17T03:44:14.955Z,"7km NW of The Geysers, CA",earthquake,0.22,0.44,0.15,21,automatic,nc,nc
 2023-06-17T03:07:10.828Z,63.4421,-147.7375,36.5,2.1,ml,,,,0.58,ak,ak0237pw44mi,2023-06-17T03:08:36.285Z,"Central Alaska",earthquake,,3.5,,,automatic,ak,ak
 2023-06-17T02:46:09.905Z,38.0335,72.5444,122.119,4.3,mb,19,136,1.555,0.75,us,us7000k95c,2023-06-17T03:34:55.040Z,"106 km NE of Khorugh, Tajikistan",earthquake,3.97,10.181,0.218,6,reviewed,us,us
@@ -33,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T22:58:12.300Z,58.1706666666667,-155.279333333333,2.98,0,ml,5,239,,0.02,av,av91927816,2023-06-16T23:59:52.830Z,"82 km NW of Karluk, Alaska",earthquake,0.77,1.77,0.296317453752617,5,reviewed,av,av
 2023-06-16T22:46:46.200Z,19.4333324432373,-155.404830932617,5.5,1.75,md,16,61,,0.119999997,hv,hv73453172,2023-06-16T22:49:52.500Z,"Island of Hawaii, Hawaii",earthquake,0.38,1.46000004,0.519999981,9,automatic,hv,hv
 2023-06-16T22:37:38.310Z,34.031,-117.1081667,10.88,1.67,ml,80,30,0.005683,0.16,ci,ci40487472,2023-06-16T23:17:04.390Z,"5km SSE of Mentone, CA",earthquake,0.13,0.23,0.142,27,reviewed,ci,ci
-2023-06-16T22:29:28.990Z,36.5615005,-121.1241684,4.69,1.33,md,7,147,0.05034,0.02,nc,nc73901856,2023-06-17T03:32:15.593Z,"4km NNE of Pinnacles, CA",earthquake,0.52,1.07,0.11,4,automatic,nc,nc
+2023-06-16T22:29:28.990Z,36.5615005,-121.1241684,4.69,1.33,md,7,147,0.05034,0.02,nc,nc73901856,2023-06-17T03:55:09.714Z,"4km NNE of Pinnacles, CA",earthquake,0.52,1.07,0.11,4,automatic,nc,nc
 2023-06-16T22:21:40.311Z,58.2064,-155.2639,2.3,1,ml,,,,0.23,ak,ak0237ojz2xb,2023-06-16T23:56:15.900Z,"85 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-06-16T22:18:59.660Z,36.7556,-116.2355,4.6,0,ml,19,70.7,0.034,0.1068,nn,nn00861313,2023-06-16T22:51:39.805Z,"49 km ESE of Beatty, Nevada",earthquake,,1.1,0.34,5,reviewed,nn,nn
 2023-06-16T22:11:13.570Z,38.8330002,-122.8184967,1.78,0.72,md,7,94,0.01163,0.01,nc,nc73901851,2023-06-16T22:38:11.831Z,"8km NW of The Geysers, CA",earthquake,0.4,1.36,0.2,10,automatic,nc,nc
@@ -100,7 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T16:51:30.497Z,43.0506,-110.8507,4.366,2.6,ml,32,88,0.339,0.73,us,us7000k90s,2023-06-16T17:52:33.580Z,"12 km NE of Star Valley Ranch, Wyoming",earthquake,1.38,3.969,0.045,66,reviewed,us,us
 2023-06-16T16:46:00.960Z,44.7855,-111.0065,8.68,0.37,md,9,247,0.02617,0.13,uu,uu60542331,2023-06-16T18:28:06.980Z,"14 km E of Hebgen Lake Estates, Montana",earthquake,1.54,1.29,0.24,4,reviewed,uu,uu
 2023-06-16T16:39:48.410Z,32.9235,-116.2365,12.13,0.89,ml,24,78,0.06422,0.18,ci,ci40487264,2023-06-16T19:51:04.215Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.26,0.75,0.104,11,reviewed,ci,ci
-2023-06-16T16:38:28.095Z,46.212,-0.7847,5,4.8,mww,65,70,3.897,1.04,us,us7000k90p,2023-06-17T03:34:22.543Z,"4 km SSE of Courçon, France",earthquake,7.13,1.858,0.051,37,reviewed,us,us
+2023-06-16T16:38:28.095Z,46.212,-0.7847,5,4.8,mww,65,70,3.897,1.04,us,us7000k90p,2023-06-17T03:53:30.405Z,"4 km SSE of Courçon, France",earthquake,7.13,1.858,0.051,37,reviewed,us,us
 2023-06-16T16:37:56.320Z,46.3156666666667,-111.609166666667,-2,0.84,ml,8,145,0.3238,0.25,mb,mb90018543,2023-06-16T17:34:56.900Z,"6 km W of Townsend, Montana",quarry blast,2.04,31.61,0.206760337618721,5,reviewed,mb,mb
 2023-06-16T16:37:39.120Z,44.7878333,-111.0056667,9.61,0.83,ml,12,152,0.0285,0.1,uu,uu60542326,2023-06-16T17:03:48.260Z,"14 km E of Hebgen Lake Estates, Montana",earthquake,0.51,0.99,0.206,2,reviewed,uu,uu
 2023-06-16T16:32:20.500Z,38.8289986,-122.8071671,1.48,0.7,md,15,60,0.006039,0.02,nc,nc73901771,2023-06-16T17:03:14.797Z,"7km NW of The Geysers, CA",earthquake,0.24,0.66,0.38,17,automatic,nc,nc
@@ -218,7 +221,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T04:53:52.070Z,38.8110008,-122.8223343,2.23,1.07,md,13,59,0.005755,0.03,nc,nc73901646,2023-06-16T07:49:12.441Z,"7km WNW of The Geysers, CA",earthquake,0.34,0.5,0.21,14,automatic,nc,nc
 2023-06-16T04:52:13.120Z,35.5743333333333,-82.8496666666667,0.16,2.05,md,13,116,0.0996,0.24,se,se60500848,2023-06-16T13:03:35.707Z,"4 km N of West Canton, North Carolina",earthquake,0.72,2.98,0.0750374753586955,11,reviewed,se,se
 2023-06-16T04:50:47.180Z,17.9435,-66.3931666666667,5.42,2.22,md,13,188,0.22,0.09,pr,pr71413593,2023-06-16T05:08:18.160Z,"Puerto Rico region",earthquake,0.34,0.3,0.172759252560735,8,reviewed,pr,pr
-2023-06-16T04:46:11.403Z,24.7503,92.0418,10,5,mb,63,71,6.234,1.01,us,us7000k8uw,2023-06-17T03:48:45.097Z,"23 km SE of Sylhet, Bangladesh",earthquake,8.43,1.87,0.067,70,reviewed,us,us
+2023-06-16T04:46:11.403Z,24.7503,92.0418,10,5,mb,63,71,6.234,1.01,us,us7000k8uw,2023-06-17T03:59:24.527Z,"23 km SE of Sylhet, Bangladesh",earthquake,8.43,1.87,0.067,70,reviewed,us,us
 2023-06-16T04:45:25.200Z,51.863,-177.941166666667,5.59,0.69,ml,4,158,,0.12,av,av91927081,2023-06-16T15:10:39.630Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.5,1.41,0.176653649435387,4,reviewed,av,av
 2023-06-16T04:43:08.560Z,37.6235,-118.8665,4.3,0.74,md,11,116,0.005309,0.05,nc,nc73901641,2023-06-16T18:40:16.408Z,"10km E of Mammoth Lakes, CA",earthquake,0.45,0.67,0.189,11,reviewed,nc,nc
-2023-06-16T03:58:29.230Z,34.03,-116.7453333,15.86,1.4,ml,58,36,0.05211,0.13,ci,ci40486992,2023-06-16T17:58:00.370Z,"13km NNE of Cabazon, CA",earthquake,0.13,0.31,0.198,29,reviewed,ci,ci
