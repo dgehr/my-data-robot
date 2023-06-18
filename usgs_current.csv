@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-18T10:58:58.730Z,38.8383331,-122.8296661,1.93,1.7,md,29,101,0.004553,0.05,nc,nc73902481,2023-06-18T11:01:44.950Z,"9km NW of The Geysers, CA",earthquake,0.19,0.32,0.16,25,automatic,nc,nc
+2023-06-18T11:07:52.650Z,38.8248329,-122.8218307,2.86,0.43,md,9,135,0.009295,0.07,nc,nc73902486,2023-06-18T11:09:25.429Z,"8km NW of The Geysers, CA",earthquake,0.85,1.81,0.21,10,automatic,nc,nc
+2023-06-18T10:58:58.730Z,38.8383331,-122.8296661,1.93,1.7,md,29,101,0.004553,0.05,nc,nc73902481,2023-06-18T11:10:11.841Z,"9km NW of The Geysers, CA",earthquake,0.19,0.32,0.16,25,automatic,nc,nc
 2023-06-18T10:49:29.509Z,35.13118362,-97.52709198,2.905846119,1.92,ml,23,46.7509613,0.05804100633,0.432067691,ok,ok2023lvty,2023-06-18T10:52:35.001Z,"4 km WSW of Goldsby, Oklahoma",earthquake,2.338918433,1.878815986,0.16,15,automatic,ok,ok
 2023-06-18T10:43:51.950Z,33.4768333,-116.466,12.83,0.82,ml,32,92,0.1152,0.15,ci,ci40488112,2023-06-18T10:47:22.777Z,"21km ESE of Anza, CA",earthquake,0.26,0.62,0.165,27,automatic,ci,ci
 2023-06-18T10:35:25.310Z,38.8308334,-122.8183365,1.58,1.04,md,16,51,0.00984,0.02,nc,nc73902471,2023-06-18T10:53:14.743Z,"8km NW of The Geysers, CA",earthquake,0.23,0.6,0.3,14,automatic,nc,nc
@@ -171,5 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-17T11:30:25.586Z,-23.2048,-175.7779,35,5,mb,47,111,6.331,0.83,us,us7000k9bk,2023-06-18T08:20:45.040Z,"223 km SSW of ‘Ohonua, Tonga",earthquake,10.52,1.826,0.078,52,reviewed,us,us
 2023-06-17T11:27:04.270Z,52.0306666666667,-176.213,-1.8,-0.23,ml,4,276,,0.14,av,av91928451,2023-06-18T04:52:27.090Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,2.33,2.1,0.204579404810954,5,reviewed,av,av
 2023-06-17T11:26:21.874Z,-23.4419,-175.4278,35,6,mww,29,129,2.27,0.9,us,us7000k96l,2023-06-17T13:34:23.774Z,"237 km SSW of ‘Ohonua, Tonga",earthquake,8.7,2,0.056,31,reviewed,us,us
-2023-06-17T11:08:24.015Z,59.8381,-153.3532,123.6,2.1,ml,,,,0.26,ak,ak0237q0vsje,2023-06-17T11:25:24.040Z,"42 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-17T11:03:55.430Z,44.857,-111.508,12.7,1.23,ml,23,63,0.06142,0.2,mb,mb90018683,2023-06-17T14:55:20.190Z,"26 km WNW of Hebgen Lake Estates, Montana",earthquake,0.44,0.78,0.207936001606908,16,reviewed,mb,mb
