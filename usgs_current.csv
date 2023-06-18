@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-18T23:55:09.640Z,38.7811661,-122.7655029,1.2,1.16,md,18,79,0.01043,0.05,nc,nc73902691,2023-06-18T23:57:51.630Z,"1km WNW of The Geysers, CA",earthquake,0.26,0.45,0.14,16,automatic,nc,nc
+2023-06-18T23:53:14.890Z,35.6655006,-117.481163,6.65,2.96,ml,47,43,0.04678,0.14,ci,ci40488416,2023-06-18T23:55:30.944Z,"13km SSW of Searles Valley, CA",earthquake,0.18,0.55,0.27,24,automatic,ci,ci
+2023-06-18T23:53:02.040Z,33.0343333,-116.4341667,6.86,1.14,ml,41,49,0.06541,0.23,ci,ci40488408,2023-06-18T23:56:53.454Z,"16km ESE of Julian, CA",earthquake,0.3,0.82,0.206,28,automatic,ci,ci
 2023-06-18T23:37:35.479Z,62.9612,-149.5822,70.6,1.4,ml,,,,0.45,ak,ak0237rvqmln,2023-06-18T23:39:37.510Z,"57 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-18T23:31:30.002Z,59.9227,-148.9084,15.7,1.5,ml,,,,0.49,ak,ak0237rvpbvs,2023-06-18T23:33:51.188Z,"34 km ESE of Lowell Point, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-18T23:25:21.697Z,60.7138,-151.6842,75.3,1.2,ml,,,,0.59,ak,ak0237rvo0y1,2023-06-18T23:27:18.049Z,"21 km W of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -112,6 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T08:40:39.020Z,19.4745006561279,-155.492340087891,-3.01999998092651,1.91,ml,30,43,,0.370000005,hv,hv73454537,2023-06-18T08:46:10.120Z,"Island of Hawaii, Hawaii",earthquake,0.61,0.330000013,0.33,5,automatic,hv,hv
 2023-06-18T08:38:57.080Z,46.071,-122.39733333333334,17.71,0.43,ml,9,103,0.1292,0.09,uw,uw61933971,2023-06-18T16:39:30.660Z,"18 km NNE of Amboy, Washington",earthquake,0.38,0.76,0.07741663766715778,5,reviewed,uw,uw
 2023-06-18T08:37:02.240Z,46.844166666666666,-121.75983333333333,0.49,0.59,ml,13,108,0.02031,0.07,uw,uw61933966,2023-06-18T16:35:59.650Z,"22 km ENE of Ashford, Washington",earthquake,0.29,0.54,0.21285672663645724,8,reviewed,uw,uw
+2023-06-18T08:29:19.870Z,58.2525,-155.124833333333,32.25,0.49,ml,12,92,,0.26,av,av91929411,2023-06-18T23:57:29.190Z,"85 km NNW of Karluk, Alaska",earthquake,0.74,1.24,0.254560586041694,11,reviewed,av,av
 2023-06-18T08:25:49.670Z,34.0446667,-119.1345,0.99,1.6,ml,18,195,0.1374,0.28,ci,ci40488048,2023-06-18T08:43:19.046Z,"13km SSE of Port Hueneme, CA",earthquake,1.24,31.61,0.278,22,automatic,ci,ci
 2023-06-18T08:22:48.690Z,46.763666666666666,-121.8865,10.05,1.28,ml,10,119,0.0164,0.11,uw,uw61933956,2023-06-18T16:32:53.670Z,"11 km E of Ashford, Washington",earthquake,0.52,0.55,0.2948421922283816,5,reviewed,uw,uw
 2023-06-18T08:22:13.180Z,36.0378342,-120.6060028,2.29,1.04,md,10,102,0.03192,0.09,nc,nc73902431,2023-06-18T10:30:13.611Z,"22km NW of Parkfield, CA",earthquake,0.58,1.38,0.14,4,automatic,nc,nc
@@ -168,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T00:15:45.740Z,19.2399997711182,-155.397338867188,31.0799999237061,1.99,ml,26,155,,0.170000002,hv,hv73454222,2023-06-18T00:21:23.130Z,"Hawaii region, Hawaii",earthquake,0.7,1.01999998,0.23,4,automatic,hv,hv
 2023-06-18T00:07:41.720Z,58.26,-155.0845,3.94,0.31,ml,9,102,,0.17,av,av91929011,2023-06-18T12:27:56.100Z,"Alaska Peninsula",earthquake,0.35,0.68,0.178501635888482,9,reviewed,av,av
 2023-06-18T00:04:43.902Z,60.7009,-141.7222,19.7,1.1,ml,,,,0.89,ak,ak0237rhulpi,2023-06-18T00:06:47.474Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-17T23:54:40.450Z,47.775333333333336,-122.35666666666667,25.96,1.34,ml,15,115,0.09667,0.27,uw,uw61933881,2023-06-18T00:22:51.400Z,"1 km S of Esperance, Washington",earthquake,0.75,1,0.12702172309741688,6,reviewed,uw,uw
