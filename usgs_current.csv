@@ -52,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T14:41:11.740Z,18.0595,-66.8501666666667,12.63,1.93,md,4,188,0.08843,0.21,pr,pr71414003,2023-06-19T14:59:01.820Z,"2 km N of Yauco, Puerto Rico",earthquake,5.38,5.6,0.220809257001785,3,reviewed,pr,pr
 2023-06-19T14:19:55.730Z,46.227,-119.60616666666667,6.85,0.92,ml,10,203,0.05784,0.05,uw,uw61934446,2023-06-19T16:07:08.270Z,"9 km WSW of Benton City, Washington",earthquake,0.49,0.19,0.049483983427828004,7,reviewed,uw,uw
 2023-06-19T14:19:28.750Z,17.9551666666667,-66.8398333333333,11.15,2.35,md,7,207,0.04242,0.13,pr,pr71414013,2023-06-19T15:03:29.660Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.52,0.7,0.029567709068135,4,reviewed,pr,pr
-2023-06-19T14:18:56.000Z,37.3017,-104.4473,4.887,4.3,mb,56,39,0.165,0.85,us,us7000k9kq,2023-06-19T20:17:44.788Z,"Colorado",earthquake,2.39,3.734,0.113,22,reviewed,us,us
+2023-06-19T14:18:56.000Z,37.3017,-104.4473,4.887,4.3,mb,56,39,0.165,0.85,us,us7000k9kq,2023-06-19T20:57:42.321Z,"Colorado",earthquake,2.39,3.734,0.113,22,reviewed,us,us
 2023-06-19T14:18:09.394Z,46.2139,153.1857,10,4.8,mb,50,93,7.223,0.94,us,us7000k9ks,2023-06-19T14:47:33.040Z,"Kuril Islands",earthquake,9.62,1.892,0.053,109,reviewed,us,us
 2023-06-19T14:16:33.340Z,34.0533333,-116.8288333,22.82,0.99,ml,24,77,0.09749,0.28,ci,ci40488856,2023-06-19T14:20:09.680Z,"15km NNE of Banning, CA",earthquake,0.55,1.24,0.227,25,automatic,ci,ci
 2023-06-19T14:15:39.870Z,37.935,-118.6025,5.45,1.46,md,14,135,0.2715,0.12,nc,nc73902921,2023-06-19T17:12:12.387Z,"42km S of Qualeys Camp, NV",earthquake,0.53,9.81,0.15,12,reviewed,nc,nc
@@ -174,7 +174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T01:40:23.195Z,15.2785,96.3165,4.52,5.6,mww,117,38,2.851,0.62,us,us7000k9he,2023-06-19T17:12:23.872Z,"130 km SSE of Pyapon, Myanmar",earthquake,7.26,3.561,0.078,16,reviewed,us,us
 2023-06-19T01:36:51.413Z,66.6266,-146.2812,14.3,2.4,ml,,,,0.62,ak,ak0237t669at,2023-06-19T04:34:59.040Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-19T01:22:00.960Z,33.3231667,-116.3443333,14.33,0.79,ml,17,131,0.08201,0.23,ci,ci40488456,2023-06-19T01:25:35.442Z,"8km NNE of Borrego Springs, CA",earthquake,0.66,1.23,0.112,15,automatic,ci,ci
-2023-06-19T01:19:31.150Z,37.4855,-118.7436667,7.52,2.2,md,26,167,0.08423,0.04,nc,nc73902721,2023-06-19T19:25:13.227Z,"10km SSW of Toms Place, CA",earthquake,0.31,0.58,0.199,31,reviewed,nc,nc
+2023-06-19T01:19:31.150Z,37.4855,-118.7436667,7.52,2.2,md,26,167,0.08423,0.04,nc,nc73902721,2023-06-19T20:59:10.790Z,"10km SSW of Toms Place, CA",earthquake,0.31,0.58,0.199,31,reviewed,nc,nc
 2023-06-19T01:16:47.603Z,60.7038,-152.4663,104.5,1.9,ml,,,,0.14,ak,ak0237t61yoo,2023-06-19T01:27:25.040Z,"63 km W of Salamatof, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2023-06-19T01:08:53.142Z,56.6305,-156.2792,2.9,2.8,ml,,,,0.59,ak,ak0237t609du,2023-06-19T01:16:18.040Z,"119 km SE of Ugashik, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-06-19T01:03:56.680Z,38.771,-122.7115,1.88,0.4,md,16,75,0.008504,0.03,nc,nc73902716,2023-06-19T20:50:39.925Z,"2km WSW of Anderson Springs, CA",earthquake,0.28,0.45,0.28,10,reviewed,nc,nc
@@ -211,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T21:39:32.690Z,38.8188324,-122.8166656,2.84,0.76,md,15,69,0.006875,0.06,nc,nc73902636,2023-06-18T23:22:16.004Z,"7km NW of The Geysers, CA",earthquake,0.31,0.93,0.22,14,automatic,nc,nc
 2023-06-18T21:35:21.080Z,36.5675011,-121.0749969,8.68,2,md,17,126,0.03056,0.14,nc,nc73902631,2023-06-18T22:57:14.846Z,"7km ENE of Pinnacles, CA",earthquake,0.6,1.15,0.15,13,automatic,nc,nc
 2023-06-18T21:08:14.260Z,49.41116666666667,-120.50583333333333,-0.37,2.08,ml,6,189,0.5824,0.22,uw,uw61934236,2023-06-18T21:50:26.800Z,"5 km S of Princeton, Canada",explosion,0.87,31.61,0.08209670551813752,5,reviewed,uw,uw
-2023-06-18T20:57:39.313Z,35.46443176,-98.03117371,1.107857466,2.59,ml,33,63.6595459,0.04007096589,1.012313801,ok,ok2023lwoa,2023-06-18T23:23:47.289Z,"10 km SW of El Reno, Oklahoma",earthquake,2.135242983,1.766395203,0.17,9,automatic,ok,ok
-2023-06-18T20:53:17.874Z,58.1908,-155.3533,1.2,0.9,ml,,,,0.24,ak,ak0237ru1pvv,2023-06-18T20:54:54.200Z,"87 km NW of Karluk, Alaska",earthquake,,2.9,,,automatic,ak,ak
