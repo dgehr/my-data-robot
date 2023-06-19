@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-19T21:24:11.346Z,64.8335,-149.0772,13.8,1.6,ml,,,,0.62,ak,ak0237ti09pq,2023-06-19T21:26:12.952Z,"25 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-19T21:22:14.720Z,32.7076667,-116.6436667,17.06,1,ml,25,52,0.03654,0.21,ci,ci40489288,2023-06-19T21:25:50.685Z,"16km N of Tecate, B.C., MX",earthquake,0.37,0.64,0.133,12,automatic,ci,ci
 2023-06-19T21:15:02.458Z,58.177,-155.2739,1.1,0.8,ml,,,,0.27,ak,ak0237thybl1,2023-06-19T21:16:24.158Z,"83 km NW of Karluk, Alaska",earthquake,,3.6,,,automatic,ak,ak
 2023-06-19T21:11:17.180Z,33.2896667,-116.732,13.57,0.85,ml,28,55,0.05805,0.23,ci,ci40489272,2023-06-19T21:14:53.281Z,"6km NNE of Lake Henshaw, CA",earthquake,0.5,0.74,0.158,20,automatic,ci,ci
 2023-06-19T21:10:10.600Z,19.1668338775635,-155.480667114258,30.3099994659424,2.08,ml,41,155,,0.140000001,hv,hv73455707,2023-06-19T21:15:41.320Z,"4 km S of Pāhala, Hawaii",earthquake,0.56,0.879999995,4.57,6,automatic,hv,hv
