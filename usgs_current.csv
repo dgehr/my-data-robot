@@ -179,4 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T14:00:32.695Z,57.9225,-155.8802,11.6,1.8,ml,,,,0.74,ak,ak0237rq5sg5,2023-06-18T14:01:52.489Z,"93 km WNW of Karluk, Alaska",earthquake,,6.1,,,automatic,ak,ak
 2023-06-18T13:54:29.600Z,33.4785,-116.5096667,14.09,0.13,ml,14,158,0.079,0.12,ci,ci40488200,2023-06-18T20:04:08.854Z,"17km ESE of Anza, CA",earthquake,0.36,0.67,0.147,7,reviewed,ci,ci
 2023-06-18T13:52:44.165Z,60.0534,-152.893,103.8,1.5,ml,,,,0.22,ak,ak0237rpvhdf,2023-06-18T15:34:30.062Z,"65 km W of Happy Valley, Alaska",earthquake,,0.9,,,reviewed,ak,ak
-2023-06-18T13:45:06.360Z,19.371,-65.6555,54.12,3.37,md,14,274,1.115,0.42,pr,pr71413888,2023-06-18T14:11:06.820Z,"106 km NNE of Suárez, Puerto Rico",earthquake,3.43,11.37,0.135325271444437,11,reviewed,pr,pr
