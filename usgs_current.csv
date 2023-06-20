@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-20T04:37:20.227Z,37.3356,-117.2551,1.7,0.3,ml,8,190.41,0.397,0.1841,nn,nn00861451,2023-06-20T04:39:44.832Z,"41 km S of Goldfield, Nevada",earthquake,,27.6,0.98,6,automatic,nn,nn
 2023-06-20T04:21:55.067Z,65.8094,-147.9419,10.6,2.2,ml,,,,0.64,ak,ak0237uvep5e,2023-06-20T04:24:22.616Z,"42 km NE of Livengood, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-06-20T04:13:08.950Z,36.0175018,-120.8691635,10.42,1.45,md,31,81,0.01788,0.09,nc,nc73903136,2023-06-20T04:27:11.555Z,"3km E of San Ardo, CA",earthquake,0.31,0.48,0.33,11,automatic,nc,nc
 2023-06-20T03:57:07.479Z,59.6139,-152.8634,86.4,1.9,ml,,,,0.31,ak,ak0237uv0vnf,2023-06-20T03:58:54.824Z,"60 km WNW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-06-20T03:46:47.050Z,46.21,-119.59733333333334,7.95,0.61,ml,11,153,0.06219,0.06,uw,uw61934636,2023-06-20T04:40:24.830Z,"10 km SW of Benton City, Washington",earthquake,0.59,0.39,0.0590577160423873,8,reviewed,uw,uw
 2023-06-20T03:45:34.816Z,-23.9108,-175.0309,10,5.2,mb,25,102,2.733,0.84,us,us7000k9sj,2023-06-20T04:15:33.040Z,"284 km S of ‘Ohonua, Tonga",earthquake,6.06,1.894,0.115,25,reviewed,us,us
 2023-06-20T03:43:00.270Z,17.9806,-68.5235,93,4.09,md,25,201,0.5519,0.32,pr,pr2023171000,2023-06-20T04:31:35.238Z,"Dominican Republic region",earthquake,1.65,1.49,0.09,21,reviewed,pr,pr
 2023-06-20T03:17:35.492Z,63.2143,-148.4749,64,1.7,ml,,,,0.56,ak,ak0237uusd65,2023-06-20T03:19:44.732Z,"30 km SE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -222,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T04:50:45.769Z,42.5016,142.8319,72.057,5,mb,96,100,0.543,0.64,us,us7000k9ic,2023-06-19T15:18:12.991Z,"33 km WSW of Sarabetsu, Japan",earthquake,6.48,5.819,0.039,205,reviewed,us,us
 2023-06-19T04:48:02.440Z,61.31,-152.2725,-2.3,-0.19,ml,5,264,,0.2,av,av91930196,2023-06-19T19:36:30.470Z,"66 km WNW of Beluga, Alaska",earthquake,1.64,4.22,0.345276449702794,5,reviewed,av,av
 2023-06-19T04:46:31.950Z,38.8246667,-122.797,1.02,0.37,md,13,63,0.01029,0.02,nc,nc73902756,2023-06-19T22:03:16.226Z,"6km NNW of The Geysers, CA",earthquake,0.35,0.62,0.188,13,reviewed,nc,nc
-2023-06-19T04:45:16.281Z,12.7188,-88.2273,74.809,4.3,mb,48,166,1.206,0.58,us,us7000k9ib,2023-06-19T13:34:04.370Z,"56 km SSW of Intipucá, El Salvador",earthquake,5.09,8.314,0.046,133,reviewed,us,us
