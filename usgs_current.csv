@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-20T18:15:50.930Z,38.7946663,-122.7363358,2.18,0.79,md,7,105,0.01142,0.01,nc,nc73903271,2023-06-20T18:18:31.815Z,"3km NE of The Geysers, CA",earthquake,0.41,1,0.13,7,automatic,nc,nc
 2023-06-20T18:00:41.810Z,38.7913322,-122.7616653,1.91,1.09,md,18,63,0.009404,0.02,nc,nc73903266,2023-06-20T18:03:26.662Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.45,0.16,17,automatic,nc,nc
 2023-06-20T17:31:45.090Z,34.523,-97.229,0,1.55,ml,77,64,0.1151773983,0.43,ok,ok2023lzyf,2023-06-20T17:43:28.461Z,"10 km WNW of Davis, Oklahoma",quarry blast,,0.4,0.18,25,reviewed,ok,ok
 2023-06-20T17:31:24.800Z,18.2505,-66.2806666666667,19.29,2.36,md,9,120,0.1035,0.22,pr,pr71414163,2023-06-20T17:51:36.840Z,"Puerto Rico region",earthquake,0.79,0.52,0.0887391324769022,5,reviewed,pr,pr
@@ -18,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T16:35:22.050Z,35.3803333,-118.559,3.04,1.4,ml,19,73,0.1437,0.15,ci,ci40489936,2023-06-20T16:38:53.116Z,"24km SSW of Bodfish, CA",earthquake,0.26,0.95,0.184,19,automatic,ci,ci
 2023-06-20T16:20:45.330Z,38.8320007,-122.8186646,2.1,0.75,md,12,98,0.0109,0.01,nc,nc73903231,2023-06-20T17:13:16.209Z,"8km NW of The Geysers, CA",earthquake,0.36,0.97,0.15,14,automatic,nc,nc
 2023-06-20T16:03:48.866Z,60.9662,-147.4262,1.2,1.3,ml,,,,0.45,ak,ak0237v2g11i,2023-06-20T16:06:59.563Z,"42 km WNW of Tatitlek, Alaska",earthquake,,9,,,automatic,ak,ak
-2023-06-20T15:54:44.570Z,60.5438,-152.2925,102.4,2,ml,,,,0.17,ak,ak0237v25imh,2023-06-20T15:56:27.956Z,"53 km W of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-06-20T15:54:44.570Z,60.5438,-152.2925,102.4,2,ml,,,,0.17,ak,ak0237v25imh,2023-06-20T18:14:26.040Z,"53 km W of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-20T15:43:26.340Z,40.7241667,-112.0655,9.36,1.33,md,12,85,0.04036,0.07,uu,uu60542871,2023-06-20T17:10:21.550Z,"3 km ENE of Magna, Utah",earthquake,0.36,0.89,0.229,6,reviewed,uu,uu
 2023-06-20T15:41:44.955Z,-23.8389,-175.5933,14.071,5.2,mww,83,70,2.681,0.86,us,us7000k9wi,2023-06-20T16:33:14.040Z,"284 km SSW of ‘Ohonua, Tonga",earthquake,10.75,3.722,0.089,12,reviewed,us,us
 2023-06-20T15:29:06.270Z,19.13450050354,-155.365173339844,28.9899997711182,1.80999994,md,38,186,,0.140000001,hv,hv73456487,2023-06-20T15:32:14.190Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.74,1.00999999,0.00999999978,5,automatic,hv,hv
@@ -68,6 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T10:16:27.091Z,61.6412,-146.467,39.6,1.3,ml,,,,0.43,ak,ak0237uyy61h,2023-06-20T10:17:46.724Z,"42 km SSE of Nelchina, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-20T10:02:38.484Z,58.2811,-154.9734,2.2,2.2,ml,,,,0.64,ak,ak0237uyv6w8,2023-06-20T15:39:08.040Z,"Alaska Peninsula",earthquake,,0.2,,,automatic,ak,ak
 2023-06-20T09:56:35.613Z,58.2151,-155.228,2.3,1.8,ml,,,,0.34,ak,ak0237uylbqh,2023-06-20T09:58:39.772Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
+2023-06-20T09:49:08.350Z,45.673,-122.72183333333334,20.12,1.55,ml,32,59,0.04604,0.13,uw,uw61934661,2023-06-20T18:09:31.960Z,"3 km SW of Lake Shore, Washington",earthquake,0.3,0.43,0.17482639336775074,20,reviewed,uw,uw
 2023-06-20T09:48:31.899Z,35.4675,-98.03,5.85,1.66,ml,93,49,0.04319152435,0.36,ok,ok2023lziy,2023-06-20T12:40:13.684Z,"9 km SW of El Reno, Oklahoma",earthquake,,0.6,0.25,44,reviewed,ok,ok
 2023-06-20T09:46:17.740Z,38.8170013,-122.7946701,4.37,0.42,md,7,71,0.009034,0.03,nc,nc73903186,2023-06-20T10:04:12.562Z,"6km NW of The Geysers, CA",earthquake,0.81,2.51,0.26,10,automatic,nc,nc
 2023-06-20T09:43:42.670Z,46.20133333333333,-119.58616666666667,7.75,0.64,ml,10,239,0.07079,0.13,uw,uw61934656,2023-06-20T16:55:51.310Z,"10 km SW of Benton City, Washington",earthquake,0.99,0.36,0.07564328986869939,6,reviewed,uw,uw
@@ -187,5 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T18:32:27.080Z,45.4995,-111.650833333333,3.18,1.24,ml,5,219,0.09861,0.06,mb,mb90019008,2023-06-19T20:42:24.360Z,"17 km NNE of Ennis, Montana",earthquake,1.55,1.35,0.386763811846621,2,reviewed,mb,mb
 2023-06-19T18:24:28.210Z,37.0545006,-121.4988327,5.42,1.32,md,13,61,0.05755,0.17,nc,nc73902981,2023-06-19T22:08:14.255Z,"8km NE of Gilroy, CA",earthquake,0.47,3.91,0.13,8,automatic,nc,nc
 2023-06-19T18:23:07.230Z,46.2245,-119.6025,7.17,0.61,ml,7,207,0.05975,0.04,uw,uw61934456,2023-06-19T19:44:41.570Z,"9 km WSW of Benton City, Washington",earthquake,0.67,0.3,0.04292650257919861,5,reviewed,uw,uw
-2023-06-19T18:16:07.400Z,35.1765,-119.0841667,23.51,2,ml,33,50,0.1684,0.26,ci,ci40489048,2023-06-19T18:26:47.450Z,"18km WSW of Lamont, CA",earthquake,0.36,1.16,0.176,28,automatic,ci,ci
-2023-06-19T18:15:04.920Z,38.8355,-122.7943333,2.34,0.35,md,15,54,0.00426,0.02,nc,nc73902976,2023-06-19T23:43:59.421Z,"6km WNW of Cobb, CA",earthquake,0.27,0.45,0.116,13,reviewed,nc,nc
