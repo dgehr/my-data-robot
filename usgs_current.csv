@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-21T06:35:41.180Z,33.4061661,-116.3779984,4.85,1.04,ml,21,158,0.1414,0.14,ci,ci40490640,2023-06-21T06:37:47.357Z,"17km N of Borrego Springs, CA",earthquake,0.46,1.22,0.295,6,automatic,ci,ci
+2023-06-21T06:35:41.340Z,33.4066667,-116.3928333,3.43,0.68,ml,20,63,0.1196,0.25,ci,ci40490640,2023-06-21T06:39:17.326Z,"17km N of Borrego Springs, CA",earthquake,0.43,1.23,0.126,15,automatic,ci,ci
 2023-06-21T06:35:19.360Z,61.2807,-146.8312,25.2,1,ml,,,,0.26,ak,ak0237wk7u4g,2023-06-21T06:36:59.275Z,"30 km WNW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-06-21T06:31:11.480Z,37.277668,-118.4035034,8.4,2,md,13,122,0.107,0.04,nc,nc73903511,2023-06-21T06:34:01.877Z,"2km WNW of Wilkerson, CA",earthquake,0.67,1.07,0.2,9,automatic,nc,nc
+2023-06-21T06:31:11.480Z,37.277668,-118.4035034,8.4,2,md,13,122,0.107,0.04,nc,nc73903511,2023-06-21T06:38:10.123Z,"2km WNW of Wilkerson, CA",earthquake,0.67,1.07,0.2,9,automatic,nc,nc
 2023-06-21T06:25:51.366Z,58.0957,-155.5287,33.1,0.7,ml,,,,0.44,ak,ak0237wk5rf8,2023-06-21T06:29:01.610Z,"86 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-21T06:20:16.010Z,34.003,-117.201,11.76,1.43,ml,69,43,0.06023,0.2,ci,ci40490616,2023-06-21T06:31:20.690Z,"6km SSW of Redlands, CA",earthquake,0.22,0.51,0.187,25,automatic,ci,ci
 2023-06-21T06:13:14.084Z,59.7971,-153.0419,101.8,1.3,ml,,,,0.31,ak,ak0237wk33yo,2023-06-21T06:15:14.696Z,"59 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
