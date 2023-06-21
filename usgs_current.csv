@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-21T14:18:24.662Z,39.6273,-119.9631,6.4,2.8,ml,19,70.23,0.02,0.2718,nn,nn00861503,2023-06-21T14:23:44.842Z,"5 km S of Cold Springs, Nevada",earthquake,,0.4,0.22,9,automatic,nn,nn
+2023-06-21T14:26:08.078Z,62.4344,-150.4968,60.9,3.8,ml,,,,0.72,ak,ak0237woxclz,2023-06-21T14:27:53.498Z,"15 km ESE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-06-21T14:18:24.662Z,39.6273,-119.9631,6.4,2.8,ml,19,70.23,0.02,0.2718,nn,nn00861503,2023-06-21T14:30:07.557Z,"5 km S of Cold Springs, Nevada",earthquake,,0.4,0.22,9,automatic,nn,nn
 2023-06-21T13:59:00.010Z,35.6851667,-117.4836667,7.14,2.42,ml,25,74,0.05276,0.16,ci,ci40490864,2023-06-21T14:09:54.030Z,"12km SW of Searles Valley, CA",earthquake,0.28,0.84,0.098,25,automatic,ci,ci
 2023-06-21T13:29:02.560Z,38.7623329,-122.7396698,1.25,1.25,md,11,116,0.021,0.03,nc,nc73903601,2023-06-21T13:49:12.692Z,"2km SE of The Geysers, CA",earthquake,0.24,0.64,0.16,10,automatic,nc,nc
 2023-06-21T13:10:51.170Z,38.8196678,-122.7438354,9.42,0.8,md,17,228,0.02305,0.16,nc,nc73903591,2023-06-21T13:28:13.573Z,"2km W of Cobb, CA",earthquake,1.79,4.18,0.21,17,automatic,nc,nc
