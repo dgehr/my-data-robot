@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-22T07:50:36.410Z,38.6981659,-122.7498322,7.54,1.19,md,17,191,0.01385,0.04,nc,nc73903856,2023-06-22T07:52:12.041Z,"9km S of The Geysers, CA",earthquake,0.55,0.99,0.21,13,automatic,nc,nc
+2023-06-22T07:46:56.851Z,61.6019,-153.5246,81.4,2.3,ml,,,,1.27,ak,ak0237y8f1zp,2023-06-22T07:50:32.575Z,"Southern Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-06-22T07:32:41.020Z,61.5254,-149.9147,34.3,1.1,ml,,,,0.32,ak,ak0237y8c0qu,2023-06-22T07:34:06.728Z,"2 km ENE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-22T07:28:54.080Z,36.5584984,-121.090332,9.62,1.79,md,9,136,0.04548,0.07,nc,nc73903851,2023-06-22T07:45:11.994Z,"6km ENE of Pinnacles, CA",earthquake,1.09,1.74,0.25,6,automatic,nc,nc
 2023-06-22T07:14:49.817Z,58.2459,-155.1933,1.2,0.6,ml,,,,0.27,ak,ak0237y886j9,2023-06-22T07:15:49.325Z,"87 km NNW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -55,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T23:23:19.850Z,34.106,-117.3161667,15.74,1.38,ml,32,75,0.1082,0.1,ci,ci40491552,2023-06-22T00:39:07.020Z,"3km SW of San Bernardino, CA",earthquake,0.16,0.33,0.175,18,reviewed,ci,ci
 2023-06-21T23:18:16.660Z,38.8301659,-122.8136673,2.21,1.12,md,20,79,0.00732,0.02,nc,nc73903766,2023-06-22T01:55:14.919Z,"8km NW of The Geysers, CA",earthquake,0.22,0.44,0.16,20,automatic,nc,nc
 2023-06-21T23:05:17.276Z,57.8535,-153.797,32.5,1.4,ml,,,,0.33,ak,ak0237wu5roi,2023-06-22T05:03:08.880Z,"Kodiak Island region, Alaska",earthquake,,0.8,,,reviewed,ak,ak
-2023-06-21T23:02:36.890Z,34.0258333,-117.4946667,17.86,1.22,ml,25,68,0.03336,0.12,ci,ci40491528,2023-06-22T06:27:01.857Z,"2km NNW of Glen Avon, CA",earthquake,0.28,0.37,0.164,18,reviewed,ci,ci
+2023-06-21T23:02:36.890Z,34.0258333,-117.4946667,17.86,1.22,ml,25,68,0.03336,0.12,ci,ci40491528,2023-06-22T07:51:55.345Z,"2km NNW of Glen Avon, CA",earthquake,0.28,0.37,0.164,18,reviewed,ci,ci
 2023-06-21T22:54:33.770Z,18.0058333333333,-66.8236666666667,14.07,2.31,md,8,182,0.2101,0.08,pr,pr71414308,2023-06-21T23:01:02.190Z,"1 km NNW of Indios, Puerto Rico",earthquake,0.4,4.6,0.126932789942722,6,reviewed,pr,pr
 2023-06-21T21:54:19.845Z,61.4031,-149.9193,47.3,1.8,ml,,,,0.3,ak,ak0237wt9eu8,2023-06-21T21:56:31.815Z,"5 km NNE of Point MacKenzie, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-21T21:47:39.450Z,34.4593333,-117.9588333,8.97,0.84,ml,15,74,0.01075,0.07,ci,ci40491464,2023-06-21T22:31:02.901Z,"7km SW of Pearblossom, CA",earthquake,0.17,0.27,0.178,12,reviewed,ci,ci
