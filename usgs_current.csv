@@ -127,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T09:12:07.080Z,38.8311653,-122.8154984,2.4,0.76,md,8,96,0.00884,0.01,nc,nc73903866,2023-06-22T09:35:14.617Z,"8km NW of The Geysers, CA",earthquake,0.52,1.37,0.21,8,automatic,nc,nc
 2023-06-22T08:58:31.050Z,47.1555,-121.796,17.98,0.79,ml,22,158,0.1355,0.12,uw,uw61934996,2023-06-22T22:33:42.730Z,"11 km W of Greenwater, Washington",earthquake,0.41,0.79,0.10778608201804296,13,reviewed,uw,uw
 2023-06-22T08:38:31.855Z,58.1725,-155.371,2.2,0.9,ml,,,,0.14,ak,ak0237y8ypxt,2023-06-22T08:40:05.266Z,"86 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-06-22T08:27:02.889Z,36.7628,-116.2541,8.6,-0.1,ml,19,69.33,0.028,0.0768,nn,nn00861544,2023-06-22T16:44:52.428Z,"California-Nevada border region",earthquake,,0.9,0.19,6,reviewed,nn,nn
+2023-06-22T08:27:02.889Z,36.7628,-116.2541,8.6,-0.1,ml,19,69.33,0.028,0.0768,nn,nn00861544,2023-06-22T16:44:52.428Z,"47 km ESE of Beatty, Nevada",earthquake,,0.9,0.19,6,reviewed,nn,nn
 2023-06-22T08:20:47.952Z,62.9244,-151.3366,100.5,1.4,ml,,,,0.43,ak,ak0237y8uwaj,2023-06-22T08:23:12.927Z,"55 km NNW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-06-22T08:17:09.510Z,18.2028333333333,-66.1403333333333,77.3,3.06,md,12,143,0.2382,0.25,pr,pr71414363,2023-06-22T08:43:32.740Z,"2 km SW of Santa Clara, Puerto Rico",earthquake,1.53,1.11,0.0322789026801711,4,reviewed,pr,pr
 2023-06-22T08:11:44.584Z,64.9492,-149.0426,12,0.9,ml,,,,0.45,ak,ak0237y8syl6,2023-06-22T08:13:25.102Z,"26 km SSE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -211,6 +211,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T00:48:22.110Z,33.237,-116.648,12.39,0.49,ml,31,62,0.03775,0.2,ci,ci40491608,2023-06-22T13:29:20.885Z,"5km SSW of Warner Springs, CA",earthquake,0.31,0.65,0.155,7,reviewed,ci,ci
 2023-06-22T00:44:50.740Z,38.8424988,-122.8243332,1.71,0.27,md,10,116,0.009545,0.02,nc,nc73903776,2023-06-22T02:22:17.053Z,"9km WNW of Cobb, CA",earthquake,0.41,0.63,0.11,10,automatic,nc,nc
 2023-06-22T00:40:50.010Z,59.4484,-152.8677,13.2,1.1,ml,,,,0.56,ak,ak0237y47pe3,2023-06-22T20:49:38.809Z,"54 km W of Nanwalek, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2023-06-22T00:38:16.970Z,58.1736666666667,-155.313333333333,-1.25,-0.45,ml,4,246,,0.08,av,av91933466,2023-06-22T22:48:10.460Z,"84 km NW of Karluk, Alaska",earthquake,0.71,31.61,0.0800888145124026,4,reviewed,av,av
 2023-06-22T00:27:38.562Z,28.92242432,-98.10558364,7.507609049,2.4,ml,14,71,0.1123767001,0.3,tx,tx2023mchl,2023-06-22T21:01:02.384Z,"10 km SW of Falls City, Texas",earthquake,3.575583384,2.598136732,0.1,7,reviewed,tx,tx
 2023-06-22T00:26:16.549Z,-10.0205,160.8507,48.26,4.8,mb,44,107,1.062,0.46,us,us7000ka8n,2023-06-22T00:43:15.040Z,"118 km ESE of Honiara, Solomon Islands",earthquake,9.05,5.496,0.061,83,reviewed,us,us
 2023-06-22T00:26:08.270Z,17.9613333333333,-66.8546666666667,17.64,2.29,md,5,207,0.02709,0.04,pr,pr71414323,2023-06-22T00:52:25.050Z,"4 km ESE of Maria Antonia, Puerto Rico",earthquake,0.54,0.42,0.0704869953033869,4,reviewed,pr,pr
@@ -232,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T22:59:32.220Z,40.4351667,-124.4878333,18.58,1.81,md,18,260,0.1216,0.12,nc,nc73903761,2023-06-22T10:42:14.064Z,"21km NW of Petrolia, CA",earthquake,1,0.37,0.128,10,reviewed,nc,nc
 2023-06-21T22:58:40.510Z,60.0043333333333,-153.097333333333,0.58,-0.65,ml,4,150,,0.11,av,av91933371,2023-06-22T22:05:54.770Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.38,1.49,0.109904337144183,4,reviewed,av,av
 2023-06-21T22:56:47.840Z,58.2656666666667,-155.049666666667,17.77,-0.12,ml,8,116,,0.31,av,av91933366,2023-06-22T22:40:37.710Z,"85 km NNW of Karluk, Alaska",earthquake,0.85,1.61,0.182480228839972,8,reviewed,av,av
-2023-06-21T22:54:33.770Z,18.0058333333333,-66.8236666666667,14.07,2.31,md,8,182,0.2101,0.08,pr,pr71414308,2023-06-21T23:01:02.190Z,"1 km NNW of Indios, Puerto Rico",earthquake,0.4,4.6,0.126932789942722,6,reviewed,pr,pr
