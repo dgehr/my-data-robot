@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-24T09:38:09.170Z,35.6031667,-117.5511667,2.03,0.77,ml,10,99,0.1208,0.12,ci,ci40493848,2023-06-24T09:41:37.285Z,"11km E of Ridgecrest, CA",earthquake,0.28,0.54,0.099,6,automatic,ci,ci
+2023-06-24T09:37:30.830Z,63.0026,-149.5546,80.9,1.2,ml,,,,0.41,ak,ak02381kmmqj,2023-06-24T09:39:16.461Z,"52 km SW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-24T09:30:16.450Z,33.4575,-116.6333333,10.45,0.47,ml,23,88,0.04532,0.16,ci,ci40493840,2023-06-24T09:33:50.245Z,"12km SSE of Anza, CA",earthquake,0.27,0.55,0.091,9,automatic,ci,ci
 2023-06-24T09:29:38.642Z,61.8699,-149.6134,34.7,1.3,ml,,,,0.57,ak,ak02381kkxm0,2023-06-24T09:31:26.942Z,"24 km NW of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-24T09:25:00.340Z,19.2124996185303,-155.383834838867,28.1200008392334,2.1,ml,34,175,,0.0900000036,hv,hv73460432,2023-06-24T09:30:30.330Z,"10 km E of Pāhala, Hawaii",earthquake,0.68,0.889999986,1.93,3,automatic,hv,hv
