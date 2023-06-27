@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-27T07:29:49.570Z,38.828167,-122.8056641,1.7,0.74,md,12,76,0.00588,0.02,nc,nc73905896,2023-06-27T07:32:38.127Z,"7km NW of The Geysers, CA",earthquake,0.3,0.89,0.05,14,automatic,nc,nc
 2023-06-27T07:03:01.560Z,33.4783333,-116.4465,11.02,1.4,ml,53,60,0.04819,0.21,ci,ci40496728,2023-06-27T07:13:36.510Z,"23km ESE of Anza, CA",earthquake,0.22,0.52,0.181,25,automatic,ci,ci
 2023-06-27T06:51:22.356Z,62.3208,-150.4021,33.3,1.1,ml,,,,1.25,ak,ak02386hjcrv,2023-06-27T07:24:47.020Z,"8 km W of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-27T06:49:16.745Z,60.1455,-151.6005,57.9,1.5,ml,,,,0.41,ak,ak02386hiwwq,2023-06-27T06:50:43.124Z,"11 km NNE of Ninilchik, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -114,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T15:37:59.964Z,62.5687,-151.2613,93.5,1,ml,,,,0.28,ak,ak02384z9zlo,2023-06-26T15:39:35.455Z,"26 km WNW of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-06-26T15:35:32.560Z,37.4571648,-118.8209991,1.63,1.62,md,17,131,0.1328,0.05,nc,nc73905626,2023-06-26T17:22:15.453Z,"17km SW of Toms Place, CA",earthquake,0.58,2.89,0.06,10,automatic,nc,nc
 2023-06-26T15:33:53.700Z,34.1391667,-117.411,6.33,1.07,ml,29,120,0.04572,0.15,ci,ci40495824,2023-06-27T00:42:01.054Z,"5km NW of Rialto, CA",earthquake,0.28,0.54,0.149,20,reviewed,ci,ci
-2023-06-26T15:31:23.770Z,34.1373333,-117.4208333,6.61,2.7,ml,99,16,0.0405,0.18,ci,ci40495808,2023-06-27T05:42:33.495Z,"6km NE of Fontana, CA",earthquake,0.14,0.37,0.211,24,reviewed,ci,ci
+2023-06-26T15:31:23.770Z,34.1373333,-117.4208333,6.61,2.7,ml,99,16,0.0405,0.18,ci,ci40495808,2023-06-27T07:36:31.994Z,"6km NE of Fontana, CA",earthquake,0.14,0.37,0.211,24,reviewed,ci,ci
 2023-06-26T15:29:49.570Z,19.1790008544922,-155.490493774414,31.6900005340576,1.85000002,md,27,90,,0.100000001,hv,hv73462362,2023-06-26T15:32:51.200Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.67,0.579999983,0.920000017,3,automatic,hv,hv
 2023-06-26T15:22:18.350Z,33.8813333,-116.209,4.8,0.93,ml,25,70,0.05304,0.13,ci,ci40495800,2023-06-27T00:06:10.921Z,"18km N of Indio, CA",earthquake,0.2,0.4,0.121,18,reviewed,ci,ci
 2023-06-26T15:13:59.930Z,64.9161,-148.6373,18.8,0.4,ml,,,,0.44,ak,ak02384z4uex,2023-06-26T15:21:09.614Z,"30 km WNW of Ester, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -201,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T07:40:38.670Z,33.4793333,-116.5028333,13.14,0.24,ml,17,135,0.08444,0.11,ci,ci37527565,2023-06-26T21:14:21.743Z,"18km ESE of Anza, CA",earthquake,0.34,0.64,0.03,6,reviewed,ci,ci
 2023-06-26T07:40:15.280Z,33.4736667,-116.4975,13.56,0.64,ml,25,96,0.08998,0.12,ci,ci40495504,2023-06-26T21:05:08.765Z,"19km ESE of Anza, CA",earthquake,0.23,0.45,0.082,16,reviewed,ci,ci
 2023-06-26T07:39:35.530Z,33.472,-116.5038333,13.41,1.08,ml,50,77,0.08301,0.15,ci,ci40495496,2023-06-26T20:58:37.360Z,"18km ESE of Anza, CA",earthquake,0.19,0.38,0.128,34,reviewed,ci,ci
-2023-06-26T07:35:18.322Z,51.6077,-176.9157,56.025,4.6,mb,126,175,0.286,0.6,us,us7000kb3f,2023-06-26T15:21:15.396Z,"35 km SSW of Adak, Alaska",earthquake,4.75,6.456,0.034,263,reviewed,us,us
