@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-27T19:49:24.261Z,61.6935,-141.8164,10.4,1.3,ml,,,,0.28,ak,ak02386p9kcq,2023-06-27T19:50:38.958Z,"Southern Alaska",earthquake,,4.8,,,automatic,ak,ak
 2023-06-27T19:26:15.540Z,44.6831667,-110.051,10.75,1.12,md,6,88,0.09409,0.15,uu,uu60544147,2023-06-27T19:46:42.770Z,"36 km S of Silver Gate, Montana",earthquake,0.61,1.23,0.194,3,reviewed,uu,uu
 2023-06-27T19:25:27.860Z,35.6051667,-117.4398333,10.3,1.13,ml,15,85,0.02606,0.19,ci,ci40497344,2023-06-27T19:28:56.635Z,"18km S of Searles Valley, CA",earthquake,0.4,0.62,0.217,9,automatic,ci,ci
 2023-06-27T19:24:31.460Z,33.8745,-117.503,0.59,1.01,ml,27,55,0.07463,0.25,ci,ci40497336,2023-06-27T19:28:37.022Z,"2km ESE of Home Gardens, CA",quarry blast,0.41,31.61,0.168,20,automatic,ci,ci
