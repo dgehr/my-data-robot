@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-27T19:06:09.270Z,38.8233337,-122.8036652,2.46,1.08,md,23,35,0.005007,0.01,nc,nc73906056,2023-06-27T19:08:51.527Z,"7km NW of The Geysers, CA",earthquake,0.24,0.41,0.15,21,automatic,nc,nc
 2023-06-27T19:03:22.104Z,58.1761,-155.2545,0,0.9,ml,,,,0.4,ak,ak02386ozp8y,2023-06-27T19:05:23.080Z,"82 km NW of Karluk, Alaska",earthquake,,17.3,,,automatic,ak,ak
 2023-06-27T19:01:34.880Z,34.9951667,-118.1923333,0.17,1.19,ml,16,82,0.1198,0.32,ci,ci40497296,2023-06-27T19:05:05.373Z,"7km SSW of Mojave, CA",earthquake,0.73,31.61,0.076,10,automatic,ci,ci
 2023-06-27T18:34:49.172Z,62.9627,-151.5768,0,1.4,ml,,,,0.77,ak,ak02386okyxh,2023-06-27T18:36:44.635Z,"64 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
