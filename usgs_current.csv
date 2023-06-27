@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T10:26:53.250Z,37.4091682,-119.9844971,21.76,2.35,md,5,112,0.1919,0.13,nc,nc73905926,2023-06-27T11:35:11.223Z,"9km S of Mariposa, CA",earthquake,0.88,1.31,0.08,5,automatic,nc,nc
 2023-06-27T10:09:48.160Z,33.9948333,-116.791,17.98,1.57,ml,54,52,0.04256,0.19,ci,ci40496776,2023-06-27T10:13:23.174Z,"9km N of Cabazon, CA",earthquake,0.2,0.43,0.194,26,automatic,ci,ci
 2023-06-27T10:05:51.995Z,22.7763,143.139,94.433,4.5,mb,46,75,7.903,0.74,us,us6000kndi,2023-06-27T11:01:26.040Z,"Volcano Islands, Japan region",earthquake,10.55,7.937,0.088,38,reviewed,us,us
-2023-06-27T10:02:21.666Z,-30.1304,-71.3012,65.363,4.6,mwr,60,121,0.218,0.54,us,us6000knd9,2023-06-27T10:24:47.040Z,"Near the coast of Coquimbo, Chile",earthquake,2.17,5.276,,,reviewed,us,guc
+2023-06-27T10:02:21.666Z,-30.1304,-71.3012,65.363,4.6,mwr,60,121,0.218,0.54,us,us6000knd9,2023-06-27T10:24:47.040Z,"19 km S of Coquimbo, Chile",earthquake,2.17,5.276,,,reviewed,us,guc
 2023-06-27T10:01:42.730Z,33.378,-116.3741667,11.09,0.51,ml,13,167,0.1153,0.18,ci,ci40496768,2023-06-27T10:05:31.005Z,"14km N of Borrego Springs, CA",earthquake,0.55,1.15,0.141,6,automatic,ci,ci
 2023-06-27T10:00:20.370Z,36.5751648,-121.0934982,12.37,1.93,md,13,163,0.04354,0.05,nc,nc73905916,2023-06-27T10:47:11.825Z,"7km NE of Pinnacles, CA",earthquake,1.8,2.51,0.13,8,automatic,nc,nc
 2023-06-27T09:59:57.310Z,33.3851667,-116.386,11,0.63,ml,20,148,0.1195,0.15,ci,ci40496760,2023-06-27T10:03:39.443Z,"14km N of Borrego Springs, CA",earthquake,0.36,0.71,0.173,12,automatic,ci,ci
@@ -29,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T08:03:41.910Z,19.2141666412354,-155.391159057617,30.6299991607666,2.41,ml,40,162,,0.129999995,hv,hv73463057,2023-06-27T08:09:12.750Z,"9 km E of Pāhala, Hawaii",earthquake,0.57,0.699999988,3.63,7,automatic,hv,hv
 2023-06-27T08:01:47.708Z,61.4754,-149.9523,21.2,2.9,ml,,,,0.82,ak,ak02386ifk6z,2023-06-27T10:05:14.787Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-27T07:58:43.170Z,33.4055,-116.3948333,3.55,1.27,ml,53,51,0.1204,0.23,ci,ci40496736,2023-06-27T08:09:37.650Z,"17km N of Borrego Springs, CA",earthquake,0.24,0.75,0.172,27,automatic,ci,ci
-2023-06-27T07:58:16.790Z,39.1549988,-122.8623352,2.34,1.79,md,11,95,0.04087,0.04,nc,nc73905906,2023-06-27T09:09:10.242Z,"4km NNW of Nice, CA",earthquake,0.28,1.04,0.07,4,automatic,nc,nc
+2023-06-27T07:58:16.790Z,39.1549988,-122.8623352,2.34,1.79,md,11,95,0.04087,0.04,nc,nc73905906,2023-06-27T11:47:15.160Z,"4km NNW of Nice, CA",earthquake,0.28,1.04,0.07,4,automatic,nc,nc
 2023-06-27T07:29:49.570Z,38.828167,-122.8056641,1.7,0.74,md,12,76,0.00588,0.02,nc,nc73905896,2023-06-27T08:19:12.934Z,"7km NW of The Geysers, CA",earthquake,0.3,0.89,0.05,14,automatic,nc,nc
 2023-06-27T07:03:01.560Z,33.4783333,-116.4465,11.02,1.4,ml,53,60,0.04819,0.21,ci,ci40496728,2023-06-27T07:13:36.510Z,"23km ESE of Anza, CA",earthquake,0.22,0.52,0.181,25,automatic,ci,ci
 2023-06-27T06:51:22.356Z,62.3208,-150.4021,33.3,1.1,ml,,,,1.25,ak,ak02386hjcrv,2023-06-27T07:24:47.020Z,"8 km W of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
