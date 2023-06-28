@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-28T15:04:52.896Z,37.9403,-118.6184,2.7,1.5,ml,9,142.52,0.324,0.4489,nn,nn00861869,2023-06-28T15:07:34.450Z,"18 km NW of Benton, California",earthquake,,1.6,0.54,5,automatic,nn,nn
+2023-06-28T15:00:51.890Z,33.7326667,-117.1273333,19.56,1.07,ml,9,116,0.3332,0.27,ci,ci40498032,2023-06-28T15:04:28.197Z,"2km ENE of Menifee, CA",earthquake,0.92,4.8,0.214,12,automatic,ci,ci
 2023-06-28T14:52:03.517Z,66.1052,-149.0626,0.4,1.2,ml,,,,1.03,ak,ak023889ucdb,2023-06-28T14:54:13.145Z,"11 km N of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-28T14:44:03.176Z,61.1064,-149.4409,26.4,1.4,ml,,,,0.92,ak,ak023889smm5,2023-06-28T14:46:23.884Z,"19 km SSE of Elmendorf Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-28T14:23:24.640Z,37.203167,-119.5309982,33.92,2.97,md,26,95,0.2629,0.16,nc,nc73906356,2023-06-28T14:50:48.602Z,"3km SSW of North Fork, CA",earthquake,0.52,1.83,0.27,17,automatic,nc,nc
@@ -12,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-28T13:01:57.800Z,19.2784996032715,-155.23583984375,2.45000004768372,1.77,ml,36,178,,0.170000002,hv,hv73464232,2023-06-28T13:07:29.030Z,"18 km S of Volcano, Hawaii",earthquake,0.46,1.05999994,0.24,6,automatic,hv,hv
 2023-06-28T13:00:20.535Z,63.6473,-147.7484,0,1.1,ml,,,,0.64,ak,ak023888xsud,2023-06-28T13:02:21.840Z,"58 km E of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-28T12:15:02.460Z,58.3841,-154.7556,1.1,0.3,ml,,,,0.18,ak,ak023888fjl2,2023-06-28T12:16:36.542Z,"92 km N of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-06-28T12:09:29.357Z,60.3651,-151.8913,82.2,1.9,ml,,,,0.48,ak,ak023888ebd3,2023-06-28T12:11:31.119Z,"31 km WNW of Clam Gulch, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-06-28T12:09:29.357Z,60.3651,-151.8913,82.2,1.9,ml,,,,0.48,ak,ak023888ebd3,2023-06-28T12:11:31.119Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-28T12:08:45.900Z,19.4190006256104,-155.27799987793,-0.0299999993294477,1.94,ml,13,72,,0.100000001,hv,hv73464207,2023-06-28T12:14:16.140Z,"5 km WSW of Volcano, Hawaii",earthquake,0.21,0.280000001,0.36,6,automatic,hv,hv
 2023-06-28T11:48:08.520Z,38.8171654,-122.8131638,3.09,1.06,md,19,50,0.006672,0.02,nc,nc73906331,2023-06-28T12:09:17.061Z,"7km NW of The Geysers, CA",earthquake,0.28,0.73,0.29,21,automatic,nc,nc
 2023-06-28T11:40:27.490Z,33.7421667,-116.7183333,20.19,0.63,ml,19,84,0.004913,0.26,ci,ci40497944,2023-06-28T11:44:00.449Z,"0km NNE of Idyllwild, CA",earthquake,0.81,0.64,0.206,14,automatic,ci,ci
@@ -185,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T15:19:29.700Z,35.0156667,-119.214,10.05,1.92,ml,40,71,0.1578,0.22,ci,ci40496968,2023-06-27T16:56:34.670Z,"18km ESE of Maricopa, CA",earthquake,0.24,0.69,0.145,34,reviewed,ci,ci
 2023-06-27T15:18:14.962Z,-4.345,144.0414,130.797,4.9,mb,38,121,3.796,0.82,us,us6000kneq,2023-06-27T23:49:56.409Z,"31 km S of Angoram, Papua New Guinea",earthquake,11.09,9.001,0.108,27,reviewed,us,us
 2023-06-27T15:12:53.600Z,38.779335,-122.765831,1.08,1.49,md,26,83,0.008602,0.04,nc,nc73906001,2023-06-27T17:29:20.248Z,"1km WNW of The Geysers, CA",earthquake,0.21,0.35,0.22,24,automatic,nc,nc
-2023-06-27T15:04:25.610Z,19.1808338165283,-155.501998901367,34.7599983215332,1.87,md,29,241,,0.119999997,hv,hv73463312,2023-06-27T15:07:36.460Z,"Hawaii region, Hawaii",earthquake,0.79,1.00999999,0.00999999978,5,automatic,hv,hv
