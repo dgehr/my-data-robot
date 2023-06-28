@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T08:01:49.258Z,61.4869,-149.915,31.6,3.2,ml,,,,0.84,ak,ak02386ifk6z,2023-06-28T03:22:55.008Z,"4 km SSE of Big Lake, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-06-27T07:58:43.090Z,33.4003333,-116.394,6.72,1.27,ml,66,52,0.07677,0.18,ci,ci40496736,2023-06-27T15:33:21.280Z,"16km N of Borrego Springs, CA",earthquake,0.17,0.48,0.152,44,reviewed,ci,ci
 2023-06-27T07:58:16.760Z,39.1586667,-122.8651667,3.1,1.69,md,22,83,0.04498,0.1,nc,nc73905906,2023-06-27T23:48:12.640Z,"4km E of Upper Lake, CA",earthquake,0.24,0.59,0.1,22,reviewed,nc,nc
-2023-06-27T07:38:37.844Z,39.6224,-119.9658,6.2,0.4,ml,5,119.61,0.015,0.1281,nn,nn00861838,2023-06-27T23:30:14.253Z,"6 km S of Cold Springs, Nevada",earthquake,,1.8,0.18,4,reviewed,nn,nn
