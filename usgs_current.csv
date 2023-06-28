@@ -184,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T13:46:01.490Z,36.5919991,-121.1341629,11.18,1.39,md,4,216,0.04595,0,nc,nc73905961,2023-06-27T16:16:13.801Z,"7km N of Pinnacles, CA",earthquake,2.21,2.6,0.19,5,automatic,nc,nc
 2023-06-27T13:42:17.240Z,19.1809997558594,-155.502502441406,30.4699993133545,2.11999989,md,30,95,,0.119999997,hv,hv73463272,2023-06-27T13:45:27.340Z,"Island of Hawaii, Hawaii",earthquake,0.69,0.839999974,1.88,10,automatic,hv,hv
 2023-06-27T13:39:12.350Z,38.7799988,-122.757164,1.03,0.72,md,9,68,0.01144,0.02,nc,nc73905951,2023-06-27T15:20:14.591Z,"0km NNW of The Geysers, CA",earthquake,0.36,0.65,0.11,6,automatic,nc,nc
-2023-06-27T13:34:03.516Z,63.0796,-151.4261,0,1.3,ml,,,,1.03,ak,ak02386llpdr,2023-06-27T13:36:41.728Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
