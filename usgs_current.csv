@@ -250,5 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T22:06:22.195Z,58.1986,-155.2653,1.1,1.2,ml,,,,0.21,ak,ak0238a1vc7f,2023-06-29T22:07:19.984Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-06-29T22:01:30.920Z,38.758,-122.7395,2.34,-0.12,md,8,97,0.006574,0.02,nc,nc73906886,2023-06-29T23:02:24.835Z,"3km SE of The Geysers, CA",earthquake,0.59,0.55,0.157,4,reviewed,nc,nc
 2023-06-29T22:01:02.500Z,38.7616667,-122.7358333,1.47,1.03,md,34,92,0.008579,0.05,nc,nc73906881,2023-06-30T01:54:13.658Z,"2km SE of The Geysers, CA",earthquake,0.19,0.25,0.335,25,reviewed,nc,nc
-2023-06-29T21:58:53.608Z,61.7178,-149.6242,26.7,1.9,ml,,,,0.62,ak,ak0238a1l49c,2023-06-29T22:01:17.724Z,"10 km N of Meadow Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-29T21:53:08.210Z,33.9905,-116.974,17.95,1.05,ml,32,58,0.1076,0.13,ci,ci40499896,2023-06-29T23:57:49.659Z,"7km N of Beaumont, CA",earthquake,0.19,0.5,0.109,22,reviewed,ci,ci
