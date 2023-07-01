@@ -200,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T22:26:56.980Z,38.8223343,-122.8068314,2.1,0.38,md,6,118,0.002745,0.02,nc,nc73907271,2023-06-30T22:28:32.558Z,"7km NW of The Geysers, CA",earthquake,1.97,1.07,0.18,6,automatic,nc,nc
 2023-06-30T22:14:22.380Z,48.205333333333336,-124.17966666666666,7.04,1.87,ml,17,85,0.07029,0.27,uw,uw61928757,2023-07-01T15:28:18.000Z,"8 km SE of Clallam Bay, Washington",earthquake,0.55,2.22,0.12828572011060668,15,reviewed,uw,uw
 2023-06-30T22:10:43.926Z,64.571,-148.9222,41.5,0.5,ml,,,,0.92,ak,ak0238bpfl8o,2023-06-30T22:13:35.267Z,"Central Alaska",earthquake,,1.9,,,automatic,ak,ak
-2023-06-30T22:01:10.699Z,62.7825,-152.2855,5,1.9,ml,,,,0.52,ak,ak0238bpdl8d,2023-06-30T22:03:04.900Z,"84 km WNW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
