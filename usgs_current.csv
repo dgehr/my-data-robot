@@ -249,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-02T11:08:04.780Z,33.4866667,-116.5096667,13.39,0.9,ml,34,51,0.07774,0.19,ci,ci40502016,2023-07-02T11:18:32.970Z,"17km ESE of Anza, CA",earthquake,0.25,0.58,0.202,26,automatic,ci,ci
 2023-07-02T11:06:29.890Z,38.8266678,-122.8133316,1.15,0.76,md,11,71,0.004142,0.08,nc,nc73907786,2023-07-02T12:45:15.306Z,"7km NW of The Geysers, CA",earthquake,0.36,0.87,0.17,13,automatic,nc,nc
 2023-07-02T11:06:26.960Z,19.4545001983643,-155.585662841797,38.9900016784668,1.99,ml,32,30,,0.209999993,hv,hv73468077,2023-07-02T11:11:57.400Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.74,1.32000005,0.81,7,automatic,hv,hv
-2023-07-02T10:46:56.221Z,-12.6481,-76.0348,80.924,4.4,mb,31,137,1.027,0.43,us,us6000kpm5,2023-07-03T00:41:13.241Z,"near the coast of central Peru",earthquake,9.52,9.672,0.12,20,reviewed,us,us
