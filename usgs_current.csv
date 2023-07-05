@@ -155,4 +155,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-04T17:10:08.860Z,44.732,-110.657,4.79,0.59,md,5,242,0.02285,0.1,uu,uu60544672,2023-07-05T15:43:24.110Z,"27 km S of Mammoth, Wyoming",earthquake,2.73,1,0.693,5,reviewed,uu,uu
 2023-07-04T17:04:51.430Z,18.0455,-66.7658333333333,14.9,2.12,md,8,148,0.1287,0.19,pr,pr71416258,2023-07-04T17:15:07.930Z,"2 km SW of Santo Domingo, Puerto Rico",earthquake,0.58,1.92,0.0394909330322517,5,reviewed,pr,pr
 2023-07-04T16:59:48.986Z,-19.7909,41.6527,10,4.8,mb,27,118,5.319,0.5,us,us6000kq2c,2023-07-04T17:20:15.040Z,"284 km WNW of Morondava, Madagascar",earthquake,12.56,1.925,0.096,34,reviewed,us,us
-2023-07-04T16:51:46.180Z,19.1798324584961,-155.492828369141,34.2400016784668,1.94000006,md,26,81,,0.0900000036,hv,hv73470227,2023-07-04T16:54:52.630Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.65,1.16999996,0.970000029,3,automatic,hv,hv
