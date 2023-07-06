@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-06T11:44:53.800Z,34.1006667,-116.5395,16.69,0.78,ml,8,140,0.1093,0.25,ci,ci40504520,2023-07-06T11:48:26.467Z,"7km NNE of Morongo Valley, CA",earthquake,0.93,1.36,0.177,11,automatic,ci,ci
 2023-07-06T11:28:54.100Z,33.9315,-116.8035,16.35,0.62,ml,21,109,0.09779,0.15,ci,ci40504504,2023-07-06T11:32:32.472Z,"2km NW of Cabazon, CA",earthquake,0.34,0.66,0.155,18,automatic,ci,ci
-2023-07-06T11:20:44.700Z,37.0506668,-121.5051651,7.45,1.37,md,19,105,0.06383,0.12,nc,nc73909536,2023-07-06T11:37:10.632Z,"8km NE of Gilroy, CA",earthquake,0.41,1.28,0.13,11,automatic,nc,nc
+2023-07-06T11:20:44.700Z,37.0506668,-121.5051651,7.45,1.37,md,19,105,0.06383,0.12,nc,nc73909536,2023-07-06T11:48:13.696Z,"8km NE of Gilroy, CA",earthquake,0.41,1.28,0.13,11,automatic,nc,nc
 2023-07-06T11:20:12.880Z,38.8446655,-122.840332,1.99,1.32,md,28,96,0.007151,0.05,nc,nc73909531,2023-07-06T11:38:13.638Z,"10km NW of The Geysers, CA",earthquake,0.22,0.4,0.27,25,automatic,nc,nc
 2023-07-06T11:07:24.370Z,38.4878349,-119.5569992,-0.75,2.2,md,6,130,0.1022,0.02,nc,nc73909526,2023-07-06T11:30:10.586Z,"7km WSW of Walker, CA",earthquake,1.33,7.7,0.28,4,automatic,nc,nc
 2023-07-06T10:50:21.871Z,63.0583,-151.5299,1.2,1.2,ml,,,,0.86,ak,ak0238lfqzvv,2023-07-06T10:52:34.514Z,"54 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -193,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-05T12:06:52.709Z,-0.1114,97.2927,10,5.1,mb,49,177,1.434,0.73,us,us6000kq79,2023-07-05T12:22:44.040Z,"94 km SW of Teluk Dalam, Indonesia",earthquake,5.23,1.913,0.096,35,reviewed,us,us
 2023-07-05T12:05:29.385Z,38.5355,-118.1384,5.2,0.8,ml,6,140.32,0.404,0.2548,nn,nn00862206,2023-07-06T00:50:07.452Z,"16 km N of Mina, Nevada",earthquake,,1.7,0.37,4,reviewed,nn,nn
 2023-07-05T11:59:05.813Z,-1.3298,-24.0467,10,4.8,mb,26,124,11.668,0.88,us,us6000kq7a,2023-07-05T12:26:16.040Z,"central Mid-Atlantic Ridge",earthquake,11.2,1.911,0.124,20,reviewed,us,us
-2023-07-05T11:48:57.540Z,17.9678333333333,-67.0603333333333,6.94,2.39,md,5,223,0.01542,0.16,pr,pr71416338,2023-07-05T12:03:05.370Z,"1 km WSW of La Parguera, Puerto Rico",earthquake,1.52,0.61,0.129387441128377,5,reviewed,pr,pr
