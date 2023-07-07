@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-07T09:26:46.135Z,58.2732,-155.1075,30.2,0.7,ml,,,,0.59,ak,ak0238n2jtgl,2023-07-07T09:29:12.516Z,"87 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-07-07T09:17:23.173Z,-32.7523,-71.9165,26.188,4.5,mb,35,147,0.352,0.53,us,us6000kqp1,2023-07-07T09:40:00.040Z,"41 km NW of Valparaíso, Chile",earthquake,3.37,6.134,0.151,14,reviewed,us,us
 2023-07-07T09:12:34.506Z,48.3497,-123.0033,38.098,2.5,ml,32,59,0.373,0.26,us,us6000kqnz,2023-07-07T09:24:06.040Z,"Strait of Juan de Fuca, Washington",earthquake,2.1,11.55,0.043,72,reviewed,us,us
 2023-07-07T08:56:08.050Z,18.2128333333333,-66.6995,8.66,2.12,md,8,161,0.04433,0.13,pr,pr71416648,2023-07-07T09:07:10.550Z,"5 km S of Utuado, Puerto Rico",earthquake,0.35,0.71,0.150082992076371,5,reviewed,pr,pr
 2023-07-07T08:41:43.975Z,65.4313,-148.0036,14.4,1.4,ml,,,,0.31,ak,ak0238n21lfh,2023-07-07T08:43:52.344Z,"27 km ESE of Livengood, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -58,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-07T02:15:34.255Z,63.1356,-149.7022,78.9,1.2,ml,,,,0.32,ak,ak0238mybefl,2023-07-07T02:17:11.418Z,"47 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-07T02:15:22.000Z,38.8376667,-122.7928333,1.28,-0.19,md,13,79,0.002081,0.04,nc,nc73909761,2023-07-07T03:36:52.109Z,"6km WNW of Cobb, CA",earthquake,0.32,0.78,0.209,11,reviewed,nc,nc
 2023-07-07T02:06:28.305Z,63.0721,-150.6326,112.8,1.9,ml,,,,0.17,ak,ak0238my9gj2,2023-07-07T02:08:30.836Z,"64 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-07-07T01:48:43.615Z,61.118,-148.9206,28.9,2.8,ml,,,,0.44,ak,ak0238mxx26h,2023-07-07T02:13:25.040Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-07-07T01:48:43.615Z,61.118,-148.9206,28.9,2.8,ml,,,,0.44,ak,ak0238mxx26h,2023-07-07T09:43:40.793Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-07T01:45:20.716Z,63.2109,-150.7035,131.9,2.4,ml,,,,0.3,ak,ak0238mxwd9j,2023-07-07T02:07:12.040Z,"62 km SE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-07T01:41:59.940Z,38.8458328,-122.8153305,0.94,0.82,md,14,63,0.01081,0.03,nc,nc73909756,2023-07-07T02:20:14.280Z,"8km WNW of Cobb, CA",earthquake,0.22,0.5,0.25,14,automatic,nc,nc
 2023-07-07T01:34:47.960Z,34.079,-117.692,19.99,1.1,ml,12,94,0.1618,0.31,ci,ci39606170,2023-07-07T01:38:19.102Z,"0km NW of Montclair, CA",earthquake,0.91,1.79,0.259,23,automatic,ci,ci
