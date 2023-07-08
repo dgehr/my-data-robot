@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-08T10:13:47.810Z,38.7961655,-122.8093338,3.42,0.88,md,6,132,0.009232,0.01,nc,nc73910201,2023-07-08T10:15:24.257Z,"5km WNW of The Geysers, CA",earthquake,0.59,1.69,0.15,8,automatic,nc,nc
+2023-07-08T10:05:43.195Z,63.1123,-151.3638,0,1.1,ml,,,,0.62,ak,ak0238oqk3an,2023-07-08T10:07:44.355Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-08T09:55:15.604Z,62.3217,-154.7643,0.9,1.4,ml,,,,0.6,ak,ak0238oq9bd4,2023-07-08T09:56:58.375Z,"79 km SSW of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-08T09:51:09.930Z,38.8293343,-122.8141632,2.34,0.88,md,17,52,0.006736,0.01,nc,nc73910196,2023-07-08T09:53:50.269Z,"8km NW of The Geysers, CA",earthquake,0.27,0.68,0.23,17,automatic,nc,nc
+2023-07-08T09:51:09.930Z,38.8293343,-122.8141632,2.34,0.88,md,17,52,0.006736,0.01,nc,nc73910196,2023-07-08T10:12:12.872Z,"8km NW of The Geysers, CA",earthquake,0.27,0.68,0.23,17,automatic,nc,nc
 2023-07-08T09:41:20.679Z,61.1644,-151.1283,62.5,2.6,ml,,,,0.2,ak,ak0238oq6bqb,2023-07-08T09:53:21.040Z,"3 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-08T09:40:37.546Z,65.082,-150.1722,14.4,1,ml,,,,0.89,ak,ak0238oq65be,2023-07-08T09:42:32.965Z,"23 km ENE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-08T09:27:42.982Z,61.6897,-150.6872,34.1,1,ml,,,,0.19,ak,ak0238oq3dfe,2023-07-08T09:29:26.834Z,"18 km NNW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -214,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-07T10:27:40.390Z,18.7646666666667,-65.8241666666667,15.42,3.06,md,17,216,0.5368,0.27,pr,pr71416658,2023-07-07T10:49:08.650Z,"37 km N of Suárez, Puerto Rico",earthquake,0.89,1.66,0.105791105278106,9,reviewed,pr,pr
 2023-07-07T10:26:08.762Z,36.7719,-116.028,9.7,0.3,ml,27,73.03,0.015,0.1227,nn,nn00862267,2023-07-07T17:04:09.269Z,"39 km NW of Indian Springs, Nevada",earthquake,,0.7,0.31,14,reviewed,nn,nn
 2023-07-07T10:21:52.812Z,42.3246,-120.4417,6.1,0.2,ml,3,278.45,0.117,0.0995,nn,nn00862280,2023-07-07T17:41:18.847Z,"Oregon",earthquake,,4.7,0.5,2,reviewed,nn,nn
-2023-07-07T10:05:26.138Z,61.3551,-141.0964,0,2,ml,,,,0.62,ak,ak0238n30phh,2023-07-07T10:07:40.499Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
