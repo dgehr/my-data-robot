@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-09T07:24:22.900Z,33.1433334,-116.5199966,8.07,1.2,ml,45,56,0.09002,0.19,ci,ci39608146,2023-07-09T07:26:25.878Z,"10km NE of Julian, CA",earthquake,0.29,1.05,0.401,6,automatic,ci,ci
+2023-07-09T07:22:01.280Z,33.6351667,-116.6975,13.05,0.22,ml,16,103,0.06928,0.1,ci,ci39608138,2023-07-09T07:25:36.965Z,"9km NNW of Anza, CA",earthquake,0.29,0.45,0.1,4,automatic,ci,ci
+2023-07-09T07:21:36.463Z,63.5826,-147.7111,0,1,ml,,,,0.51,ak,ak0238qcejwu,2023-07-09T07:23:09.546Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-07-09T07:21:21.651Z,61.4835,-146.6104,30.7,1.2,ml,,,,0.69,ak,ak0238qceirp,2023-07-09T07:23:24.891Z,"41 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-09T06:59:32.470Z,33.6778333,-116.717,14.74,0.27,ml,18,89,0.03333,0.11,ci,ci39608122,2023-07-09T07:03:08.963Z,"7km S of Idyllwild, CA",earthquake,0.31,0.55,0.244,7,automatic,ci,ci
 2023-07-09T06:54:25.280Z,33.6836662,-116.7198334,15.75,0.97,ml,14,85,0.02783,0.09,ci,ci39608114,2023-07-09T07:01:38.142Z,"6km S of Idyllwild, CA",earthquake,0.52,0.87,0.229,7,automatic,ci,ci
 2023-07-09T06:54:08.630Z,33.634,-116.8145,12.41,0.39,ml,15,105,0.02807,0.2,ci,ci39608106,2023-07-09T06:57:30.401Z,"15km SSE of Valle Vista, CA",earthquake,0.44,0.8,0.125,9,automatic,ci,ci
@@ -12,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-09T05:37:18.890Z,38.8250008,-122.8054962,1.2,0.74,md,12,100,0.003919,0.01,nc,nc73910566,2023-07-09T05:38:55.740Z,"7km NW of The Geysers, CA",earthquake,0.36,0.72,0.25,12,automatic,nc,nc
 2023-07-09T05:32:46.550Z,38.7560005,-122.7376633,1.47,1.29,md,9,163,0.006287,0.03,nc,nc73910546,2023-07-09T05:48:11.914Z,"3km SE of The Geysers, CA",earthquake,0.38,0.5,0.16,7,automatic,nc,nc
 2023-07-09T05:32:30.580Z,38.7574997,-122.7353363,0.99,1.16,md,7,139,0.008626,0.02,nc,nc73910541,2023-07-09T05:45:10.896Z,"3km SE of The Geysers, CA",earthquake,0.57,0.4,0.3,5,automatic,nc,nc
-2023-07-09T05:30:39.750Z,38.7495003,-122.732666,1.17,3.49,ml,56,46,0.009819,0.07,nc,nc73910536,2023-07-09T07:15:11.405Z,"4km SSE of The Geysers, CA",earthquake,0.13,0.22,0.204,30,automatic,nc,nc
+2023-07-09T05:30:39.750Z,38.7495003,-122.732666,1.17,3.49,ml,56,46,0.009819,0.07,nc,nc73910536,2023-07-09T07:20:00.949Z,"4km SSE of The Geysers, CA",earthquake,0.13,0.22,0.204,30,automatic,nc,nc
 2023-07-09T05:30:05.750Z,38.7506676,-122.7348328,1.29,3.09,ml,64,37,0.007855,0.12,nc,nc73910531,2023-07-09T07:00:11.329Z,"4km SSE of The Geysers, CA",earthquake,0.16,0.28,0.275,14,automatic,nc,nc
 2023-07-09T05:29:41.210Z,19.1641674041748,-155.489166259766,32.9799995422363,1.85000002,md,33,108,,0.100000001,hv,hv73475592,2023-07-09T05:32:44.470Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.57,0.930000007,0.600000024,7,automatic,hv,hv
 2023-07-09T05:25:28.460Z,38.8546677,-122.8410034,0.13,0.79,md,10,170,0.01378,0.06,nc,nc73910521,2023-07-09T05:27:05.423Z,"11km WNW of Cobb, CA",earthquake,0.4,0.99,0.15,11,automatic,nc,nc
