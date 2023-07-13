@@ -283,5 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-12T23:46:35.910Z,38.8088333,-122.7921667,3.24,1.22,md,40,35,0.002598,0.04,nc,nc73912056,2023-07-13T06:20:13.374Z,"5 km NW of The Geysers, CA",earthquake,0.15,0.22,0.151,36,reviewed,nc,nc
 2023-07-12T23:41:21.500Z,38.7451667,-122.73,1.35,0.5,md,12,106,0.01364,0.03,nc,nc73912051,2023-07-13T00:48:12.392Z,"4 km SSE of The Geysers, CA",earthquake,0.29,0.29,0.145,8,reviewed,nc,nc
 2023-07-12T23:37:58.950Z,33.2741667,-116.423,3.18,1.05,ml,32,93,0.007704,0.23,ci,ci39611234,2023-07-13T13:23:19.996Z,"5km WNW of Borrego Springs, CA",earthquake,0.36,0.9,0.12,26,reviewed,ci,ci
-2023-07-12T23:34:42.278Z,-29.5889,-68.1533,35,4.1,mwr,40,45,1.731,0.95,us,us7000kfaa,2023-07-13T00:04:12.040Z,"79 km SW of Chilecito, Argentina",earthquake,6.02,1.909,0.043,52,reviewed,us,us
-2023-07-12T23:33:16.589Z,63.109,-150.6868,90.3,1.4,ml,,,,0.88,ak,ak0238vkm24q,2023-07-12T23:36:26.541Z,"68 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
