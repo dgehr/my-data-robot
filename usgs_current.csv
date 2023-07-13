@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-13T05:54:10.570Z,38.8223343,-122.8101654,2.76,1.08,md,23,39,0.001062,0.05,nc,nc73912126,2023-07-13T05:55:46.246Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.55,0.11,24,automatic,nc,nc
+2023-07-13T05:52:16.857Z,62.6485,-152.4406,148.3,1.1,ml,,,,0.07,ak,ak0238wxjod1,2023-07-13T05:54:17.563Z,"87 km W of Petersville, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-07-13T05:36:23.240Z,38.8361664,-122.8036652,2.26,0.23,md,11,104,0.01064,0.02,nc,nc73912121,2023-07-13T05:39:07.197Z,"7 km WNW of Cobb, CA",earthquake,0.37,0.83,0.12,11,automatic,nc,nc
 2023-07-13T05:29:53.454Z,61,-151.4044,62.3,0.9,ml,,,,0.32,ak,ak0238wxetpt,2023-07-13T05:31:42.450Z,"16 km WSW of Tyonek, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-07-13T05:07:22.614Z,63.0836,-151.5794,0.9,3.1,ml,,,,0.76,ak,ak0238wxa1lr,2023-07-13T05:45:52.040Z,"51 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -11,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-13T04:22:56.356Z,38.1446,-117.9594,6.9,1.5,ml,10,129.1,0.058,0.2263,nn,nn00862510,2023-07-13T04:25:43.196Z,"Nevada",earthquake,,0.4,0.37,7,automatic,nn,nn
 2023-07-13T04:16:16.237Z,62.8844,-149.6845,81.6,1.2,ml,,,,0.21,ak,ak0238wwqixj,2023-07-13T04:17:50.742Z,"53 km NNE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-13T04:16:06.946Z,58.8958,-152.2486,76.6,1.4,ml,,,,0.75,ak,ak0238wwqi7q,2023-07-13T04:18:07.101Z,"54 km SSW of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-07-13T04:10:35.130Z,38.7735,-122.7185,1.08,0.23,md,14,67,0.01267,0.03,nc,nc73912106,2023-07-13T05:38:12.111Z,"2 km W of Anderson Springs, CA",earthquake,0.28,0.52,0.18,6,reviewed,nc,nc
+2023-07-13T04:10:35.130Z,38.7735,-122.7185,1.08,0.23,md,14,67,0.01267,0.03,nc,nc73912106,2023-07-13T05:53:15.203Z,"2 km W of Anderson Springs, CA",earthquake,0.28,0.52,0.18,6,reviewed,nc,nc
 2023-07-13T04:01:15.887Z,61.6803,-148.1611,21.6,0.5,ml,,,,0.18,ak,ak0238wwnb5w,2023-07-13T04:02:44.476Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-13T04:00:24.997Z,36.02758408,-97.9202652,5,2.48,ml,66,37.68658447,0.09152481705,0.812974767,ok,ok2023noya,2023-07-13T04:03:51.813Z,"Oklahoma",earthquake,1.372114686,,0.2,53,automatic,ok,ok
 2023-07-13T03:50:32.671Z,36.02852249,-97.91590881,0.7102378607,2.54,ml,67,37.52523804,0.0944256112,0.757898842,ok,ok2023noxs,2023-07-13T03:57:36.852Z,"5 km N of Dover, Oklahoma",earthquake,1.34267455,1.163147384,0.21,52,automatic,ok,ok
