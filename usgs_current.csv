@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-14T03:50:22.109Z,58.2633,-155.0822,1.1,1.6,ml,,,,0.43,ak,ak0238yjvqma,2023-07-14T03:51:35.728Z,"85 km NNW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-07-14T03:46:03.942Z,58.1631,-155.3813,17.9,0.1,ml,,,,0.58,ak,ak0238yjuuh7,2023-07-14T03:56:42.063Z,"86 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-14T03:42:59.280Z,60.0053,-152.7125,91.7,1.5,ml,,,,0.51,ak,ak0238yju3rc,2023-07-14T03:45:09.909Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-14T03:42:05.710Z,38.8373337,-122.8000031,2.06,0.77,md,17,67,0.01599,0.04,nc,nc73912696,2023-07-14T03:43:41.984Z,"7 km WNW of Cobb, CA",earthquake,0.26,0.75,0.22,17,automatic,nc,nc
 2023-07-14T03:27:26.780Z,38.777668,-122.7210007,2.45,0.73,md,6,80,0.01349,0.01,nc,nc73912691,2023-07-14T03:30:07.461Z,"2 km W of Anderson Springs, CA",earthquake,1.62,3.65,0.33,6,automatic,nc,nc
@@ -19,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-14T02:51:09.910Z,38.7605019,-122.7369995,-0.8,1.19,md,10,136,0.009552,0.28,nc,nc73912601,2023-07-14T02:52:47.078Z,"2 km SE of The Geysers, CA",earthquake,1.06,2.65,0.13,10,automatic,nc,nc
 2023-07-14T02:50:05.370Z,38.7791672,-122.7249985,1.64,1.09,md,11,77,0.01003,0.01,nc,nc73912586,2023-07-14T02:51:41.906Z,"3 km E of The Geysers, CA",earthquake,0.35,1.03,0.16,11,automatic,nc,nc
 2023-07-14T02:49:18.630Z,38.7866669,-122.7151642,0.97,1.1,md,10,104,0.0172,0.03,nc,nc73912571,2023-07-14T03:45:13.402Z,"2 km WNW of Anderson Springs, CA",earthquake,0.32,0.72,0.14,11,automatic,nc,nc
-2023-07-14T02:48:46.780Z,38.7771683,-122.7145004,2.45,1.74,md,21,87,0.0149,0.07,nc,nc73912581,2023-07-14T02:51:27.753Z,"2 km W of Anderson Springs, CA",earthquake,0.31,0.48,0.21,19,automatic,nc,nc
+2023-07-14T02:48:46.780Z,38.7771683,-122.7145004,2.45,1.74,md,21,87,0.0149,0.07,nc,nc73912581,2023-07-14T03:55:11.466Z,"2 km W of Anderson Springs, CA",earthquake,0.31,0.48,0.21,19,automatic,nc,nc
 2023-07-14T02:48:09.230Z,38.7688332,-122.722168,-0.82,0.3,md,8,105,0.00753,0.28,nc,nc73912566,2023-07-14T02:50:52.339Z,"3 km WSW of Anderson Springs, CA",earthquake,0.79,2.8,0.05,4,automatic,nc,nc
 2023-07-14T02:47:48.220Z,38.784832,-122.7259979,-0.56,0.94,md,8,108,0.008534,0.01,nc,nc73912551,2023-07-14T03:24:14.262Z,"3 km ENE of The Geysers, CA",earthquake,0.41,1.56,0.14,8,automatic,nc,nc
 2023-07-14T02:47:28.950Z,38.7811661,-122.7233353,1.18,1.49,md,24,81,0.01067,0.04,nc,nc73912556,2023-07-14T03:34:13.334Z,"3 km WNW of Anderson Springs, CA",earthquake,0.22,0.36,0.19,22,automatic,nc,nc
@@ -135,7 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-13T15:36:33.860Z,38.839,-122.8308333,0.27,1.16,md,39,81,0.003657,0.04,nc,nc73912306,2023-07-13T20:50:14.893Z,"9 km NW of The Geysers, CA",earthquake,0.11,0.2,0.154,36,reviewed,nc,nc
 2023-07-13T15:15:06.818Z,61.3736,-146.7624,20.8,1.8,ml,,,,0.6,ak,ak0238x3a255,2023-07-13T15:16:56.919Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-13T15:09:45.599Z,61.7068,-149.5921,45.8,1.6,ml,,,,0.27,ak,ak0238x38uu7,2023-07-13T15:11:55.358Z,"9 km N of Meadow Lakes, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-07-13T15:01:19.867Z,31.59960035,-104.199245,6.131567383,2.9,ml,13,68,0.09130494001,0.1,tx,tx2023nptv,2023-07-13T15:09:47.301Z,"49 km NW of Toyah, Texas",earthquake,0.7620883599,1.716714732,0.2,11,reviewed,tx,tx
+2023-07-13T15:01:19.867Z,31.59960035,-104.199245,6.131567383,2.9,ml,13,68,0.09130494001,0.1,tx,tx2023nptv,2023-07-14T03:53:07.161Z,"49 km NW of Toyah, Texas",earthquake,0.7620883599,1.716714732,0.2,11,reviewed,tx,tx
 2023-07-13T14:48:47.560Z,38.8293343,-122.8218307,1.69,1.09,md,19,46,0.01093,0.05,nc,nc73912296,2023-07-13T16:34:14.219Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.45,0.31,19,automatic,nc,nc
 2023-07-13T14:47:43.990Z,38.829834,-122.8183365,1.72,0.81,md,13,89,0.00911,0.01,nc,nc73912286,2023-07-13T15:39:16.850Z,"8 km NW of The Geysers, CA",earthquake,0.34,0.48,0.39,13,automatic,nc,nc
 2023-07-13T14:47:00.010Z,38.8428333,-122.8756667,2.38,1.32,md,45,68,0.006188,0.04,nc,nc73912291,2023-07-13T20:27:15.771Z,"13 km NW of The Geysers, CA",earthquake,0.17,0.24,0.133,37,reviewed,nc,nc
