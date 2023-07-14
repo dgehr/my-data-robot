@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-14T13:51:25.910Z,38.8354988,-122.7911682,1.73,0.75,md,8,81,0.002976,0.01,nc,nc73912906,2023-07-14T13:53:02.778Z,"6 km WNW of Cobb, CA",earthquake,0.49,1.27,0.24,10,automatic,nc,nc
 2023-07-14T13:48:27.040Z,34.0183333,-116.7323333,14.88,1.26,ml,40,69,0.06487,0.17,ci,ci39612682,2023-07-14T13:51:56.632Z,"12km NNE of Cabazon, CA",earthquake,0.23,0.48,0.103,25,automatic,ci,ci
 2023-07-14T13:38:56.350Z,34.3186667,-116.7713333,1.32,1.39,ml,28,34,0.05491,0.19,ci,ci39612666,2023-07-14T13:42:35.895Z,"9km NE of Big Bear City, CA",earthquake,0.25,0.49,0.163,26,automatic,ci,ci
 2023-07-14T13:13:59.370Z,38.838665,-122.8249969,1.35,1.06,md,12,91,0.01602,0.03,nc,nc73912896,2023-07-14T13:43:13.974Z,"9 km WNW of Cobb, CA",earthquake,0.29,0.57,0.25,13,automatic,nc,nc
@@ -31,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-14T10:07:51.656Z,58.2009,-155.3849,0,0.3,ml,,,,0.39,ak,ak0238ynsmcd,2023-07-14T10:09:11.057Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
 2023-07-14T09:53:39.375Z,58.2381,-155.2112,0,0,ml,,,,0.52,ak,ak0238ynh0q9,2023-07-14T09:57:15.001Z,"Alaska Peninsula",earthquake,,62.1,,,automatic,ak,ak
 2023-07-14T09:49:57.200Z,38.7830009,-122.7228317,1.06,1.48,md,21,83,0.01086,0.05,nc,nc73912846,2023-07-14T13:12:15.761Z,"3 km WNW of Anderson Springs, CA",earthquake,0.25,0.53,0.17,22,automatic,nc,nc
-2023-07-14T09:29:01.360Z,15.0337,-93.8771,35,6.3,mww,116,75,2.086,0.94,us,us7000kfnc,2023-07-14T13:31:45.195Z,"near the coast of Chiapas, Mexico",earthquake,6.72,1.882,0.032,94,reviewed,us,us
+2023-07-14T09:29:01.360Z,15.0337,-93.8771,35,6.3,mww,116,75,2.086,0.94,us,us7000kfnc,2023-07-14T13:58:11.273Z,"near the coast of Chiapas, Mexico",earthquake,6.72,1.882,0.032,94,reviewed,us,us
 2023-07-14T08:46:26.058Z,65.7531,-155.3717,0,2.1,ml,,,,0.78,ak,ak0238ymu233,2023-07-14T08:49:01.578Z,"47 km E of Huslia, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-14T08:23:16.140Z,17.9445,-67.1156666666667,12.46,2.15,md,4,283,0.06183,0.04,pr,pr71417778,2023-07-14T09:54:39.600Z,"Puerto Rico region",earthquake,0.98,0.38,0.0127276237437304,3,reviewed,pr,pr
 2023-07-14T08:12:02.280Z,33.7611667,-116.1235,2.26,0.99,ml,33,88,0.1535,0.15,ci,ci39612474,2023-07-14T08:15:41.166Z,"10km ENE of Indio, CA",earthquake,0.21,0.74,0.154,26,automatic,ci,ci
