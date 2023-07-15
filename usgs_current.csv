@@ -2,7 +2,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T11:48:58.230Z,38.7286682,-122.918335,5.41,1.51,md,31,93,0.06898,0.05,nc,nc73913226,2023-07-15T11:51:40.829Z,"12 km SE of Cloverdale, CA",earthquake,0.25,0.95,0.24,29,automatic,nc,nc
 2023-07-15T11:46:15.350Z,33.3451667,-116.3765,11.14,0.63,ml,24,92,0.08397,0.26,ci,ci39613538,2023-07-15T11:49:46.052Z,"10km N of Borrego Springs, CA",earthquake,0.5,0.84,0.13,14,automatic,ci,ci
 2023-07-15T11:45:05.884Z,58.1906,-155.4086,9.6,0.3,ml,,,,0.88,ak,ak02390c5g4c,2023-07-15T11:46:41.791Z,"89 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-07-15T11:42:11.620Z,38.8501663,-122.809166,1.12,0.71,md,11,174,0.01195,0.07,nc,nc73913216,2023-07-15T11:43:45.191Z,"8 km WNW of Cobb, CA",earthquake,0.54,0.88,0.22,10,automatic,nc,nc
+2023-07-15T11:42:11.620Z,38.8501663,-122.809166,1.12,0.71,md,11,174,0.01195,0.07,nc,nc73913216,2023-07-15T11:58:15.940Z,"8 km WNW of Cobb, CA",earthquake,0.54,0.88,0.22,10,automatic,nc,nc
+2023-07-15T11:31:00.005Z,31.6874,-104.2899,5,2.7,ml,12,119,0.542,0.61,us,us7000kfys,2023-07-15T11:58:07.040Z,"western Texas",earthquake,4.23,1.98,0.148,24,reviewed,us,us
 2023-07-15T11:26:37.690Z,37.6258316,-119.0223312,2.28,1.14,md,10,83,0.01146,0.02,nc,nc73913211,2023-07-15T11:47:22.875Z,"4 km WSW of Mammoth Lakes, CA",earthquake,0.38,0.79,0.22,8,automatic,nc,nc
 2023-07-15T11:15:29.750Z,38.8235016,-122.7958298,2.54,1.08,md,16,56,0.01113,0.05,nc,nc73913206,2023-07-15T11:35:16.798Z,"6 km NNW of The Geysers, CA",earthquake,0.32,0.88,0.31,16,automatic,nc,nc
 2023-07-15T11:05:34.570Z,19.6435,-65.7483333333333,64.09,3.3,md,7,299,1.376,0.14,pr,pr71417983,2023-07-15T11:31:29.400Z,"134 km N of Suárez, Puerto Rico",earthquake,2.27,7.64,0.0048716559894153,3,reviewed,pr,pr
@@ -219,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-14T12:04:21.228Z,61.9732,-150.4888,18.4,1.1,ml,,,,0.44,ak,ak0238yoys22,2023-07-14T12:06:10.194Z,"34 km NW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-14T12:03:44.180Z,38.8390007,-122.8115005,1.76,0.58,md,9,112,0.01562,0.01,nc,nc73912876,2023-07-14T12:22:14.465Z,"8 km WNW of Cobb, CA",earthquake,0.36,1.26,0.31,9,automatic,nc,nc
 2023-07-14T12:01:19.471Z,31.5375493,-104.1523241,5.334619141,2,ml,17,76,0.08394276471,0.2,tx,tx2023nrjk,2023-07-14T15:34:51.851Z,"42 km NW of Toyah, Texas",earthquake,1.037963056,2.1377199419999995,0.1,7,reviewed,tx,tx
-2023-07-14T11:58:35.746Z,58.2406,-155.184,2.2,0.7,ml,,,,0.67,ak,ak0238yooy8m,2023-07-14T12:00:33.382Z,"86 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
