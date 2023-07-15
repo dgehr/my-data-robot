@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-15T23:17:20.933Z,64.9924,-147.397,1.5,1.6,ml,,,,1.01,ak,ak02390j4ohp,2023-07-15T23:20:18.212Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-07-15T23:08:40.410Z,38.8381653,-122.8073349,2.15,0.74,md,17,54,0.01327,0.02,nc,nc73913456,2023-07-15T23:11:34.086Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.65,0.27,18,automatic,nc,nc
 2023-07-15T23:00:35.953Z,58.1756,-155.5618,23.6,0.6,ml,,,,0.68,ak,ak02390j12h7,2023-07-15T23:01:59.927Z,"Alaska Peninsula",earthquake,,2.3,,,automatic,ak,ak
 2023-07-15T22:37:43.371Z,58.2468,-155.2015,0.1,0.5,ml,,,,0.5,ak,ak02390inkxt,2023-07-15T22:39:10.598Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-07-15T22:35:36.690Z,38.7874985,-122.7251663,1.81,0.75,md,7,120,0.009986,0.01,nc,nc73913451,2023-07-15T22:52:13.891Z,"3 km ENE of The Geysers, CA",earthquake,0.4,0.79,0.13,7,automatic,nc,nc
@@ -25,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T20:22:10.040Z,33.4878333,-116.402,9.76,0.61,ml,18,89,0.04063,0.21,ci,ci39613818,2023-07-15T20:25:46.237Z,"21km SSW of La Quinta, CA",earthquake,0.45,0.79,0.062,8,automatic,ci,ci
 2023-07-15T20:22:00.210Z,38.8181648,-122.8063354,3.59,0.66,md,8,95,0.005984,0.02,nc,nc73913411,2023-07-15T20:52:14.175Z,"6 km NW of The Geysers, CA",earthquake,0.86,1.28,0.32,10,automatic,nc,nc
 2023-07-15T20:01:22.886Z,38.5316,-118.1682,8.3,1.2,ml,7,73.19,0.385,0.2532,nn,nn00862681,2023-07-15T22:54:25.431Z,"California-Nevada border region",earthquake,,5.6,0.26,5,reviewed,nn,nn
-2023-07-15T19:57:25.040Z,38.8338318,-122.8030014,1.94,1.29,md,22,71,0.01089,0.01,nc,nc73913401,2023-07-15T20:51:11.169Z,"7 km W of Cobb, CA",earthquake,0.19,0.38,0.19,24,automatic,nc,nc
+2023-07-15T19:57:25.040Z,38.8338318,-122.8030014,1.94,1.29,md,22,71,0.01089,0.01,nc,nc73913401,2023-07-15T23:12:35.028Z,"7 km W of Cobb, CA",earthquake,0.19,0.38,0.19,24,automatic,nc,nc
 2023-07-15T19:57:05.900Z,38.8359985,-122.8170013,1.6,0.75,md,7,97,0.0137,0.01,nc,nc73913396,2023-07-15T20:22:15.118Z,"8 km W of Cobb, CA",earthquake,0.49,1.63,0.16,9,automatic,nc,nc
 2023-07-15T19:52:17.850Z,34.295,-116.8365,5.44,1.04,ml,23,47,0.05342,0.23,ci,ci39613802,2023-07-15T19:55:51.944Z,"4km NNE of Big Bear City, CA",earthquake,0.41,1.19,0.112,18,automatic,ci,ci
 2023-07-15T19:49:18.450Z,38.8338318,-122.8125,1.8,0.27,md,12,52,0.01059,0.01,nc,nc73913391,2023-07-15T20:12:16.932Z,"8 km W of Cobb, CA",earthquake,0.31,0.9,0.16,13,automatic,nc,nc
@@ -218,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T00:15:32.166Z,63.4205,-149.7921,119.9,1.1,ml,,,,0.1,ak,ak023905fb0g,2023-07-15T00:17:45.688Z,"42 km W of Cantwell, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-07-15T00:02:01.950Z,19.1143341064453,-155.408172607422,33.4799995422363,1.95000005,md,29,191,,0.100000001,hv,hv73481972,2023-07-15T00:05:15.640Z,"12 km SE of Pāhala, Hawaii",earthquake,0.72,1.25999999,1.63,10,automatic,hv,hv
 2023-07-14T23:29:16.247Z,63.2684,-149.7635,74.8,1.3,ml,,,,0.64,ak,ak0238yvnw88,2023-07-14T23:31:38.599Z,"42 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-07-14T23:22:12.630Z,59.9825,-152.5421,85.2,1.7,ml,,,,0.16,ak,ak0238yvmdxr,2023-07-14T23:23:26.806Z,"Southern Alaska",earthquake,,1.3,,,automatic,ak,ak
-2023-07-14T23:16:21.215Z,58.1624,-155.4499,15.4,0.7,ml,,,,0.99,ak,ak0238yvl4ax,2023-07-14T23:17:46.775Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
