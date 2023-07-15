@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-15T07:17:38.550Z,38.8204994,-122.7734985,1.07,0.78,md,9,121,0.009154,0.03,nc,nc73913136,2023-07-15T07:19:14.847Z,"4 km W of Cobb, CA",earthquake,0.36,0.67,0.09,12,automatic,nc,nc
+2023-07-15T07:16:11.530Z,34.1396675,-117.4041672,6.83,0.97,ml,13,145,0.1163,0.11,ci,ci39613466,2023-07-15T07:19:35.217Z,"5 km NW of Rialto, CA",earthquake,0.63,2.06,0.34,4,automatic,ci,ci
+2023-07-15T07:14:36.000Z,38.8041649,-122.7763367,2.93,1.05,md,10,83,0.009696,0.01,nc,nc73913131,2023-07-15T07:17:19.846Z,"4 km NNW of The Geysers, CA",earthquake,0.33,0.78,0.19,11,automatic,nc,nc
 2023-07-15T07:04:18.312Z,58.9477,-154.0811,104.3,2,ml,,,,0.27,ak,ak023909iyav,2023-07-15T07:06:00.461Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-07-15T06:56:09.540Z,18.0078333333333,-66.8195,15.11,2.69,md,7,161,0.06555,0.1,pr,pr71417953,2023-07-15T07:07:19.940Z,"1 km N of Indios, Puerto Rico",earthquake,0.63,0.84,0.183598507414513,5,reviewed,pr,pr
 2023-07-15T06:52:50.914Z,31.6031,-114.4651,13.528,2.6,ml,31,118,0.653,0.76,us,us7000kfxl,2023-07-15T07:02:38.040Z,"9 km SSE of Golfo de Santa Clara, Mexico",earthquake,3.94,8.546,0.048,56,reviewed,us,us
