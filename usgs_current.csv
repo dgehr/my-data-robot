@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-16T03:44:32.280Z,35.9995,-117.9835,2.58,1.26,ml,18,123,0.1415,0.14,ci,ci39613978,2023-07-16T03:48:11.383Z,"6km SSW of Coso Junction, CA",earthquake,0.29,0.87,0.075,8,automatic,ci,ci
 2023-07-16T03:42:16.590Z,36.2900009,-120.8686676,4.57,1.15,md,8,118,0.07536,0.13,nc,nc73913501,2023-07-16T03:45:04.718Z,"22 km NE of San Lucas, CA",earthquake,0.66,1.42,,1,automatic,nc,nc
 2023-07-16T03:34:29.747Z,63.2693,-151.7372,0,2,ml,,,,1.09,ak,ak02391uv0qm,2023-07-16T03:36:38.550Z,"30 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-16T03:27:20.246Z,59.5004,-151.7341,56.5,1.4,ml,,,,0.38,ak,ak02391uthzs,2023-07-16T03:29:52.088Z,"Kenai Peninsula, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -156,6 +157,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T08:28:33.986Z,60.9278,-149.3479,23.5,1.7,ml,,,,0.46,ak,ak02390a9kau,2023-07-15T08:30:16.687Z,"Kenai Peninsula, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-15T08:26:05.080Z,58.246,-155.147166666667,3.56,-0.29,ml,7,209,,0.06,av,av91963946,2023-07-16T03:23:06.150Z,"85 km NNW of Karluk, Alaska",earthquake,0.37,0.5,0.141851276611183,7,reviewed,av,av
 2023-07-15T08:25:33.780Z,33.9903333,-116.441,1.57,1.83,ml,57,34,0.05631,0.17,ci,ci39613482,2023-07-15T08:29:05.153Z,"6km ENE of Desert Hot Springs, CA",earthquake,0.18,0.34,0.196,26,automatic,ci,ci
+2023-07-15T08:19:10.940Z,58.261,-155.1365,31.63,-0.27,ml,10,91,,0.11,av,av91110448,2023-07-16T03:48:01.490Z,"Alaska Peninsula",earthquake,0.49,0.67,0.339770160920367,10,reviewed,av,av
 2023-07-15T08:17:43.035Z,36.6965,-116.3389,8.1,-0.4,ml,8,129.62,0.026,0.0596,nn,nn00862667,2023-07-15T15:51:35.490Z,"44 km ESE of Beatty, Nevada",earthquake,,1.8,0,1,reviewed,nn,nn
 2023-07-15T08:14:34.970Z,18.6925,-66.4543333333333,36.9,3.3,md,12,217,0.2258,0.27,pr,pr71417973,2023-07-15T11:48:57.526Z,"Puerto Rico region",earthquake,1.07,1.77,0.121967209206794,8,reviewed,pr,pr
 2023-07-15T08:12:56.410Z,58.2525,-155.124833333333,31.73,-0.58,ml,9,108,,0.14,av,av91110443,2023-07-16T03:41:21.860Z,"85 km NNW of Karluk, Alaska",earthquake,0.55,0.76,0.22184117845862,9,reviewed,av,av
@@ -219,5 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T04:03:34.670Z,32.5446667,-117.0305,8.84,1.53,ml,23,100,0.03984,0.14,ci,ci39613410,2023-07-15T04:07:14.821Z,"1km ESE of San Ysidro, CA",earthquake,0.28,0.51,0.199,18,automatic,ci,ci
 2023-07-15T04:00:59.750Z,38.8078333,-122.8191667,2.51,1.36,md,47,52,0.00789,0.05,nc,nc73913081,2023-07-15T07:28:14.345Z,"6 km WNW of The Geysers, CA",earthquake,0.14,0.22,0.154,40,reviewed,nc,nc
 2023-07-15T03:58:17.320Z,19.1568336486816,-155.492660522461,32.3600006103516,1.90999997,md,26,165,,0.170000002,hv,hv73482197,2023-07-15T04:01:18.630Z,"Island of Hawaii, Hawaii",earthquake,0.89,1.36000001,0.529999971,7,automatic,hv,hv
-2023-07-15T03:50:09.371Z,61.4026,-147.8043,24.4,1.1,ml,,,,0.61,ak,ak023907f24p,2023-07-15T03:51:55.091Z,"45 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-15T03:49:36.710Z,18.8915,-64.9261,6,3.71,md,22,273,0.5394,0.19,pr,pr2023196000,2023-07-15T04:43:24.418Z,"60 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.83,1.74,0.15,12,reviewed,pr,pr
