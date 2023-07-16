@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T09:52:31.790Z,53.8665,-166.680666666667,8.92,0.34,ml,6,215,,0.1,av,av91964031,2023-07-16T04:47:15.960Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.51,0.54,0.167575291721693,6,reviewed,av,av
 2023-07-15T09:49:21.815Z,62.4455,-150.5312,80.4,1.2,ml,,,,1.12,ak,ak02390azh05,2023-07-15T09:51:23.228Z,"13 km ESE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-15T09:39:32.408Z,37.3011,-117.2708,20.9,0.4,ml,7,173.33,0.306,0.2,nn,nn00862660,2023-07-15T16:01:04.268Z,"45 km S of Goldfield, Nevada",earthquake,,2.2,0.7,7,reviewed,nn,nn
-2023-07-15T09:34:52.870Z,33.8693333,-117.757,9.19,0.9,ml,21,47,0.04897,0.19,ci,ci39613514,2023-07-15T09:38:24.536Z,"6km ESE of Yorba Linda, CA",earthquake,0.36,0.8,0.126,14,automatic,ci,ci
