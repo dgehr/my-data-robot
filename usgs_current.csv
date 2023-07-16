@@ -70,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T21:23:17.540Z,34.5478333,-118.9811667,13.32,2.4,ml,56,27,0.08662,0.27,ci,ci39613850,2023-07-15T21:34:01.180Z,"18km NNW of Fillmore, CA",earthquake,0.3,0.79,0.199,26,automatic,ci,ci
 2023-07-15T21:15:02.555Z,63.0922,-150.5073,29.2,1,ml,,,,0.95,ak,ak02390hxcfj,2023-07-15T21:17:01.264Z,"67 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-15T21:11:36.541Z,48.2363,154.8145,35,5.1,mb,123,82,5.211,0.52,us,us7000kg0p,2023-07-16T01:09:31.040Z,"287 km SSW of Severo-Kuril’sk, Russia",earthquake,5.28,1.726,0.027,454,reviewed,us,us
-2023-07-15T21:10:28.220Z,37.6293333,-119.0168333,0.73,0.34,md,4,148,0.007464,0.07,nc,nc73913431,2023-07-16T05:28:41.047Z,"3 km WSW of Mammoth Lakes, CA",earthquake,1.33,2.25,0.268,4,reviewed,nc,nc
+2023-07-15T21:10:28.220Z,37.6293333,-119.0168333,0.73,0.34,md,4,148,0.007464,0.07,nc,nc73913431,2023-07-16T05:49:15.530Z,"3 km WSW of Mammoth Lakes, CA",earthquake,1.33,2.25,0.268,4,reviewed,nc,nc
 2023-07-15T21:09:21.042Z,38.5286,-118.1555,4.7,1.1,ml,8,74.23,0.39,0.2676,nn,nn00862682,2023-07-15T23:00:43.494Z,"Nevada",earthquake,,1.6,0.23,5,reviewed,nn,nn
 2023-07-15T21:00:28.170Z,34.015,-116.322,8.6,1.6,ml,41,45,0.07821,0.17,ci,ci39613842,2023-07-15T21:11:20.670Z,"13km S of Joshua Tree, CA",earthquake,0.22,0.62,0.216,27,automatic,ci,ci
 2023-07-15T21:00:16.035Z,61.5452,-149.8089,33.3,2,ml,,,,0.45,ak,ak02390hu5qb,2023-07-15T21:01:59.524Z,"8 km ENE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
