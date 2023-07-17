@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-17T07:16:52.170Z,38.8308334,-122.819664,1.77,1.09,md,13,53,0.01426,0.02,nc,nc73913871,2023-07-17T07:19:33.307Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.46,0.16,14,automatic,nc,nc
+2023-07-17T07:01:48.390Z,-18.9609,-69.7422,99.347,4.3,mb,33,120,0.817,0.67,us,us7000kgax,2023-07-17T07:21:32.040Z,"51 km ENE of Cuya, Chile",earthquake,4.47,6.894,0.122,19,reviewed,us,us
 2023-07-17T07:01:45.650Z,17.9616666666667,-66.8335,11.93,2.34,md,10,204,0.04554,0.22,pr,pr71418278,2023-07-17T07:13:16.780Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.66,0.66,0.129324385859838,5,reviewed,pr,pr
 2023-07-17T06:56:22.120Z,19.2631664276123,-155.369506835938,30.5900001525879,2.18,ml,47,155,,0.129999995,hv,hv73484747,2023-07-17T07:01:54.220Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.46,0.639999986,2.32,16,automatic,hv,hv
 2023-07-17T06:46:34.078Z,59.8266,-151.8657,64.1,1.1,ml,,,,0.45,ak,ak02393k98z3,2023-07-17T06:48:18.133Z,"5 km NNW of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -95,7 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T19:33:20.780Z,31.5301667,-114.3841667,5.96,3.11,ml,8,133,0.5271,0.34,ci,ci39614330,2023-07-16T21:00:11.797Z,"94km SE of Estacion Coahuila, B.C., MX",earthquake,0.78,31.61,0.187,75,reviewed,ci,ci
 2023-07-16T19:25:55.245Z,27.3262,54.4283,10,4.1,mb,31,145,2.858,0.73,us,us7000kg6y,2023-07-16T20:41:11.040Z,"47 km SE of Gerāsh, Iran",earthquake,9.96,1.93,0.109,23,reviewed,us,us
 2023-07-16T19:18:13.825Z,11.2114,125.4522,10.898,4.5,mb,36,113,4.117,0.68,us,us7000kg75,2023-07-16T20:35:53.040Z,"9 km NW of Quinapundan, Philippines",earthquake,13.34,4.46,0.094,33,reviewed,us,us
-2023-07-16T19:16:05.100Z,31.5663333,-114.4146667,5.97,4.57,mw,14,127,0.4826,0.33,ci,ci39614322,2023-07-17T05:51:21.458Z,"89km SE of Estacion Coahuila, B.C., MX",earthquake,0.53,31.61,,6,reviewed,ci,ci
+2023-07-16T19:16:05.100Z,31.5663333,-114.4146667,5.97,4.57,mw,14,127,0.4826,0.33,ci,ci39614322,2023-07-17T07:19:20.502Z,"89km SE of Estacion Coahuila, B.C., MX",earthquake,0.53,31.61,,6,reviewed,ci,ci
 2023-07-16T19:15:20.294Z,39.3965,-119.7177,5.4,0.7,ml,7,124.31,0.037,0.1326,nn,nn00862820,2023-07-16T20:09:27.020Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.7,0.39,4,reviewed,nn,nn
 2023-07-16T19:14:43.490Z,38.8359985,-122.7699966,1.96,1.04,md,14,143,0.00552,0.03,nc,nc73913711,2023-07-16T20:40:11.858Z,"4 km WNW of Cobb, CA",earthquake,0.29,0.46,0.07,14,automatic,nc,nc
 2023-07-16T19:11:39.600Z,36.5698318,-121.1549988,7.15,1.69,md,12,132,0.02455,0.06,nc,nc73913706,2023-07-16T20:13:11.694Z,"4 km NNW of Pinnacles, CA",earthquake,0.5,0.7,0.33,6,automatic,nc,nc
