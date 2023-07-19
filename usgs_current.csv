@@ -201,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-18T21:11:44.959Z,54.7017,-156.8719,9.924,4,mb,62,158,1.58,0.5,us,us7000kgnd,2023-07-18T22:45:00.040Z,"south of Alaska",earthquake,5.75,4.461,0.232,7,reviewed,us,us
 2023-07-18T21:06:58.640Z,17.9446666666667,-67.0231666666667,9.71,2.55,md,9,230,0.03175,0.05,pr,pr71418368,2023-07-18T21:16:10.810Z,"4 km SE of La Parguera, Puerto Rico",earthquake,0.89,0.41,0.151952436414425,5,reviewed,pr,pr
 2023-07-18T20:56:31.130Z,33.2776667,-115.9876667,4.48,0.91,ml,20,109,0.002864,0.14,ci,ci39615762,2023-07-19T19:30:59.795Z,"4km SW of Salton City, CA",earthquake,0.2,0.29,0.098,7,reviewed,ci,ci
-2023-07-18T20:43:02.447Z,64.7523,-149.218,16.4,0.7,ml,,,,0.51,ak,ak02395g3yck,2023-07-18T20:45:01.538Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
