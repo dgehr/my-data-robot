@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-20T19:22:20.030Z,38.8428345,-122.8253326,1.71,0.94,md,14,95,0.008992,0.01,nc,nc73915021,2023-07-20T19:23:55.537Z,"9 km WNW of Cobb, CA",earthquake,0.29,0.6,0.26,17,automatic,nc,nc
 2023-07-20T19:08:25.758Z,60.1936,-141.3576,14.3,1.6,ml,,,,0.39,ak,ak02398qdrgv,2023-07-20T19:10:14.914Z,"116 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-20T18:58:32.195Z,58.7204,-153.5989,13.4,2.2,ml,,,,0.34,ak,ak02398q325v,2023-07-20T18:59:55.301Z,"83 km NNW of Aleneva, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-20T18:58:15.013Z,58.717,-153.65,6.5,2.1,ml,,,,0.47,ak,ak02398q30u5,2023-07-20T18:59:47.195Z,"85 km NNW of Aleneva, Alaska",earthquake,,2.6,,,automatic,ak,ak
@@ -226,5 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T19:30:23.840Z,32.6516667,-116.9546667,-0.44,0.93,ml,10,181,0.04845,0.27,ci,ci39616794,2023-07-19T23:52:45.436Z,"7km E of Bonita, CA",quarry blast,1.11,31.61,0.03,4,reviewed,ci,ci
 2023-07-19T19:28:12.050Z,35.7708333,-117.5936667,7.36,0.72,ml,16,67,0.04492,0.14,ci,ci39616802,2023-07-20T17:22:08.768Z,"17km W of Searles Valley, CA",earthquake,0.26,0.53,0.035,4,reviewed,ci,ci
 2023-07-19T19:26:23.449Z,58.2254,-154.0619,25.1,1.6,ml,,,,0.72,ak,ak023972y9oo,2023-07-19T19:27:53.626Z,"70 km WNW of Aleneva, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-07-19T19:24:29.189Z,37.7821,-116.1602,3.1,2.3,ml,24,162.35,0.355,0.1532,nn,nn00863012,2023-07-19T21:07:46.498Z,"39 km WNW of Rachel, Nevada",earthquake,,5.6,0.34,16,reviewed,nn,nn
-2023-07-19T19:21:42.030Z,35.633,-117.4526667,8.4,0.73,ml,16,71,0.03978,0.13,ci,ci39616762,2023-07-19T23:34:45.189Z,"16km SSW of Searles Valley, CA",earthquake,0.23,0.41,0.161,8,reviewed,ci,ci
