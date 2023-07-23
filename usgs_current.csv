@@ -1,8 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-23T17:06:05.529Z,63.0904,-151.5168,8.2,1.4,ml,,,,0.6,ak,ak0239dnsgqw,2023-07-23T17:08:07.288Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-07-23T17:02:49.536Z,62.0598,-149.6581,35,0.9,ml,,,,0.32,ak,ak0239dnrpa1,2023-07-23T17:04:08.854Z,"15 km SE of Susitna North, Alaska",earthquake,,5.9,,,automatic,ak,ak
 2023-07-23T16:48:04.770Z,35.909,-117.7516667,7.91,1.04,ml,16,111,0.06705,0.14,ci,ci39619898,2023-07-23T16:51:32.863Z,"14km ESE of Little Lake, CA",earthquake,0.28,0.71,0.258,7,automatic,ci,ci
 2023-07-23T16:43:17.880Z,33.8943333,-116.3676667,6.52,0.51,ml,9,109,0.05749,0.25,ci,ci39619890,2023-07-23T16:46:56.014Z,"8km NNE of Thousand Palms, CA",earthquake,0.53,1.35,0.211,6,automatic,ci,ci
+2023-07-23T16:31:23.782Z,22.2979,94.3959,100.018,4,mb,16,137,2.889,0.51,us,us7000khu1,2023-07-23T17:02:41.040Z,"79 km WNW of Monywa, Myanmar",earthquake,16.7,11.317,0.211,7,reviewed,us,us
 2023-07-23T16:27:50.175Z,64.7537,-151.1548,16.9,1,ml,,,,0.56,ak,ak0239dnbmmh,2023-07-23T16:30:09.434Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-23T16:26:17.430Z,18.153,-66.7226666666667,21.51,2.26,md,17,87,0.09927,0.07,pr,pr71419023,2023-07-23T16:51:45.540Z,"Puerto Rico region",earthquake,0.24,0.49,0.148553651226416,10,reviewed,pr,pr
+2023-07-23T16:05:15.355Z,37.4711,-115.3405,3.5,1.1,ml,11,167.25,0.239,0.1696,nn,nn00863152,2023-07-23T17:07:26.827Z,"17 km SW of Hiko, Nevada",earthquake,,5.2,0.46,6,reviewed,nn,nn
 2023-07-23T16:02:25.520Z,-49.3085,-10.4054,10,4.9,mb,24,78,16.836,0.76,us,us7000khty,2023-07-23T16:18:03.040Z,"southwestern Atlantic Ocean",earthquake,6.56,1.912,0.112,25,reviewed,us,us
 2023-07-23T15:59:54.220Z,19.1461658477783,-155.499664306641,31.8199996948242,2.1400001,md,36,155,,0.0900000036,hv,hv73494252,2023-07-23T16:03:00.750Z,"Island of Hawaii, Hawaii",earthquake,0.5,0.819999993,0.00999999978,5,automatic,hv,hv
 2023-07-23T15:55:24.900Z,42.27016666666667,-124.4085,-0.24,1.43,ml,9,212,0.06071,0.31,uw,uw61943111,2023-07-23T16:14:53.680Z,"1 km SW of Pistol River, Oregon",earthquake,0.9,0.52,0.07249816685390986,5,reviewed,uw,uw
@@ -12,6 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-23T15:22:13.550Z,19.3899993896484,-155.275665283203,0.800000011920929,2.66,ml,36,51,,0.189999998,hv,hv73494227,2023-07-23T16:27:06.040Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.230000004,2.72,24,automatic,hv,hv
 2023-07-23T15:05:15.307Z,64.9652,-149.7203,18.9,0.6,ml,,,,0.2,ak,ak0239dmlekq,2023-07-23T15:07:40.847Z,"27 km SW of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-23T15:03:21.175Z,63.2749,-151.0223,8.5,1,ml,,,,0.81,ak,ak0239dmkzlc,2023-07-23T15:06:02.486Z,"45 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-07-23T14:38:34.802Z,40.0708,-119.6938,15.9,1.1,ml,5,163.02,0.104,0.1503,nn,nn00863158,2023-07-23T16:58:02.410Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,2.6,0.29,5,reviewed,nn,nn
 2023-07-23T14:25:26.272Z,43.6426,-110.1656,2.957,2.5,ml,20,108,0.32,0.61,us,us7000khtn,2023-07-23T15:48:18.040Z,"37 km E of Kelly, Wyoming",earthquake,2.18,3.113,0.069,28,reviewed,us,us
 2023-07-23T14:23:49.320Z,35.6816597,-98.12252045,5.201623917,2,ml,17,66.70233154,0.08036170155,0.535036611,ok,ok2023ohzq,2023-07-23T14:26:44.263Z,"Oklahoma",earthquake,3.510077987,4.074165369,0.31,14,automatic,ok,ok
 2023-07-23T14:20:14.871Z,60.5626,-151.7337,91.1,1.1,ml,,,,0.96,ak,ak0239dm36jx,2023-07-23T14:22:45.995Z,"23 km WSW of Salamatof, Alaska",earthquake,,2.2,,,automatic,ak,ak
