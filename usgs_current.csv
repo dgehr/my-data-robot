@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-24T15:34:35.070Z,34.0081673,-117.2001648,12.77,1.11,ml,21,134,0.1464,0.26,ci,ci39620578,2023-07-24T15:38:01.836Z,"6 km SSW of Redlands, CA",earthquake,0.56,2.3,0.294,7,automatic,ci,ci
 2023-07-24T15:03:47.299Z,58.1974,-155.2935,0,0.9,ml,,,,0.73,ak,ak0239fa4e3t,2023-07-24T15:05:53.171Z,"85 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-24T14:55:03.850Z,33.9401667,-116.022,6.73,1.27,ml,26,88,0.06344,0.17,ci,ci39620546,2023-07-24T15:05:33.860Z,"22km SSE of Twentynine Palms, CA",earthquake,0.27,0.67,0.147,28,automatic,ci,ci
 2023-07-24T14:38:59.900Z,38.8110008,-122.8141632,3.65,0.88,md,7,154,0.01192,0.01,nc,nc73916196,2023-07-24T14:57:15.625Z,"6 km NW of The Geysers, CA",earthquake,0.63,1.7,0.27,7,automatic,nc,nc
@@ -185,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-23T15:55:24.900Z,42.27016666666667,-124.4085,-0.24,1.43,ml,9,212,0.06071,0.31,uw,uw61943111,2023-07-23T16:14:53.680Z,"near the coast of Oregon",earthquake,0.9,0.52,0.07249816685390986,5,reviewed,uw,uw
 2023-07-23T15:54:03.824Z,-3.203,139.8968,51.615,4.5,mb,18,105,1.056,0.8,us,us7000khtw,2023-07-23T16:38:58.040Z,"105 km SW of Abepura, Indonesia",earthquake,6.35,11.528,0.139,15,reviewed,us,us
 2023-07-23T15:51:47.750Z,17.9163333333333,-66.519,13.68,3.29,md,21,195,0.1131,0.14,pr,pr71419013,2023-07-23T16:19:10.000Z,"8 km SSW of Potala Pastillo, Puerto Rico",earthquake,0.44,0.29,0.117189461434532,15,reviewed,pr,pr
-2023-07-23T15:33:11.082Z,63.0184,-149.1733,73.9,0.8,ml,,,,0.23,ak,ak0239dmreas,2023-07-23T15:34:43.749Z,"43 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
