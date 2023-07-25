@@ -192,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T05:58:07.990Z,38.8168335,-122.7958298,2.4,1.27,md,18,47,0.008862,0.02,nc,nc73916066,2023-07-24T08:30:14.261Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.44,0.2,15,automatic,nc,nc
 2023-07-24T05:56:20.364Z,61.6323,-146.5314,28.6,2,ml,,,,0.68,ak,ak0239f4hcxg,2023-07-24T05:57:52.490Z,"41 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-24T05:55:01.210Z,33.7713333,-116.121,9.31,0.43,ml,18,90,0.08748,0.11,ci,ci39620170,2023-07-24T18:32:46.270Z,"10km ENE of Indio, CA",earthquake,0.2,0.73,0.127,7,reviewed,ci,ci
-2023-07-24T05:47:42.890Z,33.2035,-116.3841667,12.17,0.83,ml,46,53,0.0702,0.19,ci,ci39620162,2023-07-24T18:28:04.813Z,"6km S of Borrego Springs, CA",earthquake,0.18,0.53,0.076,15,reviewed,ci,ci
