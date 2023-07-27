@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-27T06:59:21.446Z,61.353,-141.1538,11,1.2,ml,,,,0.25,ak,ak0239k3ph8w,2023-07-27T07:01:07.525Z,"94 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-27T06:12:03.545Z,63.143,-149.7615,81.3,0.8,ml,,,,0.48,ak,ak0239k3fd7m,2023-07-27T06:13:49.810Z,"49 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-27T06:07:29.915Z,58.1635,-155.5793,20.2,0.7,ml,,,,1.14,ak,ak0239k3ecnz,2023-07-27T06:09:55.197Z,"86 km SE of King Salmon, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-27T06:01:39.510Z,59.6848,-152.9833,99,1.3,ml,,,,0.56,ak,ak0239k3d33z,2023-07-27T06:04:20.435Z,"64 km E of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -187,7 +188,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-26T11:50:57.630Z,46.38366666666667,-122.23316666666666,3.93,0.6900000000000001,ml,10,183,0.03484,0.09,uw,uw61943991,2023-07-26T18:46:11.080Z,"19 km S of Morton, Washington",earthquake,0.56,0.78,0.12109604893269277,6,reviewed,uw,uw
 2023-07-26T11:49:55.180Z,44.6191666666667,-112.5905,7.6,0.49,ml,8,73,0.03825,0.06,mb,mb90022533,2023-07-26T14:40:26.330Z,"1 km S of Lima, Montana",earthquake,0.32,0.55,0.212806931535577,6,reviewed,mb,mb
 2023-07-26T11:48:58.947Z,40.6033,-119.3895,14.8,2.2,ml,4,106.97,0.506,0.0727,nn,nn00863299,2023-07-26T22:12:23.820Z,"5 km NW of Empire, Nevada",earthquake,,3,0.1,4,reviewed,nn,nn
-2023-07-26T11:48:00.870Z,38.8315,-122.8138333,2.02,1.74,md,56,26,0.008609,0.04,nc,nc73916921,2023-07-27T06:41:11.945Z,"8 km NW of The Geysers, CA",earthquake,0.1,0.19,0.168,49,reviewed,nc,nc
+2023-07-26T11:48:00.870Z,38.8315,-122.8138333,2.02,1.74,md,56,26,0.008609,0.04,nc,nc73916921,2023-07-27T07:07:15.109Z,"8 km NW of The Geysers, CA",earthquake,0.1,0.19,0.168,49,reviewed,nc,nc
 2023-07-26T11:47:03.550Z,36.2021667,-120.3168333,8.05,1.14,md,16,191,0.07447,0.05,nc,nc73916926,2023-07-26T20:33:16.043Z,"8 km NNE of Coalinga, CA",earthquake,0.36,0.39,0.151,9,reviewed,nc,nc
 2023-07-26T11:45:56.895Z,37.1268,-115.298,1.7,0.7,ml,17,155.73,0.342,0.1393,nn,nn00863298,2023-07-26T21:53:46.973Z,"28 km SSW of Alamo, Nevada",earthquake,,4.9,0.22,10,reviewed,nn,nn
 2023-07-26T11:45:41.046Z,63.4853,-147.7456,3.9,1.6,ml,,,,0.55,ak,ak0239ij2c9k,2023-07-26T11:47:28.757Z,"61 km E of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -237,5 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-26T07:52:09.950Z,38.8375,-122.8083333,2.33,0.34,md,11,75,0.01408,0.02,nc,nc73916826,2023-07-26T19:27:16.650Z,"8 km WNW of Cobb, CA",earthquake,0.34,1.12,0.346,11,reviewed,nc,nc
 2023-07-26T07:51:41.900Z,38.8371658,-122.8068314,2.16,1.77,md,35,32,0.01294,0.02,nc,nc73916821,2023-07-26T08:25:11.705Z,"7 km WNW of Cobb, CA",earthquake,0.18,0.29,0.13,35,automatic,nc,nc
 2023-07-26T07:20:33.447Z,58.1787,-155.3419,1.1,0,ml,,,,0.68,ak,ak0239igj8cw,2023-07-26T07:22:07.697Z,"85 km NW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2023-07-26T07:04:02.270Z,34.0045,-116.7966667,13.2,1.37,ml,61,31,0.03194,0.14,ci,ci39622402,2023-07-26T19:50:34.120Z,"10km N of Cabazon, CA",earthquake,0.12,0.29,0.175,40,reviewed,ci,ci
-2023-07-26T07:03:12.980Z,38.7771,48.8788,55.61,4.7,mb,66,161,0.618,1.32,us,us6000kvlp,2023-07-27T06:05:34.363Z,"3 km NE of Lankaran, Azerbaijan",earthquake,2.84,7.276,0.05,122,reviewed,us,us
