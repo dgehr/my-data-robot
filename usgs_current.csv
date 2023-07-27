@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-27T15:40:04.090Z,38.8429985,-122.8388367,2.05,0.44,md,10,92,0.005122,0.01,nc,nc73917321,2023-07-27T15:41:40.111Z,"10 km NW of The Geysers, CA",earthquake,0.31,0.72,0.24,11,automatic,nc,nc
 2023-07-27T15:32:56.260Z,38.8186684,-122.8246689,2.16,0.43,md,8,89,0.009232,0.01,nc,nc73917316,2023-07-27T15:34:30.398Z,"8 km NW of The Geysers, CA",earthquake,0.47,1.2,0.27,7,automatic,nc,nc
 2023-07-27T15:28:31.210Z,66.325,-156.9967,0.1,2.4,ml,,,,1.28,ak,ak0239k8vr8m,2023-07-27T15:32:05.448Z,"63 km S of Shungnak, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-27T15:27:20.519Z,58.3026,-154.8227,0,0.6,ml,,,,0.33,ak,ak0239k8vipf,2023-07-27T15:28:22.292Z,"84 km NNW of Karluk, Alaska",earthquake,,7.6,,,automatic,ak,ak
@@ -6,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T14:59:26.645Z,57.6663,-154.5366,250,1.5,ml,,,,0.95,ak,ak0239k8gyr3,2023-07-27T15:02:24.033Z,"11 km NNW of Karluk, Alaska",earthquake,,3.4,,,automatic,ak,ak
 2023-07-27T14:45:52.303Z,58.2469,-155.1873,1.3,1.4,ml,,,,0.51,ak,ak0239k8e0gs,2023-07-27T14:48:16.767Z,"87 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-27T14:44:33.720Z,38.7976685,-122.7998352,3.32,1.11,md,27,41,0.009665,0.02,nc,nc73917311,2023-07-27T15:26:10.789Z,"4 km WNW of The Geysers, CA",earthquake,0.24,0.42,0.23,27,automatic,nc,nc
-2023-07-27T14:44:18.678Z,61.158,-152.1974,124.2,2.1,ml,,,,0.31,ak,ak0239k8dq43,2023-07-27T14:46:10.115Z,"58 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-07-27T14:44:18.678Z,61.158,-152.1974,124.2,2.1,ml,,,,0.31,ak,ak0239k8dq43,2023-07-27T15:37:52.040Z,"58 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-27T14:42:16.745Z,64.1878,-148.0808,17.2,0.8,ml,,,,0.51,ak,ak0239k8daju,2023-07-27T14:48:26.865Z,"53 km ENE of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-27T14:40:32.390Z,38.788166,-122.7471695,1.37,1.02,md,13,84,0.009532,0.02,nc,nc73917306,2023-07-27T15:10:12.108Z,"1 km NNE of The Geysers, CA",earthquake,0.24,0.55,0.23,14,automatic,nc,nc
 2023-07-27T14:39:16.000Z,18.0505,-66.892,15.24,2.12,md,7,85,0.07601,0.08,pr,pr71419363,2023-07-27T15:02:58.300Z,"Puerto Rico region",earthquake,0.53,1.05,0.0569638493243494,4,reviewed,pr,pr
@@ -57,6 +58,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T08:27:51.320Z,18.8553,-64.7525,49,3.88,md,21,280,0.5427,0.2,pr,pr2023208000,2023-07-27T08:45:44.754Z,"Virgin Islands",earthquake,1.13,2.21,0.12,15,reviewed,pr,pr
 2023-07-27T08:26:35.000Z,40.5536667,-111.283,11.13,1.84,ml,29,109,0.1061,0.21,uu,uu60546327,2023-07-27T13:22:07.480Z,"5 km WSW of Woodland, Utah",earthquake,0.53,0.63,0.17,10,reviewed,uu,uu
 2023-07-27T08:16:57.150Z,40.5646667,-111.2635,14.5,1.26,md,11,226,0.1141,0.17,uu,uu60546322,2023-07-27T15:33:45.000Z,"3 km WSW of Woodland, Utah",earthquake,1.28,1.33,0.206,7,reviewed,uu,uu
+2023-07-27T08:16:38.090Z,40.557,-111.2645,13.91,1.44,md,10,228,0.1167,0.17,uu,uu60033544,2023-07-27T15:36:21.940Z,"4 km SW of Woodland, Utah",earthquake,1.78,0.91,0.396,6,reviewed,uu,uu
+2023-07-27T08:16:24.720Z,40.557,-111.2666667,13.3,0.68,md,10,227,0.1152,0.17,uu,uu60033549,2023-07-27T15:38:27.660Z,"4 km SW of Woodland, Utah",earthquake,1.44,3,0.083,4,reviewed,uu,uu
 2023-07-27T08:14:34.480Z,40.5386667,-111.268,10.84,1.65,ml,11,215,0.1239,0.21,uu,uu60033539,2023-07-27T13:29:54.290Z,"5 km SW of Woodland, Utah",earthquake,1.41,1.71,0.006,2,reviewed,uu,uu
 2023-07-27T08:14:01.570Z,40.5716667,-111.2931667,12.55,1.59,ml,22,119,0.09059,0.17,uu,uu60546317,2023-07-27T13:24:13.090Z,"Utah",earthquake,0.62,0.75,0.16,8,reviewed,uu,uu
 2023-07-27T08:01:39.977Z,58.1909,-155.3101,1.1,0.1,ml,,,,0.26,ak,ak0239k4jyct,2023-07-27T08:02:53.360Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
