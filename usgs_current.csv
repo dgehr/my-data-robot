@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-28T08:29:56.630Z,19.3414993286133,-155.22233581543,30.9200000762939,1.79999995,md,39,109,,0.109999999,hv,hv73500357,2023-07-28T08:33:08.360Z,"11 km S of Volcano, Hawaii",earthquake,0.68,0.560000002,0.850000024,11,automatic,hv,hv
 2023-07-28T08:11:54.340Z,19.2431659698486,-155.368835449219,30.0599994659424,2.12,ml,43,157,,0.129999995,hv,hv73500332,2023-07-28T08:17:24.320Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.49,0.589999974,2.46,14,automatic,hv,hv
 2023-07-28T07:58:55.910Z,-30.4838,59.7638,10,5.9,mww,106,36,9.955,0.52,us,us6000kw3z,2023-07-28T08:18:49.325Z,"Southwest Indian Ridge",earthquake,8.79,1.834,0.098,10,reviewed,us,us
 2023-07-28T07:57:04.192Z,58.2197,-155.1065,1.1,0.4,ml,,,,0.14,ak,ak0239lrtskz,2023-07-28T07:58:02.653Z,"82 km NNW of Karluk, Alaska",earthquake,,4.6,,,automatic,ak,ak
