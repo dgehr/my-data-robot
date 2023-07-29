@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-29T10:55:46.040Z,38.8274994,-122.800499,1.72,1.03,md,16,50,0.008528,0.01,nc,nc73917881,2023-07-29T10:57:19.696Z,"7 km W of Cobb, CA",earthquake,0.24,0.53,0.18,15,automatic,nc,nc
 2023-07-29T10:40:15.940Z,32.2331667,-115.2968333,1.77,2.42,ml,16,70,0.09846,0.26,ci,ci39625050,2023-07-29T10:43:55.156Z,"12 km W of Alberto Oviedo Mota, B.C., MX",earthquake,0.49,1.04,0.288,25,automatic,ci,ci
 2023-07-29T10:36:15.715Z,57.7901,-153.7299,24.4,1.7,ml,,,,0.37,ak,ak0239nh0yqr,2023-07-29T10:38:31.504Z,"Kodiak Island region, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-07-29T10:34:11.941Z,36.3507,139.9402,83.039,4.6,mb,79,100,1.409,0.58,us,us6000kwhi,2023-07-29T11:02:57.346Z,"5 km NW of Chikusei, Japan",earthquake,6.78,6.318,0.048,131,reviewed,us,us
 2023-07-29T10:33:35.980Z,34.1355,-118.3568333,15.71,1.03,ml,15,141,0.05003,0.15,ci,ci39625042,2023-07-29T10:37:15.866Z,"0 km SW of Universal City, CA",earthquake,0.47,0.56,0.257,22,automatic,ci,ci
 2023-07-29T10:31:39.102Z,58.2413,-155.2045,0,1,ml,,,,0.49,ak,ak0239ngzxyu,2023-07-29T10:33:52.070Z,"87 km NNW of Karluk, Alaska",earthquake,,23.8,,,automatic,ak,ak
 2023-07-29T10:22:44.400Z,33.0358333,-116.4328333,7.37,0.85,ml,35,40,0.06652,0.2,ci,ci39625034,2023-07-29T10:26:19.001Z,"16 km ESE of Julian, CA",earthquake,0.23,1.04,0.177,16,automatic,ci,ci
@@ -220,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T11:32:28.372Z,56.3157,-155.6988,38.4,4.5,ml,,,,0.48,ak,ak0239lu27ma,2023-07-28T12:25:39.749Z,"117 km SW of Akhiok, Alaska",earthquake,,1.5,,,reviewed,ak,ak
 2023-07-28T11:31:24.220Z,33.691,-116.804,14.98,0.68,ml,39,83,0.07097,0.13,ci,ci39624194,2023-07-28T19:24:22.938Z,"10 km SW of Idyllwild, CA",earthquake,0.18,0.31,0.152,25,reviewed,ci,ci
 2023-07-28T11:12:12.220Z,46.217166666666664,-119.6035,7.4,2.05,ml,30,145,0.05804,0.09,uw,uw61944621,2023-07-28T13:47:37.230Z,"10 km WSW of Benton City, Washington",earthquake,0.33,0.14,0.1705949530340295,27,reviewed,uw,uw
-2023-07-28T11:03:08.700Z,61.8439,-149.9012,22.7,1.5,ml,,,,0.52,ak,ak0239ltvyom,2023-07-28T11:05:51.032Z,"12 km NE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
