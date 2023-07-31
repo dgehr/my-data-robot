@@ -6,6 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-31T06:44:54.130Z,46.9425,-121.93783333333333,11.95,0.17,ml,16,135,0.03928,0.11,uw,uw61936447,2023-07-31T07:06:44.280Z,"17 km SSE of Carbonado, Washington",earthquake,0.56,0.54,0.12114878650966049,10,reviewed,uw,uw
 2023-07-31T06:39:41.896Z,60.0792,-152.4024,87.2,1.4,ml,,,,0.38,ak,ak0239qpqmh9,2023-07-31T06:41:25.789Z,"40 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-31T06:38:49.578Z,58.3026,-155.0185,0,0.3,ml,,,,0.53,ak,ak0239qpqfce,2023-07-31T06:41:00.340Z,"88 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-07-31T06:34:14.940Z,46.64216666666667,-122.24,18.14,0.59,ml,24,89,0.1884,0.14,uw,uw61936442,2023-07-31T07:38:23.800Z,"9 km SSW of Mineral, Washington",earthquake,0.41,1.02,0.13254474800182886,12,reviewed,uw,uw
 2023-07-31T06:28:06.972Z,58.9028,-153.963,2.6,1.4,ml,,,,0.25,ak,ak0239qpo6wp,2023-07-31T06:29:07.801Z,"Kodiak Island region, Alaska",earthquake,,4.2,,,automatic,ak,ak
 2023-07-31T06:22:29.080Z,38.8208351,-122.822998,1.89,0.78,md,13,49,0.009671,0.01,nc,nc73918616,2023-07-31T06:39:17.078Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.54,0.15,14,automatic,nc,nc
 2023-07-31T06:10:46.969Z,64.9361,-149.0148,15.2,0.8,ml,,,,0.54,ak,ak0239qpkf3s,2023-07-31T06:12:53.227Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -211,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-30T08:02:57.120Z,53.0219,-166.7141,35,4.5,mwr,93,137,0.779,1.04,us,us6000kwn5,2023-07-30T16:12:01.689Z,"95 km S of Unalaska, Alaska",earthquake,5.13,1.909,0.08,15,reviewed,us,us
 2023-07-30T07:55:12.980Z,19.4233341217041,-155.27033996582,-0.140000000596046,2.04,ml,23,98,,0.189999998,hv,hv73503232,2023-07-30T08:00:45.190Z,"4 km WSW of Volcano, Hawaii",earthquake,0.24,0.300000012,0.4,10,automatic,hv,hv
 2023-07-30T07:44:09.432Z,58.1779,-155.3899,1.2,0.2,ml,,,,0.16,ak,ak0239p2tpnz,2023-07-30T07:45:13.072Z,"87 km NW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2023-07-30T07:40:28.030Z,35.6546667,-117.4878333,2.48,0.96,ml,12,116,0.05325,0.16,ci,ci39625474,2023-07-30T07:44:02.196Z,"15 km SSW of Searles Valley, CA",earthquake,0.41,0.55,0.023,5,automatic,ci,ci
