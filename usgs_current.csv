@@ -214,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-30T03:57:31.820Z,17.966,-66.8328333333333,15.48,2.24,md,20,183,0.0451,0.18,pr,pr71419693,2023-07-30T04:15:15.750Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.43,0.43,0.100075153962942,4,reviewed,pr,pr
 2023-07-30T03:48:30.649Z,65.4084,-144.6703,1.7,1.1,ml,,,,0.88,ak,ak0239p0gvqw,2023-07-30T03:50:40.219Z,"19 km SSE of Central, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-30T03:48:24.260Z,38.8263321,-122.8544998,2.48,0.92,md,20,93,0.002214,0.01,nc,nc73918136,2023-07-30T06:23:14.601Z,"10 km WNW of The Geysers, CA",earthquake,0.24,0.45,0.19,21,automatic,nc,nc
-2023-07-30T03:44:19.260Z,38.8338318,-122.8050003,2.19,0.53,md,11,64,0.01115,0.02,nc,nc73918126,2023-07-30T05:56:11.461Z,"7 km W of Cobb, CA",earthquake,0.41,1.17,0.38,11,automatic,nc,nc
-2023-07-30T03:38:26.531Z,65.4358,-144.7724,1.1,2.2,ml,,,,0.77,ak,ak0239p0eq9p,2023-07-30T03:40:46.053Z,"15 km S of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
