@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-01T12:34:43.300Z,19.3174991607666,-155.223831176758,5.30999994277954,1.91,ml,42,126,,0.150000006,hv,hv73505812,2023-08-01T12:40:15.000Z,"13 km S of Volcano, Hawaii",earthquake,0.44,0.579999983,0.22,11,automatic,hv,hv
-2023-08-01T12:34:35.580Z,37.6446648,-119.0201645,-1.97,1.4,md,9,100,0.00733,0.04,nc,nc73919001,2023-08-01T12:36:12.725Z,"4 km WNW of Mammoth Lakes, CA",earthquake,0.25,0.36,0.18,9,automatic,nc,nc
+2023-08-01T12:39:49.153Z,61.5888,-147.9062,30.3,1.7,ml,,,,0.85,ak,ak0239sgul5v,2023-08-01T12:41:27.701Z,"27 km SSW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2023-08-01T12:34:43.300Z,19.3174991607666,-155.223831176758,5.30999994277954,1.91,ml,42,126,,0.150000006,hv,hv73505812,2023-08-01T12:47:01.628Z,"13 km S of Volcano, Hawaii",earthquake,0.44,0.579999983,0.22,11,automatic,hv,hv
+2023-08-01T12:34:35.580Z,37.6446648,-119.0201645,-1.97,1.4,md,9,100,0.00733,0.04,nc,nc73919001,2023-08-01T12:51:17.480Z,"4 km WNW of Mammoth Lakes, CA",earthquake,0.25,0.36,0.18,9,automatic,nc,nc
 2023-08-01T12:13:38.221Z,-7.5169,128.2078,147.533,4.9,mb,58,55,3.42,0.78,us,us6000kx17,2023-08-01T12:33:23.040Z,"173 km NE of Lospalos, Timor Leste",earthquake,8.33,7.541,0.056,99,reviewed,us,us
 2023-08-01T12:08:18.291Z,58.2329,-155.0331,5.4,1.8,ml,,,,1.03,ak,ak0239sgnvl1,2023-08-01T12:09:21.950Z,"81 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-01T12:07:41.438Z,58.1815,-155.2596,0,0.9,ml,,,,0.79,ak,ak0239sgnpnj,2023-08-01T12:09:26.660Z,"83 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-01T12:02:10.512Z,63.3964,-151.4026,8.2,2.2,ml,,,,0.64,ak,ak0239sgmkor,2023-08-01T12:04:10.659Z,"22 km SE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-01T11:49:41.790Z,19.2684993743896,-155.372665405273,29.9400005340576,1.99,ml,41,152,,0.129999995,hv,hv73505782,2023-08-01T11:55:12.510Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.63,0.660000026,0.23,4,automatic,hv,hv
+2023-08-01T11:49:41.790Z,19.2684993743896,-155.372665405273,29.9400005340576,1.99,ml,41,152,,0.129999995,hv,hv73505782,2023-08-01T12:45:10.845Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.63,0.660000026,0.23,4,automatic,hv,hv
 2023-08-01T11:43:29.719Z,58.1791,-155.3752,1.1,0,ml,,,,0.2,ak,ak0239sg9yx7,2023-08-01T11:45:16.438Z,"Alaska Peninsula",earthquake,,2.1,,,automatic,ak,ak
 2023-08-01T11:35:52.260Z,18.013,-66.8665,14.43,2.78,md,11,115,0.03965,0.45,pr,pr71420008,2023-08-01T11:51:55.600Z,"0 km E of Palomas, Puerto Rico",earthquake,1.11,1.87,0.067246026852894,7,reviewed,pr,pr
 2023-08-01T11:34:05.260Z,33.6791667,-116.732,16.07,0.21,ml,12,112,0.03866,0.07,ci,ci39626754,2023-08-01T11:37:40.553Z,"7 km S of Idyllwild, CA",earthquake,0.24,0.42,0.168,6,automatic,ci,ci
