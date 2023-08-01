@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-01T22:19:12.160Z,34.1353333,-117.3855,4.58,0.97,ml,21,98,0.06688,0.28,ci,ci39627258,2023-08-01T22:22:46.371Z,"4 km NNW of Rialto, CA",earthquake,0.62,1.21,0.186,21,automatic,ci,ci
 2023-08-01T22:18:29.330Z,38.7960014,-122.8105011,3.21,0.83,md,17,85,0.009616,0.02,nc,nc73919186,2023-08-01T22:20:04.251Z,"5 km WNW of The Geysers, CA",earthquake,0.35,0.78,0.12,16,automatic,nc,nc
 2023-08-01T21:56:29.370Z,35.6973333,-117.5543333,8.07,0.87,ml,10,141,0.1111,0.17,ci,ci39627242,2023-08-01T22:00:02.235Z,"14 km NE of Ridgecrest, CA",earthquake,0.82,1.8,0.116,5,automatic,ci,ci
 2023-08-01T21:52:46.360Z,34.8386,26.2428,39.458,4.2,mb,22,200,1.197,0.87,us,us6000kx6d,2023-08-01T22:17:52.040Z,"39 km S of Palekastro, Greece",earthquake,7.19,12.118,0.125,18,reviewed,us,us
