@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-01T20:38:10.536Z,62.7829,-150.7999,84.6,1.6,ml,,,,0.57,ak,ak0239sllrb1,2023-08-01T20:40:51.202Z,"31 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-01T20:26:39.380Z,38.8146667,-122.824501,2.14,1.31,md,25,48,0.006847,0.02,nc,nc73919141,2023-08-01T20:37:11.333Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.34,0.18,26,automatic,nc,nc
 2023-08-01T20:19:46.980Z,38.8241653,-122.8050003,2.67,0.37,md,12,63,0.004037,0.01,nc,nc73919131,2023-08-01T20:36:23.327Z,"7 km NW of The Geysers, CA",earthquake,0.35,1.18,0.29,13,automatic,nc,nc
 2023-08-01T20:12:35.421Z,57.7723,-155.9671,9.6,1,ml,,,,0.6,ak,ak0239slg8ly,2023-08-01T20:19:13.659Z,"90 km ENE of Ugashik, Alaska",earthquake,,2.2,,,automatic,ak,ak
@@ -12,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T19:26:06.465Z,43.091,-126.5127,13.943,4,mb,71,178,1.775,0.86,us,us6000kx4i,2023-08-01T19:43:08.040Z,"168 km WNW of Port Orford, Oregon",earthquake,8.34,7.399,0.098,29,reviewed,us,us
 2023-08-01T19:22:44.550Z,42.891333333333336,-123.51733333333334,-0.8,1.6,ml,16,57,0.04895,0.29,uw,uw61937077,2023-08-01T20:27:00.850Z,"14 km WSW of Riddle, Oregon",explosion,0.53,31.61,0.10622587636605985,7,reviewed,uw,uw
 2023-08-01T19:20:06.290Z,37.2513351,-121.6364975,5.71,1.11,md,9,102,0.0302,0.05,nc,nc73919111,2023-08-01T19:36:13.992Z,"14 km N of Morgan Hill, CA",earthquake,0.48,1.02,0.17,6,automatic,nc,nc
-2023-08-01T19:16:22.510Z,33.8678333,-117.5055,1.11,0.95,ml,17,58,0.07115,0.28,ci,ci39627066,2023-08-01T19:20:13.273Z,"2 km SE of Home Gardens, CA",quarry blast,0.6,1.1,0.173,14,automatic,ci,ci
+2023-08-01T19:16:22.410Z,33.873,-117.5016667,2.41,1.03,ml,21,55,0.07277,0.13,ci,ci39627066,2023-08-01T20:42:31.655Z,"2 km ESE of Home Gardens, CA",quarry blast,0.31,0.37,0.13,4,reviewed,ci,ci
 2023-08-01T19:15:27.250Z,37.2518349,-121.63517,4.26,2.46,md,46,67,0.03111,0.06,nc,nc73919106,2023-08-01T20:33:12.267Z,"14 km N of Morgan Hill, CA",earthquake,0.15,0.32,0.13,59,automatic,nc,nc
 2023-08-01T19:13:31.590Z,46.22233333333333,-119.5995,7.25,0.29,ml,8,211,0.06141,0.04,uw,uw61937067,2023-08-01T20:36:23.100Z,"9 km WSW of Benton City, Washington",earthquake,0.67,0.24,0.13252499617151825,6,reviewed,uw,uw
 2023-08-01T19:12:38.915Z,58.1137,-155.5715,27.2,0.3,ml,,,,0.81,ak,ak0239skut9v,2023-08-01T19:14:13.891Z,"89 km NW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
