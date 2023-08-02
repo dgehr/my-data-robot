@@ -273,4 +273,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T08:03:11.720Z,17.921,-66.9883333333333,4.48,2.75,md,8,236,0.07177,0.11,pr,pr71419978,2023-08-01T08:15:56.060Z,"8 km SE of La Parguera, Puerto Rico",earthquake,0.71,0.57,0.0442661625865863,5,reviewed,pr,pr
 2023-08-01T07:58:14.260Z,38.8431664,-122.8421631,1.76,0.61,md,14,93,0.006934,0.01,nc,nc73918946,2023-08-01T08:58:16.118Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.62,0.2,15,automatic,nc,nc
 2023-08-01T07:56:59.180Z,38.8343333,-122.81,2.3,0.43,md,30,46,0.01092,0.03,nc,nc73918941,2023-08-01T17:14:13.087Z,"8 km W of Cobb, CA",earthquake,0.15,0.32,0.134,26,reviewed,nc,nc
-2023-08-01T07:53:05.010Z,36.6113333,-119.2526667,24.46,2.21,md,21,83,0.1364,0.08,nc,nc73918936,2023-08-01T19:36:14.129Z,"6 km ESE of Orange Cove, CA",earthquake,0.21,0.2,0.211,23,reviewed,nc,nc
