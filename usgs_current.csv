@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-06T20:45:12.879Z,58.184,-155.2744,11.6,0.5,ml,,,,0.81,ak,ak023a0vc01g,2023-08-06T20:48:24.979Z,"84 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-08-06T20:43:11.980Z,58.1964,-155.2384,0,1.6,ml,,,,0.33,ak,ak023a0vbkgu,2023-08-06T20:44:47.475Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-08-06T20:36:54.490Z,38.8035011,-122.8105011,16.15,1.02,md,7,133,0.01268,0.03,nc,nc73921166,2023-08-06T20:38:31.848Z,"6 km WNW of The Geysers, CA",earthquake,3.05,0.91,0.07,4,automatic,nc,nc
 2023-08-06T20:25:50.890Z,36.1158333,-117.8738333,2.71,1.94,ml,18,129,0.01546,0.12,ci,ci40530952,2023-08-06T20:29:27.198Z,"10 km NE of Coso Junction, CA",earthquake,0.32,0.44,0.271,17,automatic,ci,ci
 2023-08-06T20:23:28.070Z,36.338665,-120.8779984,2.71,1.44,md,8,105,0.05872,0.23,nc,nc73921146,2023-08-06T20:40:11.849Z,"20 km WSW of New Idria, CA",earthquake,0.82,3.19,0.16,6,automatic,nc,nc
