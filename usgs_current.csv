@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-06T10:27:59.180Z,36.9287,-104.8302,6.278,3.9,ml,43,24,0.129,0.88,us,us6000ky98,2023-08-06T10:37:18.110Z,"22 km S of Weston, Colorado",earthquake,3.83,6.015,0.042,76,reviewed,us,us
+2023-08-06T10:48:03.880Z,38.7868347,-122.7661667,2.74,1.28,md,26,77,0.01466,0.03,nc,nc73921001,2023-08-06T10:49:38.848Z,"1 km NW of The Geysers, CA",earthquake,0.24,0.45,0.21,24,automatic,nc,nc
+2023-08-06T10:27:59.052Z,36.9105,-104.8551,9.525,3.8,mb,55,27,0.108,1.15,us,us6000ky98,2023-08-06T10:49:17.035Z,"New Mexico",earthquake,4.97,6.644,0.147,12,reviewed,us,us
 2023-08-06T10:23:38.460Z,38.8323326,-122.8161697,1.5,0.26,md,9,73,0.01012,0.01,nc,nc73920996,2023-08-06T10:42:12.286Z,"8 km NW of The Geysers, CA",earthquake,0.39,1.52,0.17,8,automatic,nc,nc
 2023-08-06T10:18:37.211Z,58.2088,-155.3036,1.2,0.8,ml,,,,0.58,ak,ak023a0p7xgp,2023-08-06T10:19:32.914Z,"87 km NW of Karluk, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2023-08-06T10:09:22.680Z,-1.0782,120.2729,10,5.3,mww,49,62,2.234,0.89,us,us6000ky96,2023-08-06T10:25:51.040Z,"48 km ESE of Palu, Indonesia",earthquake,5.18,1.497,0.068,21,reviewed,us,us
@@ -42,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T04:26:18.135Z,31.5865,-104.2663,5,2.6,mb_lg,18,92,0.216,0.32,us,us6000ky7r,2023-08-06T04:36:53.040Z,"western Texas",earthquake,1.37,1.958,0.098,43,reviewed,us,us
 2023-08-06T04:20:27.184Z,60.3153,-141.2052,21.8,1.8,ml,,,,0.31,ak,ak023a0lnqhq,2023-08-06T04:22:10.753Z,"118 km NW of Yakutat, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-08-06T04:04:27.715Z,-54.4005,-136.3911,10,5.2,mb,32,111,30.62,0.79,us,us6000ky7n,2023-08-06T04:24:28.040Z,"Pacific-Antarctic Ridge",earthquake,14.69,1.902,0.088,43,reviewed,us,us
-2023-08-06T04:03:40.638Z,44.8224,-114.3955,14.407,3.9,ml,42,40,0.428,0.7,us,us6000ky7k,2023-08-06T10:10:04.457Z,"southern Idaho",earthquake,4.18,7.825,0.033,123,reviewed,us,us
+2023-08-06T04:03:40.638Z,44.8224,-114.3955,14.407,3.9,ml,42,40,0.428,0.7,us,us6000ky7k,2023-08-06T10:50:52.246Z,"southern Idaho",earthquake,4.18,7.825,0.033,123,reviewed,us,us
 2023-08-06T04:03:16.530Z,38.8378334,-122.7919998,2.34,0.75,md,9,80,0.001415,0.01,nc,nc73920911,2023-08-06T04:25:13.087Z,"6 km WNW of Cobb, CA",earthquake,0.42,1.4,0.28,10,automatic,nc,nc
 2023-08-06T04:02:20.144Z,62.4633,-151.4853,86.5,2.2,ml,,,,0.55,ak,ak023a0ljv1j,2023-08-06T04:29:21.040Z,"37 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-06T03:59:06.030Z,38.8375015,-122.7911682,2.4,0.91,md,11,64,0.001112,0.02,nc,nc73920906,2023-08-06T04:15:14.033Z,"6 km WNW of Cobb, CA",earthquake,0.37,1.01,0.21,12,automatic,nc,nc
