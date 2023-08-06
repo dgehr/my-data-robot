@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-06T09:33:09.517Z,56.6558,-155.4799,48.3,3.7,ml,,,,0.75,ak,ak023a0opngn,2023-08-06T09:38:28.961Z,"Alaska Peninsula",earthquake,,8.7,,,automatic,ak,ak
 2023-08-06T09:20:16.390Z,36.017,-117.843,0.67,1.05,ml,9,140,0.04419,0.14,ci,ci40530616,2023-08-06T09:23:49.477Z,"10 km ESE of Coso Junction, CA",earthquake,0.43,0.47,0.204,6,automatic,ci,ci
+2023-08-06T09:14:17.067Z,-17.7754,-178.3015,550.705,4.1,mb,29,92,3.452,0.72,us,us6000ky91,2023-08-06T09:35:09.040Z,"254 km E of Levuka, Fiji",earthquake,15.68,8.976,0.081,42,reviewed,us,us
 2023-08-06T09:04:40.786Z,60.0195,-152.7885,98.8,1.2,ml,,,,0.4,ak,ak023a0oji3y,2023-08-06T09:07:33.321Z,"59 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-06T08:49:11.335Z,-20.5987,-113.3229,10,4.8,mb,77,153,38.995,0.42,us,us6000ky90,2023-08-06T09:30:30.040Z,"southern East Pacific Rise",earthquake,15,1.915,0.035,258,reviewed,us,us
 2023-08-06T08:47:04.210Z,60.2126,-141.2896,0,1.9,ml,,,,1.01,ak,ak023a0o77h1,2023-08-06T08:49:22.661Z,"114 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -163,5 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-05T10:01:49.020Z,35.7595,-117.5885,1.81,2.57,ml,25,91,0.1479,0.18,ci,ci40530200,2023-08-05T10:48:39.040Z,"17 km W of Searles Valley, CA",earthquake,0.3,0.54,0.175,25,automatic,ci,ci
 2023-08-05T09:47:12.204Z,62.8795,-150.696,109.9,2.4,ml,,,,0.34,ak,ak0239z19b74,2023-08-05T10:32:28.040Z,"42 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-05T09:43:43.707Z,63.2187,-150.4183,108,2.2,ml,,,,0.49,ak,ak0239z18is1,2023-08-05T10:15:15.040Z,"74 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-08-05T09:37:15.309Z,55.0434,-156.772,20.4,3,ml,,,,1.09,ak,ak0239z177ln,2023-08-06T05:20:53.040Z,"south of Alaska",earthquake,,7.5,,,reviewed,ak,ak
-2023-08-05T09:35:10.800Z,17.9335,-67.1103333333333,12.07,2.36,md,13,245,0.07237,0.09,pr,pr71420578,2023-08-05T10:00:03.720Z,"Puerto Rico region",earthquake,0.49,0.26,0.0750443231221798,7,reviewed,pr,pr
