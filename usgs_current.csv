@@ -179,5 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T03:21:41.610Z,51.5395,178.9547,58.1,2.3,ml,,,,0.29,ak,ak023a0l2i53,2023-08-06T21:15:03.593Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,1,,,reviewed,ak,ak
 2023-08-06T03:05:26.220Z,33.6366667,-116.7495,18.48,0.63,ml,21,67,0.04456,0.23,ci,ci40530552,2023-08-06T03:09:10.758Z,"12 km NW of Anza, CA",earthquake,0.46,0.56,0.249,12,automatic,ci,ci
 2023-08-06T02:58:17.320Z,61.2951,-152.4328,0.3,1.2,ml,,,,0.71,ak,ak023a0kozqc,2023-08-06T03:00:19.099Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-06T02:53:32.820Z,39.1920013,-123.5006638,0.28,1.79,md,12,85,0.06404,0.06,nc,nc73920896,2023-08-06T05:36:15.498Z,"23 km E of Navarro Head, CA",earthquake,0.28,2.36,0.13,8,automatic,nc,nc
-2023-08-06T02:52:23.942Z,62.8552,-149.9009,79.5,1.4,ml,,,,0.95,ak,ak023a0knpy2,2023-08-06T02:54:41.880Z,"46 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
