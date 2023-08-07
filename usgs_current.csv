@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-07T12:52:00.490Z,33.0535,-116.2965,10.14,0.66,ml,15,170,0.0988,0.15,ci,ci40531144,2023-08-07T12:55:35.835Z,"18 km WSW of Ocotillo Wells, CA",earthquake,0.56,0.79,0.262,5,automatic,ci,ci
+2023-08-07T12:47:05.031Z,59.6937,-153.2679,123.9,1.5,ml,,,,0.35,ak,ak023a2e4ag7,2023-08-07T12:49:02.891Z,"48 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-07T12:20:49.283Z,62.169,-149.655,40.9,1.7,ml,,,,0.75,ak,ak023a2dylj4,2023-08-07T12:23:09.124Z,"10 km E of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-07T12:17:15.432Z,37.0851,-115.1504,5.6,0.8,ml,8,223.37,0.331,0.3961,nn,nn00864068,2023-08-07T12:19:50.462Z,"31 km S of Alamo, Nevada",earthquake,,17.2,0.43,3,automatic,nn,nn
 2023-08-07T12:14:59.820Z,35.683,-117.4868333,6.38,1.61,ml,16,71,0.05441,0.16,ci,ci40531136,2023-08-07T12:18:31.953Z,"12 km SW of Searles Valley, CA",earthquake,0.29,0.98,0.094,13,automatic,ci,ci
