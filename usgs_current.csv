@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-08T08:47:38.040Z,32.3626671,-115.1168365,16.68,3.39,ml,29,106,0.08544,0.29,ci,ci40531712,2023-08-08T08:49:48.440Z,"7 km E of Delta, B.C., MX",earthquake,0.53,1.1,0.246,23,automatic,ci,ci
+2023-08-08T08:45:22.440Z,38.8370018,-122.805336,1.89,0.78,md,13,81,0.01179,0.01,nc,nc73921726,2023-08-08T08:46:59.973Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.72,0.16,16,automatic,nc,nc
 2023-08-08T08:33:31.554Z,39.3294,-119.9067,8.6,1.1,ml,11,101.39,0.107,0.0761,nn,nn00864129,2023-08-08T08:35:24.840Z,"10 km NNE of Incline Village, Nevada",earthquake,,1,0.27,9,automatic,nn,nn
 2023-08-08T08:32:10.740Z,19.2686672210693,-155.494338989258,6.15999984741211,1.83000004,md,17,95,,0.159999996,hv,hv73515512,2023-08-08T08:35:12.050Z,"7 km NNW of Pāhala, Hawaii",earthquake,0.51,0.779999971,1.02999997,6,automatic,hv,hv
 2023-08-08T08:28:44.536Z,56.4911,-158.4753,72.7,2,ml,,,,0.41,ak,ak023a3z5wyt,2023-08-08T08:30:30.832Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
