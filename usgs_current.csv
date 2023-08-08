@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-08T07:26:03.480Z,38.7960014,-122.7541656,2.24,0.77,md,14,90,0.006332,0.02,nc,nc73921691,2023-08-08T07:27:40.463Z,"2 km N of The Geysers, CA",earthquake,0.34,0.6,0.16,15,automatic,nc,nc
+2023-08-08T07:44:31.245Z,60.2167,-153.2177,136.1,2,ml,,,,0.36,ak,ak023a3ynvsk,2023-08-08T07:46:33.458Z,"60 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-08-08T07:26:03.480Z,38.7960014,-122.7541656,2.24,0.77,md,14,90,0.006332,0.02,nc,nc73921691,2023-08-08T07:43:12.954Z,"2 km N of The Geysers, CA",earthquake,0.34,0.6,0.16,15,automatic,nc,nc
 2023-08-08T07:15:11.420Z,33.5083333,-116.4815,14.56,0.61,ml,19,95,0.06414,0.13,ci,ci40531664,2023-08-08T07:18:43.991Z,"18 km ESE of Anza, CA",earthquake,0.3,0.54,0.132,13,automatic,ci,ci
 2023-08-08T07:13:59.150Z,38.8251648,-122.8013306,2.58,0.78,md,9,171,0.007055,0.01,nc,nc73921686,2023-08-08T07:30:16.882Z,"7 km NW of The Geysers, CA",earthquake,0.59,1.36,0.05,10,automatic,nc,nc
 2023-08-08T07:06:24.910Z,61.2868,-152.4462,0.2,1.6,ml,,,,0.69,ak,ak023a3yfq3f,2023-08-08T07:08:17.653Z,"74 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
