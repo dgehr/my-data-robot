@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-09T19:34:02.034Z,61.6988,-146.9567,27.2,1.4,ml,,,,0.98,ak,ak023a5ta84r,2023-08-09T19:36:47.704Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-09T19:16:33.590Z,35.6935,-117.5086667,11.09,1.14,ml,15,126,0.07474,0.21,ci,ci40532672,2023-08-09T19:20:11.680Z,"12 km SW of Searles Valley, CA",earthquake,0.66,0.9,0.11,7,automatic,ci,ci
 2023-08-09T19:02:04.940Z,46.0016666666667,-112.472,-2,1.78,ml,15,111,0.05838,0.07,mb,mb90024098,2023-08-09T19:21:05.830Z,"4 km E of Butte, Montana",quarry blast,0.33,31.61,0.139631205137027,16,reviewed,mb,mb
 2023-08-09T18:57:08.290Z,-4.7122,153.1519,73.473,4.5,mb,36,99,1.113,0.62,us,us6000kywz,2023-08-09T19:14:34.040Z,"106 km ESE of Kokopo, Papua New Guinea",earthquake,8.69,4.287,0.094,33,reviewed,us,us
