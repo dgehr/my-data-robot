@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-09T23:22:09.530Z,38.8361664,-122.8058319,1.96,0.7,md,11,61,0.0123,0.01,nc,nc73922316,2023-08-09T23:23:45.613Z,"7 km WNW of Cobb, CA",earthquake,0.36,1.22,0.22,12,automatic,nc,nc
+2023-08-09T23:21:53.620Z,38.7816658,-122.757164,1.23,0.76,md,8,70,0.01282,0.01,nc,nc73922311,2023-08-09T23:23:30.495Z,"0 km N of The Geysers, CA",earthquake,0.29,0.7,0.05,8,automatic,nc,nc
+2023-08-09T23:21:20.760Z,38.7873344,-122.7468338,1.39,0.75,md,10,83,0.008897,0.02,nc,nc73922306,2023-08-09T23:22:56.092Z,"1 km NE of The Geysers, CA",earthquake,0.29,0.91,0.13,11,automatic,nc,nc
 2023-08-09T23:10:56.652Z,60.0323,-153.3554,140.2,1.4,ml,,,,0.47,ak,ak023a5vixkx,2023-08-09T23:13:10.866Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-09T23:10:51.209Z,63.2355,-151.3578,0,1.2,ml,,,,1.21,ak,ak023a5vix5s,2023-08-09T23:13:06.026Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-09T23:06:14.330Z,37.5024986,-118.8553314,5.93,1.28,md,15,183,0.08983,0.04,nc,nc73922301,2023-08-09T23:14:09.763Z,"17 km WSW of Toms Place, CA",earthquake,0.91,1.01,0.09,14,automatic,nc,nc
@@ -19,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T20:51:28.793Z,59.8799,-151.8225,49.4,1.6,ml,,,,0.73,ak,ak023a5tzcz3,2023-08-09T20:52:58.926Z,"9 km SW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-09T20:44:31.590Z,56.9702,-155.7403,36.5,2.4,ml,,,,0.7,ak,ak023a5txv6f,2023-08-09T21:22:56.040Z,"95 km W of Akhiok, Alaska",earthquake,,9.7,,,automatic,ak,ak
 2023-08-09T20:41:16.250Z,47.45733333333333,-121.59283333333333,13.72,1.7,ml,35,58,0.1173,0.17,uw,uw61948726,2023-08-09T21:27:59.630Z,"11 km E of Tanner, Washington",earthquake,0.29,0.79,0.12455875424871288,23,reviewed,uw,uw
-2023-08-09T20:40:51.840Z,19.4021666666667,-155.241,2.25,3.2,ml,52,41,,0.13,hv,hv73517667,2023-08-09T22:03:22.172Z,"4 km S of Volcano, Hawaii",earthquake,0.16,0.18,0.179475095131858,26,reviewed,hv,hv
+2023-08-09T20:40:51.840Z,19.4021666666667,-155.241,2.25,3.2,ml,52,41,,0.13,hv,hv73517667,2023-08-09T23:22:16.159Z,"4 km S of Volcano, Hawaii",earthquake,0.16,0.18,0.179475095131858,26,reviewed,hv,hv
 2023-08-09T20:31:43.317Z,55.9251,-158.9319,63.3,2,ml,,,,0.46,ak,ak023a5tv3rv,2023-08-09T20:34:00.028Z,"Alaska Peninsula",earthquake,,0.9,,,automatic,ak,ak
 2023-08-09T20:18:38.216Z,64.9766,-147.3897,5.6,1.7,ml,,,,0.32,ak,ak023a5tsb2l,2023-08-09T20:20:21.599Z,"10 km E of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-09T20:17:34.210Z,35.9066667,-117.7236667,2.68,1.05,ml,11,123,0.08741,0.12,ci,ci40532696,2023-08-09T20:21:08.471Z,"17 km ESE of Little Lake, CA",earthquake,0.37,1.33,0.155,5,automatic,ci,ci
@@ -253,5 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T23:33:49.500Z,44.6413333333333,-114.381333333333,8.03,1.73,ml,17,110,0.3561,0.21,mb,mb90023993,2023-08-09T14:28:33.150Z,"19 km NW of Challis, Idaho",earthquake,0.51,1.01,0.210867970277226,15,reviewed,mb,mb
 2023-08-08T23:30:57.237Z,65.6907,-150.9367,5,1.7,ml,,,,0.64,ak,ak023a483vgb,2023-08-08T23:32:56.930Z,"40 km WNW of Rampart, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-08T23:30:33.840Z,38.8131667,-122.7421667,0.91,0.9,md,30,116,0.01857,0.05,nc,nc73921941,2023-08-09T18:53:18.214Z,"2 km WSW of Cobb, CA",earthquake,0.18,0.3,0.18,27,reviewed,nc,nc
-2023-08-08T23:28:36.120Z,53.8508333333333,-166.796666666667,5.42,0.43,ml,6,86,,0.11,av,av91995411,2023-08-09T19:21:27.510Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.32,1.09,0.351489456343015,7,reviewed,av,av
-2023-08-08T23:28:32.690Z,44.6486666666667,-114.377833333333,9.18,2.6,ml,36,95,0.3597,0.17,mb,mb90023988,2023-08-09T14:20:36.970Z,"19 km NW of Challis, Idaho",earthquake,0.32,0.52,0.258276476280239,36,reviewed,mb,mb
