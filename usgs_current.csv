@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-09T16:12:10.934Z,61.0379,-149.8135,43.1,1.7,ml,,,,0.2,ak,ak023a5rd891,2023-08-09T16:13:34.948Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-08-09T16:12:10.934Z,61.0379,-149.8135,43.1,1.7,ml,,,,0.2,ak,ak023a5rd891,2023-08-09T16:13:34.948Z,"16 km NW of Hope, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-09T16:10:33.900Z,35.6276667,-117.4006667,12.76,1.17,ml,8,164,0.1003,0.13,ci,ci40532560,2023-08-09T16:14:06.544Z,"15 km S of Trona, CA",earthquake,0.71,1.37,0.185,6,automatic,ci,ci
 2023-08-09T16:07:22.623Z,60.0588,-151.6991,52.4,1.7,ml,,,,0.39,ak,ak023a5rc6km,2023-08-09T16:09:59.868Z,"1 km WNW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-09T16:03:58.959Z,56.254,-149.0253,6,2.5,ml,,,,0.86,ak,ak023a5rbjmt,2023-08-09T16:37:30.312Z,"249 km SE of Chiniak, Alaska",earthquake,,0,,,reviewed,ak,ak
@@ -158,13 +158,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T22:34:51.029Z,31.67836631,-104.4081261,6.851391602,3.6,ml,45,69,0.01527432582,0.2,tx,tx2023plvw,2023-08-09T14:00:43.998Z,"55 km S of Whites City, New Mexico",earthquake,0.8735812779,0.9449143938,0.1,31,reviewed,tx,tx
 2023-08-08T22:28:58.430Z,38.8363342,-122.8011703,2.52,0.76,md,12,73,0.008705,0.01,nc,nc73921926,2023-08-08T22:45:15.291Z,"7 km WNW of Cobb, CA",earthquake,0.36,1.06,0.32,13,automatic,nc,nc
 2023-08-08T22:11:52.350Z,41.767,-112.37,7.69,0.99,md,13,98,0.1152,0.11,uu,uu60547207,2023-08-08T22:51:34.910Z,"Utah",earthquake,0.35,1.26,0.038,5,reviewed,uu,uu
+2023-08-08T22:09:05.010Z,44.3571666666667,-114.008833333333,5.17,1.49,ml,13,97,0.03357,0.21,mb,mb90024073,2023-08-09T16:56:55.400Z,"24 km SE of Challis, Idaho",earthquake,0.72,1.28,0.212890140516187,14,reviewed,mb,mb
 2023-08-08T22:04:21.777Z,44.3222,-70.2605,9.568,2.5,mb_lg,19,129,0.356,0.38,us,us6000kyr7,2023-08-09T14:10:17.353Z,"6 km S of Livermore, Maine",earthquake,2.69,5.455,0.255,4,reviewed,us,us
 2023-08-08T22:00:25.823Z,58.1578,-155.3039,0,0.9,ml,,,,0.26,ak,ak023a47bxxy,2023-08-08T22:01:38.248Z,"82 km NW of Karluk, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-08-08T21:58:49.850Z,61.0278,-152.2608,12.9,1.6,ml,,,,0.46,ak,ak023a472zq1,2023-08-08T22:00:30.043Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-08T21:54:23.180Z,17.938,-66.8596666666667,11.84,2.08,md,10,215,0.0413,0.12,pr,pr71420923,2023-08-08T22:11:53.160Z,"Puerto Rico region",earthquake,0.67,0.39,0.11036656511379,7,reviewed,pr,pr
 2023-08-08T21:38:21.033Z,58.2266,-155.2757,0.1,0.5,ml,,,,0.97,ak,ak023a46yn73,2023-08-08T21:41:28.042Z,"87 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-08T21:26:56.580Z,33.9563333,-117.154,16.6,1.46,ml,17,90,0.08617,0.2,ci,ci40532112,2023-08-08T21:30:57.485Z,"8 km ENE of Moreno Valley, CA",earthquake,0.51,1.31,0.338,15,automatic,ci,ci
-2023-08-08T21:26:40.080Z,33.9865,-116.9486667,18.43,1.03,ml,21,73,0.07015,0.2,ci,ci40532104,2023-08-08T21:30:37.655Z,"7 km NNE of Beaumont, CA",earthquake,0.37,0.84,0.171,28,automatic,ci,ci
+2023-08-08T21:26:40.200Z,33.9711667,-116.9433333,16.96,0.92,ml,24,83,0.1222,0.1,ci,ci40532104,2023-08-09T16:52:36.631Z,"6 km NE of Beaumont, CA",earthquake,0.18,0.47,0.14,17,reviewed,ci,ci
 2023-08-08T21:25:50.550Z,48.05166666666667,-123.5245,-0.49,2.05,ml,8,130,0.01494,0.46,uw,uw61948491,2023-08-09T06:46:21.785Z,"Washington-British Columbia border region",explosion,1.61,31.61,0.7012773864293664,3,reviewed,uw,uw
 2023-08-08T21:05:54.549Z,36.4655,-98.7585,8.09,1.55,ml,30,70,0.03779258381,0.11,ok,ok2023plsy,2023-08-09T15:28:04.525Z,"16 km SE of Waynoka, Oklahoma",earthquake,,0.3,0.18,5,reviewed,ok,ok
 2023-08-08T21:01:18.050Z,32.779,-116.8866667,-0.35,1.62,ml,19,88,0.06386,0.29,ci,ci40532096,2023-08-09T16:41:55.575Z,"6 km SE of Bostonia, CA",quarry blast,0.43,31.61,0.129,29,reviewed,ci,ci
