@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-10T11:44:40.005Z,59.0538,-154.0855,108,1.4,ml,,,,0.51,ak,ak023a7c4bvk,2023-08-10T11:46:56.733Z,"58 km SE of Kokhanok, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-10T11:18:52.460Z,19.2016658782959,-155.38166809082,31.3899993896484,2.11999989,md,40,174,,0.100000001,hv,hv73518302,2023-08-10T11:22:00.500Z,"10 km E of Pāhala, Hawaii",earthquake,0.55,0.810000002,1.57000005,18,automatic,hv,hv
 2023-08-10T11:12:34.314Z,61.3349,-148.9118,30.4,1.4,ml,,,,0.61,ak,ak023a7bxgiv,2023-08-10T11:14:22.236Z,"13 km S of Knik River, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-08-10T11:02:25.960Z,32.9381667,-116.2663333,7.2,0.77,ml,16,132,0.0352,0.21,ci,ci40533080,2023-08-10T11:06:05.162Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.44,0.76,0.198,8,automatic,ci,ci
