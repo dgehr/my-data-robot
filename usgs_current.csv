@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-10T06:46:38.310Z,34.4468346,-118.7426682,7.84,1.51,ml,18,57,0.07048,0.36,ci,ci40533016,2023-08-10T06:48:48.146Z,"6 km NE of Piru, CA",earthquake,0.67,1.92,0.303,4,automatic,ci,ci
-2023-08-10T06:39:17.990Z,38.8433342,-122.8769989,2.74,1.2,md,22,91,0.007173,0.02,nc,nc73922421,2023-08-10T06:40:52.474Z,"13 km NW of The Geysers, CA",earthquake,0.29,0.49,0.15,24,automatic,nc,nc
+2023-08-10T06:53:10.080Z,36.8736649,-121.6139984,5.25,2.7,md,57,42,,0.15,nc,nc73922426,2023-08-10T06:54:47.853Z,"3 km ESE of Aromas, CA",earthquake,0.23,0.43,0.1,70,automatic,nc,nc
+2023-08-10T06:46:37.720Z,34.4731667,-118.7443333,14.7,1.2,ml,18,55,0.08384,0.37,ci,ci40533016,2023-08-10T06:50:16.398Z,"8 km NE of Piru, CA",earthquake,0.8,1.44,0.285,26,automatic,ci,ci
+2023-08-10T06:39:17.990Z,38.8433342,-122.8769989,2.74,1.2,md,22,91,0.007173,0.02,nc,nc73922421,2023-08-10T06:55:12.373Z,"13 km NW of The Geysers, CA",earthquake,0.29,0.49,0.15,24,automatic,nc,nc
 2023-08-10T06:26:42.258Z,66.0725,-148.8035,0,1.5,ml,,,,0.73,ak,ak023a791b4x,2023-08-10T06:29:36.740Z,"14 km ENE of Stevens Village, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-10T06:14:44.365Z,0.7766,121.4437,90.176,4.9,mb,38,56,0.741,1.11,us,us6000kz0m,2023-08-10T06:40:48.040Z,"182 km W of Gorontalo, Indonesia",earthquake,7.57,6.986,0.079,52,reviewed,us,us
 2023-08-10T06:02:40.890Z,61.3597,-150.3056,56.4,1,ml,,,,0.49,ak,ak023a78w5oh,2023-08-10T06:37:16.243Z,"17 km W of Point MacKenzie, Alaska",earthquake,,1.8,,,automatic,ak,ak
