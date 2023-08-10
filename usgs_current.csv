@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T22:41:54.050Z,37.470665,-118.8281631,5.54,1.8,md,19,118,0.1192,0.02,nc,nc73922706,2023-08-10T22:49:11.923Z,"16 km SW of Toms Place, CA",earthquake,0.5,1.79,0.14,18,automatic,nc,nc
 2023-08-10T22:39:24.771Z,36.4338,-115.0306,0.1,1.7,ml,8,282.73,0.124,0.34,nn,nn00864291,2023-08-10T22:41:51.501Z,"20 km N of Nellis Air Force Base, Nevada",earthquake,,14.4,0.47,6,automatic,nn,nn
 2023-08-10T22:35:07.245Z,62.8516,-151.0478,115.8,0.3,ml,,,,1.24,ak,ak023a7imblg,2023-08-10T22:37:13.087Z,"42 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-08-10T22:32:35.080Z,35.6726667,-117.511,1.72,1.62,ml,18,60,0.07147,0.21,ci,ci40533736,2023-08-10T22:36:45.430Z,"14 km SW of Searles Valley, CA",earthquake,0.33,0.66,0.21,16,automatic,ci,ci
+2023-08-10T22:32:35.150Z,35.669,-117.5148333,4.49,1.63,ml,23,63,0.0743,0.14,ci,ci40533736,2023-08-10T22:54:59.350Z,"15 km SW of Searles Valley, CA",earthquake,0.23,0.57,0.213,16,reviewed,ci,ci
 2023-08-10T22:32:13.360Z,40.4008331,-124.1809998,22.71,1.86,md,13,166,0.08485,0.09,nc,nc73922696,2023-08-10T22:40:10.877Z,"12 km NE of Petrolia, CA",earthquake,1.01,0.82,0.05,5,automatic,nc,nc
 2023-08-10T22:31:51.320Z,33.1866667,-115.6125,2.84,1.21,ml,10,108,0.009152,0.18,ci,ci40533728,2023-08-10T22:50:53.322Z,"10 km SW of Niland, CA",earthquake,0.85,0.42,0.151,10,reviewed,ci,ci
 2023-08-10T22:28:53.703Z,58.198,-155.0945,0,0.4,ml,,,,0.38,ak,ak023a7ikp4q,2023-08-10T22:38:11.120Z,"79 km NNW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T19:52:28.330Z,19.4333324432373,-155.352005004883,3.63000011444092,1.73000002,md,10,122,,0.370000005,hv,hv73518847,2023-08-10T19:55:36.350Z,"12 km W of Volcano, Hawaii",earthquake,1.23,9.68999958,0.980000019,6,automatic,hv,hv
 2023-08-10T19:45:52.700Z,19.384,-155.279,1.42,2.34,ml,36,68,,0.12,hv,hv73518842,2023-08-10T20:39:48.180Z,"8 km SW of Volcano, Hawaii",earthquake,0.15,0.13,0.205347511933028,13,reviewed,hv,hv
 2023-08-10T19:37:00.230Z,17.9326666666667,-66.8426666666667,15.14,2.52,md,7,217,0.05468,0.09,pr,pr71421113,2023-08-10T20:50:32.260Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.55,0.66,0.0630042834091342,5,reviewed,pr,pr
-2023-08-10T19:35:43.090Z,35.45933333,-98.05316667,5.33,1.15,ml,31,89,0.04049205408,0.25,ok,ok2023ppgz,2023-08-10T20:19:46.205Z,"Oklahoma",earthquake,,0.8,0.24,4,reviewed,ok,ok
+2023-08-10T19:35:43.090Z,35.45933333,-98.05316667,5.33,1.15,ml,31,89,0.04049205408,0.25,ok,ok2023ppgz,2023-08-10T20:19:46.205Z,"12 km SW of El Reno, Oklahoma",earthquake,,0.8,0.24,4,reviewed,ok,ok
 2023-08-10T19:17:18.370Z,35.9345,-120.484,9.5,4.28,mw,72,54,0.01574,0.11,nc,nc73922596,2023-08-10T22:44:24.743Z,"6 km NW of Parkfield, CA",earthquake,0.14,0.2,,4,reviewed,nc,nc
 2023-08-10T19:14:52.650Z,38.8146667,-122.8184967,2.54,1.1,md,25,51,0.01016,0.02,nc,nc73922591,2023-08-10T21:46:11.569Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.38,0.14,25,automatic,nc,nc
 2023-08-10T19:08:59.425Z,61.3867,-151.9144,88.1,1.2,ml,,,,0.57,ak,ak023a7go4fq,2023-08-10T19:10:48.026Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -91,6 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T12:12:56.170Z,59.011,-154.22,114.8,1.6,ml,,,,0.56,ak,ak023a7cixtd,2023-08-10T12:15:26.789Z,"57 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-10T12:05:25.740Z,38.7921677,-122.76017,0.62,1.03,md,15,73,0.008453,0.03,nc,nc73922486,2023-08-10T13:17:19.700Z,"2 km N of The Geysers, CA",earthquake,0.24,0.51,0.25,15,automatic,nc,nc
 2023-08-10T12:04:38.149Z,35.45533333,-98.0435,5.52,0.88,ml,21,98,0.03329346669,0.37,ok,ok2023posb,2023-08-10T13:23:01.638Z,"11 km NW of Union City, Oklahoma",earthquake,,1.4,0.31,3,reviewed,ok,ok
+2023-08-10T12:01:33.430Z,58.185,-155.3435,1.91,0.2,ml,9,110,,0.08,av,av91112878,2023-08-10T22:56:19.200Z,"86 km NW of Karluk, Alaska",earthquake,0.19,0.39,0.262356599927142,10,reviewed,av,av
 2023-08-10T12:00:16.380Z,38.8048325,-122.8215027,2.47,1.07,md,19,71,0.007225,0.02,nc,nc73922481,2023-08-10T12:50:15.547Z,"6 km WNW of The Geysers, CA",earthquake,0.23,0.54,0.24,20,automatic,nc,nc
 2023-08-10T11:55:25.230Z,33.8806667,-116.2758333,5.09,0.83,ml,27,89,0.0951,0.15,ci,ci40533088,2023-08-10T20:25:17.036Z,"12 km ENE of Thousand Palms, CA",earthquake,0.22,0.48,0.08,9,reviewed,ci,ci
 2023-08-10T11:54:13.750Z,47.074666666666666,-122,15.45,0.45,ml,23,140,0.08647,0.09,uw,uw61948906,2023-08-10T18:08:54.300Z,"Puget Sound region, Washington",earthquake,0.38,0.53,0.09927826088845093,12,reviewed,uw,uw
