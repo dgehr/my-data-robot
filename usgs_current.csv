@@ -3,6 +3,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T13:30:32.132Z,35.48722458,-98.03246307,3.951418638,2.54,ml,32,106.3059995,0.06283728778,0.8681269463,ok,ok2023poux,2023-08-10T13:44:25.879Z,"8 km SW of El Reno, Oklahoma",earthquake,2.896926737,1.973950558,0.26,24,automatic,ok,ok
 2023-08-10T13:20:36.410Z,38.7654991,-122.7405014,1.89,0.7,md,7,130,0.01283,0.03,nc,nc73922506,2023-08-10T13:37:14.795Z,"2 km SE of The Geysers, CA",earthquake,1.18,1.45,0.11,8,automatic,nc,nc
 2023-08-10T12:41:36.440Z,35.0686667,-118.9531667,15.11,1.09,ml,12,142,0.1164,0.24,ci,ci40533120,2023-08-10T12:46:53.053Z,"14 km N of Grapevine, CA",earthquake,0.79,1.44,0.134,10,automatic,ci,ci
+2023-08-10T12:36:55.496Z,38.5531,-119.5318,4.6,0.5,ml,5,165.05,0.034,0.0601,nn,nn00864249,2023-08-10T13:53:51.268Z,"2 km SW of Coleville, California",earthquake,,2.7,0.21,2,reviewed,nn,nn
+2023-08-10T12:29:25.400Z,39.3494,-119.9863,7.8,0.6,ml,9,116.63,0.069,0.1555,nn,nn00864248,2023-08-10T13:53:50.166Z,"Nevada",earthquake,,1.7,0.28,5,reviewed,nn,nn
 2023-08-10T12:28:32.740Z,38.7849998,-122.7360001,1.69,1.1,md,13,84,0.001849,0.02,nc,nc73922496,2023-08-10T13:22:10.722Z,"2 km ENE of The Geysers, CA",earthquake,0.3,0.66,0.13,14,automatic,nc,nc
 2023-08-10T12:26:11.140Z,38.7661667,-122.7411652,1.86,1.11,md,12,83,0.01354,0.03,nc,nc73922491,2023-08-10T13:45:13.847Z,"2 km SE of The Geysers, CA",earthquake,0.27,0.51,0.18,12,automatic,nc,nc
 2023-08-10T12:12:56.170Z,59.011,-154.22,114.8,1.6,ml,,,,0.56,ak,ak023a7cixtd,2023-08-10T12:15:26.789Z,"57 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -44,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T07:08:47.923Z,-31.5308,-69.4435,114.017,4.4,mb,34,57,0.648,0.86,us,us6000kz0v,2023-08-10T07:28:00.040Z,"San Juan, Argentina",earthquake,4.46,5.101,0.155,13,reviewed,us,us
 2023-08-10T06:58:38.277Z,-5.6413,133.8409,10,5.1,mb,45,109,3.136,0.94,us,us6000kz0u,2023-08-10T07:12:55.040Z,"120 km E of Tual, Indonesia",earthquake,5.32,1.859,0.085,45,reviewed,us,us
 2023-08-10T06:57:32.033Z,57.2033,-155.1314,0,1.7,ml,,,,0.53,ak,ak023a797xjn,2023-08-10T06:59:07.123Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
-2023-08-10T06:53:10.080Z,36.8736649,-121.6139984,5.25,2.7,md,57,42,,0.15,nc,nc73922426,2023-08-10T08:06:14.791Z,"3 km ESE of Aromas, CA",earthquake,0.23,0.43,0.1,70,automatic,nc,nc
+2023-08-10T06:53:10.080Z,36.8736649,-121.6139984,5.25,2.7,md,57,42,,0.15,nc,nc73922426,2023-08-10T14:00:33.960Z,"3 km ESE of Aromas, CA",earthquake,0.23,0.43,0.1,70,automatic,nc,nc
 2023-08-10T06:48:51.816Z,6.4872,126.3356,68.234,4.9,mb,56,96,0.948,0.9,us,us6000kz0s,2023-08-10T07:03:19.040Z,"22 km NE of Pondaguitan, Philippines",earthquake,8.89,7.427,0.084,45,reviewed,us,us
 2023-08-10T06:48:30.828Z,36.7537,-116.2575,8.8,-0.3,ml,7,224.16,0.019,0.039,nn,nn00864246,2023-08-10T13:47:32.913Z,"California-Nevada border region",earthquake,,3,0,1,reviewed,nn,nn
 2023-08-10T06:42:46.160Z,19.2331666666667,-66.537,22.66,3.33,md,15,273,0.7521,0.24,pr,pr71421078,2023-08-10T07:27:14.600Z,"85 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1,19.17,0.059986545019711,12,reviewed,pr,pr
