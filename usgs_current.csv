@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-11T20:40:50.507Z,61.539,-147.1394,0,1.2,ml,,,,0.76,ak,ak023a94zqre,2023-08-11T20:42:52.402Z,"40 km SE of Glacier View, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-11T20:39:50.943Z,58.2091,-155.1779,47.8,0.5,ml,,,,0.67,ak,ak023a94zj2u,2023-08-11T20:42:12.003Z,"83 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-11T20:19:20.160Z,35.6791667,-117.5566667,7.04,1.15,ml,14,131,0.1092,0.18,ci,ci40534640,2023-08-11T20:23:02.467Z,"13 km ENE of Ridgecrest, CA",earthquake,0.42,1.09,0.165,10,automatic,ci,ci
 2023-08-11T20:15:43.330Z,18.8369998931885,-155.164001464844,16.5599994659424,3.24,ml,51,262,,0.170000002,hv,hv73520172,2023-08-11T20:37:18.305Z,"50 km ESE of Naalehu, Hawaii",earthquake,1.16,16.7600002,2.79,27,automatic,hv,hv
