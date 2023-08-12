@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-12T03:36:03.870Z,34.7853333,-118.8533333,12.09,0.77,ml,11,86,0.06637,0.19,ci,ci40534968,2023-08-12T03:39:41.270Z,"1 km S of Gorman, CA",earthquake,0.46,1.04,0.013,4,automatic,ci,ci
 2023-08-12T03:35:31.800Z,36.3438339233398,-89.5318298339844,7.6399998664856,2.27999997,md,7,94,0.08926,0.100000001,nm,nm60544331,2023-08-12T03:40:22.160Z,"6 km SW of Tiptonville, Tennessee",earthquake,0.5,2.16000009,0.370000005,6,reviewed,nm,nm
-2023-08-12T03:27:19.170Z,38.8421669,-122.8115005,6.57,0.68,md,7,139,0.01553,0.04,nc,nc73923241,2023-08-12T03:28:53.626Z,"8 km WNW of Cobb, CA",earthquake,0.7,1.44,0.1,9,automatic,nc,nc
+2023-08-12T03:27:19.170Z,38.8421669,-122.8115005,6.57,0.68,md,7,139,0.01553,0.04,nc,nc73923241,2023-08-12T03:46:15.842Z,"8 km WNW of Cobb, CA",earthquake,0.7,1.44,0.1,9,automatic,nc,nc
 2023-08-12T03:13:05.525Z,58.2564,-155.1205,0.6,1.1,ml,,,,0.57,ak,ak023aai8u61,2023-08-12T03:16:01.913Z,"Alaska Peninsula",earthquake,,0.9,,,automatic,ak,ak
 2023-08-12T03:02:50.820Z,38.8123322,-122.7973328,2.54,0.63,md,7,148,0.004637,0.03,nc,nc73923236,2023-08-12T03:23:19.718Z,"5 km NW of The Geysers, CA",earthquake,0.75,1.51,0.15,9,automatic,nc,nc
 2023-08-12T03:00:31.420Z,19.2919998168945,-155.45832824707,0.75,2.06,ml,35,122,,0.25999999,hv,hv73520617,2023-08-12T03:06:02.940Z,"10 km NNE of Pāhala, Hawaii",earthquake,0.38,0.709999979,0.23,3,automatic,hv,hv
@@ -60,6 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-11T20:05:19.600Z,33.8728333,-117.5065,-0.53,1.5,mh,13,60,0.07532,0.27,ci,ci40534616,2023-08-11T22:12:16.370Z,"2 km ESE of Home Gardens, CA",quarry blast,0.73,31.61,,0,reviewed,ci,ci
 2023-08-11T20:00:58.340Z,32.8143333,-117.059,-0.17,0.93,ml,17,116,0.07313,0.29,ci,ci40534592,2023-08-11T21:55:08.504Z,"6 km NNW of La Mesa, CA",quarry blast,0.66,31.61,0.066,3,reviewed,ci,ci
 2023-08-11T19:48:20.924Z,60.7912,-151.7628,73.8,2.5,ml,,,,0.22,ak,ak023a94fylo,2023-08-11T19:49:43.944Z,"28 km WNW of Nikiski, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-08-11T19:32:56.820Z,53.8495,-166.799,5.39,0.04,ml,7,87,,0.1,av,av91997591,2023-08-12T03:43:36.480Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.35,0.9,0.245461890642663,7,reviewed,av,av
 2023-08-11T19:32:56.270Z,35.6608333,-117.4543333,3.79,0.5,mh,4,255,0.0253,0.12,ci,ci40534560,2023-08-11T22:08:53.638Z,"13 km SSW of Searles Valley, CA",earthquake,0.99,0.93,,0,reviewed,ci,ci
 2023-08-11T19:31:19.570Z,53.8523333333333,-166.8005,4.75,-0.06,ml,6,88,,0.1,av,av91997586,2023-08-12T03:40:59.620Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.34,1.06,0.281122101114095,6,reviewed,av,av
 2023-08-11T19:29:51.680Z,52.0848333333333,-176.154,3.6,0.46,ml,6,146,,0.31,av,av91997581,2023-08-12T03:37:18.510Z,"40 km NE of Adak, Alaska",earthquake,1.21,1.8,0.128412398000731,6,reviewed,av,av
