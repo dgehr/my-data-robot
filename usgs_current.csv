@@ -247,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-11T04:49:31.110Z,19.1298332214355,-155.363998413086,31.4699993133545,1.91999996,md,34,198,,0.0900000036,hv,hv73519207,2023-08-11T04:52:36.060Z,"14 km SE of Pāhala, Hawaii",earthquake,0.65,1.16999996,1.91999996,4,automatic,hv,hv
 2023-08-11T04:47:40.145Z,-7.4569,128.2737,152.135,4.6,mb,41,99,3.336,0.56,us,us6000kz71,2023-08-11T05:07:37.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,8.64,5.934,0.095,33,reviewed,us,us
 2023-08-11T04:47:25.590Z,38.8305016,-122.8273315,4.02,0.76,md,9,67,0.009516,0.06,nc,nc73922811,2023-08-11T06:42:16.694Z,"8 km NW of The Geysers, CA",earthquake,0.79,2.69,0.16,10,automatic,nc,nc
-2023-08-11T04:43:57.584Z,58.2638,-155.125,28.7,0.4,ml,,,,0.56,ak,ak023a8vhgqe,2023-08-11T22:19:15.910Z,"86 km NNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-11T04:43:22.550Z,58.2705,-155.157833333333,33.49,0.13,ml,14,73,,0.21,av,av91996906,2023-08-11T22:06:50.110Z,"Alaska Peninsula",earthquake,0.71,0.99,0.342563872264892,13,reviewed,av,av
