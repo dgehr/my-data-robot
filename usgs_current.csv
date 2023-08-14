@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-14T04:55:05.730Z,33.3463333,-116.6535,0.03,0.51,ml,9,118,0.1752,0.38,ci,ci40536288,2023-08-14T04:58:36.726Z,"7 km NNW of Warner Springs, CA",earthquake,1.06,31.61,0.148,8,automatic,ci,ci
 2023-08-14T04:46:48.830Z,19.3986663818359,-155.273666381836,1.03999996185303,1.74,ml,12,65,,0.0900000036,hv,hv73524412,2023-08-14T04:52:20.300Z,"6 km SW of Volcano, Hawaii",earthquake,0.23,0.419999987,0.09,6,automatic,hv,hv
 2023-08-14T04:33:28.380Z,33.9433333,-116.801,10.23,0.72,ml,25,64,0.03269,0.15,ci,ci40536280,2023-08-14T04:37:05.306Z,"3 km NNW of Cabazon, CA",earthquake,0.3,0.51,0.151,20,automatic,ci,ci
 2023-08-14T04:27:37.886Z,65.1713,-152.7455,6.3,1,ml,,,,0.47,ak,ak023adu01a4,2023-08-14T04:30:07.299Z,"31 km W of Tanana, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -30,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-14T00:08:40.650Z,34.0451667,-118.9051667,5.56,1.56,ml,23,101,0.05903,0.32,ci,ci40536176,2023-08-14T00:12:24.427Z,"10 km WNW of Malibu, CA",earthquake,0.59,0.97,0.186,27,automatic,ci,ci
 2023-08-13T23:50:30.690Z,32.9431667,-115.5238333,9,1.57,ml,15,93,0.1067,0.28,ci,ci40536160,2023-08-13T23:54:14.925Z,"4 km S of Brawley, CA",earthquake,0.62,2.82,0.236,26,automatic,ci,ci
 2023-08-13T23:47:32.230Z,19.3425006866455,-155.332336425781,25.3799991607666,1.93,ml,36,62,,0.150000006,hv,hv73524082,2023-08-14T03:48:53.312Z,"15 km SW of Volcano, Hawaii",earthquake,0.46,0.579999983,0.21,9,automatic,hv,hv
-2023-08-13T23:36:28.120Z,19.4731666666667,-155.284333333333,25.01,4.3,ml,60,38,,0.12,hv,hv73524062,2023-08-14T04:42:51.130Z,"6 km WNW of Volcano, Hawaii",earthquake,0.31,0.47,0.242128187671351,38,reviewed,hv,hv
+2023-08-13T23:36:28.120Z,19.4731666666667,-155.284333333333,25.01,4.3,ml,60,38,,0.12,hv,hv73524062,2023-08-14T05:05:54.047Z,"6 km WNW of Volcano, Hawaii",earthquake,0.31,0.47,0.242128187671351,38,reviewed,hv,hv
 2023-08-13T23:13:30.290Z,34.6288333,-118.6938333,1.67,1.49,ml,28,68,0.02834,0.29,ci,ci40536152,2023-08-13T23:24:14.380Z,"17 km NNW of Castaic, CA",earthquake,0.35,0.53,0.187,28,automatic,ci,ci
 2023-08-13T23:04:59.870Z,53.8486666666667,-166.795166666667,5.24,0.88,ml,7,86,,0.11,av,av92000426,2023-08-14T02:18:28.560Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.31,1.11,0.255312111665008,7,reviewed,av,av
 2023-08-13T23:01:22.140Z,35.8291667,-119.259,19.14,2.16,ml,15,89,0.1421,0.27,ci,ci40536144,2023-08-13T23:12:07.890Z,"7 km N of Delano, CA",earthquake,0.73,1.29,0.181,22,automatic,ci,ci
@@ -47,6 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T22:08:48.600Z,36.550499,-121.126503,5.05,1.93,md,16,133,0.05193,0.11,nc,nc73923806,2023-08-14T00:23:17.333Z,"3 km NE of Pinnacles, CA",earthquake,0.49,1.6,0.11,15,automatic,nc,nc
 2023-08-13T22:08:15.230Z,58.181,-155.367666666667,2.63,0.88,ml,10,64,,0.11,av,av92000356,2023-08-14T02:04:48.020Z,"87 km NW of Karluk, Alaska",earthquake,0.34,0.39,0.163711926905092,10,reviewed,av,av
 2023-08-13T22:05:04.860Z,38.7966652,-122.7539978,2.11,0.72,md,9,92,0.005964,0.02,nc,nc73923791,2023-08-13T23:14:13.959Z,"2 km N of The Geysers, CA",earthquake,0.32,1.69,0.08,10,automatic,nc,nc
+2023-08-13T22:01:25.580Z,61.306,-152.5105,3.62,0.4,ml,8,161,,0.05,av,av92000336,2023-08-14T04:55:59.450Z,"78 km WNW of Tyonek, Alaska",earthquake,0.68,0.28,0.148883324515546,8,reviewed,av,av
 2023-08-13T21:57:56.589Z,61.2822,-152.4358,0.8,1.9,ml,,,,0.92,ak,ak023acgrizu,2023-08-13T22:00:39.396Z,"73 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-13T21:56:46.634Z,61.4722,-146.4478,19.6,1.7,ml,,,,1,ak,ak023acgraif,2023-08-13T21:58:50.512Z,"38 km N of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-13T21:55:27.940Z,19.1979999542236,-155.506500244141,32.2999992370605,1.99000001,md,32,81,,0.119999997,hv,hv73523767,2023-08-13T21:58:37.320Z,"2 km W of Pāhala, Hawaii",earthquake,0.55,0.829999983,0.600000024,17,automatic,hv,hv
@@ -204,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T05:13:16.781Z,38.3158,-119.3309,10.9,1.4,ml,12,127.56,0.092,0.2234,nn,nn00864389,2023-08-14T02:03:49.020Z,"10 km NW of Bridgeport, California",earthquake,,2.8,0.3,6,reviewed,nn,nn
 2023-08-13T05:12:04.080Z,33.704,-116.7641667,16.75,0.71,ml,24,76,0.04472,0.14,ci,ci40535712,2023-08-13T13:42:32.664Z,"6 km SW of Idyllwild, CA",earthquake,0.31,0.49,0.11,17,reviewed,ci,ci
 2023-08-13T05:07:21.790Z,38.8391685,-122.8113327,2.02,0.71,md,9,93,0.01578,0.01,nc,nc73923566,2023-08-13T06:35:21.024Z,"8 km WNW of Cobb, CA",earthquake,0.39,1.1,0.14,9,automatic,nc,nc
-2023-08-13T05:05:01.000Z,19.4006671905518,-155.272338867188,0.46000000834465,1.99,ml,16,49,,0.180000007,hv,hv73522592,2023-08-13T05:10:32.190Z,"6 km SW of Volcano, Hawaii",earthquake,0.19,0.400000006,0.18,8,automatic,hv,hv
