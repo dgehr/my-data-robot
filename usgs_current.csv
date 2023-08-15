@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-15T14:44:24.200Z,37.8671684,-122.0458298,9.94,3.42,ml,69,81,0.04291,0.13,nc,nc73924411,2023-08-15T14:49:31.313Z,"2 km NNW of Alamo, CA",earthquake,0.19,0.34,0.355,54,reviewed,nc,nc
+2023-08-15T14:53:11.140Z,19.3913326263428,-155.273330688477,1.35000002384186,2.55,ml,33,59,,0.189999998,hv,hv73527452,2023-08-15T14:58:41.400Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.25999999,2.13,21,automatic,hv,hv
+2023-08-15T14:44:24.200Z,37.8671684,-122.0458298,9.94,3.42,ml,69,81,0.04291,0.13,nc,nc73924411,2023-08-15T14:54:07.892Z,"2 km NNW of Alamo, CA",earthquake,0.19,0.34,0.355,54,reviewed,nc,nc
 2023-08-15T14:41:13.510Z,33.7705,-116.1441667,2.37,1.02,ml,25,71,0.1565,0.28,ci,ci40537280,2023-08-15T14:44:43.791Z,"9 km NE of Indio, CA",earthquake,0.43,1.54,0.137,25,automatic,ci,ci
 2023-08-15T14:37:22.781Z,61.2873,-152.5151,5.4,1.6,ml,,,,0.31,ak,ak023afnjtti,2023-08-15T14:39:11.054Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-15T14:31:55.900Z,35.6996651,-120.2580032,7.49,1.66,md,16,113,0.03162,0.08,nc,nc73924396,2023-08-15T14:50:11.564Z,"4 km SE of Cholame, CA",earthquake,0.32,0.63,0.07,8,automatic,nc,nc
@@ -239,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-14T15:43:48.550Z,36.7163333333333,-89.507,9.79,1.7,md,26,49,0.02813,0.08,nm,nm60545001,2023-08-15T05:00:30.139Z,"southeastern Missouri",earthquake,0.16,0.35,0.163479036963958,15,reviewed,nm,nm
 2023-08-14T15:33:57.600Z,33.2481667,-116.2906667,10.97,0.71,ml,34,38,0.0633,0.18,ci,ci40536496,2023-08-14T20:16:49.194Z,"8 km E of Borrego Springs, CA",earthquake,0.23,0.48,0.142,10,reviewed,ci,ci
 2023-08-14T15:15:34.410Z,33.1471667,-116.3778333,10.22,1.07,ml,42,46,0.1134,0.2,ci,ci40536480,2023-08-14T20:05:29.724Z,"12 km S of Borrego Springs, CA",earthquake,0.2,0.52,0.124,22,reviewed,ci,ci
-2023-08-14T14:54:03.074Z,61.5096,-141.4941,0,1.7,ml,,,,0.43,ak,ak023ae042z7,2023-08-14T14:56:25.457Z,"76 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
