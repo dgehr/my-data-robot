@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-17T04:17:39.232Z,63.0775,-156.7482,10.2,2.3,ml,,,,1.29,ak,ak023aisjxr8,2023-08-17T04:20:10.428Z,"36 km WNW of Takotna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-17T04:10:07.290Z,38.8370018,-122.7996674,2.07,0.8,md,11,84,0.007416,0.01,nc,nc73924971,2023-08-17T04:11:43.189Z,"7 km WNW of Cobb, CA",earthquake,0.35,0.67,0.19,11,automatic,nc,nc
+2023-08-17T04:10:07.290Z,38.8370018,-122.7996674,2.07,0.8,md,11,84,0.007416,0.01,nc,nc73924971,2023-08-17T04:28:13.462Z,"7 km WNW of Cobb, CA",earthquake,0.35,0.67,0.19,11,automatic,nc,nc
 2023-08-17T03:53:58.093Z,61.9502,-148.659,22.9,1,ml,,,,0.42,ak,ak023ais69d3,2023-08-17T03:56:05.467Z,"19 km NNW of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-17T03:44:05.270Z,33.3726667,-116.9525,9.05,0.39,ml,10,98,0.06835,0.21,ci,ci40538600,2023-08-17T03:47:36.732Z,"8 km WNW of Palomar Observatory, CA",earthquake,0.56,1.19,0.057,8,automatic,ci,ci
 2023-08-17T03:42:12.255Z,37.2815,-114.3612,15,1.8,ml,11,115.7,0.371,0.2848,nn,nn00864569,2023-08-17T03:44:49.448Z,"Nevada",earthquake,,1.2,0.27,7,automatic,nn,nn
@@ -29,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T00:04:15.930Z,19.2534999847412,-155.406661987305,30.4099998474121,2.29,ml,36,144,,0.109999999,hv,hv73530682,2023-08-17T00:09:46.370Z,"9 km NE of Pāhala, Hawaii",earthquake,0.57,0.699999988,0.23,5,automatic,hv,hv
 2023-08-17T00:00:34.160Z,35.7075,-117.5438333,9.28,0.5,ml,11,114,0.1065,0.14,ci,ci40538528,2023-08-17T00:15:34.032Z,"14 km WSW of Searles Valley, CA",earthquake,0.36,1.09,0.207,3,reviewed,ci,ci
 2023-08-16T23:49:44.966Z,-22.0245,-179.4694,587.674,4.2,mb,20,90,4.06,0.64,us,us7000knwe,2023-08-17T00:25:23.040Z,"south of the Fiji Islands",earthquake,15.07,11.459,0.141,14,reviewed,us,us
-2023-08-16T23:47:18.407Z,-14.9356,167.2278,109.95,4.3,mb,19,202,6.248,0.87,us,us7000knwd,2023-08-17T00:09:51.040Z,"20 km NE of Port-Olry, Vanuatu",earthquake,15.58,7.669,0.142,14,reviewed,us,us
+2023-08-16T23:47:18.407Z,-14.9356,167.2278,109.95,4.3,mb,19,202,6.248,0.87,us,us7000knwd,2023-08-17T04:33:40.558Z,"20 km NE of Port-Olry, Vanuatu",earthquake,15.58,7.669,0.142,14,reviewed,us,us
 2023-08-16T23:43:33.190Z,46.80016666666667,-121.94766666666666,5.77,0.53,ml,18,162,0.02365,0.12,uw,uw61941747,2023-08-17T03:04:01.250Z,"Washington",earthquake,0.41,0.5,0.15614902436872646,10,reviewed,uw,uw
 2023-08-16T23:39:05.202Z,64.0241,-148.7904,0,1.5,ml,,,,0.75,ak,ak023ahgggu0,2023-08-16T23:41:05.417Z,"15 km E of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-16T23:37:51.510Z,19.40016746521,-155.286499023438,1.20000004768372,1.79,ml,11,74,,0.100000001,hv,hv73530627,2023-08-16T23:43:22.270Z,"Island of Hawaii, Hawaii",earthquake,0.26,0.389999986,0.13,7,automatic,hv,hv
@@ -45,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T22:11:45.649Z,67.2762,-156.6759,6.2,2.7,ml,,,,0.58,ak,ak023ahfp4at,2023-08-16T22:21:34.040Z,"42 km NNE of Kobuk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-16T22:11:45.061Z,61.3881,-150.6754,59.9,1.8,ml,,,,0.43,ak,ak023ahfp496,2023-08-16T22:13:29.026Z,"19 km SSW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-08-16T22:00:42.600Z,32.6226667,-116.9898333,-0.35,0.92,ml,12,234,0.0525,0.27,ci,ci40538488,2023-08-16T23:27:19.216Z,"5 km SE of Bonita, CA",quarry blast,2.3,31.61,0.091,6,reviewed,ci,ci
-2023-08-16T21:44:26.064Z,35.78736496,-98.57900238,5.977014542,2.56,ml,26,150.7366333,0.1918428689,0.4606585876,ok,ok2023qakf,2023-08-16T21:47:06.744Z,"15 km ENE of Thomas, Oklahoma",earthquake,2.958570626,3.158186322,0.17,22,automatic,ok,ok
+2023-08-16T21:44:26.064Z,35.78736496,-98.57900238,5.977014542,2.56,ml,26,150.7366333,0.1918428689,0.4606585876,ok,ok2023qakf,2023-08-17T04:27:37.383Z,"15 km ENE of Thomas, Oklahoma",earthquake,2.958570626,3.158186322,0.17,22,automatic,ok,ok
 2023-08-16T21:08:54.660Z,20.1692,-64.2043,18.224,4.5,mwr,55,44,1.942,0.79,us,us7000knv6,2023-08-16T22:27:31.530Z,"212 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,7.38,4.497,0.054,33,reviewed,us,us
 2023-08-16T20:53:20.080Z,19.3973331451416,-155.260665893555,-0.949999988079071,1.78,ml,14,52,,0.189999998,hv,hv73530357,2023-08-16T20:58:53.420Z,"5 km SSW of Volcano, Hawaii",earthquake,0.19,0.379999995,0.3,8,automatic,hv,hv
 2023-08-16T20:51:27.910Z,34.1778333,-117.9218333,-0.67,1.14,ml,12,114,0.04427,0.22,ci,ci40538448,2023-08-16T23:13:11.712Z,"5 km NNW of Azusa, CA",quarry blast,0.73,31.61,0.205,5,reviewed,ci,ci
@@ -184,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T04:44:56.568Z,37.3373,-117.6046,3.7,0.8,ml,10,100.94,0.11,0.1348,nn,nn00864520,2023-08-16T18:23:56.517Z,"46 km S of Silver Peak, Nevada",earthquake,,3,0.24,7,reviewed,nn,nn
 2023-08-16T04:37:59.290Z,44.736,-111.1253333,9.65,1.54,ml,6,167,0.05263,0.22,uu,uu60033609,2023-08-16T14:01:35.230Z,"6 km SE of Hebgen Lake Estates, Montana",earthquake,1.16,1.73,0.266,4,reviewed,uu,uu
 2023-08-16T04:37:54.740Z,44.7371667,-111.133,12.23,1.44,ml,14,103,0.04706,0.19,uu,uu60547727,2023-08-16T13:56:55.610Z,"5 km SE of Hebgen Lake Estates, Montana",earthquake,0.56,1.12,0.348,3,reviewed,uu,uu
-2023-08-16T04:28:28.346Z,59.135,-152.7436,88.4,1.6,ml,,,,0.43,ak,ak023ah52x8y,2023-08-16T04:30:18.729Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
