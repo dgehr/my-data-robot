@@ -23,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T20:27:26.200Z,34.8891667,-119.0406667,12.12,1.53,ml,28,81,0.08971,0.18,ci,ci39643202,2023-08-17T20:43:03.864Z,"11 km ENE of Pine Mountain Club, CA",earthquake,0.3,0.64,0.169,20,reviewed,ci,ci
 2023-08-17T20:25:15.319Z,39.2038,-116.1133,15.8,3,ml,7,153.81,0.909,0.1747,nn,nn00864609,2023-08-17T21:30:34.040Z,"36 km SSW of Eureka, Nevada",earthquake,,3.8,0.25,4,reviewed,nn,nn
 2023-08-17T20:24:43.859Z,58.2826,-155.1265,1.2,1,ml,,,,0.27,ak,ak023aj24dr5,2023-08-17T20:26:15.536Z,"88 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-08-17T20:21:48.226Z,63.2225,-150.4987,125.5,1.9,ml,,,,0.36,ak,ak023aj23qxy,2023-08-17T20:24:13.067Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-08-17T20:21:48.226Z,63.2225,-150.4987,125.5,1.9,ml,,,,0.36,ak,ak023aj23qxy,2023-08-17T20:24:13.067Z,"70 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-17T19:59:12.938Z,58.2723,-155.1113,1.1,2,ml,,,,0.4,ak,ak023aj1qdtp,2023-08-17T20:00:24.445Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-08-17T19:58:59.980Z,34.8986667,-119.039,8.89,3.39,ml,80,26,0.08536,0.29,ci,ci39643162,2023-08-17T23:12:51.515Z,"11 km WSW of Grapevine, CA",earthquake,0.23,0.51,0.163,111,reviewed,ci,ci
 2023-08-17T19:58:17.021Z,38.15,-117.8963,6.1,1,ml,8,171.16,0.085,0.0864,nn,nn00864607,2023-08-17T20:00:53.657Z,"32 km SE of Mina, Nevada",earthquake,,0.6,0.9,6,automatic,nn,nn
@@ -45,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T17:40:16.323Z,4.2333,-73.6879,10,4.8,mb,81,70,0.876,1.17,us,us7000kp2s,2023-08-17T20:18:58.223Z,"12 km NW of Villavicencio, Colombia",earthquake,5.73,1.876,0.072,60,reviewed,us,us
 2023-08-17T17:37:36.171Z,28.91876221,-97.6071921,6.627237956,2.4,ml,14,120,0.06019080892,0.2,tx,tx2023qbxp,2023-08-17T18:52:54.421Z,"0 km SE of Nordheim, Texas",earthquake,2.890014631,3.888655324,0.1,7,reviewed,tx,tx
 2023-08-17T17:34:19.593Z,58.1693,-155.3429,1.1,1.6,ml,,,,0.82,ak,ak023aj0e687,2023-08-17T17:36:02.212Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
-2023-08-17T17:25:45.540Z,38.675,-87.5638333333333,0.09,2.42,md,13,92,0.4229,0.67,nm,nm60501038,2023-08-17T23:26:41.974Z,"3 km W of Vincennes, Indiana",earthquake,0.98,4.84,0.421374156076452,8,reviewed,nm,nm
+2023-08-17T17:25:45.540Z,38.675,-87.5638333333333,0.09,2.42,md,13,92,0.4229,0.67,nm,nm60501038,2023-08-17T23:39:34.140Z,"3 km W of Vincennes, Indiana",earthquake,0.98,4.84,0.421374156076452,8,reviewed,nm,nm
 2023-08-17T17:24:42.830Z,19.1823329925537,-155.35466003418,29.9799995422363,1.97000003,md,31,189,,0.109999999,hv,hv73531457,2023-08-17T17:28:02.960Z,"13 km E of Pāhala, Hawaii",earthquake,0.69,0.810000002,0.430000007,9,automatic,hv,hv
 2023-08-17T17:21:46.905Z,61.4162,-151.5046,67.8,1.8,ml,,,,0.19,ak,ak023aj0bg0y,2023-08-17T17:23:17.528Z,"38 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-17T17:20:31.640Z,37.2021,-104.7282,5.096,3,ml,28,58,0.091,1.48,us,us7000kp2k,2023-08-17T19:24:32.308Z,"8 km NNE of Segundo, Colorado",earthquake,4,5.891,0.091,16,reviewed,us,us
@@ -231,7 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T23:49:44.966Z,-22.0245,-179.4694,587.674,4.2,mb,20,90,4.06,0.64,us,us7000knwe,2023-08-17T00:25:23.040Z,"south of the Fiji Islands",earthquake,15.07,11.459,0.141,14,reviewed,us,us
 2023-08-16T23:47:18.407Z,-14.9356,167.2278,109.95,4.3,mb,19,202,6.248,0.87,us,us7000knwd,2023-08-17T04:33:40.558Z,"Vanuatu",earthquake,15.58,7.669,0.142,14,reviewed,us,us
 2023-08-16T23:43:33.190Z,46.80016666666667,-121.94766666666666,5.77,0.53,ml,18,162,0.02365,0.12,uw,uw61941747,2023-08-17T03:04:01.250Z,"Washington",earthquake,0.41,0.5,0.15614902436872646,10,reviewed,uw,uw
-2023-08-16T23:39:05.202Z,64.0241,-148.7904,0,1.5,ml,,,,0.75,ak,ak023ahgggu0,2023-08-16T23:41:05.417Z,"15 km E of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-16T23:37:51.510Z,19.40016746521,-155.286499023438,1.20000004768372,1.79,ml,11,74,,0.100000001,hv,hv73530627,2023-08-16T23:43:22.270Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.389999986,0.13,7,automatic,hv,hv
-2023-08-16T23:37:23.600Z,19.2521667480469,-155.410171508789,30.9699993133545,2.54,ml,25,143,,0.100000001,hv,hv73530622,2023-08-16T23:51:32.281Z,"Island of Hawaii, Hawaii",earthquake,0.85,0.970000029,0.23,6,automatic,hv,hv
-2023-08-16T23:36:21.210Z,39.5101667,-123.3368333,7.88,1.6,md,20,96,0.04113,0.06,nc,nc73924916,2023-08-17T20:33:13.970Z,"8 km NNE of Brooktrails, CA",earthquake,0.18,0.32,0.163,22,reviewed,nc,nc
