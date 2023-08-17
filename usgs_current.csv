@@ -97,7 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T16:40:56.360Z,19.4023342132568,-155.276840209961,1.07000005245209,1.79999995,md,13,76,,0.159999996,hv,hv73529952,2023-08-16T16:46:28.810Z,"6 km SW of Volcano, Hawaii",earthquake,0.36,0.25,0.779999971,12,automatic,hv,hv
 2023-08-16T16:40:33.649Z,63.107,-151.3602,0,1.1,ml,,,,1,ak,ak023ahcapic,2023-08-16T16:42:21.344Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-16T16:39:59.675Z,-24.3781,-176.0386,26.179,4.9,mb,30,111,3.285,1.06,us,us7000knt7,2023-08-16T18:53:25.040Z,"south of the Fiji Islands",earthquake,10.76,4.558,0.068,69,reviewed,us,us
-2023-08-16T16:38:48.909Z,62.8769,-150.1017,79.7,1.1,ml,,,,0.74,ak,ak023ahcab96,2023-08-16T16:40:56.646Z,"Central Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-08-16T16:38:48.909Z,62.8769,-150.1017,79.7,1.1,ml,,,,0.74,ak,ak023ahcab96,2023-08-16T16:40:56.646Z,"47 km N of Chase, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-08-16T16:23:22.550Z,19.2343330383301,-155.393173217773,30.9699993133545,1.83000004,md,30,168,,0.0900000036,hv,hv73529912,2023-08-16T16:26:31.510Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.62,0.689999998,1.36000001,8,automatic,hv,hv
 2023-08-16T16:16:17.940Z,36.0828333,-117.8925,3.8,0.37,ml,7,185,0.04617,0.04,ci,ci40538136,2023-08-16T17:51:12.166Z,"6 km NE of Coso Junction, CA",earthquake,0.24,0.3,0.071,1,reviewed,ci,ci
 2023-08-16T16:13:06.590Z,19.4018325805664,-155.274505615234,0.300000011920929,2.11,ml,17,37,,0.109999999,hv,hv73529882,2023-08-16T16:18:36.920Z,"6 km SW of Volcano, Hawaii",earthquake,0.14,0.239999995,0.22,8,automatic,hv,hv
@@ -167,6 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T07:47:55.113Z,28.93157959,-99.10029871,5.306681315,2.1,ml,14,117,0.3439644843,0.3,tx,tx2023pziq,2023-08-16T21:50:33.611Z,"1 km NNW of North Pearsall, Texas",earthquake,3.582769146,3.130635807,0.1,12,reviewed,tx,tx
 2023-08-16T07:40:53.150Z,19.3876666666667,-155.279333333333,1.04,0.26,md,11,103,,0.08,hv,hv73529057,2023-08-16T08:25:03.890Z,"Island of Hawaii, Hawaii",earthquake,0.26,0.21,0.0960800288993717,3,reviewed,hv,hv
 2023-08-16T07:39:40.520Z,38.8011665,-122.8010025,1.56,0.49,md,8,89,0.008121,0.01,nc,nc73924666,2023-08-16T09:08:12.502Z,"5 km NW of The Geysers, CA",earthquake,0.37,0.83,0.22,10,automatic,nc,nc
-2023-08-16T07:37:05.641Z,61.2931,-152.4339,0.8,1.3,ml,,,,0.82,ak,ak023ah6x3r8,2023-08-16T07:39:01.950Z,"74 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-16T07:34:35.699Z,49.2796,156.0542,33.703,4.7,mb,53,165,3.971,1.03,us,us7000knm1,2023-08-16T07:55:59.040Z,"155 km S of Severo-Kuril’sk, Russia",earthquake,10.97,6.746,0.065,71,reviewed,us,us
-2023-08-16T07:34:28.000Z,38.8400002,-122.8089981,1.85,0.67,md,7,87,0.01465,0.01,nc,nc73924661,2023-08-16T07:54:13.050Z,"8 km WNW of Cobb, CA",earthquake,0.63,1.38,0.27,10,automatic,nc,nc
