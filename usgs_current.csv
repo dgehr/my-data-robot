@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-18T06:26:44.970Z,32.4173333,-115.1538333,1.67,2.29,ml,16,73,0.04877,0.3,ci,ci39643586,2023-08-18T06:30:19.214Z,"8 km NNE of Delta, B.C., MX",earthquake,0.65,1.18,0.048,8,automatic,ci,ci
+2023-08-18T06:25:17.490Z,32.404,-115.1261667,7.36,2.43,ml,16,72,0.04631,0.27,ci,ci39643578,2023-08-18T06:28:45.550Z,"8 km NE of Delta, B.C., MX",earthquake,0.71,1.11,0.157,27,automatic,ci,ci
 2023-08-18T06:18:34.160Z,33.0965,-116.5793333,13.45,0.58,ml,14,143,0.02176,0.24,ci,ci39643570,2023-08-18T06:21:57.350Z,"3 km NE of Julian, CA",earthquake,0.73,0.8,0.112,5,automatic,ci,ci
 2023-08-18T06:17:14.720Z,61.507,-149.9192,32.9,1.1,ml,,,,0.21,ak,ak023akha3io,2023-08-18T06:19:19.924Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-18T06:14:51.807Z,56.9317,-155.7522,75.1,2.4,ml,,,,0.68,ak,ak023akh9j8c,2023-08-18T06:17:59.207Z,"96 km W of Akhiok, Alaska",earthquake,,1.8,,,automatic,ak,ak
