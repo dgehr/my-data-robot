@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-18T20:20:54.881Z,63.151,-144.441,0,1.2,ml,,,,0.51,ak,ak023akpmw8g,2023-08-18T20:22:53.097Z,"42 km NW of Mentasta Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-18T20:12:01.928Z,56.9345,-156.1628,0,1.9,ml,,,,0.56,ak,ak023akpl2f4,2023-08-18T20:14:02.049Z,"98 km SE of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-18T20:11:16.038Z,58.2853,-155.2393,15.8,0.3,ml,,,,0.56,ak,ak023akpkvsj,2023-08-18T20:12:55.384Z,"92 km NNW of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-08-18T20:05:26.749Z,60.2144,-150.9658,59.8,2,ml,,,,0.65,ak,ak023akpjmab,2023-08-18T20:07:37.312Z,"21 km SE of Kasilof, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -227,7 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T20:46:40.100Z,33.0568333,-116.079,10.7,1.11,ml,24,79,0.1236,0.15,ci,ci39643234,2023-08-17T21:09:46.380Z,"11 km SSE of Ocotillo Wells, CA",earthquake,0.26,0.74,0.132,18,reviewed,ci,ci
 2023-08-17T20:38:19.090Z,34.878,-119.0365,13.35,1.22,ml,15,95,0.09136,0.14,ci,ci39643218,2023-08-17T20:58:55.316Z,"10 km NW of Frazier Park, CA",earthquake,0.31,0.57,0.273,10,reviewed,ci,ci
 2023-08-17T20:37:30.679Z,36.7275,-116.0868,13.7,-0.1,ml,7,107.16,0.023,0.1283,nn,nn00864610,2023-08-18T17:51:18.278Z,"41 km WNW of Indian Springs, Nevada",earthquake,,3.3,0.12,3,reviewed,nn,nn
-2023-08-17T20:27:26.200Z,34.8891667,-119.0406667,12.12,1.53,ml,28,81,0.08971,0.18,ci,ci39643202,2023-08-17T20:43:03.864Z,"11 km ENE of Pine Mountain Club, CA",earthquake,0.3,0.64,0.169,20,reviewed,ci,ci
-2023-08-17T20:25:15.319Z,39.2038,-116.1133,15.8,3,ml,7,153.81,0.909,0.1747,nn,nn00864609,2023-08-17T21:30:34.040Z,"36 km SSW of Eureka, Nevada",earthquake,,3.8,0.25,4,reviewed,nn,nn
-2023-08-17T20:24:43.859Z,58.2826,-155.1265,1.2,1,ml,,,,0.27,ak,ak023aj24dr5,2023-08-17T20:26:15.536Z,"88 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-08-17T20:21:48.226Z,63.2225,-150.4987,125.5,1.9,ml,,,,0.36,ak,ak023aj23qxy,2023-08-17T20:24:13.067Z,"70 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
