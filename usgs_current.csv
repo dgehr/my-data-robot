@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-18T10:05:06.510Z,36.7775002,-121.3338318,4.57,1.11,md,8,89,,0.07,nc,nc73925616,2023-08-18T10:06:44.265Z,"2 km SW of Tres Pinos, CA",earthquake,0.51,0.76,0.26,7,automatic,nc,nc
-2023-08-18T10:02:18.620Z,33.0125,-116.2906667,9.8,1.5,ml,48,34,0.05872,0.2,ci,ci39643746,2023-08-18T10:05:49.848Z,"21 km SW of Ocotillo Wells, CA",earthquake,0.25,0.58,0.163,26,automatic,ci,ci
+2023-08-18T10:05:06.510Z,36.7775002,-121.3338318,4.57,1.11,md,8,89,,0.07,nc,nc73925616,2023-08-18T10:21:12.592Z,"2 km SW of Tres Pinos, CA",earthquake,0.51,0.76,0.26,7,automatic,nc,nc
+2023-08-18T10:02:18.620Z,33.0125,-116.2906667,9.8,1.5,ml,48,34,0.05872,0.2,ci,ci39643746,2023-08-18T10:13:29.000Z,"21 km SW of Ocotillo Wells, CA",earthquake,0.25,0.58,0.163,26,automatic,ci,ci
 2023-08-18T09:44:18.880Z,33.6385002,-116.6986694,14.1,1.05,ml,14,58,0.07621,0.13,ci,ci39643738,2023-08-18T09:47:50.516Z,"10 km NNW of Anza, CA",earthquake,0.48,0.86,0.482,6,automatic,ci,ci
 2023-08-18T09:35:07.049Z,62.2078,-148.6606,31.1,1.2,ml,,,,0.45,ak,ak023akj68mo,2023-08-18T09:37:03.416Z,"46 km NNW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-18T09:31:30.459Z,62.5461,-149.3143,43.3,2.6,ml,,,,0.76,ak,ak023akj5fk8,2023-08-18T09:33:35.130Z,"41 km ENE of Chase, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T08:38:35.630Z,33.2901667,-116.3001667,9.82,0.94,ml,23,66,0.1004,0.21,ci,ci39643730,2023-08-18T08:42:14.217Z,"8 km ENE of Borrego Springs, CA",earthquake,0.37,0.93,0.171,18,automatic,ci,ci
 2023-08-18T08:24:20.830Z,38.7946663,-122.7371674,1.84,0.25,md,7,100,0.01142,0.01,nc,nc73925586,2023-08-18T08:55:11.147Z,"3 km NE of The Geysers, CA",earthquake,0.31,1.1,0.03,6,automatic,nc,nc
 2023-08-18T08:17:57.637Z,52.2097,151.1431,594.37,4.5,mb,130,104,4.092,0.63,us,us7000kp6r,2023-08-18T08:31:21.040Z,"Sea of Okhotsk",earthquake,10.79,8.297,0.027,390,reviewed,us,us
-2023-08-18T08:16:45.540Z,37.4544983,-118.7779999,11.78,1.88,md,22,183,0.1413,0.04,nc,nc73925576,2023-08-18T08:49:11.116Z,"15 km SW of Toms Place, CA",earthquake,0.64,1.23,0.09,19,automatic,nc,nc
+2023-08-18T08:16:45.540Z,37.4544983,-118.7779999,11.78,1.88,md,22,183,0.1413,0.04,nc,nc73925576,2023-08-18T10:13:11.552Z,"15 km SW of Toms Place, CA",earthquake,0.64,1.23,0.09,19,automatic,nc,nc
 2023-08-18T08:14:37.687Z,61.781,-150.3433,27.5,1.3,ml,,,,0.23,ak,ak023akigdco,2023-08-18T08:16:49.566Z,"16 km WNW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-18T08:12:06.110Z,33.4066667,-116.3351667,11.01,0.73,ml,15,92,0.1542,0.18,ci,ci39643722,2023-08-18T08:15:32.076Z,"17 km NNE of Borrego Springs, CA",earthquake,0.43,0.95,0.083,16,automatic,ci,ci
 2023-08-18T08:01:20.500Z,38.8161659,-122.8143311,2.88,0.77,md,20,76,0.007948,0.02,nc,nc73925566,2023-08-18T08:32:14.018Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.56,0.14,21,automatic,nc,nc
@@ -221,7 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T10:38:02.750Z,46.23416666666667,-122.12333333333333,7.98,0.17,ml,10,184,0.01399,0.08,uw,uw61941832,2023-08-17T12:26:30.620Z,"37 km SSE of Morton, Washington",earthquake,0.57,1,0.08523718164610819,9,reviewed,uw,uw
 2023-08-17T10:34:00.620Z,33.9951667,-116.575,9.98,0.89,ml,42,58,0.0591,0.14,ci,ci40538712,2023-08-17T15:55:07.475Z,"6 km S of Morongo Valley, CA",earthquake,0.15,0.38,0.13,20,reviewed,ci,ci
 2023-08-17T10:28:10.320Z,33.224,-116.0915,10.16,1.09,ml,47,50,0.1047,0.19,ci,ci40538704,2023-08-17T15:48:19.442Z,"10 km NNE of Ocotillo Wells, CA",earthquake,0.18,0.54,0.117,19,reviewed,ci,ci
-2023-08-17T10:22:24.010Z,34.1561667,-117.4483333,6.92,1.27,ml,42,35,0.04026,0.19,ci,ci40538696,2023-08-17T13:22:37.310Z,"7 km N of Fontana, CA",earthquake,0.21,0.56,0.182,26,reviewed,ci,ci
-2023-08-17T10:20:09.930Z,44.583,-110.3366667,3.57,0.47,md,6,100,0.05164,0.06,uu,uu60547817,2023-08-17T13:19:38.390Z,"52 km SSE of Mammoth, Wyoming",earthquake,0.63,1.52,0.272,5,reviewed,uu,uu
-2023-08-17T10:16:55.740Z,52.8095,-169.964,15.11,0.28,ml,4,305,,0.11,av,av91113563,2023-08-17T20:46:14.650Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,4.28,1.31,0.346933613563645,4,reviewed,av,av
-2023-08-17T10:13:57.324Z,39.5416,-118.1502,11.7,2,ml,4,136.76,0.233,0.0571,nn,nn00864579,2023-08-17T20:53:19.816Z,"50 km ENE of Fallon Station, Nevada",earthquake,,10.4,0.15,3,reviewed,nn,nn
