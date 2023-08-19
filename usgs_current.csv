@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-19T11:32:04.023Z,35.70289993,-98.1220932,7.559745789,1.74,ml,10,82.52392578,0.08587116748,1.077341669,ok,ok2023qfcn,2023-08-19T11:35:16.905Z,"11 km N of Calumet, Oklahoma",earthquake,6.030314013,5.561339017,0.21,6,automatic,ok,ok
 2023-08-19T11:16:58.350Z,19.1310005187988,-155.494003295898,30.5200004577637,1.80999994,md,36,165,,0.150000006,hv,hv73533522,2023-08-19T11:20:20.180Z,"8 km SSW of Pāhala, Hawaii",earthquake,0.71,0.980000019,0.180000007,5,automatic,hv,hv
 2023-08-19T10:43:42.140Z,33.4783333,-116.8876667,11.66,0.74,ml,26,58,0.07077,0.19,ci,ci39644538,2023-08-19T10:47:13.748Z,"4 km NNW of Aguanga, CA",earthquake,0.32,0.92,0.122,19,automatic,ci,ci
 2023-08-19T10:23:07.220Z,33.5773333,-116.8176667,7.07,0.47,ml,11,122,0.05824,0.12,ci,ci39644530,2023-08-19T10:26:34.766Z,"14 km W of Anza, CA",earthquake,0.45,0.59,0.182,10,automatic,ci,ci
