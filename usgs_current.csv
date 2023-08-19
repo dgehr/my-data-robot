@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-19T02:45:33.042Z,35.50927353,-98.00283051,5,2.03,ml,14,96.18028259,0.08749365807,0.6578018412,ok,ok2023qele,2023-08-19T02:48:29.741Z,"5 km WSW of El Reno, Oklahoma",earthquake,3.969960187,,0.28,13,automatic,ok,ok
 2023-08-19T02:34:35.839Z,64.9522,-148.3258,13.2,0.6,ml,,,,0.39,ak,ak023am2jee7,2023-08-19T02:36:51.784Z,"18 km NW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-19T02:26:04.254Z,61.8516,-149.8519,32.3,2,ml,,,,0.47,ak,ak023am2hm89,2023-08-19T02:27:47.006Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-19T02:17:52.877Z,31.67759373,-104.3855085,5.668823242,3.4,ml,11,70,0.0345377578,0.2,tx,tx2023qekg,2023-08-19T02:36:51.007Z,"55 km S of Whites City, New Mexico",earthquake,0.9350991174999999,0.9333514845,0.2,9,reviewed,tx,tx
@@ -63,6 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T18:29:17.060Z,54.7485,-164.111,1.21,2.07,ml,8,106,,0.27,av,av92007851,2023-08-18T18:55:48.750Z,"46 km WSW of False Pass, Alaska",earthquake,0.79,0.47,0.287829617560938,13,reviewed,av,av
 2023-08-18T18:27:48.970Z,60.3819,-141.149,16.8,1.4,ml,,,,0.46,ak,ak023akohild,2023-08-18T18:30:13.355Z,"122 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-18T18:26:09.173Z,56.0182,-160.4702,164.3,3,ml,,,,0.62,ak,ak023akoh7ul,2023-08-18T18:39:31.830Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
+2023-08-18T18:24:20.400Z,60.5563333333333,-152.818,7.2,-0.48,ml,7,92,,0.05,av,av92007836,2023-08-19T02:47:22.200Z,"82 km W of Salamatof, Alaska",earthquake,0.33,0.64,0.486185078732433,7,reviewed,av,av
 2023-08-18T18:23:57.700Z,62.3644,-149.0897,12.5,1,ml,,,,0.21,ak,ak023akogoe2,2023-08-18T18:25:30.498Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-18T18:22:02.700Z,35.48616667,-98.04383333,4.31,1.7,ml,85,60,0.06298763968,0.32,ok,ok2023qduo,2023-08-18T18:51:43.777Z,"9 km WSW of El Reno, Oklahoma",earthquake,,0.8,0.23,42,reviewed,ok,ok
 2023-08-18T18:20:51.817Z,55.5219,-158.4388,20.2,1.8,ml,,,,0.27,ak,ak023akog1ds,2023-08-18T19:28:58.622Z,"62 km SE of Perryville, Alaska",earthquake,,1.2,,,reviewed,ak,ak
