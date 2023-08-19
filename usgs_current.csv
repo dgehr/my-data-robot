@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-19T08:43:27.060Z,17.9155,-66.948,12.33,2.33,md,7,233,0.08826,0.16,pr,pr71421758,2023-08-19T08:56:50.970Z,"7 km SW of Guánica, Puerto Rico",earthquake,1.28,0.54,0.201351983414285,3,reviewed,pr,pr
 2023-08-19T08:42:59.744Z,37.3189,-116.4695,2,1.2,ml,12,172.32,0.155,0.2924,nn,nn00864655,2023-08-19T08:45:31.189Z,"52 km NNE of Beatty, Nevada",earthquake,,5.4,0.81,8,automatic,nn,nn
 2023-08-19T08:39:28.809Z,59.0325,-153.8008,102.2,1.1,ml,,,,0.43,ak,ak023am65228,2023-08-19T08:41:43.075Z,"70 km SSE of Pope-Vannoy Landing, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-19T08:33:23.971Z,-7.2785,128.9077,154.724,4.6,mb,19,80,5.208,0.78,us,us7000kpfm,2023-08-19T08:50:14.040Z,"251 km ENE of Lospalos, Timor Leste",earthquake,10.13,6.67,0.152,13,reviewed,us,us
