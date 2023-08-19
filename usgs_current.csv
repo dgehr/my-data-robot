@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-19T16:34:07.440Z,34.1521667,-117.5215,6.38,1.2,ml,17,123,0.1328,0.27,ci,ci39644762,2023-08-19T16:37:44.672Z,"6 km ENE of Rancho Cucamonga, CA",earthquake,0.57,2.24,0.478,22,automatic,ci,ci
 2023-08-19T16:23:16.550Z,35.8028333,-117.62,8.23,0.4,ml,9,161,0.1179,0.08,ci,ci39644754,2023-08-19T16:26:53.655Z,"20 km WNW of Searles Valley, CA",earthquake,0.41,1.06,0.166,2,automatic,ci,ci
-2023-08-19T16:16:58.150Z,34.412,-119.9148333,2.51,2.41,ml,30,113,0.1261,0.32,ci,ci39644746,2023-08-19T16:38:45.575Z,"5 km W of Isla Vista, CA",earthquake,0.5,0.83,0.154,26,automatic,ci,ci
+2023-08-19T16:16:58.150Z,34.412,-119.9148333,2.51,2.41,ml,30,113,0.1261,0.32,ci,ci39644746,2023-08-19T16:43:59.256Z,"5 km W of Isla Vista, CA",earthquake,0.5,0.83,0.154,26,automatic,ci,ci
 2023-08-19T15:54:17.865Z,61.5472,-150.3779,37.8,2,ml,,,,0.28,ak,ak023amaea6y,2023-08-19T15:55:34.381Z,"7 km E of Susitna, Alaska",earthquake,,4.7,,,automatic,ak,ak
 2023-08-19T15:49:45.961Z,66.3841,-153.0058,0,1.8,ml,,,,0.54,ak,ak023amad9s4,2023-08-19T15:51:47.665Z,"23 km SW of Alatna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-19T15:44:46.740Z,33.436,-116.891,8.73,0.43,ml,11,104,0.08552,0.19,ci,ci39644730,2023-08-19T15:48:20.656Z,"2 km WSW of Aguanga, CA",earthquake,0.57,1.36,0.092,7,automatic,ci,ci
@@ -200,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T17:03:12.130Z,33.3623333,-118.1078333,14.67,2.17,ml,29,149,0.1927,0.2,ci,ci39644002,2023-08-18T23:29:53.355Z,"20 km E of Avalon, CA",earthquake,0.4,0.84,0.143,20,reviewed,ci,ci
 2023-08-18T17:01:02.209Z,1.7183,124.1528,293.162,4.4,mb,78,47,3.348,0.81,us,us7000kpai,2023-08-18T18:30:19.040Z,"81 km WNW of Manado, Indonesia",earthquake,9,7.53,0.07,65,reviewed,us,us
 2023-08-18T16:53:19.190Z,32.4016667,-115.1275,8.26,3.19,ml,22,80,0.04887,0.26,ci,ci39643994,2023-08-18T23:22:27.790Z,"8 km NE of Delta, B.C., MX",earthquake,0.62,1.44,0.124,137,reviewed,ci,ci
-2023-08-18T16:44:17.576Z,36.6517,-116.3793,0,0,ml,6,284.78,0.031,0.0417,nn,nn00864661,2023-08-19T15:11:11.040Z,"44 km SE of Beatty, Nevada",earthquake,,0,0.19,2,reviewed,nn,nn
-2023-08-18T16:43:38.010Z,51.8878333333333,-178.107,25.67,-0.41,ml,4,125,,0.24,av,av92007721,2023-08-19T02:19:21.760Z,"101 km W of Adak, Alaska",earthquake,3.01,1.93,0.158075485889352,4,reviewed,av,av
