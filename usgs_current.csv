@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-19T16:53:49.690Z,38.8258324,-122.803833,2.34,1.34,md,31,49,0.005449,0.03,nc,nc73925911,2023-08-19T16:56:53.481Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.36,0.17,30,automatic,nc,nc
-2023-08-19T16:53:42.420Z,38.8258324,-122.8030014,2.45,1.94,md,25,36,0.006037,0.01,nc,nc73925906,2023-08-19T17:12:16.204Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.39,0.11,21,automatic,nc,nc
+2023-08-19T16:53:49.690Z,38.8258324,-122.803833,2.34,1.34,md,31,49,0.005449,0.03,nc,nc73925911,2023-08-19T17:25:12.276Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.36,0.17,30,automatic,nc,nc
+2023-08-19T16:53:42.420Z,38.8258324,-122.8030014,2.45,1.94,md,25,36,0.006037,0.01,nc,nc73925906,2023-08-19T17:25:13.276Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.39,0.11,21,automatic,nc,nc
 2023-08-19T16:52:23.108Z,35.09046173,-97.67315674,5,1.67,ml,11,130.6281891,0.1255865544,0.8337818711,ok,ok2023qfnc,2023-08-19T16:55:05.646Z,"5 km SSW of Blanchard, Oklahoma",earthquake,4.751105247,,0.34,5,automatic,ok,ok
 2023-08-19T16:34:07.440Z,34.1521667,-117.5215,6.38,1.2,ml,17,123,0.1328,0.27,ci,ci39644762,2023-08-19T16:37:44.672Z,"6 km ENE of Rancho Cucamonga, CA",earthquake,0.57,2.24,0.478,22,automatic,ci,ci
 2023-08-19T16:23:16.550Z,35.8028333,-117.62,8.23,0.4,ml,9,161,0.1179,0.08,ci,ci39644754,2023-08-19T16:26:53.655Z,"20 km WNW of Searles Valley, CA",earthquake,0.41,1.06,0.166,2,automatic,ci,ci
@@ -194,5 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T17:41:33.170Z,48.40533333333333,-121.85616666666667,-0.51,1.6500000000000001,ml,14,83,0.1902,0.2,uw,uw61942202,2023-08-18T20:14:04.480Z,"15 km NE of Lake Cavanaugh, Washington",earthquake,0.29,0.68,0.11204678669680712,7,reviewed,uw,uw
 2023-08-18T17:37:30.796Z,50.806,175.4567,10,3.7,ml,23,212,2.103,0.55,us,us7000kpaw,2023-08-18T21:33:05.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,7.29,2.019,0.077,22,reviewed,us,us
 2023-08-18T17:37:13.110Z,63.0789,-149.6805,59.9,0.9,ml,,,,0.24,ak,ak023akny5db,2023-08-18T17:39:07.543Z,"50 km SW of Cantwell, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2023-08-18T17:22:20.697Z,56.1567,-149.8736,15.53,3.3,ml,50,191,2.204,0.78,us,us7000kpam,2023-08-18T21:23:11.040Z,"218 km SE of Chiniak, Alaska",earthquake,9.04,8.117,0.048,58,reviewed,us,us
-2023-08-18T17:20:55.490Z,58.2878333333333,-154.964333333333,2.7,-0.05,ml,10,142,,0.16,av,av92007766,2023-08-19T02:43:55.700Z,"85 km NNW of Karluk, Alaska",earthquake,0.41,0.59,0.262143168071254,10,reviewed,av,av
