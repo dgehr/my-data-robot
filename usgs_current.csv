@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-20T07:55:50.394Z,60.412,-151.7942,27.3,1.1,ml,,,,0.31,ak,ak023ant6g2n,2023-08-20T07:57:21.763Z,"27 km W of Cohoe, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-20T07:55:16.312Z,62.7932,-148.2515,49.4,1.2,ml,,,,0.56,ak,ak023ant6dgb,2023-08-20T07:59:52.672Z,"75 km SSE of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-08-20T07:44:51.850Z,33.9085,-117.2741667,0.25,0.52,ml,8,94,0.2315,0.25,ci,ci39645210,2023-08-20T07:48:21.550Z,"2 km NNW of March Air Reserve Base, CA",earthquake,0.83,31.61,0.13,4,automatic,ci,ci
-2023-08-20T07:42:43.560Z,20.6425,94.4268,64.002,4.7,mb,98,56,4.781,0.51,us,us7000kpky,2023-08-20T08:21:42.040Z,"49 km SW of Chauk, Myanmar",earthquake,8.92,5.79,0.055,101,reviewed,us,us
+2023-08-20T07:42:43.560Z,20.6425,94.4268,64.002,4.7,mb,98,56,4.781,0.51,us,us7000kpky,2023-08-20T08:21:42.040Z,"Myanmar",earthquake,8.92,5.79,0.055,101,reviewed,us,us
 2023-08-20T07:41:28.690Z,34.344,-116.8658333,2.08,1.28,ml,30,67,0.032,0.18,ci,ci39645202,2023-08-20T07:45:02.818Z,"9 km NNW of Big Bear City, CA",earthquake,0.25,0.39,0.114,28,automatic,ci,ci
 2023-08-20T07:38:43.590Z,34.4223333,-119.1918333,1.63,1.9,ml,30,68,0.04721,0.3,ci,ci39645194,2023-08-20T07:49:29.200Z,"6 km ESE of Ojai, CA",earthquake,0.38,0.68,0.162,27,automatic,ci,ci
 2023-08-20T07:38:13.150Z,33.77,-116.146,3.16,1.33,ml,40,70,0.06833,0.21,ci,ci39645186,2023-08-20T07:48:49.540Z,"8 km NE of Indio, CA",earthquake,0.29,0.53,0.161,26,automatic,ci,ci
@@ -184,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-19T10:00:00.595Z,64.7301,-151.8781,10.4,2.2,ml,,,,0.21,ak,ak023am73i63,2023-08-19T10:17:44.040Z,"50 km S of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-19T09:59:21.140Z,19.2644996643066,-155.404327392578,31.2900009155273,2.11,ml,45,137,,0.150000006,hv,hv73533472,2023-08-19T10:04:51.330Z,"Island of Hawaii, Hawaii",earthquake,0.51,0.680000007,3.03,9,automatic,hv,hv
 2023-08-19T09:57:35.205Z,64.7437,-151.9456,11.9,3,ml,,,,0.67,ak,ak023am6ud1s,2023-08-19T10:09:48.040Z,"48 km S of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-19T09:45:33.080Z,33.3165,-116.8931667,17.41,1.77,ml,58,43,0.04497,0.22,ci,ci39644434,2023-08-19T09:56:12.090Z,"5 km SSW of Palomar Observatory, CA",earthquake,0.22,0.58,0.166,26,automatic,ci,ci
