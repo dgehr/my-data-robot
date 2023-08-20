@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-20T07:17:01.932Z,62.3105,-150.0638,18.2,1.1,ml,,,,0.23,ak,ak023ansy74h,2023-08-20T07:18:17.197Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-08-20T07:15:18.130Z,19.1518325805664,-155.363159179688,29.25,2.88,ml,49,182,,0.119999997,hv,hv73534367,2023-08-20T07:21:10.946Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.56,0.75,3.05,29,automatic,hv,hv
 2023-08-20T07:09:38.566Z,35.69039917,-98.13722992,3.987931013,1.96,ml,12,113.8803654,0.07025778294,0.9597932141,ok,ok2023qgpj,2023-08-20T07:12:59.889Z,"Oklahoma",earthquake,4.210988845,2.714615766,0.27,7,automatic,ok,ok
 2023-08-20T07:00:37.154Z,58.182,-155.3434,1.2,0.3,ml,,,,0.17,ak,ak023ansumo3,2023-08-20T07:01:42.745Z,"86 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-20T06:25:11.010Z,38.8306656,-122.8178329,1.73,1.08,md,19,52,0.009457,0.02,nc,nc73926141,2023-08-20T07:02:14.941Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.49,0.21,20,automatic,nc,nc
