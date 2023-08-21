@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-21T09:06:11.618Z,62.712,-149.4539,53.1,0.9,ml,,,,0.74,ak,ak023aphm2p5,2023-08-21T09:08:47.290Z,"44 km NE of Chase, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-21T08:48:01.640Z,59.8685,-151.486,48.3,1.7,ml,,,,0.61,ak,ak023aph9mec,2023-08-21T08:50:24.042Z,"9 km NE of Nikolaevsk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-21T08:26:25.360Z,34.4126667,-119.1925,0.82,2.13,ml,36,73,0.0515,0.32,ci,ci39646314,2023-08-21T08:37:23.640Z,"6 km SE of Ojai, CA",earthquake,0.4,31.61,0.124,29,automatic,ci,ci
 2023-08-21T08:17:33.140Z,38.8313332,-122.8141632,1.36,0.84,md,18,68,0.008546,0.02,nc,nc73926706,2023-08-21T08:51:17.218Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.56,0.22,19,automatic,nc,nc
+2023-08-21T08:16:21.547Z,-38.9508,-70.7166,191.901,4.2,mb,28,72,0.862,0.84,us,us7000kpu5,2023-08-21T09:13:00.040Z,"36 km NNE of Aluminé, Argentina",earthquake,4.25,6.556,0.132,16,reviewed,us,us
 2023-08-21T08:11:33.150Z,19.9243335723877,-155.490997314453,37.7700004577637,2.48,ml,47,229,,0.180000007,hv,hv73535902,2023-08-21T08:31:02.040Z,"17 km S of Honoka‘a, Hawaii",earthquake,0.62,0.850000024,3.07,8,automatic,hv,hv
 2023-08-21T08:11:08.170Z,34.4378319,-119.1809998,4.19,1.48,ml,10,131,0.03596,0.16,ci,ci39646306,2023-08-21T08:14:40.972Z,"6 km ESE of Ojai, CA",earthquake,0.54,0.89,0.353,5,automatic,ci,ci
 2023-08-21T08:06:40.450Z,38.8321648,-122.8188324,1.69,0.76,md,13,69,0.01111,0.02,nc,nc73926701,2023-08-21T08:41:20.170Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.7,0.21,14,automatic,nc,nc
@@ -113,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-21T00:10:37.720Z,34.4161667,-119.2091667,0.78,1.61,ml,18,109,0.06275,0.27,ci,ci39645826,2023-08-21T00:14:15.307Z,"5 km SE of Ojai, CA",earthquake,0.52,31.61,0.112,28,automatic,ci,ci
 2023-08-21T00:06:45.030Z,52.0036666666667,178.4185,0.02,1.05,ml,3,343,,0.02,av,av92011411,2023-08-21T00:36:12.570Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.4,31.61,0.314450678497446,4,reviewed,av,av
 2023-08-20T23:59:39.430Z,34.4186667,-119.197,4.6,2.34,ml,46,54,0.05245,0.34,ci,ci39645810,2023-08-21T01:17:33.278Z,"5 km SE of Ojai, CA",earthquake,0.45,1.03,0.203,26,automatic,ci,ci
-2023-08-20T23:57:19.302Z,31.6607,-104.3749,10.342,2.9,ml,33,63,0.108,0.56,us,us7000kpra,2023-08-21T00:05:40.040Z,"western Texas",earthquake,1.82,7.907,0.059,60,reviewed,us,us
+2023-08-20T23:57:19.156Z,31.66845374,-104.3773531,4.897583008,2.7,ml,17,57,0.0430526129,0.1,tx,tx2023qhws,2023-08-21T09:17:32.460Z,"56 km S of Whites City, New Mexico",earthquake,0.8250244904,1.0852325979999997,0.1,21,reviewed,tx,tx
 2023-08-20T23:52:13.570Z,58.2138333333333,-155.0545,38.48,0.23,ml,14,96,,0.26,av,av92011396,2023-08-21T00:33:09.480Z,"Alaska Peninsula",earthquake,0.8,1.09,0.337525106982144,14,reviewed,av,av
 2023-08-20T23:49:28.590Z,34.4191667,-119.1953333,1.14,2.29,ml,45,80,0.05098,0.32,ci,ci39645802,2023-08-21T02:38:01.570Z,"5 km SE of Ojai, CA",earthquake,0.39,0.76,0.224,26,automatic,ci,ci
 2023-08-20T23:29:33.180Z,37.9643326,-122.0563354,15.51,1.82,md,23,127,0.07013,0.06,nc,nc73926516,2023-08-20T23:55:13.148Z,"2 km NNE of Pleasant Hill, CA",earthquake,0.32,0.68,0.12,18,automatic,nc,nc
@@ -177,7 +179,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-20T21:43:06.750Z,34.4245,-119.1943333,2.12,3.04,ml,35,41,0.04858,0.35,ci,ci39645394,2023-08-21T04:55:23.537Z,"5 km ESE of Ojai, CA",earthquake,0.4,0.7,0.136,7,reviewed,ci,ci
 2023-08-20T21:42:46.530Z,34.443,-119.1996667,0.81,2.73,ml,14,77,0.05174,0.27,ci,ci37565916,2023-08-21T05:00:07.641Z,"4 km E of Ojai, CA",earthquake,0.41,0.97,0.12,3,reviewed,ci,ci
 2023-08-20T21:41:41.780Z,19.1846675872803,-155.492828369141,33.189998626709,2.00999999,md,38,75,,0.100000001,hv,hv73535157,2023-08-20T21:44:57.990Z,"2 km SW of Pāhala, Hawaii",earthquake,0.56,0.589999974,0.25999999,17,automatic,hv,hv
-2023-08-20T21:41:00.970Z,34.4085,-119.1883333,4.84,5.08,mw,115,27,0.05069,0.35,ci,ci39645386,2023-08-21T09:01:48.236Z,"7 km SE of Ojai, CA",earthquake,0.25,0.69,,6,reviewed,ci,ci
+2023-08-20T21:41:00.970Z,34.4085,-119.1883333,4.84,5.08,mw,115,27,0.05069,0.35,ci,ci39645386,2023-08-21T09:17:24.578Z,"7 km SE of Ojai, CA",earthquake,0.25,0.69,,6,reviewed,ci,ci
 2023-08-20T21:39:27.861Z,45.0774,23.1933,9.25,4.2,mb,45,67,1.222,1,us,us7000kpq7,2023-08-21T05:04:17.440Z,"2 km SSW of Leleşti, Romania",earthquake,4.88,5.157,0.103,26,reviewed,us,us
 2023-08-20T21:38:03.220Z,34.2161667,-116.5648333,0.22,1.65,ml,30,67,0.1332,0.19,ci,ci39645378,2023-08-21T00:48:20.685Z,"17 km NW of Yucca Valley, CA",earthquake,0.26,0.6,0.125,27,automatic,ci,ci
 2023-08-20T21:32:56.970Z,61.2891,-152.5013,4,1.4,ml,,,,0.37,ak,ak023ao1dlkx,2023-08-21T01:45:26.740Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
