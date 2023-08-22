@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-22T06:55:55.552Z,31.6146,-103.9837,9.449,2.7,ml,29,75,0.05,0.3,us,us7000kq23,2023-08-22T07:03:29.040Z,"37 km WSW of Mentone, Texas",earthquake,1.91,6.412,0.081,86,reviewed,us,us
 2023-08-22T06:51:40.790Z,63.6723,-151.5601,0,1.6,ml,,,,0.81,ak,ak023ar3mtun,2023-08-22T06:53:48.230Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-22T06:41:42.670Z,62.2221,-150.0957,22.8,1,ml,,,,0.63,ak,ak023ar3kou3,2023-08-22T06:43:51.716Z,"11 km S of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-22T06:37:29.250Z,19.4300003051758,-155.511001586914,9.27000045776367,2.08,ml,27,71,,0.159999996,hv,hv73537407,2023-08-22T06:43:00.680Z,"25 km N of Pāhala, Hawaii",earthquake,0.43,0.870000005,0.3,4,automatic,hv,hv
@@ -238,6 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-21T07:30:42.180Z,34.3985,-119.2025,0.97,1.48,ml,18,97,0.066,0.23,ci,ci39646258,2023-08-21T15:17:13.935Z,"7 km SE of Ojai, CA",earthquake,0.31,0.47,0.232,12,reviewed,ci,ci
 2023-08-21T07:30:34.071Z,38.1958,-117.7171,13.5,1.7,ml,7,143.51,0.119,0.1482,nn,nn00864741,2023-08-22T00:02:21.754Z,"Nevada",earthquake,,1.6,0.29,5,reviewed,nn,nn
 2023-08-21T07:14:14.650Z,33.0618333,-116.4353333,7.49,1.1,ml,21,64,0.09214,0.18,ci,ci39646250,2023-08-21T13:21:03.940Z,"16 km E of Julian, CA",earthquake,0.3,1.17,0.137,13,reviewed,ci,ci
-2023-08-21T07:05:36.070Z,19.2596664428711,-155.406173706055,30.5200004577637,1.95,ml,43,135,,0.150000006,hv,hv73535852,2023-08-21T07:11:08.590Z,"9 km NE of Pāhala, Hawaii",earthquake,0.58,0.800000012,3.34,7,automatic,hv,hv
-2023-08-21T06:58:54.594Z,63.3624,-145.1355,3.9,1.4,ml,,,,0.45,ak,ak023apg50fn,2023-08-21T07:00:28.260Z,"38 km NE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-21T06:56:47.970Z,34.407,-119.2033333,1.4,1.62,ml,25,120,0.06207,0.3,ci,ci39646242,2023-08-21T07:00:28.567Z,"6 km SE of Ojai, CA",earthquake,0.53,0.77,0.189,28,automatic,ci,ci
