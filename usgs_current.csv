@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-22T05:46:36.720Z,38.8356667,-122.7943344,2.01,1.24,md,23,66,0.004149,0.02,nc,nc73926956,2023-08-22T05:48:11.032Z,"6 km WNW of Cobb, CA",earthquake,0.21,0.38,0.17,25,automatic,nc,nc
+2023-08-22T05:46:36.720Z,38.8356667,-122.7943344,2.01,1.24,md,23,66,0.004149,0.02,nc,nc73926956,2023-08-22T05:53:51.564Z,"6 km WNW of Cobb, CA",earthquake,0.21,0.38,0.17,25,automatic,nc,nc
 2023-08-22T05:32:49.090Z,33.5151667,-116.4171667,9.51,0.81,ml,32,87,0.01087,0.14,ci,ci39647098,2023-08-22T05:36:21.116Z,"19 km SSW of La Quinta, CA",earthquake,0.21,0.45,0.18,20,automatic,ci,ci
 2023-08-22T05:32:28.190Z,34.4323333,-119.1655,1.96,1.37,ml,15,121,0.02359,0.26,ci,ci39647090,2023-08-22T05:39:45.483Z,"7 km ESE of Ojai, CA",earthquake,0.57,0.67,0.217,19,automatic,ci,ci
 2023-08-22T05:23:35.110Z,34.4223333,-119.1903333,6.74,1.37,ml,16,137,0.04603,0.26,ci,ci39647082,2023-08-22T05:27:12.830Z,"6 km ESE of Ojai, CA",earthquake,0.71,1.06,0.183,23,automatic,ci,ci
@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T04:39:49.960Z,37.4931667,-118.9971667,4.5,0.69,md,18,160,0.1153,0.02,nc,nc73926946,2023-08-22T05:43:12.301Z,"16 km S of Mammoth Lakes, CA",earthquake,0.56,1.38,0.151,14,reviewed,nc,nc
 2023-08-22T04:32:01.243Z,64.5475,-146.9561,0,0.6,ml,,,,0.84,ak,ak023ar2bszg,2023-08-22T04:34:00.039Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-22T04:28:53.554Z,64.5331,-147.0936,2,0.8,ml,,,,0.46,ak,ak023ar2b25n,2023-08-22T04:31:19.469Z,"9 km W of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-08-22T04:27:26.840Z,37.494,-119,4.01,1.97,md,23,146,0.1136,0.04,nc,nc73926936,2023-08-22T05:16:11.145Z,"16 km S of Mammoth Lakes, CA",earthquake,0.36,1.59,0.121,20,reviewed,nc,nc
+2023-08-22T04:27:26.840Z,37.494,-119,4.01,1.97,md,23,146,0.1136,0.04,nc,nc73926936,2023-08-22T05:54:11.362Z,"16 km S of Mammoth Lakes, CA",earthquake,0.36,1.59,0.121,20,reviewed,nc,nc
 2023-08-22T04:26:06.750Z,61.739,-149.6642,35.1,0.9,ml,,,,0.27,ak,ak023ar2aj43,2023-08-22T04:27:31.419Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-22T04:19:02.430Z,19.3698333333333,-155.2905,1.82,0.91,md,22,107,,0.1,hv,hv73537207,2023-08-22T04:34:51.120Z,"10 km SW of Volcano, Hawaii",earthquake,0.22,0.28,0.0625882039776184,4,reviewed,hv,hv
 2023-08-22T04:18:58.830Z,19.3861666666667,-155.280833333333,1.23,0.64,md,11,147,,0.08,hv,hv73537202,2023-08-22T04:36:06.600Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.21,0.0190333108168049,2,reviewed,hv,hv
@@ -72,7 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T00:17:45.471Z,60.4306,-151.8885,69.3,2.1,ml,,,,0.28,ak,ak023aqzuyfl,2023-08-22T00:22:40.040Z,"32 km WNW of Cohoe, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-22T00:17:11.880Z,19.388,-155.2775,1.54,2.48,ml,37,57,,0.1,hv,hv73536912,2023-08-22T00:48:28.620Z,"Island of Hawaii, Hawaii",earthquake,0.16,0.12,0.253891516187291,15,reviewed,hv,hv
 2023-08-22T00:13:34.000Z,38.7861671,-122.7663345,2.57,1.1,md,17,81,0.01534,0.04,nc,nc73926881,2023-08-22T03:24:14.516Z,"1 km NW of The Geysers, CA",earthquake,0.3,0.66,0.23,17,automatic,nc,nc
-2023-08-22T00:13:29.889Z,64.9677,-151.3503,16.2,0.9,ml,,,,0.77,ak,ak023aqzu25t,2023-08-22T00:15:44.286Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-08-22T00:13:29.889Z,64.9677,-151.3503,16.2,0.9,ml,,,,0.77,ak,ak023aqzu25t,2023-08-22T00:15:44.286Z,"34 km W of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-22T00:08:34.461Z,39.3971,-119.7217,6.5,1.5,ml,8,80.71,0.034,0.0618,nn,nn00864785,2023-08-22T00:11:02.959Z,"11 km NNW of Virginia City, Nevada",earthquake,,0.7,0.36,6,automatic,nn,nn
 2023-08-21T23:55:57.264Z,31.6628,-104.3956,7.354,2.6,ml,36,63,0.09,0.38,us,us7000kq00,2023-08-22T00:09:56.040Z,"56 km S of Whites City, New Mexico",earthquake,2.41,4.473,0.062,52,reviewed,us,us
 2023-08-21T23:55:04.456Z,39.3986,-119.727,6.1,1.4,ml,17,57.27,0.031,0.1647,nn,nn00864780,2023-08-22T00:49:01.445Z,"Nevada",earthquake,,0.8,0.12,7,reviewed,nn,nn
@@ -233,6 +233,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-21T06:58:54.594Z,63.3624,-145.1355,3.9,1.4,ml,,,,0.45,ak,ak023apg50fn,2023-08-21T07:00:28.260Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-21T06:56:47.970Z,34.407,-119.2033333,1.4,1.62,ml,25,120,0.06207,0.3,ci,ci39646242,2023-08-21T07:00:28.567Z,"6 km SE of Ojai, CA",earthquake,0.53,0.77,0.189,28,automatic,ci,ci
 2023-08-21T06:48:26.610Z,34.413,-119.1968333,0.85,1.87,ml,33,74,0.05454,0.29,ci,ci39646234,2023-08-21T06:58:57.130Z,"6 km SE of Ojai, CA",earthquake,0.36,0.69,0.151,28,automatic,ci,ci
+2023-08-21T06:41:33.390Z,37.3905,-118.803,6.85,1.22,md,19,319,0.2003,0.04,nc,nc73926681,2023-08-22T05:55:58.130Z,"18 km W of Round Valley, CA",earthquake,0.59,2.87,0.093,17,reviewed,nc,nc
 2023-08-21T06:37:13.970Z,34.4083333,-119.202,1.44,1.65,ml,28,132,0.06047,0.33,ci,ci39646226,2023-08-21T06:48:59.737Z,"6 km SE of Ojai, CA",earthquake,0.57,0.84,0.155,29,automatic,ci,ci
 2023-08-21T06:35:10.370Z,34.4175,-119.2113333,3.01,1.55,ml,21,86,0.06403,0.22,ci,ci39646218,2023-08-21T06:47:30.354Z,"4 km SE of Ojai, CA",earthquake,0.34,0.47,0.139,20,automatic,ci,ci
 2023-08-21T06:30:06.860Z,33.3093333,-116.2771667,7.91,1.36,ml,33,87,0.1179,0.21,ci,ci39646210,2023-08-21T06:42:16.440Z,"11 km ENE of Borrego Springs, CA",earthquake,0.31,1.41,0.186,29,automatic,ci,ci
