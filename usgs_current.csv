@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-22T20:21:37.337Z,59.9152,-151.4334,57.8,0.9,ml,,,,0.45,ak,ak023arbsgkl,2023-08-22T20:23:59.618Z,"15 km NE of Nikolaevsk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-08-22T20:18:12.388Z,63.4969,-151.7531,0,1.3,ml,,,,1.62,ak,ak023arbrrhy,2023-08-22T20:22:39.806Z,"5 km SSW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-22T19:43:21.880Z,38.6769981,-122.5846634,9.29,1.14,md,6,188,0.031,0.24,nc,nc73927161,2023-08-22T20:01:13.182Z,"9 km SSE of Middletown, CA",earthquake,8.45,14.97,0.27,2,automatic,nc,nc
 2023-08-22T19:39:42.775Z,61.8623,-148.8733,37.5,0.8,ml,,,,0.35,ak,ak023arbaw9x,2023-08-22T19:41:03.972Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
