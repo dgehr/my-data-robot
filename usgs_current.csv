@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-23T21:26:15.720Z,38.7885017,-122.7463303,1.82,1.07,md,15,85,0.009165,0.02,nc,nc73927586,2023-08-23T21:27:53.213Z,"2 km NE of The Geysers, CA",earthquake,0.27,0.54,0.21,15,automatic,nc,nc
+2023-08-23T21:18:15.170Z,19.3995,-155.257166666667,1.64,0.58,md,11,68,,0.1,hv,hv73540542,2023-08-23T21:28:39.320Z,"Hawaii region, Hawaii",earthquake,0.24,0.42,0.116483195322284,2,reviewed,hv,hv
 2023-08-23T21:16:50.130Z,33.467,-116.4916667,12.41,0.91,ml,29,79,0.07876,0.21,ci,ci39648802,2023-08-23T21:20:21.445Z,"20 km ESE of Anza, CA",earthquake,0.33,0.66,0.16,20,automatic,ci,ci
 2023-08-23T21:11:42.700Z,19.3848333333333,-155.282166666667,1.27,1.42,md,17,75,,0.09,hv,hv73540532,2023-08-23T21:21:42.850Z,"8 km SW of Volcano, Hawaii",earthquake,0.15,0.14,0.146219593532215,2,reviewed,hv,hv
 2023-08-23T21:09:14.950Z,19.39,-155.279333333333,1.35,0.17,md,10,72,,0.07,hv,hv73540527,2023-08-23T21:19:14.210Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.22,0.010549429229094,2,reviewed,hv,hv
@@ -330,4 +332,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T21:39:22.247Z,51.5779,178.6723,76.131,3.8,ml,19,228,0.361,0.14,us,us7000kq7i,2023-08-22T22:12:06.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,14.08,17.36,0.081,20,reviewed,us,us
 2023-08-22T21:38:23.384Z,58.8706,-153.9194,16.2,1.4,ml,,,,0.37,ak,ak023archi9u,2023-08-22T21:39:42.070Z,"80 km SE of Kokhanok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-22T21:33:04.811Z,-5.5592,147.2947,169.694,4.2,mb,18,146,3.823,0.97,us,us7000kq7d,2023-08-23T02:11:18.040Z,"126 km NNW of Finschhafen, Papua New Guinea",earthquake,13.52,9.344,0.152,12,reviewed,us,us
-2023-08-22T21:27:09.452Z,58.0289,-156.3396,133.7,0.9,ml,,,,0.11,ak,ak023arcf4bl,2023-08-22T21:28:42.650Z,"64 km ESE of Egegik, Alaska",earthquake,,1.4,,,automatic,ak,ak
