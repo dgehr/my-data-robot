@@ -1,7 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-23T17:32:53.022Z,63.1026,-151.4922,1.2,2.2,ml,,,,0.46,ak,ak023asxlwc6,2023-08-23T17:34:42.378Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-23T17:22:44.130Z,33.4770012,-116.7710037,1.29,1,ml,19,91,0.04078,0.23,ci,ci39648466,2023-08-23T17:25:05.227Z,"10 km ENE of Aguanga, CA",earthquake,0.46,0.6,0.384,4,automatic,ci,ci
+2023-08-23T17:19:11.090Z,34.4028333,-119.2148333,1.07,1.4,ml,12,110,0.07241,0.29,ci,ci39648450,2023-08-23T17:39:56.896Z,"6 km SSE of Ojai, CA",earthquake,0.63,0.95,0.351,17,automatic,ci,ci
+2023-08-23T17:14:01.110Z,33.42,-116.61,8.09,0.83,ml,33,69,0.07555,0.17,ci,ci39648434,2023-08-23T17:39:52.604Z,"16 km N of Warner Springs, CA",earthquake,0.24,0.75,0.177,22,automatic,ci,ci
+2023-08-23T17:12:54.790Z,19.4146666666667,-155.317333333333,2.87,1.74,ml,22,80,,0.08,hv,hv73540117,2023-08-23T17:37:18.910Z,"9 km WSW of Volcano, Hawaii",earthquake,0.21,0.33,0.106970329946381,5,reviewed,hv,hv
 2023-08-23T17:07:04.450Z,19.3745,-155.284666666667,1.36,1.1,md,19,98,,0.11,hv,hv73540097,2023-08-23T17:28:11.170Z,"9 km SW of Volcano, Hawaii",earthquake,0.19,0.23,0.284340463025508,6,reviewed,hv,hv
-2023-08-23T17:05:45.920Z,34.2415009,-116.7440033,8.55,1.46,ml,41,36,0.1267,0.14,ci,ci39648426,2023-08-23T17:16:54.660Z,"10 km ESE of Big Bear City, CA",earthquake,0.24,0.65,0.135,9,automatic,ci,ci
+2023-08-23T17:05:45.870Z,34.2453333,-116.7441667,9.58,1.37,ml,37,75,0.1235,0.18,ci,ci39648426,2023-08-23T17:39:35.123Z,"9 km E of Big Bear City, CA",earthquake,0.28,0.63,0.141,27,automatic,ci,ci
 2023-08-23T17:03:45.450Z,38.791832,-122.762001,0.78,0.37,md,9,125,0.00896,0.02,nc,nc73927476,2023-08-23T17:31:14.466Z,"2 km NNW of The Geysers, CA",earthquake,0.43,0.39,0.15,9,automatic,nc,nc
 2023-08-23T17:02:02.080Z,19.4026666666667,-155.244,1.54,1.48,md,18,67,,0.12,hv,hv73540082,2023-08-23T17:21:47.790Z,"Island of Hawaii, Hawaii",earthquake,0.2,0.27,0.020162198808671,2,reviewed,hv,hv
 2023-08-23T17:00:08.270Z,19.3765,-155.283666666667,1.52,0.71,md,15,99,,0.07,hv,hv73540077,2023-08-23T17:11:18.090Z,"9 km SW of Volcano, Hawaii",earthquake,0.24,0.23,0.212620972379997,3,reviewed,hv,hv
