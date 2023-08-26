@@ -197,5 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-25T21:32:19.345Z,64.9067,-148.6464,12.6,1,ml,,,,0.38,ak,ak023awb295a,2023-08-25T21:33:49.387Z,"30 km WNW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-25T21:29:12.310Z,33.8978333,-116.9103333,11.23,0.7,ml,16,109,0.1138,0.21,ci,ci39651258,2023-08-25T21:32:45.933Z,"4 km SW of Banning, CA",earthquake,0.5,1.4,0.221,11,automatic,ci,ci
 2023-08-25T21:26:43.790Z,46.196,-122.19983333333333,2.53,-0.23,ml,9,81,0.01081,0.07,uw,uw61953356,2023-08-26T03:52:39.020Z,"37 km NNE of Amboy, Washington",earthquake,0.44,0.6,0.07858287642108325,4,reviewed,uw,uw
-2023-08-25T21:00:39.290Z,44.7805,-111.104,8.44,2.18,ml,17,76,0.01577,0.12,uu,uu60548357,2023-08-25T21:23:48.470Z,"6 km E of Hebgen Lake Estates, Montana",earthquake,0.45,0.89,0.308,5,reviewed,uu,uu
-2023-08-25T20:59:30.620Z,58.1931666666667,-155.311,1.78,0.11,ml,9,147,,0.08,av,av92020936,2023-08-25T23:26:11.030Z,"86 km NW of Karluk, Alaska",earthquake,0.23,0.35,0.312761282501711,9,reviewed,av,av
