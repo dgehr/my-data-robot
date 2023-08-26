@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-26T21:18:17.186Z,61.7846,-149.5235,39.8,1.3,ml,,,,0.53,ak,ak023axyig2w,2023-08-26T21:20:59.448Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-08-26T21:15:50.520Z,19.388334274292,-155.24333190918,2.14000010490417,1.87,ml,22,82,,0.25999999,hv,hv73546272,2023-08-26T21:21:21.910Z,"6 km S of Volcano, Hawaii",earthquake,0.3,0.340000004,2.38,11,automatic,hv,hv
 2023-08-26T20:35:12.270Z,38.8206673,-122.8151703,3.32,0.73,md,14,57,0.004824,0.02,nc,nc73929631,2023-08-26T21:08:11.643Z,"7 km NW of The Geysers, CA",earthquake,0.33,1.11,0.22,14,automatic,nc,nc
 2023-08-26T20:33:12.600Z,33.4666667,-116.5001667,11.35,0.76,ml,22,96,0.08411,0.21,ci,ci39651978,2023-08-26T20:36:39.558Z,"19 km ESE of Anza, CA",earthquake,0.35,0.88,0.172,16,automatic,ci,ci
 2023-08-26T20:25:09.210Z,34.1455,-117.4171667,6.1,1.3,ml,37,63,0.04775,0.18,ci,ci39651970,2023-08-26T20:28:49.568Z,"6 km NW of Rialto, CA",earthquake,0.27,0.7,0.209,27,automatic,ci,ci
