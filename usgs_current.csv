@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-27T08:45:17.990Z,35.72,-117.5948333,10.94,0.45,ml,10,144,0.1297,0.19,ci,ci39652314,2023-08-27T08:48:46.022Z,"13 km NNE of Ridgecrest, CA",earthquake,0.9,1.02,0.098,5,automatic,ci,ci
 2023-08-27T08:36:47.590Z,33.8050003,-116.9585037,14.43,0.7,ml,13,168,0.1031,0.12,ci,ci39652306,2023-08-27T08:40:09.146Z,"2 km N of San Jacinto, CA",earthquake,0.63,0.9,0.177,3,automatic,ci,ci
 2023-08-27T08:25:32.470Z,19.3303337097168,-155.321670532227,1.5900000333786,1.72,ml,8,115,,0.0799999982,hv,hv73547162,2023-08-27T08:31:03.950Z,"Hawaii region, Hawaii",earthquake,0.38,0.730000019,3.78,4,automatic,hv,hv
 2023-08-27T08:18:52.850Z,38.7449989,-122.6981659,0.46,1.01,md,7,225,0.02316,0.05,nc,nc73929851,2023-08-27T08:20:29.058Z,"3 km S of Anderson Springs, CA",earthquake,0.98,0.74,0.12,7,automatic,nc,nc
@@ -173,5 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-26T09:31:40.157Z,38.9592,-119.8881,12.8,0.2,ml,8,187.43,0.066,0.1857,nn,nn00865086,2023-08-26T15:06:27.067Z,"Nevada",earthquake,,1.9,0.15,3,reviewed,nn,nn
 2023-08-26T09:30:33.184Z,65.1175,-148.2742,20,0.7,ml,,,,0.6,ak,ak023axrg00m,2023-08-26T09:35:47.606Z,"32 km NNW of Ester, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-26T09:13:34.649Z,60.1104,-153.1662,117,1.9,ml,,,,0.45,ak,ak023axrccyg,2023-08-26T09:15:30.757Z,"63 km NE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-26T08:54:42.670Z,33.471,-116.487,13.52,0.51,ml,21,52,0.09378,0.13,ci,ci39651562,2023-08-26T08:58:22.701Z,"20 km ESE of Anza, CA",earthquake,0.29,0.65,0.069,9,automatic,ci,ci
-2023-08-26T08:51:20.890Z,19.3918342590332,-155.249328613281,0.0799999982118607,2.39,ml,33,55,,0.340000004,hv,hv73545272,2023-08-26T08:56:51.540Z,"5 km SSW of Volcano, Hawaii",earthquake,0.31,0.370000005,0.38,18,automatic,hv,hv
