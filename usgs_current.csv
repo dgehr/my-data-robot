@@ -203,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-26T22:08:31.680Z,61.6723,-146.8499,32.5,2.2,ml,,,,0.61,ak,ak023axz1x0g,2023-08-26T22:10:40.767Z,"34 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-26T21:42:55.160Z,38.7986679,-122.7948303,3.17,1.08,md,20,51,0.007695,0.02,nc,nc73929646,2023-08-26T22:55:11.256Z,"4 km NW of The Geysers, CA",earthquake,0.26,0.63,0.13,20,automatic,nc,nc
 2023-08-26T21:42:34.960Z,38.8268318,-122.8536682,1.99,0.38,md,10,103,0.01502,0.03,nc,nc73929641,2023-08-26T22:28:12.102Z,"10 km WNW of The Geysers, CA",earthquake,0.34,1.14,0.15,10,automatic,nc,nc
-2023-08-26T21:37:48.570Z,33.49,-116.7545,6.74,0.29,ml,20,75,0.04694,0.14,ci,ci39652034,2023-08-27T15:34:01.327Z,"10 km SW of Anza, CA",earthquake,0.21,0.43,0.089,5,reviewed,ci,ci
-2023-08-26T21:36:06.490Z,39.921833,-123.2508316,-1.04,2.41,md,30,50,0.1538,0.24,nc,nc73929636,2023-08-26T21:57:12.937Z,"14 km N of Covelo, CA",earthquake,0.31,2.53,0.06,17,automatic,nc,nc
