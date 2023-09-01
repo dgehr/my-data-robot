@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T15:21:31.920Z,17.9516666666667,-66.9246666666667,17.37,2.69,md,12,206,0.1152,0.14,pr,pr71422963,2023-09-01T16:27:50.000Z,"2 km SW of Guánica, Puerto Rico",earthquake,0.59,0.4,0.138042916185993,7,reviewed,pr,pr
 2023-09-01T15:21:14.790Z,33.4941667,-116.5873333,8.86,1.14,ml,37,60,0.01243,0.17,ci,ci39656850,2023-09-01T16:09:27.280Z,"10 km SE of Anza, CA",earthquake,0.2,0.38,0.282,27,reviewed,ci,ci
 2023-09-01T15:20:15.580Z,17.998,-66.927,12.01,2.55,md,5,180,0.1151,0.08,pr,pr71422993,2023-09-01T16:48:48.250Z,"1 km NW of Fuig, Puerto Rico",earthquake,0.94,1.26,0.0200244864836385,3,reviewed,pr,pr
-2023-09-01T15:05:59.765Z,-18.2037,168.0015,40.506,4.7,mb,21,234,4.189,0.52,us,us7000ksnw,2023-09-01T20:54:41.230Z,"61 km SSW of Port-Vila, Vanuatu",earthquake,12.24,6.971,0.138,18,reviewed,us,us
+2023-09-01T15:05:59.765Z,-18.2037,168.0015,40.506,4.7,mb,21,234,4.189,0.52,us,us7000ksnw,2023-09-01T21:24:44.580Z,"61 km SSW of Port-Vila, Vanuatu",earthquake,12.24,6.971,0.138,18,reviewed,us,us
 2023-09-01T15:05:11.190Z,17.9706666666667,-66.9105,11.64,2.56,md,6,194,0.1273,0.11,pr,pr71422973,2023-09-01T16:08:13.690Z,"0 km WSW of Guánica, Puerto Rico",earthquake,0.79,1.93,0.0345165528636184,3,reviewed,pr,pr
 2023-09-01T15:00:11.730Z,17.9995,-66.937,12.84,2.37,md,4,172,0.1063,0.08,pr,pr71422953,2023-09-01T15:13:47.470Z,"Puerto Rico region",earthquake,2.35,0.76,0.0573507454297872,3,reviewed,pr,pr
 2023-09-01T14:54:13.220Z,17.9608333333333,-66.9256666666667,14.77,2.6,md,15,201,0.01976,0.2,pr,pr71422938,2023-09-01T16:13:04.790Z,"2 km WSW of Guánica, Puerto Rico",earthquake,0.61,0.84,0.158475074266568,5,reviewed,pr,pr
@@ -56,6 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T13:21:34.172Z,65.7467,-148.6628,12.5,1.1,ml,,,,0.36,ak,ak023b7qzw15,2023-09-01T13:23:27.160Z,"25 km NNW of Livengood, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-01T12:51:39.504Z,65.6283,-148.8241,13.2,1.6,ml,,,,0.83,ak,ak023b7qkwa1,2023-09-01T12:54:41.242Z,"17 km NW of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-01T12:51:11.705Z,65.7497,-148.6728,10.2,1.4,ml,,,,0.54,ak,ak023b7qku6a,2023-09-01T16:59:50.684Z,"25 km NNW of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-01T12:24:36.820Z,58.2438333333333,-155.131666666667,2.33,-0.27,ml,4,219,,0.06,av,av91114543,2023-09-01T21:24:09.180Z,"Alaska Peninsula",earthquake,0.34,0.42,0.08518538662769,4,reviewed,av,av
 2023-09-01T12:20:37.120Z,38.8359985,-122.8073349,2.01,1.09,md,20,52,0.01277,0.02,nc,nc73931661,2023-09-01T12:41:17.810Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.47,0.15,22,automatic,nc,nc
 2023-09-01T12:13:40.600Z,38.8371658,-122.7996674,2.03,0.79,md,17,67,0.007386,0.02,nc,nc73931656,2023-09-01T12:30:14.753Z,"7 km WNW of Cobb, CA",earthquake,0.24,0.66,0.18,21,automatic,nc,nc
 2023-09-01T12:11:43.657Z,28.95172119,-97.63200827,2.078653971,2.9,ml,20,90,0.09815151408,0.3,tx,tx2023rcxj,2023-09-01T12:56:40.467Z,"4 km NNW of Nordheim, Texas",earthquake,1.268613927,1.654033114,0.2,13,reviewed,tx,tx
