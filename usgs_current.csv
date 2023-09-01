@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-01T03:22:51.860Z,33.1628333,-115.9351667,6.74,2.59,ml,67,39,0.03726,0.23,ci,ci39656434,2023-09-01T03:26:33.183Z,"15 km S of Salton City, CA",earthquake,0.26,0.78,0.14,25,automatic,ci,ci
 2023-09-01T02:59:28.920Z,36.8154984,-121.5413361,4.41,1.98,md,30,78,,0.17,nc,nc73931546,2023-09-01T03:20:13.637Z,"3 km S of San Juan Bautista, CA",earthquake,0.35,0.48,0.16,25,automatic,nc,nc
 2023-09-01T02:42:51.275Z,19.2056,-67.9551,10,2.5,ml,14,200,0.797,0.36,us,us7000ksji,2023-09-01T02:52:59.040Z,"83 km NE of Punta Cana, Dominican Republic",earthquake,5.41,1.99,0.069,28,reviewed,us,us
 2023-09-01T02:40:27.820Z,38.7898331,-122.7685013,1.54,0.86,md,11,97,0.01278,0.02,nc,nc73931526,2023-09-01T02:42:01.638Z,"2 km NW of The Geysers, CA",earthquake,0.33,0.64,0.22,13,automatic,nc,nc
@@ -239,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-31T03:42:17.520Z,58.2503333333333,-155.059833333333,4.76,0.44,ml,13,112,,0.12,av,av91114393,2023-08-31T19:04:15.090Z,"83 km NNW of Karluk, Alaska",earthquake,0.24,0.39,0.299004111509131,13,reviewed,av,av
 2023-08-31T03:38:51.777Z,39.3509,-119.9941,7.9,0.8,ml,8,122.08,0.067,0.1358,nn,nn00865346,2023-09-01T01:08:08.595Z,"5 km SSE of Floriston, California",earthquake,,1.8,0.37,4,reviewed,nn,nn
 2023-08-31T03:33:50.640Z,19.3433333333333,-155.304333333333,3.09,1.32,md,19,84,,0.11,hv,hv73554247,2023-08-31T04:53:34.160Z,"Hawaii region, Hawaii",earthquake,0.27,0.43,0.134696017159623,4,reviewed,hv,hv
-2023-08-31T03:25:59.680Z,33.4846667,-116.7581667,7.63,0.96,ml,47,39,0.04479,0.17,ci,ci39655634,2023-08-31T15:32:50.450Z,"11 km ENE of Aguanga, CA",earthquake,0.14,0.45,0.127,20,reviewed,ci,ci
