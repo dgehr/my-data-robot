@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-02T12:25:01.646Z,36.7233,-116.1989,4.7,-0.1,ml,15,117.5,0.012,0.0782,nn,nn00865375,2023-09-02T14:28:36.252Z,"50 km WNW of Indian Springs, Nevada",earthquake,,0.9,0.31,5,reviewed,nn,nn
 2023-09-02T12:18:49.820Z,38.8305016,-122.856163,2.09,0.93,md,20,91,0.003004,0.04,nc,nc73932171,2023-09-02T12:35:14.196Z,"10 km NW of The Geysers, CA",earthquake,0.26,0.41,0.17,22,automatic,nc,nc
 2023-09-02T12:18:30.080Z,58.2502,-155.0974,3.5,0.9,ml,,,,0.23,ak,ak023b9dx5gg,2023-09-02T12:20:39.834Z,"84 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-09-02T12:08:47.076Z,36.7700386,-98.06597137,1.564280272,2.32,ml,41,82.85186791,0.09673291445,0.7964497534,ok,ok2023resu,2023-09-02T13:00:41.493Z,"7 km ENE of Nescatunga, Oklahoma",earthquake,2.059208191,1.584089881,0.15,29,automatic,ok,ok
+2023-09-02T12:08:47.076Z,36.7700386,-98.06597137,1.564280272,2.32,ml,41,82.85186791,0.09673291445,0.7964497534,ok,ok2023resu,2023-09-02T13:00:41.493Z,"Oklahoma",earthquake,2.059208191,1.584089881,0.15,29,automatic,ok,ok
 2023-09-02T11:57:07.580Z,38.8074989,-122.8121643,3.15,1.06,md,21,56,0.01318,0.03,nc,nc73932166,2023-09-02T12:25:14.139Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.58,0.19,22,automatic,nc,nc
 2023-09-02T11:53:23.190Z,38.8264999,-122.8026657,1.79,0.76,md,13,54,0.006565,0.01,nc,nc73932156,2023-09-02T12:11:16.052Z,"7 km NW of The Geysers, CA",earthquake,0.29,0.77,0.17,15,automatic,nc,nc
 2023-09-02T11:48:49.970Z,33.7708333,-116.1488333,3.04,1.22,ml,31,103,0.06584,0.19,ci,ci39657338,2023-09-02T11:52:23.533Z,"8 km NE of Indio, CA",earthquake,0.34,0.52,0.177,27,automatic,ci,ci
@@ -185,6 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T17:02:58.021Z,62.2546,-150.0711,34.6,2.7,ml,,,,0.51,ak,ak023b7t9lly,2023-09-01T18:33:40.040Z,"7 km SSE of Talkeetna, Alaska",earthquake,,872.3,,,automatic,ak,ak
 2023-09-01T16:59:28.150Z,45.4105,-121.72066666666667,2.87,-0.09,md,3,286,0.01243,0.02,uw,uw61947487,2023-09-02T05:23:31.900Z,"Washington-Oregon border region",earthquake,0.6,0.48,0.24441009888903065,2,reviewed,uw,uw
 2023-09-01T16:59:20.080Z,33.8871667,-117.8281667,10.94,0.73,ml,11,236,0.04572,0.21,ci,ci39656922,2023-09-01T19:08:51.254Z,"1 km W of Yorba Linda, CA",earthquake,1.17,0.85,0.091,4,reviewed,ci,ci
-2023-09-01T16:53:39.693Z,41.7702,-81.0191,5,2.2,mb_lg,12,155,0.843,0.21,us,us7000kstj,2023-09-02T05:21:33.787Z,"2 km E of Madison, Ohio",earthquake,1.72,1.99,0.295,5,reviewed,us,us
-2023-09-01T16:52:12.528Z,54.6259,-159.9204,5,3.2,ml,,,,0.88,ak,ak023b7sys5v,2023-09-01T19:37:35.031Z,"87 km SSE of Sand Point, Alaska",earthquake,,0.8,,,reviewed,ak,ak
-2023-09-01T16:49:36.420Z,46.1955,-122.19516666666667,5.69,0.19,ml,14,82,0.008197,0.14,uw,uw61947477,2023-09-02T05:31:53.950Z,"37 km NNE of Amboy, Washington",earthquake,0.5,0.7,0.16597319821859993,10,reviewed,uw,uw
