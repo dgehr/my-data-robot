@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-02T17:52:35.530Z,19.1843338012695,-155.471664428711,27.9699993133545,1.70000005,md,18,206,,0.0900000036,hv,hv73558562,2023-09-02T17:55:43.310Z,"2 km SSE of Pāhala, Hawaii",earthquake,1.32,0.949999988,0.850000024,3,automatic,hv,hv
 2023-09-02T17:49:44.303Z,37.2236,-117.147,0,0.8,ml,13,168.36,0.259,0.3189,nn,nn00865377,2023-09-02T17:52:02.295Z,"49 km NW of Beatty, Nevada",earthquake,,44.4,1.1,10,automatic,nn,nn
 2023-09-02T17:02:35.320Z,38.8344994,-122.8156662,1.65,0.72,md,15,52,0.01192,0.02,nc,nc73932236,2023-09-02T17:20:14.777Z,"8 km W of Cobb, CA",earthquake,0.29,0.61,0.26,14,automatic,nc,nc
 2023-09-02T16:57:26.160Z,33.9696667,-116.6521667,15.8,1.24,ml,33,61,0.06877,0.22,ci,ci39657410,2023-09-02T17:01:00.494Z,"11 km SW of Morongo Valley, CA",earthquake,0.3,0.66,0.115,27,automatic,ci,ci
