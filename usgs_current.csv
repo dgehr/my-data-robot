@@ -180,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T04:15:51.170Z,63.508,-147.848,3.3,1.6,ml,,,,0.46,ak,ak023b7llqlp,2023-09-01T04:17:47.121Z,"56 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-01T04:07:53.110Z,32.3861667,-115.1426667,11,2.54,ml,26,68,0.068,0.29,ci,ci39656442,2023-09-02T02:18:04.040Z,"6 km NE of Delta, B.C., MX",earthquake,0.45,0.82,0.083,25,reviewed,ci,ci
 2023-09-01T03:52:18.452Z,63.2599,-150.5534,126.5,1.6,ml,,,,0.32,ak,ak023b7l84yd,2023-09-01T03:54:35.130Z,"66 km ESE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2023-09-01T03:22:51.760Z,33.1606667,-115.9358333,7.47,2.59,ml,77,40,0.03741,0.18,ci,ci39656434,2023-09-01T19:30:53.950Z,"16 km S of Salton City, CA",earthquake,0.16,0.44,0.141,25,reviewed,ci,ci
