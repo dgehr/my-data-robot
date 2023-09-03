@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T02:28:52.240Z,19.1730003356934,-155.499328613281,33.439998626709,1.85000002,md,27,161,,0.0900000036,hv,hv73559202,2023-09-03T02:32:01.290Z,"Island of Hawaii, Hawaii",earthquake,0.65,1.10000002,0.970000029,7,automatic,hv,hv
 2023-09-03T02:22:22.198Z,64.639,-17.799,10,4.2,mb,30,116,1.52,0.84,us,us7000ksxx,2023-09-03T02:47:24.040Z,"Iceland",earthquake,5.61,1.926,0.113,22,reviewed,us,us
 2023-09-03T02:05:39.421Z,36.3432,-115.9382,3.1,0.9,ml,12,292.41,0.297,0.1672,nn,nn00865382,2023-09-03T02:07:59.321Z,"15 km NNE of Pahrump, Nevada",earthquake,,11.3,0.73,10,automatic,nn,nn
-2023-09-03T01:52:24.250Z,37.5591667,-118.8378333,1.54,0.36,md,9,208,0.03158,0.04,nc,nc73932426,2023-09-03T05:55:04.313Z,"14 km W of Toms Place, CA",earthquake,0.95,0.96,0.157,8,reviewed,nc,nc
+2023-09-03T01:52:24.250Z,37.5591667,-118.8378333,1.54,0.36,md,9,208,0.03158,0.04,nc,nc73932426,2023-09-03T06:18:12.398Z,"14 km W of Toms Place, CA",earthquake,0.95,0.96,0.157,8,reviewed,nc,nc
 2023-09-03T01:48:28.510Z,19.3846664428711,-155.279830932617,1.07000005245209,1.72,ml,15,113,,0.109999999,hv,hv73559157,2023-09-03T01:53:59.770Z,"Island of Hawaii, Hawaii",earthquake,0.29,0.219999999,0.2,7,automatic,hv,hv
 2023-09-03T01:48:06.380Z,32.6291667,-115.8771667,9.66,1.34,ml,18,159,0.04223,0.24,ci,ci39657562,2023-09-03T01:51:39.965Z,"16 km SE of Ocotillo, CA",earthquake,0.61,0.98,0.228,20,automatic,ci,ci
 2023-09-03T01:45:31.890Z,33.4905,-116.4793333,12.12,1.1,ml,39,58,0.05554,0.23,ci,ci39657554,2023-09-03T01:56:27.410Z,"19 km ESE of Anza, CA",earthquake,0.29,0.54,0.183,26,automatic,ci,ci
@@ -44,6 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-02T23:52:05.450Z,59.7916,-152.9027,105,1.8,ml,,,,0.22,ak,ak023b9ko5k1,2023-09-02T23:53:47.539Z,"60 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-02T23:44:04.128Z,38.1787,-117.9657,5.1,1.7,ml,10,103.01,0.025,0.2019,nn,nn00865380,2023-09-02T23:46:44.274Z,"26 km SSE of Mina, Nevada",earthquake,,0.4,0.42,8,automatic,nn,nn
 2023-09-02T23:35:19.603Z,59.9277,-141.5704,17.1,1.8,ml,,,,0.68,ak,ak023b9kkjh4,2023-09-02T23:37:14.224Z,"112 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-02T23:25:15.657Z,40.496,-75.6136,6.482,1.7,ml,14,93,0.305,0.29,us,us7000ksxf,2023-09-03T06:23:23.040Z,"1 km N of Red Lion, Pennsylvania",earthquake,1.5,4.957,0.105,12,reviewed,us,us
 2023-09-02T23:23:29.370Z,37.2858315,-121.6600037,5.14,1.38,md,15,65,0.02877,0.05,nc,nc73932396,2023-09-03T00:10:14.236Z,"16 km E of Seven Trees, CA",earthquake,0.24,0.49,0.08,9,automatic,nc,nc
 2023-09-02T23:00:45.810Z,18.0163333333333,-66.758,11.92,2.56,md,13,157,0.1225,0.09,pr,pr71423298,2023-09-02T23:44:14.350Z,"1 km E of Magas Arriba, Puerto Rico",earthquake,0.36,0.48,0.022995512685851,5,reviewed,pr,pr
 2023-09-02T22:57:18.760Z,38.8308334,-122.8098297,1.97,1.05,md,19,45,0.00743,0.01,nc,nc73932386,2023-09-02T23:16:13.891Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.45,0.23,19,automatic,nc,nc
@@ -196,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-02T06:48:18.200Z,36.9751663,-121.6263351,4.75,1.25,md,10,74,0.04064,0.13,nc,nc73932076,2023-09-02T07:22:15.397Z,"6 km WSW of Gilroy, CA",earthquake,0.54,0.97,0.19,8,automatic,nc,nc
 2023-09-02T06:47:49.500Z,38.8214989,-122.8174973,2.04,0.74,md,10,83,0.0061,0.04,nc,nc73932071,2023-09-02T07:05:19.283Z,"7 km NW of The Geysers, CA",earthquake,0.39,1.11,0.21,11,automatic,nc,nc
 2023-09-02T06:44:35.140Z,33.327,-116.3596667,6.4,0.67,ml,24,119,0.07588,0.19,ci,ci39657218,2023-09-02T06:48:08.460Z,"8 km N of Borrego Springs, CA",earthquake,0.43,0.93,0.084,15,automatic,ci,ci
-2023-09-02T06:17:53.696Z,40.227,20.5553,10,4.5,mb,50,74,0.549,0.61,us,us7000kstr,2023-09-02T06:35:15.040Z,"9 km NNW of Leskovik, Albania",earthquake,5.21,1.906,0.096,32,reviewed,us,us
