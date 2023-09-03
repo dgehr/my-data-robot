@@ -187,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T00:20:53.120Z,46.1935,-122.2,1.82,0,ml,8,112,0.008933,0.05,uw,uw61956701,2023-09-03T03:30:44.970Z,"Mount St. Helens area, Washington",earthquake,0.65,0.48,0.0951723406125737,4,reviewed,uw,uw
 2023-09-03T00:10:25.250Z,17.9496666666667,-66.9278333333333,11.68,2.32,md,10,208,0.02891,0.09,pr,pr71423308,2023-09-03T00:32:03.790Z,"Puerto Rico region",earthquake,0.64,0.42,0.097236006465919,4,reviewed,pr,pr
 2023-09-02T23:52:05.450Z,59.7916,-152.9027,105,1.8,ml,,,,0.22,ak,ak023b9ko5k1,2023-09-02T23:53:47.539Z,"60 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-09-02T23:44:04.128Z,38.1787,-117.9657,5.1,1.7,ml,10,103.01,0.025,0.2019,nn,nn00865380,2023-09-02T23:46:44.274Z,"26 km SSE of Mina, Nevada",earthquake,,0.4,0.42,8,automatic,nn,nn
