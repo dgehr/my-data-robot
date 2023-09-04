@@ -174,5 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T22:38:03.820Z,33.4883333,-116.5928333,8.45,1.77,ml,63,21,0.01008,0.22,ci,ci39657962,2023-09-03T22:48:57.260Z,"10 km SE of Anza, CA",earthquake,0.2,0.42,0.264,27,automatic,ci,ci
 2023-09-03T22:23:48.790Z,18.967,-64.5988,7,3.89,md,16,222,0.7111,0.4,pr,pr2023246005,2023-09-03T22:44:04.413Z,"Virgin Islands region",earthquake,1.63,1.47,0.12,13,reviewed,pr,pr
 2023-09-03T22:22:14.630Z,38.8396683,-122.8235016,2.13,1.04,md,21,65,0.01497,0.03,nc,nc73932736,2023-09-03T22:39:14.983Z,"9 km WNW of Cobb, CA",earthquake,0.24,0.53,0.24,22,automatic,nc,nc
-2023-09-03T22:12:37.253Z,67.4279,-167.9042,10.285,2.5,mb_lg,30,252,2.004,0.59,us,us7000kt3a,2023-09-04T02:31:07.040Z,"113 km SSW of Point Hope, Alaska",earthquake,10.6,9.165,0.295,3,reviewed,us,us
-2023-09-03T22:05:50.060Z,19.2495002746582,-155.402160644531,30.8899993896484,2.08,ml,43,149,,0.119999997,hv,hv73560387,2023-09-03T22:11:22.950Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.56,0.680000007,2.99,9,automatic,hv,hv
