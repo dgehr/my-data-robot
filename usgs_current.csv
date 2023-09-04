@@ -18,8 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-04T15:28:02.781Z,58.1769,-155.3454,1.1,0.5,ml,,,,0.2,ak,ak023bcqu8ba,2023-09-04T15:29:37.458Z,"85 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-09-04T15:26:16.775Z,58.1766,-155.2403,0,1.8,ml,,,,0.94,ak,ak023bcqttyr,2023-09-04T15:28:18.034Z,"82 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-04T15:18:05.000Z,33.1228333,-115.9421667,28.71,1.17,ml,12,189,0.4473,0.23,ci,ci39658202,2023-09-04T15:21:41.013Z,"18 km E of Ocotillo Wells, CA",earthquake,2.49,1.1,0.211,11,automatic,ci,ci
-2023-09-04T15:13:02.568Z,60.0704,-153.2989,137.1,2.3,ml,,,,0.66,ak,ak023bcqr0j0,2023-09-04T15:26:25.393Z,"55 km NE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-09-04T15:13:02.341Z,60.0563,-153.3029,138.8,1.6,ml,,,,0.45,ak,ak023bcqr1qg,2023-09-04T15:30:19.040Z,"54 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-09-04T15:13:02.568Z,60.0704,-153.2989,137.1,2.3,ml,,,,0.66,ak,ak023bcqr0j0,2023-09-04T17:29:31.581Z,"55 km NE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-04T15:06:39.152Z,61.9213,-150.1084,34.4,1.4,ml,,,,0.24,ak,ak023bcqpld7,2023-09-04T15:07:57.342Z,"19 km N of Willow, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-09-04T15:05:44.730Z,19.0616,-64.4855,35,3.81,md,8,325,0.8514,0.29,pr,pr2023247005,2023-09-04T15:27:10.926Z,"87 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.98,17.66,0.07,5,reviewed,pr,pr
 2023-09-04T14:52:38.010Z,33.7325,-116.764,16.41,0.83,ml,22,83,0.04284,0.16,ci,ci39658194,2023-09-04T14:56:14.653Z,"4 km WSW of Idyllwild, CA",earthquake,0.37,0.48,0.198,16,automatic,ci,ci
