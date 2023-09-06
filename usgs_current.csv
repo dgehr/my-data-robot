@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-06T09:14:51.510Z,38.8221664,-122.7968369,1.89,1.1,md,15,83,0.01041,0.06,nc,nc73933651,2023-09-06T09:16:27.607Z,"6 km NW of The Geysers, CA",earthquake,0.3,0.56,0.14,17,automatic,nc,nc
-2023-09-06T09:12:23.660Z,39.9238319,-123.2529984,3.88,2.06,md,12,71,0.05455,0.2,nc,nc73933646,2023-09-06T09:13:57.459Z,"15 km N of Covelo, CA",earthquake,0.46,1.2,0.22,9,automatic,nc,nc
+2023-09-06T09:12:23.660Z,39.9238319,-123.2529984,3.88,2.06,md,12,71,0.05455,0.2,nc,nc73933646,2023-09-06T09:23:19.154Z,"15 km N of Covelo, CA",earthquake,0.46,1.2,0.22,9,automatic,nc,nc
 2023-09-06T09:11:25.134Z,62.893,-151.1637,32.1,1.1,ml,,,,1.12,ak,ak023bfy8q81,2023-09-06T09:12:54.312Z,"48 km NNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-06T08:42:10.560Z,35.6763333,-117.4826667,0.86,1.04,ml,12,146,0.04929,0.17,ci,ci39659330,2023-09-06T08:45:39.055Z,"12 km SW of Searles Valley, CA",earthquake,0.57,1.1,0.161,7,automatic,ci,ci
 2023-09-06T08:35:41.459Z,64.7186,-147.9087,15.8,0.6,ml,,,,0.47,ak,ak023bfxsh29,2023-09-06T08:37:45.545Z,"11 km SSW of South Van Horn, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -219,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T09:46:27.036Z,60.3144,-153.1626,158.1,1.4,ml,,,,0.27,ak,ak023beawv43,2023-09-05T09:55:33.040Z,"Southern Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-09-05T09:30:41.085Z,23.5516,120.3151,11.749,4.9,mww,51,56,0.382,0.8,us,us7000ktd3,2023-09-05T14:44:56.975Z,"15 km WNW of Pizitou, Taiwan",earthquake,5.13,4.758,0.098,10,reviewed,us,us
 2023-09-05T09:30:40.210Z,19.1343326568604,-155.363006591797,28.6100006103516,2.0999999,md,47,186,,0.140000001,hv,hv73563327,2023-09-05T09:36:10.410Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.7,0.910000026,0.519999981,21,automatic,hv,hv
-2023-09-05T09:25:21.110Z,17.9888333333333,-66.9321666666667,15.42,2.17,md,7,155,0.05219,0.06,pr,pr71423808,2023-09-05T10:07:41.260Z,"1 km W of Fuig, Puerto Rico",earthquake,0.79,0.56,0.0964109543977427,5,reviewed,pr,pr
-2023-09-05T09:24:28.710Z,61.5923,-146.3893,25.6,1.2,ml,,,,0.8,ak,ak023beas6bb,2023-09-05T09:26:45.059Z,"48 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
