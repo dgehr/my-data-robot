@@ -99,11 +99,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-06T14:47:28.780Z,45.709,-122.47716666666666,9.2,0.8200000000000001,ml,19,218,0.2272,0.21,uw,uw61957611,2023-09-06T15:45:56.530Z,"3 km SSE of Hockinson, Washington",earthquake,1.15,19.71,0.1479626796013741,8,reviewed,uw,uw
 2023-09-06T14:36:43.570Z,48.667,-122.02666666666667,5.67,1.25,ml,7,136,0.09042,0.2,uw,uw61957606,2023-09-06T15:54:48.680Z,"14 km ESE of Acme, Washington",earthquake,0.76,3.32,0.08455897341638519,3,reviewed,uw,uw
 2023-09-06T14:34:24.990Z,36.5113335,-121.090332,7.15,2.05,md,22,91,,0.08,nc,nc73933736,2023-09-06T15:06:15.086Z,"5 km ESE of Pinnacles, CA",earthquake,0.35,0.93,0.16,19,automatic,nc,nc
+2023-09-06T14:27:03.290Z,51.8695,-177.8625,7.79,-0.01,ml,4,219,,0.06,av,av92032376,2023-09-07T03:36:31.870Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.54,0.85,0.184494055996371,4,reviewed,av,av
 2023-09-06T14:25:04.700Z,19.3343334197998,-155.19450378418,-0.639999985694885,1.93,ml,41,123,,0.209999993,hv,hv73565842,2023-09-06T14:30:34.490Z,"12 km SSE of Volcano, Hawaii",earthquake,0.39,0.150000006,2.25,16,automatic,hv,hv
 2023-09-06T14:18:34.387Z,63.5997,-147.2798,0.1,1.6,ml,,,,1.03,ak,ak023bg19ez2,2023-09-06T14:20:28.794Z,"82 km E of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-06T14:16:00.451Z,61.4164,-150.2386,23.6,1.4,ml,,,,0.53,ak,ak023bg18wx9,2023-09-06T14:18:00.622Z,"15 km WNW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-06T13:56:18.240Z,32.9208333,-116.238,8.96,0.88,ml,21,100,0.06447,0.15,ci,ci39659442,2023-09-06T19:58:12.297Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.21,0.6,0.032,8,reviewed,ci,ci
 2023-09-06T13:15:51.530Z,33.5125,-116.504,14.65,0.42,ml,26,61,0.05023,0.12,ci,ci39659418,2023-09-06T20:02:49.452Z,"16 km ESE of Anza, CA",earthquake,0.23,0.32,0.032,6,reviewed,ci,ci
+2023-09-06T13:12:49.440Z,51.8126666666667,179.719833333333,19.7,1.41,ml,4,325,,0.14,av,av92032286,2023-09-07T03:31:08.550Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.88,3.82,0.147619622386696,3,reviewed,av,av
 2023-09-06T13:05:14.357Z,63.407,-149.8105,4.1,1.4,ml,,,,0.65,ak,ak023bg0l5ij,2023-09-06T13:07:11.009Z,"42 km W of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-06T13:01:31.290Z,38.8241653,-122.8065033,2.93,0.96,md,14,75,0.002893,0.01,nc,nc73933721,2023-09-06T13:19:15.473Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.82,0.2,15,automatic,nc,nc
 2023-09-06T12:49:31.920Z,18.0151666666667,-66.793,15.44,2.85,md,25,151,0.005006,0.25,pr,pr71423973,2023-09-06T13:22:54.562Z,"0 km SSW of Guayanilla, Puerto Rico",earthquake,0.58,0.86,0.275527779082821,8,reviewed,pr,pr
@@ -224,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-06T03:43:25.117Z,65.1365,-148.9545,4.9,1.3,ml,,,,0.41,ak,ak023bfuuzig,2023-09-06T03:55:41.294Z,"18 km E of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-06T03:43:23.790Z,52.0671666666667,-176.116,-1.8,0.44,ml,6,109,,0.33,av,av92031636,2023-09-07T01:38:00.650Z,"41 km ENE of Adak, Alaska",earthquake,0.67,1.23,0.189442978690435,6,reviewed,av,av
 2023-09-06T03:37:47.510Z,38.8306667,-122.815,2.21,0.28,md,17,62,0.008218,0.03,nc,nc73933556,2023-09-06T05:26:12.732Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.28,0.342,17,reviewed,nc,nc
-2023-09-06T03:32:51.090Z,38.432,-122.458,9.07,2.33,md,111,25,0.03706,0.14,nc,nc73933551,2023-09-06T05:37:10.796Z,"8 km ENE of Kenwood, CA",earthquake,0.12,0.34,0.156,117,reviewed,nc,nc
