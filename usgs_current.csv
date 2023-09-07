@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-07T06:54:05.762Z,39.3435,-120.1067,0.9,1.3,ml,10,181.36,0.074,0.181,nn,nn00865513,2023-09-07T06:56:42.467Z,"6 km ENE of Truckee, California",earthquake,,2.4,0.44,6,automatic,nn,nn
+2023-09-07T06:53:40.700Z,38.8224983,-122.7988358,1.6,0.76,md,11,82,0.008824,0.02,nc,nc73934046,2023-09-07T06:55:15.356Z,"6 km NW of The Geysers, CA",earthquake,0.33,0.79,0.07,11,automatic,nc,nc
+2023-09-07T06:53:06.053Z,63.8642,-148.6641,8.7,1.9,ml,,,,0.4,ak,ak023bhk8qi5,2023-09-07T06:54:42.924Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-07T06:38:06.080Z,60.9329,-147.2492,20.1,1.4,ml,,,,0.29,ak,ak023bhk5iqi,2023-09-07T06:40:49.793Z,"31 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-07T06:33:43.180Z,36.0434989929199,-89.8399963378906,14.9099998474121,2.00999999,md,11,133,0.07161,0.370000005,nm,nm60549671,2023-09-07T06:38:18.120Z,"Missouri",earthquake,1.53,1.27999997,0.280000001,9,reviewed,nm,nm
 2023-09-07T06:22:59.860Z,35.8881667,-117.6978333,5.23,0.85,ml,10,160,0.09632,0.14,ci,ci39660154,2023-09-07T06:26:26.664Z,"20 km ESE of Little Lake, CA",earthquake,0.43,1.62,0.099,6,automatic,ci,ci
@@ -217,8 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-06T07:11:21.456Z,61.9683,-150.0954,15,0.9,ml,,,,0.15,ak,ak023bfx1uq9,2023-09-06T07:13:28.422Z,"24 km N of Willow, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-06T07:09:37.670Z,18.9175,-64.6746,22,3.6,md,9,295,0.6315,0.44,pr,pr2023249001,2023-09-06T07:43:01.512Z,"66 km N of Cruz Bay, U.S. Virgin Islands",earthquake,2.58,29.4,0.08,5,reviewed,pr,pr
 2023-09-06T07:05:52.440Z,17.925,-66.8613333333333,9.96,2.95,md,18,211,0.05262,0.11,pr,pr71423923,2023-09-06T07:22:09.300Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,0.57,0.47,0.198267569448684,12,reviewed,pr,pr
-2023-09-06T06:56:08.580Z,46.19433333333333,-122.187,4.49,0.14,ml,15,84,0.00596,0.14,uw,uw61957546,2023-09-06T16:19:21.110Z,"37 km NNE of Amboy, Washington",earthquake,0.56,0.7,0.13333439688670856,13,reviewed,uw,uw
-2023-09-06T06:55:28.730Z,38.788166,-122.7464981,1.9,1.07,md,15,85,0.009086,0.02,nc,nc73933626,2023-09-06T06:57:02.761Z,"2 km NE of The Geysers, CA",earthquake,0.27,0.6,0.18,14,automatic,nc,nc
-2023-09-06T06:54:50.030Z,53.8853333333333,-167.001833333333,3.15,0.13,ml,4,250,,0.09,av,av91115093,2023-09-07T02:13:04.500Z,"30 km W of Dutch Harbor, Alaska",earthquake,0.71,1.7,0.12616618706277,4,reviewed,av,av
-2023-09-06T06:54:37.180Z,38.788166,-122.7463303,1.91,0.74,md,10,85,0.008977,0.02,nc,nc73933621,2023-09-06T06:56:12.644Z,"2 km NE of The Geysers, CA",earthquake,0.31,0.93,0.12,11,automatic,nc,nc
-2023-09-06T06:53:39.276Z,13.0034,120.4408,10.059,4.9,mb,57,110,10.243,1.3,us,us7000ktlh,2023-09-06T13:34:00.484Z,"28 km SSW of Tayaman, Philippines",earthquake,9.93,4.526,0.082,47,reviewed,us,us
