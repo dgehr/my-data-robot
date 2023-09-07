@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-07T13:35:25.590Z,33.471,-116.4263333,8.67,1.44,ml,54,37,0.05226,0.23,ci,ci39660306,2023-09-07T13:38:59.303Z,"24 km SSW of La Quinta, CA",earthquake,0.26,0.73,0.125,26,automatic,ci,ci
+2023-09-07T13:35:18.710Z,33.1415,-116.7048333,22.59,1.53,ml,17,173,0.2446,0.25,ci,ci39660298,2023-09-07T13:38:55.306Z,"12 km NW of Julian, CA",earthquake,1.16,1.97,0.244,5,automatic,ci,ci
 2023-09-07T13:21:21.784Z,66.2589,-150.0387,9.6,1.6,ml,,,,0.59,ak,ak023bho7y1e,2023-09-07T13:23:17.890Z,"51 km WNW of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-07T12:58:52.100Z,36.5683327,-121.2148361,6.41,1.97,md,30,92,,0.23,nc,nc73934171,2023-09-07T13:17:19.967Z,"8 km WNW of Pinnacles, CA",earthquake,0.41,1.29,0.2,26,automatic,nc,nc
 2023-09-07T12:55:27.282Z,58.1319,-155.5805,18.1,0.3,ml,,,,0.46,ak,ak023bhntt7c,2023-09-07T12:56:26.380Z,"88 km SE of King Salmon, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -132,6 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-06T22:32:31.820Z,61.4085,-146.8471,32,1.4,ml,,,,0.39,ak,ak023bg63vn2,2023-09-06T22:34:12.480Z,"40 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-06T22:08:20.050Z,40.6081657,-121.829834,13.23,2,md,10,73,0.18,0.15,nc,nc73933901,2023-09-06T23:19:13.834Z,"14 km NNE of Shingletown, CA",earthquake,0.59,3.41,0.22,7,automatic,nc,nc
 2023-09-06T21:58:40.860Z,34.3711667,-119.3885,3.34,1.4,ml,15,179,0.03902,0.12,ci,ci39660002,2023-09-06T23:50:58.952Z,"12 km ESE of Carpinteria, CA",earthquake,0.47,0.35,0.098,10,reviewed,ci,ci
+2023-09-06T21:54:50.099Z,32.35748291,-102.0678115,6.822875977,1.9,ml,18,62,0.07636418903,0.1,tx,tx2023rmud,2023-09-07T13:36:08.393Z,"western Texas",earthquake,0.9567804945,1.479474954,0.1,6,reviewed,tx,tx
 2023-09-06T21:48:17.420Z,33.3945,-116.8483333,8.05,0.68,ml,28,69,0.0425,0.21,ci,ci39659986,2023-09-07T01:03:46.186Z,"4 km NNE of Palomar Observatory, CA",earthquake,0.28,0.79,0.094,12,reviewed,ci,ci
 2023-09-06T21:46:01.287Z,63.5616,-151.1028,0,1.2,ml,,,,0.54,ak,ak023bg5ldpc,2023-09-06T21:47:42.814Z,"30 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-06T21:25:22.160Z,58.2276666666667,-155.138333333333,4.72,-0.12,ml,8,145,,0.07,av,av92032841,2023-09-07T04:56:01.750Z,"83 km NNW of Karluk, Alaska",earthquake,0.34,0.7,0.180993920161826,8,reviewed,av,av
