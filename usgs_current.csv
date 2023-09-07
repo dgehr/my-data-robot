@@ -75,7 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-07T11:27:33.440Z,67.3174,-156.1638,0.5,2.1,ml,,,,0.75,ak,ak023bhn2e0w,2023-09-07T11:31:34.122Z,"55 km NE of Kobuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-07T11:24:03.692Z,62.1192,-150.9949,66.5,1.5,ml,,,,0.38,ak,ak023bhn1olt,2023-09-07T11:25:28.306Z,"25 km NE of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-07T11:05:02.310Z,44.7698333,-111.1125,11.59,-0.04,md,9,76,0.02668,0.14,uu,uu60549422,2023-09-07T13:22:36.550Z,"6 km E of Hebgen Lake Estates, Montana",earthquake,0.71,1.49,0.24,5,reviewed,uu,uu
-2023-09-07T10:58:35.920Z,39.2296667,-123.3828333,4.21,1.18,md,24,76,0.06783,0.07,nc,nc73934131,2023-09-07T20:20:13.317Z,"16 km WSW of Redwood Valley, CA",earthquake,0.16,0.9,0.188,16,reviewed,nc,nc
+2023-09-07T10:58:35.920Z,39.2296667,-123.3828333,4.21,1.18,md,24,76,0.06783,0.07,nc,nc73934131,2023-09-07T21:45:14.796Z,"16 km WSW of Redwood Valley, CA",earthquake,0.16,0.9,0.188,16,reviewed,nc,nc
 2023-09-07T10:56:31.639Z,62.1576,-152.1161,105.2,1.4,ml,,,,0.33,ak,ak023bhmn61n,2023-09-07T10:58:36.743Z,"41 km WNW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-07T10:50:47.530Z,42.1756667,-112.6725,9.78,1.79,ml,17,125,0.1181,0.14,uu,uu60549417,2023-09-07T13:15:51.130Z,"23 km N of Snowville, Utah",earthquake,0.74,0.47,0.11,4,reviewed,uu,uu
 2023-09-07T10:45:14.533Z,-30.299,-71.4416,42.054,4.3,mwr,31,135,0.409,0.89,us,us7000ktwh,2023-09-07T13:54:34.040Z,"Near the coast of Coquimbo, Chile",earthquake,5.57,8.643,,,reviewed,us,guc
@@ -227,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-06T21:58:40.860Z,34.3711667,-119.3885,3.34,1.4,ml,15,179,0.03902,0.12,ci,ci39660002,2023-09-06T23:50:58.952Z,"12 km ESE of Carpinteria, CA",earthquake,0.47,0.35,0.098,10,reviewed,ci,ci
 2023-09-06T21:54:50.099Z,32.35748291,-102.0678115,6.822875977,1.9,ml,18,62,0.07636418903,0.1,tx,tx2023rmud,2023-09-07T13:36:08.393Z,"western Texas",earthquake,0.9567804945,1.479474954,0.1,6,reviewed,tx,tx
 2023-09-06T21:48:17.420Z,33.3945,-116.8483333,8.05,0.68,ml,28,69,0.0425,0.21,ci,ci39659986,2023-09-07T01:03:46.186Z,"4 km NNE of Palomar Observatory, CA",earthquake,0.28,0.79,0.094,12,reviewed,ci,ci
-2023-09-06T21:46:01.287Z,63.5616,-151.1028,0,1.2,ml,,,,0.54,ak,ak023bg5ldpc,2023-09-06T21:47:42.814Z,"30 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
