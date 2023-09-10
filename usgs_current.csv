@@ -196,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T03:58:41.580Z,61.13,-147.7127,18.5,1.4,ml,,,,1.98,ak,ak023bktk9zy,2023-09-09T04:00:06.581Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-09T03:57:04.330Z,33.0233333,-116.3436667,10.05,0.79,ml,21,81,0.07621,0.22,ci,ci39661778,2023-09-09T04:00:35.545Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.37,0.85,0.256,11,automatic,ci,ci
 2023-09-09T03:56:11.110Z,35.869,-117.4068333,0.36,1.15,ml,15,116,0.1027,0.2,ci,ci39661770,2023-09-09T03:59:45.583Z,"11 km N of Searles Valley, CA",earthquake,0.45,31.61,0.127,8,automatic,ci,ci
-2023-09-09T03:49:22.513Z,-6.1241,130.1943,117.151,4.5,mb,39,76,3.786,0.77,us,us7000kuip,2023-09-09T04:58:25.040Z,"Banda Sea",earthquake,9.28,6.935,0.1,29,reviewed,us,us
