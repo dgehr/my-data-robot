@@ -73,7 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T08:37:29.563Z,63.1477,-149.8004,77.3,2,ml,,,,0.47,ak,ak023bpv0yim,2023-09-12T08:39:31.480Z,"50 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-12T08:37:09.070Z,34.4433333,-117.92,11.41,0.84,ml,20,64,0.02979,0.14,ci,ci39663274,2023-09-12T15:21:44.673Z,"7 km S of Pearblossom, CA",earthquake,0.21,0.4,0.128,9,reviewed,ci,ci
 2023-09-12T08:37:08.260Z,38.8201675,-122.817337,2.27,0.79,md,17,60,0.006525,0.03,nc,nc73935986,2023-09-12T08:38:44.232Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.67,0.17,19,automatic,nc,nc
-2023-09-12T08:32:21.450Z,37.1875,-121.573,5.81,3.28,ml,147,36,0.04897,0.11,nc,nc73935981,2023-09-12T20:24:49.772Z,"10 km NE of Morgan Hill, CA",earthquake,0.09,0.21,0.164,115,reviewed,nc,nc
+2023-09-12T08:32:21.450Z,37.1875,-121.573,5.81,3.28,ml,147,36,0.04897,0.11,nc,nc73935981,2023-09-12T20:37:31.864Z,"10 km NE of Morgan Hill, CA",earthquake,0.09,0.21,0.164,115,reviewed,nc,nc
 2023-09-12T08:23:57.461Z,63.0135,-150.74,116.3,2.2,ml,,,,0.44,ak,ak023bpuy0mq,2023-09-12T08:26:00.358Z,"57 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-12T08:12:35.580Z,45.0495,-122.437,7.48,0.67,ml,6,92,0.1591,0.26,uw,uw61950262,2023-09-12T16:12:53.310Z,"15 km SE of Molalla, Oregon",earthquake,0.82,17.94,0.05677368668173299,4,reviewed,uw,uw
 2023-09-12T08:12:18.530Z,33.4895,-116.4983333,8.47,0.61,ml,19,93,0.08695,0.15,ci,ci39663266,2023-09-12T13:34:46.993Z,"18 km ESE of Anza, CA",earthquake,0.24,0.8,0.184,15,reviewed,ci,ci
@@ -182,5 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T20:58:48.720Z,60.0228333333333,-153.091333333333,0.98,-0.44,ml,6,114,,0.16,av,av91115598,2023-09-12T02:41:17.820Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.38,0.48,0.240746234935645,6,reviewed,av,av
 2023-09-11T20:57:55.912Z,56.0501,-157.2211,19.3,2,ml,,,,0.58,ak,ak023boer9a1,2023-09-11T23:41:03.368Z,"78 km ESE of Chignik, Alaska",earthquake,,4.5,,,reviewed,ak,ak
 2023-09-11T20:49:57.910Z,36.2150002,-120.8000031,5.17,2.11,md,34,98,0.00136,0.17,nc,nc73935826,2023-09-11T22:29:19.615Z,"22 km ENE of San Lucas, CA",earthquake,0.36,0.49,0.19,28,automatic,nc,nc
-2023-09-11T20:43:45.119Z,31.67839101,-104.4043579,4.948999022999999,1.9,ml,15,85,0.03241481248,0.1,tx,tx2023rvvh,2023-09-12T14:42:18.423Z,"55 km S of Whites City, New Mexico",earthquake,0.9084142548000002,1.018492647,0.1,7,reviewed,tx,tx
-2023-09-11T20:38:49.780Z,52.0686666666667,-176.145333333333,2.54,-0.55,ml,5,128,,0.17,av,av91115588,2023-09-12T02:23:27.140Z,"39 km ENE of Adak, Alaska",earthquake,0.77,1.08,0.195253656231376,5,reviewed,av,av
