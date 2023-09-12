@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T09:01:49.140Z,17.943,-66.2778333333333,7.54,2.48,md,10,191,0.1643,0.28,pr,pr71424543,2023-09-11T09:26:22.140Z,"4 km SSE of Salinas, Puerto Rico",earthquake,1.06,1.59,0.268869099889586,9,reviewed,pr,pr
 2023-09-11T08:54:46.480Z,19.1856670379639,-155.476165771484,30.7999992370605,2.11999989,md,36,83,,0.129999995,hv,hv73575552,2023-09-11T08:58:07.160Z,"Island of Hawaii, Hawaii",earthquake,0.52,0.790000021,1.72000003,14,automatic,hv,hv
 2023-09-11T08:41:41.390Z,44.7681667,-111.1058333,11.21,-0.16,md,8,84,0.02801,0.11,uu,uu60549877,2023-09-11T15:49:33.990Z,"Idaho-Montana border region",earthquake,0.56,1.56,0.123,5,reviewed,uu,uu
-2023-09-11T08:31:45.100Z,55.4949,-159.1609,94.8,1.9,ml,,,,1.04,ak,ak023bo7gcy6,2023-09-11T08:33:21.930Z,"46 km S of Perryville, Alaska",earthquake,,2.9,,,automatic,ak,ak
