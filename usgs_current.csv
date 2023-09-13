@@ -6,7 +6,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-13T05:18:30.903Z,31.5991,-104.3617,5,2.7,ml,22,89,0.137,0.28,us,us7000kvfj,2023-09-13T05:34:24.040Z,"62 km WNW of Toyah, Texas",earthquake,1.09,1.904,0.056,62,reviewed,us,us
 2023-09-13T05:18:22.720Z,19.5594997406006,-155.994338989258,9.47000026702881,1.91999996,md,22,286,,0.209999993,hv,hv73576652,2023-09-13T05:21:26.990Z,"3 km WSW of Kahaluu-Keauhou, Hawaii",earthquake,1.35,0.660000026,0.949999988,7,automatic,hv,hv
 2023-09-13T05:12:39.700Z,40.9230003,-121.5800018,7.35,2.25,md,17,78,0.1241,0.1,nc,nc73936226,2023-09-13T05:34:10.775Z,"8 km ENE of Burney, CA",earthquake,0.3,1.71,0.13,10,automatic,nc,nc
-2023-09-13T05:05:51.071Z,58.1835,-155.263,0,0.4,ml,,,,0.9,ak,ak023brgl6yr,2023-09-13T05:07:56.736Z,"83 km NW of Karluk, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2023-09-13T05:03:28.314Z,64.6363,-149.1561,15.7,1.1,ml,,,,0.22,ak,ak023brgkprz,2023-09-13T05:05:01.741Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-13T05:01:20.104Z,58.252,-155.0687,1.2,0.5,ml,,,,0.18,ak,ak023brgk9pm,2023-09-13T05:02:17.889Z,"Alaska Peninsula",earthquake,,1.9,,,automatic,ak,ak
 2023-09-13T04:45:38.520Z,38.8271675,-122.8146667,1.81,0.76,md,18,46,0.01641,0.01,nc,nc73936221,2023-09-13T04:47:12.846Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.6,0.08,20,automatic,nc,nc
