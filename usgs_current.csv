@@ -189,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T05:02:20.044Z,40.4622,-119.6056,16.5,0.8,ml,3,328.98,0.308,0.0049,nn,nn00865819,2023-09-15T02:04:27.571Z,"25 km WSW of Empire, Nevada",earthquake,,8.2,0.26,3,reviewed,nn,nn
 2023-09-14T04:56:40.970Z,19.1851673126221,-155.492172241211,33.7599983215332,2.16000009,md,40,75,,0.109999999,hv,hv73577452,2023-09-14T04:59:45.460Z,"2 km SW of Pāhala, Hawaii",earthquake,0.62,1.05999994,1.63,22,automatic,hv,hv
 2023-09-14T04:55:33.970Z,40.8408333,-111.7585,9.32,0.86,ml,23,48,0.07088,0.19,uu,uu60550092,2023-09-14T13:39:22.040Z,"11 km ESE of Bountiful, Utah",earthquake,0.33,0.93,0.08,2,reviewed,uu,uu
-2023-09-14T04:44:13.320Z,34.4525,-119.2093333,10.53,1.43,ml,21,61,0.06137,0.29,ci,ci39664634,2023-09-14T14:07:55.216Z,"3 km E of Ojai, CA",earthquake,0.52,0.86,0.157,11,reviewed,ci,ci
