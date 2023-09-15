@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-15T08:52:03.270Z,38.8376656,-122.8221664,3.34,1.25,md,15,91,0.01044,0.17,nc,nc73936986,2023-09-15T08:53:40.122Z,"9 km WNW of Cobb, CA",earthquake,1.22,1.66,0.35,14,automatic,nc,nc
+2023-09-15T09:05:49.756Z,63.3719,-150.0961,7.8,1.2,ml,,,,0.84,ak,ak023buu1m9r,2023-09-15T09:08:26.112Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-15T08:52:03.270Z,38.8376656,-122.8221664,3.34,1.25,md,15,91,0.01044,0.17,nc,nc73936986,2023-09-15T09:08:12.152Z,"9 km WNW of Cobb, CA",earthquake,1.22,1.66,0.35,14,automatic,nc,nc
 2023-09-15T08:33:30.130Z,34.0501667,-118.1698333,9.12,1.14,ml,9,235,0.1216,0.27,ci,ci39665698,2023-09-15T08:37:02.145Z,"2 km N of East Los Angeles, CA",earthquake,1.58,2.32,0.314,17,automatic,ci,ci
 2023-09-15T08:17:36.120Z,38.8123322,-122.8296661,1.37,0.72,md,9,95,0.00348,0.01,nc,nc73936981,2023-09-15T08:19:09.777Z,"7 km WNW of The Geysers, CA",earthquake,0.33,0.76,0.3,9,automatic,nc,nc
 2023-09-15T08:17:15.460Z,38.8354988,-122.8148346,1.55,0.74,md,11,73,0.01265,0.01,nc,nc73936976,2023-09-15T08:18:49.558Z,"8 km W of Cobb, CA",earthquake,0.28,0.8,0.23,13,automatic,nc,nc
@@ -104,7 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T16:45:51.470Z,52.0878333333333,-176.121333333333,11.68,0.45,ml,5,164,,0.08,av,av92044896,2023-09-15T01:39:35.470Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.73,0.77,0.23159105413428,5,reviewed,av,av
 2023-09-14T16:22:38.860Z,38.7849998,-122.7464981,1.29,0.94,md,5,159,0.007838,0.01,nc,nc73936766,2023-09-14T16:24:13.505Z,"1 km NE of The Geysers, CA",earthquake,1.22,0.74,0.25,6,automatic,nc,nc
 2023-09-14T16:11:43.340Z,58.1615,-155.386333333333,1.43,0.07,ml,8,83,,0.07,av,av92044866,2023-09-15T01:36:37.810Z,"86 km NW of Karluk, Alaska",earthquake,0.23,1.25,0.184051581543412,8,reviewed,av,av
-2023-09-14T16:09:39.057Z,59.902,-151.4437,57.7,1.9,ml,,,,0.54,ak,ak023btap51t,2023-09-14T16:11:47.467Z,"13 km NE of Nikolaevsk, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-09-14T16:09:39.057Z,59.902,-151.4437,57.7,1.9,ml,,,,0.54,ak,ak023btap51t,2023-09-14T16:11:47.467Z,"Kenai Peninsula, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-14T15:59:29.090Z,60.0425,-153.083,-1.93,-0.26,ml,5,95,,0.05,av,av92044851,2023-09-15T01:29:30.200Z,"Southern Alaska",earthquake,0.18,3.42,0.472876894344771,4,reviewed,av,av
 2023-09-14T15:51:22.300Z,36.0965,-120.1545,7.57,1.22,md,22,233,0.1388,0.04,nc,nc73936761,2023-09-14T20:29:19.971Z,"10 km NNW of Avenal, CA",earthquake,1.16,0.46,0.18,10,reviewed,nc,nc
 2023-09-14T15:43:42.720Z,58.188,-155.322333333333,2.38,0.48,ml,13,53,,0.14,av,av92044836,2023-09-15T01:26:04.350Z,"86 km NW of Karluk, Alaska",earthquake,0.23,0.36,0.258162134426942,13,reviewed,av,av
@@ -168,4 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T09:27:10.281Z,61.3938,-149.9394,29.6,1.8,ml,,,,0.4,ak,ak023bt6mwhg,2023-09-14T09:28:46.483Z,"4 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-14T09:24:00.750Z,61.3105,-152.252,2.21,-0.36,ml,8,143,,0.04,av,av92044371,2023-09-15T00:30:54.350Z,"65 km WNW of Beluga, Alaska",earthquake,0.29,1.14,0.148819077897721,9,reviewed,av,av
 2023-09-14T09:21:48.112Z,63.5393,-147.4864,0,1.8,ml,,,,0.78,ak,ak023bt6lp3v,2023-09-14T09:23:49.032Z,"73 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-14T09:07:15.800Z,18.0311666666667,-67.0765,16.89,2.39,md,13,79,0.03998,0.09,pr,pr71424693,2023-09-14T21:46:57.530Z,"1 km S of Palmarejo, Puerto Rico",earthquake,0.38,0.51,0.0464726177992802,4,reviewed,pr,pr
