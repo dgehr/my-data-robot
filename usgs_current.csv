@@ -233,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T03:09:22.593Z,-20.8598,-69.0708,117.078,4.5,mb,38,55,0.43,0.82,us,us7000kvw3,2023-09-15T04:14:55.077Z,"Tarapaca, Chile",earthquake,6.41,5.44,0.084,42,reviewed,us,us
 2023-09-15T03:01:58.370Z,56.851,-158.1375,3.82,0.33,ml,4,177,,0.2,av,av92045406,2023-09-15T20:09:22.110Z,"64 km NNE of Chignik, Alaska",earthquake,1.58,0.89,0.46976348552575,4,reviewed,av,av
 2023-09-15T02:59:53.008Z,59.8778,-152.3731,71.4,1.8,ml,,,,0.44,ak,ak023buq75yc,2023-09-15T03:01:47.364Z,"32 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-15T02:51:26.699Z,36.50683333,-98.70083333,6.46,1.97,ml,85,65,0,0.2,ok,ok2023sbtx,2023-09-15T12:33:07.677Z,"18 km ESE of Waynoka, Oklahoma",earthquake,,0.3,0.29,35,reviewed,ok,ok
