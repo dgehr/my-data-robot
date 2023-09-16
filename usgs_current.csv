@@ -26,6 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T22:52:01.890Z,33.016,-116.3446667,11.21,1.23,ml,40,68,0.07038,0.18,ci,ci39666546,2023-09-15T23:47:46.690Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.21,0.36,0.157,20,reviewed,ci,ci
 2023-09-15T22:51:21.920Z,33.8188333,-117.4813333,-0.5,1.56,ml,42,41,0.03028,0.25,ci,ci39666538,2023-09-15T23:24:08.194Z,"8 km SSE of Home Gardens, CA",quarry blast,0.33,31.61,0.212,28,reviewed,ci,ci
 2023-09-15T22:45:54.130Z,45.9206666666667,-112.241,-2,1.48,ml,9,170,0.02627,0.16,mb,mb90027398,2023-09-15T23:04:44.700Z,"12 km WNW of Whitehall, Montana",quarry blast,0.87,31.61,0.0922214147372195,12,reviewed,mb,mb
+2023-09-15T22:41:37.080Z,57.0883333333333,-135.765666666667,6.06,-0.37,ml,4,273,,0.08,av,av91115983,2023-09-16T03:21:28.430Z,"26 km W of Sitka, Alaska",earthquake,1.27,0.72,0.210319852969899,4,reviewed,av,av
 2023-09-15T22:31:27.768Z,-21.3203,-67.7155,220.447,4.5,mb,24,103,1.498,0.84,us,us7000kw3d,2023-09-15T23:02:53.040Z,"56 km E of Ollagüe, Chile",earthquake,7.51,10.71,0.27,4,reviewed,us,us
 2023-09-15T22:29:59.180Z,38.7873344,-122.7454987,1.38,1.72,md,25,70,0.007985,0.03,nc,nc73937246,2023-09-15T22:49:12.735Z,"2 km NE of The Geysers, CA",earthquake,0.24,0.41,0.16,31,automatic,nc,nc
 2023-09-15T22:24:16.979Z,38.1509,-118.1633,11.4,3.2,ml,12,42.98,0.148,0.1123,nn,nn00865877,2023-09-15T23:07:42.107Z,"27 km S of Mina, Nevada",earthquake,,1.7,0.16,7,reviewed,nn,nn
@@ -230,6 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T03:45:37.850Z,46.209666666666664,-122.182,7.35,0.08,ml,15,93,0.009776,0.21,uw,uw61959906,2023-09-15T13:37:37.890Z,"Mount St. Helens area, Washington",earthquake,0.44,0.56,0.14188217784177742,9,reviewed,uw,uw
 2023-09-15T03:45:00.790Z,19.719,-156.0685,30.83,2.02,md,30,221,,0.19,hv,hv73577922,2023-09-15T23:40:24.670Z,"Hawaii region, Hawaii",earthquake,0.76,0.97,0.230726931948887,15,reviewed,hv,hv
 2023-09-15T03:40:11.130Z,60.0458333333333,-153.083,2,-0.42,ml,4,194,,0.16,av,av92045446,2023-09-15T20:17:35.820Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.99,1.81,0.156607119771646,4,reviewed,av,av
-2023-09-15T03:23:55.822Z,60.2064,-152.7677,91.3,1.6,ml,,,,0.44,ak,ak023buqkvzy,2023-09-15T03:26:10.252Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-09-15T03:23:42.990Z,38.7913322,-122.7269974,0.68,1.06,md,11,92,0.0272,0.07,nc,nc73936921,2023-09-15T03:25:19.675Z,"3 km ENE of The Geysers, CA",earthquake,0.32,0.94,0.3,11,automatic,nc,nc
-2023-09-15T03:23:33.100Z,38.7908325,-122.7265015,0.63,1.07,md,11,91,0.01102,0.03,nc,nc73936916,2023-09-15T03:25:09.466Z,"3 km ENE of The Geysers, CA",earthquake,0.25,0.8,0.07,11,automatic,nc,nc
