@@ -179,4 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T21:16:30.420Z,58.2335,-155.171833333333,4.09,0.11,ml,8,135,,0.11,av,av92046401,2023-09-16T02:56:00.780Z,"Alaska Peninsula",earthquake,0.41,0.65,0.219429007004853,8,reviewed,av,av
 2023-09-15T21:01:31.630Z,38.8364983,-122.7996674,1.99,0.76,md,13,69,0.007527,0.02,nc,nc73937196,2023-09-15T21:03:06.204Z,"7 km WNW of Cobb, CA",earthquake,0.29,0.69,0.15,14,automatic,nc,nc
 2023-09-15T20:59:53.690Z,33.9911667,-117.0576667,16.2,1.09,ml,40,34,0.06341,0.18,ci,ci39666474,2023-09-15T21:33:18.410Z,"0 km NW of Calimesa, CA",earthquake,0.2,0.62,0.149,19,reviewed,ci,ci
-2023-09-15T20:47:46.610Z,38.8308334,-122.800499,1.46,0.57,md,9,79,0.01054,0.01,nc,nc73937191,2023-09-15T20:49:20.960Z,"7 km W of Cobb, CA",earthquake,0.38,1.1,0.37,11,automatic,nc,nc
