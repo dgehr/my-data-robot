@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-16T13:48:08.470Z,33.4658333,-116.6008333,3.91,0.52,ml,16,72,0.02881,0.15,ci,ci39666946,2023-09-16T13:51:31.870Z,"12 km SE of Anza, CA",earthquake,0.32,0.53,0.109,13,automatic,ci,ci
 2023-09-16T13:35:29.165Z,63.5867,-150.7699,0.2,1.9,ml,,,,1.22,ak,ak023bwk5324,2023-09-16T13:38:09.990Z,"47 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-16T13:30:48.260Z,19.1406669616699,-155.474502563477,33.1500015258789,2.00999999,md,43,166,,0.0900000036,hv,hv73578767,2023-09-16T13:34:05.380Z,"Island of Hawaii, Hawaii",earthquake,0.51,0.75999999,1.13,11,automatic,hv,hv
 2023-09-16T13:29:31.317Z,61.7987,-150.772,61.7,1.6,ml,,,,0.45,ak,ak023bwk3sy3,2023-09-16T13:31:21.499Z,"31 km NNW of Susitna, Alaska",earthquake,,1.9,,,automatic,ak,ak
@@ -196,7 +197,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T15:52:29.868Z,63.1077,-150.7813,113.3,1.3,ml,,,,0.25,ak,ak023buxw973,2023-09-15T15:54:47.454Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-15T15:36:51.850Z,35.9243333,-120.4698333,5.06,1.75,md,32,56,0.02237,0.06,nc,nc73937086,2023-09-15T20:44:13.042Z,"4 km NW of Parkfield, CA",earthquake,0.19,0.21,0.152,23,reviewed,nc,nc
 2023-09-15T15:35:43.310Z,38.3586667,-122.572,10.43,2.41,md,110,24,0.07773,0.1,nc,nc73937081,2023-09-15T21:16:12.227Z,"4 km W of Glen Ellen, CA",earthquake,0.09,0.27,0.208,119,reviewed,nc,nc
-2023-09-15T15:33:36.900Z,17.948,-67.0761,7,3.24,md,17,239,0.0384,0.07,pr,pr2023258001,2023-09-15T16:32:06.040Z,"4 km SW of La Parguera, Puerto Rico",earthquake,0.85,0.18,0.24,12,reviewed,pr,pr
+2023-09-15T15:33:36.900Z,17.948,-67.0761,7,3.24,md,17,239,0.0384,0.07,pr,pr2023258001,2023-09-15T16:32:06.040Z,"Puerto Rico region",earthquake,0.85,0.18,0.24,12,reviewed,pr,pr
 2023-09-15T15:33:21.330Z,60.4521666666667,-152.766333333333,0.77,0.15,ml,4,269,,0.08,av,av92046106,2023-09-15T23:28:50.650Z,"75 km NW of Ninilchik, Alaska",earthquake,0.83,0.26,0.319098439294572,3,reviewed,av,av
 2023-09-15T15:25:57.140Z,35.4268333,-118.0688333,7.76,0.73,ml,13,114,0.08403,0.09,ci,ci39665954,2023-09-15T17:26:25.081Z,"34 km SW of Inyokern, CA",earthquake,0.24,0.57,0.076,7,reviewed,ci,ci
 2023-09-15T15:21:25.810Z,44.6806667,-110.4471667,7.17,1.78,ml,10,98,0.05602,0.15,uu,uu60550207,2023-09-15T16:09:15.460Z,"38 km SSE of Mammoth, Wyoming",earthquake,0.55,0.95,0.242,2,reviewed,uu,uu
@@ -209,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T14:23:13.400Z,58.2951666666667,-155.008833333333,2.94,-0.01,ml,6,193,,0.1,av,av91115958,2023-09-15T23:20:48.610Z,"87 km NNW of Karluk, Alaska",earthquake,0.4,0.44,0.282758862081428,6,reviewed,av,av
 2023-09-15T14:06:47.900Z,46.55283333333333,-122.42966666666666,14.32,0.85,ml,13,106,0.09505,0.14,uw,uw61960011,2023-09-15T15:37:50.880Z,"4 km ENE of Mossyrock, Washington",earthquake,0.43,1.11,0.15058586726034096,5,reviewed,uw,uw
 2023-09-15T13:59:43.622Z,40.3283,-119.5108,11.9,0.6,ml,3,304.18,0.232,0.0168,nn,nn00865890,2023-09-16T00:41:36.382Z,"30 km SSW of Empire, Nevada",earthquake,,18.2,0.16,2,reviewed,nn,nn
-2023-09-15T13:57:12.728Z,39.7858,-120.8092,7.3,0.3,ml,3,331.68,0.355,0.1736,nn,nn00865889,2023-09-16T00:32:19.355Z,"9 km WNW of Plumas Eureka (historical), California",earthquake,,13.1,0.16,2,reviewed,nn,nn
-2023-09-15T13:53:32.910Z,52.0903333333333,-176.148833333333,2.8,0.04,ml,6,172,,0.29,av,av91115948,2023-09-15T23:07:23.400Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.29,1.87,0.223044258731127,6,reviewed,av,av
