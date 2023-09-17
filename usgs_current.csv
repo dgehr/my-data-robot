@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-17T15:33:49.130Z,33.3143349,-116.1464996,9.6,1.25,ml,48,68,0.1388,0.24,ci,ci39667522,2023-09-17T15:35:54.304Z,"17 km SSW of Oasis, CA",earthquake,0.26,0.91,0.208,6,automatic,ci,ci
 2023-09-17T15:22:19.977Z,37.5154,-117.6007,4.5,1.2,ml,21,112.97,0.285,0.2363,nn,nn00865938,2023-09-17T15:24:45.559Z,"26 km S of Silver Peak, Nevada",earthquake,,1.7,1.01,12,automatic,nn,nn
 2023-09-17T15:13:24.320Z,33.892,-116.8908333,12.04,0.75,ml,18,127,0.09717,0.24,ci,ci39667514,2023-09-17T15:16:55.841Z,"4 km SSW of Banning, CA",earthquake,0.47,1.4,0.243,18,automatic,ci,ci
 2023-09-17T14:48:56.740Z,38.8338318,-122.8116684,2.13,0.32,md,7,95,0.0105,0,nc,nc73937861,2023-09-17T14:50:32.296Z,"8 km W of Cobb, CA",earthquake,0.53,1.99,0.23,8,automatic,nc,nc
