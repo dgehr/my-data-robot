@@ -151,4 +151,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-16T09:09:26.350Z,33.0221667,-116.348,9.83,1.37,ml,45,51,0.07275,0.2,ci,ci39666778,2023-09-16T16:11:51.932Z,"24 km WSW of Ocotillo Wells, CA",earthquake,0.25,0.63,0.17,26,reviewed,ci,ci
 2023-09-16T09:06:10.770Z,35.7891667,-117.5856667,1.54,0.85,ml,12,172,0.147,0.2,ci,ci39666770,2023-09-16T09:09:44.051Z,"17 km W of Searles Valley, CA",earthquake,0.5,0.86,0.061,6,automatic,ci,ci
 2023-09-16T08:55:02.490Z,33.6543333,-116.7623333,15.94,0.5,ml,18,87,0.07295,0.23,ci,ci39666762,2023-09-16T08:58:35.985Z,"10 km SSW of Idyllwild, CA",earthquake,0.48,0.8,0.243,11,automatic,ci,ci
-2023-09-16T08:47:59.970Z,38.7960014,-122.7418365,0.85,1.09,md,10,98,0.01336,0.03,nc,nc73937416,2023-09-16T08:49:37.597Z,"2 km NNE of The Geysers, CA",earthquake,0.25,0.56,0.04,11,automatic,nc,nc
