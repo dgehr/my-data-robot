@@ -213,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-19T00:10:50.410Z,33.9335,-116.808,16.87,0.74,ml,23,60,0.1,0.13,ci,ci39668522,2023-09-19T00:36:28.291Z,"3 km NW of Cabazon, CA",earthquake,0.26,0.6,0.122,15,reviewed,ci,ci
 2023-09-19T00:09:56.970Z,38.8409996,-122.8378296,1.66,0.9,md,9,126,0.003023,0.02,nc,nc73938621,2023-09-19T00:11:29.435Z,"10 km NW of The Geysers, CA",earthquake,0.41,0.56,0.48,10,automatic,nc,nc
 2023-09-19T00:09:29.700Z,38.8188324,-122.7911682,1.45,1.66,md,31,30,0.009902,0.04,nc,nc73938616,2023-09-19T00:58:12.413Z,"6 km NNW of The Geysers, CA",earthquake,0.16,0.26,0.16,32,automatic,nc,nc
-2023-09-18T23:50:39.180Z,32.5161667,-115.2256667,28.05,1.83,ml,14,131,0.1174,0.16,ci,ci39668506,2023-09-19T00:31:21.353Z,"13 km ESE of Puebla, B.C., MX",earthquake,0.52,1.06,0.236,10,reviewed,ci,ci
