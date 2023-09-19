@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-18T21:27:15.765Z,60.644,-147.6867,17,1.8,ml,,,,0.54,ak,ak023bzzxi54,2023-09-18T21:28:48.999Z,"56 km ESE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-18T21:25:28.650Z,35.7026667,-117.5906667,1.85,0.95,ml,17,85,0.1305,0.13,ci,ci39668426,2023-09-18T21:41:18.388Z,"12 km NE of Ridgecrest, CA",earthquake,0.24,0.38,0.07,7,reviewed,ci,ci
 2023-09-18T21:25:09.929Z,35.21683333,-98.04966667,6,1.22,ml,26,67,0.02069593875,0.31,ok,ok2023sire,2023-09-19T17:27:52.078Z,"9 km WNW of Pocasset, Oklahoma",earthquake,,0.8,0.33,3,reviewed,ok,ok
-2023-09-18T21:24:43.280Z,61.3299,-147.244,14.9,1.6,ml,,,,0.75,ak,ak023bzzwx48,2023-09-18T21:26:50.869Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
