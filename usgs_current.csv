@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T22:27:13.891Z,63.5189,-148.7316,3.2,1.8,ml,,,,0.88,ak,ak023c4z4z31,2023-09-21T22:29:04.076Z,"17 km NE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-21T22:21:37.728Z,61.5859,-151.8849,95,1.9,ml,,,,0.54,ak,ak023c4z3qmk,2023-09-21T22:23:32.500Z,"51 km SSW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-09-21T22:17:27.560Z,40.5776672,-124.1371689,19.99,1.95,md,19,171,0.1776,0.15,nc,nc73940046,2023-09-21T22:19:01.711Z,"3 km SE of Fortuna, CA",earthquake,0.85,0.64,0.1,12,automatic,nc,nc
+2023-09-21T22:17:02.800Z,44.7053333333333,-111.804166666667,9.89,1.12,ml,17,89,0.1017,0.19,mb,mb90027943,2023-09-21T22:41:29.480Z,"46 km NW of Island Park, Idaho",earthquake,0.57,1.11,0.160304357824234,7,reviewed,mb,mb
 2023-09-21T22:04:59.830Z,60.0843,-140.5876,10.6,1.3,ml,,,,1.34,ak,ak023c4z050u,2023-09-21T22:10:31.322Z,"Southern Yukon Territory, Canada",earthquake,,0.2,,,automatic,ak,ak
 2023-09-21T22:04:52.430Z,38.8053322,-122.8098297,1.49,0.75,md,7,101,0.01165,0.01,nc,nc73940041,2023-09-21T22:06:26.597Z,"6 km NW of The Geysers, CA",earthquake,0.37,0.94,0.09,8,automatic,nc,nc
 2023-09-21T22:03:54.120Z,38.838665,-122.8274994,1.34,0.98,md,12,100,0.006239,0.01,nc,nc73940031,2023-09-21T22:05:31.508Z,"9 km NW of The Geysers, CA",earthquake,0.3,0.71,0.34,14,automatic,nc,nc
@@ -123,7 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T08:33:39.540Z,17.9121666666667,-66.8726666666667,12.81,2.51,md,8,231,0.06286,0.15,pr,pr71425433,2023-09-21T08:51:06.920Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,1.15,0.54,0.0690946818620057,5,reviewed,pr,pr
 2023-09-21T08:29:42.420Z,35.8071667,-117.6185,6.91,1.41,ml,26,103,0.119,0.18,ci,ci39670082,2023-09-21T14:48:31.070Z,"20 km WNW of Searles Valley, CA",earthquake,0.27,0.7,0.113,12,reviewed,ci,ci
 2023-09-21T08:08:52.620Z,37.3201675,-122.0845032,0.71,1.6,md,11,71,0.01495,0.17,nc,nc73939746,2023-09-21T08:10:26.717Z,"4 km SSE of Loyola, CA",earthquake,0.38,1.68,0.1,11,automatic,nc,nc
-2023-09-21T08:02:00.674Z,38.1378,-118.1481,3.1,1.2,ml,7,122.44,0.142,0.1615,nn,nn00866225,2023-09-21T21:51:36.352Z,"28 km S of Mina, Nevada",earthquake,,3.1,0.38,2,reviewed,nn,nn
+2023-09-21T08:02:00.596Z,38.1475,-118.1459,5.2,1.2,ml,8,120.37,0.137,0.3513,nn,nn00866225,2023-09-21T22:42:00.947Z,"27 km S of Mina, Nevada",earthquake,,4.2,0.38,2,reviewed,nn,nn
 2023-09-21T08:00:46.222Z,60.6995,-147.6393,21.8,1.8,ml,,,,0.22,ak,ak023c4qn6ry,2023-09-21T08:02:06.346Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-21T07:36:46.520Z,40.742,-112.0536667,9.4,1.14,ml,24,44,0.02022,0.13,uu,uu60550537,2023-09-21T13:32:31.150Z,"5 km NE of Magna, Utah",earthquake,0.26,0.5,0.245,2,reviewed,uu,uu
 2023-09-21T07:30:51.330Z,37.3166656,-122.0748367,5.53,1.81,md,24,72,0.02204,0.08,nc,nc73939726,2023-09-21T16:00:20.962Z,"4 km W of Cupertino, CA",earthquake,0.2,0.29,0.09,16,automatic,nc,nc
@@ -214,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-20T23:01:54.191Z,61.4917,-146.6285,49.6,1.6,ml,,,,0.35,ak,ak023c3c1kor,2023-09-20T23:03:08.378Z,"Southern Alaska",earthquake,,2,,,automatic,ak,ak
 2023-09-20T22:50:16.870Z,38.7639999,-122.7396698,1.81,1.07,md,11,89,0.01182,0.02,nc,nc73939591,2023-09-20T22:51:52.104Z,"2 km SE of The Geysers, CA",earthquake,0.31,0.49,0.18,9,automatic,nc,nc
 2023-09-20T22:47:27.562Z,39.7427,-120.5668,9.1,2.8,ml,24,156.43,0.104,0.151,nn,nn00866155,2023-09-21T05:38:56.399Z,"0 km N of Valley Ranch, California",earthquake,,1.3,0.32,11,reviewed,nn,nn
-2023-09-20T22:42:58.370Z,38.7879982,-122.7471695,1.07,1.48,md,21,84,0.009446,0.03,nc,nc73939581,2023-09-20T22:44:35.951Z,"1 km NE of The Geysers, CA",earthquake,0.23,0.37,0.12,20,automatic,nc,nc
