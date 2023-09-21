@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-21T22:52:44.360Z,38.4411659,-122.4921646,7.11,1.32,md,5,185,0.06473,0,nc,nc73940066,2023-09-21T22:54:21.986Z,"6 km ENE of Kenwood, CA",earthquake,1.28,1.8,0.27,5,automatic,nc,nc
+2023-09-21T22:51:43.257Z,58.2509,-155.0976,6.6,1,ml,,,,0.64,ak,ak023c4za6j9,2023-09-21T22:55:31.131Z,"84 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-21T22:47:49.820Z,61.1919,-151.1992,70.7,1.5,ml,,,,0.51,ak,ak023c4z9c6e,2023-09-21T22:49:50.183Z,"8 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-21T22:43:47.993Z,59.1973,-152.1955,55.2,1.9,ml,,,,0.81,ak,ak023c4z8hgh,2023-09-21T22:46:31.887Z,"23 km SW of Nanwalek, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-09-21T22:27:13.891Z,63.5189,-148.7316,3.2,1.8,ml,,,,0.88,ak,ak023c4z4z31,2023-09-21T22:29:04.076Z,"17 km NE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
