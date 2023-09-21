@@ -2,12 +2,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T20:20:57.020Z,38.8481674,-122.8166656,1.62,0.82,md,9,112,0.008323,0.02,nc,nc73939991,2023-09-21T20:22:31.529Z,"9 km WNW of Cobb, CA",earthquake,0.41,1.05,0.23,10,automatic,nc,nc
 2023-09-21T20:12:31.975Z,61.1096,-151.1682,69.1,1.1,ml,,,,0.6,ak,ak023c4xuxhj,2023-09-21T20:14:49.909Z,"Southern Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-09-21T20:08:29.082Z,61.7058,-150.0075,38.4,1.2,ml,,,,0.59,ak,ak023c4xu2fw,2023-09-21T20:10:30.548Z,"Southern Alaska",earthquake,,3.8,,,automatic,ak,ak
-2023-09-21T19:57:41.389Z,39.7412,-120.5695,8.3,2.4,ml,23,156.38,0.106,0.165,nn,nn00866204,2023-09-21T20:33:42.314Z,"0 km NW of Valley Ranch, California",earthquake,,1.2,0.25,9,reviewed,nn,nn
+2023-09-21T19:57:41.389Z,39.7412,-120.5695,8.3,2.4,ml,23,156.38,0.106,0.165,nn,nn00866204,2023-09-21T20:40:03.932Z,"0 km NW of Valley Ranch, California",earthquake,,1.2,0.25,9,reviewed,nn,nn
 2023-09-21T18:41:18.112Z,60.0297,-152.8553,90.7,2,ml,,,,0.38,ak,ak023c4wu90j,2023-09-21T18:43:12.286Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-21T18:32:32.130Z,19.2671661376953,-155.402160644531,30.1800003051758,2.33,ml,52,133,,0.129999995,hv,hv73582402,2023-09-21T18:38:03.550Z,"10 km NE of Pāhala, Hawaii",earthquake,0.56,0.660000026,3.03,23,automatic,hv,hv
 2023-09-21T18:20:21.541Z,61.7415,-149.735,27.4,2.1,ml,,,,0.59,ak,ak023c4wpr99,2023-09-21T18:22:09.473Z,"13 km NNE of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-21T18:05:36.310Z,38.7825012,-122.7576675,1.54,1.04,md,15,66,0.01335,0.03,nc,nc73939941,2023-09-21T18:07:10.239Z,"1 km N of The Geysers, CA",earthquake,0.26,0.46,0.21,16,automatic,nc,nc
-2023-09-21T18:02:45.120Z,33.6461667,-117.296,4.19,1.28,ml,9,105,0.2683,0.21,ci,ci40569968,2023-09-21T18:06:18.602Z,"4 km SE of Lake Elsinore, CA",earthquake,0.95,31.61,0.477,14,automatic,ci,ci
+2023-09-21T18:02:51.980Z,33.4811667,-116.754,6.84,0.22,ml,8,135,0.05052,0.1,ci,ci40569968,2023-09-21T20:37:06.759Z,"11 km SW of Anza, CA",earthquake,0.32,0.57,0.009,2,reviewed,ci,ci
 2023-09-21T17:59:49.590Z,33.7043333,-116.7363333,15.84,1.28,ml,37,38,0.02258,0.19,ci,ci40569960,2023-09-21T18:03:22.590Z,"4 km SSW of Idyllwild, CA",earthquake,0.25,0.48,0.164,27,automatic,ci,ci
 2023-09-21T17:49:15.090Z,33.8485,-117.4965,2.35,1.62,ml,35,51,0.05289,0.2,ci,ci40569936,2023-09-21T17:52:46.639Z,"4 km SE of Home Gardens, CA",quarry blast,0.26,0.43,0.179,33,automatic,ci,ci
 2023-09-21T17:49:10.409Z,61.0613,-150.3578,18.9,1.6,ml,,,,0.37,ak,ak023c4waijk,2023-09-21T17:51:40.359Z,"23 km NE of Point Possession, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -179,4 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-20T21:08:05.690Z,38.8443336,-122.8381653,1.67,0.63,md,8,137,0.006106,0.01,nc,nc73939556,2023-09-20T21:09:39.954Z,"10 km WNW of Cobb, CA",earthquake,0.39,0.65,0.15,9,automatic,nc,nc
 2023-09-20T21:01:10.360Z,38.8376656,-122.7985001,2.19,0.21,md,9,70,0.006413,0.02,nc,nc73939551,2023-09-20T21:02:44.711Z,"7 km WNW of Cobb, CA",earthquake,0.43,1.49,0.09,9,automatic,nc,nc
 2023-09-20T20:48:45.218Z,31.64950204,-104.4291219,4.254882812,1.974378152,ml(texnet),17,78.40931208,0.007152892132,0.2259094218,tx,tx2023smgz,2023-09-21T17:43:32.375Z,"58 km S of Whites City, New Mexico",earthquake,1.546488992,1.030026856,0.1073502336,7,reviewed,tx,tx
-2023-09-20T20:41:30.190Z,60.4837,-152.6915,102.8,1.6,ml,,,,0.51,ak,ak023c3ahsnv,2023-09-20T20:43:32.786Z,"74 km NW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
