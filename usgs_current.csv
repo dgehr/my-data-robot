@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-22T08:22:57.550Z,33.1873333,-116.332,11.06,1.54,ml,45,40,0.06563,0.21,ci,ci40570232,2023-09-22T08:33:46.760Z,"9 km SSE of Borrego Springs, CA",earthquake,0.26,0.59,0.17,26,automatic,ci,ci
+2023-09-22T08:20:58.804Z,-25.2924,-179.848,469.703,4.8,mb,98,69,4.31,0.77,us,us7000kxbb,2023-09-22T08:38:02.040Z,"south of the Fiji Islands",earthquake,12.19,8.022,0.035,253,reviewed,us,us
 2023-09-22T08:19:17.937Z,36.41290665,-96.88435364,0.746052444,2.89,ml,68,52.27933884,0.03785721958,0.7780099596,ok,ok2023sozh,2023-09-22T08:25:23.040Z,"11 km NW of Pawnee, Oklahoma",earthquake,1.549975975,1.031917664,0.23,44,automatic,ok,ok
 2023-09-22T08:16:02.230Z,35.7818333,-117.579,0.23,0.88,ml,9,170,0.1535,0.17,ci,ci40570224,2023-09-22T08:19:28.870Z,"16 km W of Searles Valley, CA",earthquake,0.63,31.61,0.238,6,automatic,ci,ci
 2023-09-22T08:11:07.170Z,40.4160004,-124.402832,21.37,2.13,md,12,239,0.07764,0.1,nc,nc73940191,2023-09-22T08:32:15.054Z,"14 km NW of Petrolia, CA",earthquake,1.57,0.56,0.11,5,automatic,nc,nc
@@ -205,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T09:10:33.650Z,38.824501,-122.8033371,2.45,1.08,md,18,45,0.005377,0.01,nc,nc73939751,2023-09-21T09:12:22.004Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.66,0.15,20,automatic,nc,nc
 2023-09-21T08:58:10.459Z,39.7468,-120.5641,0,0.5,ml,3,199.23,0.144,0.0108,nn,nn00866186,2023-09-21T17:29:51.709Z,"1 km N of Valley Ranch, California",earthquake,,87.3,0.19,2,reviewed,nn,nn
 2023-09-21T08:52:55.830Z,47.7418333333333,-113.827166666667,7.44,0.29,ml,6,132,0.1738,0.06,mb,mb90027948,2023-09-21T23:14:52.970Z,"Western Montana",earthquake,0.37,2.13,0.3161735961417,2,reviewed,mb,mb
-2023-09-21T08:39:42.456Z,39.7358,-120.5655,8.7,1.6,ml,13,154.2,0.105,0.1384,nn,nn00866171,2023-09-21T17:23:39.499Z,"0 km SSE of Valley Ranch, California",earthquake,,1.8,0.19,5,reviewed,nn,nn
