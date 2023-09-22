@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-22T08:11:07.170Z,40.4160004,-124.402832,21.37,2.13,md,12,239,0.07764,0.1,nc,nc73940191,2023-09-22T08:12:43.081Z,"14 km NW of Petrolia, CA",earthquake,1.57,0.56,0.11,5,automatic,nc,nc
+2023-09-22T08:22:57.550Z,33.1873333,-116.332,11.06,1.54,ml,45,40,0.06563,0.21,ci,ci40570232,2023-09-22T08:26:30.088Z,"9 km SSE of Borrego Springs, CA",earthquake,0.26,0.59,0.17,26,automatic,ci,ci
+2023-09-22T08:19:17.937Z,36.41290665,-96.88435364,0.746052444,2.89,ml,68,52.27933884,0.03785721958,0.7780099596,ok,ok2023sozh,2023-09-22T08:25:23.040Z,"11 km NW of Pawnee, Oklahoma",earthquake,1.549975975,1.031917664,0.23,44,automatic,ok,ok
+2023-09-22T08:16:02.230Z,35.7818333,-117.579,0.23,0.88,ml,9,170,0.1535,0.17,ci,ci40570224,2023-09-22T08:19:28.870Z,"16 km W of Searles Valley, CA",earthquake,0.63,31.61,0.238,6,automatic,ci,ci
+2023-09-22T08:11:07.170Z,40.4160004,-124.402832,21.37,2.13,md,12,239,0.07764,0.1,nc,nc73940191,2023-09-22T08:17:18.973Z,"14 km NW of Petrolia, CA",earthquake,1.57,0.56,0.11,5,automatic,nc,nc
 2023-09-22T07:59:32.940Z,19.1526660919189,-155.36149597168,29.7900009155273,2.34,ml,51,192,,0.129999995,hv,hv73582802,2023-09-22T08:05:03.170Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.55,0.720000029,3.99,12,automatic,hv,hv
 2023-09-22T07:59:11.238Z,59.0944,-137.094,0,2.3,ml,,,,0.82,ak,ak023c6dxo9d,2023-09-22T08:01:56.190Z,"70 km WSW of Covenant Life, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-22T07:45:39.153Z,58.1708,-155.3892,0.7,0.3,ml,,,,0.33,ak,ak023c6duqcb,2023-09-22T07:48:26.924Z,"86 km NW of Karluk, Alaska",earthquake,,4.4,,,automatic,ak,ak
