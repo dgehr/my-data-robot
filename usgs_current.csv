@@ -220,6 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-22T10:47:01.583Z,60.3784,-153.1739,140.4,1.2,ml,,,,0.49,ak,ak023c6fndou,2023-09-22T10:48:45.322Z,"66 km ENE of Port Alsworth, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-09-22T10:46:38.850Z,35.54033333,-96.7555,7,3.22,ml,101,35,0,0.18,ok,ok2023sped,2023-09-22T19:33:19.340Z,"8 km NW of Prague, Oklahoma",earthquake,,0.4,0.21,39,reviewed,ok,ok
 2023-09-22T10:39:30.227Z,64.9395,-147.2864,0,1.5,ml,,,,1.06,ak,ak023c6flq66,2023-09-22T10:41:25.251Z,"13 km WNW of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-22T10:29:50.750Z,58.2331666666667,-155.171,2.73,0.04,ml,9,78,,0.07,av,av92053666,2023-09-22T22:00:29.270Z,"85 km NNW of Karluk, Alaska",earthquake,0.24,0.47,0.274111144126538,10,reviewed,av,av
-2023-09-22T10:25:48.424Z,60.3874,-148.7179,11.1,1.5,ml,,,,0.83,ak,ak023c6firju,2023-09-22T10:28:18.224Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-22T10:25:44.755Z,61.0064,-150.3831,55.3,1.4,ml,,,,0.72,ak,ak023c6fir9n,2023-09-22T10:27:04.327Z,"18 km ENE of Point Possession, Alaska",earthquake,,1.7,,,automatic,ak,ak
