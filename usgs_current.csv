@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-23T04:27:11.500Z,32.0336667,-116.3065,26.63,1.69,ml,11,138,0.3059,0.16,ci,ci40570720,2023-09-23T04:30:50.238Z,"35 km ENE of Ensenada, B.C., MX",earthquake,0.59,1.49,0.135,11,automatic,ci,ci
 2023-09-23T04:25:06.038Z,64.3661,-146.1385,7.6,0.9,ml,,,,0.59,ak,ak023c7zhf57,2023-09-23T04:26:59.766Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-23T04:17:20.160Z,34.2295,-117.4373333,11.68,1.11,ml,18,83,0.04291,0.18,ci,ci40570712,2023-09-23T04:20:58.865Z,"3 km WNW of Devore, CA",earthquake,0.44,0.83,0.296,27,automatic,ci,ci
-2023-09-23T04:17:09.842Z,59.2046,-151.5606,63.1,1.9,ml,,,,0.58,ak,ak023c7zfppk,2023-09-23T04:20:25.033Z,"22 km SE of Port Graham, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-09-23T04:17:09.842Z,59.2046,-151.5606,63.1,1.9,ml,,,,0.58,ak,ak023c7zfppk,2023-09-23T04:20:25.033Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-23T04:05:37.070Z,46.855,-121.74233333333333,-1.42,0.14,ml,10,121,0.01727,0.12,uw,uw61961786,2023-09-23T05:14:11.800Z,"24 km ENE of Ashford, Washington",earthquake,0.49,13.03,0.31945954167602975,5,reviewed,uw,uw
 2023-09-23T04:03:07.325Z,34.96514893,-97.59249878,2.341665506,1.99,ml,10,85.43807411,0.04938168079,0.638858314,ok,ok2023sqmi,2023-09-23T04:05:55.803Z,"8 km SSE of Dibble, Oklahoma",earthquake,3.577332184,2.954569993,0.3,9,automatic,ok,ok
 2023-09-23T03:39:27.390Z,60.5821,-142.269,17,1.5,ml,,,,0.94,ak,ak023c7yz17n,2023-09-23T03:40:53.473Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -237,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-22T06:59:28.795Z,62.5551,-153.1008,5.4,1.4,ml,,,,0.59,ak,ak023c6dc9o9,2023-09-22T07:01:52.506Z,"82 km SE of Nikolai, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-22T06:55:36.420Z,38.8176651,-122.7639999,1.83,0.44,md,10,112,0.0136,0.02,nc,nc73940186,2023-09-22T06:57:13.144Z,"4 km W of Cobb, CA",earthquake,0.32,0.78,0.24,11,automatic,nc,nc
 2023-09-22T06:55:20.460Z,38.838501,-122.8186646,2.03,0.26,md,8,171,0.01314,0.02,nc,nc73940181,2023-09-22T06:56:54.113Z,"8 km WNW of Cobb, CA",earthquake,0.73,1.46,0.15,8,automatic,nc,nc
-2023-09-22T06:46:37.322Z,43.5237,-127.2753,10,3,ml,48,274,2.353,0.67,us,us7000kxaw,2023-09-22T12:26:23.040Z,"236 km W of Bandon, Oregon",earthquake,11.15,2.023,0.037,98,reviewed,us,us
