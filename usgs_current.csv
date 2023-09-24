@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-24T15:09:11.180Z,37.7301674,-122.133667,4.08,1.78,md,28,73,0.01288,0.09,nc,nc73941291,2023-09-24T15:10:48.776Z,"2 km ENE of San Leandro, CA",earthquake,0.22,0.37,0.14,21,automatic,nc,nc
+2023-09-24T15:09:11.180Z,37.7301674,-122.133667,4.08,1.78,md,28,73,0.01288,0.09,nc,nc73941291,2023-09-24T15:19:08.930Z,"2 km ENE of San Leandro, CA",earthquake,0.22,0.37,0.14,21,automatic,nc,nc
+2023-09-24T15:01:37.370Z,52.6072,-171.8369,109.128,5,mb,66,99,1.502,1.04,us,us7000kxtv,2023-09-24T15:23:18.395Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,7.02,7.628,0.023,600,reviewed,us,us
 2023-09-24T14:51:59.090Z,38.8188324,-122.76017,1.82,0.71,md,10,121,0.01389,0.01,nc,nc73941286,2023-09-24T14:53:32.472Z,"3 km W of Cobb, CA",earthquake,0.36,0.61,0.1,11,automatic,nc,nc
 2023-09-24T14:48:39.440Z,58.2693,-154.9438,7.8,0.6,ml,,,,1.45,ak,ak023c9t43rt,2023-09-24T14:51:13.676Z,"83 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-24T14:48:06.163Z,58.2799,-154.9688,4.4,0.2,ml,,,,0.32,ak,ak023c9t4160,2023-09-24T14:50:02.963Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
