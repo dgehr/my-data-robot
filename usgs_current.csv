@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-25T06:42:33.760Z,35.0511665,-119.6323318,12.91,3.2,ml,81,64,0.1135,0.28,ci,ci40572024,2023-09-25T06:44:45.524Z,"19 km WSW of Taft, CA",earthquake,0.32,0.79,0.311,22,automatic,ci,ci
 2023-09-25T06:32:59.820Z,58.4176,-154.0111,95.2,1,ml,,,,0.14,ak,ak023cbbsli6,2023-09-25T06:34:57.949Z,"75 km WNW of Aleneva, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-09-25T06:27:42.370Z,38.8148346,-122.8188324,2.81,1.17,md,25,51,0.01004,0.02,nc,nc73941656,2023-09-25T06:29:17.147Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.44,0.14,26,automatic,nc,nc
 2023-09-25T06:07:59.010Z,38.8069992,-122.8126678,9.26,0.86,md,7,78,0.01303,0.06,nc,nc73941651,2023-09-25T06:09:36.721Z,"6 km NW of The Geysers, CA",earthquake,1.62,7.34,0.16,7,automatic,nc,nc
