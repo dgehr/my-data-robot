@@ -32,8 +32,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T04:43:29.160Z,33.2791667,-116.7503333,11.5,0.46,ml,18,96,0.04365,0.28,ci,ci40571992,2023-09-25T04:46:58.461Z,"4 km NNE of Lake Henshaw, CA",earthquake,0.58,1.24,0.157,7,automatic,ci,ci
 2023-09-25T04:26:38.690Z,37.534,-118.8365,3.81,0.76,md,15,291,0.05624,0.02,nc,nc73941621,2023-09-25T07:01:05.732Z,"14 km WSW of Toms Place, CA",earthquake,1.73,1.19,0.109,14,reviewed,nc,nc
 2023-09-25T04:22:53.970Z,17.9498333333333,-66.8445,11.71,2.54,md,12,209,0.04152,0.19,pr,pr71425778,2023-09-25T04:39:06.740Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.79,0.62,0.0513228797409697,4,reviewed,pr,pr
-2023-09-25T04:19:56.322Z,62.003,-150.6806,63.5,1.4,ml,,,,0.42,ak,ak023cbaixps,2023-09-25T04:21:49.334Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-09-25T04:16:39.142Z,62.9353,-151.3053,114.3,1.6,ml,,,,0.29,ak,ak023cbai98q,2023-09-25T04:18:42.754Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
+2023-09-25T04:19:56.322Z,62.003,-150.6806,63.5,1.4,ml,,,,0.42,ak,ak023cbaixps,2023-09-25T04:21:49.334Z,"37 km E of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-09-25T04:16:39.142Z,62.9353,-151.3053,114.3,1.6,ml,,,,0.29,ak,ak023cbai98q,2023-09-25T04:18:42.754Z,"56 km NNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-25T04:14:06.465Z,62.7382,-148.1521,86.9,0.9,ml,,,,0.78,ak,ak023cbahrae,2023-09-25T04:16:15.374Z,"83 km SSE of Cantwell, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-09-25T04:12:19.407Z,-55.9027,-28.3177,147.116,5,mb,60,79,4.965,0.48,us,us7000kxxd,2023-09-25T04:46:01.040Z,"South Sandwich Islands region",earthquake,8.8,6.431,0.066,72,reviewed,us,us
 2023-09-25T04:11:55.270Z,18.6581666666667,-67.105,98.37,3.23,md,18,264,0.1897,0.2,pr,pr71425763,2023-09-25T04:31:18.300Z,"18 km N of San Antonio, Puerto Rico",earthquake,1.34,0.7,0.0765316990825349,8,reviewed,pr,pr
@@ -144,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T17:21:26.080Z,17.9053333333333,-66.8538333333333,17.06,2.61,md,5,231,0.1921,0.05,pr,pr71425698,2023-09-24T17:32:18.480Z,"Puerto Rico region",earthquake,0.77,1.71,0.123592401697986,4,reviewed,pr,pr
 2023-09-24T16:55:47.930Z,35.5046667,-118.3928333,4.82,2.45,ml,39,29,0.1711,0.18,ci,ci40571648,2023-09-24T21:21:29.040Z,"13 km SE of Bodfish, CA",earthquake,0.22,2.18,0.244,25,automatic,ci,ci
 2023-09-24T16:39:21.581Z,64.4841,-146.9525,4.6,0.9,ml,,,,0.65,ak,ak023c9u904e,2023-09-24T16:41:29.796Z,"5 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-24T16:35:24.586Z,61.3672,-150.9431,65.8,1,ml,,,,0.35,ak,ak023c9u85hm,2023-09-24T16:37:06.962Z,"Southern Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-09-24T16:35:24.586Z,61.3672,-150.9431,65.8,1,ml,,,,0.35,ak,ak023c9u85hm,2023-09-24T16:37:06.962Z,"26 km NNE of Beluga, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-09-24T16:34:30.133Z,6.853,94.6408,10,4.8,mb,34,163,5.939,1.11,us,us7000kxu9,2023-09-24T17:15:28.040Z,"130 km NW of Sabang, Indonesia",earthquake,5.89,1.93,0.139,18,reviewed,us,us
 2023-09-24T16:26:21.438Z,62.0849,-152.581,10.3,0.9,ml,,,,0.17,ak,ak023c9u67sv,2023-09-24T16:27:39.786Z,"62 km W of Skwentna, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-09-24T16:21:10.660Z,33.468,-116.409,11.68,0.73,ml,25,50,0.05699,0.23,ci,ci40571640,2023-09-24T16:24:38.802Z,"24 km SSW of La Quinta, CA",earthquake,0.39,0.85,0.155,19,automatic,ci,ci
@@ -163,7 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T14:30:36.773Z,35.3848,141.3354,33.073,4.6,mb,16,162,2.786,1.02,us,us7000kxtt,2023-09-24T15:25:01.040Z,"59 km SE of Hasaki, Japan",earthquake,11.9,8.119,0.244,5,reviewed,us,us
 2023-09-24T14:26:26.919Z,60.1045,-152.8914,122,1.1,ml,,,,0.5,ak,ak023c9szd0j,2023-09-24T14:28:46.208Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-24T14:22:12.410Z,38.8198318,-122.8003311,2.83,0.77,md,12,66,0.008401,0.03,nc,nc73941276,2023-09-24T14:23:48.093Z,"6 km NW of The Geysers, CA",earthquake,0.33,0.56,0.07,16,automatic,nc,nc
-2023-09-24T14:21:55.151Z,-2.3793,29.5403,10,4.5,mb,14,171,2.133,0.57,us,us7000kxts,2023-09-25T04:38:16.699Z,"11 km N of Nzega, Rwanda",earthquake,6.99,1.961,0.171,10,reviewed,us,us
+2023-09-24T14:21:55.151Z,-2.3793,29.5403,10,4.5,mb,14,171,2.133,0.57,us,us7000kxts,2023-09-25T08:40:25.098Z,"11 km N of Nzega, Rwanda",earthquake,6.99,1.961,0.171,10,reviewed,us,us
 2023-09-24T14:12:35.940Z,32.7871667,-115.7745,6.47,1.04,ml,11,157,0.1312,0.34,ci,ci40571584,2023-09-24T14:16:04.706Z,"20 km W of El Centro, CA",earthquake,1,4.89,0.259,11,automatic,ci,ci
 2023-09-24T13:47:07.260Z,38.8326683,-122.7928314,1.5,0.67,md,8,89,0.006053,0,nc,nc73941246,2023-09-24T13:48:42.663Z,"6 km W of Cobb, CA",earthquake,0.43,1.26,0.29,9,automatic,nc,nc
 2023-09-24T13:45:49.480Z,38.8276672,-122.8051682,2.11,0.33,md,11,74,0.005734,0.02,nc,nc73941241,2023-09-24T13:47:22.487Z,"7 km NW of The Geysers, CA",earthquake,0.38,0.92,0.22,12,automatic,nc,nc
@@ -220,6 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T08:50:17.845Z,32.686,-100.691,6.0159,2.9,ml(texnet),13,82,0.1,0.2,tx,tx2023ssri,2023-09-24T09:07:14.184Z,"8 km NE of Hermleigh, Texas",earthquake,1.292914036,2.036013163,0.1,9,reviewed,tx,tx
 2023-09-24T08:42:16.301Z,58.3015,-154.9906,0.5,0.9,ml,,,,0.55,ak,ak023c9pi614,2023-09-24T21:06:11.980Z,"87 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-24T08:42:12.910Z,33.2716667,-116.7816667,11.08,0.26,ml,19,42,0.1062,0.23,ci,ci40571464,2023-09-24T08:45:46.839Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.49,1.09,0.129,5,automatic,ci,ci
-2023-09-24T08:40:53.631Z,57.6684,-149.9204,40.1,2.8,ml,,,,0.93,ak,ak023c9phtgz,2023-09-24T08:43:57.509Z,"141 km E of Chiniak, Alaska",earthquake,,8.6,,,automatic,ak,ak
-2023-09-24T08:39:54.516Z,58.1777,-155.3716,2.5,0.7,ml,,,,0.39,ak,ak023c9phlu9,2023-09-24T21:21:55.840Z,"86 km NW of Karluk, Alaska",earthquake,,0.2,,,reviewed,ak,ak
-2023-09-24T08:39:43.922Z,61.9084,-149.3725,2.7,1.4,ml,,,,0.49,ak,ak023c9phl08,2023-09-24T08:41:14.047Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
