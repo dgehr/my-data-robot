@@ -182,4 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T20:18:54.900Z,33.3265,-116.931,6.7,0.73,ml,20,54,0.06328,0.15,ci,ci40572368,2023-09-25T21:26:45.391Z,"7 km WSW of Palomar Observatory, CA",earthquake,0.23,0.47,0.169,14,reviewed,ci,ci
 2023-09-25T19:52:26.630Z,35.0525,-118.3521667,-0.93,1.35,ml,21,44,0.06237,0.18,ci,ci40572328,2023-09-25T21:21:44.859Z,"12 km SE of Tehachapi, CA",quarry blast,0.35,31.61,0.137,20,reviewed,ci,ci
 2023-09-25T19:50:19.240Z,44.2873333333333,-114.822333333333,3.89,1.94,ml,9,88,0.7825,0.14,mb,mb90028193,2023-09-25T21:33:33.220Z,"12 km NE of Stanley, Idaho",earthquake,0.39,3.58,0.374670625799046,10,reviewed,mb,mb
-2023-09-25T19:45:25.530Z,46.5398333333333,-113.4435,2.97,1.07,ml,9,78,0.1024,0.04,mb,mb90028223,2023-09-25T20:42:33.940Z,"18 km WNW of Maxville, Montana",earthquake,0.22,0.48,0.348339687003971,3,reviewed,mb,mb
