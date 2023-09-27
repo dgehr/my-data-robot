@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-27T09:50:38.882Z,65.9206,-150.9687,15.8,1.4,ml,,,,0.77,ak,ak023ceorek7,2023-09-27T09:53:27.454Z,"59 km NW of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-27T09:45:05.748Z,62.8245,-151.3071,99.1,1.6,ml,,,,0.4,ak,ak023ceoq9fy,2023-09-27T09:51:50.218Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-27T09:26:09.440Z,38.8209991,-122.7655029,2.2,1.28,md,18,114,0.01007,0.02,nc,nc73942516,2023-09-27T09:27:44.311Z,"4 km W of Cobb, CA",earthquake,0.27,0.45,0.22,20,automatic,nc,nc
 2023-09-27T09:21:21.742Z,58.0978,-155.6843,24.8,0.4,ml,,,,1.42,ak,ak023ceol5tr,2023-09-27T09:24:20.110Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
 2023-09-27T09:17:06.720Z,19.1461658477783,-155.375503540039,30.1200008392334,1.92999995,md,32,216,,0.119999997,hv,hv73586372,2023-09-27T09:20:20.710Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.85,1.09000003,1.92999995,4,automatic,hv,hv
