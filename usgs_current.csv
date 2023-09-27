@@ -203,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T22:55:07.250Z,32.0346667,-116.1751667,14.97,2.03,ml,21,87,0.1953,0.19,ci,ci40573160,2023-09-26T23:16:58.674Z,"46 km ENE of Ensenada, B.C., MX",earthquake,0.43,1.12,0.214,17,reviewed,ci,ci
 2023-09-26T22:46:22.130Z,36.0983333,-117.8555,2.51,2.36,ml,26,112,0.01921,0.12,ci,ci40573152,2023-09-26T23:12:48.910Z,"10 km NE of Coso Junction, CA",earthquake,0.28,0.26,0.112,25,reviewed,ci,ci
 2023-09-26T22:44:39.501Z,43.1837,-127.0405,10,3.4,ml,40,286,2.214,0.57,us,us6000lazq,2023-09-26T23:30:48.504Z,"212 km W of Langlois, Oregon",earthquake,12.18,2.024,0.042,76,reviewed,us,us
-2023-09-26T22:38:47.110Z,36.1008333,-117.8608333,2.83,1.35,ml,15,147,0.0174,0.13,ci,ci40573144,2023-09-26T23:08:41.007Z,"10 km NE of Coso Junction, CA",earthquake,0.43,0.58,0.097,7,reviewed,ci,ci
