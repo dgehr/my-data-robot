@@ -53,7 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T22:26:09.190Z,19.2593326568604,-155.375671386719,30.0599994659424,1.80999994,md,35,156,,0.129999995,hv,hv73586067,2023-09-26T22:29:20.310Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.67,1,0.75999999,20,automatic,hv,hv
 2023-09-26T22:23:26.980Z,58.1705,-155.38,2.12,0.48,ml,9,134,,0.08,av,av92060536,2023-09-26T22:56:18.970Z,"Alaska Peninsula",earthquake,0.21,0.41,0.182153208041194,11,reviewed,av,av
 2023-09-26T22:22:56.549Z,58.1654,-156.3723,250,1.7,ml,,,,1.01,ak,ak023cd8sq9i,2023-09-26T22:25:22.793Z,"59 km E of Egegik, Alaska",earthquake,,9.2,,,automatic,ak,ak
-2023-09-26T22:21:39.978Z,37.5395,141.571,54.697,4.8,mb,79,127,2.868,0.85,us,us6000lazm,2023-09-26T22:38:56.040Z,"50 km E of Namie, Japan",earthquake,7.12,3.676,0.041,189,reviewed,us,us
+2023-09-26T22:21:41.292Z,37.5438,141.5057,64.645,4.5,mwr,166,115,2.821,0.63,us,us6000lazm,2023-09-27T04:34:43.040Z,"45 km E of Namie, Japan",earthquake,6.88,5.446,0.075,17,reviewed,us,us
 2023-09-26T22:20:04.300Z,37.2478333,-118.2078323,10.83,1.92,md,13,215,0.06239,0.02,nc,nc73942306,2023-09-26T23:41:52.928Z,"12 km NE of Big Pine, CA",earthquake,1.46,0.48,0.22,7,automatic,nc,nc
 2023-09-26T22:08:00.050Z,17.851,-66.8693333333333,7.3,2.9,md,12,253,0.1237,0.05,pr,pr71426023,2023-09-26T22:19:09.000Z,"13 km SSE of Guánica, Puerto Rico",earthquake,0.54,0.24,0.0800995447272599,5,reviewed,pr,pr
 2023-09-26T21:52:32.530Z,37.479332,-121.8304977,7.27,1.86,md,25,97,0.03036,0.03,nc,nc73942296,2023-09-26T21:54:07.134Z,"9 km NE of Milpitas, CA",earthquake,0.22,0.42,0.21,12,automatic,nc,nc
@@ -79,6 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T20:08:55.170Z,38.836834,-122.8059998,1.99,1.04,md,16,55,0.01233,0.01,nc,nc73942246,2023-09-26T20:10:31.622Z,"7 km WNW of Cobb, CA",earthquake,0.24,0.53,0.1,17,automatic,nc,nc
 2023-09-26T20:05:12.890Z,18.2522,146.8134,60.613,4.6,mb,42,100,3.157,0.71,us,us6000lays,2023-09-26T22:14:29.040Z,"Pagan region, Northern Mariana Islands",earthquake,11.34,7.753,0.093,36,reviewed,us,us
 2023-09-26T20:00:15.161Z,62.0829,-151.056,67.8,1.7,ml,,,,0.31,ak,ak023cd7h23w,2023-09-26T20:02:39.459Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-09-26T19:56:52.100Z,46.6815,-122.82766666666667,55.05,1.5,ml,35,92,0.09167,0.18,uw,uw61953507,2023-09-27T04:40:10.090Z,"10 km ESE of Centralia, Washington",earthquake,0.41,0.79,0.12229782704811121,21,reviewed,uw,uw
 2023-09-26T19:56:42.840Z,34.06366667,-97.421,5,1.91,ml,36,60,0.1853636253,0.3,ok,ok2023sxeh,2023-09-26T20:40:18.616Z,"10 km S of Wilson, Oklahoma",earthquake,,0.9,0.17,4,reviewed,ok,ok
 2023-09-26T19:56:12.792Z,-27.5561,-71.188,40.755,4.7,mb,53,146,0.767,0.62,us,us6000layl,2023-09-26T22:03:54.040Z,"87 km WSW of Copiapó, Chile",earthquake,3.53,6.978,0.09,40,reviewed,us,us
 2023-09-26T19:52:08.200Z,33.8691667,-117.507,-0.47,1.04,ml,23,56,0.07297,0.23,ci,ci40573072,2023-09-26T22:21:02.044Z,"2 km SE of Home Gardens, CA",quarry blast,0.48,31.61,0.154,18,reviewed,ci,ci
