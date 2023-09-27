@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-27T18:00:40.625Z,-18.9555,-178.017,613.344,5.3,mb,53,48,3.442,0.57,us,us6000lb63,2023-09-27T18:14:02.040Z,"298 km ESE of Levuka, Fiji",earthquake,9,9.028,0.085,47,reviewed,us,us
+2023-09-27T18:23:41.411Z,63.6094,-147.8641,5.9,1.2,ml,,,,0.32,ak,ak023cetyivx,2023-09-27T18:25:24.904Z,"53 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-09-27T18:00:40.586Z,-18.9362,-178.0347,613.082,4.8,mb,60,48,3.467,0.56,us,us6000lb63,2023-09-27T18:17:34.040Z,"295 km ESE of Levuka, Fiji",earthquake,9.35,8.364,0.048,132,reviewed,us,us
 2023-09-27T17:52:22.440Z,34.97083333,-97.56,4.94,1.39,ml,60,52,0.06298763968,0.53,ok,ok2023syvs,2023-09-27T18:02:31.953Z,"9 km SE of Dibble, Oklahoma",earthquake,,1.1,0.23,21,reviewed,ok,ok
 2023-09-27T17:50:46.770Z,38.8156662,-122.7955017,2.54,1.27,md,25,37,0.007689,0.01,nc,nc73942591,2023-09-27T17:52:22.114Z,"5 km NW of The Geysers, CA",earthquake,0.21,0.4,0.21,26,automatic,nc,nc
 2023-09-27T17:47:21.700Z,0.874,93.1233,10,5.4,mww,81,58,4.472,0.72,us,us6000lb60,2023-09-27T18:11:02.504Z,"off the west coast of northern Sumatra",earthquake,6.57,1.678,0.08,15,reviewed,us,us
@@ -183,5 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T18:40:40.740Z,38.8336678,-122.8154984,1.67,0.72,md,14,75,0.0111,0.01,nc,nc73942211,2023-09-26T18:42:16.654Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.71,0.48,14,automatic,nc,nc
 2023-09-26T18:40:06.980Z,38.8333321,-122.8141632,1.72,1.69,md,29,44,0.01042,0.02,nc,nc73942206,2023-09-26T22:49:40.615Z,"8 km W of Cobb, CA",earthquake,0.18,0.31,0.15,31,automatic,nc,nc
 2023-09-26T18:40:03.220Z,40.6906662,-123.5851669,28.14,3.38,ml,53,38,0.2119,0.15,nc,nc73942216,2023-09-27T09:44:22.572Z,"28 km S of Willow Creek, CA",earthquake,0.3,1.19,0.4,19,automatic,nc,nc
-2023-09-26T18:27:46.430Z,38.8328323,-122.8068314,2.3,0.26,md,8,142,0.009758,0,nc,nc73942196,2023-09-26T18:29:21.882Z,"7 km W of Cobb, CA",earthquake,0.64,0.97,0.1,9,automatic,nc,nc
-2023-09-26T18:27:15.810Z,36.1838333,-117.608,1.7,1.27,ml,13,230,0.2105,0.21,ci,ci40573056,2023-09-26T18:53:35.079Z,"34 km ENE of Coso Junction, CA",earthquake,1.23,2.19,0.133,5,reviewed,ci,ci
