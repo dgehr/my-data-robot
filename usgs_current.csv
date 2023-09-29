@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-29T20:06:12.110Z,33.5061667,-116.5408333,14.68,0.91,ml,19,81,0.05254,0.14,ci,ci40574584,2023-09-29T20:13:38.914Z,"14 km ESE of Anza, CA",earthquake,0.25,0.5,0.133,22,automatic,ci,ci
+2023-09-29T19:52:35.720Z,44.4513333333333,-115.1995,5.58,1.74,ml,10,73,0.6961,0.09,mb,mb90028898,2023-09-29T20:04:07.270Z,"southern Idaho",earthquake,0.3,1.08,0.16899582169377,11,reviewed,mb,mb
 2023-09-29T19:52:33.982Z,56.7744,-157.4372,124.2,1.9,ml,,,,0.92,ak,ak023ci5suo6,2023-09-29T19:54:37.904Z,"79 km NE of Chignik, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-09-29T19:46:16.637Z,61.4646,-148.8703,10.2,1.1,ml,,,,1.16,ak,ak023ci5rj1b,2023-09-29T19:55:28.948Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-29T19:38:55.850Z,18.782,-67.3928333333333,11.13,3,md,14,279,0.3715,0.15,pr,pr71426533,2023-09-29T19:50:31.070Z,"44 km NW of San Antonio, Puerto Rico",earthquake,0.88,0.89,0.103471068083093,9,reviewed,pr,pr
@@ -207,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T21:03:52.475Z,63.304,-149.3945,89.9,1.8,ml,,,,0.61,ak,ak023cgj5wq1,2023-09-28T21:06:30.987Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-28T20:33:26.750Z,44.443333333333335,-122.723,-0.77,2.0300000000000002,ml,9,75,0.08076,0.17,uw,uw61962791,2023-09-29T00:03:03.970Z,"5 km NNE of Sweet Home, Oregon",explosion,0.45,31.61,0.35557552801807235,5,reviewed,uw,uw
 2023-09-28T20:26:14.200Z,60.0568333333333,-153.088333333333,1.59,-0.01,ml,5,171,,0.14,av,av92065791,2023-09-29T03:21:43.110Z,"64 km ENE of Pedro Bay, Alaska",earthquake,1.4,0.72,0.282377454141511,5,reviewed,av,av
-2023-09-28T20:06:19.940Z,33.3105,-116.2363333,7.14,1.38,ml,46,29,0.1107,0.17,ci,ci40574080,2023-09-28T21:03:22.440Z,"14 km ENE of Borrego Springs, CA",earthquake,0.2,0.65,0.201,24,reviewed,ci,ci
-2023-09-28T20:00:04.070Z,47.263666666666666,-123.6905,10.73,1.29,ml,15,116,0.0442,0.32,uw,uw61962786,2023-09-29T02:19:14.060Z,"Olympic Peninsula, Washington",earthquake,0.67,1.64,0.15387065659754917,11,reviewed,uw,uw
