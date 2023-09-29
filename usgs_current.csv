@@ -227,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T23:44:53.320Z,31.8246667,-116.1605,5.37,2.49,ml,17,76,0.2548,0.38,ci,ci40574184,2023-09-29T21:54:16.044Z,"40 km ENE of Maneadero, B.C., MX",earthquake,0.55,31.61,0.138,59,reviewed,ci,ci
 2023-09-28T23:41:04.960Z,60.0228333333333,-153.075666666667,5.46,-0.51,ml,5,98,,0.16,av,av92066121,2023-09-29T17:13:41.750Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.72,1.23,0.22270658773676,5,reviewed,av,av
 2023-09-28T23:34:06.653Z,60.4545,-152.0082,72,1.4,ml,,,,0.39,ak,ak023cgkjbll,2023-09-28T23:36:40.142Z,"39 km W of Kalifornsky, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-09-28T23:27:48.580Z,-19.3154,-177.9137,597.798,4.9,mb,60,67,3.142,0.51,us,us6000lbjq,2023-09-29T02:00:06.040Z,"Fiji region",earthquake,13.42,8.632,0.062,83,reviewed,us,us
