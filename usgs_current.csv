@@ -128,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T13:17:01.740Z,38.8250008,-122.803833,2.65,0.76,md,12,73,0.005132,0.01,nc,nc73943016,2023-09-28T13:18:36.788Z,"7 km NW of The Geysers, CA",earthquake,0.36,0.77,0.15,13,automatic,nc,nc
 2023-09-28T13:09:58.659Z,64.6034,-149.8437,18.7,1.1,ml,,,,0.68,ak,ak023cgefqnt,2023-09-28T13:12:44.863Z,"34 km W of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-28T13:06:43.490Z,33.1223333,-116.1951667,10.72,1.4,ml,55,43,0.04037,0.2,ci,ci40573800,2023-09-28T18:26:45.099Z,"6 km WSW of Ocotillo Wells, CA",earthquake,0.18,0.35,0.134,23,reviewed,ci,ci
-2023-09-28T12:55:23.461Z,38.2636,-118.7948,6.4,1.1,ml,7,115.29,0.228,0.1359,nn,nn00866530,2023-09-29T00:11:06.654Z,"Nevada",earthquake,,5.1,0.35,4,reviewed,nn,nn
+2023-09-28T12:55:23.461Z,38.2636,-118.7948,6.4,1.1,ml,7,115.29,0.228,0.1359,nn,nn00866530,2023-09-29T00:11:06.654Z,"32 km SSW of Hawthorne, Nevada",earthquake,,5.1,0.35,4,reviewed,nn,nn
 2023-09-28T12:51:20.696Z,57.6579,-155.0606,77.6,1.5,ml,,,,0.49,ak,ak023cge3879,2023-09-28T12:53:42.141Z,"37 km WNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-28T12:48:35.440Z,51.9545,-176.783833333333,-1.78,0.91,ml,6,183,,0.1,av,av91116933,2023-09-29T00:10:21.500Z,"13 km NW of Adak, Alaska",earthquake,1.31,0.61,0.228085856016235,6,reviewed,av,av
 2023-09-28T12:36:18.340Z,33.2668333,-116.427,5,0.98,ml,34,41,0.008356,0.17,ci,ci40573792,2023-09-28T18:28:47.332Z,"5 km WNW of Borrego Springs, CA",earthquake,0.19,0.47,0.12,23,reviewed,ci,ci
@@ -234,5 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T05:09:27.600Z,38.8223343,-122.8535004,2.47,0.77,md,11,112,0.005832,0.02,nc,nc73942901,2023-09-28T05:11:04.996Z,"10 km WNW of The Geysers, CA",earthquake,0.5,0.81,0.16,14,automatic,nc,nc
 2023-09-28T05:01:10.130Z,37.8945007,-122.0526657,6.15,1.33,md,9,84,0.05936,0.06,nc,nc73942896,2023-09-28T05:02:44.796Z,"2 km SE of Walnut Creek, CA",earthquake,0.31,0.89,0.24,8,automatic,nc,nc
 2023-09-28T04:57:33.740Z,18.165,-66.1636666666667,74.83,2.8,md,7,158,0.2434,0.16,pr,pr71426238,2023-09-28T07:49:26.938Z,"Puerto Rico",earthquake,2.12,1.13,0.134860692555964,7,reviewed,pr,pr
-2023-09-28T04:52:33.850Z,60.046,-153.063666666667,2.77,-0.68,ml,5,142,,0.28,av,av92064616,2023-09-28T19:01:04.080Z,"65 km ENE of Pedro Bay, Alaska",earthquake,1.14,1.95,0.367806204524537,5,reviewed,av,av
-2023-09-28T04:52:07.915Z,39.7544,-120.5755,7.8,0.5,ml,5,206.99,0.108,0.1134,nn,nn00866479,2023-09-28T18:54:49.645Z,"0 km SSE of C-Road, California",earthquake,,4.5,0.5,3,reviewed,nn,nn
