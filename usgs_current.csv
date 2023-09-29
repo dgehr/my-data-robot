@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T12:19:59.940Z,38.8341675,-122.8113327,1.9,1.68,md,32,40,0.0108,0.03,nc,nc73943271,2023-09-29T12:23:03.002Z,"8 km W of Cobb, CA",earthquake,0.18,0.3,0.18,34,automatic,nc,nc
 2023-09-29T12:08:49.450Z,61.6702,-150.7771,67.8,1.2,ml,,,,0.54,ak,ak023ci1df4h,2023-09-29T12:10:36.230Z,"19 km NW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-29T11:55:38.621Z,-27.7378,-71.4878,15.439,4.1,mwr,27,146,0.592,0.7,us,us6000lbng,2023-09-29T12:14:29.040Z,"117 km NW of Vallenar, Chile",earthquake,3.91,4.638,0.038,68,reviewed,us,us
-2023-09-29T11:41:12.772Z,-4.2537,138.4754,130.7,4.1,mb,28,123,2.816,0.71,us,us6000lbnf,2023-09-29T12:00:05.040Z,"Papua, Indonesia",earthquake,11.42,9.917,0.13,16,reviewed,us,us
+2023-09-29T11:41:12.772Z,-4.2537,138.4754,130.7,4.1,mb,28,123,2.816,0.71,us,us6000lbnf,2023-09-29T12:00:05.040Z,"147 km NNE of Agats, Indonesia",earthquake,11.42,9.917,0.13,16,reviewed,us,us
 2023-09-29T11:40:52.846Z,62.1967,-150.1117,24.3,0.9,ml,,,,0.63,ak,ak023ci0yup0,2023-09-29T11:42:54.354Z,"14 km WNW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-29T11:27:34.464Z,62.0619,-148.3258,36.5,1.6,ml,,,,0.29,ak,ak023ci0w0yu,2023-09-29T11:28:49.713Z,"30 km NNE of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-29T11:25:48.400Z,33.334,-116.1921667,10.49,0.82,ml,30,47,0.1501,0.22,ci,ci40574352,2023-09-29T11:29:21.003Z,"17 km SSW of Oasis, CA",earthquake,0.31,1.06,0.126,17,automatic,ci,ci
@@ -193,5 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T13:57:47.960Z,46.816,-121.18533333333333,1.25,1.35,ml,31,107,0.2527,0.26,uw,uw61953902,2023-09-28T15:46:26.220Z,"16 km SSW of Cliffdell, Washington",earthquake,0.47,2.26,0.18949886881360378,17,reviewed,uw,uw
 2023-09-28T13:49:13.160Z,58.1885,-155.314,2.2,-0.11,ml,10,100,,0.1,av,av92065336,2023-09-29T00:45:07.110Z,"85 km NW of Karluk, Alaska",earthquake,0.22,0.37,0.22180232029232,10,reviewed,av,av
 2023-09-28T13:45:08.414Z,63.2401,-150.3968,112.2,1.4,ml,,,,0.29,ak,ak023cgenck9,2023-09-28T13:47:01.877Z,"74 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-09-28T13:36:22.590Z,38.793335,-122.8238297,2.1,0.77,md,15,100,0.008753,0.03,nc,nc73943026,2023-09-28T13:37:57.918Z,"6 km WNW of The Geysers, CA",earthquake,0.29,0.62,0.17,16,automatic,nc,nc
-2023-09-28T13:35:02.220Z,19.1456661224365,-155.477661132812,33.6500015258789,2.25999999,md,43,165,,0.100000001,hv,hv73587292,2023-09-28T13:38:19.330Z,"6 km S of Pāhala, Hawaii",earthquake,0.61,0.910000026,0.230000004,21,automatic,hv,hv
