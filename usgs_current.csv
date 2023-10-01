@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-01T03:04:47.710Z,38.8276672,-122.754837,-0.85,0.8,md,9,151,0.0121,0.3,nc,nc73943996,2023-10-01T03:06:25.425Z,"3 km WNW of Cobb, CA",earthquake,0.95,3.77,0.11,10,automatic,nc,nc
 2023-10-01T02:53:29.740Z,61.5755,-146.5685,19.9,1.8,ml,,,,0.69,ak,ak023cl6rdri,2023-10-01T02:55:29.892Z,"47 km SSE of Nelchina, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-10-01T02:48:15.030Z,38.8056679,-122.7825012,1.09,0.76,md,11,64,0.007712,0.02,nc,nc73943991,2023-10-01T02:49:49.096Z,"4 km NW of The Geysers, CA",earthquake,0.29,0.63,0.05,10,automatic,nc,nc
 2023-10-01T02:32:42.140Z,17.9053333333333,-66.8511666666667,12.27,2.86,md,22,218,0.07432,0.11,pr,pr71426768,2023-10-01T02:47:17.620Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.47,0.34,0.180819631003882,8,reviewed,pr,pr
 2023-10-01T02:29:28.020Z,17.9178333333333,-66.8506666666667,13.03,2.68,md,7,225,0.06308,0.08,pr,pr71426763,2023-10-01T02:55:47.480Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.75,0.32,0.139678002009046,7,reviewed,pr,pr
+2023-10-01T02:28:51.530Z,17.8953333333333,-66.8486666666667,11.95,2.01,md,7,235,0.08447,0.1,pr,pr71426758,2023-10-01T02:59:08.250Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.84,0.58,0.0324298870609392,3,reviewed,pr,pr
 2023-10-01T02:22:42.640Z,17.8898333333333,-66.8501666666667,11.68,3.18,md,23,223,0.08917,0.15,pr,pr71426748,2023-10-01T02:47:49.520Z,"Puerto Rico region",earthquake,0.49,0.36,0.117185937478606,15,reviewed,pr,pr
 2023-10-01T02:19:33.290Z,17.9241666666667,-66.852,13.78,2.25,md,8,221,0.05687,0.15,pr,pr71426743,2023-10-01T02:47:24.720Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.96,0.43,0.0993646079011654,3,reviewed,pr,pr
 2023-10-01T02:17:09.335Z,61.2827,-146.8229,29.1,1.6,ml,,,,0.24,ak,ak023cl6jmet,2023-10-01T02:18:21.678Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -161,7 +163,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-30T03:46:05.553Z,59.8516,-152.1295,60.8,1.1,ml,,,,0.56,ak,ak023cjjrwzv,2023-09-30T03:48:48.648Z,"18 km WNW of Anchor Point, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-09-30T03:36:30.492Z,59.6752,-152.2534,59.2,1.2,ml,,,,0.11,ak,ak023cjjptrd,2023-09-30T03:37:41.661Z,"26 km WSW of Anchor Point, Alaska",earthquake,,5.3,,,automatic,ak,ak
 2023-09-30T03:34:21.750Z,17.9423333333333,-66.2831666666667,13.58,2.41,md,12,193,0.1569,0.23,pr,pr71426568,2023-09-30T03:43:31.680Z,"4 km SSE of Salinas, Puerto Rico",earthquake,0.74,0.53,0.142661736751047,6,reviewed,pr,pr
-2023-09-30T03:11:16.620Z,38.8190002,-122.82267,2.07,0.62,md,9,119,0.01049,0.02,nc,nc73943596,2023-09-30T03:12:53.509Z,"7 km NW of The Geysers, CA",earthquake,0.53,1.02,0.19,10,automatic,nc,nc
-2023-09-30T03:07:24.541Z,43.3862,143.8979,10,4.4,mb,36,144,1.196,0.67,us,us6000lbui,2023-09-30T04:02:45.040Z,"15 km SE of Rikubetsu, Japan",earthquake,7.52,1.888,0.114,22,reviewed,us,us
-2023-09-30T03:05:58.010Z,44.3553333333333,-115.198,6.36,1.34,ml,10,63,0.7863,0.15,mb,mb90028908,2023-09-30T14:19:10.370Z,"southern Idaho",earthquake,0.39,1.46,0.21430665374929,10,reviewed,mb,mb
-2023-09-30T02:57:50.850Z,61.5416,-150.5898,44.5,1.9,ml,,,,0.65,ak,ak023cjj8xqa,2023-09-30T02:59:32.102Z,"4 km W of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
