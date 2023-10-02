@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T19:43:43.530Z,36.2161666666667,-89.4406666666667,7.65,1.82,md,15,57,0.02156,0.05,nm,nm60501168,2023-10-02T20:33:19.450Z,"6 km SE of Ridgely, Tennessee",earthquake,0.17,0.48,0.0322761300729959,11,reviewed,nm,nm
 2023-10-02T19:31:00.740Z,38.8139992,-122.8294983,1.88,0.65,md,10,94,0.00513,0.01,nc,nc73944681,2023-10-02T19:32:37.948Z,"8 km WNW of The Geysers, CA",earthquake,0.37,0.7,0.33,12,automatic,nc,nc
 2023-10-02T19:30:17.900Z,32.596,-116.9991667,2.71,1.33,ml,22,208,0.05938,0.21,ci,ci40575640,2023-10-02T19:34:06.312Z,"6 km SE of Chula Vista, CA",quarry blast,0.89,1.6,0.158,11,automatic,ci,ci
-2023-10-02T19:24:29.350Z,39.7243347,-120.5018311,25.33,2.64,md,14,84,0.1794,0.29,nc,nc73944676,2023-10-02T19:49:17.106Z,"4 km E of Whitehawk, CA",earthquake,1.04,1.98,0.19,6,automatic,nc,nc
+2023-10-02T19:24:28.770Z,39.7415,-120.5681667,1.8,2.32,md,15,67,0.1052,0.1,nc,nc73944676,2023-10-02T20:47:14.931Z,"0 km N of Valley Ranch, CA",earthquake,0.35,1.58,0.199,29,reviewed,nc,nc
 2023-10-02T19:17:08.246Z,62.1366,-149.4674,53.1,1.4,ml,,,,0.55,ak,ak023cn47c3s,2023-10-02T19:18:49.874Z,"20 km E of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-02T19:05:40.816Z,61.7899,-150.6219,46.9,1.6,ml,,,,0.56,ak,ak023cn44u0x,2023-10-02T19:07:37.326Z,"28 km NNW of Susitna, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-10-02T18:57:30.750Z,34.9911667,-118.2191667,0.65,1.27,ml,12,62,0.1005,0.34,ci,ci40575632,2023-10-02T19:01:19.240Z,"8 km SSW of Mojave, CA",earthquake,0.72,1.41,0.11,12,automatic,ci,ci
@@ -24,6 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T17:07:39.850Z,35.9404984,-120.4905014,9.94,1.05,md,14,105,0.01646,0.07,nc,nc73944641,2023-10-02T17:09:21.374Z,"7 km NW of Parkfield, CA",earthquake,0.7,1.24,0.22,4,automatic,nc,nc
 2023-10-02T17:03:08.420Z,34.9278336,-119.0186691,9.6,2.97,ml,97,27,0.0656,0.28,ci,ci40575560,2023-10-02T19:32:08.455Z,"8 km WSW of Grapevine, CA",earthquake,0.23,0.55,0.269,23,automatic,ci,ci
 2023-10-02T16:46:09.520Z,38.7770004,-122.729332,1.12,1.64,md,24,73,0.008495,0.04,nc,nc73944631,2023-10-02T16:47:45.329Z,"2 km E of The Geysers, CA",earthquake,0.23,0.36,0.22,24,automatic,nc,nc
+2023-10-02T16:42:36.110Z,46.823,-121.17883333333333,3.35,1.22,ml,24,108,0.2594,0.22,uw,uw61963556,2023-10-02T20:46:05.560Z,"Washington",earthquake,0.46,1.15,0.2180593784389766,16,reviewed,uw,uw
 2023-10-02T16:30:29.489Z,32.7884,141.7915,10,4.6,mb,44,135,1.694,0.57,us,us6000lca0,2023-10-02T17:00:30.040Z,"294 km SSE of Katsuura, Japan",earthquake,5.41,1.775,0.107,26,reviewed,us,us
 2023-10-02T16:25:31.985Z,38.2773,-117.8334,12.6,1.7,ml,4,205.26,0.143,0.0209,nn,nn00866640,2023-10-02T17:16:51.737Z,"27 km ESE of Mina, Nevada",earthquake,,18.4,0,1,reviewed,nn,nn
 2023-10-02T16:25:09.995Z,38.2922,-117.8251,9.1,2.4,ml,12,71.77,0.157,0.1793,nn,nn00866630,2023-10-02T17:13:44.930Z,"27 km ESE of Mina, Nevada",earthquake,,1.4,0.1,7,reviewed,nn,nn
