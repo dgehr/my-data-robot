@@ -184,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-01T10:18:53.246Z,62.4885,-151.322,84.5,1.9,ml,,,,0.41,ak,ak023clbbecs,2023-10-01T10:20:49.951Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-01T09:59:21.960Z,38.8201675,-122.822998,2.1,0.93,md,11,83,0.009849,0.01,nc,nc73944096,2023-10-01T10:00:56.539Z,"8 km NW of The Geysers, CA",earthquake,0.37,0.8,0.31,13,automatic,nc,nc
 2023-10-01T09:53:53.460Z,34.0051667,-118.3531667,9.3,1.44,ml,33,58,0.01623,0.27,ci,ci40575064,2023-10-01T10:04:39.560Z,"1 km NNW of View Park-Windsor Hills, CA",earthquake,0.4,0.77,0.17,28,automatic,ci,ci
-2023-10-01T09:46:49.383Z,-24.6477,-179.9802,485.858,4.6,mb,40,105,4.95,0.67,us,us6000lc2j,2023-10-01T10:05:36.040Z,"south of the Fiji Islands",earthquake,13,1.946,0.096,32,reviewed,us,us
