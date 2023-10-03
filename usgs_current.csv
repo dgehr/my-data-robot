@@ -193,5 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T04:00:27.280Z,35.5003333,-118.1466667,7.65,1.03,ml,23,44,0.03659,0.11,ci,ci40575328,2023-10-02T21:33:29.590Z,"32 km ESE of Lake Isabella, CA",earthquake,0.15,0.43,0.124,9,reviewed,ci,ci
 2023-10-02T03:59:19.931Z,65.1263,-150.2598,16.6,1.3,ml,,,,0.5,ak,ak023cmuxfeh,2023-10-02T04:01:09.210Z,"22 km NE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-02T03:54:13.025Z,65.4106,-148.1805,13.7,1.4,ml,,,,0.3,ak,ak023cmuwcae,2023-10-02T03:55:56.829Z,"21 km SE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-02T03:45:47.380Z,33.9805,-116.725,18.24,1.69,ml,66,29,0.08274,0.18,ci,ci40575312,2023-10-02T21:27:58.420Z,"9 km NE of Cabazon, CA",earthquake,0.15,0.32,0.118,23,reviewed,ci,ci
-2023-10-02T03:44:44.070Z,38.833168,-122.8144989,1.65,0.7,md,10,55,0.01035,0.01,nc,nc73944416,2023-10-02T03:46:16.697Z,"8 km NW of The Geysers, CA",earthquake,0.32,1.2,0.52,11,automatic,nc,nc
