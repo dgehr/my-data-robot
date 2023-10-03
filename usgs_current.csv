@@ -169,7 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T10:16:25.810Z,33.272,-116.7806667,9.74,1.96,ml,56,41,0.04034,0.2,ci,ci40575408,2023-10-03T00:47:27.830Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.22,0.69,0.166,27,reviewed,ci,ci
 2023-10-02T10:08:23.589Z,34.46466667,-97.76483333,7.59,1.98,ml,79,48,0.1466712181,0.34,ok,ok2023thjx,2023-10-02T14:44:56.382Z,"8 km W of Velma, Oklahoma",earthquake,,0.9,0.23,30,reviewed,ok,ok
 2023-10-02T10:07:16.844Z,61.6574,-151.7597,93.1,1.9,ml,,,,0.26,ak,ak023cmysb5w,2023-10-02T10:09:31.682Z,"41 km SSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-10-02T10:04:43.892Z,53.1296,-166.7295,11.8,4.2,ml,,,,0.75,ak,ak023cmyrpvw,2023-10-02T16:04:56.652Z,"83 km S of Unalaska, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2023-10-02T10:04:42.600Z,53.0274,-166.7089,10,4.3,mb,47,171,0.774,0.44,us,us6000lc9n,2023-10-03T07:47:28.040Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,1.98,1.963,0.148,13,reviewed,us,us
 2023-10-02T09:38:09.380Z,54.7365,-164.129,1.83,1.38,ml,5,195,,0.13,av,av92070211,2023-10-02T17:05:01.780Z,"47 km WSW of False Pass, Alaska",earthquake,0.55,1.06,0.261879148009069,5,reviewed,av,av
 2023-10-02T09:37:55.380Z,19.1823329925537,-155.502166748047,32.2000007629395,1.88,md,43,93,,0.100000001,hv,hv73589832,2023-10-02T09:41:10.420Z,"3 km SW of Pāhala, Hawaii",earthquake,0.59,0.920000017,1.50999999,10,automatic,hv,hv
 2023-10-02T09:34:42.720Z,34.1158333,-116.7096667,2.28,1.39,ml,47,47,0.09258,0.19,ci,ci40575400,2023-10-03T00:48:34.350Z,"14 km WNW of Morongo Valley, CA",earthquake,0.21,0.52,0.164,27,reviewed,ci,ci
