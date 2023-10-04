@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-04T19:08:55.140Z,33.2161667,-116.1826667,11.21,1.5,ml,42,38,0.06157,0.22,ci,ci40577072,2023-10-04T19:12:31.812Z,"9 km NNW of Ocotillo Wells, CA",earthquake,0.24,0.55,0.14,24,automatic,ci,ci
 2023-10-04T18:34:38.900Z,37.987999,-122.449501,1.58,1.56,md,8,114,0.0243,0.06,nc,nc73945446,2023-10-04T18:36:15.079Z,"7 km E of Santa Venetia, CA",earthquake,0.58,0.6,0.36,7,automatic,nc,nc
 2023-10-04T18:30:17.357Z,29.925,140.058,10,5,mb,74,80,3.187,0.93,us,us6000lcw3,2023-10-04T18:46:57.040Z,"Izu Islands, Japan region",earthquake,8.84,1.872,0.041,191,reviewed,us,us
 2023-10-04T18:19:52.806Z,60.3077,-143.321,13.1,2.3,ml,,,,0.31,ak,ak023cqep4cw,2023-10-04T18:21:23.587Z,"127 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -222,6 +223,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T20:11:38.912Z,57.4009,-154.6918,46.7,2.5,ml,,,,0.23,ak,ak023cosaw8w,2023-10-03T20:38:59.685Z,"23 km SW of Karluk, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2023-10-03T20:05:07.522Z,63.4914,-148.6297,82.6,1.9,ml,,,,0.35,ak,ak023cos9jk0,2023-10-03T20:07:08.401Z,"19 km NE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-03T20:01:41.304Z,57.853,-153.6055,35,2.4,ml,,,,0.3,ak,ak023cos8raq,2023-10-03T20:20:47.000Z,"41 km NNE of Larsen Bay, Alaska",earthquake,,26.3,,,automatic,ak,ak
+2023-10-03T19:57:52.480Z,58.1825,-155.3075,2.19,0.22,ml,12,57,,0.1,av,av92072071,2023-10-04T19:15:37.290Z,"85 km NW of Karluk, Alaska",earthquake,0.2,0.48,0.269786777008421,12,reviewed,av,av
 2023-10-03T19:50:59.443Z,60.0896,-152.5404,92.9,1.4,ml,,,,0.37,ak,ak023corxv6g,2023-10-03T19:52:22.433Z,"47 km WNW of Happy Valley, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-10-03T19:49:38.570Z,34.101,-116.6401667,7.93,1.14,ml,17,110,0.06266,0.09,ci,ci40576352,2023-10-03T20:04:54.788Z,"8 km NW of Morongo Valley, CA",earthquake,0.2,0.45,0.074,6,reviewed,ci,ci
 2023-10-03T19:42:07.032Z,39.9659,-120.0203,8.2,0.9,ml,6,157.88,0.151,0.1211,nn,nn00866756,2023-10-04T17:54:57.209Z,"9 km SE of Doyle, California",earthquake,,5.8,0.49,5,reviewed,nn,nn
@@ -229,6 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T19:36:07.380Z,34.2431667,-116.9006667,8.74,1.48,ml,57,28,0.02532,0.13,ci,ci40576336,2023-10-03T20:44:39.520Z,"1 km E of Big Bear Lake, CA",earthquake,0.13,0.23,0.146,25,reviewed,ci,ci
 2023-10-03T19:30:07.690Z,32.7595,-116.9061667,6.11,1.38,ml,14,90,0.03873,0.16,ci,ci40576320,2023-10-03T19:52:19.944Z,"3 km ENE of Rancho San Diego, CA",quarry blast,0.35,0.93,0.134,11,reviewed,ci,ci
 2023-10-03T19:27:18.541Z,29.8817,139.923,52.249,4.9,mb,111,125,3.225,0.44,us,us6000lcla,2023-10-03T20:21:29.040Z,"Izu Islands, Japan region",earthquake,9.53,7.461,0.05,130,reviewed,us,us
-2023-10-03T19:16:58.117Z,28.3729,138.7811,517.01,5.3,mww,97,73,4.81,0.65,us,us6000lcl0,2023-10-03T19:33:27.040Z,"Bonin Islands, Japan region",earthquake,10.2,7.687,0.093,11,reviewed,us,us
-2023-10-03T19:16:23.300Z,33.7623333,-116.9295,14.61,0.71,ml,16,92,0.07521,0.09,ci,ci40576312,2023-10-03T19:30:23.500Z,"4 km SE of San Jacinto, CA",earthquake,0.22,0.4,0.077,12,reviewed,ci,ci
-2023-10-03T19:14:06.250Z,38.8178329,-122.7965012,0.7,0.27,md,8,75,0.009895,0.02,nc,nc73945071,2023-10-03T20:21:20.790Z,"6 km NW of The Geysers, CA",earthquake,0.49,1.23,0.06,8,automatic,nc,nc
