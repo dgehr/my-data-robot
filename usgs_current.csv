@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-04T05:29:20.582Z,31.602,-103.994,7.2884,3.2,ml(texnet),15,103,0.1,0.2,tx,tx2023tkrs,2023-10-04T05:36:43.503Z,"37 km NNW of Toyah, Texas",earthquake,1.51324495,1.651666169,0.4,13,reviewed,tx,tx
+2023-10-04T05:29:20.582Z,31.602,-103.994,7.2884,3.2,ml(texnet),15,103,0.1,0.2,tx,tx2023tkrs,2023-10-04T05:43:31.040Z,"37 km NNW of Toyah, Texas",earthquake,1.51324495,1.651666169,0.4,13,reviewed,tx,tx
 2023-10-04T04:55:47.617Z,31.0695,141.8837,10,5.7,mww,104,98,2.692,0.91,us,us6000lcpx,2023-10-04T05:19:11.289Z,"Izu Islands, Japan region",earthquake,8.94,1.855,0.059,28,reviewed,us,us
 2023-10-04T04:51:59.263Z,57.8757,-156.8231,146.8,2,ml,,,,0.25,ak,ak023cq6jxau,2023-10-04T04:54:07.131Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-10-04T04:50:02.774Z,65.4168,-149.8725,0,1.2,ml,,,,0.73,ak,ak023cq6jl85,2023-10-04T04:51:57.816Z,"16 km SE of Rampart, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T03:53:05.547Z,61.4527,-147.2816,17.2,2,ml,,,,0.69,ak,ak023cq5ysze,2023-10-04T03:55:06.925Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-04T03:46:55.290Z,41.0068321,-124.1033325,26.34,2.91,ml,20,179,0.1259,0.08,nc,nc73945196,2023-10-04T05:30:56.988Z,"4 km S of Westhaven-Moonstone, CA",earthquake,0.51,0.66,0.306,8,automatic,nc,nc
 2023-10-04T03:35:54.318Z,61.1375,-149.7364,39.1,1.4,ml,,,,0.42,ak,ak023cq5v1uv,2023-10-04T03:37:41.471Z,"12 km SE of Anchorage, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-04T03:35:12.821Z,19.2283,121.2765,39.206,5.7,mww,107,46,3.576,0.89,us,us6000lcpc,2023-10-04T05:37:16.015Z,"69 km N of Namuac, Philippines",earthquake,8.15,4.875,0.046,45,reviewed,us,us
+2023-10-04T03:35:12.821Z,19.2283,121.2765,39.206,5.7,mww,107,46,3.576,0.89,us,us6000lcpc,2023-10-04T05:39:05.349Z,"69 km N of Namuac, Philippines",earthquake,8.15,4.875,0.046,45,reviewed,us,us
 2023-10-04T03:33:15.222Z,60.8061,-151.16,76.8,1.2,ml,,,,0.18,ak,ak023cq5ujeq,2023-10-04T03:35:18.171Z,"Kenai Peninsula, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-10-04T03:31:34.701Z,58.1825,-155.2754,1.3,0.1,ml,,,,0.27,ak,ak023cq5u5h0,2023-10-04T03:35:13.752Z,"Alaska Peninsula",earthquake,,1.7,,,automatic,ak,ak
 2023-10-04T03:26:10.050Z,38.8266678,-122.8075027,1.93,0.71,md,7,170,0.003836,0.01,nc,nc73945191,2023-10-04T03:43:12.232Z,"7 km NW of The Geysers, CA",earthquake,0.73,0.91,0.05,8,automatic,nc,nc
@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T01:06:28.141Z,59.8837,-152.7789,99.6,2.1,ml,,,,0.3,ak,ak023cq4hwve,2023-10-04T01:49:55.040Z,"54 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-04T01:02:34.520Z,19.2735,-155.796666666667,7.23,2.15,md,45,105,,0.23,hv,hv73591052,2023-10-04T02:31:03.420Z,"21 km SSE of Honaunau-Napoopoo, Hawaii",earthquake,0.38,0.44,0.198664643747183,17,reviewed,hv,hv
 2023-10-04T00:59:34.880Z,46.19833333333333,-122.189,5.24,0.18,ml,9,136,0.03476,0.18,uw,uw61963866,2023-10-04T04:17:17.330Z,"37 km NNE of Amboy, Washington",earthquake,0.67,1.15,0.04123670643263545,4,reviewed,uw,uw
-2023-10-04T00:55:51.490Z,36.2366676,-120.8083344,5.04,1.47,md,16,137,0.0215,0.11,nc,nc73945151,2023-10-04T02:09:12.724Z,"22 km ENE of San Lucas, CA",earthquake,0.41,0.51,0.24,7,automatic,nc,nc
+2023-10-04T00:55:51.490Z,36.2366676,-120.8083344,5.04,1.47,md,16,137,0.0215,0.11,nc,nc73945151,2023-10-04T05:39:15.905Z,"22 km ENE of San Lucas, CA",earthquake,0.41,0.51,0.24,7,automatic,nc,nc
 2023-10-04T00:54:16.810Z,33.3291667,-116.187,10.83,1.63,ml,55,22,0.1472,0.22,ci,ci40576560,2023-10-04T01:05:27.950Z,"17 km SSW of Oasis, CA",earthquake,0.22,0.71,0.161,26,automatic,ci,ci
 2023-10-04T00:49:00.790Z,38.8361664,-122.8075027,2.61,0.7,md,13,53,0.01291,0.04,nc,nc73945146,2023-10-04T00:50:35.343Z,"8 km WNW of Cobb, CA",earthquake,0.4,0.78,0.34,14,automatic,nc,nc
 2023-10-04T00:22:06.840Z,54.7426666666667,-163.971833333333,4.92,2.1,ml,7,85,,0.27,av,av91117293,2023-10-04T03:15:56.520Z,"38 km WSW of False Pass, Alaska",earthquake,0.78,1.86,0.232898279115795,7,reviewed,av,av
