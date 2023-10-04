@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-04T23:34:18.457Z,59.4726,-152.6305,71.2,2.1,ml,,,,0.28,ak,ak023cqhrfh1,2023-10-04T23:36:09.926Z,"42 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-04T23:18:09.431Z,29.8673,140.0476,10,5.4,mww,123,52,3.244,1.01,us,us6000lcy1,2023-10-04T23:35:44.432Z,"Izu Islands, Japan region",earthquake,8.8,1.83,0.083,14,reviewed,us,us
+2023-10-04T23:37:16.050Z,64.6311,-150.1616,3.3,1.8,ml,,,,0.6,ak,ak023cqhs2fp,2023-10-04T23:39:55.176Z,"46 km SSE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-10-04T23:34:18.457Z,59.4726,-152.6305,71.2,2.1,ml,,,,0.28,ak,ak023cqhrfh1,2023-10-04T23:39:35.040Z,"42 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-10-04T23:18:09.431Z,29.8673,140.0476,10,5.4,mww,123,52,3.244,1.01,us,us6000lcy1,2023-10-04T23:38:12.943Z,"Izu Islands, Japan region",earthquake,8.8,1.83,0.083,14,reviewed,us,us
 2023-10-04T23:02:57.000Z,36.0088333,-117.7216667,1.55,1.4,ml,12,183,0.0979,0.14,ci,ci40577304,2023-10-04T23:06:27.947Z,"18 km ENE of Little Lake, CA",earthquake,0.46,0.59,0.125,8,automatic,ci,ci
 2023-10-04T22:55:05.698Z,63.0181,-151.548,0,1.4,ml,,,,1,ak,ak023cqhagx5,2023-10-04T22:57:24.631Z,"58 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-04T22:50:08.530Z,36.5618324,-121.1546631,7.48,1.85,md,19,125,0.02663,0.05,nc,nc73945506,2023-10-04T23:09:15.948Z,"4 km NNW of Pinnacles, CA",earthquake,0.28,0.72,0.12,22,automatic,nc,nc
