@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-05T06:22:12.859Z,30.0809,139.9795,10,5.6,mww,107,55,3.028,1.19,us,us6000ld0f,2023-10-05T06:38:47.040Z,"Izu Islands, Japan region",earthquake,6.59,1.844,0.062,25,reviewed,us,us
+2023-10-05T06:22:12.859Z,30.0809,139.9795,10,5.6,mww,107,55,3.028,1.19,us,us6000ld0f,2023-10-05T06:43:50.317Z,"Izu Islands, Japan region",earthquake,6.59,1.844,0.062,25,reviewed,us,us
 2023-10-05T06:12:12.638Z,61.5633,-147.8018,22,1.3,ml,,,,0.39,ak,ak023crv1ohb,2023-10-05T06:13:18.825Z,"28 km SSW of Glacier View, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-05T06:05:46.260Z,19.371166229248,-155.284164428711,1.63999998569489,2.02,ml,26,108,,0.270000011,hv,hv73592527,2023-10-05T06:11:17.900Z,"9 km SSW of Volcano, Hawaii",earthquake,0.33,0.430000007,0.29,5,automatic,hv,hv
 2023-10-05T06:03:09.050Z,32.5151667,-115.6085,5.98,1.45,ml,12,78,0.03209,0.19,ci,ci40577440,2023-10-05T06:06:45.217Z,"8 km SSW of Progreso, B.C., MX",earthquake,0.4,0.99,0.185,15,automatic,ci,ci
@@ -56,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-05T00:28:26.610Z,35.9048333,-117.7588333,9.45,0.45,ml,10,149,0.06526,0.1,ci,ci40577336,2023-10-05T00:31:55.337Z,"14 km ESE of Little Lake, CA",earthquake,0.36,0.6,0.005,2,automatic,ci,ci
 2023-10-05T00:26:04.040Z,38.8175011,-122.7613297,2.1,1.03,md,15,117,0.01458,0.02,nc,nc73945551,2023-10-05T00:58:12.599Z,"3 km W of Cobb, CA",earthquake,0.3,0.54,0.27,15,automatic,nc,nc
 2023-10-05T00:16:55.130Z,19.367000579834,-155.290496826172,2.16000008583069,1.78999996,md,18,109,,0.100000001,hv,hv73592152,2023-10-05T00:20:00.170Z,"10 km SW of Volcano, Hawaii",earthquake,0.25,0.330000013,0.370000005,15,automatic,hv,hv
-2023-10-05T00:16:04.480Z,19.2036666870117,-155.392501831055,29.7700004577637,2.06,ml,16,207,,0.140000001,hv,hv73592147,2023-10-05T00:21:35.800Z,"9 km E of Pāhala, Hawaii",earthquake,1.51,1.00999999,0.29,7,automatic,hv,hv
+2023-10-05T00:16:04.480Z,19.2036666870117,-155.392501831055,29.7700004577637,2.06,ml,16,207,,0.140000001,hv,hv73592147,2023-10-05T00:21:35.800Z,"Island of Hawaii, Hawaii",earthquake,1.51,1.00999999,0.29,7,automatic,hv,hv
 2023-10-05T00:16:03.360Z,17.7501666666667,-65.6535,37.56,3.16,md,16,191,0.3583,0.18,pr,pr71427503,2023-10-05T00:31:35.760Z,"36 km SE of Emajagua, Puerto Rico",earthquake,0.95,1.85,0.0645041886277324,8,reviewed,pr,pr
 2023-10-04T23:48:58.850Z,38.8390007,-122.768837,0.82,1.09,md,11,164,0.006914,0.03,nc,nc73945536,2023-10-05T00:16:14.342Z,"4 km WNW of Cobb, CA",earthquake,0.34,0.42,0.14,13,automatic,nc,nc
 2023-10-04T23:47:20.170Z,31.0367,141.8015,10,5.1,mww,99,100,2.672,0.62,us,us6000lcyc,2023-10-05T00:05:06.040Z,"Izu Islands, Japan region",earthquake,9.55,1.861,0.078,16,reviewed,us,us
@@ -231,5 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T06:59:29.980Z,33.2706667,-116.7813333,9.84,1.79,ml,54,34,0.03943,0.21,ci,ci40576624,2023-10-04T13:17:58.100Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.23,0.63,0.197,26,reviewed,ci,ci
 2023-10-04T06:55:03.117Z,31.615,-103.977,5.5146,2.1,ml(texnet),14,54,0,0.1,tx,tx2023tkun,2023-10-04T12:41:56.705Z,"37 km WSW of Mentone, Texas",earthquake,0.5080405585,0.9039526874,0.1,6,reviewed,tx,tx
 2023-10-04T06:49:31.060Z,37.7661667,-122.5625,10.78,1.22,md,27,157,0.07521,0.07,nc,nc73945206,2023-10-04T23:33:14.096Z,"6 km NW of San Francisco Zoo, CA",earthquake,0.25,0.57,0.294,21,reviewed,nc,nc
-2023-10-04T06:42:24.160Z,44.1105,-110.3201667,8.64,1,md,13,198,0.2142,0.16,uu,uu60551602,2023-10-04T17:56:45.260Z,"59 km NNE of Kelly, Wyoming",earthquake,0.87,2.09,0.074,6,reviewed,uu,uu
-2023-10-04T06:39:39.550Z,32.8595,-116.0401667,7.71,0.74,ml,23,63,0.06566,0.2,ci,ci40576616,2023-10-04T16:01:06.112Z,"14 km NNW of Ocotillo, CA",earthquake,0.28,0.84,0.128,7,reviewed,ci,ci
