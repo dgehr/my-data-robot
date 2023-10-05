@@ -197,6 +197,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T20:28:25.060Z,33.3315,-116.8243333,6.88,0.69,ml,15,113,0.11,0.25,ci,ci40577160,2023-10-04T20:40:36.199Z,"5 km SE of Palomar Observatory, CA",earthquake,0.65,1.77,0.138,16,automatic,ci,ci
 2023-10-04T20:25:52.850Z,38.8306656,-122.8153305,1.73,1.37,md,26,49,0.008341,0.02,nc,nc73945466,2023-10-05T00:36:14.568Z,"8 km NW of The Geysers, CA",earthquake,0.17,0.33,0.18,26,automatic,nc,nc
 2023-10-04T20:23:23.570Z,58.1896666666667,-154.795833333333,8.41,1.02,ml,10,239,,0.17,av,av92073876,2023-10-05T03:05:04.230Z,"72 km NNW of Karluk, Alaska",earthquake,0.66,0.65,0.490292786719287,10,reviewed,av,av
+2023-10-04T20:18:43.649Z,36.35933333,-97.36683333,5.96,1.11,ml,43,56,0.06838658022,0.26,ok,ok2023tlvb,2023-10-05T14:45:06.973Z,"10 km NW of Perry, Oklahoma",earthquake,,0.6,0.28,6,reviewed,ok,ok
 2023-10-04T20:14:15.240Z,34.75783333,-98.46383333,0,1.76,ml,13,116,0.2618486164,0.39,ok,ok2023tlux,2023-10-05T14:04:08.597Z,"4 km NE of Medicine Park, Oklahoma",quarry blast,,1.1,0.34,3,reviewed,ok,ok
 2023-10-04T20:13:25.260Z,33.112,-115.5986667,5.7,1.45,ml,13,63,0.018,0.19,ci,ci40577144,2023-10-04T20:16:58.782Z,"8 km W of Calipatria, CA",earthquake,0.47,0.76,0.243,28,automatic,ci,ci
 2023-10-04T19:34:54.560Z,38.8116684,-122.8205032,3.01,0.76,md,14,58,0.007332,0.02,nc,nc73945456,2023-10-04T20:01:13.903Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.76,0.14,16,automatic,nc,nc
