@@ -271,4 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-05T19:25:27.368Z,58.5668,-153.9739,79.1,2.5,ml,,,,0.26,ak,ak023cs2v4sg,2023-10-05T19:27:20.164Z,"84 km NW of Aleneva, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-05T19:15:40.790Z,38.8069992,-122.754837,0.43,1.06,md,12,107,0.02114,0.02,nc,nc73945921,2023-10-05T19:54:14.006Z,"3 km WSW of Cobb, CA",earthquake,0.26,0.72,0.21,13,automatic,nc,nc
 2023-10-05T19:09:33.870Z,33.2241667,-117.178,-0.33,1.05,ml,29,102,0.06588,0.19,ci,ci40577760,2023-10-05T20:02:27.848Z,"7 km ENE of Vista, CA",quarry blast,0.44,31.61,0.163,11,reviewed,ci,ci
-2023-10-05T18:53:16.510Z,38.8375015,-122.8073349,2.09,0.72,md,12,63,0.0133,0.01,nc,nc73945911,2023-10-05T19:32:14.889Z,"8 km WNW of Cobb, CA",earthquake,0.34,0.8,0.25,13,automatic,nc,nc
