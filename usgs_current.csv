@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-06T13:19:34.470Z,19.3896675109863,-155.272827148438,1.32000005245209,1.75,ml,19,46,,0.140000001,hv,hv73596352,2023-10-06T13:25:04.860Z,"7 km SW of Volcano, Hawaii",earthquake,0.2,0.159999996,0.2,8,automatic,hv,hv
 2023-10-06T13:13:21.560Z,19.3851661682129,-155.274826049805,1.52999997138977,2.06999993,md,12,137,,0.109999999,hv,hv73596332,2023-10-06T13:16:24.270Z,"7 km SW of Volcano, Hawaii",earthquake,0.29,0.330000013,0.519999981,10,automatic,hv,hv
 2023-10-06T13:12:30.314Z,58.3435,-133.3569,1.4,2.8,ml,,,,1.17,ak,ak023ctmr3jl,2023-10-06T13:15:43.291Z,"Southeastern Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-10-06T13:06:57.663Z,30.0893,140.1026,10,4.9,mb,55,135,3.027,0.51,us,us6000ldfp,2023-10-06T13:33:52.040Z,"Izu Islands, Japan region",earthquake,10.01,1.896,0.052,117,reviewed,us,us
 2023-10-06T12:50:29.352Z,61.2255,-149.2708,30.7,1.7,ml,,,,0.82,ak,ak023ctmdt3r,2023-10-06T12:52:43.348Z,"19 km SE of Eagle River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-06T12:46:32.140Z,38.8163338,-122.7981644,2.26,0.78,md,13,54,0.008648,0.01,nc,nc73946251,2023-10-06T13:06:12.742Z,"6 km NW of The Geysers, CA",earthquake,0.3,0.52,0.5,13,automatic,nc,nc
 2023-10-06T12:39:05.116Z,37.1921,-117.3051,0,2,ml,27,84.66,0.202,0.3331,nn,nn00866895,2023-10-06T12:41:59.687Z,"57 km S of Goldfield, Nevada",earthquake,,5,0.74,21,automatic,nn,nn
