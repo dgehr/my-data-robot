@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-07T22:49:51.629Z,64.5891,-148.8283,15.3,1.3,ml,,,,0.16,ak,ak023cvfvbne,2023-10-07T22:51:15.819Z,"13 km ENE of Nenana, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-07T22:42:21.060Z,34.3738333,-116.4593333,6.98,1.53,ml,27,67,0.1039,0.22,ci,ci40578776,2023-10-07T22:46:03.703Z,"29 km N of Yucca Valley, CA",earthquake,0.37,1.15,0.229,28,automatic,ci,ci
 2023-10-07T22:05:11.570Z,33.5013333,-116.5795,19.23,0.74,ml,13,137,0.02009,0.22,ci,ci40578768,2023-10-07T22:08:48.171Z,"11 km SE of Anza, CA",earthquake,0.66,0.96,0.186,15,automatic,ci,ci
 2023-10-07T22:03:14.130Z,35.9934998,-120.935997,10.03,1.18,md,7,115,0.04914,0.03,nc,nc73946826,2023-10-07T22:20:14.294Z,"4 km SW of San Ardo, CA",earthquake,0.5,0.83,0.34,3,automatic,nc,nc
@@ -205,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-06T23:36:27.120Z,30.9835,143.2436,10,4.3,mb,17,252,3.605,0.64,us,us6000ldmr,2023-10-07T00:22:15.040Z,"Izu Islands, Japan region",earthquake,12.64,1.986,0.201,7,reviewed,us,us
 2023-10-06T23:23:05.680Z,35.6021667,-117.4473333,10.37,1.62,ml,24,50,0.06569,0.12,ci,ci40578328,2023-10-07T00:09:32.600Z,"19 km SSW of Searles Valley, CA",earthquake,0.2,0.35,0.132,15,reviewed,ci,ci
 2023-10-06T23:00:13.430Z,59.3596666666667,-153.433833333333,-0.44,0.5,ml,4,200,,0.12,av,av91117593,2023-10-07T00:40:41.250Z,"Southern Alaska",earthquake,0.43,0.24,0.150705066001599,4,reviewed,av,av
-2023-10-06T22:51:46.694Z,61.5418,-151.436,69.9,2.1,ml,,,,0.4,ak,ak023ctsce7h,2023-10-06T23:38:19.040Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
