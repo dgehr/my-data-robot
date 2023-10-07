@@ -83,7 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T04:02:44.473Z,63.0842,-151.5059,8.8,1.3,ml,,,,0.24,ak,ak023cv4vfjz,2023-10-07T04:04:21.151Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-07T03:59:46.850Z,33.4928333,-116.5838333,9.65,0.56,ml,21,63,0.01546,0.13,ci,ci40578464,2023-10-07T04:03:16.648Z,"11 km SE of Anza, CA",earthquake,0.25,0.46,0.108,17,automatic,ci,ci
 2023-10-07T03:57:23.260Z,33.042,-116.3973333,7.93,2.32,ml,64,42,0.07088,0.23,ci,ci40578456,2023-10-07T04:08:07.790Z,"20 km ESE of Julian, CA",earthquake,0.22,1.32,0.183,25,automatic,ci,ci
-2023-10-07T03:48:46.490Z,62.3508,-150.9111,68.5,3.9,ml,,,,0.65,ak,ak023cv4juze,2023-10-07T10:31:11.306Z,"17 km SSW of Petersville, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-10-07T03:48:46.490Z,62.3508,-150.9111,68.5,3.9,ml,,,,0.65,ak,ak023cv4juze,2023-10-07T10:31:11.306Z,"Central Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-10-07T03:23:16.710Z,34.273,-117.5511667,7.12,2.22,ml,79,21,0.09524,0.2,ci,ci40578448,2023-10-07T03:35:39.240Z,"5 km WNW of Lytle Creek, CA",earthquake,0.17,0.84,0.173,26,automatic,ci,ci
 2023-10-07T03:14:56.486Z,61.2437,-152.4966,9.3,1.2,ml,,,,0.15,ak,ak023cv4clgw,2023-10-07T03:16:28.075Z,"75 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-07T03:13:35.440Z,19.3913326263428,-155.279327392578,1.12000000476837,1.9,ml,13,54,,0.150000006,hv,hv73597857,2023-10-07T03:19:07.540Z,"7 km SW of Volcano, Hawaii",earthquake,0.34,0.270000011,0.11,4,automatic,hv,hv
@@ -274,4 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-06T11:56:57.671Z,64.9888,-147.3654,0.1,1.4,ml,,,,0.58,ak,ak023ctltpzy,2023-10-06T11:59:20.171Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-06T11:56:34.270Z,38.8233337,-122.8488312,2.25,0.76,md,7,171,0.007559,0.01,nc,nc73946221,2023-10-06T14:19:11.158Z,"10 km WNW of The Geysers, CA",earthquake,0.78,1.2,0.26,8,automatic,nc,nc
 2023-10-06T11:51:43.270Z,19.3678340911865,-155.290832519531,1.16999995708466,1.79999995,md,18,108,,0.219999999,hv,hv73596132,2023-10-06T11:54:48.600Z,"10 km SW of Volcano, Hawaii",earthquake,0.29,0.479999989,1.09000003,12,automatic,hv,hv
-2023-10-06T11:39:16.618Z,47.2404,154.0002,10,4.8,mb,56,132,6.336,0.72,us,us6000ldf7,2023-10-06T12:02:56.040Z,"Kuril Islands",earthquake,3.86,1.904,0.066,71,reviewed,us,us
