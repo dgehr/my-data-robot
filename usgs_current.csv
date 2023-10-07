@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-07T07:12:50.177Z,34.5492,61.884,10.55,6.2,mww,110,43,5.908,0.6,us,us6000ldpm,2023-10-07T07:30:56.259Z,"26 km NNE of Zindah Jān, Afghanistan",earthquake,8.6,3.315,0.052,36,reviewed,us,us
+2023-10-07T07:10:34.212Z,34.5765,61.9105,10,4.7,mb,58,101,5.886,1.01,us,us6000ldpl,2023-10-07T07:24:42.040Z,"29 km NNE of Zindah Jān, Afghanistan",earthquake,10.15,1.896,0.07,61,reviewed,us,us
 2023-10-07T06:49:41.577Z,34.5414,61.9547,11.438,5.5,mb,94,54,5.85,0.5,us,us6000ldph,2023-10-07T07:12:52.882Z,"29 km NE of Zindah Jān, Afghanistan",earthquake,8.97,4.093,0.036,266,reviewed,us,us
 2023-10-07T06:41:02.830Z,34.6259,61.926,10,6.2,mww,125,43,5.872,0.64,us,us6000ldpg,2023-10-07T07:12:10.599Z,"western Afghanistan",earthquake,8.59,1.848,0.057,30,reviewed,us,us
 2023-10-07T06:35:33.510Z,38.8364983,-122.7858353,1.83,0.77,md,12,75,0.004005,0.01,nc,nc73946596,2023-10-07T07:01:11.086Z,"6 km WNW of Cobb, CA",earthquake,0.3,0.5,0.23,14,automatic,nc,nc
@@ -264,6 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-06T07:40:29.500Z,38.8414993,-122.8376694,1.83,0.66,md,10,89,0.003369,0.02,nc,nc73946146,2023-10-06T09:38:13.694Z,"10 km NW of The Geysers, CA",earthquake,0.36,0.71,0.35,11,automatic,nc,nc
 2023-10-06T07:32:43.700Z,44.6575,-114.369166666667,8.84,2.14,ml,24,70,0.5615,0.14,mb,mb90029188,2023-10-06T15:33:04.990Z,"southern Idaho",earthquake,0.3,0.61,0.264237675022564,25,reviewed,mb,mb
 2023-10-06T07:32:35.205Z,39.9604,-120.0188,5.7,0.1,ml,3,155.85,0.15,0.0123,nn,nn00866927,2023-10-07T02:05:00.902Z,"Northern California",earthquake,,26.2,0.19,2,reviewed,nn,nn
-2023-10-06T07:26:33.683Z,39.376,-119.7811,2.3,0.3,ml,8,130.52,0.019,0.131,nn,nn00866902,2023-10-07T02:04:38.218Z,"13 km WNW of Virginia City, Nevada",earthquake,,1.1,0.24,2,reviewed,nn,nn
-2023-10-06T07:25:34.250Z,36.217,-89.442,8.12,2.01,md,25,52,0.02188,0.06,nm,nm60554391,2023-10-06T13:06:25.660Z,"6 km SE of Ridgely, Tennessee",earthquake,0.23,0.51,0.093388974651214,20,reviewed,nm,nm
-2023-10-06T07:24:03.430Z,19.3575000762939,-155.296005249023,1.88999998569489,1.77,ml,17,114,,0.129999995,hv,hv73595572,2023-10-06T07:29:34.990Z,"11 km SW of Volcano, Hawaii",earthquake,0.26,0.449999988,3.44,4,automatic,hv,hv
