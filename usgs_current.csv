@@ -44,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-08T16:05:24.197Z,61.155,-148.3894,0,0.8,ml,,,,0.48,ak,ak023cwzkfx4,2023-10-08T17:17:17.570Z,"44 km SE of Knik River, Alaska",ice quake,,0,,,reviewed,ak,ak
 2023-10-08T16:02:30.329Z,59.8241,-153.2886,110.2,1.8,ml,,,,0.44,ak,ak023cwzjy7s,2023-10-08T16:05:12.657Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-08T16:00:38.880Z,19.1986675262451,-155.369171142578,32.4000015258789,1.84000003,md,38,178,,0.119999997,hv,hv73600197,2023-10-08T16:03:51.000Z,"11 km E of Pāhala, Hawaii",earthquake,0.66,0.569999993,0.159999996,5,automatic,hv,hv
-2023-10-08T16:00:16.970Z,39.3958321,-123.2724991,6.69,2.03,md,23,76,0.08869,0.05,nc,nc73947276,2023-10-08T17:00:14.516Z,"7 km ESE of Willits, CA",earthquake,0.2,0.8,0.14,16,automatic,nc,nc
+2023-10-08T16:00:16.970Z,39.3958321,-123.2724991,6.69,2.03,md,23,76,0.08869,0.05,nc,nc73947276,2023-10-08T20:38:13.711Z,"7 km ESE of Willits, CA",earthquake,0.2,0.8,0.14,16,automatic,nc,nc
 2023-10-08T15:56:13.030Z,38.8303337,-122.8148346,1.84,0.76,md,15,57,0.007863,0.01,nc,nc73947266,2023-10-08T17:00:14.656Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.62,0.17,15,automatic,nc,nc
 2023-10-08T15:50:37.480Z,38.8313332,-122.8176651,1.6,0.76,md,13,80,0.009899,0.01,nc,nc73947261,2023-10-08T15:52:14.583Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.78,0.16,15,automatic,nc,nc
 2023-10-08T15:47:21.130Z,38.8260002,-122.8121643,2.16,0.54,md,8,121,0.003071,0.01,nc,nc73947256,2023-10-08T15:48:53.740Z,"7 km NW of The Geysers, CA",earthquake,0.56,1.04,0.29,8,automatic,nc,nc
