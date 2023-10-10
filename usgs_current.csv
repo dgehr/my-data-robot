@@ -211,6 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T03:27:56.990Z,39.2381667,-110.4598333,13.74,1.23,ml,13,90,0.1365,0.12,uu,uu60551997,2023-10-09T13:10:03.720Z,"34 km S of East Carbon City, Utah",earthquake,0.6,1.46,0.281,3,reviewed,uu,uu
 2023-10-09T03:24:46.475Z,61.5707,-141.0052,0,1.4,ml,,,,0.43,ak,ak023cyfheua,2023-10-09T03:26:57.939Z,"103 km E of McCarthy, Alaska",earthquake,,13.9,,,automatic,ak,ak
 2023-10-09T03:02:41.120Z,32.682,-100.698,6.3827,3.1,ml(texnet),29,47,0,0.3,tx,tx2023ttqk,2023-10-09T15:24:16.669Z,"7 km NE of Hermleigh, Texas",earthquake,1.069561538,1.83227485,0.1,17,reviewed,tx,tx
-2023-10-09T02:55:47.660Z,37.5686667,-118.7936667,5.85,0.19,md,7,308,0.03532,0.02,nc,nc73948001,2023-10-09T12:06:13.176Z,"10 km W of Toms Place, CA",earthquake,3.91,3.24,0.242,8,reviewed,nc,nc
-2023-10-09T02:54:47.640Z,19.1708335876465,-155.486999511719,30.3799991607666,1.83000004,md,36,156,,0.109999999,hv,hv73601052,2023-10-09T02:58:15.140Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.47,0.779999971,0.660000026,7,automatic,hv,hv
-2023-10-09T02:51:35.248Z,40.2508,142.3743,52.464,4.6,mb,14,189,1.134,0.18,us,us6000le5d,2023-10-09T03:34:18.040Z,"near the east coast of Honshu, Japan",earthquake,6.3,11.14,0.273,4,reviewed,us,us
