@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-10T17:32:30.910Z,38.8261681,-122.8101654,1.45,0.25,md,8,120,0.00277,0.01,nc,nc73948621,2023-10-10T17:34:03.730Z,"7 km NW of The Geysers, CA",earthquake,0.46,0.85,0.12,8,automatic,nc,nc
+2023-10-10T17:17:29.372Z,28.9468,-98.1052,3.512,2.8,mb_lg,16,63,0.276,0.7,us,us6000lekm,2023-10-10T17:28:56.040Z,"9 km WSW of Falls City, Texas",earthquake,1.79,5.326,0.073,50,reviewed,us,us
 2023-10-10T17:08:23.800Z,18.0396666666667,-66.8045,15.82,1.65,md,6,139,0.09587,0.11,pr,pr71428128,2023-10-10T17:28:17.010Z,"2 km NNW of Guayanilla, Puerto Rico",earthquake,0.66,1.93,0.291472076159682,5,reviewed,pr,pr
 2023-10-10T17:03:39.690Z,19.1651668548584,-155.509002685547,34.8800010681152,1.96000004,md,27,160,,0.150000006,hv,hv73603527,2023-10-10T17:06:56.350Z,"5 km SW of Pāhala, Hawaii",earthquake,0.75,1.07000005,0.839999974,3,automatic,hv,hv
 2023-10-10T17:02:11.920Z,39.4556656,-122.5148315,11.09,2.83,md,7,213,0.3691,0.37,nc,nc73948606,2023-10-10T17:23:14.864Z,"14 km S of Stony Gorge Reservoir, CA",earthquake,3.56,6.41,0.07,4,automatic,nc,nc
@@ -205,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T17:47:01.420Z,45.7458333333333,-110.569666666667,16,1.49,ml,11,100,0.1867,0.24,mb,mb90029363,2023-10-10T15:10:13.680Z,"9 km N of Livingston, Montana",earthquake,0.67,1.12,0.380570884157401,9,reviewed,mb,mb
 2023-10-09T17:45:22.179Z,62.522,-148.3154,41,2,ml,,,,0.61,ak,ak023cynxxh5,2023-10-10T05:05:34.961Z,"81 km N of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-09T17:37:03.870Z,19.219165802002,-155.363494873047,32.1800003051758,1.82000005,md,35,177,,0.0900000036,hv,hv73602057,2023-10-09T17:40:14.780Z,"12 km E of Pāhala, Hawaii",earthquake,0.61,0.479999989,0.769999981,3,automatic,hv,hv
-2023-10-09T17:32:28.480Z,33.048,-114.9621667,-0.2,1.53,ml,10,82,0.07675,0.3,ci,ci40579848,2023-10-09T23:06:58.375Z,"44 km NNW of Los Algodones, B.C., MX",quarry blast,0.89,31.61,0.119,9,reviewed,ci,ci
-2023-10-09T17:30:08.900Z,36.221,-117.4013333,0.17,2.18,ml,20,107,0.343,0.17,ci,ci40579840,2023-10-10T13:39:42.597Z,"48 km SSW of Stovepipe Wells, CA",earthquake,0.32,1.05,0.137,34,reviewed,ci,ci
