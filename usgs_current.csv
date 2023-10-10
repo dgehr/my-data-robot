@@ -43,6 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T12:53:20.170Z,38.6814995,-122.4941635,9.64,1.24,md,8,131,0.0891,0.06,nc,nc73948546,2023-10-10T17:15:12.821Z,"12 km NNW of Angwin, CA",earthquake,0.63,2.26,0.23,9,automatic,nc,nc
 2023-10-10T12:50:58.656Z,62.6378,-151.2817,85.1,2.1,ml,,,,0.54,ak,ak023d08j9c9,2023-10-10T12:52:59.999Z,"30 km WNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-10T12:29:04.610Z,37.7633324,-122.5674973,11.34,1.6,md,29,97,0.07996,0.05,nc,nc73948536,2023-10-10T16:46:11.671Z,"7 km WNW of San Francisco Zoo, CA",earthquake,0.23,0.65,0.17,18,automatic,nc,nc
+2023-10-10T12:28:14.337Z,38.1527,-117.8802,10.8,1.1,ml,8,107.41,0.095,0.1217,nn,nn00867090,2023-10-10T17:53:15.825Z,"Nevada",earthquake,,2,0.36,5,reviewed,nn,nn
 2023-10-10T12:27:41.581Z,15.9832,146.9409,36.505,4.9,mb,70,76,1.333,0.89,us,us6000leh9,2023-10-10T12:54:47.040Z,"153 km ENE of Saipan, Northern Mariana Islands",earthquake,9.76,4.03,0.066,73,reviewed,us,us
 2023-10-10T12:19:13.470Z,46.1631666666667,-111.771166666667,5.02,0.55,ml,5,174,0.3337,0.1,mb,mb90029393,2023-10-10T15:47:47.410Z,"11 km WSW of Radersburg, Montana",earthquake,0.61,8.51,0.0370408317773613,3,reviewed,mb,mb
 2023-10-10T12:09:11.371Z,32.3685,-104.4707,9.424,2.7,ml,32,90,0.512,0.35,us,us6000leh6,2023-10-10T13:31:40.040Z,"23 km NNW of Whites City, New Mexico",earthquake,1.91,8.389,0.059,72,reviewed,us,us
@@ -159,6 +160,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T00:13:15.347Z,-23.6067,-63.6564,538.053,5.6,mww,95,25,4.209,0.8,us,us6000leee,2023-10-10T04:15:33.089Z,"63 km SE of Embarcación, Argentina",earthquake,10.66,6.116,0.055,32,reviewed,us,us
 2023-10-10T00:09:15.212Z,31.662,-104.483,6.0287,1.9,ml(texnet),12,71,0,0.2,tx,tx2023tvgf,2023-10-10T10:43:39.762Z,"57 km S of Whites City, New Mexico",earthquake,1.056033408,0.6515030464,0.2,9,reviewed,tx,tx
 2023-10-10T00:01:00.660Z,39.6126,-119.9661,6.2,0.6,ml,5,157.56,0.007,0.0783,nn,nn00867075,2023-10-10T13:41:41.510Z,"7 km S of Cold Springs, Nevada",earthquake,,1.5,0.19,4,reviewed,nn,nn
+2023-10-09T23:37:51.199Z,31.635,-103.983,6.7743,2.3,ml(texnet),14,66,0,0.1,tx,tx2023tvfd,2023-10-10T17:53:19.356Z,"37 km WSW of Mentone, Texas",earthquake,2.670891752,2.019968799,0.1,6,reviewed,tx,tx
 2023-10-09T23:37:47.910Z,31.4893333,-115.6335,10.58,2.49,ml,10,102,0.1615,0.16,ci,ci40580288,2023-10-10T00:29:49.830Z,"92 km ESE of Maneadero, B.C., MX",earthquake,0.28,0.84,0.125,29,reviewed,ci,ci
 2023-10-09T23:03:17.965Z,61.265,-149.9639,39.4,1,ml,,,,0.25,ak,ak023cyr9i0r,2023-10-09T23:34:17.072Z,"Southern Alaska",earthquake,,1.2,,,reviewed,ak,ak
 2023-10-09T22:53:38.750Z,19.3638324737549,-155.292007446289,1.37999999523163,1.9,ml,26,111,,0.140000001,hv,hv73602372,2023-10-09T22:59:06.750Z,"10 km SW of Volcano, Hawaii",earthquake,0.23,0.360000014,0.34,9,automatic,hv,hv
@@ -207,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T18:09:42.490Z,34.2565,-117.1635,2.49,0.94,ml,8,212,0.0638,0.19,ci,ci37577884,2023-10-09T23:23:23.442Z,"2 km ENE of Lake Arrowhead, CA",earthquake,1.29,0.45,0.134,4,reviewed,ci,ci
 2023-10-09T18:09:36.850Z,34.2603333,-117.1611667,3.5,0.97,ml,11,176,0.06709,0.12,ci,ci40579896,2023-10-09T23:18:22.398Z,"3 km ENE of Lake Arrowhead, CA",earthquake,0.4,0.52,0.174,8,reviewed,ci,ci
 2023-10-09T18:02:29.560Z,33.208,-115.9481667,8.09,1.92,ml,54,52,0.04242,0.17,ci,ci40579888,2023-10-09T23:15:58.460Z,"10 km S of Salton City, CA",earthquake,0.15,0.4,0.144,24,reviewed,ci,ci
-2023-10-09T17:56:19.710Z,38.8346672,-122.8054962,1.91,0.66,md,11,53,0.01181,0.01,nc,nc73948206,2023-10-09T18:13:14.161Z,"7 km W of Cobb, CA",earthquake,0.37,0.88,0.22,13,automatic,nc,nc
