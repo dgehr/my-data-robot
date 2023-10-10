@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T21:05:54.258Z,61.7284,-149.7832,34.4,1.4,ml,,,,0.66,ak,ak023cyq35q9,2023-10-09T21:08:01.141Z,"11 km N of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-09T21:05:37.820Z,38.6879997,-122.4981689,7.77,1.82,md,20,57,0.09547,0.08,nc,nc73948251,2023-10-09T23:00:13.029Z,"12 km SE of Middletown, CA",earthquake,0.32,1.18,0.11,20,automatic,nc,nc
 2023-10-09T20:57:50.244Z,63.3464,-151.4244,4.5,1.4,ml,,,,0.23,ak,ak023cypsv1s,2023-10-09T20:59:41.758Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-09T20:48:22.640Z,36.502,-98.70183333,7.57,1.38,ml,18,125,0.01349735136,0.12,ok,ok2023tuzo,2023-10-10T13:26:20.458Z,"18 km ESE of Waynoka, Oklahoma",earthquake,,0.3,0.18,4,reviewed,ok,ok
