@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-12T19:15:02.524Z,35.85202026,-97.82313538,3.335451841,2.46,ml,18,41.43865967,0.1684610546,0.4729689953,ok,ok2023uaiz,2023-10-12T19:22:39.170Z,"9 km E of Kingfisher, Oklahoma",earthquake,2.436082953,2.441556182,0.19,17,automatic,ok,ok
+2023-10-12T19:15:02.259Z,35.84933333,-97.82216667,5.5,2.22,ml,88,37,0.1709664506,0.24,ok,ok2023uaiz,2023-10-12T19:37:59.024Z,"9 km E of Kingfisher, Oklahoma",earthquake,,0.6,0.24,44,reviewed,ok,ok
 2023-10-12T19:13:21.842Z,61.068,-151.062,59.7,1.3,ml,,,,0.48,ak,ak023d3njz88,2023-10-12T19:15:37.506Z,"Southern Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-10-12T19:02:56.919Z,60.7343,-152.0678,82.2,2,ml,,,,0.35,ak,ak023d3nhp0m,2023-10-12T19:04:36.527Z,"42 km W of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-12T18:59:03.890Z,19.203332901001,-155.507171630859,35.7400016784668,2.03999996,md,41,74,,0.0900000036,hv,hv73606762,2023-10-12T19:02:20.120Z,"3 km W of Pāhala, Hawaii",earthquake,0.58,0.790000021,0.959999979,19,automatic,hv,hv
@@ -186,5 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T19:53:51.925Z,58.1506,-155.5811,16.8,1,ml,,,,0.44,ak,ak023d2099p4,2023-10-11T19:55:52.435Z,"87 km SE of King Salmon, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-10-11T19:47:02.240Z,19.1474990844727,-155.476501464844,31.4300003051758,2.27,ml,41,169,,0.119999997,hv,hv73605582,2023-10-11T19:52:32.940Z,"6 km S of Pāhala, Hawaii",earthquake,0.58,0.709999979,3.66,9,automatic,hv,hv
 2023-10-11T19:41:06.689Z,61.7033,-149.4286,39.4,1.3,ml,,,,0.34,ak,ak023d206lm4,2023-10-11T19:42:25.244Z,"8 km N of Tanaina, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-11T19:34:30.150Z,38.8349991,-122.8171692,1.4,0.66,md,11,62,0.01284,0.01,nc,nc73948966,2023-10-11T22:25:10.946Z,"8 km W of Cobb, CA",earthquake,0.3,0.92,0.18,11,automatic,nc,nc
-2023-10-11T19:32:08.580Z,33.8506667,-117.495,-0.44,1.89,ml,57,31,0.0532,0.23,ci,ci40581344,2023-10-11T20:19:25.590Z,"4 km SE of Home Gardens, CA",quarry blast,0.3,31.61,0.176,58,reviewed,ci,ci
