@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-14T21:12:34.480Z,38.9640007,-123.4339981,7.52,0.92,md,5,164,0.1158,0,nc,nc73947255,2023-10-14T21:14:12.209Z,"8 km SW of Boonville, CA",earthquake,0.88,1.33,0.02,2,automatic,nc,nc
+2023-10-14T21:20:30.420Z,38.7970009,-122.7501678,-0.59,2.41,md,59,47,0.0173,0.09,nc,nc73947260,2023-10-14T21:22:07.763Z,"2 km NNE of The Geysers, CA",earthquake,0.14,0.35,0.16,67,automatic,nc,nc
+2023-10-14T21:12:34.480Z,38.9640007,-123.4339981,7.52,0.92,md,5,164,0.1158,0,nc,nc73947255,2023-10-14T21:22:11.668Z,"8 km SW of Boonville, CA",earthquake,0.88,1.33,0.02,2,automatic,nc,nc
 2023-10-14T21:09:25.610Z,33.313,-116.7535,13.32,0.91,ml,23,98,0.07694,0.16,ci,ci40582640,2023-10-14T21:13:05.245Z,"8 km N of Lake Henshaw, CA",earthquake,0.3,0.64,0.148,20,automatic,ci,ci
 2023-10-14T20:54:57.970Z,39.159668,-123.5889969,3.27,1.97,md,13,73,0.05448,0.07,nc,nc73947250,2023-10-14T21:04:11.570Z,"16 km ESE of Navarro Head, CA",earthquake,0.28,1.24,0.13,9,automatic,nc,nc
 2023-10-14T20:54:41.651Z,61.3481,-151.9295,88.2,1.2,ml,,,,0.64,ak,ak023d6zgxph,2023-10-14T20:56:30.413Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
