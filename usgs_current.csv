@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-14T02:00:22.397Z,58.286,-154.8286,97,0.8,ml,,,,0.22,ak,ak023d6ofinz,2023-10-14T02:01:49.094Z,"82 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-10-14T01:53:11.680Z,34.1458333,-117.4086667,1.57,1,ml,26,65,0.04918,0.21,ci,ci40582368,2023-10-14T01:56:46.390Z,"6 km NW of Rialto, CA",earthquake,0.31,0.51,0.141,25,automatic,ci,ci
 2023-10-14T01:24:01.720Z,34.1453333,-117.4103333,2.11,1.48,ml,42,41,0.07023,0.19,ci,ci40582360,2023-10-14T01:27:35.880Z,"6 km NW of Rialto, CA",earthquake,0.19,0.4,0.125,25,automatic,ci,ci
 2023-10-14T00:40:16.200Z,19.3406658172607,-155.11833190918,-0.639999985694885,1.91,ml,39,132,,0.25,hv,hv73607862,2023-10-14T01:30:21.470Z,"13 km S of Fern Forest, Hawaii",earthquake,0.46,0.180000007,0.42,6,automatic,hv,hv
 2023-10-14T00:29:02.360Z,37.5699997,-119.555336,14.76,2.18,md,12,131,0.2121,0.04,nc,nc73946975,2023-10-14T00:35:17.439Z,"19 km S of Yosemite Valley, CA",earthquake,0.39,0.97,0.2,4,automatic,nc,nc
@@ -216,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-13T02:25:29.375Z,-56.3306,-26.6799,45.451,5.3,mb,48,75,5.965,0.78,us,us6000lf9b,2023-10-13T02:41:50.040Z,"South Sandwich Islands region",earthquake,10.25,6.111,0.077,58,reviewed,us,us
 2023-10-13T02:19:08.890Z,47.8055,-122.83566666666667,23.23,1.16,ml,11,103,0.03217,0.22,uw,uw61965696,2023-10-13T17:03:33.090Z,"3 km ESE of Quilcene, Washington",earthquake,0.78,0.85,0.13842284379500303,7,reviewed,uw,uw
 2023-10-13T02:09:21.350Z,17.9495,-66.9498333333333,12.88,2.7,md,9,209,0.07182,0.29,pr,pr71428368,2023-10-13T02:43:15.100Z,"5 km WSW of Guánica, Puerto Rico",earthquake,1.33,0.68,0.0323636149464317,4,reviewed,pr,pr
-2023-10-13T01:47:05.420Z,58.1843333333333,-155.2875,1.33,-0.06,ml,10,94,,0.06,av,av92082211,2023-10-13T18:45:08.710Z,"Alaska Peninsula",earthquake,0.19,0.76,0.424837067728196,10,reviewed,av,av
