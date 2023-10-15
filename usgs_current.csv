@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-15T05:48:21.627Z,63.5823,-150.9874,5.5,2.4,ml,,,,0.59,ak,ak023d8e1gaa,2023-10-15T05:50:08.700Z,"36 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-15T05:21:31.088Z,63.5033,-148.8345,2.8,0.8,ml,,,,0.84,ak,ak023d8dvook,2023-10-15T05:23:36.213Z,"13 km NNE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-10-15T05:10:44.307Z,36.8794,69.2727,115.125,4.1,mb,22,99,2.341,0.68,us,us6000lfnt,2023-10-15T05:49:05.040Z,"Hindu Kush region, Afghanistan",earthquake,9.44,12.678,0.213,6,reviewed,us,us
 2023-10-15T05:10:34.840Z,17.9413333333333,-66.958,5.93,2.48,md,17,216,0.05612,0.23,pr,pr71428638,2023-10-15T05:20:02.360Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.65,0.4,0.0376081199923826,4,reviewed,pr,pr
 2023-10-15T05:05:01.865Z,61.1806,-154.1361,0.7,1.8,ml,,,,0.62,ak,ak023d8ds6yy,2023-10-15T05:07:47.983Z,"72 km ESE of Lime Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-15T04:39:57.610Z,38.8380013,-122.7708359,0.87,1.1,md,12,146,0.006322,0.02,nc,nc73947375,2023-10-15T04:56:14.518Z,"4 km WNW of Cobb, CA",earthquake,0.28,0.45,0.14,13,automatic,nc,nc
