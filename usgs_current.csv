@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-15T15:43:58.166Z,58.7536,-153.6571,17.7,2.1,ml,,,,0.16,ak,ak023d8jysko,2023-10-15T15:45:04.302Z,"88 km NNW of Aleneva, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-10-15T15:24:42.029Z,-8.122,118.1147,10,4.7,mb,27,89,0.777,0.44,us,us6000lfr1,2023-10-15T15:50:21.040Z,"59 km NW of Dompu, Indonesia",earthquake,5.18,1.919,0.133,17,reviewed,us,us
 2023-10-15T15:17:01.280Z,17.8703333333333,-66.896,11.98,1.9,md,5,249,0.1054,0.04,pr,pr71428683,2023-10-15T15:43:15.010Z,"11 km S of Guánica, Puerto Rico",earthquake,0.68,1.05,0.0899710792848549,2,reviewed,pr,pr
 2023-10-15T15:16:51.014Z,61.0649,-150.9553,15.7,1.6,ml,,,,0.63,ak,ak023d8jszot,2023-10-15T15:19:28.332Z,"9 km E of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-15T15:10:45.330Z,33.3003333,-116.734,17.3,1.1,ml,36,100,0.06745,0.22,ci,ci40582752,2023-10-15T15:14:16.023Z,"7 km NNE of Lake Henshaw, CA",earthquake,0.35,0.68,0.138,26,automatic,ci,ci
@@ -97,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T22:52:05.730Z,38.8193321,-122.8065033,2.74,0.84,md,5,176,0.004923,0,nc,nc73947305,2023-10-15T00:01:12.746Z,"6 km NW of The Geysers, CA",earthquake,1.01,1.8,0.13,6,automatic,nc,nc
 2023-10-14T22:32:25.990Z,-19.5927,-68.7844,127.594,4.4,mb,29,80,0.394,0.77,us,us6000lfm7,2023-10-14T22:47:38.040Z,"38 km SSW of Colchane, Chile",earthquake,6.18,2.169,0.106,26,reviewed,us,us
 2023-10-14T22:14:04.180Z,37.5705,-119.5563333,12.66,1.63,md,21,122,0.2119,0.09,nc,nc73947285,2023-10-15T03:12:10.796Z,"19 km S of Yosemite Valley, CA",earthquake,0.37,1.12,0.25,21,reviewed,nc,nc
-2023-10-14T22:11:05.472Z,14.8581,-87.5784,10,4.8,mb,39,60,0.85,0.95,us,us6000lflx,2023-10-15T04:41:36.132Z,"11 km NNE of La Libertad, Honduras",earthquake,2.9,1.927,0.039,199,reviewed,us,us
+2023-10-14T22:11:05.472Z,14.8581,-87.5784,10,4.8,mb,39,60,0.85,0.95,us,us6000lflx,2023-10-15T15:49:38.073Z,"11 km NNE of La Libertad, Honduras",earthquake,2.9,1.927,0.039,199,reviewed,us,us
 2023-10-14T22:10:04.625Z,-58.981,-25.6245,45.753,5.1,mb,51,69,15.725,0.67,us,us6000lfly,2023-10-14T22:29:02.040Z,"South Sandwich Islands region",earthquake,11.92,7.309,0.063,82,reviewed,us,us
 2023-10-14T21:57:21.445Z,56.9552,-156.91,102.5,2.1,ml,,,,0.91,ak,ak023d702z6b,2023-10-14T21:59:38.703Z,"68 km SSE of Ugashik, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-10-14T21:53:08.515Z,31.8328,79.4271,10,4.4,mb,29,160,5.496,0.75,us,us6000lflt,2023-10-14T22:11:39.040Z,"western Xizang-India border region",earthquake,9.86,1.947,0.149,13,reviewed,us,us
@@ -150,4 +151,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T16:01:10.787Z,36.7444,-116.2895,6.8,-0.1,ml,14,115.25,0.015,0.0606,nn,nn00867302,2023-10-14T20:49:39.335Z,"45 km ESE of Beatty, Nevada",earthquake,,1.6,0.82,5,reviewed,nn,nn
 2023-10-14T16:00:11.590Z,19.1853332519531,-155.500335693359,34.3800010681152,2.28999996,md,38,144,,0.109999999,hv,hv73608497,2023-10-14T16:03:35.770Z,"Island of Hawaii, Hawaii",earthquake,0.57,0.790000021,1.12,19,automatic,hv,hv
 2023-10-14T15:56:02.770Z,34.9866667,-118.579,1.91,1.17,ml,21,39,0.1049,0.19,ci,ci40582536,2023-10-14T15:59:29.049Z,"20 km SW of Tehachapi, CA",earthquake,0.27,0.66,0.21,19,automatic,ci,ci
-2023-10-14T15:47:56.460Z,19.1944999694824,-155.493499755859,34.560001373291,2.03999996,md,37,145,,0.109999999,hv,hv73608492,2023-10-14T15:51:17.680Z,"Hawaii region, Hawaii",earthquake,0.55,0.790000021,0.25999999,9,automatic,hv,hv
