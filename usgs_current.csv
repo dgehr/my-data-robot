@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-16T06:18:37.560Z,19.1429996490479,-155.370498657227,29.8299999237061,1.71000004,md,34,194,,0.0900000036,hv,hv73610137,2023-10-16T06:21:57.690Z,"Hawaii region, Hawaii",earthquake,0.7,0.930000007,1.75999999,4,automatic,hv,hv
+2023-10-16T06:15:37.588Z,61.2684,-146.8441,3.4,1.4,ml,,,,0.42,ak,ak023da1z6zi,2023-10-16T06:17:28.338Z,"30 km WNW of Valdez, Alaska",earthquake,,11.2,,,automatic,ak,ak
 2023-10-16T05:50:18.070Z,32.3938333,-115.236,6.92,1.7,ml,17,60,0.06373,0.27,ci,ci40582968,2023-10-16T05:53:56.682Z,"6 km NW of Delta, B.C., MX",earthquake,0.55,1.41,0.326,17,automatic,ci,ci
 2023-10-16T05:36:15.772Z,61.7955,-149.9398,35.7,1.4,ml,,,,0.64,ak,ak023da1i7qh,2023-10-16T05:38:13.013Z,"7 km NE of Willow, Alaska",earthquake,,3,,,automatic,ak,ak
 2023-10-16T05:27:54.408Z,63.544,-150.7143,3.1,1.5,ml,,,,0.5,ak,ak023da1gdal,2023-10-16T05:31:09.518Z,"50 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -151,5 +153,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-15T07:05:35.226Z,63.1102,-150.4127,96.6,1.4,ml,,,,0.2,ak,ak023d8ez4ov,2023-10-15T07:08:03.859Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-15T06:49:38.632Z,10.86,-62.1783,112.889,4.5,mb,80,126,3.423,0.54,us,us6000lfp6,2023-10-16T02:14:48.720Z,"33 km NNE of Güiria, Venezuela",earthquake,10.7,12.786,0.056,93,reviewed,us,us
 2023-10-15T06:32:11.260Z,19.1718330383301,-155.614166259766,2.96000003814697,1.92999995,md,28,79,,0.270000011,hv,hv73609242,2023-10-15T06:35:28.850Z,"11 km N of Wai‘ōhinu, Hawaii",earthquake,0.47,2.19000006,0.959999979,8,automatic,hv,hv
-2023-10-15T06:19:33.070Z,64.8433,-151.5263,9.4,1.4,ml,,,,0.71,ak,ak023d8egozd,2023-10-15T06:22:00.017Z,"44 km SE of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-15T06:09:56.190Z,34.5615,62.2278,10,4.3,mb,50,94,5.624,0.82,us,us6000lfp2,2023-10-15T07:47:32.040Z,"23 km N of Herāt, Afghanistan",earthquake,10,1.901,0.091,34,reviewed,us,us
