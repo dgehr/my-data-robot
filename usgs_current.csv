@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-17T22:30:11.600Z,38.8376656,-122.8113327,0.32,0.85,md,8,107,0.01428,0.02,nc,nc73948395,2023-10-17T22:40:10.319Z,"8 km WNW of Cobb, CA",earthquake,0.3,1.27,0.17,10,automatic,nc,nc
+2023-10-17T22:30:11.600Z,38.8376656,-122.8113327,0.32,0.85,md,8,107,0.01428,0.02,nc,nc73948395,2023-10-17T22:50:14.378Z,"8 km WNW of Cobb, CA",earthquake,0.3,1.27,0.17,10,automatic,nc,nc
 2023-10-17T21:58:27.730Z,19.1828327178955,-155.500839233398,32.8300018310547,2.0999999,md,34,134,,0.100000001,hv,hv73612437,2023-10-17T22:01:37.160Z,"3 km SW of Pāhala, Hawaii",earthquake,0.52,0.810000002,0.50999999,13,automatic,hv,hv
 2023-10-17T21:52:16.026Z,-29.1866,-176.1218,10,5.2,mb,53,57,1.574,1.07,us,us6000lg8g,2023-10-17T22:15:20.040Z,"Kermadec Islands region",earthquake,10.76,1.806,0.051,126,reviewed,us,us
+2023-10-17T21:45:31.025Z,-24.2046,-66.996,193.742,4.2,ml,24,92,1.653,0.62,us,us6000lg8c,2023-10-17T22:48:25.040Z,"Salta, Argentina",earthquake,9.92,9.861,,,reviewed,us,guc
 2023-10-17T21:19:18.232Z,63.1283,-148.6774,77.6,1.5,ml,,,,0.35,ak,ak023dbyguxb,2023-10-17T21:21:06.584Z,"32 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-17T21:19:13.890Z,38.793499,-122.758667,2.22,1.08,md,15,76,0.007162,0.02,nc,nc73948390,2023-10-17T21:30:10.904Z,"2 km N of The Geysers, CA",earthquake,0.28,0.68,0.05,17,automatic,nc,nc
 2023-10-17T21:16:34.585Z,61.4071,-150.7898,15.9,1.4,ml,,,,0.36,ak,ak023dbyg91e,2023-10-17T21:18:36.915Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -37,7 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T17:34:20.590Z,38.7611656,-122.7269974,1.49,0.79,md,8,168,0.001724,0.02,nc,nc73948320,2023-10-17T18:11:18.702Z,"3 km SE of The Geysers, CA",earthquake,1.75,1.22,0.11,7,automatic,nc,nc
 2023-10-17T17:34:20.088Z,32.742,-100.681,7.8989,2.4,ml(texnet),24,79,0.1,0.2,tx,tx2023ujje,2023-10-17T18:34:56.796Z,"western Texas",earthquake,0.5890603504,0.9040469382,0.2,21,reviewed,tx,tx
 2023-10-17T17:20:31.720Z,19.3838329315186,-155.279998779297,0.230000004172325,1.79999995,md,13,92,,0.109999999,hv,hv73612142,2023-10-17T17:23:48.200Z,"8 km SW of Volcano, Hawaii",earthquake,0.19,0.180000007,0.939999998,12,automatic,hv,hv
-2023-10-17T17:16:12.160Z,19.3846664428711,-155.277160644531,0.449999988079071,1.77,ml,6,154,,0.109999999,hv,hv73612132,2023-10-17T17:21:42.840Z,"Hawaii region, Hawaii",earthquake,0.32,0.560000002,2.04,11,automatic,hv,hv
+2023-10-17T17:16:12.160Z,19.3846664428711,-155.277160644531,0.449999988079071,1.77,ml,6,154,,0.109999999,hv,hv73612132,2023-10-17T17:21:42.840Z,"Island of Hawaii, Hawaii",earthquake,0.32,0.560000002,2.04,11,automatic,hv,hv
 2023-10-17T17:03:52.201Z,63.8324,-146.6087,3.5,1.5,ml,,,,0.45,ak,ak023dbvzro4,2023-10-17T17:05:47.341Z,"48 km WSW of Delta Junction, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-17T16:56:21.670Z,19.3855,-155.279333333333,1.91,2.65,ml,23,65,,0.1,hv,hv73612117,2023-10-17T17:58:50.500Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.14,0.200569255104784,12,reviewed,hv,hv
 2023-10-17T16:50:36.080Z,38.6856651,-122.501503,6.33,1.7,md,11,88,0.09306,0.07,nc,nc73948310,2023-10-17T19:34:15.212Z,"12 km SE of Middletown, CA",earthquake,0.34,1.65,0.13,13,automatic,nc,nc
@@ -118,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T08:57:28.560Z,18.366,-66.8331666666667,18.83,2.39,md,11,156,0.1531,0.1,pr,pr71428953,2023-10-17T09:35:33.800Z,"Puerto Rico",earthquake,0.49,0.41,0.0681376913646363,9,reviewed,pr,pr
 2023-10-17T08:56:15.720Z,37.5643333,-118.8383333,7.97,0.59,md,16,272,0.02668,0.02,nc,nc73948175,2023-10-17T19:06:11.053Z,"14 km W of Toms Place, CA",earthquake,1.61,1.97,0.167,16,reviewed,nc,nc
 2023-10-17T08:37:43.890Z,18.5731666666667,-66.735,23.1,2.74,md,9,255,0.2171,0.2,pr,pr71428948,2023-10-17T08:55:46.380Z,"11 km N of Arecibo, Puerto Rico",earthquake,1.06,2.38,0.110146256125702,8,reviewed,pr,pr
-2023-10-17T08:29:48.590Z,33.0058333,-117.9086667,0.75,2.98,ml,47,132,0.4699,0.29,ci,ci40583304,2023-10-17T20:23:36.784Z,"46 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.4,1.1,0.141,101,reviewed,ci,ci
+2023-10-17T08:29:48.590Z,33.0058333,-117.9086667,0.75,2.98,ml,47,132,0.4699,0.29,ci,ci40583304,2023-10-17T22:50:31.278Z,"46 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.4,1.1,0.141,101,reviewed,ci,ci
 2023-10-17T08:22:11.744Z,27.6888,56.0903,10,5.3,mb,96,45,2.734,0.87,us,us6000lg3n,2023-10-17T12:04:36.656Z,"58 km NNW of Bandar Abbas, Iran",earthquake,7.75,1.846,0.047,152,reviewed,us,us
 2023-10-17T08:15:49.360Z,17.9105,-66.8406666666667,12.5,2.27,md,11,228,0.07397,0.17,pr,pr71428943,2023-10-17T08:28:10.390Z,"9 km SE of Maria Antonia, Puerto Rico",earthquake,0.93,0.61,0.064872921941201,7,reviewed,pr,pr
 2023-10-17T08:14:40.370Z,17.9323333333333,-66.8358333333333,11.24,2.47,md,9,218,0.05928,0.08,pr,pr71428933,2023-10-17T08:22:59.210Z,"7 km SSW of Indios, Puerto Rico",earthquake,0.58,0.47,0.0487741867652258,7,reviewed,pr,pr
