@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-17T16:50:36.080Z,38.6856651,-122.501503,6.33,1.7,md,11,88,0.09306,0.07,nc,nc73948310,2023-10-17T16:52:09.860Z,"12 km SE of Middletown, CA",earthquake,0.34,1.65,0.13,13,automatic,nc,nc
+2023-10-17T17:03:52.201Z,63.8324,-146.6087,3.5,1.5,ml,,,,0.45,ak,ak023dbvzro4,2023-10-17T17:05:47.341Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-10-17T16:56:21.790Z,19.3906669616699,-155.273666381836,1.35000002384186,2.34,ml,27,46,,0.239999995,hv,hv73612117,2023-10-17T17:01:52.700Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.170000002,1.96,13,automatic,hv,hv
+2023-10-17T16:50:36.080Z,38.6856651,-122.501503,6.33,1.7,md,11,88,0.09306,0.07,nc,nc73948310,2023-10-17T17:01:11.065Z,"12 km SE of Middletown, CA",earthquake,0.34,1.65,0.13,13,automatic,nc,nc
 2023-10-17T16:32:48.630Z,63.6824,-145.5144,14.4,1.2,ml,,,,0.61,ak,ak023dbvkjjz,2023-10-17T16:34:59.389Z,"25 km SW of Deltana, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-17T16:32:40.972Z,55.5278,-158.9893,33.7,2.3,ml,,,,0.32,ak,ak023dbvkiyp,2023-10-17T16:34:56.176Z,"43 km SSE of Perryville, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-17T16:26:49.875Z,27.7439,56.0776,10,5.4,mww,117,45,2.789,0.79,us,us6000lg6k,2023-10-17T16:55:02.829Z,"64 km NNW of Bandar Abbas, Iran",earthquake,7.28,1.829,0.089,12,reviewed,us,us
+2023-10-17T16:26:49.875Z,27.7439,56.0776,10,5.4,mww,117,45,2.789,0.79,us,us6000lg6k,2023-10-17T17:03:31.918Z,"64 km NNW of Bandar Abbas, Iran",earthquake,7.28,1.829,0.089,12,reviewed,us,us
 2023-10-17T16:17:20.660Z,17.8843333333333,-66.8695,12.5,2.16,md,5,243,0.0907,0.08,pr,pr71429003,2023-10-17T16:33:06.920Z,"Puerto Rico region",earthquake,0.9,0.76,0.115749450152661,5,reviewed,pr,pr
 2023-10-17T15:59:34.300Z,17.9855,-66.8303333333333,12.62,2.73,md,19,167,0.04514,0.18,pr,pr71428993,2023-10-17T16:32:06.860Z,"Puerto Rico",earthquake,0.44,0.37,0.301822692774511,9,reviewed,pr,pr
 2023-10-17T15:56:11.250Z,38.8479996,-122.8154984,1.31,0.71,md,12,77,0.009045,0.01,nc,nc73948295,2023-10-17T16:31:11.889Z,"8 km WNW of Cobb, CA",earthquake,0.27,0.84,0.24,12,automatic,nc,nc
