@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-18T09:34:30.750Z,38.8359985,-122.8111649,2.05,0.28,md,11,76,0.01261,0.01,nc,nc73948575,2023-10-18T09:36:05.491Z,"8 km WNW of Cobb, CA",earthquake,0.31,0.77,0.17,11,automatic,nc,nc
+2023-10-18T09:33:24.646Z,36.7624,-116.2544,9.6,-0.1,ml,8,95.27,0.048,0.0305,nn,nn00867557,2023-10-18T09:35:42.567Z,"California-Nevada border region",earthquake,,1.2,0.22,4,automatic,nn,nn
+2023-10-18T09:22:17.132Z,31.672,-104.374,4.9233,3.8,ml(texnet),12,69,0,0.2,tx,tx2023ukol,2023-10-18T09:34:22.344Z,"55 km S of Whites City, New Mexico",earthquake,1.588244835,1.743400654,0.1,8,reviewed,tx,tx
 2023-10-18T08:52:40.810Z,37.6193352,-122.3743362,11.39,1.79,md,30,43,0.051,0.07,nc,nc73948555,2023-10-18T09:17:18.893Z,"3 km NNE of Millbrae, CA",earthquake,0.2,0.42,0.21,21,automatic,nc,nc
 2023-10-18T08:37:44.574Z,57.939,-154.7972,59.4,1.6,ml,,,,0.18,ak,ak023ddedhh5,2023-10-18T08:39:49.200Z,"Kodiak Island region, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-10-18T08:30:52.447Z,62.9243,-151.0584,1.1,2,ml,,,,0.79,ak,ak023ddebzdg,2023-10-18T08:39:43.475Z,"49 km NNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -200,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T09:54:26.880Z,36.2351666666667,-82.1496666666667,8.18,2.24,md,13,84,0.3037,0.13,se,se60501203,2023-10-17T23:21:42.327Z,"8 km WNW of Roan Mountain, Tennessee",earthquake,0.49,1.42,0.0560163709641541,12,reviewed,se,se
 2023-10-17T09:42:16.110Z,19.3423328399658,-155.302673339844,0.129999995231628,1.87,md,22,111,,0.180000007,hv,hv73611532,2023-10-17T09:45:23.150Z,"Island of Hawaii, Hawaii",earthquake,0.33,0.579999983,0.670000017,11,automatic,hv,hv
 2023-10-17T09:38:26.974Z,65.1259,-146.5127,15.2,1.2,ml,,,,0.76,ak,ak023dbrfqy1,2023-10-17T09:39:51.722Z,"32 km NNE of Pleasant Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-17T09:29:28.339Z,-7.4036,119.9459,422.678,4.3,mb,42,43,2.572,0.55,us,us6000lg3u,2023-10-18T08:17:25.040Z,"121 km N of Labuan Bajo, Indonesia",earthquake,11.19,8.723,0.109,24,reviewed,us,us
