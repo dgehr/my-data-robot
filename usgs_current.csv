@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-19T10:56:41.285Z,39.624,-119.6308,6.7,1.8,ml,14,73.36,0.196,0.1908,nn,nn00867603,2023-10-19T10:59:22.050Z,"7 km ESE of Spanish Springs, Nevada",earthquake,,0.9,0.31,9,automatic,nn,nn
 2023-10-19T10:29:51.906Z,58.1817,-155.2833,0,2.4,ml,,,,0.62,ak,ak023df31zwe,2023-10-19T10:33:15.063Z,"84 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-19T10:25:12.900Z,33.3626667,-117.5443333,16.75,0.74,ml,15,172,0.1521,0.25,ci,ci40584152,2023-10-19T10:28:45.953Z,"10 km SE of San Clemente, CA",earthquake,0.78,1.55,0.084,6,automatic,ci,ci
 2023-10-19T10:25:01.601Z,63.0763,-151.4647,1.9,1.5,ml,,,,0.71,ak,ak023df3119s,2023-10-19T10:27:30.438Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -155,4 +156,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-18T11:24:12.549Z,-19.9469,-174.8907,81.057,4.5,mb,32,115,1.251,0.74,us,us6000lgcd,2023-10-19T06:04:18.040Z,"58 km WSW of Pangai, Tonga",earthquake,11.64,6.136,0.109,25,reviewed,us,us
 2023-10-18T11:17:47.261Z,63.7901,-148.9257,25,1.5,ml,,,,0.57,ak,ak023ddg1i6e,2023-10-18T11:19:44.864Z,"6 km N of Denali Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-18T11:13:39.100Z,38.840332,-122.7724991,0.69,1.31,md,24,76,0.003796,0.04,nc,nc73948620,2023-10-18T14:57:15.878Z,"5 km WNW of Cobb, CA",earthquake,0.26,0.41,0.13,24,automatic,nc,nc
-2023-10-18T11:01:26.100Z,38.8434982,-122.8820038,2.33,0.97,md,11,106,0.005388,0.02,nc,nc73948615,2023-10-18T11:38:13.774Z,"12 km ENE of Cloverdale, CA",earthquake,0.41,0.56,0.2,11,automatic,nc,nc
