@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-19T09:49:35.102Z,39.6216,-119.6446,9.4,1.5,ml,12,72.82,0.186,0.2337,nn,nn00867602,2023-10-19T09:52:00.110Z,"6 km ESE of Spanish Springs, Nevada",earthquake,,1.2,0.46,5,automatic,nn,nn
 2023-10-19T09:21:33.396Z,31.6464,-104.3201,5,2.6,ml,30,72,0.156,0.39,us,us6000lgjh,2023-10-19T09:41:44.040Z,"58 km S of Whites City, New Mexico",earthquake,1.37,1.714,0.054,45,reviewed,us,us
 2023-10-19T09:18:42.581Z,60.0858,-153.1929,131.2,2.1,ml,,,,0.64,ak,ak023df2e6te,2023-10-19T09:21:01.814Z,"60 km ENE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-19T09:04:41.627Z,39.6268,-119.652,10.3,1.1,ml,10,90.35,0.185,0.2736,nn,nn00867600,2023-10-19T09:06:49.341Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,1.2,0.34,3,automatic,nn,nn
