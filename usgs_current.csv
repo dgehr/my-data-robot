@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-20T13:47:55.140Z,47.5984992980957,-121.73716735839844,10.5900001525879,2.7287598848342896,ml,55,58,0.1015,0.170000002,uw,uw61958152,2023-10-20T13:52:38.530Z,"Washington",earthquake,0.33,1.09000003,0.3566381335258484,123,reviewed,uw,uw
 2023-10-20T13:06:35.200Z,38.8051682,-122.8051682,1.64,0.75,md,7,108,0.008199,0.01,nc,nc73949315,2023-10-20T13:39:12.160Z,"5 km NW of The Geysers, CA",earthquake,0.43,0.93,0.26,9,automatic,nc,nc
 2023-10-20T12:54:40.680Z,38.7758331,-122.7174988,0.83,0.97,md,7,97,0.01534,0.02,nc,nc73949305,2023-10-20T13:18:13.022Z,"2 km W of Anderson Springs, CA",earthquake,0.84,1.53,0.22,7,automatic,nc,nc
 2023-10-20T12:54:25.039Z,35.265,-98.026,11.91,1.92,ml,87,39,0.1538698055,0.37,ok,ok2023uomk,2023-10-20T13:13:18.419Z,"Oklahoma",earthquake,,1.4,0.24,40,reviewed,ok,ok
 2023-10-20T12:49:03.611Z,39.2731,-119.6653,0,1.1,ml,9,60.44,0.191,0.3093,nn,nn00867654,2023-10-20T12:51:37.880Z,"4 km SSW of Virginia City, Nevada",earthquake,,10.8,0.44,6,automatic,nn,nn
-2023-10-20T12:47:40.000Z,40.2843323,-123.6393356,24.88,1.81,md,8,140,0.09026,0.11,nc,nc73949300,2023-10-20T13:07:11.953Z,"24 km NE of Redway, CA",earthquake,1.8,1.31,0.1,5,automatic,nc,nc
-2023-10-20T12:40:35.250Z,38.8026657,-122.7833328,0.76,0.72,md,7,131,0.01013,0.02,nc,nc73949295,2023-10-20T13:17:12.154Z,"4 km NW of The Geysers, CA",earthquake,0.37,0.72,0.34,9,automatic,nc,nc
+2023-10-20T12:47:40.000Z,40.2843323,-123.6393356,24.88,1.81,md,8,140,0.09026,0.11,nc,nc73949300,2023-10-20T13:47:11.210Z,"24 km NE of Redway, CA",earthquake,1.8,1.31,0.1,5,automatic,nc,nc
+2023-10-20T12:40:35.250Z,38.8026657,-122.7833328,0.76,0.72,md,7,131,0.01013,0.02,nc,nc73949295,2023-10-20T13:47:16.210Z,"4 km NW of The Geysers, CA",earthquake,0.37,0.72,0.34,9,automatic,nc,nc
 2023-10-20T12:28:48.251Z,59.8073,-152.5196,80.9,2.2,ml,,,,0.35,ak,ak023dgrrzq7,2023-10-20T12:49:30.040Z,"38 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-20T12:01:17.233Z,64.8333,-149.1704,20.3,1.2,ml,,,,0.21,ak,ak023dgrm4zv,2023-10-20T12:02:46.701Z,"25 km N of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-20T11:49:40.990Z,38.7960014,-122.7246704,1.87,1.08,md,12,100,0.01585,0.02,nc,nc73949285,2023-10-20T12:49:11.856Z,"3 km S of Cobb, CA",earthquake,0.27,0.91,0.1,11,automatic,nc,nc
