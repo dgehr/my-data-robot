@@ -217,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-19T20:50:39.200Z,33.6948333,-117.1461667,-0.54,0.86,ml,10,94,0.04209,0.1,ci,ci40584392,2023-10-19T21:13:55.434Z,"4 km S of Menifee, CA",quarry blast,0.3,31.61,0.199,6,reviewed,ci,ci
 2023-10-19T20:42:25.170Z,18.6301666666667,-64.8761666666667,75.33,3.16,md,8,291,0.2866,0.2,pr,pr71429268,2023-10-19T21:23:04.040Z,"32 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,3.47,1.39,0.17621005971648,7,reviewed,pr,pr
 2023-10-19T20:39:30.843Z,59.5591,-153.1319,94.6,1.8,ml,,,,0.37,ak,ak023df92flo,2023-10-19T20:41:58.904Z,"60 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-10-19T20:34:48.050Z,52.058,-176.127333333333,-1.8,0.29,ml,6,91,,0.3,av,av91118743,2023-10-20T00:39:54.760Z,"40 km ENE of Adak, Alaska",earthquake,0.82,1.64,0.265472738176265,6,reviewed,av,av
