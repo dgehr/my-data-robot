@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-23T16:44:38.430Z,19.3705005645752,-155.278503417969,2.1800000667572,1.98,ml,26,115,,0.189999998,hv,hv73620697,2023-10-23T16:50:09.050Z,"9 km SSW of Volcano, Hawaii",earthquake,0.31,0.330000013,0.41,12,automatic,hv,hv
 2023-10-23T16:24:03.970Z,40.4049988,-124.677002,25.25,2.43,md,15,266,0.2685,0.08,nc,nc73950395,2023-10-23T16:32:11.554Z,"34 km WNW of Petrolia, CA",earthquake,2.31,2.2,0.15,7,automatic,nc,nc
 2023-10-23T16:16:50.480Z,33.2551667,-116.3115,7.94,1.25,ml,31,56,0.274,0.22,ci,ci40585352,2023-10-23T16:20:25.383Z,"6 km E of Borrego Springs, CA",earthquake,0.3,5.72,0.102,27,automatic,ci,ci
 2023-10-23T16:13:02.276Z,60.7661,-151.306,235.4,1.4,ml,,,,0.52,ak,ak023dlsogc3,2023-10-23T16:15:21.568Z,"8 km N of Nikiski, Alaska",earthquake,,2.4,,,automatic,ak,ak
