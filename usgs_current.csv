@@ -1,14 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-23T13:17:05.122Z,62.3184,-151.1691,76.9,1.5,ml,,,,0.34,ak,ak023dlqx0ls,2023-10-23T13:18:54.706Z,"28 km SW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-23T13:15:18.100Z,38.8310013,-122.81633,1.94,1.7,md,32,47,0.009031,0.02,nc,nc73950345,2023-10-23T13:18:41.143Z,"8 km NW of The Geysers, CA",earthquake,0.16,0.29,0.19,33,automatic,nc,nc
+2023-10-23T13:17:05.122Z,62.3184,-151.1691,76.9,1.5,ml,,,,0.34,ak,ak023dlqx0ls,2023-10-23T13:24:27.287Z,"28 km SW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-10-23T13:15:18.100Z,38.8310013,-122.81633,1.94,1.7,md,32,47,0.009031,0.02,nc,nc73950345,2023-10-23T13:26:10.305Z,"8 km NW of The Geysers, CA",earthquake,0.16,0.29,0.19,33,automatic,nc,nc
 2023-10-23T13:14:58.855Z,39.6288,-119.6493,8.1,1.5,ml,12,74.66,0.188,0.2822,nn,nn00867773,2023-10-23T13:17:04.260Z,"Nevada",earthquake,,1.5,0.24,7,automatic,nn,nn
-2023-10-23T13:12:34.570Z,37.3774986,-118.6090012,3,1.58,md,10,201,0.2153,0.02,nc,nc73950340,2023-10-23T13:14:10.376Z,"4 km SSW of Round Valley, CA",earthquake,0.94,7.47,0.19,7,automatic,nc,nc
+2023-10-23T13:12:34.570Z,37.3774986,-118.6090012,3,1.58,md,10,201,0.2153,0.02,nc,nc73950340,2023-10-23T13:22:11.395Z,"4 km SSW of Round Valley, CA",earthquake,0.94,7.47,0.19,7,automatic,nc,nc
 2023-10-23T13:00:37.269Z,65.1182,-151.5766,6.5,1.3,ml,,,,0.49,ak,ak023dlqtfwu,2023-10-23T13:02:45.404Z,"24 km ESE of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-23T12:58:01.252Z,17.8992,-66.7753,17.307,4.5,mwr,48,63,0.256,0.72,us,us6000lhh6,2023-10-23T13:18:29.101Z,"11 km SSE of Indios, Puerto Rico",earthquake,5.53,5.098,0.042,55,reviewed,us,us
+2023-10-23T12:58:01.252Z,17.8992,-66.7753,17.307,4.5,mwr,48,63,0.256,0.72,us,us6000lhh6,2023-10-23T13:28:54.776Z,"11 km SSE of Indios, Puerto Rico",earthquake,5.53,5.098,0.042,55,reviewed,us,us
 2023-10-23T12:54:45.200Z,19.3120002746582,-155.365005493164,1.30999994277954,2.03999996,md,17,143,,0.209999993,hv,hv73620222,2023-10-23T12:57:56.170Z,"Island of Hawaii, Hawaii",earthquake,0.41,0.409999996,2.03999996,4,automatic,hv,hv
 2023-10-23T12:48:00.799Z,61.2717,-151.5937,68,1.2,ml,,,,0.65,ak,ak023dlqi306,2023-10-23T12:50:07.790Z,"31 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-23T12:46:03.055Z,60.1316,-141.2608,19.1,1.6,ml,,,,0.99,ak,ak023dlqhslt,2023-10-23T12:48:18.660Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-23T12:29:08.900Z,38.8208351,-122.7628326,2.1,0.75,md,10,124,0.0111,0.01,nc,nc73950335,2023-10-23T12:39:11.051Z,"3 km W of Cobb, CA",earthquake,0.37,0.71,0.09,11,automatic,nc,nc
+2023-10-23T12:29:08.900Z,38.8208351,-122.7628326,2.1,0.75,md,10,124,0.0111,0.01,nc,nc73950335,2023-10-23T13:22:11.283Z,"3 km W of Cobb, CA",earthquake,0.37,0.71,0.09,11,automatic,nc,nc
 2023-10-23T12:08:32.370Z,19.3400001525879,-155.300170898438,2.94000005722046,1.86,ml,34,114,,0.230000004,hv,hv73620117,2023-10-23T12:14:04.040Z,"13 km SSW of Volcano, Hawaii",earthquake,0.38,0.730000019,0.17,13,automatic,hv,hv
 2023-10-23T08:17:17.438Z,-32.1734,-70.1631,107.144,4.3,mb,37,66,0.701,0.96,us,us6000lhfy,2023-10-23T12:31:46.040Z,"82 km NE of San Felipe, Chile",earthquake,4.52,4.446,0.161,11,reviewed,us,us
 2023-10-23T08:03:12.169Z,36.418,-96.86883333,7.96,1.89,ml,84,56,0.03779258381,0.27,ok,ok2023utpi,2023-10-23T12:49:05.833Z,"10 km NNW of Pawnee, Oklahoma",earthquake,,0.3,0.25,33,reviewed,ok,ok
