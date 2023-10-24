@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-24T07:50:36.430Z,38.8258324,-122.8068314,1.93,0.76,md,8,108,0.003513,0.01,nc,nc73950645,2023-10-24T07:52:11.796Z,"7 km NW of The Geysers, CA",earthquake,0.4,1.29,0.43,10,automatic,nc,nc
+2023-10-24T07:45:19.650Z,33.9021667,-116.887,6.74,0.54,ml,9,242,0.1012,0.14,ci,ci40585920,2023-10-24T07:48:58.769Z,"3 km SSW of Banning, CA",earthquake,0.8,31.61,0.192,9,automatic,ci,ci
+2023-10-24T07:28:24.360Z,18.0221666666667,-66.8176666666667,5.87,2.44,md,9,173,0.2022,0.09,pr,pr71429723,2023-10-24T07:46:25.150Z,"2 km W of Guayanilla, Puerto Rico",earthquake,0.34,0.39,0.225974848751477,5,reviewed,pr,pr
 2023-10-24T07:20:28.705Z,60.8806,-152.3448,16.7,0.9,ml,,,,0.42,ak,ak023dnawgfq,2023-10-24T07:22:29.932Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-24T07:05:53.340Z,32.7471667,-115.415,7.71,1.42,ml,16,121,0.06388,0.27,ci,ci40585912,2023-10-24T07:13:20.114Z,"8 km SSW of Holtville, CA",earthquake,0.67,1.57,0.14,13,automatic,ci,ci
 2023-10-24T06:50:42.900Z,38.8428345,-122.8310013,1.28,0.23,md,12,118,0.005499,0.02,nc,nc73950630,2023-10-24T07:08:10.385Z,"10 km WNW of Cobb, CA",earthquake,0.3,0.65,0.14,12,automatic,nc,nc
@@ -9,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T06:33:00.110Z,33.7168333,-116.7771667,14.95,0.67,ml,18,119,0.05447,0.15,ci,ci40585896,2023-10-24T06:36:38.078Z,"6 km WSW of Idyllwild, CA",earthquake,0.42,0.43,0.104,13,automatic,ci,ci
 2023-10-24T06:31:36.040Z,38.7885017,-122.7279968,0.25,0.95,md,6,122,0.008612,0.04,nc,nc73950605,2023-10-24T06:42:11.236Z,"3 km ENE of The Geysers, CA",earthquake,0.51,3.68,0.23,7,automatic,nc,nc
 2023-10-24T06:29:13.830Z,38.7885017,-122.7298355,0.36,2.12,md,30,88,0.007525,0.05,nc,nc73950600,2023-10-24T07:33:11.510Z,"3 km ENE of The Geysers, CA",earthquake,0.16,0.28,0.15,29,automatic,nc,nc
-2023-10-24T06:29:09.240Z,38.7878342,-122.7279968,0.8,2.32,md,13,87,0.008222,0.03,nc,nc73950595,2023-10-24T06:36:11.201Z,"3 km ENE of The Geysers, CA",earthquake,0.24,0.67,0.07,14,automatic,nc,nc
+2023-10-24T06:29:09.240Z,38.7878342,-122.7279968,0.8,2.32,md,13,87,0.008222,0.03,nc,nc73950595,2023-10-24T07:48:10.594Z,"3 km ENE of The Geysers, CA",earthquake,0.24,0.67,0.07,14,automatic,nc,nc
 2023-10-24T06:13:12.080Z,38.6808319,-122.4980011,8.25,1.42,md,8,133,0.0912,0.06,nc,nc73950590,2023-10-24T07:18:11.428Z,"12 km NNW of Angwin, CA",earthquake,0.68,2.89,0.34,10,automatic,nc,nc
 2023-10-24T05:58:20.696Z,50.5879,-130.1581,10,4.5,mwr,48,146,1.291,0.64,us,us7000l5x9,2023-10-24T06:25:17.663Z,"Vancouver Island, Canada region",earthquake,6.31,1.943,0.045,47,reviewed,us,us
 2023-10-24T05:43:53.233Z,38.3752,-118.9,14.1,1.4,ml,10,110.52,0.334,0.1954,nn,nn00867816,2023-10-24T05:46:26.047Z,"29 km SW of Hawthorne, Nevada",earthquake,,0.8,0.27,4,automatic,nn,nn
