@@ -214,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-25T05:11:34.620Z,34.4596667,-116.5028333,0.1,1.19,ml,28,69,0.1951,0.14,ci,ci40586856,2023-10-25T14:55:02.038Z,"38 km NE of Big Bear City, CA",earthquake,0.18,31.61,0.132,16,reviewed,ci,ci
 2023-10-25T05:06:32.921Z,64.6998,-148.0645,27.3,0.9,ml,,,,0.34,ak,ak023dox5y0s,2023-10-25T05:09:25.864Z,"16 km S of Ester, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-25T04:57:24.151Z,66.6774,-143.7741,1.4,2.5,ml,,,,0.77,ak,ak023dowvfrp,2023-10-25T22:52:20.212Z,"3 km NW of Chalkyitsik, Alaska",earthquake,,1.9,,,reviewed,ak,ak
-2023-10-25T04:46:09.420Z,38.8266678,-122.8138351,2.1,0.93,md,16,77,0.004394,0.02,nc,nc73951050,2023-10-25T06:15:11.841Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.62,0.2,18,automatic,nc,nc
