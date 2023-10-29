@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T23:48:24.170Z,38.7988319,-122.7990036,1.06,1.44,md,31,38,0.00957,0.03,nc,nc73953035,2023-10-29T02:53:11.309Z,"4 km WNW of The Geysers, CA",earthquake,0.17,0.28,0.22,30,automatic,nc,nc
 2023-10-28T23:43:19.799Z,61.02,-151.7723,72,0.7,ml,,,,0.2,ak,ak023du6povf,2023-10-28T23:49:15.892Z,"34 km W of Tyonek, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-10-28T23:33:27.200Z,18.0336666666667,-66.7951666666667,15.74,2.46,md,4,173,0.09901,0.07,pr,pr71430178,2023-10-28T23:41:34.770Z,"Puerto Rico region",earthquake,3.25,1.82,0.118778152144987,4,reviewed,pr,pr
-2023-10-28T23:29:16.290Z,33.8993333,-117.8038333,9.57,1,ml,28,70,0.06415,0.18,ci,ci40590464,2023-10-29T19:53:51.728Z,"2 km NE of Yorba Linda, CA",earthquake,0.32,0.53,0.169,12,reviewed,ci,ci
