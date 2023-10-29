@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-29T15:38:05.960Z,35.7051659,-121.0486679,8.2,0.94,md,7,91,,0.01,nc,nc73953315,2023-10-29T15:39:40.579Z,"14 km ENE of San Simeon, CA",earthquake,0.41,1.35,0.12,4,automatic,nc,nc
 2023-10-29T15:21:08.166Z,64.4207,-146.7771,6.2,1.3,ml,,,,0.31,ak,ak023dvpctvk,2023-10-29T15:22:47.398Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-29T15:20:09.980Z,38.8043327,-122.8450012,9.17,0.75,md,9,228,0.01317,0.06,nc,nc73953310,2023-10-29T15:30:10.778Z,"8 km WNW of The Geysers, CA",earthquake,3.02,7.18,0.05,11,automatic,nc,nc
 2023-10-29T14:58:03.978Z,38.1957,-117.7408,10.8,1.3,ml,8,124.49,0.122,0.138,nn,nn00868120,2023-10-29T15:00:43.975Z,"Nevada",earthquake,,0.8,0.3,6,automatic,nn,nn
