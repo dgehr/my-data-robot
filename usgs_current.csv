@@ -199,5 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T12:12:30.070Z,19.379,-155.283166666667,1.15,0.29,md,15,86,,0.06,hv,hv73629242,2023-10-28T12:24:29.150Z,"Island of Hawaii, Hawaii",earthquake,0.24,0.17,0.0695637222394429,2,reviewed,hv,hv
 2023-10-28T12:02:15.995Z,61.1527,-148.3289,2.3,1.4,ml,,,,0.68,ak,ak023dtzx4kf,2023-10-28T12:03:41.075Z,"46 km NNE of Whittier, Alaska",earthquake,,3.8,,,automatic,ak,ak
 2023-10-28T11:48:50.806Z,44.6901,-75.5057,15.838,1.8,ml,14,169,0.662,0.31,us,us7000l7b8,2023-10-29T05:16:11.040Z,"New York",earthquake,2.08,8.49,0.148,6,reviewed,us,us
-2023-10-28T11:40:31.265Z,60.0317,-152.5094,102.3,2.2,ml,,,,0.23,ak,ak023dtzjvcm,2023-10-28T12:12:34.040Z,"44 km WNW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-10-28T11:39:33.823Z,41.9491,-119.6405,11.6,1.5,ml,4,208.24,0.495,0.103,nn,nn00868094,2023-10-28T17:16:07.445Z,"43 km ENE of Fort Bidwell, California",earthquake,,7.7,0.54,4,reviewed,nn,nn
