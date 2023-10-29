@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-29T02:29:28.060Z,19.4033336639404,-155.468505859375,6.82000017166138,1.80999994,md,38,42,,0.140000001,hv,hv73630362,2023-10-29T02:32:38.910Z,"22 km N of Pāhala, Hawaii",earthquake,0.33,0.560000002,0.50999999,25,automatic,hv,hv
+2023-10-29T02:25:19.546Z,38.9708,142.534,35.793,4.7,mb,56,135,2.139,0.84,us,us7000l7an,2023-10-29T02:41:01.040Z,"66 km ESE of Kamaishi, Japan",earthquake,8.68,5.943,0.092,36,reviewed,us,us
 2023-10-29T02:24:16.618Z,63.2893,-151.1153,0,1.6,ml,,,,0.68,ak,ak023dvhmut9,2023-10-29T02:26:05.733Z,"41 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-29T02:22:05.300Z,19.3349990844727,-155.313171386719,2.30999994277954,2.17,ml,34,86,,0.159999996,hv,hv73630357,2023-10-29T02:27:36.210Z,"14 km SW of Volcano, Hawaii",earthquake,0.39,0.569999993,0.33,11,automatic,hv,hv
 2023-10-29T02:18:46.480Z,38.8323326,-122.802002,2.09,0.31,md,7,146,0.01093,0.01,nc,nc73953140,2023-10-29T02:32:11.175Z,"7 km W of Cobb, CA",earthquake,0.66,1.49,0.16,7,automatic,nc,nc
