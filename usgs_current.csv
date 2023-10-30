@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-30T21:29:45.030Z,38.8378334,-122.8424988,1.83,0.77,md,7,211,0.005528,0.01,nc,nc73953890,2023-10-30T21:31:22.183Z,"10 km NW of The Geysers, CA",earthquake,1.07,0.57,0.36,8,automatic,nc,nc
 2023-10-30T21:28:53.540Z,36.7614,-116.6416,6,0.7,ml,11,126.47,0.034,0.1222,nn,nn00868159,2023-10-30T21:30:40.661Z,"19 km SSE of Beatty, Nevada",earthquake,,0.8,0.18,8,automatic,nn,nn
+2023-10-30T21:18:34.071Z,-28.8875,-179.5849,386.604,4.5,mb,44,74,1.504,1.19,us,us7000l7m7,2023-10-30T21:37:40.040Z,"Kermadec Islands region",earthquake,13.9,8.198,0.077,50,reviewed,us,us
 2023-10-30T21:15:18.770Z,34.6816667,-116.2881667,2.59,1.9,ml,13,66,0.1127,0.12,ci,ci40592056,2023-10-30T21:19:02.237Z,"12 km WSW of Ludlow, CA",earthquake,0.24,0.64,0.153,28,automatic,ci,ci
 2023-10-30T21:09:35.500Z,33.6596667,-117.16,2.16,1.03,ml,14,92,0.07632,0.22,ci,ci40592040,2023-10-30T21:13:17.316Z,"8 km S of Menifee, CA",earthquake,0.52,0.78,0.316,16,automatic,ci,ci
 2023-10-30T21:00:25.200Z,38.8208351,-122.7618332,1.71,1.29,md,24,108,0.01151,0.04,nc,nc73953875,2023-10-30T21:32:13.368Z,"3 km W of Cobb, CA",earthquake,0.22,0.37,0.16,23,automatic,nc,nc
@@ -221,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T21:53:39.092Z,66.4034,-153.0299,0,1.8,ml,,,,0.68,ak,ak023dvt4ct1,2023-10-29T21:56:13.944Z,"22 km SW of Alatna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-29T21:49:36.716Z,31.604,-103.959,6.8514,2.1,ml(texnet),16,57,0,0.1,tx,tx2023vfpq,2023-10-30T13:51:55.349Z,"35 km NNW of Toyah, Texas",earthquake,0.697183328,0.9065840933,0.1,6,reviewed,tx,tx
 2023-10-29T21:44:44.590Z,32.8591667,-116.4015,4.35,0.33,ml,4,159,0.1126,0.09,ci,ci40590928,2023-10-30T19:05:29.163Z,"13 km ENE of Pine Valley, CA",earthquake,0.48,1.92,0.098,1,reviewed,ci,ci
-2023-10-29T21:39:43.120Z,38.7916679,-122.7263336,-0.4,1.04,md,8,127,0.0117,0.02,nc,nc73953440,2023-10-29T21:51:10.279Z,"3 km ENE of The Geysers, CA",earthquake,0.24,1.74,0.58,9,automatic,nc,nc
-2023-10-29T21:36:22.620Z,38.8048325,-122.7803345,1.1,0.72,md,7,87,0.01665,0.04,nc,nc73953435,2023-10-29T21:46:10.252Z,"4 km NW of The Geysers, CA",earthquake,0.45,1.98,0.36,8,automatic,nc,nc
