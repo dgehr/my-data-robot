@@ -225,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T19:50:49.670Z,36.9788333,-121.6253333,3.03,0.59,md,11,57,0.04188,0.1,nc,nc73953390,2023-10-30T16:58:10.798Z,"6 km WSW of Gilroy, CA",earthquake,0.33,0.91,0.256,13,reviewed,nc,nc
 2023-10-29T19:42:34.170Z,39.5348333,-122.9613333,9.12,1.7,md,25,58,0.1742,0.1,nc,nc73953385,2023-10-30T19:28:11.633Z,"14 km N of Lake Pillsbury, CA",earthquake,0.24,1.21,0.194,26,reviewed,nc,nc
 2023-10-29T19:42:09.190Z,38.8343315,-122.8181686,2.02,0.72,md,9,61,0.01418,0.02,nc,nc73953380,2023-10-29T19:55:10.584Z,"8 km NW of The Geysers, CA",earthquake,0.38,1.29,0.3,10,automatic,nc,nc
-2023-10-29T19:35:03.767Z,37.2592,71.7753,134.377,4.3,mb,39,79,2.215,0.65,us,us7000l7eu,2023-10-29T20:05:48.040Z,"32 km SE of Khorugh, Tajikistan",earthquake,6.49,8.244,0.13,17,reviewed,us,us
