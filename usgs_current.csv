@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-30T03:43:55.530Z,38.7508316,-122.6996689,2.22,0.84,md,7,218,0.01732,0.02,nc,nc73953545,2023-10-30T03:45:31.039Z,"3 km SSW of Anderson Springs, CA",earthquake,0.8,1.58,0.19,7,automatic,nc,nc
 2023-10-30T03:18:37.090Z,33.5295,-116.4365,10.73,1.04,ml,31,73,0.08352,0.2,ci,ci40591136,2023-10-30T03:22:18.722Z,"19 km SW of La Quinta, CA",earthquake,0.29,0.42,0.199,29,automatic,ci,ci
 2023-10-30T03:14:20.271Z,61.5378,-149.8888,33.1,2.5,ml,,,,0.58,ak,ak023dx5pi17,2023-10-30T03:15:41.864Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-30T03:04:09.020Z,38.8468323,-122.8183365,1.96,0.25,md,8,95,0.008742,0.01,nc,nc73953535,2023-10-30T03:35:12.187Z,"9 km WNW of Cobb, CA",earthquake,0.46,0.91,0.12,10,automatic,nc,nc
@@ -215,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T03:58:42.940Z,54.1526666666667,-165.9825,3.08,-0.47,ml,6,175,,0.23,av,av92099761,2023-10-29T13:01:09.720Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.78,0.62,0.339268541280837,6,reviewed,av,av
 2023-10-29T03:53:54.160Z,57.005,-135.629833333333,0.02,-0.18,ml,4,214,,0.13,av,av92099756,2023-10-29T12:55:28.350Z,"18 km WSW of Sitka, Alaska",earthquake,0.81,31.61,0.261038656227812,4,reviewed,av,av
 2023-10-29T03:51:14.889Z,61.9692,-149.7908,33.6,2.1,ml,,,,0.45,ak,ak023dvie2m8,2023-10-29T03:52:48.485Z,"21 km S of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-29T03:44:42.214Z,39.6162,-119.6318,11.5,0.5,ml,6,115.15,0.212,0.1073,nn,nn00868118,2023-10-29T14:59:54.813Z,"7 km ESE of Spanish Springs, Nevada",earthquake,,3.7,0.4,3,reviewed,nn,nn
