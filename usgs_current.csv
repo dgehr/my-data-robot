@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-30T23:25:59.990Z,35.0476685,-117.6891632,8.57,1.34,ml,15,133,0.1132,0.3,ci,ci40592200,2023-10-30T23:28:05.421Z,"6 km NNW of Boron, CA",earthquake,1.33,4.63,0.208,3,automatic,ci,ci
 2023-10-30T23:17:32.230Z,58.1884,-155.2544,1.1,1.8,ml,,,,0.31,ak,ak023dxhmu7b,2023-10-30T23:18:23.904Z,"83 km NW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-10-30T23:12:00.833Z,57.1678,-155.1976,66.2,2.4,ml,,,,0.52,ak,ak023dxhlp77,2023-10-30T23:14:34.347Z,"63 km SW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-10-30T22:56:27.180Z,37.965332,-122.0408325,10.68,1.41,md,11,99,0.06453,0.14,nc,nc73953915,2023-10-30T23:08:10.949Z,"2 km W of Concord, CA",earthquake,0.55,1.04,0.11,6,automatic,nc,nc
@@ -58,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T16:36:34.950Z,17.8753333333333,-66.4801666666667,29.8,3.18,md,21,205,0.2053,0.19,pr,pr71430428,2023-10-30T17:17:17.040Z,"12 km SW of Santa Isabel, Puerto Rico",earthquake,0.6,0.98,0.0964156934558069,14,reviewed,pr,pr
 2023-10-30T16:28:38.462Z,68.5348,-147.101,0,2,ml,,,,0.68,ak,ak023dxdj6bq,2023-10-30T16:39:30.135Z,"78 km NW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-30T16:06:33.820Z,38.7355003,-122.883667,10.51,0.82,md,7,212,0.06668,0.2,nc,nc73953760,2023-10-30T16:18:11.558Z,"12 km WSW of The Geysers, CA",earthquake,6.4,5.69,0.07,5,automatic,nc,nc
-2023-10-30T15:57:20.229Z,18.2091,-76.6051,10,5.4,mww,127,27,0.884,0.98,us,us7000l7jv,2023-10-30T23:16:48.712Z,"4 km WNW of Hope Bay, Jamaica",earthquake,4.39,1.844,0.048,41,reviewed,us,us
+2023-10-30T15:57:20.229Z,18.2091,-76.6051,10,5.4,mww,127,27,0.884,0.98,us,us7000l7jv,2023-10-30T23:27:38.570Z,"4 km WNW of Hope Bay, Jamaica",earthquake,4.39,1.844,0.048,41,reviewed,us,us
 2023-10-30T15:51:31.231Z,60.9673,-152.2735,114.1,1.4,ml,,,,0.54,ak,ak023dxd2nmj,2023-10-30T15:56:44.466Z,"61 km WNW of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-30T15:45:35.660Z,19.1574993133545,-155.418502807617,32.4500007629395,2.17000008,md,29,212,,0.0700000003,hv,hv73632957,2023-10-30T15:48:34.640Z,"8 km SE of Pāhala, Hawaii",earthquake,0.75,0.800000012,1.24000001,3,automatic,hv,hv
 2023-10-30T15:45:20.570Z,38.8154984,-122.8263321,2.27,0.8,md,17,56,0.006984,0.02,nc,nc73953750,2023-10-30T15:56:10.423Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.57,0.18,18,automatic,nc,nc
@@ -102,6 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T11:44:01.695Z,6.8281,-73.0415,151.191,4.5,mb,55,133,0.931,0.71,us,us7000l7iu,2023-10-30T11:57:49.040Z,"northern Colombia",earthquake,3.36,7.266,0.077,49,reviewed,us,us
 2023-10-30T11:43:16.050Z,38.8375015,-122.809166,1.79,0.69,md,6,115,0.01473,0.01,nc,nc73953665,2023-10-30T12:36:11.302Z,"8 km WNW of Cobb, CA",earthquake,0.54,1.89,0.08,7,automatic,nc,nc
 2023-10-30T11:34:02.890Z,19.2333335876465,-155.386672973633,31.6299991607666,1.84000003,md,36,163,,0.119999997,hv,hv73632592,2023-10-30T11:37:14.320Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.63,0.829999983,0.349999994,5,automatic,hv,hv
+2023-10-30T11:34:02.890Z,19.236,-155.393333333333,32.65,1.74,md,28,167,,0.12,hv,hv73632597,2023-10-30T23:26:48.990Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.54,0.64,0.365268820990909,13,reviewed,hv,hv
 2023-10-30T11:13:51.357Z,11.2615,124.6246,11.825,4.6,mb,50,126,4.27,0.75,us,us7000l7jf,2023-10-30T14:09:31.324Z,"Leyte, Philippines",earthquake,10.36,4.585,0.087,39,reviewed,us,us
 2023-10-30T11:01:18.370Z,47.67366666666667,-120.306,-0.41,0.9,ml,14,94,0.05441,0.06,uw,uw61960387,2023-10-30T15:36:48.200Z,"7 km W of Entiat, Washington",earthquake,0.18,9.61,0.18907376853217672,11,reviewed,uw,uw
 2023-10-30T10:56:56.777Z,63.8909,-149.2147,3.2,1.4,ml,,,,0.68,ak,ak023dxa4m5p,2023-10-30T10:58:54.387Z,"12 km WNW of Healy, Alaska",earthquake,,2.8,,,automatic,ak,ak
