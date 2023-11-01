@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T15:55:03.300Z,46.1995,-122.18683333333334,5.93,0.05,ml,10,93,0.0257,0.13,uw,uw61960632,2023-10-31T21:12:17.170Z,"37 km NNE of Amboy, Washington",earthquake,0.35,0.71,0.07091825521565664,5,reviewed,uw,uw
 2023-10-31T15:53:56.322Z,31.619,-103.985,7.0699,2.2,ml(texnet),23,57,0,0.2,tx,tx2023viuy,2023-10-31T19:29:51.080Z,"37 km WSW of Mentone, Texas",earthquake,0.4815869104,0.5067519688,0.2,18,reviewed,tx,tx
 2023-10-31T15:51:36.650Z,31.625,-103.993,9.8849,2.6,ml(texnet),22,54,0,0.1,tx,tx2023viuv,2023-11-01T15:20:47.040Z,"38 km WSW of Mentone, Texas",earthquake,0.7625887078,0.8143870178,0.3,30,reviewed,tx,tx
-2023-10-31T15:42:16.380Z,19.4385,-155.576,40,2.27,md,29,60,,0.18,hv,hv73634377,2023-10-31T21:30:27.190Z,"Island of Hawaii, Hawaii",earthquake,0.54,0.59,0.231066489170672,14,reviewed,hv,hv
