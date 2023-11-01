@@ -198,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T09:59:46.290Z,38.7900009,-122.760498,1.64,1.32,md,21,65,0.01063,0.03,nc,nc73954080,2023-10-31T11:51:12.489Z,"2 km NNW of The Geysers, CA",earthquake,0.23,0.35,0.08,22,automatic,nc,nc
 2023-10-31T09:58:36.592Z,58.213,-155.5503,18.5,0.7,ml,,,,0.69,ak,ak023dyx2wx7,2023-10-31T10:00:03.111Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
 2023-10-31T09:56:20.986Z,60.3914,-151.6089,62,2,ml,,,,0.4,ak,ak023dyx2gau,2023-10-31T09:57:36.989Z,"16 km W of Cohoe, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-10-31T09:52:02.332Z,4.5039,-76.3624,136.694,4.3,mb,31,98,1.87,0.87,us,us7000l7qm,2023-10-31T10:42:15.040Z,"14 km W of El Dovio, Colombia",earthquake,8.59,6.551,0.111,23,reviewed,us,us
