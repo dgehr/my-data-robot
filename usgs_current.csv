@@ -223,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T20:40:47.380Z,39.1628342,-123.0641632,4.66,2.18,md,28,100,0.03419,0.1,nc,nc73954735,2023-11-01T22:31:11.810Z,"10 km ENE of Talmage, CA",earthquake,0.27,0.78,0.15,24,automatic,nc,nc
 2023-11-01T20:27:48.940Z,34.0225,-116.715,-1,1.5,mh,2,333,0.3105,0,ci,ci40594320,2023-11-02T00:44:30.135Z,"13 km WSW of Morongo Valley, CA",earthquake,2.23,3.52,,0,reviewed,ci,ci
 2023-11-01T20:27:21.427Z,52.7806,-168.1666,22.8,3.7,ml,,,,0.71,ak,ak023e0qz7j9,2023-11-01T22:03:38.188Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,1,,,reviewed,ak,ak
-2023-11-01T20:21:04.161Z,36.6597,-116.2721,6.4,-0.3,ml,12,108.44,0.056,0.0644,nn,nn00868315,2023-11-02T02:34:16.760Z,"51 km ESE of Beatty, Nevada",earthquake,,1.4,0.39,6,reviewed,nn,nn
