@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-04T06:47:53.213Z,61.3648,-146.0996,27,1.6,ml,,,,0.69,ak,ak023e5hdohl,2023-11-04T06:49:34.324Z,"29 km NNE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-04T06:40:58.769Z,59.7778,-153.0698,101.2,2.3,ml,,,,0.26,ak,ak023e5hc6u0,2023-11-04T06:47:52.040Z,"58 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-04T06:29:24.507Z,64.6205,-146.5083,18.2,1.1,ml,,,,0.53,ak,ak023e5h9rec,2023-11-04T06:32:24.848Z,"21 km ENE of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-04T06:28:29.950Z,38.8120003,-122.8199997,4.87,0.54,md,8,148,0.007823,0.01,nc,nc73955840,2023-11-04T06:47:19.000Z,"7 km NW of The Geysers, CA",earthquake,1.11,5.2,0.24,8,automatic,nc,nc
@@ -257,4 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T07:07:06.570Z,38.7856674,-122.7353363,1.62,0.91,md,9,106,0.002658,0.02,nc,nc73955405,2023-11-03T09:43:12.593Z,"2 km ENE of The Geysers, CA",earthquake,0.3,1.08,0.29,10,automatic,nc,nc
 2023-11-03T07:05:31.490Z,33.764,-116.9353333,14.18,0.46,ml,21,92,0.07732,0.12,ci,ci39706122,2023-11-03T16:25:35.589Z,"3 km SE of San Jacinto, CA",earthquake,0.22,0.52,0.053,6,reviewed,ci,ci
 2023-11-03T06:58:28.260Z,19.4641666666667,-155.612666666667,8.16,0.72,md,9,134,,0.14,hv,hv73637742,2023-11-03T07:16:44.180Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.53,0.81,0.247984533190353,3,reviewed,hv,hv
-2023-11-03T06:50:23.669Z,61.4796,-151.5738,75.6,1.1,ml,,,,0.95,ak,ak023e3tuwvu,2023-11-03T06:52:31.237Z,"45 km NW of Beluga, Alaska",earthquake,,1.4,,,automatic,ak,ak
