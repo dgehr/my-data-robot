@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-04T21:15:44.660Z,32.7493333,-115.4173333,9.03,1.49,ml,16,159,0.0611,0.3,ci,ci39707930,2023-11-04T21:19:21.645Z,"8 km SSW of Holtville, CA",earthquake,1.16,1.88,0.178,15,automatic,ci,ci
 2023-11-04T21:13:06.082Z,61.8121,-150.7436,52,1.1,ml,,,,0.53,ak,ak023e5q3s6d,2023-11-04T21:16:04.752Z,"32 km NNW of Susitna, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-11-04T21:12:41.170Z,33.4908333,-116.4185,6.75,1.11,ml,41,63,0.03303,0.18,ci,ci39707914,2023-11-04T21:16:14.628Z,"22 km SSW of La Quinta, CA",earthquake,0.22,0.56,0.204,27,automatic,ci,ci
 2023-11-04T21:08:45.800Z,33.989,-117.2126667,15.78,0.96,ml,33,58,0.1272,0.25,ci,ci39707890,2023-11-04T21:12:20.224Z,"7 km NNE of Moreno Valley, CA",earthquake,0.37,0.92,0.218,25,automatic,ci,ci
@@ -11,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T20:31:14.017Z,36.2078,-115.4788,1,0.7,ml,12,335.16,0.598,0.1965,nn,nn00868450,2023-11-04T20:33:53.525Z,"15 km ESE of Mount Charleston, Nevada",earthquake,,63.6,0.29,4,automatic,nn,nn
 2023-11-04T20:28:54.447Z,58.722,-153.7647,15,1.7,ml,,,,0.43,ak,ak023e5plog4,2023-11-04T20:30:35.822Z,"89 km NW of Aleneva, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-04T19:56:34.281Z,38.8958,-118.8326,1.1,2.3,ml,16,59.9,0.545,0.2101,nn,nn00868445,2023-11-04T19:58:55.123Z,"6 km SSW of Schurz, Nevada",earthquake,,7,0.27,10,automatic,nn,nn
+2023-11-04T19:55:33.875Z,37.5842,73.9941,10,4.5,mwr,49,105,2.557,0.56,us,us7000l8wg,2023-11-04T21:20:23.040Z,"65 km S of Murghob, Tajikistan",earthquake,7.15,1.892,0.052,36,reviewed,us,us
 2023-11-04T19:41:59.863Z,31.572,-104.016,4.8992,1.7,ml(texnet),13,62,0,0.3,tx,tx2023vqkl,2023-11-04T19:51:53.056Z,"western Texas",earthquake,0,1.434398456,0.2,10,automatic,tx,tx
 2023-11-04T19:38:54.160Z,36.84,-115.8897,12,0.4,ml,18,214.05,0.125,0.3017,nn,nn00868444,2023-11-04T19:41:07.017Z,"35 km NNW of Indian Springs, Nevada",earthquake,,1.1,0.4,11,automatic,nn,nn
 2023-11-04T19:36:00.730Z,38.8218346,-122.8255005,0.61,1.08,md,14,85,0.01215,0.03,nc,nc73956080,2023-11-04T20:11:17.765Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.54,0.12,16,automatic,nc,nc
