@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T15:40:42.980Z,32.8563333,-115.7408333,7.77,1.39,ml,33,45,0.01196,0.27,ci,ci39708626,2023-11-05T15:51:58.000Z,"16 km W of Imperial, CA",earthquake,0.39,0.83,0.204,24,automatic,ci,ci
 2023-11-05T15:40:03.285Z,31.204,-103.773,5.0955,1.8,mlv,12,67,0.1,0.6,tx,tx2023vrxy,2023-11-05T15:58:45.626Z,"12 km S of Toyah, Texas",earthquake,0,2.478493789,0.2,10,automatic,tx,tx
 2023-11-05T15:37:26.500Z,38.779335,-122.7653351,0.84,0.3,md,6,105,0.008607,0.03,nc,nc73956435,2023-11-05T16:35:11.960Z,"1 km WNW of The Geysers, CA",earthquake,0.6,1.04,0.11,8,automatic,nc,nc
-2023-11-05T15:29:20.962Z,-20.4707,169.2018,51.188,5.6,mww,37,155,2.686,0.98,us,us7000l917,2023-11-05T16:40:21.918Z,"Vanuatu",earthquake,7.22,7.529,0.08,15,reviewed,us,us
+2023-11-05T15:29:17.879Z,-20.4476,169.3836,31.636,5.7,mww,64,121,2.81,0.89,us,us7000l917,2023-11-05T16:46:07.040Z,"100 km S of Isangel, Vanuatu",earthquake,10.11,3.635,0.05,39,reviewed,us,us
 2023-11-05T15:16:40.010Z,38.8321648,-122.8006668,2.69,0.7,md,9,90,0.01019,0.01,nc,nc73956430,2023-11-05T16:40:10.990Z,"7 km W of Cobb, CA",earthquake,0.53,1.56,0.07,9,automatic,nc,nc
 2023-11-05T14:47:29.554Z,65.0782,-147.0377,4.1,0.9,ml,,,,0.47,ak,ak023e79og03,2023-11-05T14:49:43.523Z,"22 km N of Two Rivers, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-05T14:41:02.711Z,61.6298,-149.679,29.9,1.7,ml,,,,0.66,ak,ak023e79n3mn,2023-11-05T14:42:59.359Z,"4 km W of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
