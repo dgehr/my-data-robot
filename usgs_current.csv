@@ -214,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T20:32:14.741Z,62.2951,-151.4051,17.8,1.2,ml,,,,0.4,ak,ak023e5pmg8y,2023-11-04T20:34:10.832Z,"33 km N of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-04T20:31:21.001Z,36.4652,-115.7723,10.4,0.2,ml,16,283.17,0.249,0.1634,nn,nn00868450,2023-11-04T22:16:30.485Z,"14 km SW of Indian Springs, Nevada",earthquake,,2.8,0.14,3,reviewed,nn,nn
 2023-11-04T20:28:54.447Z,58.722,-153.7647,15,1.7,ml,,,,0.43,ak,ak023e5plog4,2023-11-04T20:30:35.822Z,"89 km NW of Aleneva, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-04T19:56:34.281Z,38.8958,-118.8326,1.1,2.3,ml,16,59.9,0.545,0.2101,nn,nn00868445,2023-11-04T19:58:55.123Z,"6 km SSW of Schurz, Nevada",earthquake,,7,0.27,10,automatic,nn,nn
-2023-11-04T19:55:33.875Z,37.5842,73.9941,10,4.5,mwr,49,105,2.557,0.56,us,us7000l8wg,2023-11-04T21:20:23.040Z,"65 km S of Murghob, Tajikistan",earthquake,7.15,1.892,0.052,36,reviewed,us,us
