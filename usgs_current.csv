@@ -191,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T08:49:51.070Z,33.9873333,-117.1835,16.45,0.62,ml,28,125,0.04084,0.15,ci,ci39708418,2023-11-05T18:40:09.548Z,"8 km S of Redlands, CA",earthquake,0.32,0.56,0.16,6,reviewed,ci,ci
 2023-11-05T08:44:27.910Z,33.0233333,-116.4828333,12.82,1.29,ml,7,254,0.1037,0.1,ci,ci39708410,2023-11-05T14:39:57.946Z,"13 km ESE of Julian, CA",earthquake,0.65,1.06,0.381,4,reviewed,ci,ci
 2023-11-05T08:41:15.550Z,38.824501,-122.8071671,2.66,1.06,md,23,35,0.002525,0.01,nc,nc73956335,2023-11-05T08:58:13.285Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.52,0.07,24,automatic,nc,nc
-2023-11-05T08:35:48.142Z,63.4746,-149.5804,97.9,1.6,ml,,,,0.34,ak,ak023e761b7i,2023-11-05T08:37:59.910Z,"32 km WNW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
