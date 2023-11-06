@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T09:27:30.078Z,59.9127,-140.7112,2.4,1.9,ml,,,,0.62,ak,ak023e8u4c6n,2023-11-06T09:29:03.642Z,"68 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-06T09:26:56.366Z,62.1043,-146.6431,35.2,1.6,ml,,,,0.74,ak,ak023e8u46hw,2023-11-06T09:29:35.882Z,"10 km WNW of Mendeltna, Alaska",earthquake,,17.4,,,automatic,ak,ak
 2023-11-06T09:08:22.950Z,38.840332,-122.8119965,2.17,0.75,md,12,102,0.01683,0.01,nc,nc73956760,2023-11-06T09:23:11.927Z,"8 km WNW of Cobb, CA",earthquake,0.38,0.93,0.16,14,automatic,nc,nc
-2023-11-06T09:08:05.580Z,38.8390007,-122.810997,2.08,1.51,md,24,55,0.0156,0.02,nc,nc73956755,2023-11-06T09:19:10.907Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.43,0.13,27,automatic,nc,nc
+2023-11-06T09:08:05.580Z,38.8390007,-122.810997,2.08,1.51,md,24,55,0.0156,0.02,nc,nc73956755,2023-11-06T09:36:12.009Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.43,0.13,27,automatic,nc,nc
 2023-11-06T08:59:07.072Z,63.5664,-147.7226,4.8,1.9,ml,,,,0.5,ak,ak023e8tpppv,2023-11-06T09:00:51.946Z,"61 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-06T08:58:43.100Z,38.8343315,-122.7883301,2.12,0.61,md,7,88,0.004365,0.01,nc,nc73956750,2023-11-06T09:26:10.946Z,"6 km WNW of Cobb, CA",earthquake,0.54,1.66,0.38,8,automatic,nc,nc
 2023-11-06T08:57:55.260Z,36.5678329,-121.1179962,13.64,0.92,md,5,149,0.0544,0.01,nc,nc73956745,2023-11-06T09:16:10.889Z,"5 km NNE of Pinnacles, CA",earthquake,1.15,2.76,0.31,5,automatic,nc,nc
