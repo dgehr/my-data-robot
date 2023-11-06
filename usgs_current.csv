@@ -188,7 +188,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T01:58:37.324Z,61.3495,-147.6512,18.3,1.8,ml,,,,0.57,ak,ak023e8pjj3o,2023-11-06T02:00:24.785Z,"51 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-06T01:55:37.100Z,33.2958333,-115.6783333,4.43,1.56,ml,36,77,0.07295,0.2,ci,ci39709002,2023-11-06T15:50:39.558Z,"8 km SE of Bombay Beach, CA",earthquake,0.22,0.75,0.099,22,reviewed,ci,ci
 2023-11-06T01:51:35.440Z,38.7935,-122.7588333,4.42,0.5,md,12,109,0.007148,0.01,nc,nc71131784,2023-11-06T19:19:15.638Z,"2 km N of The Geysers, CA",earthquake,0.41,0.69,0.07,11,reviewed,nc,nc
-2023-11-06T01:51:05.370Z,40.1288333,-121.1141667,0.87,3.35,ml,59,24,0.1211,0.17,nc,nc73956640,2023-11-06T21:46:10.519Z,"6 km SW of Canyondam, CA",earthquake,0.21,1.42,0.167,45,reviewed,nc,nc
+2023-11-06T01:51:05.370Z,40.1288333,-121.1141667,0.87,3.35,ml,59,24,0.1211,0.17,nc,nc73956640,2023-11-06T21:56:13.584Z,"6 km SW of Canyondam, CA",earthquake,0.21,1.42,0.167,45,reviewed,nc,nc
 2023-11-06T01:41:52.270Z,38.8253326,-122.850502,1.75,0.54,md,10,135,0.005445,0.02,nc,nc73956630,2023-11-06T01:58:13.391Z,"10 km WNW of The Geysers, CA",earthquake,0.41,0.67,0.27,10,automatic,nc,nc
 2023-11-06T01:40:06.120Z,37.9391667,-118.5776667,8,1.17,md,13,131,0.2077,0.04,nc,nc73956635,2023-11-06T21:41:17.491Z,"41 km S of Qualeys Camp, NV",earthquake,0.28,2.47,0.339,11,reviewed,nc,nc
 2023-11-06T01:35:42.034Z,58.8575,-153.758,15.9,2.3,ml,,,,0.43,ak,ak023e8pelzv,2023-11-06T01:37:16.019Z,"87 km SE of Kokhanok, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -222,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T22:22:06.122Z,61.3526,-150.3191,39.3,2.6,ml,,,,0.56,ak,ak023e7eai3r,2023-11-06T13:26:52.857Z,"18 km W of Point MacKenzie, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-11-05T22:18:41.063Z,61.6707,-151.525,79.1,2,ml,,,,0.47,ak,ak023e7e9pyi,2023-11-05T22:21:17.198Z,"36 km S of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-05T22:15:54.800Z,37.1636658,-121.552002,3.91,1.4,md,18,97,0.05855,0.04,nc,nc73956555,2023-11-06T02:41:18.624Z,"10 km ENE of Morgan Hill, CA",earthquake,0.22,0.69,0.14,12,automatic,nc,nc
-2023-11-05T21:55:27.990Z,39.2514992,-123.1263351,6.91,1.43,md,12,117,0.1219,0.04,nc,nc73956550,2023-11-05T23:07:14.389Z,"7 km ESE of Redwood Valley, CA",earthquake,0.27,1.11,0.21,3,automatic,nc,nc
