@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-07T08:52:09.160Z,38.7856674,-122.7423325,1.47,1.05,md,12,83,0.00501,0.02,nc,nc73957195,2023-11-07T08:53:43.998Z,"2 km NE of The Geysers, CA",earthquake,0.26,0.66,0.3,12,automatic,nc,nc
 2023-11-07T08:38:14.240Z,19.2064990997314,-155.49983215332,35.2999992370605,1.88,md,32,145,,0.0900000036,hv,hv73640747,2023-11-07T08:41:29.140Z,"2 km W of Pāhala, Hawaii",earthquake,0.65,1.13,0.800000012,11,automatic,hv,hv
 2023-11-07T08:37:16.676Z,61.3372,-147.5004,26.4,1.2,ml,,,,0.86,ak,ak023eah4d5n,2023-11-07T08:39:51.691Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-07T08:28:59.920Z,38.8171654,-122.8303299,1.22,0.99,md,12,62,0.008334,0.02,nc,nc73957190,2023-11-07T08:40:10.293Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.77,0.28,13,automatic,nc,nc
