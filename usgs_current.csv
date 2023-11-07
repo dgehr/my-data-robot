@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-07T14:17:35.476Z,62.7229,-149.305,59.4,1.5,ml,,,,0.59,ak,ak023eakkpyj,2023-11-07T14:19:25.313Z,"51 km NE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-07T14:15:29.813Z,61.1416,-148.2687,3,2.1,ml,,,,0.44,ak,ak023eakk4b5,2023-11-07T14:17:57.996Z,"46 km NNE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-07T13:56:05.260Z,38.767334,-122.7321701,2.19,1.27,md,13,66,0.008094,0.02,nc,nc73957285,2023-11-07T14:08:11.241Z,"2 km ESE of The Geysers, CA",earthquake,0.3,0.59,0.2,14,automatic,nc,nc
+2023-11-07T13:56:05.260Z,38.767334,-122.7321701,2.19,1.27,md,13,66,0.008094,0.02,nc,nc73957285,2023-11-07T14:35:18.395Z,"2 km ESE of The Geysers, CA",earthquake,0.3,0.59,0.2,14,automatic,nc,nc
 2023-11-07T13:54:42.339Z,36.9981,-115.9502,11.3,0.5,ml,16,195.56,0.05,0.1383,nn,nn00868543,2023-11-07T13:56:47.223Z,"53 km NNW of Indian Springs, Nevada",earthquake,,1,0.32,10,automatic,nn,nn
 2023-11-07T13:47:28.195Z,32.007,-103.85,5.5839,1.5,ml(texnet),5,216,0,0.3,tx,tx2023vvlg,2023-11-07T14:10:05.511Z,"31 km SE of Malaga, New Mexico",earthquake,0,5.92315032,0.3,5,automatic,tx,tx
 2023-11-07T13:46:10.452Z,63.3947,-149.7111,1.3,1.5,ml,,,,0.67,ak,ak023eak5g6t,2023-11-07T13:48:03.335Z,"38 km W of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -209,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T14:46:58.350Z,44.2638333,-110.628,7.59,2.14,ml,20,89,0.07197,0.21,uu,uu60553727,2023-11-06T17:56:51.170Z,"57 km ENE of Warm River, Idaho",earthquake,0.5,0.78,0.222,6,reviewed,uu,uu
 2023-11-06T14:42:02.620Z,44.2658333,-110.6243333,7.4,2.51,ml,26,87,0.06936,0.22,uu,uu60553722,2023-11-06T17:36:16.070Z,"58 km ENE of Warm River, Idaho",earthquake,0.51,0.82,0.341,7,reviewed,uu,uu
 2023-11-06T14:41:11.130Z,44.2666667,-110.6295,6.92,1.28,md,11,86,0.07309,0.14,uu,uu60553717,2023-11-06T17:31:05.330Z,"57 km ENE of Warm River, Idaho",earthquake,0.54,1.21,0.339,8,reviewed,uu,uu
-2023-11-06T14:34:11.670Z,38.8136673,-122.7553329,1.94,0.79,md,7,224,0.01347,0.02,nc,nc73956840,2023-11-06T16:27:14.458Z,"3 km WSW of Cobb, CA",earthquake,1.47,1.13,0.08,9,automatic,nc,nc
-2023-11-06T14:30:02.508Z,61.5622,-151.4293,75.1,1.7,ml,,,,0.34,ak,ak023e8x438a,2023-11-06T14:32:06.014Z,"47 km S of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
