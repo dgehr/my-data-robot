@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-07T11:02:22.200Z,38.8364983,-122.8176651,2.23,0.48,md,8,92,0.01407,0.01,nc,nc73957250,2023-11-07T11:03:58.827Z,"8 km W of Cobb, CA",earthquake,0.35,1.21,0.21,7,automatic,nc,nc
+2023-11-07T11:09:09.109Z,60.01,-152.5746,101.2,2.5,ml,,,,0.41,ak,ak023eaiqnd3,2023-11-07T11:10:52.489Z,"47 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-11-07T11:02:22.200Z,38.8364983,-122.8176651,2.23,0.48,md,8,92,0.01407,0.01,nc,nc73957250,2023-11-07T11:14:10.152Z,"8 km W of Cobb, CA",earthquake,0.35,1.21,0.21,7,automatic,nc,nc
 2023-11-07T10:59:27.530Z,19.1496658325195,-155.481506347656,32.5499992370605,2.3599999,md,38,169,,0.100000001,hv,hv73640852,2023-11-07T11:02:47.160Z,"5 km S of Pāhala, Hawaii",earthquake,0.56,0.699999988,0.550000012,17,automatic,hv,hv
 2023-11-07T10:43:55.297Z,61.1248,-147.3309,24.5,1.5,ml,,,,0.29,ak,ak023eaiclop,2023-11-07T10:45:04.960Z,"45 km NW of Tatitlek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-11-07T10:14:03.399Z,60.5404,-150.2967,42,1.4,ml,,,,0.51,ak,ak023eai69wz,2023-11-07T10:16:51.815Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -69,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-07T04:20:47.756Z,31.747,-104.172,4.2464,1.6,ml(texnet),14,117,0,0.1,tx,tx2023vuso,2023-11-07T04:55:20.809Z,"western Texas",earthquake,0,1.315036095,0.2,12,automatic,tx,tx
 2023-11-07T04:02:46.698Z,31.664,-104.313,6.1316,3.4,ml(texnet),16,61,0,0.2,tx,tx2023vury,2023-11-07T04:14:42.040Z,"57 km S of Whites City, New Mexico",earthquake,1.057158006,0.9363875924,0.2,6,reviewed,tx,tx
 2023-11-07T03:37:05.950Z,38.8338318,-122.8168335,1.12,0.63,md,9,69,0.01168,0.04,nc,nc73957100,2023-11-07T04:53:11.976Z,"8 km NW of The Geysers, CA",earthquake,0.35,1.14,0.5,8,automatic,nc,nc
-2023-11-07T03:33:46.371Z,-0.8851,-79.2441,16.139,5.1,mb,54,113,0.711,0.92,us,us7000l99x,2023-11-07T10:53:58.530Z,"Ecuador",earthquake,2.11,1.81,0.038,219,reviewed,us,us
+2023-11-07T03:33:46.371Z,-0.8851,-79.2441,16.139,5.1,mb,54,113,0.711,0.92,us,us7000l99x,2023-11-07T11:10:51.362Z,"Ecuador",earthquake,2.11,1.81,0.038,219,reviewed,us,us
 2023-11-07T03:18:55.956Z,60.1112,-147.089,18.7,2.3,ml,,,,0.56,ak,ak023eae17ln,2023-11-07T03:20:37.781Z,"51 km E of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-07T03:12:47.710Z,46.193,-122.185,3.52,1.35,ml,19,71,0.00721,0.09,uw,uw61970896,2023-11-07T03:46:14.040Z,"37 km NNE of Amboy, Washington",earthquake,0.25,0.29,0.10080526414255986,13,reviewed,uw,uw
 2023-11-07T02:56:23.130Z,38.8223343,-122.8033371,2.85,0.77,md,10,104,0.005368,0.01,nc,nc73957095,2023-11-07T04:28:10.841Z,"6 km NW of The Geysers, CA",earthquake,0.51,1.17,0.15,12,automatic,nc,nc
