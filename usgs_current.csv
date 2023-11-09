@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-09T18:33:07.950Z,38.8320007,-122.8174973,1.54,0.9,md,14,58,0.01037,0.02,nc,nc73960561,2023-11-09T18:44:10.723Z,"8 km NW of The Geysers, CA",earthquake,0.3,0.58,0.3,13,automatic,nc,nc
+2023-11-09T18:51:18.360Z,38.8380013,-122.8116684,1.76,0.8,md,16,59,0.01464,0.01,nc,nc73960566,2023-11-09T18:52:54.988Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.53,0.35,16,automatic,nc,nc
+2023-11-09T18:33:07.950Z,38.8320007,-122.8174973,1.54,0.9,md,14,58,0.01037,0.02,nc,nc73960561,2023-11-09T18:49:11.758Z,"8 km NW of The Geysers, CA",earthquake,0.3,0.58,0.3,13,automatic,nc,nc
 2023-11-09T18:16:15.353Z,31.529,-104.165,4.1367,1.5,ml(texnet),16,78,0.1,0.5,tx,tx2023vzlf,2023-11-09T18:37:07.128Z,"42 km NW of Toyah, Texas",earthquake,0,1.495046543,0.3,12,automatic,tx,tx
 2023-11-09T18:15:40.698Z,61.7475,-149.6122,38.4,2.1,ml,,,,0.39,ak,ak023edy0qc5,2023-11-09T18:17:07.943Z,"13 km N of Meadow Lakes, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-09T18:11:52.950Z,19.2345008850098,-155.390167236328,30.0499992370605,1.98000002,md,39,160,,0.109999999,hv,hv73642387,2023-11-09T18:15:08.530Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.55,0.649999976,1.04999995,19,automatic,hv,hv
@@ -155,7 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T02:56:36.530Z,63.9775,-22.2277,11.878,4.3,mb,15,121,0.867,0.98,us,us7000l9rj,2023-11-09T04:39:09.040Z,"7 km E of Vogar, Iceland",earthquake,7.6,3.598,0.154,12,reviewed,us,us
 2023-11-09T02:42:23.460Z,38.8354988,-122.7988358,2.41,0.68,md,8,117,0.007241,0.01,nc,nc73960256,2023-11-09T03:00:11.347Z,"7 km WNW of Cobb, CA",earthquake,0.75,1.33,0.45,11,automatic,nc,nc
 2023-11-09T02:33:24.689Z,31.67,-104.31,6.1316,2.4,ml(texnet),17,67,0,0.2,tx,tx2023vygb,2023-11-09T13:15:27.681Z,"56 km S of Whites City, New Mexico",earthquake,0.637756865,0.9403820746,0.1,11,reviewed,tx,tx
-2023-11-09T02:32:14.623Z,36.6095,36.4369,10,4.6,mwr,93,51,0.836,0.98,us,us7000l9r5,2023-11-09T14:17:27.281Z,"Turkey-Syria border region",earthquake,4.63,1.859,0.047,43,reviewed,us,us
+2023-11-09T02:32:14.623Z,36.6095,36.4369,10,4.6,mwr,93,51,0.836,0.98,us,us7000l9r5,2023-11-09T18:52:20.607Z,"Turkey-Syria border region",earthquake,4.63,1.859,0.047,43,reviewed,us,us
 2023-11-09T02:26:56.186Z,31.619,-103.978,5.7893,1.8,ml(texnet),15,61,0,0.2,tx,tx2023vyfu,2023-11-09T03:05:46.641Z,"37 km WSW of Mentone, Texas",earthquake,0,2.952918313,0.1,13,automatic,tx,tx
 2023-11-09T02:25:02.580Z,31.647,-103.988,4.7845,2.1,mlv,12,119,0,0.3,tx,tx2023vyfw,2023-11-09T03:04:44.885Z,"western Texas",earthquake,0,1.358933914,0.2,9,automatic,tx,tx
 2023-11-09T02:19:58.739Z,31.64,-104.012,4.7964,1.6,ml(texnet),21,41,0,0.4,tx,tx2023vyfo,2023-11-09T02:48:07.945Z,"39 km W of Mentone, Texas",earthquake,0,1.148751508,0.2,15,automatic,tx,tx
