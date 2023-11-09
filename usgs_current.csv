@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-09T06:48:11.770Z,19.1879997253418,-155.501998901367,32.7000007629395,2.42,ml,50,131,,0.109999999,hv,hv73642132,2023-11-09T06:53:42.640Z,"2 km SW of Pāhala, Hawaii",earthquake,0.47,0.699999988,3.75,10,automatic,hv,hv
 2023-11-09T06:35:36.850Z,38.8308334,-122.8171692,1.84,0.7,md,10,85,0.009267,0.02,nc,nc73960326,2023-11-09T06:48:10.594Z,"8 km NW of The Geysers, CA",earthquake,0.31,0.81,0.24,10,automatic,nc,nc
+2023-11-09T06:13:58.937Z,39.7733,143.6088,10,4.4,mb,30,115,2.195,0.49,us,us7000l9sh,2023-11-09T07:00:20.040Z,"143 km E of Miyako, Japan",earthquake,6.84,1.856,0.162,15,reviewed,us,us
 2023-11-09T06:00:56.659Z,38.8915,-118.5823,2.1,1.5,ml,11,72.63,0.406,0.1733,nn,nn00868639,2023-11-09T06:03:21.425Z,"20 km ESE of Schurz, Nevada",earthquake,,2.1,0.14,5,automatic,nn,nn
 2023-11-09T05:48:04.316Z,38.9074,-118.6134,0.7,2.1,ml,14,58.45,0.422,0.3471,nn,nn00868636,2023-11-09T05:50:32.030Z,"17 km ESE of Schurz, Nevada",earthquake,,4.1,0.18,8,automatic,nn,nn
 2023-11-09T05:42:52.919Z,31.621,-104.001,3.8232,2,ml(texnet),12,97,0,0.4,tx,tx2023vyme,2023-11-09T06:22:01.373Z,"western Texas",earthquake,0,1.664188004,0.3,9,automatic,tx,tx
@@ -122,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T17:25:13.990Z,46.5275,-122.36366666666666,19.46,1.45,ml,35,103,0.1435,0.16,uw,uw61971216,2023-11-08T22:17:43.650Z,"7 km WSW of Morton, Washington",earthquake,0.31,0.69,0.18714461863540155,16,reviewed,uw,uw
 2023-11-08T17:25:02.992Z,-5.4803,130.2317,9.582,5.3,mww,76,49,1.006,0.55,us,us7000l9nq,2023-11-08T17:42:33.040Z,"277 km SSE of Amahai, Indonesia",earthquake,6.06,4.402,0.073,18,reviewed,us,us
 2023-11-08T17:19:51.912Z,-6.1495,130.131,9.251,4.5,mb,32,99,1.632,0.8,us,us7000l9nn,2023-11-08T17:43:30.040Z,"295 km W of Tual, Indonesia",earthquake,5.19,4.614,0.121,20,reviewed,us,us
-2023-11-08T17:07:22.710Z,39.519165,-123.3271637,8.18,1.61,md,8,100,0.05074,0.04,nc,nc73957845,2023-11-08T19:05:18.669Z,"10 km NNE of Brooktrails, CA",earthquake,0.37,1.01,0.21,7,automatic,nc,nc
+2023-11-08T17:07:22.610Z,39.5208333,-123.3296667,9.3,1.6,md,17,64,0.05212,0.08,nc,nc73957845,2023-11-09T07:04:00.065Z,"10 km NNE of Brooktrails, CA",earthquake,0.23,0.43,0.178,17,reviewed,nc,nc
 2023-11-08T16:55:11.567Z,31.652,-103.994,17.5066,1.7,ml(texnet),14,53,0,1,tx,tx2023vxmy,2023-11-08T17:40:49.143Z,"37 km W of Mentone, Texas",earthquake,0,3.34287386,0.2,12,automatic,tx,tx
 2023-11-08T16:50:25.790Z,46.19916666666666,-122.20716666666667,7.57,-0.18,md,10,156,0.01508,0.15,uw,uw61971201,2023-11-08T22:54:20.580Z,"Washington",earthquake,1.11,0.68,0.23639651711052623,7,reviewed,uw,uw
 2023-11-08T16:47:55.203Z,-6.0703,130.0007,10,4.6,mb,35,54,1.541,0.88,us,us7000l9ng,2023-11-08T17:06:43.040Z,"Banda Sea",earthquake,7.05,1.881,0.114,23,reviewed,us,us
@@ -275,5 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T07:23:42.579Z,-3.5915,129.6686,31.006,4.7,mb,36,104,4.907,0.61,us,us7000l9ic,2023-11-08T07:44:44.040Z,"84 km ESE of Masohi, Indonesia",earthquake,7.96,5.877,0.101,30,reviewed,us,us
 2023-11-08T07:16:56.380Z,37.9906654,-122.0121689,22.46,1.19,md,6,114,0.03631,0.04,nc,nc73957650,2023-11-08T09:28:10.434Z,"3 km N of Concord, CA",earthquake,0.87,1.35,0.22,4,automatic,nc,nc
 2023-11-08T07:09:03.982Z,39.2475,48.2431,49.604,4.4,mb,57,53,0.762,1.24,us,us7000l9ib,2023-11-08T08:38:23.040Z,"17 km SSW of Bīleh Savār, Iran",earthquake,5.64,2.822,0.087,38,reviewed,us,us
-2023-11-08T07:00:18.126Z,38.1485,-117.9843,10.7,0.9,ml,9,104.96,0.051,0.1418,nn,nn00868584,2023-11-08T17:57:50.647Z,"28 km SSE of Mina, Nevada",earthquake,,2.3,0,1,reviewed,nn,nn
-2023-11-08T06:57:48.405Z,-6.5339,129.5949,10,4.6,mb,26,133,7.59,0.62,us,us7000l9ia,2023-11-08T07:23:31.040Z,"Banda Sea",earthquake,7.09,1.922,0.128,18,reviewed,us,us
