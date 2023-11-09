@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-09T05:24:40.190Z,38.7981682,-122.7288361,0.45,0.55,md,7,110,0.01613,0.04,nc,nc73960311,2023-11-09T05:26:13.555Z,"3 km S of Cobb, CA",earthquake,0.31,1.65,0.13,7,automatic,nc,nc
 2023-11-09T05:22:02.890Z,38.7988319,-122.7298355,0.47,0.73,md,8,106,0.01648,0.03,nc,nc73960296,2023-11-09T05:23:38.405Z,"3 km SSW of Cobb, CA",earthquake,0.3,1.33,0.04,8,automatic,nc,nc
 2023-11-09T05:17:16.979Z,58.6447,-153.979,95.5,2.1,ml,,,,0.15,ak,ak023edqah2p,2023-11-09T05:19:34.812Z,"90 km NW of Aleneva, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-11-09T04:58:21.208Z,31.6737,-104.174,7.951,2.7,mb_lg,38,51,0.207,0.52,us,us7000l9s5,2023-11-09T05:11:33.870Z,"western Texas",earthquake,4.24,4.19,0.102,43,reviewed,us,us
@@ -272,4 +273,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T06:01:24.150Z,62.4987,-150.8065,80.2,2.2,ml,,,,0.55,ak,ak023ec395a7,2023-11-08T18:48:17.486Z,"2 km W of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-08T05:42:39.958Z,-6.1903,129.9158,10,5.1,mb,36,60,6.719,0.97,us,us7000l9i4,2023-11-08T06:01:57.040Z,"Banda Sea",earthquake,8.37,1.885,0.104,30,reviewed,us,us
 2023-11-08T05:39:45.643Z,63.5311,-147.6965,17.7,2,ml,,,,0.4,ak,ak023ec2vwjp,2023-11-08T05:43:46.104Z,"64 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-08T05:28:22.038Z,38.8889,-118.5913,10.6,2.1,ml,11,65.34,0.413,0.1709,nn,nn00868582,2023-11-08T17:45:25.588Z,"20 km ESE of Schurz, Nevada",earthquake,,1.9,0.17,7,reviewed,nn,nn
