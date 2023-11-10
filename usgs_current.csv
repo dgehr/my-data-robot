@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-10T09:18:16.610Z,38.8336678,-122.8151703,1.16,0.76,md,12,56,0.011,0.01,nc,nc73960821,2023-11-10T09:19:54.054Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.71,0.22,14,automatic,nc,nc
 2023-11-10T09:04:24.620Z,33.6935005,-116.7251663,17.14,2.33,ml,94,19,0.01986,0.17,ci,ci39711138,2023-11-10T09:14:53.570Z,"5 km S of Idyllwild, CA",earthquake,0.16,0.31,0.318,22,automatic,ci,ci
-2023-11-10T08:57:06.145Z,56.4777,-153.0777,0,2.7,ml,,,,0.93,ak,ak023effuo6u,2023-11-10T09:00:37.737Z,"81 km S of Old Harbor, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2023-11-10T08:57:06.145Z,56.4777,-153.0777,0,2.7,ml,,,,0.93,ak,ak023effuo6u,2023-11-10T09:23:18.040Z,"81 km S of Old Harbor, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-11-10T08:49:43.076Z,-6.3751,129.7831,10,4.9,mb,32,79,7.498,0.74,us,us7000la0u,2023-11-10T09:09:53.040Z,"Banda Sea",earthquake,4.12,1.906,0.117,23,reviewed,us,us
 2023-11-10T08:16:39.070Z,19.3950004577637,-155.27783203125,1.0900000333786,1.83000004,md,14,51,,0.219999999,hv,hv73642697,2023-11-10T08:19:36.960Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.330000013,1.14999998,11,automatic,hv,hv
 2023-11-10T08:14:15.268Z,31.587,-104.425,2.6731,1.6,ml(texnet),13,111,0.1,0.6,tx,tx2023wamv,2023-11-10T09:02:20.529Z,"65 km S of Whites City, New Mexico",earthquake,0,2.194156546,0.2,11,automatic,tx,tx
