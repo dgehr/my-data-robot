@@ -247,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T21:00:34.030Z,32.8281667,-117.0651667,-0.17,0.86,ml,16,104,0.07555,0.25,ci,ci39711314,2023-11-10T21:57:27.207Z,"8 km NNW of La Mesa, CA",quarry blast,0.77,31.61,0.087,5,reviewed,ci,ci
 2023-11-10T20:55:43.692Z,61.2484,-146.8116,26.5,1.6,ml,,,,0.23,ak,ak023efmziw8,2023-11-10T20:58:01.882Z,"28 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-10T20:50:30.023Z,31.263,130.8105,108.775,5.3,mww,92,71,0.392,0.9,us,us7000la7u,2023-11-11T05:53:39.809Z,"13 km SSW of Kanoya, Japan",earthquake,6.04,4.077,0.069,20,reviewed,us,us
-2023-11-10T20:47:52.360Z,58.2936666666667,-154.983333333333,3.06,-0.4,ml,8,147,,0.08,av,av91121308,2023-11-11T01:43:21.400Z,"86 km NNW of Karluk, Alaska",earthquake,0.29,0.63,0.329618955412157,8,reviewed,av,av
-2023-11-10T20:45:11.025Z,-6.1554,130.088,10.725,6.1,mww,72,44,1.632,1.46,us,us7000la7r,2023-11-10T22:52:41.234Z,"Banda Sea",earthquake,6.38,4.615,0.052,36,reviewed,us,us
