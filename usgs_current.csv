@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-12T22:29:22.480Z,33.8406677,-117.8610001,7.65,1.21,ml,25,95,0.06084,0.25,ci,ci39712282,2023-11-12T22:31:26.630Z,"3 km E of Anaheim, CA",earthquake,0.63,1.07,0.193,7,automatic,ci,ci
+2023-11-12T22:27:37.796Z,62.7014,-149.6629,71.1,1.4,ml,,,,0.77,ak,ak023eiz32lv,2023-11-12T22:29:49.895Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-11-12T22:08:12.354Z,60.1215,-140.68,13,2.9,ml,,,,0.59,ak,ak023eiyyy1f,2023-11-12T22:09:46.116Z,"83 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-12T22:05:39.720Z,35.55060959,-96.75521088,2.039426088,2.44,ml,49,57.10018349,0.02028404549,0.5690813533,ok,ok2023wfff,2023-11-12T22:16:19.024Z,"8 km SE of Sparks, Oklahoma",earthquake,1.615213624,1.463434199,0.25,37,automatic,ok,ok
 2023-11-12T21:53:15.880Z,55.881,-161.2108,176.29,3,ml,27,137,0.515,0.26,us,us7000laj3,2023-11-12T22:12:23.040Z,"13 km S of Nelson Lagoon, Alaska",earthquake,10.24,4.08,0.074,24,reviewed,us,us
