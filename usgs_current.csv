@@ -1,7 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-12T22:43:22.460Z,38.8201675,-122.793663,2.55,0.78,md,11,84,0.01225,0.01,nc,nc73962211,2023-11-12T22:44:55.988Z,"6 km NW of The Geysers, CA",earthquake,0.37,1.16,0.23,12,automatic,nc,nc
+2023-11-12T23:04:03.950Z,38.7808342,-122.7241669,1.53,1.05,md,11,79,0.0101,0.01,nc,nc73962226,2023-11-12T23:05:36.481Z,"3 km E of The Geysers, CA",earthquake,0.36,1.12,0.13,11,automatic,nc,nc
+2023-11-12T23:03:10.937Z,59.0503,-152.7491,58.6,1.9,ml,,,,0.6,ak,ak023eizjayd,2023-11-12T23:05:46.959Z,"58 km SW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-11-12T23:01:07.210Z,19.3941669464111,-155.276672363281,0.860000014305115,2.43,ml,24,46,,0.200000003,hv,hv73645682,2023-11-12T23:06:39.120Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.189999998,0.25,8,automatic,hv,hv
+2023-11-12T22:53:18.010Z,19.3906669616699,-155.278503417969,1.83000004291534,1.94,ml,13,98,,0.150000006,hv,hv73645662,2023-11-12T22:58:49.550Z,"7 km SW of Volcano, Hawaii",earthquake,0.38,0.419999987,0.16,6,automatic,hv,hv
+2023-11-12T22:43:22.460Z,38.8201675,-122.793663,2.55,0.78,md,11,84,0.01225,0.01,nc,nc73962211,2023-11-12T22:55:10.007Z,"6 km NW of The Geysers, CA",earthquake,0.37,1.16,0.23,12,automatic,nc,nc
 2023-11-12T22:40:14.690Z,19.3349990844727,-155.299499511719,2.46000003814697,1.96000004,md,14,128,,0.170000002,hv,hv73645642,2023-11-12T22:43:27.110Z,"13 km SSW of Volcano, Hawaii",earthquake,0.39,0.589999974,1.08000004,12,automatic,hv,hv
 2023-11-12T22:29:22.640Z,33.8538333,-117.8298333,9.18,1.23,ml,40,97,0.04216,0.2,ci,ci39712282,2023-11-12T22:35:48.054Z,"4 km SSW of Yorba Linda, CA",earthquake,0.32,0.39,0.249,29,automatic,ci,ci
+2023-11-12T22:28:18.527Z,31.726,-104.591,2.724,1.6,ml(texnet),9,214,0.1,0.3,tx,tx2023wffy,2023-11-12T23:01:05.076Z,"53 km SSW of Whites City, New Mexico",earthquake,0,2.598919508,0.3,7,automatic,tx,tx
 2023-11-12T22:27:37.796Z,62.7014,-149.6629,71.1,1.4,ml,,,,0.77,ak,ak023eiz32lv,2023-11-12T22:29:49.895Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-11-12T22:25:15.694Z,18.5985,-68.7406,114.093,3.5,ml,18,157,0.351,0.75,us,us7000laj7,2023-11-12T22:43:48.040Z,"Mona Passage",earthquake,8.11,5.695,0.062,34,reviewed,us,us
 2023-11-12T22:20:33.642Z,31.721,-104.582,3.2706,1.6,ml(texnet),14,198,0,0.4,tx,tx2023wffr,2023-11-12T22:44:12.639Z,"54 km SSW of Whites City, New Mexico",earthquake,0,2.141101422,0.2,12,automatic,tx,tx
@@ -187,6 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T23:35:31.300Z,38.8361664,-122.8036652,1.52,0.76,md,8,180,0.01064,0.01,nc,nc73961846,2023-11-11T23:50:10.220Z,"7 km WNW of Cobb, CA",earthquake,0.75,0.65,0.17,10,automatic,nc,nc
 2023-11-11T23:15:21.868Z,-21.9815,-68.7755,119.96,4.7,mb,34,52,0.471,0.61,us,us7000laeb,2023-11-11T23:32:56.040Z,"54 km NNE of Calama, Chile",earthquake,4.87,5.262,0.071,59,reviewed,us,us
 2023-11-11T23:09:48.410Z,38.8311653,-122.8151703,2.69,0.76,md,14,102,0.008721,0.01,nc,nc73961826,2023-11-12T01:32:10.822Z,"8 km NW of The Geysers, CA",earthquake,0.34,0.92,0.16,17,automatic,nc,nc
-2023-11-11T23:06:06.920Z,38.8168335,-122.821167,2.6,0.81,md,10,82,0.01012,0.02,nc,nc73961821,2023-11-12T01:01:10.800Z,"7 km NW of The Geysers, CA",earthquake,0.46,0.94,0.15,10,automatic,nc,nc
-2023-11-11T23:00:36.320Z,38.0003319,-118.7753296,6.17,2.12,md,19,106,0.2384,0.06,nc,nc73961816,2023-11-12T00:34:11.501Z,"31 km E of Lee Vining, CA",earthquake,0.4,3.77,0.17,18,automatic,nc,nc
-2023-11-11T22:57:12.470Z,19.3118324279785,-155.314163208008,-0.370000004768372,1.74000001,md,14,131,,0.289999992,hv,hv73644432,2023-11-11T23:00:28.050Z,"16 km SSW of Volcano, Hawaii",earthquake,0.49,0.529999971,0.860000014,8,automatic,hv,hv
