@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-12T13:27:38.750Z,37.6291656,-122.3568344,10.26,1.53,md,16,96,0.04886,0.08,nc,nc73962041,2023-11-12T13:29:13.643Z,"4 km NE of Millbrae, CA",earthquake,0.44,0.53,0.32,10,automatic,nc,nc
 2023-11-12T13:26:05.833Z,62.1654,-153.2908,1.7,2.1,ml,,,,0.27,ak,ak023eitpvzb,2023-11-12T13:28:18.498Z,"100 km W of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-12T13:21:29.195Z,59.8694,-152.9259,95.9,1.9,ml,,,,0.18,ak,ak023eitov7b,2023-11-12T13:23:00.340Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-12T12:55:26.206Z,61.6907,-149.64,20,1.7,ml,,,,0.69,ak,ak023eitap3e,2023-11-12T12:56:46.855Z,"7 km NNW of Meadow Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
