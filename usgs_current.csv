@@ -1,13 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-12T10:41:50.300Z,19.2688331604004,-155.38166809082,29.8600006103516,1.80999994,md,31,129,,0.170000002,hv,hv73644867,2023-11-12T10:44:54.830Z,"12 km NE of Pāhala, Hawaii",earthquake,0.59,0.829999983,0.810000002,7,automatic,hv,hv
-2023-11-12T10:39:34.174Z,31.617,-104.006,8.2268,3,ml(texnet),17,56,0,0.1,tx,tx2023weiq,2023-11-12T10:53:45.785Z,"western Texas",earthquake,0.5454148043,0.448203587,0.1,11,reviewed,tx,tx
+2023-11-12T10:39:34.174Z,31.617,-104.006,8.2268,3,ml(texnet),17,56,0,0.1,tx,tx2023weiq,2023-11-12T10:59:57.059Z,"western Texas",earthquake,0.5454148043,0.448203587,0.1,11,reviewed,tx,tx
 2023-11-12T10:35:14.957Z,38.5464,-119.4872,6.4,2.1,ml,10,92.77,0.047,0.1696,nn,nn00868795,2023-11-12T10:37:56.936Z,"Central California",earthquake,,0.6,0.09,2,automatic,nn,nn
-2023-11-12T10:34:38.794Z,31.6131,-103.9978,5,2.6,mb_lg,31,77,0.062,0.22,us,us7000lagk,2023-11-12T10:44:57.040Z,"38 km NNW of Toyah, Texas",earthquake,1.09,1.633,0.114,23,reviewed,us,us
+2023-11-12T10:34:39.381Z,31.614,-104.004,8.3296,2.9,ml(texnet),19,54,0,0.1,tx,tx2023wein,2023-11-12T10:59:11.534Z,"western Texas",earthquake,0.5328573214,0.4647210712,0.1,13,reviewed,tx,tx
 2023-11-12T10:25:22.463Z,61.7399,-151.6358,84.3,1.4,ml,,,,0.46,ak,ak023eirxeqe,2023-11-12T10:27:43.756Z,"30 km SSW of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-11-12T10:16:36.150Z,19.3854999542236,-155.27766418457,1.30999994277954,2.12,ml,22,62,,0.150000006,hv,hv73644862,2023-11-12T10:22:05.980Z,"7 km SW of Volcano, Hawaii",earthquake,0.25,0.209999993,0.25,9,automatic,hv,hv
 2023-11-12T09:48:47.631Z,31.651,-104.013,4.6668,1.5,ml(texnet),15,44,0,0.3,tx,tx2023wegx,2023-11-12T10:25:34.081Z,"39 km W of Mentone, Texas",earthquake,0,1.311456538,0.1,12,automatic,tx,tx
 2023-11-12T09:48:42.596Z,-3.7382,151.0322,10,5.2,mww,68,85,1.215,0.84,us,us7000lagg,2023-11-12T10:08:07.040Z,"131 km SSE of Kavieng, Papua New Guinea",earthquake,7.72,1.862,0.083,14,reviewed,us,us
-2023-11-12T09:25:54.820Z,38.5299988,-122.4445038,9.55,1.42,md,7,101,0.1054,0.05,nc,nc73961996,2023-11-12T09:36:10.726Z,"4 km NE of Saint Helena, CA",earthquake,0.64,3.62,0.07,8,automatic,nc,nc
+2023-11-12T09:25:54.820Z,38.5299988,-122.4445038,9.55,1.42,md,7,101,0.1054,0.05,nc,nc73961996,2023-11-12T10:57:10.995Z,"4 km NE of Saint Helena, CA",earthquake,0.64,3.62,0.07,8,automatic,nc,nc
 2023-11-12T09:21:15.293Z,63.5365,-148.7126,13.6,1.4,ml,,,,0.76,ak,ak023eirb3pl,2023-11-12T09:23:06.813Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-12T09:11:12.709Z,39.6374,-119.6469,10.6,1.4,ml,12,76.9,0.195,0.2253,nn,nn00868793,2023-11-12T09:13:07.626Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,1.1,0.36,6,automatic,nn,nn
 2023-11-12T08:53:32.317Z,-3.6703,151.4524,11.982,4.9,mb,40,98,0.878,0.74,us,us7000lage,2023-11-12T09:12:05.040Z,"New Ireland region, Papua New Guinea",earthquake,7.21,3.999,0.101,31,reviewed,us,us
@@ -59,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T04:05:31.280Z,34.1178322,-116.9785004,8.65,1.29,ml,57,52,0.04286,0.16,ci,ci39711970,2023-11-12T04:31:49.559Z,"11 km NNE of Yucaipa, CA",earthquake,0.21,0.49,0.229,7,automatic,ci,ci
 2023-11-12T03:52:16.594Z,35.10557175,-95.53878784,5,2.32,ml,49,85.22066879,0.111921899,0.9781072999,ok,ok2023wdvd,2023-11-12T03:57:24.480Z,"12 km E of Crowder, Oklahoma",earthquake,2.309120464,,0.3,14,automatic,ok,ok
 2023-11-12T03:48:18.720Z,51.8673333333333,-177.931833333333,5.46,2,ml,5,172,,0.1,av,av92115911,2023-11-12T05:25:39.900Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.44,0.96,0.208921488531943,5,reviewed,av,av
-2023-11-12T03:44:59.897Z,31.647,-104.001,6.3119,1.5,ml(texnet),18,35,0,0.5,tx,tx2023wdux,2023-11-12T04:17:36.558Z,"38 km W of Mentone, Texas",earthquake,0,2.12119345,0.2,12,automatic,tx,tx
+2023-11-12T03:44:59.897Z,31.647,-104.001,6.3119,1.5,ml(texnet),18,35,0,0.5,tx,tx2023wdux,2023-11-12T04:17:36.558Z,"western Texas",earthquake,0,2.12119345,0.2,12,automatic,tx,tx
 2023-11-12T03:39:39.780Z,38.828167,-122.8554993,2.49,1.29,md,23,61,0.00124,0.02,nc,nc73961921,2023-11-12T05:11:11.125Z,"10 km WNW of The Geysers, CA",earthquake,0.23,0.42,0.16,26,automatic,nc,nc
 2023-11-12T03:33:15.420Z,19.3770008087158,-155.281494140625,1.70000004768372,2.1,ml,27,91,,0.189999998,hv,hv73644637,2023-11-12T03:38:52.810Z,"8 km SW of Volcano, Hawaii",earthquake,0.27,0.310000002,0.3,9,automatic,hv,hv
 2023-11-12T03:29:02.390Z,51.8673333333333,-177.930166666667,6.32,1.18,ml,4,217,,0.12,av,av92115881,2023-11-12T06:25:55.250Z,"89 km W of Adak, Alaska",earthquake,0.65,1.3,0.178719475091409,4,reviewed,av,av
@@ -189,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T11:28:32.725Z,-6.7912,116.3591,523.894,4.6,mb,19,63,2.463,0.49,us,us7000lac1,2023-11-11T11:44:23.040Z,"175 km NNE of Gili Trawangan, Indonesia",earthquake,7.51,12.945,0.158,12,reviewed,us,us
 2023-11-11T11:27:07.190Z,38.8240013,-122.7991638,3.26,0.77,md,8,90,0.008544,0.01,nc,nc73961536,2023-11-11T11:37:11.603Z,"6 km NW of The Geysers, CA",earthquake,0.52,1.85,0.24,10,automatic,nc,nc
 2023-11-11T11:12:56.230Z,33.9438333,-116.986,15.62,0.99,ml,53,29,0.1363,0.14,ci,ci39711578,2023-11-11T11:19:22.456Z,"2 km NNW of Beaumont, CA",earthquake,0.13,0.44,0.158,28,automatic,ci,ci
-2023-11-11T11:00:41.860Z,32.4833333,-115.519,8.56,1.67,ml,29,62,0.07575,0.25,ci,ci39711570,2023-11-11T11:07:59.427Z,"12 km SSE of Progreso, B.C., MX",earthquake,0.31,0.79,0.243,17,automatic,ci,ci
