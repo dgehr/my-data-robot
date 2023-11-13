@@ -86,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T07:52:11.640Z,39.2886667,-111.8975,12.94,1.46,ml,16,81,0.2268,0.13,uu,uu60554137,2023-11-13T18:31:50.580Z,"7 km NNW of Fayette, Utah",earthquake,0.36,0.59,0.015,4,reviewed,uu,uu
 2023-11-13T07:48:02.853Z,59.4162,-152.6093,76.8,2.1,ml,,,,0.33,ak,ak023ekdtcd9,2023-11-13T07:50:01.715Z,"39 km W of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-13T07:43:32.757Z,-3.9206,150.971,10,6.1,mww,89,47,1.22,0.49,us,us7000lali,2023-11-13T09:50:14.083Z,"135 km WNW of Rabaul, Papua New Guinea",earthquake,5.25,1.835,0.059,28,reviewed,us,us
-2023-11-13T07:37:20.160Z,37.4155,-121.8108333,1.71,1.5,md,36,35,0.03577,0.1,nc,nc73962356,2023-11-13T18:37:47.928Z,"6 km NNE of Alum Rock, CA",earthquake,0.16,0.63,0.191,30,reviewed,nc,nc
+2023-11-13T07:37:20.160Z,37.4155,-121.8108333,1.71,1.5,md,36,35,0.03577,0.1,nc,nc73962356,2023-11-13T18:54:09.765Z,"6 km NNE of Alum Rock, CA",earthquake,0.16,0.63,0.191,30,reviewed,nc,nc
 2023-11-13T07:36:01.020Z,19.3444995880127,-155.299499511719,0.219999998807907,2.31999993,md,30,58,,0.219999999,hv,hv73646292,2023-11-13T07:39:16.830Z,"12 km SSW of Volcano, Hawaii",earthquake,0.31,0.449999988,0.209999993,13,automatic,hv,hv
 2023-11-13T07:22:46.460Z,35.674,-117.513,9.34,1.11,ml,27,59,0.07324,0.14,ci,ci39712394,2023-11-13T07:29:19.617Z,"14 km SW of Searles Valley, CA",earthquake,0.23,0.43,0.144,11,automatic,ci,ci
 2023-11-13T07:22:21.100Z,36.2205,-89.4816666666667,6.38,1.53,md,15,71,0.04263,0.03,nm,nm60560061,2023-11-13T14:15:46.530Z,"4 km S of Ridgely, Tennessee",earthquake,0.26,0.54,0.135196236900852,12,reviewed,nm,nm
@@ -205,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T19:39:57.180Z,33.7641667,-116.9391667,15.29,1.36,ml,53,30,0.04985,0.17,ci,ci39712234,2023-11-13T16:13:38.690Z,"3 km SE of San Jacinto, CA",earthquake,0.17,0.33,0.168,22,reviewed,ci,ci
 2023-11-12T19:29:54.030Z,32.916,-116.236,7.38,1.29,ml,44,45,0.0685,0.2,ci,ci39712226,2023-11-13T15:32:01.846Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.19,0.64,0.12,12,reviewed,ci,ci
 2023-11-12T19:14:40.939Z,60.0468,-139.5238,0,1.9,ml,,,,1.09,ak,ak023eix7zq5,2023-11-12T19:16:23.468Z,"56 km NNE of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-11-12T18:50:40.411Z,38.1424,-117.8843,1.8,1.4,ml,13,169.75,0.097,0.2075,nn,nn00868808,2023-11-12T18:53:30.348Z,"33 km SE of Mina, Nevada",earthquake,,1.7,0.24,8,automatic,nn,nn
