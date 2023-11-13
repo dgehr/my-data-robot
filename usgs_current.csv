@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-13T14:00:23.260Z,38.8455009,-122.8151703,1.03,1.79,md,32,45,0.01115,0.03,nc,nc73962426,2023-11-13T14:02:00.030Z,"8 km WNW of Cobb, CA",earthquake,0.16,0.29,0.16,32,automatic,nc,nc
+2023-11-13T13:59:33.400Z,35.6066666,-117.5845032,4.15,2.15,ml,41,40,0.0731,0.17,ci,ci39712490,2023-11-13T14:02:10.325Z,"8 km E of Ridgecrest, CA",earthquake,0.25,0.67,0.319,26,automatic,ci,ci
+2023-11-13T13:53:59.510Z,38.8223343,-122.7651672,2.05,0.75,md,8,120,0.008931,0.01,nc,nc73962416,2023-11-13T13:55:35.003Z,"4 km W of Cobb, CA",earthquake,0.47,1.1,0.06,8,automatic,nc,nc
+2023-11-13T13:53:32.880Z,33.7163333,-116.84,16.94,0.83,ml,18,198,0.07572,0.1,ci,ci39712482,2023-11-13T13:59:56.423Z,"6 km SE of Valle Vista, CA",earthquake,0.44,0.55,0.217,19,automatic,ci,ci
 2023-11-13T13:51:13.289Z,59.7391,-151.4656,52.6,1.8,ml,,,,0.43,ak,ak023ekhely8,2023-11-13T13:52:49.200Z,"7 km NNW of Kachemak, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-11-13T13:48:15.430Z,19.3638324737549,-155.291000366211,2.01999998092651,1.70000005,md,15,112,,0.0599999987,hv,hv73646742,2023-11-13T13:51:09.580Z,"10 km SW of Volcano, Hawaii",earthquake,0.28,0.430000007,0.370000005,11,automatic,hv,hv
 2023-11-13T13:42:22.589Z,59.9838,-139.5509,0,1.8,ml,,,,1.07,ak,ak023ekhcp82,2023-11-13T13:44:24.090Z,"49 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -188,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T14:56:52.490Z,32.404,-115.2278333,9.31,1.78,ml,23,46,0.06708,0.29,ci,ci39712106,2023-11-12T15:03:12.134Z,"6 km NNW of Delta, B.C., MX",earthquake,0.47,0.9,0.193,15,automatic,ci,ci
 2023-11-12T14:13:37.980Z,58.2386,-155.0778,4.6,1,ml,,,,0.26,ak,ak023eiu8lra,2023-11-12T14:15:29.503Z,"Alaska Peninsula",earthquake,,0.8,,,automatic,ak,ak
 2023-11-12T14:02:57.980Z,38.1189,-116.8489,0,1.6,ml,12,229.81,0.297,0.2655,nn,nn00868802,2023-11-12T14:05:27.645Z,"Nevada",earthquake,,49.6,0.16,9,automatic,nn,nn
-2023-11-12T14:02:22.320Z,32.8945,-116.2288333,11.43,0.85,ml,33,49,0.08674,0.19,ci,ci39712098,2023-11-12T14:49:21.167Z,"28 km NW of Ocotillo, CA",earthquake,0.23,0.43,0.173,8,reviewed,ci,ci
