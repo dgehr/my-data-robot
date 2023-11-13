@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-13T23:32:41.401Z,36.3354,-116.8262,3.3,1.4,ml,18,205.82,0.196,0.1638,nn,nn00868851,2023-11-13T23:34:49.962Z,"12 km S of Furnace Creek, California",earthquake,,8.2,0.15,14,automatic,nn,nn
 2023-11-13T22:55:16.000Z,38.8375015,-122.8081665,2.11,0.64,md,12,75,0.01395,0.02,nc,nc73962601,2023-11-13T23:13:10.124Z,"8 km WNW of Cobb, CA",earthquake,0.39,0.82,0.19,11,automatic,nc,nc
 2023-11-13T22:40:31.793Z,31.639,-103.99,4.3999,1.6,ml(texnet),17,49,0,0.4,tx,tx2023whbv,2023-11-13T23:03:50.339Z,"37 km WSW of Mentone, Texas",earthquake,0,1.182640422,0.1,13,automatic,tx,tx
 2023-11-13T22:38:34.950Z,32.2408333,-115.2863333,2.14,2.81,ml,29,59,0.1055,0.31,ci,ci39712770,2023-11-13T23:04:54.040Z,"11 km W of Alberto Oviedo Mota, B.C., MX",earthquake,0.29,0.64,0.321,26,automatic,ci,ci
@@ -119,10 +120,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T09:01:03.725Z,61.3868,-147.4233,33.6,1.1,ml,,,,0.12,ak,ak023ekeq4zo,2023-11-13T09:02:19.247Z,"48 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-13T08:58:11.960Z,32.3686667,-115.2293333,11.87,2.04,ml,22,51,0.08165,0.33,ci,ci39712410,2023-11-13T20:27:06.601Z,"4 km WNW of Delta, B.C., MX",earthquake,0.61,1.35,0.273,16,reviewed,ci,ci
 2023-11-13T08:54:05.807Z,62.6248,-150.9528,76.3,1.7,ml,,,,0.75,ak,ak023ekeg2hw,2023-11-13T08:57:31.657Z,"17 km NW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-11-13T08:52:18.630Z,61.9041666666667,-143.947166666667,0.14,0.03,ml,4,292,,0.17,av,av91121398,2023-11-13T23:34:01.770Z,"Southern Alaska",earthquake,0.99,1.21,0.206410912245326,4,reviewed,av,av
 2023-11-13T08:51:13.480Z,32.985,-115.5508333,6.31,1.14,ml,20,75,0.05919,0.2,ci,ci39712402,2023-11-13T20:43:13.088Z,"2 km WNW of Brawley, CA",earthquake,0.28,0.65,0.165,9,reviewed,ci,ci
 2023-11-13T08:41:49.555Z,62.458,-149.3136,15.2,1.4,ml,,,,0.33,ak,ak023ekeddkb,2023-11-13T08:43:55.236Z,"40 km E of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-13T08:27:14.916Z,31.619,-104.011,4.8673,1.6,ml(texnet),15,44,0,0.2,tx,tx2023wfzt,2023-11-13T09:05:20.789Z,"39 km NNW of Toyah, Texas",earthquake,0,1.273090385,0.2,13,automatic,tx,tx
 2023-11-13T08:26:37.874Z,31.64,-103.955,2.4961,2,mlv,7,213,0.1,0.5,tx,tx2023wgad,2023-11-13T09:04:29.703Z,"34 km WSW of Mentone, Texas",earthquake,0,2.274829766,0.2,7,automatic,tx,tx
+2023-11-13T08:15:43.900Z,58.1631666666667,-155.3825,1.5,0.08,ml,9,119,,0.09,av,av92117206,2023-11-13T23:29:29.020Z,"86 km NW of Karluk, Alaska",earthquake,0.25,0.84,0.203639617248339,9,reviewed,av,av
 2023-11-13T08:14:37.032Z,28.481,-98.47,2.5188,2.4,ml(texnet),14,106,0.2,0.3,tx,tx2023wfzh,2023-11-13T21:45:02.743Z,"8 km ENE of Tilden, Texas",earthquake,5.60343488,2.76086697,0.1,6,reviewed,tx,tx
 2023-11-13T08:04:12.980Z,58.1745,-155.2825,2.03,0.05,ml,9,111,,0.12,av,av92117191,2023-11-13T23:25:30.570Z,"83 km NW of Karluk, Alaska",earthquake,0.27,0.7,0.33503756927971,9,reviewed,av,av
 2023-11-13T07:52:58.730Z,58.1786666666667,-155.28,1.36,0.35,ml,11,107,,0.15,av,av92117171,2023-11-13T23:20:52.920Z,"83 km NW of Karluk, Alaska",earthquake,0.35,0.8,0.328527523374307,11,reviewed,av,av
@@ -203,7 +206,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T00:25:37.750Z,64.7016,-149.2641,8.5,1.6,ml,,,,0.84,ak,ak023ek9igcv,2023-11-13T00:28:39.772Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-13T00:22:18.673Z,65.0349,-146.6128,2,1.6,ml,,,,0.98,ak,ak023ek9hrqj,2023-11-13T00:24:12.943Z,"northern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-13T00:22:00.390Z,59.365,-153.4135,3.96,-0.72,ml,9,105,,0.17,av,av92116921,2023-11-13T21:19:43.570Z,"61 km SE of Pedro Bay, Alaska",earthquake,0.62,0.82,0.123668815675963,8,reviewed,av,av
-2023-11-13T00:13:23.917Z,41.87,-126.0856,10,3.9,mb,50,233,1.651,0.79,us,us7000lajy,2023-11-13T16:41:52.181Z,"off the coast of Northern California",earthquake,6.71,1.994,0.21,6,reviewed,us,us
+2023-11-13T00:13:23.917Z,41.87,-126.0856,10,3.9,mb,50,233,1.651,0.79,us,us7000lajy,2023-11-13T23:35:05.835Z,"off the coast of Northern California",earthquake,6.71,1.994,0.21,6,reviewed,us,us
 2023-11-13T00:13:01.590Z,35.6693333,-117.5281667,4.88,0.53,ml,19,104,0.08516,0.11,ci,ci39712298,2023-11-13T18:04:07.339Z,"14 km ENE of Ridgecrest, CA",earthquake,0.23,0.43,0.137,8,reviewed,ci,ci
 2023-11-13T00:02:17.450Z,19.3818333333333,-155.2805,1.1,1.31,ml,16,162,,0.07,hv,hv73645782,2023-11-13T00:31:34.020Z,"Hawaii region, Hawaii",earthquake,0.23,0.16,0.208694519154793,3,reviewed,hv,hv
 2023-11-13T00:01:16.880Z,52.3228333333333,-174.159833333333,5.72,0.84,ml,6,198,,0.24,av,av92116906,2023-11-13T21:11:23.600Z,"14 km N of Atka, Alaska",earthquake,0.87,1.21,0.295821090929107,6,reviewed,av,av
@@ -211,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T23:49:11.250Z,38.8330002,-122.817337,1.98,0.74,md,7,85,0.01114,0.01,nc,nc73962236,2023-11-13T00:57:10.674Z,"8 km NW of The Geysers, CA",earthquake,0.73,2.64,0.36,8,automatic,nc,nc
 2023-11-12T23:47:50.500Z,31.746,-104.139,6.8718,1,ml(texnet),19,59,0,0.1,tx,tx2023wfio,2023-11-13T22:45:41.685Z,"51 km W of Mentone, Texas",earthquake,0.4481638871,0.9301447319,0.1,15,reviewed,tx,tx
 2023-11-12T23:43:43.030Z,19.328,-155.119,6.56,2.12,md,22,148,,0.07,hv,hv73645757,2023-11-13T00:14:13.380Z,"15 km S of Fern Forest, Hawaii",earthquake,0.43,0.81,0.112566706671467,4,reviewed,hv,hv
-2023-11-12T23:27:49.850Z,19.3633333333333,-155.295166666667,1.48,0.81,md,10,124,,0.06,hv,hv73645727,2023-11-12T23:53:35.270Z,"10 km SW of Volcano, Hawaii",earthquake,0.28,0.61,0.158137754247149,2,reviewed,hv,hv
