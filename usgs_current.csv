@@ -205,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T13:50:11.830Z,44.256,-115.145333333333,2.1,1.63,ml,10,73,0.2619,0.11,mb,mb90032648,2023-11-13T14:54:16.530Z,"17 km WNW of Stanley, Idaho",earthquake,0.3,1.2,0.251181747257122,14,reviewed,mb,mb
 2023-11-13T13:48:15.430Z,19.3638324737549,-155.291000366211,2.01999998092651,1.70000005,md,15,112,,0.0599999987,hv,hv73646742,2023-11-13T13:51:09.580Z,"10 km SW of Volcano, Hawaii",earthquake,0.28,0.430000007,0.370000005,11,automatic,hv,hv
 2023-11-13T13:42:22.589Z,59.9838,-139.5509,0,1.8,ml,,,,1.07,ak,ak023ekhcp82,2023-11-13T13:44:24.090Z,"49 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-13T13:36:07.199Z,31.636,-104.466,5.6456,1.7,ml(texnet),18,110,0,0.3,tx,tx2023wgjx,2023-11-13T14:12:54.727Z,"60 km S of Whites City, New Mexico",earthquake,0,3.356153212,0.1,14,automatic,tx,tx
