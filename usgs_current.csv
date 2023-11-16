@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-16T21:48:07.180Z,38.8344994,-122.7993317,2.24,1.13,md,24,57,0.008032,0.02,nc,nc73963571,2023-11-16T21:49:42.144Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.43,0.17,25,automatic,nc,nc
 2023-11-16T21:33:18.145Z,36.2671,-115.3004,4.8,1.6,ml,11,185.56,0.264,0.3121,nn,nn00868975,2023-11-16T21:37:08.519Z,"16 km N of Summerlin South, Nevada",earthquake,,8.2,0.29,8,automatic,nn,nn
 2023-11-16T21:26:06.020Z,38.8353348,-122.8008347,2.25,1.1,md,15,79,0.008749,0.02,nc,nc73963561,2023-11-16T21:34:10.614Z,"7 km WNW of Cobb, CA",earthquake,0.29,0.6,0.17,14,automatic,nc,nc
 2023-11-16T21:09:14.924Z,31.657,-104.567,3.5086,2,ml(texnet),17,183,0.1,0.2,tx,tx2023wmlj,2023-11-16T21:38:21.196Z,"60 km SSW of Whites City, New Mexico",earthquake,0,2.229365141,0.2,12,automatic,tx,tx
@@ -24,6 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-16T18:13:35.830Z,38.831501,-122.8148346,1.73,2.18,md,33,44,0.008907,0.02,nc,nc73963506,2023-11-16T20:11:12.080Z,"8 km NW of The Geysers, CA",earthquake,0.16,0.26,0.19,35,automatic,nc,nc
 2023-11-16T18:13:28.548Z,-21.1767,-68.7446,121.701,4.5,mb,36,63,0.706,0.81,us,us6000lnxi,2023-11-16T21:48:54.040Z,"51 km W of Ollagüe, Chile",earthquake,5.61,6.301,0.132,17,reviewed,us,us
 2023-11-16T18:13:22.590Z,38.833168,-122.8160019,1.29,1.09,md,20,55,0.01615,0.02,nc,nc73963501,2023-11-16T18:58:10.561Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.51,0.13,20,automatic,nc,nc
+2023-11-16T17:33:37.580Z,58.1938333333333,-155.299,1.89,1.19,ml,12,98,,0.07,av,av92120686,2023-11-16T21:54:44.910Z,"85 km NW of Karluk, Alaska",earthquake,0.16,0.32,0.294583878493447,12,reviewed,av,av
 2023-11-16T17:32:57.955Z,36.5931,-116.2708,6.6,0.3,ml,32,109.18,0.076,0.1231,nn,nn00868958,2023-11-16T20:20:45.316Z,"49 km NNW of Pahrump, Nevada",earthquake,,0.8,0.14,7,reviewed,nn,nn
 2023-11-16T17:31:12.330Z,61.2523333333333,-151.919333333333,16.44,0.34,ml,4,246,,0.22,av,av92120681,2023-11-16T21:42:49.600Z,"46 km WNW of Beluga, Alaska",earthquake,1.53,1.95,0.238745855879963,4,reviewed,av,av
 2023-11-16T17:28:33.113Z,31.549,-104.14,8.7024,1.7,ml(texnet),14,136,0,0.3,tx,tx2023wmec,2023-11-16T18:17:02.475Z,"41 km NW of Toyah, Texas",earthquake,1.571624488,1.077660856,0.2,6,reviewed,tx,tx
