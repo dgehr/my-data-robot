@@ -201,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-17T06:51:29.970Z,38.7811661,-122.7649994,0.09,0.74,md,8,88,0.01045,0.04,nc,nc73963721,2023-11-17T07:00:10.280Z,"1 km WNW of The Geysers, CA",earthquake,0.41,0.62,0.07,9,automatic,nc,nc
 2023-11-17T06:47:24.024Z,31.65,-104.015,4.6791,1.7,ml(texnet),15,56,0,0.1,tx,tx2023wnek,2023-11-17T13:13:04.038Z,"39 km W of Mentone, Texas",earthquake,0.5105931552,0.6922347729,0.2,11,reviewed,tx,tx
 2023-11-17T06:45:08.472Z,63.0382,-151.5066,2.3,1.8,ml,,,,0.41,ak,ak023eqzco0v,2023-11-17T06:47:36.060Z,"57 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-17T06:34:07.366Z,31.612,-104.241,3.7921,1.4,ml(texnet),11,178,0.1,0.2,tx,tx2023wndz,2023-11-17T18:30:36.997Z,"53 km NW of Toyah, Texas",earthquake,2.052689431,2.446953082,0.2,7,reviewed,tx,tx
