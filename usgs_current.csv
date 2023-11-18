@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-18T01:55:03.050Z,40.604332,-122.2115021,13.38,1.5,md,6,173,0.04315,0.1,nc,nc73964046,2023-11-18T02:03:10.383Z,"4 km SSE of Bella Vista, CA",earthquake,1.86,1.37,0.13,4,automatic,nc,nc
+2023-11-18T01:55:03.050Z,40.604332,-122.2115021,13.38,1.5,md,6,173,0.04315,0.1,nc,nc73964046,2023-11-18T02:33:13.550Z,"4 km SSE of Bella Vista, CA",earthquake,1.86,1.37,0.13,4,automatic,nc,nc
 2023-11-18T01:44:40.420Z,38.7895012,-122.7553329,1.22,1.03,md,14,81,0.01162,0.02,nc,nc73964036,2023-11-18T02:12:12.435Z,"1 km N of The Geysers, CA",earthquake,0.22,1.02,0.29,14,automatic,nc,nc
 2023-11-18T00:50:38.320Z,35.6873333,-117.522,6.26,0.82,ml,21,86,0.08304,0.14,ci,ci39714482,2023-11-18T00:56:22.633Z,"14 km SW of Searles Valley, CA",earthquake,0.28,0.68,0.082,6,automatic,ci,ci
 2023-11-18T00:31:02.986Z,61.4006,-150.6583,36.5,2,ml,,,,0.61,ak,ak023esj8efu,2023-11-18T00:33:55.040Z,"17 km SSW of Susitna, Alaska",earthquake,,4.6,,,automatic,ak,ak
