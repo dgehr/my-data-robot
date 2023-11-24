@@ -1,7 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-24T12:56:35.150Z,38.8069992,-122.8153305,3.24,1.1,md,21,59,0.01098,0.02,nc,nc73966786,2023-11-24T12:58:09.453Z,"6 km WNW of The Geysers, CA",earthquake,0.27,0.56,0.14,23,automatic,nc,nc
-2023-11-24T12:54:10.620Z,38.8025017,-122.7323303,-0.3,0.75,md,6,217,0.01954,0.03,nc,nc73966781,2023-11-24T12:55:45.158Z,"2 km SSW of Cobb, CA",earthquake,0.57,1.79,0.05,7,automatic,nc,nc
-2023-11-24T12:41:38.550Z,38.8311653,-122.8183365,1.45,0.97,md,19,57,0.01009,0.02,nc,nc73966776,2023-11-24T12:52:10.575Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.53,0.25,20,automatic,nc,nc
+2023-11-24T13:14:52.050Z,19.4134998321533,-155.330673217773,4.09000015258789,1.79999995,md,34,74,,0.170000002,hv,hv73659912,2023-11-24T13:17:47.100Z,"10 km WSW of Volcano, Hawaii",earthquake,0.38,0.730000019,0.540000021,16,automatic,hv,hv
+2023-11-24T13:08:42.950Z,32.6953333,-115.9488333,11.03,1.44,ml,38,46,0.05268,0.23,ci,ci39717362,2023-11-24T13:15:07.548Z,"6 km SE of Ocotillo, CA",earthquake,0.26,0.38,0.193,22,automatic,ci,ci
+2023-11-24T13:06:04.040Z,36.5213318,-121.1624985,5.36,2.25,md,39,85,0.107,0.29,nc,nc73966791,2023-11-24T13:13:10.684Z,"2 km SW of Pinnacles, CA",earthquake,0.45,2.47,0.17,37,automatic,nc,nc
+2023-11-24T12:59:48.590Z,19.2401676177979,-155.374664306641,29.2000007629395,1.91,ml,43,147,,0.129999995,hv,hv73659877,2023-11-24T13:05:19.360Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.55,0.670000017,4.13,5,automatic,hv,hv
+2023-11-24T12:59:16.710Z,19.2516670227051,-155.369506835938,30.6299991607666,1.95,ml,34,180,,0.129999995,hv,hv73659872,2023-11-24T13:04:47.800Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.66,0.800000012,3.96,10,automatic,hv,hv
+2023-11-24T12:56:35.150Z,38.8069992,-122.8153305,3.24,1.1,md,21,59,0.01098,0.02,nc,nc73966786,2023-11-24T13:07:10.654Z,"6 km WNW of The Geysers, CA",earthquake,0.27,0.56,0.14,23,automatic,nc,nc
+2023-11-24T12:54:10.620Z,38.8025017,-122.7323303,-0.3,0.75,md,6,217,0.01954,0.03,nc,nc73966781,2023-11-24T13:19:13.717Z,"2 km SSW of Cobb, CA",earthquake,0.57,1.79,0.05,7,automatic,nc,nc
+2023-11-24T12:41:38.550Z,38.8311653,-122.8183365,1.45,0.97,md,19,57,0.01009,0.02,nc,nc73966776,2023-11-24T13:05:19.642Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.53,0.25,20,automatic,nc,nc
 2023-11-24T12:40:23.960Z,38.5541649,-122.9909973,5.04,1.53,md,11,143,0.1151,0.06,nc,nc73966771,2023-11-24T12:56:13.598Z,"6 km N of Guerneville, CA",earthquake,0.38,1.59,0.11,6,automatic,nc,nc
 2023-11-24T12:36:34.280Z,19.3920001983643,-155.272171020508,1.75999999046326,2.38,ml,37,42,,0.239999995,hv,hv73659832,2023-11-24T12:42:05.300Z,"6 km SW of Volcano, Hawaii",earthquake,0.26,0.280000001,1.54,21,automatic,hv,hv
 2023-11-24T12:36:22.270Z,19.3678340911865,-155.297668457031,0.370000004768372,2.45,ml,9,128,,0.0799999982,hv,hv73659827,2023-11-24T12:41:52.670Z,"10 km SW of Volcano, Hawaii",earthquake,0.28,0.5,1.62,20,automatic,hv,hv
@@ -30,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T10:31:07.440Z,38.821167,-122.796669,2.76,1.26,md,28,29,0.0107,0.02,nc,nc73966736,2023-11-24T10:53:16.895Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.42,0.2,27,automatic,nc,nc
 2023-11-24T10:30:47.547Z,20.0784,145.4759,10,5.1,mb,78,79,4.82,0.89,us,us6000lqfw,2023-11-24T10:51:18.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,9.54,1.858,0.041,193,reviewed,us,us
 2023-11-24T10:21:55.639Z,20.182,145.4119,10,4.6,mb,52,123,4.927,0.71,us,us6000lqg2,2023-11-24T11:37:25.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,11.31,1.892,0.076,51,reviewed,us,us
-2023-11-24T10:20:53.860Z,38.831665,-122.8188324,1.42,0.71,md,11,64,0.01072,0.01,nc,nc73966731,2023-11-24T10:43:14.839Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.75,0.33,11,automatic,nc,nc
+2023-11-24T10:20:53.860Z,38.831665,-122.8188324,1.42,0.71,md,11,64,0.01072,0.01,nc,nc73966731,2023-11-24T13:05:18.642Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.75,0.33,11,automatic,nc,nc
 2023-11-24T10:13:04.024Z,20.2689,145.5117,10,5.1,mb,66,97,5.008,0.76,us,us6000lqfv,2023-11-24T10:40:25.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,3.91,1.866,0.033,299,reviewed,us,us
 2023-11-24T10:11:22.950Z,38.8348351,-122.8181686,1.7,0.47,md,10,102,0.01306,0.01,nc,nc73966726,2023-11-24T12:55:10.595Z,"8 km NW of The Geysers, CA",earthquake,0.3,1.03,0.33,11,automatic,nc,nc
 2023-11-24T09:53:08.970Z,38.8354988,-122.8016663,1.67,1.11,md,22,60,0.009308,0.03,nc,nc73966721,2023-11-24T12:26:10.439Z,"7 km WNW of Cobb, CA",earthquake,0.19,0.4,0.17,23,automatic,nc,nc
@@ -43,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T09:16:47.029Z,20.054,145.5133,10.004,5.2,mb,60,65,4.794,1.18,us,us6000lqfr,2023-11-24T10:16:17.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,10.93,4.107,0.077,55,reviewed,us,us
 2023-11-24T09:14:29.080Z,19.5843334197998,-155.789505004883,71.0899963378906,3.1500001,md,40,261,,0.25999999,hv,hv73659677,2023-11-24T09:17:30.400Z,"15 km ENE of Honalo, Hawaii",earthquake,2.71,2.02999997,2.77999997,30,automatic,hv,hv
 2023-11-24T09:14:24.291Z,20.0093,145.186,10,5.3,mb,60,65,4.777,0.79,us,us6000lqfi,2023-11-24T09:44:19.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,13.07,1.855,0.077,57,reviewed,us,us
-2023-11-24T09:05:03.163Z,20.1569,145.5491,16.033,6.9,mww,182,33,4.895,0.87,us,us6000lqf9,2023-11-24T11:37:03.295Z,"Maug Islands region, Northern Mariana Islands",earthquake,8.93,3.336,0.058,29,reviewed,us,us
+2023-11-24T09:05:03.163Z,20.1569,145.5491,16.033,6.9,mww,182,33,4.895,0.87,us,us6000lqf9,2023-11-24T13:15:03.912Z,"Maug Islands region, Northern Mariana Islands",earthquake,8.93,3.336,0.058,29,reviewed,us,us
 2023-11-24T09:02:23.576Z,59.7514,-152.2138,66.3,1.9,ml,,,,0.49,ak,ak023f2ln7gl,2023-11-24T11:38:23.885Z,"Southern Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-11-24T08:56:54.809Z,-5.288,131.6627,48.799,4.6,mb,12,83,1.91,0.37,us,us6000lqf8,2023-11-24T10:31:10.040Z,"126 km WNW of Tual, Indonesia",earthquake,9.23,5.77,0.165,11,reviewed,us,us
 2023-11-24T08:47:06.600Z,34.0128333,-116.7365,15.92,1.14,ml,55,77,0.06325,0.18,ci,ci39717314,2023-11-24T08:53:26.562Z,"12 km NNE of Cabazon, CA",earthquake,0.17,0.44,0.163,27,automatic,ci,ci
@@ -199,8 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-23T13:35:15.390Z,38.7886658,-122.7556686,2.28,0.81,md,13,79,0.01235,0.02,nc,nc73966351,2023-11-23T15:59:11.052Z,"1 km N of The Geysers, CA",earthquake,0.3,0.69,0.29,13,automatic,nc,nc
 2023-11-23T13:34:32.310Z,38.7888336,-122.7565002,1.77,0.85,md,16,128,0.01643,0.03,nc,nc73966346,2023-11-23T13:53:14.346Z,"1 km N of The Geysers, CA",earthquake,0.29,0.54,0.22,16,automatic,nc,nc
 2023-11-23T13:33:40.126Z,56.0118,111.373,10,4.4,mb,21,98,3.698,1.02,us,us6000lq9g,2023-11-23T14:20:05.040Z,"Lake Baykal region, Russia",earthquake,8.06,1.924,0.149,13,reviewed,us,us
-2023-11-23T13:17:42.860Z,17.9478333333333,-66.9286666666667,17.28,2.36,md,7,210,0.05427,0.11,pr,pr71431888,2023-11-23T14:34:32.800Z,"Puerto Rico region",earthquake,0.93,0.77,0.0615978247426114,6,reviewed,pr,pr
-2023-11-23T13:16:41.700Z,19.3150005340576,-155.356170654297,1.36000001430511,1.73000002,md,21,133,,0.109999999,hv,hv73658887,2023-11-23T13:19:52.860Z,"17 km NE of Pāhala, Hawaii",earthquake,0.55,0.670000017,0.629999995,6,automatic,hv,hv
-2023-11-23T13:11:13.570Z,62.9794,-149.3365,74.1,1.9,ml,,,,0.29,ak,ak023f10ji9p,2023-11-23T13:12:57.173Z,"49 km SSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-11-23T13:06:13.336Z,35.14231491,-97.55987549,3.675229073,1.72,ml,16,92.28140259,0.07581011951,0.389708952,ok,ok2023wypy,2023-11-23T13:39:33.030Z,"4 km NNE of Cole, Oklahoma",earthquake,2.916413997,2.266883923,0.3,9,automatic,ok,ok
-2023-11-23T13:02:07.680Z,31.7273333,-116.2153333,6.25,2.48,ml,9,90,0.3581,0.2,ci,ci39717042,2023-11-23T13:08:53.686Z,"33 km E of Maneadero, B.C., MX",earthquake,0.44,3.48,0.161,25,automatic,ci,ci
