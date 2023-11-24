@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-24T17:45:56.950Z,33.5625,-116.7211685,24.98,1.03,ml,16,141,0.01378,0.3,ci,ci39717482,2023-11-24T17:48:01.031Z,"4 km W of Anza, CA",earthquake,1.02,1.69,0.326,8,automatic,ci,ci
 2023-11-24T17:32:21.990Z,19.3731670379639,-155.283828735352,0.959999978542328,2.0999999,md,12,102,,0.100000001,hv,hv73660182,2023-11-24T17:35:24.360Z,"9 km SW of Volcano, Hawaii",earthquake,0.27,0.340000004,1.04999995,7,automatic,hv,hv
 2023-11-24T17:27:49.902Z,62.823,-149.0327,51.3,2,ml,,,,0.76,ak,ak023f2qk3fy,2023-11-24T17:29:41.755Z,"63 km S of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-11-24T17:24:05.832Z,31.579,-104.535,3.5026,1.5,ml(texnet),8,156,0.1,0.2,tx,tx2023xaty,2023-11-24T17:46:11.622Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.251726971,0.1,6,automatic,tx,tx
 2023-11-24T17:21:19.122Z,38.3476,-118.9173,1.8,2,ml,12,100.99,0.338,0.2564,nn,nn00869260,2023-11-24T17:24:05.992Z,"29 km ENE of Bridgeport, California",earthquake,,10.2,0.27,9,automatic,nn,nn
 2023-11-24T17:13:48.210Z,36.086,-117.9681667,7.64,0.87,ml,23,72,0.09702,0.13,ci,ci39717474,2023-11-24T17:19:27.719Z,"5 km NNW of Coso Junction, CA",earthquake,0.19,0.52,0.125,7,automatic,ci,ci
 2023-11-24T17:08:09.300Z,38.7731667,-122.7411652,0.83,0.6,md,7,79,0.01064,0.02,nc,nc73966851,2023-11-24T17:24:14.141Z,"1 km ESE of The Geysers, CA",earthquake,0.36,0.97,0.13,7,automatic,nc,nc
@@ -211,7 +213,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-23T19:40:33.072Z,38.6943,-117.0443,0.4,1.6,ml,11,187.77,0.635,0.2044,nn,nn00869220,2023-11-23T19:43:30.891Z,"Nevada",earthquake,,5.9,1.34,5,automatic,nn,nn
 2023-11-23T19:38:54.168Z,31.668,-104.418,4.8895,2,ml(texnet),18,70,0,0.4,tx,tx2023wzcx,2023-11-23T20:17:25.977Z,"western Texas",earthquake,0,1.278877621,0.1,13,automatic,tx,tx
 2023-11-23T19:35:18.960Z,19.1573333740234,-155.498840332031,31.2700004577637,1.82000005,md,30,122,,0.109999999,hv,hv73659117,2023-11-23T20:53:24.992Z,"Hawaii region, Hawaii",earthquake,0.82,1.23000002,0.239999995,5,automatic,hv,hv
-2023-11-23T19:17:16.990Z,46.19566666666667,-122.188,4.88,0.25,ml,14,62,0.01858,0.17,uw,uw61973526,2023-11-24T16:33:32.210Z,"Washington",earthquake,0.57,0.85,0.11279395779259266,12,reviewed,uw,uw
+2023-11-23T19:17:16.990Z,46.19566666666667,-122.188,4.88,0.25,ml,14,62,0.01858,0.17,uw,uw61973526,2023-11-24T16:33:32.210Z,"Mount St. Helens area, Washington",earthquake,0.57,0.85,0.11279395779259266,12,reviewed,uw,uw
 2023-11-23T19:02:04.954Z,61.7112,-149.5713,35.7,1.6,ml,,,,0.43,ak,ak023f1425sf,2023-11-23T19:03:22.081Z,"9 km N of Meadow Lakes, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-23T18:55:03.380Z,58.233,-155.139666666667,1.31,-0.2,ml,5,226,,0.06,av,av91122438,2023-11-24T02:56:49.150Z,"Alaska Peninsula",earthquake,0.51,1.72,0.208851592009131,5,reviewed,av,av
 2023-11-23T18:47:11.710Z,17.76,-68.8138,74,3.94,md,16,219,0.8691,0.54,pr,pr2023327002,2023-11-23T19:07:17.777Z,"Dominican Republic region",earthquake,6.93,9.95,0.12,15,reviewed,pr,pr
@@ -219,5 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-23T18:19:37.640Z,38.8153343,-122.8144989,2.85,1.06,md,20,48,0.00876,0.03,nc,nc73966431,2023-11-23T20:55:15.708Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.57,0.23,21,automatic,nc,nc
 2023-11-23T18:11:24.535Z,59.3614,-151.1388,40.9,1.7,ml,,,,0.46,ak,ak023f13iojq,2023-11-23T21:50:24.026Z,"26 km S of Halibut Cove, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-11-23T17:55:15.968Z,59.3027,-151.8342,0,2.1,ml,,,,0.77,ak,ak023f136oj2,2023-11-23T17:57:49.603Z,"5 km S of Port Graham, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-11-23T17:46:22.450Z,34.1088333,-116.6601667,8.86,1.33,ml,59,48,0.07087,0.13,ci,ci39717098,2023-11-24T16:56:58.510Z,"10 km NW of Morongo Valley, CA",earthquake,0.13,0.36,0.176,29,reviewed,ci,ci
-2023-11-23T17:45:29.617Z,61.9625,-147.3672,38.7,1.6,ml,,,,0.67,ak,ak023f134k9t,2023-11-23T17:47:23.512Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
