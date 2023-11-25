@@ -253,4 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T06:07:09.016Z,60.1824,-141.0337,14.9,1.4,ml,,,,0.7,ak,ak023f2jvyb9,2023-11-24T06:09:51.908Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-24T05:54:59.380Z,33.8013333,-117.7953333,9.97,1.47,ml,63,34,0.0274,0.21,ci,ci39717258,2023-11-24T06:05:29.800Z,"2 km SE of Villa Park, CA",earthquake,0.19,0.32,0.175,29,automatic,ci,ci
 2023-11-24T05:53:31.010Z,18.1748333333333,-65.9655,77.27,2.65,md,11,146,0.1156,0.17,pr,pr71431983,2023-11-24T06:07:11.380Z,"Puerto Rico",earthquake,1.29,0.82,0.142501358782976,4,reviewed,pr,pr
-2023-11-24T05:46:41.093Z,61.4088,-147.0292,15,2.3,ml,,,,0.68,ak,ak023f2jiy3w,2023-11-24T05:48:22.738Z,"Southern Alaska",earthquake,,0.1,,,automatic,ak,ak
