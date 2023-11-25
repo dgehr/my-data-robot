@@ -253,4 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T05:26:15.240Z,19.148,-65.28,48,3.72,md,16,267,0.8558,0.42,pr,pr2023328000,2023-11-24T06:01:03.178Z,"93 km N of Culebra, Puerto Rico",earthquake,3.76,10.82,0.09,15,reviewed,pr,pr
 2023-11-24T05:06:35.321Z,62.194,-149.791,16.3,1.6,ml,,,,0.65,ak,ak023f2jad0s,2023-11-24T05:08:21.681Z,"4 km NE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-24T04:48:48.840Z,38.8363342,-122.7901688,1.86,0.9,md,10,67,0.002076,0.02,nc,nc73966631,2023-11-24T05:35:10.834Z,"6 km WNW of Cobb, CA",earthquake,0.39,0.68,0.23,10,automatic,nc,nc
-2023-11-24T04:39:02.030Z,60.3299,-152.5088,101.3,2.5,ml,,,,0.36,ak,ak023f2ivxh0,2023-11-24T04:46:03.040Z,"56 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
