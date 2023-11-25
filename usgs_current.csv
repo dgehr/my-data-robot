@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T19:53:22.930Z,17.9625,-66.9296666666667,15.79,2.49,md,19,190,0.02221,0.12,pr,pr71432028,2023-11-24T20:22:15.960Z,"Puerto Rico region",earthquake,0.43,0.36,0.0885117057978506,8,reviewed,pr,pr
 2023-11-24T19:51:18.080Z,38.7991676,-122.75383,3.79,0.76,md,16,95,0.004821,0.02,nc,nc73966921,2023-11-24T20:00:10.177Z,"2 km N of The Geysers, CA",earthquake,0.33,1.21,0.15,16,automatic,nc,nc
 2023-11-24T19:46:10.850Z,38.7879982,-122.74617,1.18,1.55,md,32,48,0.00878,0.04,nc,nc73966916,2023-11-24T23:51:11.717Z,"2 km NE of The Geysers, CA",earthquake,0.19,0.29,0.16,32,automatic,nc,nc
-2023-11-24T19:37:39.630Z,19.3528333333333,-155.3,2.13,2,ml,20,60,,0.09,hv,hv73660352,2023-11-24T19:51:46.910Z,"Hawaii region, Hawaii",earthquake,0.24,0.34,0.136119701107319,6,reviewed,hv,hv
