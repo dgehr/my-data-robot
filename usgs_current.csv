@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-26T11:43:21.510Z,38.7573318,-122.730835,1.3,1.08,md,6,139,0.006318,0.02,nc,nc73967631,2023-11-26T11:44:55.742Z,"3 km SE of The Geysers, CA",earthquake,0.46,0.72,0.14,7,automatic,nc,nc
+2023-11-26T11:43:21.510Z,38.7573318,-122.730835,1.3,1.08,md,6,139,0.006318,0.02,nc,nc73967631,2023-11-26T11:52:11.077Z,"3 km SE of The Geysers, CA",earthquake,0.46,0.72,0.14,7,automatic,nc,nc
 2023-11-26T11:37:17.620Z,38.8308334,-122.8154984,1.73,1.88,md,34,45,0.008551,0.03,nc,nc73967626,2023-11-26T11:46:11.039Z,"8 km NW of The Geysers, CA",earthquake,0.15,0.26,0.14,36,automatic,nc,nc
 2023-11-26T11:36:37.390Z,19.2870006561279,-155.383666992188,1.22000002861023,2.18,ml,32,118,,0.180000007,hv,hv73663712,2023-11-26T11:42:08.410Z,"Island of Hawaii, Hawaii",earthquake,0.4,0.769999981,4.55,3,automatic,hv,hv
 2023-11-26T11:16:24.188Z,60.9318,-151.1018,6.6,1.7,ml,,,,0.57,ak,ak023f5xzrp0,2023-11-26T11:18:06.364Z,"15 km S of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
