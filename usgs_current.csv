@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-27T11:53:17.648Z,64.8925,-149.2582,16.6,1.5,ml,,,,0.28,ak,ak023f7lr1f8,2023-11-27T11:55:27.486Z,"29 km S of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-27T11:48:01.631Z,59.7277,-152.726,81.6,1.9,ml,,,,0.34,ak,ak023f7lpxlv,2023-11-27T11:50:29.393Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-27T11:34:45.360Z,35.9864998,-120.5479965,2.75,1.2,md,15,99,0.01239,0.05,nc,nc73968371,2023-11-27T11:43:10.533Z,"14 km NW of Parkfield, CA",earthquake,0.35,0.41,0.2,6,automatic,nc,nc
+2023-11-27T11:34:45.360Z,35.9864998,-120.5479965,2.75,1.2,md,15,99,0.01239,0.05,nc,nc73968371,2023-11-27T11:52:11.596Z,"14 km NW of Parkfield, CA",earthquake,0.35,0.41,0.2,6,automatic,nc,nc
+2023-11-27T11:33:46.071Z,20.0351,145.4696,10,4.7,mb,51,100,4.778,0.68,us,us6000lr18,2023-11-27T11:51:50.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,4.42,1.882,0.072,59,reviewed,us,us
 2023-11-27T11:26:36.340Z,19.3034992218018,-155.384002685547,2.59999990463257,1.88,ml,35,122,,0.200000003,hv,hv73664672,2023-11-27T11:32:07.150Z,"14 km NE of Pāhala, Hawaii",earthquake,0.42,0.689999998,0.32,5,automatic,hv,hv
 2023-11-27T10:51:02.412Z,63.8807,-151.7755,7.6,2,ml,,,,0.68,ak,ak023f7l557l,2023-11-27T10:53:27.710Z,"26 km E of Lake Minchumina, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-11-27T10:44:09.061Z,44.4757,149.1178,49.099,4.7,mb,57,137,4.698,0.66,us,us6000lr12,2023-11-27T10:59:58.040Z,"Kuril Islands",earthquake,9.23,6.282,0.048,131,reviewed,us,us
-2023-11-27T10:37:40.590Z,35.5239983,-118.3831635,4.38,3.47,ml,84,21,0.157,0.19,ci,ci39718330,2023-11-27T11:48:25.541Z,"12 km SE of Bodfish, CA",earthquake,0.17,0.83,0.246,18,reviewed,ci,ci
+2023-11-27T10:37:40.590Z,35.5239983,-118.3831635,4.38,3.47,ml,84,21,0.157,0.19,ci,ci39718330,2023-11-27T11:53:38.225Z,"12 km SE of Bodfish, CA",earthquake,0.17,0.83,0.246,18,reviewed,ci,ci
 2023-11-27T10:33:31.290Z,33.525,-116.5285,12.57,0.63,ml,36,68,0.03248,0.14,ci,ci39718322,2023-11-27T10:39:41.230Z,"14 km ESE of Anza, CA",earthquake,0.2,0.3,0.193,14,automatic,ci,ci
 2023-11-27T10:20:36.920Z,18.9983,-64.9958,27,3.57,md,12,285,0.6458,0.29,pr,pr2023331000,2023-11-27T11:45:16.040Z,"72 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.69,19.41,0.14,4,reviewed,pr,pr
 2023-11-27T10:10:58.108Z,31.668,-104.193,4.2154,1.5,ml(texnet),19,70,0.1,0.2,tx,tx2023xfsf,2023-11-27T11:02:38.369Z,"western Texas",earthquake,0,1.178020892,0.2,15,automatic,tx,tx
@@ -204,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T12:05:29.842Z,57.6103,-156.8772,135.7,1.9,ml,,,,0.74,ak,ak023f5yiv3s,2023-11-26T12:07:05.610Z,"Alaska Peninsula",earthquake,,1.2,,,automatic,ak,ak
 2023-11-26T12:05:29.353Z,59.82,-151.7769,48.8,2.1,ml,,,,0.52,ak,ak023f5yiv2f,2023-11-26T12:18:05.040Z,"Kenai Peninsula, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-26T12:03:33.544Z,20.1784,145.3575,10,4.6,mb,42,123,4.928,0.76,us,us6000lqv4,2023-11-26T13:30:31.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,14.59,1.917,0.09,37,reviewed,us,us
-2023-11-26T11:53:11.310Z,37.4823333,-118.831,-0.03,0.75,md,19,305,0.1075,0.03,nc,nc73967646,2023-11-27T08:33:10.363Z,"16 km WSW of Toms Place, CA",earthquake,1.8,3.36,0.218,17,reviewed,nc,nc
