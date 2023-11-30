@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-30T13:53:10.481Z,61.974,-150.5791,48,2,ml,,,,0.65,ak,ak023fcljxk8,2023-11-30T13:55:04.452Z,"38 km NW of Willow, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-30T13:48:47.159Z,39.4047,-119.8764,13.8,1.1,ml,8,93.36,0.088,0.1961,nn,nn00869490,2023-11-30T13:51:23.529Z,"Nevada",earthquake,,0.6,0.13,4,automatic,nn,nn
 2023-11-30T13:28:27.480Z,38.7775002,-122.7151642,2.1,1.1,md,12,93,0.01552,0.02,nc,nc73969961,2023-11-30T13:39:10.247Z,"2 km W of Anderson Springs, CA",earthquake,0.41,0.68,0.15,12,automatic,nc,nc
 2023-11-30T13:26:11.520Z,38.8019981,-122.7808304,3.23,1.08,md,26,64,0.0104,0.02,nc,nc73969951,2023-11-30T13:50:11.315Z,"4 km NW of The Geysers, CA",earthquake,0.25,0.52,0.19,25,automatic,nc,nc
 2023-11-30T13:25:29.970Z,38.802166,-122.7798309,3.31,2.4,md,57,42,0.01098,0.06,nc,nc73969946,2023-11-30T13:39:14.248Z,"3 km NW of The Geysers, CA",earthquake,0.15,0.22,0.21,59,automatic,nc,nc
-2023-11-30T13:15:31.515Z,31.514,-103.997,4.6135,1.8,ml(texnet),14,69,0,0.2,tx,tx2023xlku,2023-11-30T13:36:26.703Z,"western Texas",earthquake,0,1.307626304,0.1,12,automatic,tx,tx
+2023-11-30T13:15:31.336Z,31.515,-104.007,7.417,1.8,ml(texnet),14,67,0,0.2,tx,tx2023xlku,2023-11-30T13:57:32.825Z,"western Texas",earthquake,0.9991562924,0.64679407,0.1,12,reviewed,tx,tx
 2023-11-30T13:06:11.604Z,31.512,-104.004,4.6163,1.5,ml(texnet),13,68,0,0.2,tx,tx2023xlkl,2023-11-30T13:36:20.836Z,"western Texas",earthquake,0,1.493107537,0.1,10,automatic,tx,tx
 2023-11-30T12:57:01.610Z,42.9219,-126.2397,10,2.7,ml,34,282,1.607,0.53,us,us7000les2,2023-11-30T13:14:48.040Z,"off the coast of Oregon",earthquake,10.49,2.021,0.044,68,reviewed,us,us
 2023-11-30T12:51:59.200Z,38.8366661,-122.8011703,1.95,0.23,md,7,108,0.008632,0.01,nc,nc73969931,2023-11-30T13:29:14.174Z,"7 km WNW of Cobb, CA",earthquake,0.5,1.48,0.15,8,automatic,nc,nc
@@ -97,6 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-30T01:14:45.900Z,19.2838333333333,-155.391333333333,1.85,0.75,md,10,107,,0.07,hv,hv73667297,2023-11-30T03:11:42.320Z,"Hawaii region, Hawaii",earthquake,0.33,0.65,0.126504133528718,4,reviewed,hv,hv
 2023-11-30T01:05:35.178Z,31.62,-103.959,4.7152,1.5,ml(texnet),15,73,0,0.2,tx,tx2023xkmr,2023-11-30T01:48:50.721Z,"western Texas",earthquake,0,1.249439066,0.3,13,automatic,tx,tx
 2023-11-30T01:01:02.840Z,38.7859993,-122.7426682,0.92,1.1,md,15,82,0.005402,0.02,nc,nc73969726,2023-11-30T05:23:18.129Z,"2 km NE of The Geysers, CA",earthquake,0.24,0.4,0.15,16,automatic,nc,nc
+2023-11-30T00:59:39.189Z,35.11833333,-97.56483333,5.23,1.28,ml,62,51,0.05758869913,0.36,ok,ok2023xkmm,2023-11-30T14:03:29.666Z,"1 km NNE of Cole, Oklahoma",earthquake,,0.7,0.2,25,reviewed,ok,ok
 2023-11-30T00:51:46.410Z,38.8213348,-122.7623367,1.99,0.71,md,13,123,0.01087,0.04,nc,nc73969716,2023-11-30T01:08:13.245Z,"3 km W of Cobb, CA",earthquake,0.31,0.51,0.13,13,automatic,nc,nc
 2023-11-30T00:49:25.415Z,31.62,-103.961,5.2467,1.6,ml(texnet),15,75,0,0.3,tx,tx2023xkmd,2023-11-30T01:16:32.503Z,"35 km WSW of Mentone, Texas",earthquake,0,2.118137048,0.3,13,automatic,tx,tx
 2023-11-30T00:38:33.100Z,38.8305016,-122.7661667,0.31,0.76,md,10,136,0.01449,0.03,nc,nc73969701,2023-11-30T00:57:17.170Z,"4 km WNW of Cobb, CA",earthquake,0.3,0.63,0.07,11,automatic,nc,nc
