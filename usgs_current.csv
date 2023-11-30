@@ -72,6 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-29T15:49:15.434Z,40.9649,46.9928,37.634,4.4,mb,59,54,1.727,0.72,us,us7000lejg,2023-11-29T22:39:42.040Z,"23 km NNW of Mingelchaur, Azerbaijan",earthquake,6.37,9.236,0.077,49,reviewed,us,us
 2023-11-29T15:48:53.416Z,35.0654,140.3887,70.804,4.7,mb,22,174,1.854,0.44,us,us7000lejh,2023-11-29T16:34:34.040Z,"11 km SE of Katsuura, Japan",earthquake,4.31,8.742,0.174,12,reviewed,us,us
 2023-11-29T15:43:00.080Z,32.9283333,-116.261,9.89,0.96,ml,28,51,0.04423,0.2,ci,ci39719610,2023-11-29T20:52:56.432Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.28,0.65,0.074,7,reviewed,ci,ci
+2023-11-29T15:41:13.130Z,60.0146666666667,-153.066333333333,0.53,-1.2,ml,4,124,,0.06,av,av92137626,2023-11-30T03:29:03.430Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.22,1.15,0.335421600900803,4,reviewed,av,av
 2023-11-29T15:34:55.580Z,38.8219986,-122.7671661,2.05,0.78,md,9,161,0.008728,0.01,nc,nc73969551,2023-11-29T18:29:15.026Z,"4 km W of Cobb, CA",earthquake,0.47,0.75,0.08,8,automatic,nc,nc
 2023-11-29T15:20:15.890Z,38.8361664,-122.8073349,2.46,0.7,md,10,87,0.01293,0.03,nc,nc73969546,2023-11-29T18:04:12.769Z,"8 km WNW of Cobb, CA",earthquake,0.39,1.04,0.11,10,automatic,nc,nc
 2023-11-29T15:19:00.960Z,34.9323333,-119.6891667,7.39,1.16,ml,15,57,0.01623,0.19,ci,ci39719602,2023-11-29T20:14:08.573Z,"30 km WSW of Maricopa, CA",earthquake,0.34,0.59,0.296,4,reviewed,ci,ci
