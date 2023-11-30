@@ -171,5 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-29T09:52:18.904Z,62.2343,-150.3624,56.4,1.4,ml,,,,0.33,ak,ak023favmnky,2023-11-29T09:54:09.560Z,"11 km SW of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-29T09:49:14.790Z,35.5105,-118.3946667,3.92,0.98,ml,27,40,0.1651,0.14,ci,ci39719482,2023-11-29T19:04:02.207Z,"12 km SE of Bodfish, CA",earthquake,0.15,0.53,0.137,8,reviewed,ci,ci
 2023-11-29T09:47:38.120Z,60.6566,-149.3799,9.3,2.2,ml,,,,0.8,ak,ak023favlmhg,2023-11-29T09:49:51.982Z,"18 km N of Moose Pass, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-29T09:40:20.474Z,61.2477,-152.3498,127.4,2.2,ml,,,,0.44,ak,ak023favk33z,2023-11-29T09:52:19.682Z,"68 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-29T09:39:47.250Z,58.1796666666667,-155.3475,1.99,-0.1,ml,7,233,,0.11,av,av91122848,2023-11-30T02:38:22.680Z,"86 km NW of Karluk, Alaska",earthquake,0.64,0.45,0.194679236123416,7,reviewed,av,av
