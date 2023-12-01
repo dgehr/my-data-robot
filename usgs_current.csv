@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-01T21:16:08.990Z,19.3906669616699,-155.246002197266,1.70000004768372,1.96,ml,18,76,,0.200000003,hv,hv73668657,2023-12-01T21:21:40.910Z,"5 km SSW of Volcano, Hawaii",earthquake,0.33,0.230000004,0.22,7,automatic,hv,hv
 2023-12-01T21:04:25.730Z,38.8261681,-122.8551636,2.58,1.23,md,22,63,0.001917,0.02,nc,nc73970521,2023-12-01T21:17:11.705Z,"10 km WNW of The Geysers, CA",earthquake,0.23,0.45,0.14,22,automatic,nc,nc
-2023-12-01T21:04:14.600Z,38.8264999,-122.8529968,2.56,0.63,md,6,131,0.003202,0.01,nc,nc73970516,2023-12-01T21:14:10.682Z,"10 km WNW of The Geysers, CA",earthquake,0.8,1.38,0.36,8,automatic,nc,nc
+2023-12-01T21:04:14.600Z,38.8264999,-122.8529968,2.56,0.63,md,6,131,0.003202,0.01,nc,nc73970516,2023-12-01T21:27:13.774Z,"10 km WNW of The Geysers, CA",earthquake,0.8,1.38,0.36,8,automatic,nc,nc
 2023-12-01T21:04:03.010Z,34.0913333,-116.7818333,5.93,0.11,ml,4,182,0.06004,0.04,ci,ci39721170,2023-12-01T21:09:53.612Z,"19 km WNW of Morongo Valley, CA",earthquake,2.88,4.31,0.017,3,automatic,ci,ci
 2023-12-01T21:01:44.860Z,33.6241667,-116.6705,13.89,0.86,ml,31,50,0.0447,0.11,ci,ci39721162,2023-12-01T21:08:07.784Z,"8 km N of Anza, CA",earthquake,0.16,0.28,0.124,17,automatic,ci,ci
 2023-12-01T21:00:21.120Z,33.6255,-116.669,14.14,0.84,ml,31,89,0.04347,0.11,ci,ci39721154,2023-12-01T21:07:21.585Z,"8 km N of Anza, CA",earthquake,0.17,0.3,0.141,15,automatic,ci,ci
@@ -55,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T15:51:26.420Z,32.7351685,-115.8781662,6.91,3.48,ml,92,29,0.09499,0.25,ci,ci39720890,2023-12-01T18:00:56.493Z,"11 km E of Ocotillo, CA",earthquake,0.21,0.92,0.317,17,automatic,ci,ci
 2023-12-01T15:46:39.122Z,-15.848,-177.4333,418.793,4.4,mb,41,113,4.717,0.93,us,us7000lf54,2023-12-01T16:57:01.040Z,"185 km SSE of Alo, Wallis and Futuna",earthquake,14.22,7.711,0.066,67,reviewed,us,us
 2023-12-01T15:43:49.770Z,19.1496658325195,-155.475173950195,32.25,1.97,ml,42,163,,0.119999997,hv,hv73668442,2023-12-01T15:49:20.030Z,"5 km S of Pāhala, Hawaii",earthquake,0.52,0.810000002,4.92,5,automatic,hv,hv
-2023-12-01T15:43:46.620Z,32.7348333,-115.8775,4.39,2.57,ml,54,33,0.0949,0.22,ci,ci39720882,2023-12-01T17:35:54.772Z,"11 km E of Ocotillo, CA",earthquake,0.18,0.59,0.14,26,automatic,ci,ci
+2023-12-01T15:43:46.620Z,32.7348333,-115.8775,4.39,2.57,ml,54,33,0.0949,0.22,ci,ci39720882,2023-12-01T21:27:46.455Z,"11 km E of Ocotillo, CA",earthquake,0.18,0.59,0.14,26,automatic,ci,ci
 2023-12-01T15:43:05.720Z,45.5001666666667,-112.761333333333,8.86,1.37,ml,13,147,0.1801,0.08,mb,mb90034488,2023-12-01T15:57:37.010Z,"Western Montana",earthquake,0.34,0.83,0.45411339744235,6,reviewed,mb,mb
 2023-12-01T15:36:34.953Z,31.634,-104.377,6.1316,1.9,ml,18,77,0.1,0.2,tx,tx2023xnkx,2023-12-01T18:42:18.334Z,"60 km S of Whites City, New Mexico",earthquake,0.6517742411,0.6319574131,0.1,14,reviewed,tx,tx
 2023-12-01T15:35:47.870Z,47.8025,-114.189666666667,2.49,1.08,ml,6,93,0.08392,0.08,mb,mb90034498,2023-12-01T16:10:06.890Z,"2 km ESE of Lindisfarne, Montana",earthquake,0.41,0.74,0.183749035835108,2,reviewed,mb,mb
@@ -247,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-30T21:53:47.644Z,31.803,-104.288,6.3501,2,ml,14,62,0.1,0.3,tx,tx2023xmbw,2023-12-01T15:55:25.144Z,"42 km SSE of Whites City, New Mexico",earthquake,2.421158463,0.9242839782,0.2,7,reviewed,tx,tx
 2023-11-30T21:46:02.930Z,32.8696667,-116.2503333,13.79,1.07,ml,28,54,0.09573,0.16,ci,ci39720466,2023-11-30T23:03:53.961Z,"27 km ENE of Pine Valley, CA",earthquake,0.24,0.47,0.124,15,reviewed,ci,ci
 2023-11-30T21:45:35.329Z,35.12666667,-97.55716667,5.61,1.69,ml,92,41,0.06118799283,0.36,ok,ok2023xmbp,2023-12-01T13:05:44.180Z,"3 km NNE of Cole, Oklahoma",earthquake,,0.7,0.24,41,reviewed,ok,ok
-2023-11-30T21:31:14.281Z,61.5837,-150.039,24,1.8,ml,,,,0.62,ak,ak023fcq6oxw,2023-11-30T21:33:31.479Z,"8 km NNW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
