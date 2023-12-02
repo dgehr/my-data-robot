@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-02T14:46:49.820Z,63.4002,-147.1509,72.5,1.6,ml,,,,0.61,ak,ak023ffx6n6s,2023-12-02T14:48:56.060Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-12-02T14:37:10.000Z,8.6,126.4,45,7.7,Mi,46,53.999995680000346,0,1.55,at,at00s51n9y,2023-12-02T14:49:04.493Z,"19 km ENE of Gamut, Philippines",earthquake,0,0,,17,reviewed,at,at
 2023-12-02T14:35:38.180Z,19.3819999694824,-155.279495239258,0.779999971389771,1.92,ml,26,74,,0.189999998,hv,hv73669987,2023-12-02T14:41:08.270Z,"8 km SW of Volcano, Hawaii",earthquake,0.2,0.25999999,0.22,8,automatic,hv,hv
 2023-12-02T14:28:35.450Z,32.6878333,-115.985,8.75,1.38,ml,35,42,0.0662,0.21,ci,ci39721586,2023-12-02T14:34:51.833Z,"5 km S of Ocotillo, CA",earthquake,0.25,0.47,0.196,17,automatic,ci,ci
 2023-12-02T14:26:35.670Z,19.3843326568604,-155.278671264648,1.75999999046326,2.42,ml,32,67,,0.200000003,hv,hv73669967,2023-12-02T14:32:05.700Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.289999992,0.27,12,automatic,hv,hv
@@ -15,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T13:40:37.210Z,36.095,-117.8696667,2.5,1.08,ml,21,85,0.02552,0.16,ci,ci39721554,2023-12-02T13:46:39.358Z,"9 km NE of Coso Junction, CA",earthquake,0.22,0.45,0.247,9,automatic,ci,ci
 2023-12-02T13:29:53.800Z,19.394832611084,-155.278167724609,0.920000016689301,1.80999994,md,12,104,,0.109999999,hv,hv73669782,2023-12-02T13:32:40.830Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.270000011,0.310000002,14,automatic,hv,hv
 2023-12-02T13:29:43.530Z,32.968,-116.2778333,10.06,1.03,ml,44,43,0.0253,0.2,ci,ci39721546,2023-12-02T13:35:46.834Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.21,0.42,0.366,11,automatic,ci,ci
-2023-12-02T13:22:42.121Z,36.5255,-116.6007,0.8,0.7,ml,8,222.35,0.081,0.2271,nn,nn00869560,2023-12-02T13:24:41.777Z,"24 km ENE of Furnace Creek, California",earthquake,,95.4,0.49,5,automatic,nn,nn
+2023-12-02T13:22:42.276Z,36.4779,-116.5921,2.6,0.6,ml,9,124.92,0.116,0.1255,nn,nn00869560,2023-12-02T14:47:49.569Z,"23 km E of Furnace Creek, California",earthquake,,10,0.36,5,reviewed,nn,nn
 2023-12-02T13:22:03.455Z,63.188,-151.3315,0.1,2,ml,,,,0.72,ak,ak023ffwfyrp,2023-12-02T13:24:44.129Z,"43 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-02T12:59:00.800Z,19.3828333333333,-155.277666666667,1.53,2.19,ml,29,70,,0.1,hv,hv73669697,2023-12-02T13:10:52.130Z,"Hawaii region, Hawaii",earthquake,0.16,0.13,0.192917876253356,14,reviewed,hv,hv
 2023-12-02T12:53:55.220Z,33.6881667,-116.8265,16.77,0.43,ml,11,199,0.06067,0.09,ci,ci39721538,2023-12-02T13:00:15.783Z,"9 km SE of Valle Vista, CA",earthquake,0.83,0.5,0.24,7,automatic,ci,ci
@@ -252,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T14:55:23.040Z,19.3901672363281,-155.278335571289,1.3400000333786,1.79,ml,18,54,,0.119999997,hv,hv73668387,2023-12-01T15:00:54.410Z,"Island of Hawaii, Hawaii",earthquake,0.21,0.239999995,0.12,5,automatic,hv,hv
 2023-12-01T14:53:30.216Z,65.0472,-147.0535,0.4,1.8,ml,,,,0.79,ak,ak023fe9or6l,2023-12-01T14:56:03.538Z,"19 km N of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-01T14:50:05.270Z,35.8616667,-117.6746667,6.42,1.33,ml,17,97,0.09045,0.13,ci,ci39720850,2023-12-01T22:03:39.654Z,"22 km ESE of Little Lake, CA",earthquake,0.25,0.53,0.083,10,reviewed,ci,ci
-2023-12-01T14:45:00.940Z,19.3978328704834,-155.248992919922,1.97000002861023,1.87,ml,17,62,,0.189999998,hv,hv73668367,2023-12-01T14:50:32.980Z,"Hawaii region, Hawaii",earthquake,0.26,0.310000002,0.27,4,automatic,hv,hv
