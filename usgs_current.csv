@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-02T04:48:53.700Z,32.737999,-115.8669968,6.24,1.49,ml,24,60,0.1016,0.21,ci,ci39721338,2023-12-02T04:51:11.944Z,"12 km E of Ocotillo, CA",earthquake,0.4,1.58,0.358,8,automatic,ci,ci
 2023-12-02T04:16:50.760Z,38.7765007,-122.7113342,1.77,1.13,md,10,101,0.01256,0.01,nc,nc73970641,2023-12-02T04:35:13.162Z,"2 km W of Anderson Springs, CA",earthquake,0.33,0.58,0.17,11,automatic,nc,nc
 2023-12-02T04:06:17.320Z,19.2165,-64.456,124,3.65,md,4,307,0.8178,0.4,pr,pr2023336001,2023-12-02T04:29:23.254Z,"Virgin Islands region",earthquake,15.61,11.91,0.13,3,reviewed,pr,pr
 2023-12-02T03:51:24.980Z,-8.4445,158.3778,159.477,5.1,mww,54,70,1.839,0.69,us,us7000lfac,2023-12-02T04:10:27.040Z,"137 km WSW of Buala, Solomon Islands",earthquake,11.69,7.02,0.098,10,reviewed,us,us
 2023-12-02T03:45:19.800Z,62.9701,-150.4863,100.2,1.9,ml,,,,0.27,ak,ak023ffqmlho,2023-12-02T03:46:53.267Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-02T03:36:23.570Z,32.7318333,-115.8795,3.99,1.55,ml,32,46,0.09149,0.21,ci,ci39721330,2023-12-02T03:42:44.836Z,"11 km E of Ocotillo, CA",earthquake,0.21,0.8,0.137,18,automatic,ci,ci
 2023-12-02T03:35:57.310Z,32.7425,-115.8738333,1.33,1.12,ml,18,48,0.1031,0.15,ci,ci39721322,2023-12-02T03:41:58.835Z,"11 km E of Ocotillo, CA",earthquake,0.17,0.42,0.248,9,automatic,ci,ci
-2023-12-02T03:35:28.400Z,23.1278,90.927,10,5.5,mww,96,35,4.163,0.67,us,us7000lfaa,2023-12-02T04:41:30.048Z,"Bangladesh",earthquake,8.67,1.844,0.098,10,reviewed,us,us
+2023-12-02T03:35:32.303Z,23.1236,90.9449,38.525,5.5,mww,111,32,4.147,0.63,us,us7000lfaa,2023-12-02T04:48:38.079Z,"10 km ENE of Rāmganj, Bangladesh",earthquake,7.96,5.508,0.073,18,reviewed,us,us
 2023-12-02T03:29:14.451Z,32.7425,-100.5327,9.338,3,mb_lg,21,90,0.759,0.59,us,us7000lfa8,2023-12-02T04:12:18.516Z,"western Texas",earthquake,1.87,7.797,0.058,78,reviewed,us,us
 2023-12-02T03:21:33.685Z,63.1761,-150.5978,130.5,1.9,ml,,,,0.2,ak,ak023ffqhhdk,2023-12-02T03:23:30.833Z,"69 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-12-02T03:15:09.320Z,38.8001671,-122.7393341,1.01,1.1,md,8,106,0.01593,0.02,nc,nc73970636,2023-12-02T03:55:11.932Z,"3 km SSW of Cobb, CA",earthquake,0.34,0.69,0.13,8,automatic,nc,nc
