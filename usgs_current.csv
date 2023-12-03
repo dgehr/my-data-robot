@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T07:46:09.540Z,38.8136673,-122.8193359,2.43,1.09,md,19,53,0.00906,0.03,nc,nc73971086,2023-12-03T08:21:12.063Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.57,0.13,19,automatic,nc,nc
 2023-12-03T07:45:39.320Z,38.8149986,-122.8199997,2.8,0.83,md,11,97,0.009428,0.01,nc,nc73971081,2023-12-03T08:11:14.008Z,"7 km NW of The Geysers, CA",earthquake,0.49,1.15,0.17,14,automatic,nc,nc
 2023-12-03T07:31:43.900Z,38.822834,-122.8113327,1.3,0.78,md,7,119,0.001132,0.03,nc,nc73971076,2023-12-03T07:58:10.939Z,"7 km NW of The Geysers, CA",earthquake,0.52,0.83,0.13,7,automatic,nc,nc
-2023-12-03T07:30:15.733Z,59.4763,-151.5842,47.6,3.5,ml,,,,0.4,ak,ak023fhgggc6,2023-12-03T09:07:01.346Z,"3 km E of Seldovia Village, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-12-03T07:30:15.733Z,59.4763,-151.5842,47.6,3.5,ml,,,,0.4,ak,ak023fhgggc6,2023-12-03T09:40:31.541Z,"3 km E of Seldovia Village, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-12-03T07:29:29.070Z,38.7873344,-122.7678299,1.46,1.5,md,26,80,0.01471,0.03,nc,nc73971071,2023-12-03T07:46:11.868Z,"2 km NW of The Geysers, CA",earthquake,0.22,0.36,0.19,29,automatic,nc,nc
 2023-12-03T07:27:59.190Z,19.4080009460449,-155.270660400391,6.53000020980835,1.76,ml,17,104,,0.289999992,hv,hv73671627,2023-12-03T07:33:29.540Z,"5 km SW of Volcano, Hawaii",earthquake,0.8,0.660000026,0.32,5,automatic,hv,hv
 2023-12-03T07:11:00.002Z,8.7185,126.8649,49.962,4.8,mb,72,81,2.075,0.46,us,us7000lfsa,2023-12-03T08:00:00.040Z,"63 km E of Marihatag, Philippines",earthquake,9.32,7.196,0.063,79,reviewed,us,us
@@ -290,4 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T10:00:35.605Z,37.4187,-116.6037,12.9,1.1,ml,24,142.76,0.182,0.1394,nn,nn00869557,2023-12-02T22:53:42.684Z,"58 km NNE of Beatty, Nevada",earthquake,,1.6,0.15,13,reviewed,nn,nn
 2023-12-02T09:59:37.240Z,33.9133333,-116.7741667,17.95,0.85,ml,41,51,0.08185,0.12,ci,ci39721474,2023-12-02T10:05:47.047Z,"1 km ESE of Cabazon, CA",earthquake,0.16,0.32,0.173,16,automatic,ci,ci
 2023-12-02T09:57:38.000Z,19.3921661376953,-155.276168823242,1.58000004291534,1.76,ml,16,65,,0.140000001,hv,hv73669242,2023-12-02T10:03:09.010Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.200000003,0.09,6,automatic,hv,hv
-2023-12-02T09:39:26.220Z,17.9293333333333,-66.9768333333333,7.8,1.9,md,4,239,0.07553,0.33,pr,pr71432953,2023-12-03T03:01:50.190Z,"8 km WSW of Guánica, Puerto Rico",earthquake,2.9,0.74,0.107016824267242,3,reviewed,pr,pr
