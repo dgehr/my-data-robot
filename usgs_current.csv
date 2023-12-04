@@ -237,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T16:37:22.172Z,61.3418,-147.7287,34.2,1.4,ml,,,,0.19,ak,ak023fhluvax,2023-12-03T16:39:23.228Z,"52 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-03T16:22:09.550Z,32.7413333,-115.867,4.24,1.32,ml,21,49,0.1045,0.19,ci,ci39722098,2023-12-03T16:28:04.111Z,"12 km E of Ocotillo, CA",earthquake,0.24,0.96,0.169,13,automatic,ci,ci
 2023-12-03T16:09:36.280Z,38.493,-112.8351667,-0.22,1.2,ml,11,105,0.01584,0.06,uu,uu60555757,2023-12-04T14:31:06.200Z,"Utah",earthquake,0.28,0.21,0.243,2,reviewed,uu,uu
-2023-12-03T15:42:51.619Z,8.4479,126.8343,54.352,4.7,mb,28,119,1.85,0.59,us,us7000lfwu,2023-12-03T16:06:52.040Z,"54 km NE of Barcelona, Philippines",earthquake,9.15,8.028,0.088,39,reviewed,us,us
