@@ -18,6 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T14:19:00.740Z,44.755,-110.9231667,8.5,0.08,md,6,142,0.05929,0.11,uu,uu60555842,2023-12-05T14:49:21.030Z,"Yellowstone National Park, Wyoming",earthquake,0.55,1.86,0.369,4,reviewed,uu,uu
 2023-12-05T14:17:03.420Z,44.7561667,-110.9245,10.26,0.9,md,8,144,0.05826,0.11,uu,uu60555837,2023-12-05T14:50:55.970Z,"17 km NE of West Yellowstone, Montana",earthquake,0.6,0.99,0.342,7,reviewed,uu,uu
 2023-12-05T14:10:12.670Z,44.7526667,-110.9203333,9.83,0.02,md,5,137,0.0612,0.09,uu,uu60555832,2023-12-05T14:54:33.910Z,"17 km NE of West Yellowstone, Montana",earthquake,0.61,1.1,0.6,3,reviewed,uu,uu
+2023-12-05T14:01:26.880Z,44.66,-114.370833333333,4.17,1.57,ml,10,116,0.6504,0.16,mb,mb90035013,2023-12-05T16:47:31.597Z,"20 km NNW of Challis, Idaho",earthquake,0.52,2.88,0.248648455306069,7,reviewed,mb,mb
 2023-12-05T13:51:05.990Z,44.7433333,-110.914,4.88,-0.08,md,6,121,0.0638,0.04,uu,uu60555827,2023-12-05T14:18:27.370Z,"Wyoming",earthquake,0.33,0.88,0.274,4,reviewed,uu,uu
 2023-12-05T13:42:04.457Z,31.571,-104.556,2.7396,1.9,ml,9,164,0.1,0.2,tx,tx2023xupd,2023-12-05T14:16:53.461Z,"western Texas",earthquake,0,2.107363385,0.1,6,automatic,tx,tx
 2023-12-05T13:37:14.390Z,19.2928333282471,-155.390670776367,1.70000004768372,1.85000002,md,9,130,,0.109999999,hv,hv73673707,2023-12-05T13:40:15.890Z,"Island of Hawaii, Hawaii",earthquake,0.83,1.76999998,0.920000017,3,automatic,hv,hv
@@ -25,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T13:10:55.240Z,38.8240013,-122.8121643,1.46,0.76,md,15,49,0.01788,0.02,nc,nc73972096,2023-12-05T14:57:14.509Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.78,0.08,15,automatic,nc,nc
 2023-12-05T12:59:31.820Z,38.8235016,-122.8111649,1.46,1.06,md,22,38,0.0008588,0.02,nc,nc73972086,2023-12-05T14:30:14.361Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.5,0.16,23,automatic,nc,nc
 2023-12-05T12:53:14.130Z,33.0175,-116.3456667,9.98,1.1,ml,54,35,0.0721,0.19,ci,ci40616288,2023-12-05T12:59:12.581Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.18,0.45,0.161,23,automatic,ci,ci
-2023-12-05T12:49:01.104Z,31.744,-104.117,5.1335,1.9,ml,15,73,0,0.4,tx,tx2023xunk,2023-12-05T13:12:40.326Z,"western Texas",earthquake,0,2.347877124,0.2,12,automatic,tx,tx
+2023-12-05T12:49:00.999Z,31.745,-104.116,6.0287,1.9,ml,19,52,0,0.2,tx,tx2023xunk,2023-12-05T16:48:53.439Z,"western Texas",earthquake,0.5898022272,1.069939001,0.1,7,reviewed,tx,tx
 2023-12-05T12:43:35.310Z,32.771,-115.6901667,11.65,1.56,ml,37,48,0.05865,0.24,ci,ci40616280,2023-12-05T12:49:50.954Z,"12 km W of El Centro, CA",earthquake,0.27,0.45,0.251,20,automatic,ci,ci
 2023-12-05T12:42:35.170Z,8.4858,126.6427,60.278,5.1,mb,76,45,1.758,0.68,us,us7000lgeh,2023-12-05T13:45:25.957Z,"36 km ENE of Hinatuan, Philippines",earthquake,9.02,1.742,0.054,110,reviewed,us,us
 2023-12-05T12:36:38.780Z,2.5566,128.2563,67.028,5.1,mww,103,34,1.983,0.59,us,us7000lgee,2023-12-05T12:53:16.040Z,"Halmahera, Indonesia",earthquake,7.65,6.409,0.093,11,reviewed,us,us
