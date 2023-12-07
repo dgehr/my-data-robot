@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-07T08:29:43.690Z,19.2708339691162,-155.398330688477,29.9799995422363,2.39,ml,45,122,,0.119999997,hv,hv73675327,2023-12-07T08:35:13.670Z,"Island of Hawaii, Hawaii",earthquake,0.44,0.699999988,0.17,5,automatic,hv,hv
-2023-12-07T07:56:57.012Z,61.2191,-146.488,19.2,3.5,ml,,,,0.53,ak,ak023fo2ri4e,2023-12-07T08:32:19.942Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-12-07T07:56:57.012Z,61.2191,-146.488,19.2,3.5,ml,,,,0.53,ak,ak023fo2ri4e,2023-12-07T08:44:04.040Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-07T07:51:56.890Z,19.3833332061768,-155.280838012695,0.209999993443489,1.97,ml,9,93,,0.150000006,hv,hv73675307,2023-12-07T07:57:33.380Z,"8 km SW of Volcano, Hawaii",earthquake,0.57,0.50999999,0.25,10,automatic,hv,hv
 2023-12-07T07:51:55.970Z,19.382999420166,-155.278839111328,1.62999999523163,2.03,ml,20,70,,0.109999999,hv,hv73675302,2023-12-07T07:57:27.370Z,"8 km SW of Volcano, Hawaii",earthquake,0.21,0.230000004,0.23,9,automatic,hv,hv
 2023-12-07T07:47:51.640Z,38.8226662,-122.7646637,2.06,0.77,md,8,194,0.008806,0.01,nc,nc73972736,2023-12-07T08:04:10.953Z,"4 km W of Cobb, CA",earthquake,0.77,1.2,0.08,10,automatic,nc,nc
