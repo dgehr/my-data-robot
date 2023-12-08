@@ -243,5 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T20:52:39.250Z,61.3215,-152.239333333333,2.55,0.51,ml,6,202,,0.07,av,av92147686,2023-12-08T03:30:26.430Z,"65 km WNW of Beluga, Alaska",earthquake,0.69,0.78,0.154217273893352,6,reviewed,av,av
 2023-12-07T20:45:54.520Z,19.2396659851074,-155.399337768555,30.3099994659424,2.4,ml,41,137,,0.109999999,hv,hv73676447,2023-12-07T21:32:20.040Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.5,0.709999979,3.92,7,automatic,hv,hv
 2023-12-07T20:45:24.650Z,19.3705,-155.284,0.82,1.33,ml,13,153,,0.12,hv,hv73676442,2023-12-07T21:45:50.190Z,"9 km SSW of Volcano, Hawaii",earthquake,0.37,0.29,0.183538894984989,3,reviewed,hv,hv
-2023-12-07T20:44:04.560Z,38.5611667,-112.5791667,5.15,0.95,md,5,152,0.1141,0.08,uu,uu60555967,2023-12-07T22:58:11.700Z,"29 km SSW of Kanosh, Utah",earthquake,0.88,2.3,0.457,3,reviewed,uu,uu
-2023-12-07T20:43:19.094Z,12.3893,47.465,10,4.7,mb,60,99,4.599,0.45,us,us7000lh5r,2023-12-07T21:28:02.040Z,"157 km NNW of Las Khorey, Somalia",earthquake,10.66,1.901,0.079,48,reviewed,us,us
