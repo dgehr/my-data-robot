@@ -6,6 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T04:24:23.059Z,52.8666,-167.7997,49.3,2.1,ml,,,,0.41,ak,ak023fpobktp,2023-12-08T04:41:47.488Z,"71 km E of Nikolski, Alaska",earthquake,,6.1,,,reviewed,ak,ak
 2023-12-08T04:20:50.410Z,38.7883339,-122.7669983,1.82,0.73,md,13,77,0.01353,0.02,nc,nc73973081,2023-12-08T04:37:12.780Z,"2 km NW of The Geysers, CA",earthquake,0.28,0.62,0.16,14,automatic,nc,nc
 2023-12-08T04:18:11.374Z,60.0972,-152.5374,102.1,1.9,ml,,,,0.1,ak,ak023fpoab2p,2023-12-08T04:38:36.040Z,"47 km WNW of Happy Valley, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2023-12-08T04:01:40.880Z,19.0746666666667,-155.441666666667,41.86,1.91,md,26,193,,0.14,hv,hv73677257,2023-12-08T05:54:40.820Z,"14 km E of Naalehu, Hawaii",earthquake,0.98,0.7,0.161481925098362,12,reviewed,hv,hv
 2023-12-08T03:54:47.590Z,38.8208351,-122.8043365,1.89,1,md,14,55,0.00516,0.02,nc,nc73973076,2023-12-08T04:13:11.644Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.64,0.24,14,automatic,nc,nc
 2023-12-08T03:49:48.840Z,19.2150001525879,-155.492340087891,43.2999992370605,2.04999995,md,20,248,,0.349999994,hv,hv73677242,2023-12-08T03:52:56.900Z,"1 km NW of Pāhala, Hawaii",earthquake,3.84,1.92999995,1.01999998,3,automatic,hv,hv
 2023-12-08T03:42:21.182Z,52.1686,-168.325,46.7,2.7,ml,,,,0.27,ak,ak023fpnu2dw,2023-12-08T04:37:28.969Z,"93 km SSE of Nikolski, Alaska",earthquake,,3,,,reviewed,ak,ak
@@ -256,6 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T06:15:10.390Z,53.8771666666667,-166.5885,3.06,0.18,ml,4,266,,0.14,av,av92147006,2023-12-08T00:47:21.410Z,"3 km WSW of Dutch Harbor, Alaska",earthquake,1.06,2.73,0.333421639097904,4,reviewed,av,av
 2023-12-07T06:12:10.580Z,38.8409996,-122.8781662,2.48,0.83,md,12,139,0.004973,0.01,nc,nc73972706,2023-12-07T06:37:13.611Z,"13 km ENE of Cloverdale, CA",earthquake,0.36,0.56,0.21,15,automatic,nc,nc
 2023-12-07T06:06:26.520Z,38.8429985,-122.8286667,2.52,0.36,md,8,114,0.006911,0.01,nc,nc73972701,2023-12-07T08:49:11.244Z,"9 km WNW of Cobb, CA",earthquake,0.83,2.12,0.26,8,automatic,nc,nc
-2023-12-07T05:54:33.950Z,58.4815,-154.490833333333,4.89,0.61,ml,10,297,,0.15,av,av92146991,2023-12-08T00:32:41.920Z,"101 km N of Karluk, Alaska",earthquake,0.8,0.62,0.182845242373312,10,reviewed,av,av
-2023-12-07T05:54:20.200Z,33.2628333,-116.4236667,3.96,0.9,ml,44,58,0.00764,0.2,ci,ci40617072,2023-12-07T14:53:37.680Z,"5 km W of Borrego Springs, CA",earthquake,0.2,0.36,0.095,18,reviewed,ci,ci
-2023-12-07T05:50:56.620Z,60.5108333333333,-152.909,6.09,0.31,ml,5,159,,0.09,av,av91123703,2023-12-08T00:22:48.620Z,"84 km ENE of Port Alsworth, Alaska",earthquake,0.39,1.02,0.170509996631274,5,reviewed,av,av
