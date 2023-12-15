@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-15T05:20:06.210Z,38.8463326,-122.8190002,1.46,0.64,md,8,99,0.008982,0.02,nc,nc73976401,2023-12-15T05:21:40.913Z,"9 km WNW of Cobb, CA",earthquake,0.46,0.99,0.18,10,automatic,nc,nc
 2023-12-15T04:55:05.450Z,38.8131676,-122.8154984,2.87,1.07,md,21,51,0.01106,0.02,nc,nc73976396,2023-12-15T05:11:17.761Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.53,0.15,21,automatic,nc,nc
 2023-12-15T04:27:55.020Z,37.8660011,-122.2473297,9.42,1.38,md,17,58,0.01157,0.03,nc,nc73976391,2023-12-15T04:52:13.649Z,"2 km ESE of Berkeley, CA",earthquake,0.25,0.4,0.38,10,automatic,nc,nc
 2023-12-15T04:24:05.910Z,38.8156662,-122.7946701,2.13,1.08,md,22,38,0.007703,0.02,nc,nc73976386,2023-12-15T04:41:17.592Z,"5 km NW of The Geysers, CA",earthquake,0.21,0.38,0.16,22,automatic,nc,nc
@@ -282,5 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-14T05:33:22.509Z,8.6793,127.1705,10,4.6,mb,41,128,2.246,0.53,us,us7000liuu,2023-12-14T06:44:14.040Z,"97 km E of Marihatag, Philippines",earthquake,8.7,1.842,0.095,33,reviewed,us,us
 2023-12-14T05:29:48.060Z,38.4838333,-112.8443333,2.19,-0.55,md,10,104,0.02462,0.07,uu,uu60556337,2023-12-14T14:30:08.990Z,"17 km ENE of Milford, Utah",earthquake,0.3,0.77,0.412,3,reviewed,uu,uu
 2023-12-14T05:26:40.540Z,8.5672,127.1227,10,4.9,mb,61,122,2.134,0.62,us,us7000lius,2023-12-14T06:03:26.040Z,"88 km ENE of Barcelona, Philippines",earthquake,9.9,0.694,0.073,59,reviewed,us,us
-2023-12-14T05:23:50.240Z,34.5111667,-118.1185,13.5,0.61,ml,16,65,0.02739,0.12,ci,ci40443207,2023-12-14T16:32:24.201Z,"1 km N of Vincent, CA",earthquake,0.23,0.4,0.036,4,reviewed,ci,ci
-2023-12-14T05:13:29.790Z,38.8129997,-122.7913361,1.06,0.77,md,6,129,0.005903,0.01,nc,nc73975926,2023-12-14T05:48:13.537Z,"5 km NW of The Geysers, CA",earthquake,0.52,0.88,0.06,9,automatic,nc,nc
