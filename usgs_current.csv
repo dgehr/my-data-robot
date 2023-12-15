@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-15T21:25:33.532Z,62.2941,-151.2098,68.6,1.9,ml,,,,0.61,ak,ak023g1j7nhy,2023-12-15T21:27:10.966Z,"32 km SW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-12-15T21:18:57.870Z,19.2129993438721,-155.470169067383,33.3899993896484,2.27999997,md,15,139,,0.109999999,hv,hv73687327,2023-12-15T21:21:57.860Z,"1 km NE of Pāhala, Hawaii",earthquake,1.51,1.26999998,1.29999995,3,automatic,hv,hv
 2023-12-15T20:58:28.370Z,19.1601657867432,-155.471160888672,31.8199996948242,2.41000009,md,38,107,,0.109999999,hv,hv73687307,2023-12-15T21:03:59.980Z,"4 km S of Pāhala, Hawaii",earthquake,0.57,0.819999993,1.02999997,24,automatic,hv,hv
 2023-12-15T20:56:02.285Z,65.5184,-149.9326,10,2.9,ml,,,,0.61,ak,ak023g1isspw,2023-12-15T20:58:15.593Z,"11 km E of Rampart, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -27,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-15T18:14:37.438Z,60.0203,-140.214,12,1.8,ml,,,,0.8,ak,ak023g1hd05b,2023-12-15T18:17:19.095Z,"59 km NNW of Yakutat, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-12-15T18:11:49.370Z,33.6915,-115.9531667,4.08,0.95,ml,20,107,0.04754,0.16,ci,ci40445199,2023-12-15T19:32:45.499Z,"18 km NE of Mecca, CA",earthquake,0.29,0.75,0.122,13,reviewed,ci,ci
 2023-12-15T17:50:28.501Z,59.1523,-153.1088,77.3,1.9,ml,,,,0.3,ak,ak023g1gz9mq,2023-12-15T17:52:41.489Z,"71 km WSW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-12-15T17:32:40.510Z,19.3858337402344,-155.244995117188,0.819999992847443,2.85,ml,30,53,,0.270000011,hv,hv73687012,2023-12-15T19:43:31.040Z,"6 km S of Volcano, Hawaii",earthquake,0.3,0.159999996,0.38,14,automatic,hv,hv
+2023-12-15T17:32:40.470Z,19.3823333333333,-155.245166666667,1.09,2.63,ml,25,63,,0.1,hv,hv73687012,2023-12-15T21:25:09.410Z,"6 km S of Volcano, Hawaii",earthquake,0.19,0.14,0.205072926805201,16,reviewed,hv,hv
 2023-12-15T17:18:58.530Z,38.8375015,-122.8031693,1.45,0.93,md,13,79,0.01006,0.04,nc,nc73976631,2023-12-15T17:35:17.902Z,"7 km WNW of Cobb, CA",earthquake,0.24,0.41,0.17,16,automatic,nc,nc
 2023-12-15T17:18:46.000Z,33.2356667,-116.7738333,13.72,0.82,ml,24,70,0.01264,0.15,ci,ci40445175,2023-12-15T19:28:40.282Z,"1 km SW of Lake Henshaw, CA",earthquake,0.25,0.64,0.086,10,reviewed,ci,ci
 2023-12-15T17:15:16.695Z,9.0922,-75.2317,11.792,4.5,mwr,69,72,0.801,1.19,us,us7000ljcs,2023-12-15T17:49:47.040Z,"4 km WSW of El Roble, Colombia",earthquake,3.83,4.565,0.08,15,reviewed,us,us
@@ -217,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-14T21:52:34.440Z,60.0286666666667,-153.080166666667,3.91,-0.62,ml,5,101,,0.14,av,av92154316,2023-12-15T01:25:36.240Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.54,1.37,0.205988051374142,5,reviewed,av,av
 2023-12-14T21:44:45.422Z,36.4495,-116.0979,7.2,0.3,ml,8,244.12,0.148,0.1106,nn,nn00870183,2023-12-15T02:20:05.321Z,"28 km NNW of Pahrump, Nevada",earthquake,,6.8,0.4,4,reviewed,nn,nn
 2023-12-14T21:44:01.720Z,19.7838,-64.3256,40,3.73,md,16,287,1.3997,0.37,pr,pr2023348003,2023-12-14T22:04:41.824Z,"168 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.01,24.99,0.14,10,reviewed,pr,pr
-2023-12-14T21:29:46.123Z,51.4791,-174.7542,25.8,3.7,ml,,,,0.41,ak,ak023fzvp6nl,2023-12-14T23:47:24.342Z,"88 km SSW of Atka, Alaska",earthquake,,5.4,,,reviewed,ak,ak
