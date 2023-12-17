@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-17T22:53:41.420Z,38.831501,-122.8018341,1.49,0.27,md,9,75,0.01034,0.01,nc,nc73977566,2023-12-17T22:55:18.029Z,"7 km W of Cobb, CA",earthquake,0.33,0.98,0.17,10,automatic,nc,nc
+2023-12-17T22:50:54.610Z,62.1208,-148.1222,26.8,2.1,ml,,,,0.36,ak,ak023g4v16np,2023-12-17T22:52:45.521Z,"40 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-17T22:32:09.098Z,31.603,-103.976,4.7787,1.8,ml,14,63,0,0.2,tx,tx2023yrer,2023-12-17T22:50:18.643Z,"36 km NNW of Toyah, Texas",earthquake,0,1.270696018,0.2,12,automatic,tx,tx
 2023-12-17T22:31:45.815Z,63.0875,-150.8586,127.6,2.2,ml,,,,0.25,ak,ak023g4ux3dh,2023-12-17T22:45:15.531Z,"66 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-17T22:15:52.170Z,39.9005,39.2946,10,4.2,mb,38,91,0.932,0.88,us,us7000ljrc,2023-12-17T22:37:13.667Z,"24 km NW of Erzincan, Turkey",earthquake,3.78,1.959,0.132,17,reviewed,us,us
