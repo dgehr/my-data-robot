@@ -46,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-19T13:45:28.121Z,62.427,-149.9476,17.4,1.4,ml,,,,0.5,ak,ak023g80puks,2023-12-19T13:47:05.379Z,"8 km ESE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-19T13:43:36.610Z,33.5916667,-116.6355,14.04,1.83,ml,75,21,0.02527,0.15,ci,ci40447727,2023-12-19T18:43:02.600Z,"5 km NE of Anza, CA",earthquake,0.11,0.2,0.246,24,reviewed,ci,ci
 2023-12-19T13:38:06.815Z,36.741,-116.2838,7,-0.2,ml,6,155.35,0.009,0.0755,nn,nn00870309,2023-12-19T15:10:12.375Z,"46 km ESE of Beatty, Nevada",earthquake,,3.1,0.03,2,reviewed,nn,nn
-2023-12-19T13:31:10.080Z,38.7878333,-122.767,1.46,0.35,md,8,96,0.01399,0.01,nc,nc73978136,2023-12-19T19:38:09.223Z,"2 km NW of The Geysers, CA",earthquake,0.33,0.91,0.266,7,reviewed,nc,nc
+2023-12-19T13:31:10.080Z,38.7878333,-122.767,1.46,0.35,md,8,96,0.01399,0.01,nc,nc73978136,2023-12-19T19:51:11.261Z,"2 km NW of The Geysers, CA",earthquake,0.33,0.91,0.266,7,reviewed,nc,nc
 2023-12-19T13:29:22.937Z,62.9534,-151.1298,122.6,2,ml,,,,0.5,ak,ak023g80mepx,2023-12-19T13:32:05.386Z,"54 km NNW of Petersville, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-12-19T13:25:32.840Z,61.233,-145.046,34.8,1,ml,,,,0.21,ak,ak023g80lkmc,2023-12-19T13:26:51.781Z,"45 km SW of Chitina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-19T13:17:31.760Z,19.1523342132568,-155.483337402344,31.9099998474121,1.91999996,md,40,143,,0.140000001,hv,hv73691302,2023-12-19T13:20:32.350Z,"5 km S of Pāhala, Hawaii",earthquake,0.51,0.649999976,1.08000004,7,automatic,hv,hv
@@ -200,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-18T20:00:21.840Z,44.4435,-110.9796667,9.46,0.71,md,10,125,0.1033,0.19,uu,uu60556722,2023-12-18T20:50:38.700Z,"26 km SSE of West Yellowstone, Montana",earthquake,1.13,3.2,0.303,7,reviewed,uu,uu
 2023-12-18T19:58:30.280Z,38.8268318,-122.8083344,1.55,0.62,md,10,94,0.003691,0.02,nc,nc73977866,2023-12-18T22:19:11.391Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.83,0.26,12,automatic,nc,nc
 2023-12-18T19:52:25.460Z,34.548,-119.1386667,1.42,1.37,ml,22,53,0.1108,0.15,ci,ci40447175,2023-12-18T20:15:40.755Z,"15 km NE of Ojai, CA",earthquake,0.19,0.4,0.08,7,reviewed,ci,ci
-2023-12-18T19:46:26.390Z,44.4548333333333,-115.233333333333,11.13,1.57,ml,9,73,0.4457,0.18,mb,mb90036623,2023-12-19T16:19:52.070Z,"35 km NW of Stanley, Idaho",earthquake,0.35,1.18,0.153860858428046,7,reviewed,mb,mb
-2023-12-18T19:46:02.190Z,38.7823334,-122.7523346,5.56,0.39,md,9,94,0.01223,0.19,nc,nc73977861,2023-12-18T20:08:11.594Z,"1 km NNE of The Geysers, CA",earthquake,1.28,1.19,0.23,6,automatic,nc,nc
