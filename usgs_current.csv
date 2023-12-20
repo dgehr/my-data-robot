@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-20T02:31:55.270Z,35.5289993,-120.8381653,5.03,1.74,md,9,106,0.09029,0.02,nc,nc73978411,2023-12-20T02:33:30.178Z,"11 km NNE of Cayucos, CA",earthquake,0.58,2.24,0.09,7,automatic,nc,nc
 2023-12-20T02:19:07.462Z,61.0735,-152.2892,101.4,1.7,ml,,,,0.67,ak,ak023g9hjt7e,2023-12-20T02:21:35.325Z,"62 km W of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-12-20T02:10:31.362Z,59.9896,-152.7558,99,1.9,ml,,,,0.32,ak,ak023g9hhxls,2023-12-20T02:13:38.693Z,"56 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-20T02:09:02.306Z,62.9104,-149.4449,90.9,1.4,ml,,,,1.32,ak,ak023g9hhnna,2023-12-20T02:21:29.212Z,"59 km SSW of Cantwell, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-12-20T02:04:51.830Z,51.1536,-178.1176,39.884,4.3,mb,39,227,0.592,0.75,us,us7000lk87,2023-12-20T02:24:12.973Z,"130 km SW of Adak, Alaska",earthquake,5.76,20.867,0.108,24,reviewed,us,us
 2023-12-20T01:57:24.520Z,19.138500213623,-155.373504638672,27.5699996948242,2.05999994,md,44,184,,0.100000001,hv,hv73691877,2023-12-20T02:00:35.830Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.57,0.680000007,1.62,22,automatic,hv,hv
+2023-12-20T01:55:39.395Z,36.7594,-116.1355,2.9,-0.1,ml,5,204.03,0.014,0.0681,nn,nn00870343,2023-12-20T02:35:32.304Z,"46 km WNW of Indian Springs, Nevada",earthquake,,2.3,0,1,reviewed,nn,nn
 2023-12-20T01:54:11.161Z,51.1083,-178.0481,20.526,4.7,mwr,67,122,0.655,0.88,us,us7000lk85,2023-12-20T02:17:17.937Z,"130 km SW of Adak, Alaska",earthquake,4.97,5.254,0.073,18,reviewed,us,us
 2023-12-20T01:49:13.144Z,31.735,-104.118,4.1302,1.6,mlv,17,63,0,0.3,tx,tx2023yvce,2023-12-20T02:21:41.994Z,"49 km W of Mentone, Texas",earthquake,0,1.260840568,0.2,13,automatic,tx,tx
 2023-12-20T01:42:44.421Z,31.742,-104.117,7.4684,2.7,ml,27,58,0,0.3,tx,tx2023yvbz,2023-12-20T02:09:56.030Z,"49 km W of Mentone, Texas",earthquake,0.6287478206,0.9876647591,0.2,19,reviewed,tx,tx
@@ -235,5 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-19T02:44:21.284Z,38.1612,-117.8906,12.9,1.3,ml,9,96.1,0.083,0.1475,nn,nn00870299,2023-12-19T18:28:47.670Z,"31 km SE of Mina, Nevada",earthquake,,1.1,0.51,4,reviewed,nn,nn
 2023-12-19T02:43:10.934Z,-7.2443,119.1445,594.622,4.9,mb,82,43,2.076,0.69,us,us7000ljz0,2023-12-20T00:25:23.040Z,"142 km NNE of Bima, Indonesia",earthquake,10.34,2.762,0.057,97,reviewed,us,us
 2023-12-19T02:42:29.779Z,-22.7986,172.2892,10,5.1,mww,47,118,4.475,0.8,us,us7000ljz1,2023-12-20T00:14:36.040Z,"southeast of the Loyalty Islands",earthquake,10.17,1.87,0.098,10,reviewed,us,us
-2023-12-19T02:39:21.180Z,33.1113333,-115.6248333,9.51,1.34,ml,32,93,0.06641,0.19,ci,ci40447495,2023-12-19T15:49:01.616Z,"8 km N of Westmorland, CA",earthquake,0.21,0.52,0.214,20,reviewed,ci,ci
-2023-12-19T02:35:17.230Z,38.8263321,-122.8048325,3.06,0.64,md,8,147,0.005036,0.01,nc,nc73977961,2023-12-19T04:50:10.666Z,"7 km NW of The Geysers, CA",earthquake,1.08,1.47,0.12,7,automatic,nc,nc
