@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-21T13:47:14.510Z,38.8143349,-122.8148346,2.54,0.75,md,16,71,0.01805,0.02,nc,nc73978941,2023-12-21T13:48:52.981Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.7,0.23,16,automatic,nc,nc
 2023-12-21T13:39:54.850Z,38.8263321,-122.7901688,1.58,0.76,md,8,165,0.01206,0.01,nc,nc73978926,2023-12-21T13:41:32.330Z,"6 km W of Cobb, CA",earthquake,0.58,0.6,0.2,10,automatic,nc,nc
 2023-12-21T13:19:51.910Z,18.0456666666667,-66.814,12,2.21,md,8,120,0.09375,0.22,pr,pr71434688,2023-12-21T13:34:51.990Z,"3 km NW of Guayanilla, Puerto Rico",earthquake,0.76,1.83,0.0773128849992992,5,reviewed,pr,pr
 2023-12-21T13:17:54.550Z,33.3225,-116.3471667,10.87,1.11,ml,60,48,0.01725,0.18,ci,ci40449063,2023-12-21T13:29:09.400Z,"8 km NNE of Borrego Springs, CA",earthquake,0.16,0.27,0.175,24,automatic,ci,ci
