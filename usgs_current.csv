@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-25T19:12:30.584Z,61.796,-147.3753,34.3,1.6,ml,,,,1.4,ak,ak023gi1bgqa,2023-12-25T19:14:37.639Z,"14 km E of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-25T18:50:37.220Z,35.5859985,-120.9800034,3.07,2.39,md,31,80,0.09417,0.09,nc,nc73980941,2023-12-25T19:06:11.987Z,"9 km ENE of Cambria, CA",earthquake,0.2,0.67,0.11,27,automatic,nc,nc
 2023-12-25T18:48:47.710Z,33.6426667,-116.718,12.48,0.58,ml,39,52,0.04521,0.13,ci,ci40450879,2023-12-25T18:55:05.291Z,"11 km NNW of Anza, CA",earthquake,0.18,0.29,0.106,12,automatic,ci,ci
 2023-12-25T18:47:49.320Z,38.8334999,-122.7998352,2.07,1.09,md,17,51,0.008887,0.01,nc,nc73980936,2023-12-25T19:06:11.812Z,"7 km W of Cobb, CA",earthquake,0.22,0.46,0.32,17,automatic,nc,nc
@@ -62,6 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-25T11:28:01.065Z,61.7841,-150.6868,34,1.9,ml,,,,0.72,ak,ak023ghwnd2i,2023-12-25T11:31:11.396Z,"28 km NNW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-25T11:19:56.790Z,38.7876663,-122.7668304,2.05,1.1,md,21,78,0.01408,0.03,nc,nc73980796,2023-12-25T13:26:10.788Z,"2 km NW of The Geysers, CA",earthquake,0.23,0.41,0.13,22,automatic,nc,nc
 2023-12-25T10:59:04.820Z,33.6223333,-116.683,14.22,0.56,ml,36,48,0.04708,0.13,ci,ci40450791,2023-12-25T17:29:45.220Z,"8 km N of Anza, CA",earthquake,0.15,0.26,0.101,7,reviewed,ci,ci
+2023-12-25T10:52:04.360Z,39.3858,-119.7042,7,-0.1,ml,5,191.17,0.047,0.0699,nn,nn00870638,2023-12-25T19:08:59.157Z,"9 km NNW of Virginia City, Nevada",earthquake,,1.9,0,1,reviewed,nn,nn
 2023-12-25T10:44:41.590Z,38.7879982,-122.741333,0.33,1.63,md,27,86,0.005964,0.05,nc,nc73980786,2023-12-25T12:31:10.494Z,"2 km NE of The Geysers, CA",earthquake,0.2,0.4,0.15,28,automatic,nc,nc
 2023-12-25T10:41:25.970Z,36.0598333,-117.7051667,1.78,0.81,ml,25,62,0.1141,0.16,ci,ci40450783,2023-12-25T17:29:14.557Z,"22 km E of Coso Junction, CA",earthquake,0.23,0.35,0.218,6,reviewed,ci,ci
 2023-12-25T10:32:34.690Z,38.8251648,-122.7594986,2.32,0.28,md,6,223,0.009708,0.03,nc,nc73980776,2023-12-25T11:32:11.268Z,"3 km W of Cobb, CA",earthquake,1.13,1.71,0.16,9,automatic,nc,nc
