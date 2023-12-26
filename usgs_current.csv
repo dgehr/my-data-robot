@@ -191,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-25T20:57:38.100Z,33.648,-116.7165,13.09,0.23,ml,17,86,0.06303,0.1,ci,ci40450927,2023-12-25T21:03:18.322Z,"10 km S of Idyllwild, CA",earthquake,0.31,0.44,0.099,5,automatic,ci,ci
 2023-12-25T20:47:36.320Z,-41.3571,-90.826,10,4.8,mb,41,104,13.177,0.97,us,us7000llel,2023-12-25T21:59:55.040Z,"southeast of Easter Island",earthquake,12.61,1.871,0.098,34,reviewed,us,us
 2023-12-25T20:45:19.867Z,59.7251,-151.1873,38.3,2.3,ml,,,,0.48,ak,ak023gi23y4y,2023-12-25T20:47:22.647Z,"6 km ESE of Fritz Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-12-25T20:43:01.710Z,38.8105011,-122.8216629,2.83,1.84,md,38,53,0.006094,0.04,nc,nc73980971,2023-12-25T22:42:11.035Z,"7 km WNW of The Geysers, CA",earthquake,0.18,0.31,0.16,39,automatic,nc,nc
