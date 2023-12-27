@@ -204,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-26T06:47:31.560Z,40.3838348,-125.0043335,-0.2,2.86,md,25,278,0.6519,0.34,nc,nc73981181,2023-12-26T07:42:11.082Z,"61 km W of Petrolia, CA",earthquake,5.14,11.58,,3,automatic,nc,nc
 2023-12-26T06:45:13.495Z,36.5912,-116.2685,6.8,0.1,ml,11,137.29,0.078,0.0757,nn,nn00870699,2023-12-27T00:59:58.344Z,"49 km NNW of Pahrump, Nevada",earthquake,,2.3,0.54,3,reviewed,nn,nn
 2023-12-26T06:43:03.298Z,61.1402,-150.7812,17.7,1.5,ml,,,,0.46,ak,ak023gjharg9,2023-12-26T06:45:56.127Z,"16 km E of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-12-26T06:42:37.607Z,4.1428,126.6458,59.686,4.6,mb,28,113,3.095,0.79,us,us7000llge,2023-12-26T07:02:32.040Z,"191 km SE of Sarangani, Philippines",earthquake,8.46,7.019,0.114,24,reviewed,us,us
