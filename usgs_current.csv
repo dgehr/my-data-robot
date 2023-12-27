@@ -186,6 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-26T14:11:49.110Z,19.1888332366943,-155.490325927734,34.1100006103516,1.86000001,md,45,69,,0.140000001,hv,hv73697282,2023-12-26T14:14:58.080Z,"1 km SW of Pāhala, Hawaii",earthquake,0.54,0.930000007,1.63999999,6,automatic,hv,hv
 2023-12-26T14:04:24.788Z,65.3257,-145.2574,3.9,1.8,ml,,,,1.21,ak,ak023gjltx0u,2023-12-26T14:06:03.634Z,"34 km SW of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-26T13:58:27.700Z,34.9186667,-118.9983333,11.61,1.11,ml,29,64,0.04878,0.17,ci,ci40451223,2023-12-26T17:23:00.172Z,"7 km WSW of Grapevine, CA",earthquake,0.28,0.54,0.115,8,reviewed,ci,ci
-2023-12-26T13:56:24.360Z,37.9015007,-118.5370026,4.9,1.83,md,9,170,0.2286,0.05,nc,nc73981311,2023-12-26T19:55:23.066Z,"40 km NNE of Toms Place, CA",earthquake,1.29,7.17,0.32,8,automatic,nc,nc
-2023-12-26T13:53:27.969Z,62.3414,-147.6051,44.7,1.8,ml,,,,0.75,ak,ak023gjlizr0,2023-12-26T13:55:12.228Z,"50 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-12-26T13:53:21.320Z,33.2361667,-116.0865,3.93,1.43,ml,65,50,0.09504,0.2,ci,ci40451215,2023-12-26T14:04:02.170Z,"11 km NNE of Ocotillo Wells, CA",earthquake,0.14,0.71,0.11,26,automatic,ci,ci
