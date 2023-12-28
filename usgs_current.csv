@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-27T11:13:53.420Z,52.2633333333333,-174.180166666667,9.06,0.94,ml,5,158,,0.03,av,av92166251,2023-12-27T23:34:32.700Z,"7 km N of Atka, Alaska",earthquake,0.44,0.6,0.311254420293334,5,reviewed,av,av
 2023-12-27T11:01:01.363Z,64.9703,-164.2119,7.653,3,ml,37,76,0.643,0.76,us,us6000m000,2023-12-27T11:44:41.040Z,"47 km NNE of Solomon, Alaska",earthquake,1.52,6.841,0.056,42,reviewed,us,us
 2023-12-27T10:58:44.302Z,63.0375,-149.0946,77.2,2,ml,,,,0.28,ak,ak023gl7b59q,2023-12-27T11:00:31.117Z,"40 km S of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-12-27T10:52:18.062Z,61.1399,-151.5364,66.4,2.2,ml,,,,0.55,ak,ak023gl79sy6,2023-12-27T10:55:11.357Z,"22 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
