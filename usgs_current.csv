@@ -87,7 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T09:09:24.660Z,38.8175011,-122.7983322,2.42,1.3,md,29,33,0.009809,0.02,nc,nc73982011,2023-12-28T11:07:10.684Z,"6 km NW of The Geysers, CA",earthquake,0.19,0.37,0.12,29,automatic,nc,nc
 2023-12-28T09:06:18.077Z,36.6956,-115.9031,7.8,0.6,ml,19,243.08,0.058,0.2267,nn,nn00870788,2023-12-28T09:08:11.480Z,"25 km NW of Indian Springs, Nevada",earthquake,,0.8,0.35,9,automatic,nn,nn
 2023-12-28T09:01:35.411Z,31.606,-103.96,8.5096,1.8,ml,25,48,0,0.2,tx,tx2023zkgm,2023-12-28T16:11:07.651Z,"35 km WSW of Mentone, Texas",earthquake,0.436627961,0.4403707883,0.2,18,reviewed,tx,tx
-2023-12-28T09:01:03.850Z,31.599,-103.959,5.7656,1.7,ml,16,70,0,0.5,tx,tx2023zkgl,2023-12-28T09:16:06.522Z,"35 km NNW of Toyah, Texas",earthquake,0,2.12757919,0.2,12,automatic,tx,tx
+2023-12-28T09:01:03.798Z,31.605,-103.962,8.5096,1.7,ml,27,49,0,0.2,tx,tx2023zkgl,2023-12-28T16:48:43.889Z,"35 km NNW of Toyah, Texas",earthquake,0.4483036395,0.4853271322,0.2,19,reviewed,tx,tx
 2023-12-28T09:00:23.395Z,62.0469,-148.7672,52.7,1.5,ml,,,,0.73,ak,ak023gmtwl0j,2023-12-28T09:01:49.710Z,"29 km N of Sutton-Alpine, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-12-28T08:58:57.800Z,48.64633333333333,-119.89883333333333,0.5,1.6,ml,8,155,0.2365,0.22,uw,uw61978186,2023-12-28T16:11:53.890Z,"14 km NW of Conconully, Washington",earthquake,0.64,14.69,0.12730429656599673,7,reviewed,uw,uw
 2023-12-28T08:54:37.310Z,48.65416666666667,-119.90966666666667,0.34,1.58,ml,8,159,0.2384,0.16,uw,uw61978181,2023-12-28T16:08:16.470Z,"15 km NW of Conconully, Washington",earthquake,0.67,31.61,0.1705700235994141,7,reviewed,uw,uw
@@ -235,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-27T17:25:29.390Z,35.9269981,-117.6825027,2.18,3.22,ml,50,61,0.112,0.18,ci,ci40451791,2023-12-28T10:02:20.409Z,"20 km E of Little Lake, CA",earthquake,0.21,0.44,0.28,23,reviewed,ci,ci
 2023-12-27T17:22:35.315Z,2.6567,128.6047,224.723,4.4,mb,39,79,2.244,0.84,us,us6000m00z,2023-12-27T18:32:52.040Z,"122 km NNE of Tobelo, Indonesia",earthquake,9.98,7.518,0.1,29,reviewed,us,us
 2023-12-27T16:54:56.320Z,44.2296666666667,-115.117333333333,6.11,1.9,ml,12,71,0.2306,0.23,mb,mb90037403,2023-12-28T15:41:45.540Z,"14 km W of Stanley, Idaho",earthquake,0.53,1.21,0.226291499977055,14,reviewed,mb,mb
-2023-12-27T16:48:59.242Z,59.9086,-153.2195,115.9,2.4,ml,,,,0.21,ak,ak023glatmw4,2023-12-27T16:50:48.457Z,"51 km ENE of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
