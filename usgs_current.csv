@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-28T09:51:50.525Z,36.6663,-116.274,6,1.5,ml,30,80.2,0.056,0.2599,nn,nn00870794,2023-12-28T09:54:03.364Z,"50 km ESE of Beatty, Nevada",earthquake,,0.5,0.23,19,automatic,nn,nn
 2023-12-28T09:41:30.580Z,19.3888339996338,-155.277328491211,1.42999994754791,1.70000005,md,17,71,,0.119999997,hv,hv73699097,2023-12-28T09:47:01.560Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.219999999,0.209999993,13,automatic,hv,hv
+2023-12-28T09:37:26.918Z,44.4565,149.0769,40.054,5,mb,85,135,4.668,0.79,us,us6000m05n,2023-12-28T09:56:50.040Z,"127 km SE of Kuril’sk, Russia",earthquake,9.47,6.716,0.038,223,reviewed,us,us
 2023-12-28T09:32:43.710Z,35.2036667,-118.6743333,3.57,1.12,ml,38,62,0.02979,0.2,ci,ci40452047,2023-12-28T09:39:20.274Z,"14 km E of Arvin, CA",earthquake,0.22,0.51,0.09,11,automatic,ci,ci
 2023-12-28T09:31:58.310Z,46.81416702270508,-120.55183410644531,9.85000038146973,1.88,md,19,58,,0.159999996,uw,uw61978196,2023-12-28T09:34:49.650Z,"14 km NE of Naches, Washington",earthquake,0.43,1.58000004,0.340000004,5,automatic,uw,uw
 2023-12-28T09:23:25.630Z,38.8146667,-122.8278351,1.78,0.74,md,8,91,0.005885,0.02,nc,nc73982021,2023-12-28T09:48:13.188Z,"8 km NW of The Geysers, CA",earthquake,0.38,1.1,0.14,8,automatic,nc,nc
