@@ -253,8 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T15:21:51.723Z,63.3285,-145.298,0.9,1.5,ml,,,,0.55,ak,ak023gmxlqv8,2023-12-28T15:23:40.938Z,"30 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-28T15:11:14.007Z,66.3634,-150.387,15.8,1.7,ml,,,,0.48,ak,ak023gmxjivf,2023-12-28T15:14:30.766Z,"70 km WNW of Stevens Village, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-28T15:10:51.060Z,33.6276667,-116.6925,14.3,1.24,ml,48,49,0.06869,0.16,ci,ci40452095,2023-12-28T16:55:55.400Z,"8 km NNW of Anza, CA",earthquake,0.15,0.28,0.243,27,reviewed,ci,ci
-2023-12-28T15:04:23.580Z,44.4858,149.0721,55.554,4.6,mb,107,97,4.665,0.64,us,us6000m080,2023-12-28T15:47:20.040Z,"125 km SE of Kuril’sk, Russia",earthquake,9.48,6.095,0.054,102,reviewed,us,us
-2023-12-28T15:03:49.278Z,31.605,-103.952,5.4995,2.2,ml,16,75,0,0.3,tx,tx2023zksl,2023-12-28T15:45:59.488Z,"35 km WSW of Mentone, Texas",earthquake,0,2.230588786,0.3,12,automatic,tx,tx
-2023-12-28T15:03:16.900Z,31.601,-103.953,5.2327,2.1,ml,16,73,0,0.3,tx,tx2023zksk,2023-12-28T15:45:54.488Z,"35 km NNW of Toyah, Texas",earthquake,0,2.136017456,0.3,12,automatic,tx,tx
-2023-12-28T15:00:00.428Z,66.3617,-150.1392,17.8,2.8,ml,,,,0.96,ak,ak023gmxh4ve,2023-12-28T15:25:46.040Z,"61 km NW of Stevens Village, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-12-28T14:58:39.483Z,31.6,-103.958,5.7414,1.8,ml,15,89,0,0.3,tx,tx2023zksg,2023-12-28T15:45:50.489Z,"35 km NNW of Toyah, Texas",earthquake,0,2.056463366,0.3,13,automatic,tx,tx
