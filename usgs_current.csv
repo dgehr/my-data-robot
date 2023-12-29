@@ -283,6 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T06:27:05.100Z,37.637001,-122.503334,3.09,1,md,5,234,0.05048,0.02,nc,nc73981966,2023-12-28T08:08:10.582Z,"3 km NNW of Pacifica, CA",earthquake,1.2,3.8,0.46,4,automatic,nc,nc
 2023-12-28T06:13:28.132Z,31.746,-104.139,6.093,1.6,ml,27,59,0,0.2,tx,tx2023zkay,2023-12-28T18:53:37.653Z,"51 km W of Mentone, Texas",earthquake,0.4644157677,0.5184097316,0.2,21,reviewed,tx,tx
 2023-12-28T06:08:01.871Z,63.1429,-151.2962,0,1.9,ml,,,,0.52,ak,ak023gms5y9n,2023-12-28T06:09:44.779Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-12-28T05:58:42.740Z,34.2518333,-116.7286667,11.33,1.04,ml,38,59,0.1594,0.14,ci,ci40451999,2023-12-28T16:59:43.006Z,"11 km E of Big Bear City, CA",earthquake,0.18,0.66,0.157,10,reviewed,ci,ci
-2023-12-28T05:55:16.632Z,64.8389,-149.4996,15,1.8,ml,,,,0.55,ak,ak023gmrumgf,2023-12-28T06:02:14.923Z,"31 km NW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-12-28T05:53:30.248Z,57.9386,-156.193,142.3,1.9,ml,,,,0.24,ak,ak023gmru82o,2023-12-28T05:54:55.060Z,"76 km ESE of Egegik, Alaska",earthquake,,3.3,,,automatic,ak,ak
