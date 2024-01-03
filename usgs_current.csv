@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-03T21:48:09.280Z,36.1274986,-121.2894974,12.65,1.23,md,6,125,0.1087,0.03,nc,nc73984861,2024-01-03T21:49:44.634Z,"17 km WSW of King City, CA",earthquake,1.21,2.57,0.18,3,automatic,nc,nc
+2024-01-03T21:54:21.380Z,38.7606659,-122.7338333,1.15,1.65,md,23,64,0.007075,0.06,nc,nc73984866,2024-01-03T21:55:54.930Z,"3 km SE of The Geysers, CA",earthquake,0.27,0.4,0.12,25,automatic,nc,nc
+2024-01-03T21:53:31.730Z,33.5103333,-116.539,9.96,0.61,ml,23,94,0.04751,0.14,ci,ci40454783,2024-01-03T21:59:28.008Z,"13 km ESE of Anza, CA",earthquake,0.26,0.36,0.148,11,automatic,ci,ci
+2024-01-03T21:48:09.280Z,36.1274986,-121.2894974,12.65,1.23,md,6,125,0.1087,0.03,nc,nc73984861,2024-01-03T21:58:10.573Z,"17 km WSW of King City, CA",earthquake,1.21,2.57,0.18,3,automatic,nc,nc
 2024-01-03T21:41:35.890Z,33.2706667,-116.7783333,12.8,0.95,ml,36,42,0.03828,0.14,ci,ci40454775,2024-01-03T21:47:44.671Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.18,0.41,0.15,20,automatic,ci,ci
-2024-01-03T21:34:05.036Z,36.5801,-115.7219,2.9,0.9,ml,8,276.44,0.209,0.1439,nn,nn00871259,2024-01-03T21:45:23.614Z,"4 km WNW of Indian Springs, Nevada",earthquake,,13.9,0.63,6,automatic,nn,nn
+2024-01-03T21:34:05.036Z,36.5801,-115.7219,2.9,0.9,ml,8,276.44,0.209,0.1439,nn,nn00871259,2024-01-03T21:54:45.977Z,"4 km WNW of Indian Springs, Nevada",earthquake,,13.9,0.63,6,automatic,nn,nn
 2024-01-03T21:18:31.080Z,18.0765,-66.1285,21.59,1.52,md,7,93,0.03833,0.07,pr,pr71436148,2024-01-03T21:29:28.490Z,"5 km SE of Cayey, Puerto Rico",earthquake,0.49,0.36,0.102829631636911,5,reviewed,pr,pr
 2024-01-03T21:12:54.420Z,19.9614,145.5203,10,5.2,mb,53,63,4.702,1.23,us,us6000m1j9,2024-01-03T21:42:20.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,11.07,1.847,0.065,78,reviewed,us,us
 2024-01-03T20:51:40.950Z,38.8263321,-122.7953339,2.95,0.78,md,9,67,0.01188,0.02,nc,nc73984856,2024-01-03T21:09:12.278Z,"6 km W of Cobb, CA",earthquake,0.54,1.55,0.09,9,automatic,nc,nc
@@ -58,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-03T14:37:40.030Z,33.5603333,-116.668,10.24,0.91,ml,46,33,0.03189,0.13,ci,ci40454527,2024-01-03T14:43:57.446Z,"1 km NE of Anza, CA",earthquake,0.12,0.23,0.131,20,automatic,ci,ci
 2024-01-03T14:26:56.440Z,38.8173332,-122.7638321,1.76,0.77,md,12,111,0.01378,0.02,nc,nc73984781,2024-01-03T16:48:10.762Z,"4 km W of Cobb, CA",earthquake,0.32,0.68,0.18,12,automatic,nc,nc
 2024-01-03T14:26:34.490Z,38.7988319,-122.8024979,0.4,1.05,md,20,47,0.0105,0.03,nc,nc73984776,2024-01-03T16:55:11.802Z,"5 km WNW of The Geysers, CA",earthquake,0.17,0.44,0.25,21,automatic,nc,nc
-2024-01-03T14:23:35.012Z,27.5128,-111.4222,10,4.5,mb,45,95,0.753,0.77,us,us6000m1f8,2024-01-03T18:00:40.949Z,"61 km SW of San Carlos, Mexico",earthquake,5.57,1.902,0.074,53,reviewed,us,us
+2024-01-03T14:23:35.012Z,27.5128,-111.4222,10,4.5,mb,45,95,0.753,0.77,us,us6000m1f8,2024-01-03T21:54:28.401Z,"61 km SW of San Carlos, Mexico",earthquake,5.57,1.902,0.074,53,reviewed,us,us
 2024-01-03T14:18:51.104Z,16.9811,146.0991,124.744,4.6,mb,45,111,1.756,0.58,us,us6000m1f9,2024-01-03T14:47:57.040Z,"199 km N of Saipan, Northern Mariana Islands",earthquake,12.24,7.374,0.084,42,reviewed,us,us
 2024-01-03T14:08:23.680Z,44.6655,-114.375333333333,7.56,1.59,ml,11,84,0.5524,0.24,mb,mb90037913,2024-01-03T19:01:50.600Z,"21 km NNW of Challis, Idaho",earthquake,0.6,1.38,0.341732484457761,14,reviewed,mb,mb
 2024-01-03T14:00:00.510Z,39.2526,-119.9674,3.1,0.4,ml,5,164.82,0.067,0.1531,nn,nn00871252,2024-01-03T18:09:52.066Z,"0 km ENE of Incline Village, Nevada",earthquake,,6.5,0.33,2,reviewed,nn,nn
@@ -82,6 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-03T11:48:36.550Z,19.195333480835,-155.497833251953,34.4500007629395,2.19,ml,49,66,,0.119999997,hv,hv73708592,2024-01-03T11:54:07.050Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.39,0.579999983,5.16,3,automatic,hv,hv
 2024-01-03T11:41:58.130Z,17.9275,-66.9428333333333,7.95,2.23,md,7,228,0.0551,0.1,pr,pr71436098,2024-01-03T12:26:20.840Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.62,0.85,0.0115641046863519,5,reviewed,pr,pr
 2024-01-03T11:38:33.131Z,39.5633,-119.8027,5.3,0.5,ml,9,110.25,0.022,0.1908,nn,nn00871247,2024-01-03T14:36:13.382Z,"3 km NNE of Reno, Nevada",earthquake,,1.5,0.22,2,reviewed,nn,nn
+2024-01-03T11:35:24.870Z,46.859833333333334,-121.9345,4.57,0.61,ml,28,72,0.01464,0.09,uw,uw61978766,2024-01-03T22:00:39.240Z,"13 km NNE of Ashford, Washington",earthquake,0.21,0.35,0.1414055929216727,14,reviewed,uw,uw
 2024-01-03T11:24:34.660Z,35.958,-117.653,2.22,0.97,ml,20,67,0.1288,0.16,ci,ci40454487,2024-01-03T11:30:31.015Z,"23 km E of Little Lake, CA",earthquake,0.29,0.86,0.125,7,automatic,ci,ci
 2024-01-03T11:16:53.327Z,39.5581,-119.8016,5.5,0.3,ml,8,111.15,0.026,0.1823,nn,nn00871246,2024-01-03T14:29:56.569Z,"3 km NNE of Reno, Nevada",earthquake,,1.7,0,1,reviewed,nn,nn
 2024-01-03T10:50:32.467Z,64.1376,-22.0238,10,4.4,mb,61,81,0.683,0.5,us,us6000m1eg,2024-01-03T18:08:08.040Z,"2 km SW of Seltjarnarnes, Iceland",earthquake,5.24,1.877,0.075,51,reviewed,us,us
@@ -112,10 +115,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-03T08:28:58.990Z,38.7825012,-122.7238312,1.52,1.11,md,11,101,0.0101,0.02,nc,nc73984696,2024-01-03T09:09:11.035Z,"3 km ENE of The Geysers, CA",earthquake,0.29,0.5,0.26,11,automatic,nc,nc
 2024-01-03T08:27:06.184Z,-21.4553,-68.8648,113.91,4.6,mb,41,43,0.488,1.4,us,us6000m1cl,2024-01-03T08:42:41.040Z,"68 km WSW of Ollagüe, Chile",earthquake,5,3.411,0.101,29,reviewed,us,us
 2024-01-03T08:21:30.829Z,39.5525,-119.7976,4.9,0.8,ml,11,107.71,0.032,0.1907,nn,nn00871245,2024-01-03T14:17:26.384Z,"2 km NNE of Reno, Nevada",earthquake,,1.8,0.28,2,reviewed,nn,nn
-2024-01-03T08:10:11.710Z,33.3506667,-116.8951667,9.41,0.56,ml,34,42,0.02737,0.2,ci,ci40454439,2024-01-03T08:16:07.162Z,"3 km W of Palomar Observatory, CA",earthquake,0.23,0.53,0.092,8,automatic,ci,ci
+2024-01-03T08:10:11.600Z,33.3505,-116.8923333,10,0.59,ml,28,41,0.02504,0.16,ci,ci40454439,2024-01-03T22:05:19.773Z,"3 km WSW of Palomar Observatory, CA",earthquake,0.23,0.46,0.117,9,reviewed,ci,ci
 2024-01-03T08:10:00.377Z,-17.6235,167.7744,47.708,4.6,mb,25,193,4.4,0.51,us,us6000m1cj,2024-01-03T18:25:24.897Z,"58 km WNW of Port-Vila, Vanuatu",earthquake,12.05,10.56,0.122,20,reviewed,us,us
 2024-01-03T08:04:45.008Z,31.674,-104.408,0.926,2.1,ml,17,69,0,0.9,tx,tx2024aeha,2024-01-03T08:39:01.033Z,"55 km S of Whites City, New Mexico",earthquake,0,1.451485642,0.2,13,automatic,tx,tx
-2024-01-03T08:04:01.735Z,-28.4553,-68.9432,154.502,5.5,mww,32,39,1.64,1.25,us,us6000m1cg,2024-01-03T10:07:26.866Z,"79 km WNW of Vinchina, Argentina",earthquake,6.12,8.326,0.043,52,reviewed,us,us
+2024-01-03T08:04:01.735Z,-28.4553,-68.9432,154.502,5.5,mww,32,39,1.64,1.25,us,us6000m1cg,2024-01-03T21:54:37.040Z,"79 km WNW of Vinchina, Argentina",earthquake,6.12,8.326,0.043,52,reviewed,us,us
 2024-01-03T07:47:05.320Z,19.1788330078125,-155.503662109375,33.060001373291,2.1400001,md,48,99,,0.129999995,hv,hv73708452,2024-01-03T07:50:17.540Z,"3 km SW of Pāhala, Hawaii",earthquake,0.51,0.769999981,1.41999996,10,automatic,hv,hv
 2024-01-03T07:39:29.181Z,61.8003,-151.8806,97.5,2.2,ml,,,,0.46,ak,ak024530hvd,2024-01-03T07:42:43.201Z,"33 km SW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-01-03T07:15:35.480Z,44.5721666666667,-110.738166666667,10.2,0.26,md,10,90,0.07554,0.1,uu,uu80034046,2024-01-03T14:12:40.960Z,"30 km ESE of West Yellowstone, Montana",earthquake,0.43,1.6,0.156842898270852,5,reviewed,uu,uu
@@ -140,7 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-03T04:09:49.213Z,62.7072,-149.7946,56.2,2.6,ml,,,,0.66,ak,ak024511t55,2024-01-03T04:11:57.645Z,"32 km NNE of Chase, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-01-03T04:01:23.605Z,62.9307,-148.7368,68,2.2,ml,,,,0.97,ak,ak0245101h4,2024-01-03T04:13:01.748Z,"52 km SSE of Cantwell, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-01-03T03:54:13.325Z,37.6402,137.5183,10,4.9,mww,75,97,0.708,0.67,us,us6000m1bt,2024-01-03T04:11:26.040Z,"70 km NE of Anamizu, Japan",earthquake,3.82,1.853,0.093,11,reviewed,us,us
-2024-01-03T03:42:54.440Z,47.788,-122.84133333333334,22.34,0.87,ml,17,72,0.04797,0.23,uw,uw61978746,2024-01-03T21:06:22.140Z,"4 km SE of Quilcene, Washington",earthquake,0.5,0.8,0.05451615225910256,3,reviewed,uw,uw
+2024-01-03T03:42:54.260Z,47.7945,-122.86816666666667,23.52,1.19,ml,10,82,0.03419,0.17,uw,uw61978746,2024-01-03T22:04:31.780Z,"3 km S of Quilcene, Washington",earthquake,0.85,0.94,0.45715619861188406,3,reviewed,uw,uw
 2024-01-03T03:36:55.630Z,19.1948337554932,-155.496002197266,35.3600006103516,2.4,ml,51,77,,0.100000001,hv,hv73708327,2024-01-03T03:42:25.920Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.48,0.569999993,3.72,17,automatic,hv,hv
 2024-01-03T03:34:55.860Z,18.006,-67.0441666666667,13.97,2.29,md,10,90,0.03637,0.11,pr,pr71436058,2024-01-03T03:48:03.420Z,"3 km N of La Parguera, Puerto Rico",earthquake,0.37,0.59,0.0861752576651358,5,reviewed,pr,pr
 2024-01-03T03:26:36.520Z,38.8129997,-122.7928314,0.34,0.95,md,8,82,0.005383,0.02,nc,nc73984661,2024-01-03T03:48:13.157Z,"5 km NW of The Geysers, CA",earthquake,0.29,0.72,0.25,9,automatic,nc,nc
