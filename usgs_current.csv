@@ -8,7 +8,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-03T21:53:31.730Z,33.5103333,-116.539,9.96,0.61,ml,23,94,0.04751,0.14,ci,ci40454783,2024-01-03T21:59:28.008Z,"13 km ESE of Anza, CA",earthquake,0.26,0.36,0.148,11,automatic,ci,ci
 2024-01-03T21:48:09.280Z,36.1274986,-121.2894974,12.65,1.23,md,6,125,0.1087,0.03,nc,nc73984861,2024-01-03T22:12:11.675Z,"17 km WSW of King City, CA",earthquake,1.21,2.57,0.18,3,automatic,nc,nc
 2024-01-03T21:41:35.890Z,33.2706667,-116.7783333,12.8,0.95,ml,36,42,0.03828,0.14,ci,ci40454775,2024-01-03T21:47:44.671Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.18,0.41,0.15,20,automatic,ci,ci
-2024-01-03T21:34:05.036Z,36.5801,-115.7219,2.9,0.9,ml,8,276.44,0.209,0.1439,nn,nn00871259,2024-01-03T21:54:45.977Z,"4 km WNW of Indian Springs, Nevada",earthquake,,13.9,0.63,6,automatic,nn,nn
 2024-01-03T21:18:31.080Z,18.0765,-66.1285,21.59,1.52,md,7,93,0.03833,0.07,pr,pr71436148,2024-01-03T21:29:28.490Z,"5 km SE of Cayey, Puerto Rico",earthquake,0.49,0.36,0.102829631636911,5,reviewed,pr,pr
 2024-01-03T21:12:54.420Z,19.9614,145.5203,10,5.2,mb,53,63,4.702,1.23,us,us6000m1j9,2024-01-03T21:42:20.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,11.07,1.847,0.065,78,reviewed,us,us
 2024-01-03T20:51:40.950Z,38.8263321,-122.7953339,2.95,0.78,md,9,67,0.01188,0.02,nc,nc73984856,2024-01-03T21:09:12.278Z,"6 km W of Cobb, CA",earthquake,0.54,1.55,0.09,9,automatic,nc,nc
@@ -181,5 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-02T23:23:13.028Z,62.8798,-150.6738,88,1.7,ml,,,,0.48,ak,ak0243owmdi,2024-01-02T23:25:28.446Z,"42 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-01-02T23:16:18.070Z,17.8893333333333,-66.8441666666667,8.49,2.2,md,7,238,0.09157,0.06,pr,pr71436043,2024-01-02T23:32:26.020Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.56,1.22,0.0466470185306596,6,reviewed,pr,pr
 2024-01-02T23:05:47.490Z,38.8491669,-122.821167,4.53,1.1,md,11,232,0.01538,0.15,nc,nc73984616,2024-01-02T23:41:17.756Z,"9 km WNW of Cobb, CA",earthquake,2.17,3.28,0.2,11,automatic,nc,nc
-2024-01-02T22:57:01.340Z,-23.3985,-66.6101,196.916,5,mww,68,73,1.511,1.16,us,us6000m1ae,2024-01-02T23:09:44.040Z,"95 km NNW of San Antonio de los Cobres, Argentina",earthquake,8.49,6.779,0.06,27,reviewed,us,us
-2024-01-02T22:55:21.440Z,62.1448,-151.9693,104.1,2.5,ml,,,,0.48,ak,ak0243oi2c0,2024-01-02T23:14:28.040Z,"34 km WNW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
