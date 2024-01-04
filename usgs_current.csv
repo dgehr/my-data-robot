@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-04T08:29:48.560Z,60.3405,-152.9061,130.5,2,ml,,,,0.63,ak,ak0246r36bs,2024-01-04T08:31:44.083Z,"75 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-04T08:20:51.363Z,62.7156,-152.1389,18,1.5,ml,,,,0.67,ak,ak0246r193p,2024-01-04T08:28:42.128Z,"74 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-01-04T08:17:16.060Z,38.793499,-122.7636642,2.66,1.09,md,11,78,0.01896,0.02,nc,nc73984981,2024-01-04T08:29:11.566Z,"2 km NNW of The Geysers, CA",earthquake,0.35,1.11,0.08,12,automatic,nc,nc
+2024-01-04T08:17:16.060Z,38.793499,-122.7636642,2.66,1.09,md,11,78,0.01896,0.02,nc,nc73984981,2024-01-04T08:34:13.590Z,"2 km NNW of The Geysers, CA",earthquake,0.35,1.11,0.08,12,automatic,nc,nc
 2024-01-04T07:53:21.934Z,64.518,-147.7097,18.2,1.2,ml,,,,0.29,ak,ak0246qmtup,2024-01-04T07:55:00.467Z,"31 km SSW of North Pole, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-04T07:50:10.570Z,35.442,-118.6466667,-0.38,1.14,ml,17,90,0.1095,0.26,ci,ci40454999,2024-01-04T07:56:13.653Z,"21 km SW of Bodfish, CA",earthquake,0.53,1.08,0.044,6,automatic,ci,ci
 2024-01-04T07:39:45.450Z,18.0913333333333,-66.8315,21.19,2.25,md,7,149,0.1243,0.22,pr,pr71436213,2024-01-04T07:48:57.400Z,"6 km NNE of Yauco, Puerto Rico",earthquake,0.93,1.79,0.088967175822662,5,reviewed,pr,pr
@@ -194,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-03T08:45:10.730Z,33.2706667,-116.776,13.57,0.28,ml,29,42,0.03749,0.16,ci,ci40454447,2024-01-03T22:10:07.312Z,"3 km NNW of Lake Henshaw, CA",earthquake,0.24,0.61,0.128,6,reviewed,ci,ci
 2024-01-03T08:39:14.403Z,39.4468,-119.479,8,1.7,ml,14,56.01,0.228,0.1449,nn,nn00871240,2024-01-03T14:26:48.138Z,"12 km NW of Stagecoach, Nevada",earthquake,,2.2,0.25,8,reviewed,nn,nn
 2024-01-03T08:39:02.570Z,19.2625007629395,-155.405334472656,31.3400001525879,2.13000011,md,46,135,,0.170000002,hv,hv73708487,2024-01-03T08:42:11.960Z,"10 km NE of Pāhala, Hawaii",earthquake,0.58,0.870000005,0.400000006,25,automatic,hv,hv
-2024-01-03T08:30:50.661Z,39.5597,-119.7907,4.2,0.7,ml,6,113.67,0.032,0.1198,nn,nn00871250,2024-01-03T17:35:43.836Z,"3 km NNE of Reno, Nevada",earthquake,,2.1,0.63,3,reviewed,nn,nn
