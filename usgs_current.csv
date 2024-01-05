@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-05T02:08:36.800Z,38.7734985,-122.7406693,0.73,1.05,md,11,76,0.0102,0.03,nc,nc73985211,2024-01-05T02:26:12.549Z,"1 km ESE of The Geysers, CA",earthquake,0.22,0.39,0.1,13,automatic,nc,nc
 2024-01-05T01:44:23.714Z,64.0925,-150.1583,1.1,2.3,ml,,,,0.81,ak,ak0248ajner,2024-01-05T01:46:13.853Z,"50 km WSW of Clear, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-05T01:25:25.580Z,19.296667098999,-155.407333374023,26.3999996185303,1.97000003,md,40,109,,0.150000006,hv,hv73710087,2024-01-05T01:28:42.240Z,"12 km NE of Pāhala, Hawaii",earthquake,0.54,0.800000012,1.39999998,23,automatic,hv,hv
 2024-01-05T01:19:40.630Z,38.8510017,-122.7926636,14.11,0.38,md,15,163,0.005201,0.12,nc,nc73985201,2024-01-05T01:48:14.334Z,"7 km WNW of Cobb, CA",earthquake,1.26,1.01,0.19,17,automatic,nc,nc
@@ -235,6 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-04T02:50:23.340Z,19.1626663208008,-155.38883972168,28.2299995422363,1.72000003,md,34,202,,0.119999997,hv,hv73709402,2024-01-04T02:53:34.920Z,"10 km ESE of Pāhala, Hawaii",earthquake,0.77,1.14999998,0.730000019,3,automatic,hv,hv
 2024-01-04T02:45:38.750Z,19.1793327331543,-155.470169067383,33.1500015258789,1.85000002,md,30,230,,0.180000007,hv,hv73709392,2024-01-04T02:48:45.990Z,"2 km SSE of Pāhala, Hawaii",earthquake,1.02,1.30999994,0.790000021,3,automatic,hv,hv
 2024-01-04T02:34:17.940Z,19.1498333333333,-155.371166666667,29.22,1.58,md,28,225,,0.16,hv,hv73709372,2024-01-04T21:35:13.030Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.57,0.79,0.0650114620159419,12,reviewed,hv,hv
-2024-01-04T02:27:27.431Z,37.4079,-116.9236,14.7,1.4,ml,18,108.91,0.309,0.1148,nn,nn00871279,2024-01-04T17:28:53.314Z,"43 km SE of Goldfield, Nevada",earthquake,,6.2,0.36,9,reviewed,nn,nn
-2024-01-04T02:20:16.867Z,62.0383,-152.0295,96.9,1.9,ml,,,,0.58,ak,ak0246ngkr0,2024-01-04T02:22:44.999Z,"33 km W of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-01-04T01:59:05.240Z,37.2426667,-118.1415,12.32,1.72,md,13,221,0.1136,0.07,nc,nc73984921,2024-01-04T09:08:14.927Z,"16 km ENE of Big Pine, CA",earthquake,0.85,0.73,0.254,14,reviewed,nc,nc
