@@ -209,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-08T11:05:42.100Z,60.0286666666667,-153.0965,-2.26,-0.35,ml,5,119,,0.08,av,av92176891,2024-01-09T00:21:46.050Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.24,2.69,0.418050097194157,5,reviewed,av,av
 2024-01-08T11:04:17.964Z,62.9912,-149.7335,88.7,2,ml,,,,0.8,ak,ak024devfus,2024-01-08T11:07:16.190Z,"59 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-01-08T10:55:14.180Z,38.822834,-122.8568344,2.59,1.18,md,24,99,0.004704,0.02,nc,nc73986481,2024-01-08T13:53:11.342Z,"10 km WNW of The Geysers, CA",earthquake,0.23,0.45,0.15,24,automatic,nc,nc
-2024-01-08T10:53:11.660Z,38.8223343,-122.856163,2.48,1.23,md,22,97,0.005233,0.02,nc,nc73986476,2024-01-08T13:26:13.166Z,"10 km WNW of The Geysers, CA",earthquake,0.25,0.51,0.17,25,automatic,nc,nc
