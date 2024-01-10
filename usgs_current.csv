@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-10T19:38:29.400Z,35.6725,-117.482,2.95,1.62,ml,28,59,0.04803,0.11,ci,ci40457911,2024-01-10T19:44:59.552Z,"13 km SW of Searles Valley, CA",earthquake,0.17,0.21,0.124,17,automatic,ci,ci
+2024-01-10T19:35:44.390Z,33.653,-116.9988333,9.29,1.15,ml,8,291,0.2181,0.24,ci,ci40457903,2024-01-10T19:42:12.533Z,"10 km SE of Winchester, CA",earthquake,12.23,9.67,0.499,14,automatic,ci,ci
 2024-01-10T19:19:39.834Z,58.2838,-155.1994,1.2,0.3,ml,,,,0.5,ak,ak024gusv3z,2024-01-10T19:20:56.078Z,"91 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-01-10T18:55:47.500Z,39.0709991,-122.2578354,6.19,1.62,md,7,168,0.3994,0.13,nc,nc73987466,2024-01-10T19:28:12.524Z,"13 km SW of Williams, CA",earthquake,7.67,7.59,,1,automatic,nc,nc
 2024-01-10T18:53:34.620Z,19.404167175293,-155.288665771484,0.660000026226044,1.83,ml,17,64,,0.129999995,hv,hv73714072,2024-01-10T18:59:05.610Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.280000001,0.14,6,automatic,hv,hv
@@ -139,6 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-10T00:54:12.500Z,38.8148346,-122.8188324,2.82,1.09,md,25,51,0.01004,0.02,nc,nc73987236,2024-01-10T01:23:13.274Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.5,0.14,25,automatic,nc,nc
 2024-01-10T00:44:19.600Z,38.8116684,-122.8130035,2.92,1.27,md,24,51,0.01193,0.02,nc,nc73987231,2024-01-10T04:39:10.453Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.49,0.18,25,automatic,nc,nc
 2024-01-10T00:42:53.190Z,38.8125,-122.8144989,3.02,0.81,md,15,62,0.01142,0.01,nc,nc73987226,2024-01-10T01:00:14.005Z,"6 km NW of The Geysers, CA",earthquake,0.34,0.89,0.16,16,automatic,nc,nc
+2024-01-10T00:39:30.580Z,61.3083333333333,-152.258333333333,9.41,0.12,ml,5,149,,0.17,av,av91126873,2024-01-10T19:44:49.290Z,"65 km WNW of Beluga, Alaska",earthquake,0.54,1.96,0.328432211938844,5,reviewed,av,av
 2024-01-10T00:21:59.270Z,38.7816658,-122.7613297,2.62,1.11,md,16,75,0.01146,0.07,nc,nc73987221,2024-01-10T04:09:11.271Z,"1 km NW of The Geysers, CA",earthquake,0.38,0.59,0.12,14,automatic,nc,nc
 2024-01-10T00:06:35.882Z,38.1254,-118.2517,10.5,3.1,ml,11,51.86,0.222,0.1661,nn,nn00871538,2024-01-10T00:31:19.976Z,"31 km SSW of Mina, Nevada",earthquake,,2,0.16,5,reviewed,nn,nn
 2024-01-10T00:05:58.320Z,18.109,-66.1466666666667,16.72,1.84,md,6,158,0.003172,0.18,pr,pr71436658,2024-01-10T00:13:47.090Z,"2 km E of Cayey, Puerto Rico",earthquake,1.16,0.57,0.136323983004126,5,reviewed,pr,pr
