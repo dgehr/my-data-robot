@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-12T19:27:26.013Z,63.5669,-150.8315,7.4,2.8,ml,,,,0.57,ak,ak024k5x8rd,2024-01-12T19:29:11.704Z,"44 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-12T19:26:24.530Z,61.4698,-146.3092,41.7,1.8,ml,,,,0.4,ak,ak024k5x0xh,2024-01-12T19:28:12.000Z,"37 km N of Valdez, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-01-12T19:04:30.150Z,37.1877,136.8201,3.923,4.3,mwr,131,44,1.282,0.93,us,us6000m3d5,2024-01-12T20:10:12.040Z,"8 km SW of Anamizu, Japan",earthquake,4.22,3.977,0.073,18,reviewed,us,us
-2024-01-12T19:00:12.920Z,35.9103333,-117.745,7.69,0.98,ml,20,67,0.07071,0.11,ci,ci40458655,2024-01-12T19:06:01.275Z,"15 km ESE of Little Lake, CA",earthquake,0.16,0.41,0.155,8,automatic,ci,ci
+2024-01-12T19:00:12.890Z,35.9096667,-117.7478333,8.21,1.02,ml,20,66,0.06918,0.16,ci,ci40458655,2024-01-12T20:21:15.037Z,"15 km ESE of Little Lake, CA",earthquake,0.23,0.62,0.127,6,reviewed,ci,ci
 2024-01-12T18:58:52.487Z,62.145,-147.5781,35.5,2.1,ml,,,,1.45,ak,ak024k5iie8,2024-01-12T19:00:18.423Z,"31 km NW of Eureka Roadhouse, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-01-12T18:49:10.238Z,-18.1607,-177.9075,614.927,4.5,mb,58,42,3.742,0.61,us,us6000m3d1,2024-01-12T19:38:31.040Z,"293 km E of Levuka, Fiji",earthquake,13.5,7.033,0.07,61,reviewed,us,us
 2024-01-12T18:44:20.535Z,31.72,-104.628,2.1357,2.3,ml,6,219,0.1,0.2,tx,tx2024avnq,2024-01-12T19:03:05.792Z,"55 km SSW of Whites City, New Mexico",earthquake,0,3.50786334,0.3,6,automatic,tx,tx
@@ -83,6 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-12T10:30:04.610Z,19.4096660614014,-155.284332275391,0.75,1.75,md,14,54,,0.0799999982,hv,hv73715102,2024-01-12T10:32:58.410Z,"6 km SW of Volcano, Hawaii",earthquake,0.21,0.219999999,0.920000017,13,automatic,hv,hv
 2024-01-12T09:56:21.460Z,39.5579,-119.8033,5.2,0.8,ml,12,77.97,0.012,0.1729,nn,nn00871646,2024-01-12T16:09:05.010Z,"3 km NNE of Reno, Nevada",earthquake,,1,0.4,3,reviewed,nn,nn
 2024-01-12T09:48:00.072Z,8.3104,126.7961,37.358,4.7,mb,33,132,1.725,0.73,us,us6000m39g,2024-01-12T10:22:03.040Z,"43 km ENE of Barcelona, Philippines",earthquake,6.4,8.454,0.096,33,reviewed,us,us
+2024-01-12T09:34:32.060Z,54.744,-164.079833333333,3.23,1.48,ml,5,269,,0.08,av,av91127098,2024-01-12T20:21:32.190Z,"44 km WSW of False Pass, Alaska",earthquake,0.73,0.43,0.447197111177306,5,reviewed,av,av
 2024-01-12T09:31:37.527Z,63.0395,-148.9445,5.7,1.4,ml,,,,0.68,ak,ak024jzzsgo,2024-01-12T09:34:45.792Z,"39 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-12T09:31:32.279Z,1.2113,126.2819,76.471,4.6,mb,40,89,1.169,0.75,us,us6000m39e,2024-01-12T10:05:16.040Z,"130 km E of Bitung, Indonesia",earthquake,9.68,8.276,0.095,33,reviewed,us,us
 2024-01-12T09:18:53.660Z,33.0413333,-116.3893333,11.27,0.7,ml,35,77,0.0545,0.18,ci,ci40458463,2024-01-12T19:35:14.211Z,"20 km ESE of Julian, CA",earthquake,0.22,0.33,0.101,8,reviewed,ci,ci
@@ -120,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-12T05:06:55.150Z,45.724,-112.1235,6.35,0.36,ml,6,173,0.1071,0.06,mb,mb90038498,2024-01-12T15:35:55.100Z,"16 km S of Whitehall, Montana",earthquake,0.79,1.7,0.213220116617496,3,reviewed,mb,mb
 2024-01-12T05:00:34.880Z,17.9646666666667,-66.8171666666667,15.68,2.02,md,6,204,0.06,0.09,pr,pr71436723,2024-01-12T05:16:51.940Z,"3 km S of Indios, Puerto Rico",earthquake,0.91,0.58,0.122272575558212,5,reviewed,pr,pr
 2024-01-12T04:59:22.626Z,61.5723,-149.722,35,1.4,ml,,,,0.58,ak,ak024jx6lc6,2024-01-12T05:01:29.409Z,"8 km SE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-01-12T04:47:12.060Z,32.9325,-116.2706667,5.85,1.61,ml,75,42,0.03525,0.19,ci,ci40458415,2024-01-12T04:58:34.190Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.14,0.49,0.182,27,automatic,ci,ci
+2024-01-12T04:47:11.990Z,32.9343333,-116.2688333,6.02,1.63,ml,62,43,0.03539,0.17,ci,ci40458415,2024-01-12T20:24:38.723Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.15,0.61,0.197,21,reviewed,ci,ci
 2024-01-12T04:38:13.830Z,39.3481674,-123.242836,7.43,1.62,md,9,105,0.09259,0.03,nc,nc73988116,2024-01-12T07:21:10.172Z,"10 km NNW of Redwood Valley, CA",earthquake,0.31,1.66,0.15,8,automatic,nc,nc
 2024-01-12T04:37:39.100Z,32.9038333,-115.9476667,7.81,1.11,ml,35,37,0.02481,0.17,ci,ci40458407,2024-01-12T19:48:12.953Z,"19 km NNE of Ocotillo, CA",earthquake,0.19,0.34,0.087,11,reviewed,ci,ci
 2024-01-12T04:32:14.000Z,38.831665,-122.8186646,1.81,0.83,md,9,95,0.01064,0.01,nc,nc73988111,2024-01-12T06:54:10.856Z,"8 km NW of The Geysers, CA",earthquake,0.5,1.42,0.25,10,automatic,nc,nc
@@ -179,6 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-11T20:54:28.421Z,37.5586,137.6474,10,4.5,mb,43,110,0.681,0.68,us,us6000m36x,2024-01-11T21:11:52.040Z,"61 km NNW of Itoigawa, Japan",earthquake,4.51,1.883,0.109,25,reviewed,us,us
 2024-01-11T20:36:04.680Z,33.8683333,-117.5106667,-0.48,1.13,ml,27,38,0.07459,0.25,ci,ci40458223,2024-01-11T23:40:23.936Z,"1 km SE of Home Gardens, CA",quarry blast,0.41,31.61,0.087,5,reviewed,ci,ci
 2024-01-11T20:32:03.650Z,55.9187,-153.7341,27.2,3.1,ml,,,,0.86,ak,ak024ij0e9z,2024-01-12T13:39:03.040Z,"117 km SSE of Akhiok, Alaska",earthquake,,2.3,,,reviewed,ak,ak
-2024-01-11T20:22:43.050Z,53.8828333333333,-166.9265,6.64,-0.09,ml,7,188,,0.19,av,av91127063,2024-01-11T22:58:47.750Z,"25 km W of Dutch Harbor, Alaska",earthquake,0.69,1.25,0.191479219174277,7,reviewed,av,av
-2024-01-11T20:22:09.377Z,63.488,-148.7004,12,1.4,ml,,,,1.04,ak,ak024iiy809,2024-01-11T20:24:15.769Z,"16 km NE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-01-11T20:17:41.840Z,38.3246667,-122.7413333,-0.12,0.95,md,15,83,0.07529,0.06,nc,nc73987961,2024-01-12T05:14:08.082Z,"3 km W of Cotati, CA",quarry blast,0.35,31.61,0.366,17,reviewed,nc,nc
