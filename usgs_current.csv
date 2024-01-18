@@ -195,6 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-17T10:02:05.204Z,31.585,-104.119,7.6226,1.6,ml,12,82,0,0.2,tx,tx2024bdzx,2024-01-17T15:46:18.739Z,"43 km NW of Toyah, Texas",earthquake,1.237464623,0.6345492959,0.2,9,reviewed,tx,tx
 2024-01-17T10:01:17.530Z,61.5344,-147.9155,37.2,1,ml,,,,0.17,ak,ak024sa3hig,2024-01-17T10:03:29.530Z,"33 km SSW of Glacier View, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-01-17T09:53:57.320Z,19.2938327789307,-155.412826538086,30.3999996185303,2.05999994,md,35,108,,0.129999995,hv,hv73719987,2024-01-17T09:57:06.060Z,"12 km NE of Pāhala, Hawaii",earthquake,0.57,0.810000002,1.10000002,12,automatic,hv,hv
-2024-01-17T09:52:15.620Z,17.9241666666667,-66.9701666666667,12.13,1.94,md,4,234,0.08364,0.02,pr,pr71437063,2024-01-17T10:42:33.530Z,"8 km SW of Guánica, Puerto Rico",earthquake,1.67,0.6,0.0350433841774602,3,reviewed,pr,pr
-2024-01-17T09:52:01.760Z,34.9978333,-119.2351667,-0.73,1.69,ml,40,53,0.1415,0.25,ci,ci40461391,2024-01-17T18:55:42.558Z,"16 km ESE of Maricopa, CA",earthquake,0.24,0.53,0.163,13,reviewed,ci,ci
-2024-01-17T09:47:36.871Z,58.3569,-154.5452,39.3,1.2,ml,,,,1.32,ak,ak024s9ryc7,2024-01-17T09:49:48.970Z,"87 km N of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
