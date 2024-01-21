@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-21T13:17:25.268Z,63.5391,-150.878,1.3,1.5,ml,,,,0.63,ak,ak024yy4mcu,2024-01-21T13:19:20.561Z,"42 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-21T13:16:01.084Z,38.5255,-119.4839,0.1,1.4,ml,10,155.23,0.18,0.2183,nn,nn00872036,2024-01-21T13:18:37.605Z,"1 km NNW of Walker, California",earthquake,,13.2,0.31,4,automatic,nn,nn
 2024-01-21T12:43:19.148Z,64.8113,-147.4284,14.1,1,ml,,,,0.28,ak,ak024yxoqwa,2024-01-21T12:44:51.595Z,"5 km ENE of Badger, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-01-21T12:21:32.970Z,38.7770004,-122.7183304,1.77,1.74,md,11,89,0.01567,0.03,nc,nc73992151,2024-01-21T13:36:10.283Z,"2 km W of Anderson Springs, CA",earthquake,0.42,0.61,0.31,11,automatic,nc,nc
+2024-01-21T12:21:32.970Z,38.7770004,-122.7183304,1.77,1.74,md,11,89,0.01567,0.03,nc,nc73992151,2024-01-21T13:49:14.366Z,"2 km W of Anderson Springs, CA",earthquake,0.42,0.61,0.31,11,automatic,nc,nc
 2024-01-21T12:21:16.460Z,38.7723351,-122.7121658,2.86,1.75,md,14,103,0.0109,0.05,nc,nc73992146,2024-01-21T13:23:18.206Z,"2 km W of Anderson Springs, CA",earthquake,0.45,0.5,0.15,16,automatic,nc,nc
 2024-01-21T12:10:14.582Z,31.525,-104.006,4.8373,1.5,ml,13,59,0,0.2,tx,tx2024blmd,2024-01-21T12:26:19.124Z,"30 km NW of Toyah, Texas",earthquake,0,1.620772806,0.2,9,automatic,tx,tx
 2024-01-21T12:06:59.395Z,37.249,-114.9293,12.6,2.8,ml,5,128.34,0.185,0.074,nn,nn00872033,2024-01-21T13:31:29.334Z,"24 km ESE of Alamo, Nevada",earthquake,,8.4,0.57,4,reviewed,nn,nn
