@@ -239,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-26T18:03:39.920Z,19.2875003814697,-155.389495849609,-0.439999997615814,1.80999994,md,24,158,,0.230000004,hv,hv73727512,2024-01-26T18:06:38.770Z,"13 km NE of Pāhala, Hawaii",earthquake,0.45,0.230000004,1.51999998,10,automatic,hv,hv
 2024-01-26T17:58:50.560Z,38.8240013,-122.8446655,2.11,0.61,md,9,102,0.007578,0.02,nc,nc73994436,2024-01-26T18:15:10.622Z,"9 km NW of The Geysers, CA",earthquake,0.32,1.12,0.15,9,automatic,nc,nc
 2024-01-26T17:51:59.050Z,38.821167,-122.8018341,3.45,0.21,md,10,132,0.00681,0.01,nc,nc73994426,2024-01-26T18:03:11.540Z,"6 km NW of The Geysers, CA",earthquake,0.82,2.08,0.09,10,automatic,nc,nc
-2024-01-26T17:37:25.941Z,61.6637,-147.0581,23.9,1.7,ml,,,,0.7,ak,ak02417abdma,2024-01-26T17:39:10.909Z,"31 km S of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
