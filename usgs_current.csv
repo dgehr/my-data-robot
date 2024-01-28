@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-28T10:37:35.820Z,19.3891658782959,-155.280838012695,0.959999978542328,1.74000001,md,10,137,,0.0700000003,hv,hv73730922,2024-01-28T10:40:34.860Z,"7 km SW of Volcano, Hawaii",earthquake,0.23,0.219999999,1.88,4,automatic,hv,hv
 2024-01-28T10:33:19.118Z,61.5649,-151.7397,77.1,2,ml,,,,0.72,ak,ak0241ah75zb,2024-01-28T10:35:22.805Z,"50 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-28T10:29:58.080Z,19.3816661834717,-155.276336669922,1.46000003814697,2.15,ml,26,47,,0.189999998,hv,hv73730887,2024-01-28T10:36:10.180Z,"8 km SSW of Volcano, Hawaii",earthquake,0.3,0.310000002,0.28,10,automatic,hv,hv
 2024-01-28T10:29:52.740Z,19.3791675567627,-155.274673461914,1.91999995708466,2.15,ml,14,85,,0.140000001,hv,hv73730882,2024-01-28T10:36:08.090Z,"8 km SSW of Volcano, Hawaii",earthquake,0.27,0.289999992,0.28,10,automatic,hv,hv
@@ -257,4 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-27T11:15:59.070Z,17.9196666666667,-66.9611666666667,15.26,2.37,md,12,232,0.09328,0.1,pr,pr71437813,2024-01-27T12:09:56.040Z,"8 km SW of Guánica, Puerto Rico",earthquake,0.54,0.48,0.0123469578114426,5,reviewed,pr,pr
 2024-01-27T11:10:09.978Z,37.0256,-116.4697,5.6,0.1,ml,8,114.18,0.041,0.079,nn,nn00872470,2024-01-27T11:11:53.371Z,"28 km ENE of Beatty, Nevada",earthquake,,1,1.27,6,automatic,nn,nn
 2024-01-27T10:55:08.530Z,33.6858333,-117.4073333,9.6,1.13,ml,43,46,0.03985,0.22,ci,ci39758154,2024-01-27T15:40:44.405Z,"8 km WNW of Lake Elsinore, CA",earthquake,0.25,0.46,0.31,19,reviewed,ci,ci
-2024-01-27T10:41:37.700Z,34.2563333,-117.8818333,11.97,1.22,ml,48,30,0.08975,0.2,ci,ci39758146,2024-01-27T15:40:47.941Z,"14 km N of Glendora, CA",earthquake,0.19,0.53,0.261,23,reviewed,ci,ci
