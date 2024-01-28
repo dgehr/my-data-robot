@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-28T13:28:12.140Z,38.8303337,-122.8138351,1.63,1.02,md,22,42,0.007526,0.02,nc,nc73995726,2024-01-28T13:29:50.100Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.36,0.2,23,automatic,nc,nc
 2024-01-28T13:23:41.140Z,19.3928337097168,-155.273330688477,1.0900000333786,1.91999996,md,16,49,,0.129999995,hv,hv73731842,2024-01-28T13:26:44.420Z,"6 km SW of Volcano, Hawaii",earthquake,0.2,0.209999993,0.899999976,12,automatic,hv,hv
 2024-01-28T13:22:09.310Z,35.6723333,-118.122,2.37,0.69,ml,26,56,0.1008,0.14,ci,ci39758706,2024-01-28T13:27:53.956Z,"28 km W of Inyokern, CA",earthquake,0.18,0.39,0.148,9,automatic,ci,ci
 2024-01-28T13:08:49.070Z,38.828167,-122.8553314,2.14,0.76,md,16,61,0.001355,0.02,nc,nc73995716,2024-01-28T13:28:11.324Z,"10 km WNW of The Geysers, CA",earthquake,0.24,0.54,0.31,17,automatic,nc,nc
