@@ -442,6 +442,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-30T23:17:50.155Z,62.8347,-150.6745,90.2,1.4,ml,,,,0.72,ak,ak0241dzx4q9,2024-01-30T23:20:06.074Z,"37 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-01-30T23:11:11.640Z,38.841835,-122.8361664,1.29,0.74,md,11,114,0.003284,0.01,nc,nc73996881,2024-01-30T23:26:10.785Z,"10 km NW of The Geysers, CA",earthquake,0.25,0.44,0.15,11,automatic,nc,nc
 2024-01-30T23:07:43.547Z,31.699,-104.145,7.0056,1.6,ml,15,54,0.1,0.2,tx,tx2024cctj,2024-01-31T19:38:57.652Z,"51 km W of Mentone, Texas",earthquake,0.7520789778,1.051204688,0.2,13,reviewed,tx,tx
+2024-01-30T23:06:07.140Z,52.7025,-169.493166666667,24.78,1.77,ml,4,243,,0.11,av,av91129503,2024-01-31T22:47:10.310Z,"50 km WSW of Nikolski, Alaska",earthquake,2.94,1.55,0.111489786093754,3,reviewed,av,av
 2024-01-30T22:50:19.730Z,38.840168,-122.8395004,0.72,0.8,md,8,130,0.003509,0.03,nc,nc73996876,2024-01-30T23:43:14.886Z,"10 km NW of The Geysers, CA",earthquake,0.35,0.8,0.39,8,automatic,nc,nc
 2024-01-30T22:50:00.310Z,38.8398323,-122.838501,1.13,0.76,md,13,124,0.002661,0.02,nc,nc73996866,2024-01-30T23:31:13.813Z,"10 km NW of The Geysers, CA",earthquake,0.27,0.48,0.18,13,automatic,nc,nc
-2024-01-30T22:43:19.840Z,38.8414993,-122.8365021,1.66,0.78,md,7,130,0.003012,0.02,nc,nc73996861,2024-01-30T23:20:13.760Z,"10 km NW of The Geysers, CA",earthquake,0.45,0.96,0.2,9,automatic,nc,nc
