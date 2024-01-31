@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-31T04:35:38.205Z,-15.0039,-173.6251,10,5.1,mb,27,114,2.091,0.7,us,us7000lv65,2024-01-31T04:55:15.040Z,"106 km N of Hihifo, Tonga",earthquake,10.32,1.92,0.119,23,reviewed,us,us
 2024-01-31T04:33:44.330Z,36.1406667,-117.559,-0.32,1.15,ml,24,97,0.1333,0.16,ci,ci39760314,2024-01-31T04:39:33.832Z,"37 km ENE of Coso Junction, CA",earthquake,0.23,0.38,0.21,8,automatic,ci,ci
 2024-01-31T04:31:41.324Z,62.1592,-150.157,0,1.6,ml,,,,0.54,ak,ak0241fc884i,2024-01-31T04:34:32.213Z,"15 km W of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-01-31T04:25:44.170Z,40.5323334,-124.3246689,20.28,2.14,md,5,299,0.1935,0.02,nc,nc73996936,2024-01-31T06:10:11.382Z,"7 km SW of Ferndale, CA",earthquake,5.16,2.21,0.09,2,automatic,nc,nc
+2024-01-31T04:25:44.170Z,40.5323334,-124.3246689,20.28,2.14,md,5,299,0.1935,0.02,nc,nc73996936,2024-01-31T06:16:12.422Z,"7 km SW of Ferndale, CA",earthquake,5.16,2.21,0.09,2,automatic,nc,nc
 2024-01-31T04:25:27.313Z,-20.9563,-70.4275,57.82,4.5,mb,26,145,0.614,0.86,us,us7000lv62,2024-01-31T05:27:12.083Z,"80 km SSW of La Tirana, Chile",earthquake,5.14,3.842,0.163,11,reviewed,us,us
 2024-01-31T04:17:01.732Z,37.4151,-115.6731,3.4,1.3,ml,18,198.5,0.415,0.3702,nn,nn00872718,2024-01-31T04:19:17.543Z,"26 km SSE of Rachel, Nevada",earthquake,,8.3,0.13,12,automatic,nn,nn
 2024-01-31T04:03:05.950Z,65.2199,-146.9907,1,1.7,ml,,,,0.81,ak,ak0241fc25ga,2024-01-31T04:06:33.502Z,"38 km N of Pleasant Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
