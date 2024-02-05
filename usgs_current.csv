@@ -180,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-04T15:31:07.917Z,31.595,-104.21,4.4847,2,ml,17,69,0.1,0.2,tx,tx2024clhv,2024-02-04T16:02:03.396Z,"50 km NW of Toyah, Texas",earthquake,0,1.419064101,0.2,12,automatic,tx,tx
 2024-02-04T15:30:57.864Z,60.1596,-141.3037,2.1,2.1,ml,,,,0.51,ak,ak0241m4x7ay,2024-02-04T15:32:40.568Z,"111 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-04T15:27:56.496Z,31.597,-104.204,4.9426,1.7,ml,16,69,0.1,0.5,tx,tx2024clhs,2024-02-04T16:01:59.483Z,"50 km NW of Toyah, Texas",earthquake,0,1.359983374,0.2,12,automatic,tx,tx
-2024-02-04T15:19:29.040Z,37.666832,-118.8324966,23.94,1.05,md,8,143,0.01818,0.1,nc,nc73998551,2024-02-04T16:45:14.226Z,"13 km ENE of Mammoth Lakes, CA",earthquake,2.99,8.53,0.07,7,automatic,nc,nc
