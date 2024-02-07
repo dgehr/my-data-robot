@@ -105,7 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-06T15:22:50.851Z,36.3355,70.8195,132.868,4.3,mb,52,79,3.231,1.08,us,us7000lxby,2024-02-06T23:14:17.040Z,"58 km S of Jurm, Afghanistan",earthquake,6.83,7.25,0.086,42,reviewed,us,us
 2024-02-06T15:21:45.540Z,19.3600006103516,-155.309494018555,1.82000005245209,1.83000004,md,8,89,0.02548,0.119999997,hv,hv74098366,2024-02-06T15:23:23.760Z,"12 km SW of Volcano, Hawaii",earthquake,0.44,0.839999974,0.639999986,3,automatic,hv,hv
 2024-02-06T15:08:25.540Z,58.4454,-155.6756,150.7,1.8,ml,,,,0.3,ak,ak0241pfv41m,2024-02-06T22:57:22.040Z,"63 km ESE of King Salmon, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-02-06T15:05:41.807Z,58.2666,-154.9527,1.2,1.2,ml,,,,0.58,ak,ak0241pfui5g,2024-02-06T23:06:59.750Z,"83 km NNW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2024-02-06T15:05:41.807Z,58.2666,-154.9527,1.2,1.2,ml,,,,0.58,ak,ak0241pfui5g,2024-02-07T03:20:57.680Z,"83 km NNW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-02-06T15:03:05.700Z,38.815834,-122.8198318,1.09,1.1,md,11,89,0.01008,0.02,nc,nc73998981,2024-02-06T16:25:11.173Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.57,0.13,11,automatic,nc,nc
 2024-02-06T14:57:54.610Z,33.2681667,-116.4101667,5.14,1.26,ml,51,63,0.005859,0.21,ci,ci40663448,2024-02-06T16:47:49.760Z,"4 km WNW of Borrego Springs, CA",earthquake,0.18,0.36,0.137,34,reviewed,ci,ci
 2024-02-06T14:51:27.610Z,19.3540000915527,-155.315994262695,1.71000003814697,1.75999999,md,18,81,0.02303,0.239999995,hv,hv74098331,2024-02-06T14:53:08.240Z,"13 km SW of Volcano, Hawaii",earthquake,0.38,0.660000026,0.270000011,10,automatic,hv,hv
@@ -117,7 +117,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-06T13:51:11.880Z,36.7424,-116.2288,6.3,0,ml,7,157.62,0.02,0.0885,nn,nn00872995,2024-02-06T19:14:33.083Z,"50 km ESE of Beatty, Nevada",earthquake,,2,0,1,reviewed,nn,nn
 2024-02-06T13:47:03.939Z,39.4101,-119.6957,6.9,1,ml,6,128.5,0.057,0.1407,nn,nn00872993,2024-02-06T19:05:05.523Z,"11 km NNW of Virginia City, Nevada",earthquake,,2.2,0.24,4,reviewed,nn,nn
 2024-02-06T13:41:46.808Z,35.9686,20.4231,35,4.2,mb,54,169,1.709,0.64,us,us7000lxb2,2024-02-06T20:09:32.040Z,"148 km SW of Methóni, Greece",earthquake,6.36,1.941,0.086,42,reviewed,us,us
-2024-02-06T13:37:31.742Z,7.3343,-80.6647,10,4.9,mb,33,153,2.473,1.07,us,us7000lxb1,2024-02-06T17:01:35.861Z,"11 km SSW of El Cortezo, Panama",earthquake,4.19,1.951,0.069,66,reviewed,us,us
+2024-02-06T13:37:31.742Z,7.3343,-80.6647,10,4.9,mb,33,153,2.473,1.07,us,us7000lxb1,2024-02-07T03:16:31.744Z,"11 km SSW of El Cortezo, Panama",earthquake,4.19,1.951,0.069,66,reviewed,us,us
 2024-02-06T13:30:11.550Z,45.024,-123.43866666666666,8.83,1.42,ml,17,82,0.06515,0.15,uw,uw61982006,2024-02-06T23:59:10.180Z,"7 km SSE of Willamina, Oregon",earthquake,0.26,0.8,0.1998846661903897,5,reviewed,uw,uw
 2024-02-06T13:19:42.534Z,59.0768,-152.7229,67.7,2.5,ml,,,,0.25,ak,ak0241peqn0t,2024-02-06T18:36:54.040Z,"55 km SW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-06T13:04:44.820Z,33.4585,-116.5643333,11.32,1.2,ml,69,24,0.04801,0.19,ci,ci40663432,2024-02-06T14:39:41.610Z,"15 km SE of Anza, CA",earthquake,0.14,0.36,0.162,28,reviewed,ci,ci
@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-06T03:48:36.230Z,38.8436661,-122.81633,1.98,0.55,md,8,82,0.01227,0.01,nc,nc73998851,2024-02-06T04:12:11.515Z,"8 km WNW of Cobb, CA",earthquake,0.44,1.14,0.28,8,automatic,nc,nc
 2024-02-06T03:38:10.311Z,35.5268631,-96.77193451,3.330419302,1.57,ml,14,75.94430542,0.02934759855,0.3883596791,ok,ok2024cobh,2024-02-06T03:40:55.326Z,"9 km WNW of Prague, Oklahoma",earthquake,3.046425971,2.613176456,0.25,4,automatic,ok,ok
 2024-02-06T03:36:23.140Z,53.8456666666667,-166.489333333333,8.28,-0.22,ml,6,299,,0.14,av,av91130723,2024-02-06T21:02:49.160Z,"4 km SE of Unalaska, Alaska",earthquake,1.03,0.56,0.261030252638306,6,reviewed,av,av
-2024-02-06T03:22:37.970Z,34.036,-116.735,11.7,1.25,ml,60,42,0.06044,0.16,ci,ci40663312,2024-02-06T15:05:39.040Z,"14 km NNE of Cabazon, CA",earthquake,0.14,0.38,0.164,27,reviewed,ci,ci
