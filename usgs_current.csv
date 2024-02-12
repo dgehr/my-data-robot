@@ -248,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-11T05:14:55.066Z,31.611,-104.012,3.3762,1.9,ml,16,51,0,1.4,tx,tx2024cxib,2024-02-11T05:52:59.061Z,"38 km NNW of Toyah, Texas",earthquake,0,1.220788327,0.2,12,automatic,tx,tx
 2024-02-11T04:57:13.118Z,41.2877,78.7329,10,4.9,mb,49,71,1.237,0.75,us,us7000lyeh,2024-02-11T05:24:42.833Z,"123 km WNW of Aykol, China",earthquake,6.81,1.888,0.06,87,reviewed,us,us
 2024-02-11T04:54:58.570Z,64.4887,-146.9308,1.6,1.7,ml,,,,0.53,ak,ak0241xja0ch,2024-02-12T01:10:06.045Z,"4 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-02-11T04:51:47.960Z,19.1800003051758,-155.374160766602,29.6499996185303,2.78999996,md,28,187,0.1317,0.0900000036,hv,hv74106181,2024-02-11T04:53:32.200Z,"11 km ESE of Pāhala, Hawaii",earthquake,0.97,0.720000029,0.319999993,4,automatic,hv,hv
