@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-12T06:46:29.906Z,39.4218,-119.9506,3.3,1.1,ml,11,117.59,0.109,0.1039,nn,nn00873291,2024-02-12T06:48:19.251Z,"6 km ENE of Floriston, California",earthquake,,0.9,0.21,5,automatic,nn,nn
 2024-02-12T06:42:34.045Z,60.2499,-152.6702,87.1,1.9,ml,,,,1,ak,ak0241z7xlkc,2024-02-12T06:44:43.473Z,"59 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-12T06:35:51.820Z,62.5902,-152.1011,2.9,1.9,ml,,,,0.59,ak,ak0241z7w4xa,2024-02-12T06:40:02.902Z,"69 km W of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-12T06:19:17.750Z,19.1578330993652,-155.482498168945,34.1699981689453,2.43000007,md,48,128,0.01942,0.159999996,hv,hv74107971,2024-02-12T06:21:26.280Z,"5 km S of Pāhala, Hawaii",earthquake,0.44,0.660000026,0.239999995,14,automatic,hv,hv
