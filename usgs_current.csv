@@ -13,6 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-13T21:56:42.500Z,46.99516666666667,-124.14616666666667,0.28,1.82,ml,15,200,0.1554,0.48,uw,uw61982991,2024-02-13T22:06:50.910Z,"2 km NNE of Ocean Shores, Washington",earthquake,1.29,1.43,0.1687043897355086,10,reviewed,uw,uw
 2024-02-13T21:50:36.233Z,31.745,-104.182,4.5184,1.9,ml,18,89,0,0.2,tx,tx2024dcfw,2024-02-13T22:17:46.088Z,"51 km SSE of Whites City, New Mexico",earthquake,0,1.285757695,0.2,13,automatic,tx,tx
 2024-02-13T21:49:55.155Z,36.60014343,-97.13663483,0.3809944689,2.24,ml,42,96.68305969,0.08729464561,0.787086404,ok,ok2024dcfv,2024-02-13T21:53:37.915Z,"4 km NNE of Marland, Oklahoma",earthquake,2.410814376,1.325205934,0.23,21,automatic,ok,ok
+2024-02-13T21:47:32.610Z,31.69,-104.41,5.0518,2,ml,19,59,0,0.2,tx,tx2024dcft,2024-02-13T23:43:18.628Z,"53 km S of Whites City, New Mexico",earthquake,0.6540877775,0.8768850609,0.2,18,reviewed,tx,tx
 2024-02-13T21:41:21.760Z,32.8808333,-115.9596667,2.79,1.27,ml,11,79,0.009986,0.19,ci,ci40669288,2024-02-13T21:47:40.167Z,"16 km N of Ocotillo, CA",earthquake,1.16,1.04,0.154,29,automatic,ci,ci
 2024-02-13T21:28:53.500Z,38.8441658,-122.8183365,1.87,0.6,md,7,128,0.01119,0.01,nc,nc74002386,2024-02-13T21:45:13.201Z,"9 km WNW of Cobb, CA",earthquake,0.4,1.44,0.38,7,automatic,nc,nc
 2024-02-13T21:24:15.602Z,59.431,-138.9373,5.8,2.1,ml,,,,0.47,ak,ak024214ajtk,2024-02-13T21:26:28.551Z,"46 km ESE of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -257,5 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T23:54:43.500Z,37.4075,-118.55,5.47,3.55,mw,34,52,0.05526,0.06,nc,nc74001951,2024-02-13T21:43:01.802Z,"4 km E of Round Valley, CA",earthquake,0.24,0.76,,3,reviewed,nc,nc
 2024-02-12T23:50:35.322Z,64.4577,-147.4252,9.6,1.2,ml,,,,0.26,ak,ak0241zi3ooc,2024-02-12T23:52:31.021Z,"26 km WSW of Salcha, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-02-12T23:50:06.210Z,32.8185,-115.5791667,13.12,1.33,ml,23,63,0.06365,0.21,ci,ci40668616,2024-02-12T23:56:20.287Z,"3 km SSW of Imperial, CA",earthquake,0.36,0.64,0.162,13,automatic,ci,ci
-2024-02-12T23:42:32.676Z,64.4647,-146.9392,0.2,1.5,ml,,,,0.44,ak,ak0241zi1yqr,2024-02-12T23:44:47.352Z,"6 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-02-12T23:41:53.460Z,33.7725,-116.7666667,10.06,1.08,ml,54,30,0.05004,0.14,ci,ci40668600,2024-02-13T14:41:25.600Z,"6 km NW of Idyllwild, CA",earthquake,0.13,0.24,0.178,28,reviewed,ci,ci
