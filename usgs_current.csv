@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T20:20:16.436Z,-19.6795,-177.5216,564.182,4.5,mb,40,94,2.631,0.68,us,us7000lz8n,2024-02-14T20:47:06.040Z,"284 km NW of Houma, Tonga",earthquake,13.19,7.098,0.104,27,reviewed,us,us
 2024-02-14T20:10:49.731Z,65.592,-150.292,23.3,1.7,ml,,,,1,ak,ak02422r5jbh,2024-02-14T20:13:15.386Z,"11 km NNW of Rampart, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-02-14T20:08:59.140Z,52.0926666666667,-176.147333333333,2.5,-0.3,ml,4,224,,0.3,av,av91132128,2024-02-15T04:08:54.130Z,"41 km NE of Adak, Alaska",earthquake,1.49,2.54,0.112948628413444,4,reviewed,av,av
-2024-02-14T19:56:25.213Z,39.399,-119.7171,5.7,1,ml,12,124.33,0.038,0.1303,nn,nn00873514,2024-02-15T02:16:38.366Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.4,0.18,3,reviewed,nn,nn
