@@ -168,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-18T14:50:14.863Z,37.0348,-104.9822,3.801,3.3,ml,22,47,0.182,0.51,us,us7000m00v,2024-02-19T01:31:38.932Z,"13 km SSE of Stonewall Gap, Colorado",earthquake,3.32,6.709,0.06,40,reviewed,us,us
 2024-02-18T14:35:55.131Z,-6.2744,130.3701,143.068,4.4,mb,25,97,1.801,0.62,us,us7000m00u,2024-02-18T17:23:53.040Z,"273 km WSW of Tual, Indonesia",earthquake,8.9,4.956,0.123,19,reviewed,us,us
 2024-02-18T14:17:37.070Z,17.8995,-66.2926666666667,12.04,2.15,md,6,227,0.1401,0.1,pr,pr71440413,2024-02-18T14:29:49.960Z,"8 km S of Salinas, Puerto Rico",earthquake,0.61,0.88,0.0882312954538338,6,reviewed,pr,pr
-2024-02-18T13:53:01.574Z,31.641,-104.192,4.0458,1.7,ml,18,64,0.1,0.4,tx,tx2024dktr,2024-02-18T14:28:39.225Z,"52 km NW of Toyah, Texas",earthquake,0,1.30195322022436,0.2,13,automatic,tx,tx
