@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-23T16:19:22.640Z,51.8686666666667,-177.937333333333,6.48,0.95,ml,4,169,,0.11,av,av91133438,2024-02-23T23:03:26.720Z,"89 km W of Adak, Alaska",earthquake,0.54,1.18,0.387569129004101,4,reviewed,av,av
 2024-02-23T16:11:06.510Z,18.6308333333333,-67.3185,15.15,3.02,md,6,278,0.2551,0.2,pr,pr71440988,2024-02-23T16:33:55.470Z,"27 km WNW of San Antonio, Puerto Rico",earthquake,1.39,1.25,0.223509599847686,4,reviewed,pr,pr
 2024-02-23T16:03:58.980Z,33.4231667,-116.4165,13.77,0.76,ml,32,78,0.1003,0.16,ci,ci40675024,2024-02-24T00:02:02.434Z,"19 km NNW of Borrego Springs, CA",earthquake,0.25,0.74,0.131,20,reviewed,ci,ci
-2024-02-23T15:51:42.069Z,60.416,-147.4077,13.5,2.4,ml,,,,0.72,ak,ak0242hk99i6,2024-02-23T16:16:12.040Z,"51 km NE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
