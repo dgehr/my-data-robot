@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-24T16:29:01.620Z,36.0308342,-121.043335,8.71,1.26,md,14,79,0.1138,0.09,nc,nc74007091,2024-02-24T16:30:38.726Z,"11 km S of San Lucas, CA",earthquake,0.38,1.2,0.24,9,automatic,nc,nc
+2024-02-24T16:29:01.620Z,36.0308342,-121.043335,8.71,1.26,md,14,79,0.1138,0.09,nc,nc74007091,2024-02-24T16:38:10.669Z,"11 km S of San Lucas, CA",earthquake,0.38,1.2,0.24,9,automatic,nc,nc
 2024-02-24T16:23:55.499Z,59.7524,-152.2837,50.4,1.3,ml,,,,0.5,ak,ak0242j882l9,2024-02-24T16:25:55.969Z,"25 km W of Anchor Point, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2024-02-24T16:05:40.580Z,33.6971667,-116.8171667,16.36,1.7,ml,82,19,0.0717,0.19,ci,ci40675584,2024-02-24T16:16:38.920Z,"9 km SE of Valle Vista, CA",earthquake,0.14,0.3,0.229,27,automatic,ci,ci
 2024-02-24T16:05:26.610Z,19.1875,-155.421493530273,31.6900005340576,2,md,44,159,0.04993,0.119999997,hv,hv74120336,2024-02-24T16:07:20.900Z,"6 km ESE of Pāhala, Hawaii",earthquake,0.58,0.670000017,0.230000004,11,automatic,hv,hv
@@ -225,5 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-23T16:52:21.742Z,65.0034,-147.4697,12.5,1,ml,,,,1.14,ak,ak0242hkuv9a,2024-02-23T16:54:46.031Z,"8 km NE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-23T16:50:02.903Z,64.4983,-146.938,10.1,0.4,ml,,,,0.47,ak,ak0242hkuede,2024-02-23T16:51:49.343Z,"3 km SSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-23T16:41:47.520Z,53.3916666666667,-168.195,2.6,0.54,ml,5,236,,0.19,av,av91133443,2024-02-23T23:06:33.600Z,"67 km NE of Nikolski, Alaska",earthquake,0.81,1.57,0.236126767290929,5,reviewed,av,av
-2024-02-23T16:39:10.040Z,38.8251648,-122.7878342,1.69,1.26,md,23,69,0.01313,0.02,nc,nc74006531,2024-02-23T19:02:11.794Z,"6 km W of Cobb, CA",earthquake,0.19,0.41,0.17,25,automatic,nc,nc
-2024-02-23T16:38:08.809Z,31.678,-104.43,6.51,1.9,ml,15,53,0,0.2,tx,tx2024ducp,2024-02-23T17:43:39.912Z,"55 km S of Whites City, New Mexico",earthquake,0.8495261467780284,0.611206985084282,0.1,10,reviewed,tx,tx
