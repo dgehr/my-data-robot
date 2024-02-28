@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-28T13:44:33.150Z,38.8408318,-122.7624969,1.31,0.78,md,10,185,0.011,0.02,nc,nc74009271,2024-02-28T13:46:09.866Z,"4 km WNW of Cobb, CA",earthquake,0.39,0.45,0.12,11,automatic,nc,nc
 2024-02-28T13:34:10.086Z,63.4314,-148.2493,4.3,2,ml,,,,0.97,ak,ak0242psnf4g,2024-02-28T13:37:05.005Z,"35 km E of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-28T12:20:20.190Z,34.134,-116.8063333,11.23,0.81,ml,42,52,0.09861,0.13,ci,ci40677952,2024-02-28T12:26:27.952Z,"15 km SSE of Big Bear City, CA",earthquake,0.15,0.41,0.222,18,automatic,ci,ci
 2024-02-28T12:03:02.370Z,33.3221667,-116.1583333,9.45,0.86,ml,59,28,0.1328,0.2,ci,ci40677944,2024-02-28T12:08:58.603Z,"17 km SSW of Oasis, CA",earthquake,0.17,0.59,0.127,20,automatic,ci,ci
