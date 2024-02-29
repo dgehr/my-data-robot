@@ -250,4 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-28T09:32:59.210Z,19.194,-155.4965,34,3.14,ml,46,67,0.0503,0.12,hv,hv74123546,2024-02-29T02:09:39.226Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.46,0.61,0.18560299146244,30,reviewed,hv,hv
 2024-02-28T09:31:44.680Z,37.285,-121.6546667,6.15,0.87,md,24,41,0.02985,0.07,nc,nc74009206,2024-02-28T17:47:34.803Z,"16 km E of Seven Trees, CA",earthquake,0.18,0.37,0.158,21,reviewed,nc,nc
 2024-02-28T09:31:32.538Z,63.2972,-150.4456,74.4,2,ml,,,,1.56,ak,ak0242pq93ad,2024-02-28T09:33:53.406Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-02-28T09:20:49.660Z,17.9146666666667,-66.2843333333333,13.16,2.21,md,7,191,0.1231,0.16,pr,pr71441488,2024-02-28T09:54:08.680Z,"7 km SSE of Salinas, Puerto Rico",earthquake,0.86,0.55,0.239233242050901,3,reviewed,pr,pr
