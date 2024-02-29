@@ -231,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-28T11:56:19.510Z,41.9281666666667,-112.3795,5.72,1.11,md,7,91,0.04093,0.09,uu,uu80051956,2024-02-28T14:30:45.200Z,"12 km WSW of Portage, Utah",earthquake,0.56,0.63,0.0770694583588967,7,reviewed,uu,uu
 2024-02-28T11:53:28.984Z,31.605,-103.971,8.7018,2,ml,17,60,0,0.1,tx,tx2024ecws,2024-02-28T15:27:05.076Z,"36 km NNW of Toyah, Texas",earthquake,0.4875551156191569,0.3849755993048503,0.1,14,reviewed,tx,tx
 2024-02-28T11:52:54.940Z,38.7963333,-122.7525024,-0.81,0.51,md,7,169,0.02759,0.14,nc,nc74009261,2024-02-28T11:54:30.690Z,"2 km N of The Geysers, CA",earthquake,0.55,5.26,0.23,7,automatic,nc,nc
-2024-02-28T11:46:04.883Z,28.6512,128.6185,10,4.6,mb,39,95,1.834,0.99,us,us6000mfl7,2024-02-28T12:02:51.040Z,"71 km WNW of Uken, Japan",earthquake,7.21,1.896,0.122,20,reviewed,us,us
