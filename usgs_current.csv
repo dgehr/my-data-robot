@@ -232,5 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-29T11:21:09.790Z,32.3943333,-115.2388333,-0.02,2.01,ml,18,50,0.06134,0.39,ci,ci37628620,2024-03-01T00:07:31.104Z,"6 km NW of Delta, B.C., MX",earthquake,0.64,1.51,0.186,34,reviewed,ci,ci
 2024-02-29T11:20:59.070Z,32.4106667,-115.2293333,9.67,1.94,ml,24,45,0.0646,0.3,ci,ci40678752,2024-03-01T00:02:06.469Z,"7 km NNW of Delta, B.C., MX",earthquake,0.38,1.08,0.187,26,reviewed,ci,ci
 2024-02-29T11:18:40.044Z,40.0577,-120.0242,8.2,0.4,ml,3,189.74,0.19,0.0258,nn,nn00874083,2024-03-01T00:14:21.680Z,"7 km ENE of Doyle, California",earthquake,,16.8,0,1,reviewed,nn,nn
-2024-02-29T11:16:04.200Z,38.8204994,-122.7843323,1.46,0.82,md,10,87,0.007771,0.03,nc,nc74009821,2024-02-29T11:17:39.465Z,"5 km W of Cobb, CA",earthquake,0.52,1.1,0.23,11,automatic,nc,nc
-2024-02-29T11:11:30.593Z,62.6212,-151.3433,77.1,1.8,ml,,,,0.73,ak,ak0242rev0f8,2024-02-29T11:13:52.850Z,"32 km WNW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
