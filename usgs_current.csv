@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-03-01T23:24:46.081Z,59.6882,-153.591,5.1,2,ml,,,,0.33,ak,ak0242t9mds0,2024-03-01T23:25:36.376Z,"31 km ESE of Pedro Bay, Alaska",earthquake,,24.7,,,automatic,ak,ak
+2024-03-01T23:36:47.302Z,61.8509,-147.1587,29.6,1.9,ml,,,,1.13,ak,ak0242t9oygq,2024-03-01T23:38:37.489Z,"9 km S of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-03-01T23:24:46.081Z,59.6882,-153.591,5.1,2,ml,,,,0.33,ak,ak0242t9mds0,2024-03-01T23:42:55.040Z,"31 km ESE of Pedro Bay, Alaska",earthquake,,24.7,,,automatic,ak,ak
 2024-03-01T23:07:43.056Z,63.2476,-150.4538,46.6,1.2,ml,,,,0.91,ak,ak0242t9iqdi,2024-03-01T23:10:32.984Z,"71 km ESE of Denali National Park, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2024-03-01T23:07:07.092Z,64.9374,-150.9183,16,1.3,ml,,,,0.81,ak,ak0242t9inl9,2024-03-01T23:10:36.850Z,"15 km WSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-01T23:03:08.060Z,38.4873333333333,-112.888666666667,1.42,2.26,ml,22,55,0.003189,0.16,uu,uu80056756,2024-03-01T23:17:02.180Z,"14 km NE of Milford, Utah",earthquake,0.28,0.49,0.239270986563933,7,reviewed,uu,uu
