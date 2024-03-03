@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-03T20:36:36.480Z,38.8496666,-122.8153305,1.83,0.95,md,12,108,0.01924,0.02,nc,nc74011236,2024-03-03T20:38:12.716Z,"9 km WNW of Cobb, CA",earthquake,0.31,0.95,0.29,15,automatic,nc,nc
 2024-03-03T20:33:43.120Z,38.8318329,-122.8153305,1.99,0.68,md,10,68,0.009373,0.01,nc,nc74011231,2024-03-03T20:35:15.505Z,"8 km NW of The Geysers, CA",earthquake,0.35,1.23,0.29,11,automatic,nc,nc
 2024-03-03T20:33:27.770Z,38.8318329,-122.8128357,1.81,1.43,md,27,42,0.008697,0.05,nc,nc74011226,2024-03-03T20:35:00.601Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.36,0.21,28,automatic,nc,nc
 2024-03-03T20:22:51.480Z,18.9481666666667,-65.468,9.99,2.91,md,12,256,0.7094,0.49,pr,pr71441853,2024-03-03T20:34:52.460Z,"68 km NNE of Luquillo, Puerto Rico",earthquake,3.44,5.37,0.0399450179047987,6,reviewed,pr,pr
@@ -204,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-02T21:07:26.427Z,-6.42,130.3477,147.715,4.6,mb,29,90,1.936,0.76,us,us6000mgct,2024-03-02T21:24:51.040Z,"280 km WSW of Tual, Indonesia",earthquake,7.84,8.448,0.126,19,reviewed,us,us
 2024-03-02T21:05:00.910Z,19.3836669921875,-155.267837524414,0.230000004172325,1.90999997,md,6,122,0.01273,0.0799999982,hv,hv74126701,2024-03-02T21:09:52.560Z,"7 km SSW of Volcano, Hawaii",earthquake,0.42,0.529999971,0.49000001,5,automatic,hv,hv
 2024-03-02T21:05:00.590Z,19.3850002288818,-155.27766418457,0.910000026226044,1.75,md,13,145,0.004116,0.129999995,hv,hv74126691,2024-03-02T21:07:40.460Z,"7 km SW of Volcano, Hawaii",earthquake,0.29,0.200000003,0.430000007,12,automatic,hv,hv
-2024-03-02T20:38:30.282Z,51.469,-176.6583,30.7,3.7,ml,,,,0.5,ak,ak0242uvgecl,2024-03-02T23:53:52.368Z,"45 km S of Adak, Alaska",earthquake,,0.7,,,reviewed,ak,ak
-2024-03-02T20:38:11.120Z,35.5178337,-120.8026657,7.51,1.51,md,13,117,0.09615,0.04,nc,nc74010796,2024-03-02T20:39:44.343Z,"9 km WSW of Templeton, CA",earthquake,0.71,1.76,0.06,6,automatic,nc,nc
