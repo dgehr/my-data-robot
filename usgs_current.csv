@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-03-05T17:56:48.740Z,62.8945,-151.2254,111.9,1.3,ml,,,,0.31,ak,ak0242zse18q,2024-03-05T17:58:33.755Z,"50 km NNW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-03-05T17:52:13.240Z,40.719,-112.072166666667,9.44,0.49,md,10,82,0.07222,0.1,uu,uu80061546,2024-03-05T18:14:24.830Z,"2 km ENE of Magna, Utah",earthquake,0.35,0.95,0.120913745025135,6,reviewed,uu,uu
 2024-03-05T17:48:48.099Z,65.2091,-148.8211,17.8,1,ml,,,,0.26,ak,ak0242zscbgp,2024-03-05T17:50:45.102Z,"25 km ENE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-05T17:46:16.900Z,38.8348351,-122.815834,1.92,1.1,md,22,71,0.01228,0.02,nc,nc74012156,2024-03-05T17:47:49.424Z,"8 km W of Cobb, CA",earthquake,0.21,0.42,0.14,25,automatic,nc,nc
 2024-03-05T17:43:46.320Z,33.0481667,-116.0128333,10.09,0.97,ml,30,53,0.1284,0.2,ci,ci40681360,2024-03-05T17:49:56.226Z,"15 km SE of Ocotillo Wells, CA",earthquake,0.22,0.77,0.168,12,automatic,ci,ci
