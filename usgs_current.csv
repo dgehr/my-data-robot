@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-05T18:46:09.380Z,19.4249992370605,-155.386001586914,4.73999977111816,1.95000005,md,35,71,0.06711,0.239999995,hv,hv74129066,2024-03-05T18:47:43.370Z,"16 km W of Volcano, Hawaii",earthquake,0.38,1.63999999,0.280000001,15,automatic,hv,hv
 2024-03-05T18:38:16.936Z,60.0333,-152.9309,114,1.4,ml,,,,0.37,ak,ak0242zsvji5,2024-03-05T18:39:59.361Z,"67 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-05T18:29:18.420Z,38.8443336,-122.8208313,9.12,0.72,md,9,106,0.0105,0.06,nc,nc74012171,2024-03-05T18:30:53.836Z,"9 km WNW of Cobb, CA",earthquake,1.39,7.48,0.12,10,automatic,nc,nc
 2024-03-05T18:10:19.278Z,53.773,-164.3007,54.5,2.2,ml,,,,0.38,ak,ak0242zspkhr,2024-03-05T18:28:22.137Z,"104 km ESE of Akutan, Alaska",earthquake,,6.4,,,reviewed,ak,ak
