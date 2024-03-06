@@ -243,4 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-05T21:34:39.140Z,38.7956657,-122.731163,-0.34,0.89,md,9,103,0.02285,0.03,nc,nc74012236,2024-03-05T21:36:14.698Z,"3 km NE of The Geysers, CA",earthquake,0.28,1.96,0.19,9,automatic,nc,nc
 2024-03-05T21:26:48.420Z,47.343333333333334,-117.87433333333334,-0.63,1.73,ml,6,170,0.3755,0.05,uw,uw61987691,2024-03-06T03:41:11.580Z,"9 km ENE of Sprague, Washington",explosion,0.63,31.61,0.10078632532911835,3,reviewed,uw,uw
 2024-03-05T21:24:56.929Z,-7.0227,129.537,144.1,4.4,mb,22,79,4.89,0.85,us,us7000m3kk,2024-03-06T02:17:45.040Z,"Kepulauan Babar, Indonesia",earthquake,9.19,9.318,0.13,17,reviewed,us,us
-2024-03-05T21:17:52.560Z,19.2366666666667,-155.381166666667,31.4,2.67,ml,40,146,0.01546,0.11,hv,hv74129286,2024-03-06T02:33:42.040Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.5,0.6,0.252542125674524,14,reviewed,hv,hv
