@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-06T14:52:08.729Z,58.2584,-155.1142,0,1.5,ml,,,,0.36,ak,ak02431e44zm,2024-03-06T14:54:12.153Z,"86 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-06T14:44:01.280Z,38.7514992,-122.7128296,1.42,0.89,md,8,128,0.01379,0.01,nc,nc74012581,2024-03-06T14:45:38.990Z,"3 km SW of Anderson Springs, CA",earthquake,0.35,0.5,0.17,8,automatic,nc,nc
 2024-03-06T14:38:16.490Z,38.5268326,-122.6151657,8.28,1.23,md,9,194,0.08672,0.03,nc,nc74012576,2024-03-06T14:39:52.982Z,"7 km SSW of Calistoga, CA",earthquake,0.92,1.48,0.07,5,automatic,nc,nc
 2024-03-06T14:22:58.300Z,38.8144989,-122.8251648,1.99,0.76,md,15,55,0.006438,0.02,nc,nc74012566,2024-03-06T14:24:32.818Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.6,0.5,16,automatic,nc,nc
+2024-03-06T14:13:24.320Z,44.337,-114.815833333333,9.16,1.81,ml,9,85,0.2318,0.16,mb,mb90042593,2024-03-06T14:51:49.570Z,"16 km NE of Stanley, Idaho",earthquake,0.43,1.26,0.30212221919759,13,reviewed,mb,mb
 2024-03-06T14:08:28.565Z,57.5414,-155.5532,0,1.9,ml,,,,0.61,ak,ak02431duqzs,2024-03-06T14:11:56.178Z,"65 km W of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-06T13:48:20.440Z,36.524334,-121.1491699,2.88,1.76,md,22,84,0.05555,0.31,nc,nc74012561,2024-03-06T13:49:53.590Z,"1 km SSW of Pinnacles, CA",earthquake,0.62,3.46,0.17,17,automatic,nc,nc
 2024-03-06T13:34:18.350Z,38.7941666,-122.7596664,1.61,0.25,md,10,93,0.006449,0.03,nc,nc74012556,2024-03-06T13:35:53.320Z,"2 km N of The Geysers, CA",earthquake,0.29,0.61,0.04,10,automatic,nc,nc
