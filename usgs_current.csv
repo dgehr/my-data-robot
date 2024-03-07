@@ -18,6 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-07T03:41:24.705Z,59.4018,-159.0417,240.3,2.4,ml,,,,0.91,ak,ak02432v1e5y,2024-03-07T03:43:56.590Z,"28 km WNW of Aleknagik, Alaska",earthquake,,7.4,,,automatic,ak,ak
 2024-03-07T03:37:30.910Z,33.636,-116.695,14.06,0.57,ml,29,51,0.03728,0.12,ci,ci40682744,2024-03-07T03:43:21.172Z,"9 km NNW of Anza, CA",earthquake,0.2,0.33,0.115,9,automatic,ci,ci
 2024-03-07T03:30:12.782Z,5.1356,126.0498,104.044,4.7,mb,58,109,1.978,0.86,us,us7000m3tr,2024-03-07T03:46:31.040Z,"71 km ESE of Sarangani, Philippines",earthquake,4.7,7.398,0.068,65,reviewed,us,us
+2024-03-07T03:17:39.850Z,46.1925,-122.19483333333334,6.9,-0.05,ml,14,66,0.007788,0.1,uw,uw61988136,2024-03-07T06:22:54.060Z,"36 km NNE of Amboy, Washington",earthquake,0.51,0.39,0.04990043237630476,3,reviewed,uw,uw
 2024-03-07T03:10:15.765Z,59.4308,-152.8374,86.7,2.2,ml,,,,0.28,ak,ak02432uuqa0,2024-03-07T03:12:41.857Z,"52 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-07T03:06:30.450Z,38.7859993,-122.7346649,1.35,1.35,md,22,84,0.003194,0.04,nc,nc74012976,2024-03-07T03:08:05.833Z,"2 km ENE of The Geysers, CA",earthquake,0.25,0.4,0.12,22,automatic,nc,nc
 2024-03-07T03:00:17.188Z,64.4641,-146.8836,13.5,0.8,ml,,,,0.47,ak,ak02432usl2w,2024-03-07T03:02:32.310Z,"6 km S of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -255,4 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-06T06:52:09.701Z,31.638,-104.204,6.7151,2.1,ml,24,65,0.1,0.2,tx,tx2024ephh,2024-03-06T22:11:50.507Z,"52 km NW of Toyah, Texas",earthquake,0.6896048513312999,0.6933777219476243,0.3,19,reviewed,tx,tx
 2024-03-06T06:40:48.966Z,63.2931,-151.7988,8.5,2.6,ml,,,,0.93,ak,ak024319a6n4,2024-03-06T08:49:52.040Z,"27 km S of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-06T06:31:34.275Z,39.4053,-119.7008,7.5,0.9,ml,5,210.8,0.052,0.0727,nn,nn00874278,2024-03-06T19:52:29.276Z,"11 km NNW of Virginia City, Nevada",earthquake,,2.1,0.18,3,reviewed,nn,nn
-2024-03-06T06:24:36.932Z,31.646,-104.217,6.0999,1.6,ml,25,65,0,0.2,tx,tx2024epgk,2024-03-06T11:14:32.487Z,"54 km NW of Toyah, Texas",earthquake,0.7249340924215412,1.0305044422209013,0.2,18,reviewed,tx,tx
