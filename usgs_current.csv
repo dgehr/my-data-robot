@@ -200,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-10T16:12:18.277Z,41.9939,-119.6025,0,2.5,ml,5,117.74,0.529,0.2852,nn,nn00874513,2024-03-10T21:10:25.239Z,"47 km ENE of Fort Bidwell, California",earthquake,,0,0.62,5,reviewed,nn,nn
 2024-03-10T16:06:02.500Z,18.6386666666667,-66.8506666666667,69.18,2.7,md,17,237,0.3001,0.14,pr,pr71442703,2024-03-10T16:33:11.950Z,"17 km N of Hatillo, Puerto Rico",earthquake,0.89,0.96,0.11143402192308,7,reviewed,pr,pr
 2024-03-10T16:01:03.598Z,31.739,-104.171,4.664,1.8,ml,18,85,0,0.3,tx,tx2024exhk,2024-03-10T16:21:13.101Z,"52 km SSE of Whites City, New Mexico",earthquake,0,1.30516678464153,0.2,13,automatic,tx,tx
-2024-03-10T15:50:05.240Z,33.5106667,-116.7543333,4.23,0.75,ml,42,48,0.03848,0.19,ci,ci40685128,2024-03-10T15:56:05.178Z,"9 km WSW of Anza, CA",earthquake,0.2,0.35,0.218,19,automatic,ci,ci
-2024-03-10T15:48:09.040Z,32.643,-104.3979,5,2.5,mb_lg,26,81,0.491,0.23,us,us7000m4jy,2024-03-10T16:23:53.897Z,"14 km S of Atoka, New Mexico",earthquake,3.08,1.97,0.104,39,reviewed,us,us
