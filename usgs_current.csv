@@ -247,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-11T11:47:00.560Z,38.8308333,-122.8,2.15,-0.11,md,18,65,0.01068,0.01,nc,nc71133004,2024-03-11T21:41:03.996Z,"7 km W of Cobb, CA",earthquake,0.28,0.58,0.226,17,reviewed,nc,nc
 2024-03-11T11:43:26.843Z,37.413,-117.9574,15.5,0.6,ml,5,165.17,0.047,0.19,nn,nn00874578,2024-03-12T00:22:17.419Z,"29 km SSE of Dyer, Nevada",earthquake,,2.3,0.32,3,reviewed,nn,nn
 2024-03-11T11:43:21.282Z,39.5802,-119.7528,12.7,0.5,ml,5,119.61,0.163,0.1226,nn,nn00874574,2024-03-11T22:49:31.300Z,"2 km SE of Sun Valley, Nevada",earthquake,,3.9,0.64,2,reviewed,nn,nn
-2024-03-11T11:26:59.865Z,61.1166,-150.7624,33.5,1.9,ml,,,,0.63,ak,ak02439lv3ya,2024-03-11T11:29:30.235Z,"17 km E of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-03-11T11:26:31.460Z,44.3723333333333,-116.114333333333,9.95,2.65,ml,18,57,0.3577,0.12,mb,mb90042933,2024-03-11T14:31:34.130Z,"8 km NNW of Smiths Ferry, Idaho",earthquake,0.3,0.54,0.268309893271974,25,reviewed,mb,mb
