@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-12T13:17:40.854Z,62.2489,-150.8811,67.8,2.5,ml,,,,0.46,ak,ak0243bajcqt,2024-03-12T13:20:06.288Z,"28 km SSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-03-12T13:15:43.990Z,33.2591667,-116.1018333,8.14,0.77,ml,34,52,0.09939,0.18,ci,ci40685968,2024-03-12T13:21:39.785Z,"13 km NNE of Ocotillo Wells, CA",earthquake,0.18,0.9,0.065,12,automatic,ci,ci
 2024-03-12T13:12:20.256Z,65.3369,-144.7797,0,1.8,ml,,,,0.25,ak,ak0243bai8kp,2024-03-12T13:13:57.884Z,"26 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-12T13:11:59.506Z,60.4925,-147.2566,16.4,2.4,ml,,,,0.41,ak,ak0243bai3vy,2024-03-12T13:13:35.097Z,"52 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-12T13:10:31.695Z,65.457,-144.9837,19.4,1.9,ml,,,,1.11,ak,ak0243bahu0x,2024-03-12T13:12:55.692Z,"15 km SSW of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-03-12T13:10:02.830Z,35.8861667,-117.7116667,6.46,1.52,ml,32,41,0.07918,0.16,ci,ci40685960,2024-03-12T13:16:25.341Z,"18 km ESE of Little Lake, CA",earthquake,0.17,0.44,0.151,24,automatic,ci,ci
+2024-03-12T13:10:02.830Z,35.8861667,-117.7116667,6.46,1.52,ml,32,41,0.07918,0.16,ci,ci40685960,2024-03-12T13:21:16.700Z,"18 km ESE of Little Lake, CA",earthquake,0.17,0.44,0.151,24,automatic,ci,ci
 2024-03-12T12:53:04.003Z,65.8065,-150.8162,0,1.8,ml,,,,0.83,ak,ak0243ba5k2o,2024-03-12T12:55:00.556Z,"44 km NW of Rampart, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-12T12:34:50.700Z,38.7929993,-122.754837,-0.02,1.28,md,16,86,0.008514,0.03,nc,nc74016281,2024-03-12T12:36:26.043Z,"2 km N of The Geysers, CA",earthquake,0.21,0.5,0.14,15,automatic,nc,nc
 2024-03-12T12:21:54.209Z,64.2607,-149.9076,6.7,1.5,ml,,,,0.6,ak,ak0243b9yt18,2024-03-12T12:23:58.920Z,"35 km W of Clear, Alaska",earthquake,,0.4,,,automatic,ak,ak
