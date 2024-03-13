@@ -204,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-12T09:50:02.062Z,36.4638,-115.775,7.1,0.8,ml,19,283.13,0.249,0.0939,nn,nn00874601,2024-03-12T18:54:48.771Z,"15 km SW of Indian Springs, Nevada",earthquake,,4.4,0.18,8,reviewed,nn,nn
 2024-03-12T09:44:49.838Z,26.3629,-44.6467,10,4.9,mb,49,99,18.635,0.66,us,us7000m4u6,2024-03-12T10:20:05.040Z,"northern Mid-Atlantic Ridge",earthquake,12.98,1.907,0.083,45,reviewed,us,us
 2024-03-12T09:43:37.230Z,18.0525,-66.762,17.16,2.11,md,4,179,0.1356,0.09,pr,pr71442828,2024-03-12T10:13:01.280Z,"1 km SW of Santo Domingo, Puerto Rico",earthquake,3.12,1.93,0.167270539951812,4,reviewed,pr,pr
-2024-03-12T09:37:26.568Z,38.8106,14.6301,302.691,4.3,mb,25,183,2.218,0.77,us,us7000m4u4,2024-03-12T14:31:28.040Z,"31 km NW of Malfa, Italy",earthquake,5.61,10.038,0.147,13,reviewed,us,us
