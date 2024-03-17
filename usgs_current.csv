@@ -206,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-16T09:18:24.418Z,36.8329,-115.963,8.5,0.4,ml,23,117.13,0.029,0.102,nn,nn00874873,2024-03-17T02:03:55.751Z,"39 km NW of Indian Springs, Nevada",earthquake,,1.5,0.31,13,reviewed,nn,nn
 2024-03-16T09:05:24.936Z,62.3087,-151.2194,79.7,1.6,ml,,,,0.31,ak,ak0243hu8eh9,2024-03-16T09:08:12.111Z,"31 km SW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-03-16T08:55:15.600Z,37.4551667,-122.4618333,8.08,0.89,md,21,208,0.0267,0.06,nc,nc74018221,2024-03-16T18:13:03.062Z,"3 km WSW of Half Moon Bay, CA",earthquake,0.44,0.37,0.376,14,reviewed,nc,nc
-2024-03-16T08:46:22.851Z,65.044,-148.7385,5.3,1.4,ml,,,,0.83,ak,ak0243htvr2l,2024-03-16T08:48:02.100Z,"31 km ESE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-03-16T08:41:46.030Z,36.8581667,-121.3293333,11.13,0.97,md,25,91,0.05035,0.07,nc,nc74018216,2024-03-16T18:07:32.540Z,"6 km NNE of Ridgemark, CA",earthquake,0.23,0.34,0.151,22,reviewed,nc,nc
