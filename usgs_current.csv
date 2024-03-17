@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-03-17T23:45:46.577Z,64.9512,-147.5191,0,1.6,ml,,,,0.77,ak,ak0243jqcfof,2024-03-17T23:48:51.439Z,"4 km E of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-03-17T23:41:40.673Z,4.9092,127.3873,120.527,4.8,mb,45,108,2.8,0.37,us,us6000mjif,2024-03-17T23:57:00.040Z,"209 km SE of Pondaguitan, Philippines",earthquake,10.05,7.37,0.1,31,reviewed,us,us
 2024-03-17T23:36:41.860Z,19.3384990692139,-155.126831054688,5.28999996185303,2.62,ml,54,111,0.04614,0.189999998,hv,hv74140062,2024-03-17T23:39:20.810Z,"14 km S of Fern Forest, Hawaii",earthquake,0.37,0.449999988,0.33,34,automatic,hv,hv
 2024-03-17T23:31:17.480Z,38.8458328,-122.8243332,1.95,0.78,md,13,104,0.008848,0.02,nc,nc74019086,2024-03-17T23:32:50.093Z,"9 km WNW of Cobb, CA",earthquake,0.37,0.75,0.2,15,automatic,nc,nc
 2024-03-17T23:17:58.350Z,35.0316667,-117.6665,-0.81,1.19,ml,35,46,0.1001,0.22,ci,ci40688616,2024-03-17T23:24:16.444Z,"4 km NNW of Boron, CA",earthquake,0.29,0.75,0.06,20,automatic,ci,ci
