@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-17T20:31:45.375Z,60.1409,-152.4863,99.8,1.9,ml,,,,0.4,ak,ak0243joh4tl,2024-03-17T20:34:26.090Z,"46 km WNW of Ninilchik, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-03-17T20:06:24.110Z,33.7875,-117.6408333,3.06,1.69,ml,60,31,0.02758,0.2,ci,ci40688560,2024-03-17T20:14:18.244Z,"11 km SW of Corona, CA",earthquake,0.15,0.21,0.164,28,automatic,ci,ci
 2024-03-17T20:01:48.277Z,60.3172,-152.7841,114.2,1.9,ml,,,,0.28,ak,ak0243joapj9,2024-03-17T20:14:46.040Z,"68 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-17T19:48:09.040Z,33.0441666,-115.5804977,5.72,1.12,ml,12,115,0.006009,0.22,ci,ci40688544,2024-03-17T19:51:39.111Z,"4 km ENE of Westmorland, CA",earthquake,0.71,0.76,0.182,15,automatic,ci,ci
@@ -228,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-16T21:10:50.710Z,40.4796677,-123.8195038,5.44,1.92,md,9,96,0.05318,0.04,nc,nc74018506,2024-03-16T21:12:24.647Z,"24 km E of Rio Dell, CA",earthquake,0.43,0.51,0.09,5,automatic,nc,nc
 2024-03-16T21:00:55.075Z,31.738,-104.732,2.3033,1.8,ml,7,235,0.2,0.1,tx,tx2024fiqi,2024-03-16T21:24:17.146Z,"49 km ESE of Dell City, Texas",earthquake,0,4.37182043885439,0.1,7,automatic,tx,tx
 2024-03-16T20:41:20.032Z,39.2902,-119.6529,3.6,0.8,ml,9,142.33,0.107,0.1834,nn,nn00874903,2024-03-17T02:41:16.430Z,"2 km S of Virginia City, Nevada",earthquake,,4.7,0.38,5,reviewed,nn,nn
-2024-03-16T20:30:16.739Z,57.0188,-156.548,80.3,2.2,ml,,,,0.41,ak,ak0243i0xieh,2024-03-16T20:32:07.703Z,"75 km SE of Ugashik, Alaska",earthquake,,2.4,,,automatic,ak,ak
