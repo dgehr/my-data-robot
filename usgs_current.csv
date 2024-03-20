@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-03-20T21:34:16.590Z,35.6413345,-118.3271637,7.75,1.55,ml,31,41,0.05731,0.18,ci,ci40520055,2024-03-20T21:36:44.488Z,"13 km E of Lake Isabella, CA",earthquake,0.25,0.73,0.156,9,automatic,ci,ci
+2024-03-20T21:34:16.560Z,35.6425,-118.3245,7.61,1.58,ml,34,54,0.05704,0.16,ci,ci40520055,2024-03-20T21:45:31.470Z,"14 km ENE of Lake Isabella, CA",earthquake,0.18,0.5,0.205,26,automatic,ci,ci
 2024-03-20T21:29:59.700Z,19.2070007324219,-155.380172729492,28.1100006103516,1.91999996,md,38,166,0.0929,0.129999995,hv,hv74143362,2024-03-20T21:31:36.670Z,"10 km E of Pāhala, Hawaii",earthquake,0.59,0.860000014,0.170000002,7,automatic,hv,hv
 2024-03-20T21:21:28.949Z,63.7775,-145.8501,0,2.3,ml,,,,0.78,ak,ak0243onmgm2,2024-03-20T21:25:20.681Z,"22 km SW of Fort Greely, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-03-20T20:48:43.510Z,35.6505,-118.3215,7.9,1.07,ml,12,209,0.05092,0.11,ci,ci40520007,2024-03-20T20:55:21.087Z,"14 km ESE of Wofford Heights, CA",earthquake,0.87,0.73,0.248,15,automatic,ci,ci
