@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-20T11:07:44.531Z,63.595,-145.4568,37.3,2.1,ml,,,,0.61,ak,ak0243ohl4jq,2024-03-20T11:10:15.838Z,"33 km SSW of Deltana, Alaska",earthquake,,6.4,,,automatic,ak,ak
+2024-03-20T11:04:36.020Z,36.0368333,-117.7768333,1.94,0.65,ml,20,98,0.01492,0.13,ci,ci40690904,2024-03-20T11:10:24.741Z,"15 km E of Coso Junction, CA",earthquake,0.18,0.15,0.148,6,automatic,ci,ci
 2024-03-20T11:03:26.744Z,62.8041,-149.5528,73.9,1.4,ml,,,,0.47,ak,ak0243ohk8de,2024-03-20T11:05:51.904Z,"48 km NE of Chase, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-03-20T10:55:38.530Z,19.2026672363281,-155.383331298828,28.5300006866455,1.73000002,md,30,161,0.08806,0.129999995,hv,hv74142842,2024-03-20T10:57:42.130Z,"10 km E of Pāhala, Hawaii",earthquake,0.65,0.800000012,0.0599999987,3,automatic,hv,hv
 2024-03-20T10:48:08.270Z,38.7931671,-122.7598343,2.45,0.44,md,7,129,0.007448,0.02,nc,nc74020586,2024-03-20T10:49:44.207Z,"2 km N of The Geysers, CA",earthquake,0.48,2.66,0.22,8,automatic,nc,nc
