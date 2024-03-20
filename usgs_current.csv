@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-20T16:38:38.430Z,32.1443333,-116.026,0.94,2.89,ml,9,285,0.5093,0.28,ci,ci40517199,2024-03-20T16:45:39.790Z,"64 km ENE of Ensenada, B.C., MX",earthquake,7.91,21.77,0.215,25,automatic,ci,ci
 2024-03-20T16:15:41.350Z,19.1634998321533,-155.477172851562,31.3400001525879,1.89,ml,51,104,0.01635,0.140000001,hv,hv74143017,2024-03-20T16:18:21.080Z,"4 km S of Pāhala, Hawaii",earthquake,0.45,0.660000026,0.09,3,automatic,hv,hv
 2024-03-20T16:13:18.954Z,61.3797,-150.2267,42.5,2.6,ml,,,,0.42,ak,ak0243okliyf,2024-03-20T16:15:09.980Z,"13 km W of Point MacKenzie, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-03-20T16:12:49.053Z,31.551,-104.015,4.904,1.7,ml,16,60,0,0.2,tx,tx2024fpow,2024-03-20T16:30:45.473Z,"33 km NW of Toyah, Texas",earthquake,0,1.47289591895584,0.2,12,automatic,tx,tx
-2024-03-20T16:09:13.761Z,31.646,-104.417,4.0153,1.6,ml,17,78,0,0.2,tx,tx2024fpot,2024-03-20T16:36:00.530Z,"58 km S of Whites City, New Mexico",earthquake,0,1.44624867405414,0.1,13,automatic,tx,tx
+2024-03-20T16:09:13.739Z,31.666,-104.411,6.0999,1.6,ml,18,57,0,0.1,tx,tx2024fpot,2024-03-20T16:40:19.549Z,"56 km S of Whites City, New Mexico",earthquake,1.9197923016481098,1.7476271888580055,0.1,15,reviewed,tx,tx
 2024-03-20T15:58:24.481Z,60.9137,-151.7499,76.5,1.6,ml,,,,0.37,ak,ak0243ok9r00,2024-03-20T16:00:11.264Z,"35 km NW of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-03-20T15:42:22.970Z,19.7946662902832,-155.8193359375,13.3500003814697,2.28999996,md,31,197,0.1105,0.319999993,hv,hv74142987,2024-03-20T15:44:13.110Z,"16 km S of Waikoloa, Hawaii",earthquake,1.33,2.16000009,0.239999995,4,automatic,hv,hv
 2024-03-20T15:41:44.730Z,38.822834,-122.7711639,2.41,0.76,md,14,149,0.007688,0.06,nc,nc74020721,2024-03-20T15:43:21.424Z,"4 km W of Cobb, CA",earthquake,0.62,1.18,0.12,15,automatic,nc,nc
