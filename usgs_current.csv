@@ -155,6 +155,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-22T04:22:45.781Z,-5.8086,112.3114,10,5.6,mww,68,56,2.23,1.02,us,us6000mkej,2024-03-22T10:20:53.658Z,"118 km N of Paciran, Indonesia",earthquake,3.92,1.846,0.08,15,reviewed,us,us
 2024-03-22T04:15:07.705Z,36.6492,-117.04,13,1.1,ml,20,213.75,0.231,0.2059,nn,nn00875196,2024-03-22T04:54:57.442Z,"27 km NW of Furnace Creek, California",earthquake,,3.2,0.42,12,reviewed,nn,nn
 2024-03-22T04:00:19.380Z,45.3083333333333,-112.578666666667,3.38,0.64,ml,5,105,0.0508,0.07,mb,mb90043868,2024-03-22T14:38:52.240Z,"11 km NNE of Dillon, Montana",earthquake,0.83,0.98,0.295126155190539,5,reviewed,mb,mb
+2024-03-22T03:54:23.490Z,60.5463333333333,-152.572,14.9,-0.82,ml,5,152,,0.12,av,av91137358,2024-03-22T19:48:05.650Z,"69 km W of Salamatof, Alaska",earthquake,0.76,0.92,0.135706685456259,5,reviewed,av,av
 2024-03-22T03:47:05.209Z,39.3843,71.7608,10,5.1,mb,76,44,0.098,1.12,us,us6000mkeg,2024-03-22T10:11:56.644Z,"26 km NE of Karakenja, Tajikistan",earthquake,7.75,1.87,0.039,217,reviewed,us,us
 2024-03-22T03:43:10.230Z,60.0356666666667,-153.068333333333,-2.61,-0.37,ml,5,121,,0.09,av,av92238306,2024-03-22T19:34:36.240Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.27,1.77,0.532778786255329,5,reviewed,av,av
 2024-03-22T03:41:45.848Z,61.2058,-149.2237,23.8,0.8,ml,,,,0.89,ak,ak0243ro3n6r,2024-03-22T03:43:48.448Z,"22 km SE of Eagle River, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -240,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-21T19:58:52.240Z,32.6386667,-115.72,8.65,0.59,ml,5,299,0.01192,0.04,ci,ci40521087,2024-03-21T23:01:34.431Z,"14 km WNW of Progreso, B.C., MX",earthquake,0.48,0.45,0.275,4,reviewed,ci,ci
 2024-03-21T19:49:38.285Z,59.9535,-153.098,114.7,1.9,ml,,,,0.23,ak,ak0243qa4xj8,2024-03-21T19:51:34.732Z,"59 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-21T19:49:19.004Z,31.675,-104.199,5.6897,1.9,ml,16,70,0.1,0.1,tx,tx2024frrm,2024-03-22T12:57:34.766Z,"55 km NW of Toyah, Texas",earthquake,0.9545466925807445,1.4468368047442952,0.1,6,reviewed,tx,tx
-2024-03-21T19:47:01.730Z,34.0088333,-116.5935,9.5,1.16,ml,39,44,0.05406,0.14,ci,ci40521071,2024-03-21T21:02:14.246Z,"4 km SSW of Morongo Valley, CA",earthquake,0.16,0.36,0.139,23,reviewed,ci,ci
