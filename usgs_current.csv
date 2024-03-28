@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-28T11:54:01.650Z,38.7983322,-122.7526703,3.54,1.4,md,25,95,0.00596,0.03,nc,nc74025431,2024-03-28T11:55:37.677Z,"2 km N of The Geysers, CA",earthquake,0.28,0.61,0.22,25,automatic,nc,nc
 2024-03-28T11:47:02.402Z,59.7809,-153.4504,127,1.1,ml,,,,0.56,ak,ak02441q4duy,2024-03-28T11:48:55.965Z,"36 km E of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-03-28T11:46:32.940Z,32.9669991,-117.9503326,9.21,2.01,ml,31,210,0.4875,0.29,ci,ci40700920,2024-03-28T11:48:37.865Z,"40 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.73,2.08,0.312,17,automatic,ci,ci
+2024-03-28T11:46:33.260Z,33.0183333,-117.9181667,-0.14,1.99,ml,27,177,0.4701,0.41,ci,ci40700920,2024-03-28T11:53:19.360Z,"46 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.88,2.41,0.249,31,automatic,ci,ci
 2024-03-28T11:44:27.420Z,19.195499420166,-155.508834838867,35.2299995422363,2.16,ml,52,69,0.05342,0.129999995,hv,hv74152457,2024-03-28T11:47:06.370Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.46,0.629999995,0.24,10,automatic,hv,hv
 2024-03-28T11:44:14.840Z,19.1865005493164,-155.46533203125,30.5400009155273,2.38,ml,7,208,0.1534,0.100000001,hv,hv74152452,2024-03-28T11:46:51.770Z,"2 km SE of Pāhala, Hawaii",earthquake,1,1.12,0.26,7,automatic,hv,hv
 2024-03-28T11:41:53.189Z,64.4415,-150.0149,10.9,1.1,ml,,,,0.35,ak,ak02441q37km,2024-03-28T11:44:05.338Z,"41 km WNW of Anderson, Alaska",earthquake,,0.5,,,automatic,ak,ak
