@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-28T20:22:42.240Z,38.8251648,-122.8071671,0.82,0.3,md,6,103,0.002877,0.01,nc,nc74025596,2024-03-28T20:24:15.070Z,"7 km NW of The Geysers, CA",earthquake,0.86,1.2,0.13,8,automatic,nc,nc
 2024-03-28T20:16:45.310Z,19.3295001983643,-155.720169067383,-2.63000011444092,1.76999998,md,26,120,0.05788,0.25999999,hv,hv74152927,2024-03-28T20:18:31.440Z,"20 km SE of Honaunau-Napoopoo, Hawaii",earthquake,0.62,0.319999993,0.389999986,7,automatic,hv,hv
 2024-03-28T20:14:01.510Z,38.8003349,-122.7594986,0.75,0.59,md,10,89,0.0003342,0.1,nc,nc74025591,2024-03-28T20:15:35.995Z,"3 km N of The Geysers, CA",earthquake,0.4,0.75,0.14,9,automatic,nc,nc
 2024-03-28T20:11:46.420Z,34.8486667,-118.775,1.22,1.66,ml,11,122,0.07156,0.21,ci,ci40701392,2024-03-28T20:18:40.768Z,"8 km E of Lebec, CA",earthquake,0.91,1.24,0.162,31,automatic,ci,ci
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-28T19:46:40.052Z,67.3029,-156.3837,0,2.6,ml,,,,0.71,ak,ak02441uvq39,2024-03-28T19:50:27.275Z,"49 km NNE of Kobuk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-28T19:39:48.190Z,33.061,-115.9048333,2.27,2.28,ml,63,26,0.08841,0.25,ci,ci40701352,2024-03-28T19:50:47.540Z,"23 km ESE of Ocotillo Wells, CA",earthquake,0.18,0.37,0.157,26,automatic,ci,ci
 2024-03-28T19:09:44.770Z,19.1821670532227,-155.497665405273,31.4899997711182,2.25999999,md,35,91,0.04287,0.150000006,hv,hv74152842,2024-03-28T19:11:39.360Z,"3 km SW of Pāhala, Hawaii",earthquake,0.54,0.75999999,0.239999995,8,automatic,hv,hv
-2024-03-28T18:48:42.642Z,31.623,-104.366,6.1511,1.7,ml,21,63,0.1,0.1,tx,tx2024geka,2024-03-28T19:45:04.863Z,"61 km S of Whites City, New Mexico",earthquake,0.718420955997291,0.876014733572082,0.1,14,reviewed,tx,tx
+2024-03-28T18:48:42.629Z,31.623,-104.367,6.2024,1.7,ml,24,73,0.1,0.2,tx,tx2024geka,2024-03-28T20:27:15.139Z,"61 km S of Whites City, New Mexico",earthquake,0.7800241256649583,0.9073672034545956,0,6,reviewed,tx,tx
 2024-03-28T18:33:47.760Z,64.2758,-147.7007,7.1,1.1,ml,,,,0.47,ak,ak02441u7ins,2024-03-28T18:35:45.181Z,"47 km SW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-28T18:09:44.630Z,36.6554985,-121.2986679,4.58,1.69,md,11,78,0.04637,0.19,nc,nc74025566,2024-03-28T18:12:32.807Z,"15 km S of Tres Pinos, CA",earthquake,0.63,1.62,0.21,10,automatic,nc,nc
 2024-03-28T18:08:32.850Z,36.6566658,-121.3130035,4.08,1.44,md,8,128,0.04573,0.18,nc,nc74025561,2024-03-28T18:10:07.724Z,"15 km S of Tres Pinos, CA",earthquake,0.97,2.56,0.07,6,automatic,nc,nc
