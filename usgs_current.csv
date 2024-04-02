@@ -214,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-01T08:34:33.632Z,62.4068,-151.4979,75,1.8,ml,,,,0.67,ak,ak02448aer4i,2024-04-01T08:37:07.172Z,"39 km WSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-01T08:33:04.634Z,-17.6208,-178.5831,566.117,4.4,mb,43,71,4.757,0.54,us,us7000m968,2024-04-01T09:51:08.040Z,"228 km ENE of Levuka, Fiji",earthquake,9.34,7.89,0.09,36,reviewed,us,us
 2024-04-01T08:28:22.831Z,60.2702,-152.3638,92.2,1.6,ml,,,,0.29,ak,ak02448adg2z,2024-04-01T08:31:10.919Z,"45 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-04-01T08:22:01.440Z,35.8756667,-117.6916667,8.72,2.45,ml,32,82,0.07949,0.16,ci,ci40702792,2024-04-02T07:47:50.040Z,"20 km ESE of Little Lake, CA",earthquake,0.18,0.46,0.236,18,reviewed,ci,ci
