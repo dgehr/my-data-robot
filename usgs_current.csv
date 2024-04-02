@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-02T05:17:32.212Z,31.597,-104.529,5.4658,1.6,ml,8,154,0.1,0.4,tx,tx2024gmmt,2024-04-02T05:33:28.163Z,"65 km SSW of Whites City, New Mexico",earthquake,0,6.39914722721674,0.1,7,automatic,tx,tx
 2024-04-02T05:17:20.934Z,60.9924,-146.3914,19.4,1.6,ml,,,,0.71,ak,ak02449w24ql,2024-04-02T05:19:19.420Z,"15 km S of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-02T05:00:43.529Z,31.632,-104.51,7.4841,3.2,ml,18,75,0,0.2,tx,tx2024gmmf,2024-04-02T05:20:32.090Z,"61 km SSW of Whites City, New Mexico",earthquake,0.990298283537413,0.5361615547797333,0.2,15,reviewed,tx,tx
 2024-04-02T04:49:20.846Z,62.1833,-150.7717,62.6,1.6,ml,,,,0.12,ak,ak02449vnk1g,2024-04-02T04:51:14.403Z,"31 km WSW of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
