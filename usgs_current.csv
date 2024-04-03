@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-03T11:43:37.280Z,19.2626667022705,-155.395004272461,30.2399997711182,2.31999993,md,43,128,0.07091,0.140000001,hv,hv74159757,2024-04-03T11:45:24.450Z,"10 km NE of Pāhala, Hawaii",earthquake,0.55,0.569999993,0.270000011,5,automatic,hv,hv
+2024-04-03T11:39:44.217Z,62.6098,-149.6664,49.2,1.4,ml,,,,1.09,ak,ak0244bnauet,2024-04-03T11:41:41.316Z,"28 km NE of Chase, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-04-03T11:39:33.740Z,36.0058333,-117.7273333,2.04,1.18,ml,25,110,0.03632,0.15,ci,ci40704400,2024-04-03T11:45:38.763Z,"18 km ENE of Little Lake, CA",earthquake,0.18,0.16,0.282,16,automatic,ci,ci
 2024-04-03T11:35:05.695Z,55.9659,-154.9939,43.3,3.3,ml,,,,1.05,ak,ak0244bn9wkp,2024-04-03T11:37:13.077Z,"120 km SSW of Akhiok, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2024-04-03T11:25:41.311Z,61.7083,-148.1487,15.3,1.4,ml,,,,0.52,ak,ak0244bn7u5v,2024-04-03T11:27:30.151Z,"19 km ESE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2024-04-03T11:25:31.880Z,-14.3702,167.7135,171.558,4.5,mb,33,124,6.962,0.75,us,us7000m9l4,2024-04-03T11:42:38.040Z,"57 km SSE of Sola, Vanuatu",earthquake,10.48,8.239,0.108,27,reviewed,us,us
 2024-04-03T11:19:22.601Z,62.4348,-150.4513,59.2,2.4,ml,,,,0.67,ak,ak0244bn6iek,2024-04-03T11:21:16.245Z,"17 km NW of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-04-03T11:15:35.958Z,61.6572,-148.6472,32.8,1.2,ml,,,,0.31,ak,ak0244bn5ol7,2024-04-03T11:17:34.304Z,"14 km SSE of Sutton-Alpine, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-04-03T11:12:09.916Z,59.5941,-153.4599,107.6,1.8,ml,,,,0.29,ak,ak0244bn4zfj,2024-04-03T11:13:56.119Z,"42 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
