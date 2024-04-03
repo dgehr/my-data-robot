@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-04-03T08:25:46.080Z,38.7299995,-122.8724976,4.31,0.84,md,4,202,0.09139,0.03,nc,nc74028306,2024-04-03T08:27:17.224Z,"11 km WSW of The Geysers, CA",earthquake,4.61,8.23,0.02,2,automatic,nc,nc
 2024-04-03T08:15:00.502Z,36.6465,-115.7706,0,0.3,ml,8,296.47,0.155,0.0977,nn,nn00875766,2024-04-03T08:17:16.344Z,"12 km NW of Indian Springs, Nevada",earthquake,,12.1,0.21,5,automatic,nn,nn
+2024-04-03T08:12:51.936Z,31.587,-103.97,6.8225,1.7,ml,16,63,0,0.4,tx,tx2024goob,2024-04-03T08:29:29.793Z,"34 km NNW of Toyah, Texas",earthquake,0,2.39050851176569,0.1,12,automatic,tx,tx
 2024-04-03T08:01:05.660Z,35.6478333,-118.3205,7.95,1.23,ml,34,28,0.05365,0.14,ci,ci40704288,2024-04-03T08:12:18.670Z,"14 km ESE of Wofford Heights, CA",earthquake,0.17,0.41,0.263,20,automatic,ci,ci
 2024-04-03T08:00:31.783Z,59.9814,-139.1696,0,1.6,ml,,,,0.98,ak,ak0244bla5pm,2024-04-03T08:02:43.915Z,"57 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-03T07:52:38.170Z,-14.3213,167.2623,212.62,5.1,mb,78,49,6.814,0.78,us,us7000m9k6,2024-04-03T08:08:21.040Z,"58 km SSW of Sola, Vanuatu",earthquake,10.22,7.235,0.081,49,reviewed,us,us
@@ -143,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-02T19:24:26.942Z,62.093,-151.1833,9.8,1.6,ml,,,,0.37,ak,ak0244a4fpom,2024-04-02T19:26:16.490Z,"16 km NE of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-02T19:07:42.317Z,42.9871,18.6344,10,4,mwr,25,58,0.724,0.82,us,us7000m9ep,2024-04-02T22:24:54.604Z,"20 km NE of Bileća, Bosnia and Herzegovina",earthquake,1.84,1.963,0.069,20,reviewed,us,us
 2024-04-02T19:02:54.480Z,46.0145,-112.468666666667,-2,1.59,ml,13,114,0.05963,0.1,mb,mb90044773,2024-04-02T19:58:21.010Z,"5 km ENE of Butte, Montana",quarry blast,0.36,31.61,0.224517401457563,13,reviewed,mb,mb
-2024-04-02T18:57:25.730Z,36.7355003,-121.2496643,8.24,1.7,md,21,145,0.03115,0.29,nc,nc74028031,2024-04-02T18:59:02.566Z,"9 km SE of Tres Pinos, CA",earthquake,0.75,1.29,0.25,18,automatic,nc,nc
+2024-04-02T18:57:25.690Z,36.725,-121.2523333,11.86,1.63,md,42,105,0.02047,0.08,nc,nc74028031,2024-04-03T08:30:13.987Z,"9 km SE of Tres Pinos, CA",earthquake,0.17,0.26,0.239,44,reviewed,nc,nc
 2024-04-02T18:55:37.200Z,35.6833333,-117.5458333,7.75,0.83,ml,22,117,0.1005,0.15,ci,ci40703904,2024-04-02T19:51:09.303Z,"14 km ENE of Ridgecrest, CA",earthquake,0.25,0.84,0.133,6,reviewed,ci,ci
 2024-04-02T18:54:05.201Z,59.7932,-153.0856,96.4,1.8,ml,,,,0.37,ak,ak0244a40o8g,2024-04-02T21:33:05.534Z,"57 km E of Pedro Bay, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2024-04-02T18:51:37.740Z,19.0583324432373,-155.36116027832,31.5900001525879,2.58,ml,54,206,0.1358,0.159999996,hv,hv74159097,2024-04-02T18:54:18.040Z,"20 km SE of Pāhala, Hawaii",earthquake,0.56,0.800000012,0.33,24,automatic,hv,hv
@@ -234,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-02T09:04:59.557Z,61.5302,-149.95,29.5,1.5,ml,,,,0.63,ak,ak02449yd5tv,2024-04-02T09:07:36.717Z,"1 km NNE of Big Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-02T08:39:34.290Z,48.492333333333335,-122.74033333333334,14.07,0.68,ml,9,112,0.1125,0.09,uw,uw61985787,2024-04-02T15:56:14.260Z,"9 km WSW of Anacortes, Washington",earthquake,0.29,0.61,0.18963962544796586,5,reviewed,uw,uw
 2024-04-02T08:38:28.760Z,33.8358333,-117.6566667,3.89,1.16,ml,38,52,0.05484,0.19,ci,ci40703496,2024-04-02T20:43:21.269Z,"9 km WSW of Corona, CA",earthquake,0.23,0.45,0.136,16,reviewed,ci,ci
-2024-04-02T08:29:58.760Z,33.9313333,-117.1946667,12.52,0.97,ml,44,69,0.02423,0.2,ci,ci40703488,2024-04-02T18:08:07.863Z,"3 km E of Moreno Valley, CA",earthquake,0.21,0.56,0.196,17,reviewed,ci,ci
