@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-04T13:35:53.127Z,63.2966,-148.1419,32.2,1.6,ml,,,,1.2,ak,ak0244dc07mz,2024-04-04T13:38:10.524Z,"41 km ESE of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-04-04T13:25:53.097Z,59.7194,-153.1767,109.2,2,ml,,,,0.78,ak,ak0244dby2sb,2024-04-04T13:30:03.677Z,"52 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-04T13:15:23.400Z,38.5321655,-122.6598358,6.11,1.47,md,9,144,0.05865,0.06,nc,nc74029191,2024-04-04T13:16:58.584Z,"8 km ENE of Larkfield-Wikiup, CA",earthquake,1.01,1.67,0.07,8,automatic,nc,nc
 2024-04-04T13:06:16.769Z,60.958,-149.5213,16.8,1.1,ml,,,,0.52,ak,ak0244dbtxd8,2024-04-04T13:08:15.518Z,"7 km NE of Hope, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -270,7 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-03T13:41:09.560Z,41.3005,-111.644833333333,15.36,2.43,ml,39,97,0.1911,0.17,uu,uu80063651,2024-04-03T14:19:37.420Z,"11 km ENE of Huntsville, Utah",earthquake,0.28,0.28,0.266066670353389,10,reviewed,uu,uu
 2024-04-03T13:39:35.930Z,38.786335,-122.7655029,2.25,1.17,md,13,80,0.01497,0.03,nc,nc74028481,2024-04-03T21:01:08.473Z,"1 km NW of The Geysers, CA",earthquake,0.28,0.82,0.17,14,automatic,nc,nc
 2024-04-03T13:39:28.714Z,31.898,-101.742,8.1299,1.7,ml,8,68,0.1,0.1,tx,tx2024goyv,2024-04-04T10:51:08.271Z,"24 km W of Garden City, Texas",earthquake,0.9913736962902457,1.3643369678057469,0.1,18,reviewed,tx,tx
-2024-04-03T13:38:33.030Z,38.7859993,-122.7613297,2.55,2.77,md,68,41,0.01466,0.09,nc,nc74028476,2024-04-03T18:10:07.178Z,"1 km NNW of The Geysers, CA",earthquake,0.14,0.25,0.18,83,automatic,nc,nc
-2024-04-03T13:36:37.170Z,53.3918333333333,-168.177,-0.41,0.31,ml,4,205,0.02341,0.12,av,av93076746,2024-04-03T23:52:02.090Z,"68 km NE of Nikolski, Alaska",earthquake,0.35,0.46,0.189320449806312,4,reviewed,av,av
-2024-04-03T13:34:52.560Z,59.3566666666667,-153.442666666667,-1.16,-1.17,ml,6,134,0.006043,0.43,av,av93001154,2024-04-04T00:15:29.440Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.57,2.21,0.217754312743623,6,reviewed,av,av
-2024-04-03T13:33:36.250Z,38.7921677,-122.8043365,3.11,0.8,md,7,72,0.003962,0.01,nc,nc74028471,2024-04-03T13:35:13.433Z,"4 km WNW of The Geysers, CA",earthquake,0.63,1.53,0.36,9,automatic,nc,nc
