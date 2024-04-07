@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-07T21:28:41.964Z,11.3458,-85.6124,194.112,4.3,mb,39,152,0.553,0.82,us,us7000manz,2024-04-07T21:44:13.040Z,"20 km NW of Cárdenas, Nicaragua",earthquake,8.58,6.606,0.105,26,reviewed,us,us
 2024-04-07T21:26:44.086Z,60.8625,-152.3774,113.1,1.7,ml,,,,0.54,ak,ak0244ifbs3l,2024-04-07T21:28:40.683Z,"62 km WNW of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-07T21:24:14.250Z,63.7225,-146.0649,17.5,1.2,ml,,,,0.45,ak,ak0244ifbadt,2024-04-07T21:27:27.711Z,"34 km SW of Fort Greely, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-07T21:08:14.640Z,33.9026667,-117.7463333,9.11,1.31,ml,12,123,0.05274,0.1,ci,ci40707072,2024-04-07T21:14:52.339Z,"6 km ENE of Yorba Linda, CA",earthquake,0.93,0.94,0.386,34,automatic,ci,ci
@@ -176,4 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-06T22:47:14.375Z,-20.5248,-175.9934,240.552,4.6,mb,35,74,0.978,0.64,us,us7000mai6,2024-04-06T23:04:01.040Z,"101 km NW of Houma, Tonga",earthquake,13.65,7.981,0.095,33,reviewed,us,us
 2024-04-06T22:39:35.619Z,59.4996,-153.5639,126.6,1.6,ml,,,,0.41,ak,ak0244gsgmvt,2024-04-06T22:42:19.060Z,"44 km SE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-06T22:28:03.747Z,63.2727,-151.7198,6.7,1.5,ml,,,,0.97,ak,ak0244gse7jq,2024-04-06T22:29:51.666Z,"29 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-04-06T21:49:21.340Z,38.7980003,-122.7476654,5.93,0.84,md,6,134,0.01704,0.11,nc,nc74030441,2024-04-06T21:50:55.642Z,"2 km NNE of The Geysers, CA",earthquake,1.21,7.38,0.18,7,automatic,nc,nc
