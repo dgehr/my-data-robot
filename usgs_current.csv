@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-07T08:44:03.130Z,38.8208351,-122.8251648,1.77,0.6,md,5,138,0.01206,0,nc,nc74030661,2024-04-07T08:45:35.448Z,"8 km NW of The Geysers, CA",earthquake,0.61,0.95,0.23,8,automatic,nc,nc
 2024-04-07T08:26:08.420Z,38.8465004,-122.8150024,1.47,0.59,md,7,135,0.01043,0.01,nc,nc74030651,2024-04-07T08:27:40.273Z,"8 km WNW of Cobb, CA",earthquake,0.72,1.57,0.16,8,automatic,nc,nc
 2024-04-07T08:12:54.290Z,38.8035011,-122.8101654,1.87,0.78,md,8,84,0.01244,0.01,nc,nc74030641,2024-04-07T08:14:30.112Z,"6 km WNW of The Geysers, CA",earthquake,0.38,1.29,0.14,9,automatic,nc,nc
 2024-04-07T08:02:01.450Z,38.7773323,-122.7360001,2.08,1.11,md,11,88,0.02974,0.03,nc,nc74030636,2024-04-07T08:03:35.027Z,"2 km E of The Geysers, CA",earthquake,0.29,1.06,0.17,12,automatic,nc,nc
@@ -203,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-06T08:58:17.650Z,60.051,-153.101833333333,0.6,-0.95,ml,6,136,0.02021,0.08,av,av93079986,2024-04-07T04:22:48.100Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.35,0.42,0.22829211753513,6,reviewed,av,av
 2024-04-06T08:53:14.800Z,38.7948341,-122.7566681,-0.82,1.14,md,7,159,0.006253,0.18,nc,nc74030091,2024-04-06T08:54:45.965Z,"2 km N of The Geysers, CA",earthquake,0.73,1.49,0.01,3,automatic,nc,nc
 2024-04-06T08:51:54.450Z,17.8716666666667,-66.8606666666667,6.8,2.14,md,4,309,0.1043,0.12,pr,pr71444843,2024-04-06T09:06:13.810Z,"12 km SSE of Guánica, Puerto Rico",earthquake,1.81,1.18,0.0200850888390391,3,reviewed,pr,pr
-2024-04-06T08:48:40.410Z,33.5856667,-116.8056667,7.61,0.48,ml,22,69,0.03561,0.12,ci,ci40706320,2024-04-06T08:54:23.936Z,"13 km WNW of Anza, CA",earthquake,0.19,0.54,0.127,8,automatic,ci,ci
