@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-07T14:48:46.230Z,38.8113327,-122.8206635,2.31,0.93,md,10,86,0.007093,0.01,nc,nc74030786,2024-04-07T14:50:18.369Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.63,0.21,8,automatic,nc,nc
+2024-04-07T14:44:01.240Z,35.7688332,-117.5954971,5.95,1.25,ml,19,125,0.1433,0.13,ci,ci40706880,2024-04-07T14:46:18.158Z,"17 km W of Searles Valley, CA",earthquake,0.4,1.86,0.154,8,automatic,ci,ci
 2024-04-07T14:38:52.653Z,64.466,-146.8906,9.1,1.2,ml,,,,0.48,ak,ak0244ib8c4x,2024-04-07T14:40:41.348Z,"6 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-07T14:26:10.710Z,37.8520012,-121.7845001,19.02,1.79,md,20,164,0.1142,0.06,nc,nc74030781,2024-04-07T14:27:48.180Z,"10 km SSW of Brentwood, CA",earthquake,0.37,0.72,0.09,10,automatic,nc,nc
 2024-04-07T14:12:31.230Z,38.8195,-122.8225021,2.08,1.07,md,15,74,0.01046,0.02,nc,nc74030776,2024-04-07T14:30:02.770Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.44,0.14,16,automatic,nc,nc
@@ -175,9 +177,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-06T17:02:36.380Z,37.7723351,-122.5625,5.03,1.39,md,7,185,0.07305,0.04,nc,nc74030281,2024-04-06T17:04:08.733Z,"7 km NW of San Francisco Zoo, CA",earthquake,0.6,1.37,0.09,7,automatic,nc,nc
 2024-04-06T16:58:27.984Z,61.3732,-147.601,32.2,1.4,ml,,,,0.46,ak,ak0244gp039q,2024-04-06T16:59:38.674Z,"48 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-06T16:56:47.740Z,19.2701663970947,-155.376831054688,28.8500003814697,1.79999995,md,40,131,0.06345,0.180000007,hv,hv74163032,2024-04-06T16:59:34.180Z,"13 km NE of Pāhala, Hawaii",earthquake,0.51,0.689999998,0.25,9,automatic,hv,hv
-2024-04-06T16:54:57.090Z,34.679,-116.2931667,2.4,1.28,ml,18,67,0.1169,0.14,ci,ci40706456,2024-04-06T17:02:06.809Z,"13 km WSW of Ludlow, CA",earthquake,0.21,0.43,0.141,18,automatic,ci,ci
+2024-04-06T16:54:57.090Z,34.679,-116.2931667,2.4,1.28,ml,18,67,0.1169,0.14,ci,ci40706456,2024-04-07T14:45:54.108Z,"13 km WSW of Ludlow, CA",earthquake,0.21,0.43,0.141,18,reviewed,ci,ci
 2024-04-06T16:50:12.950Z,19.3099994659424,-155.220001220703,-0.340000003576279,2.18000007,md,42,128,0.02895,0.189999998,hv,hv74163022,2024-04-06T16:52:09.160Z,"14 km S of Volcano, Hawaii",earthquake,0.32,0.219999999,0.419999987,20,automatic,hv,hv
-2024-04-06T16:23:57.030Z,35.1903333,-118.5953333,7.77,1.29,ml,29,61,0.08664,0.16,ci,ci40706448,2024-04-06T16:30:20.114Z,"15 km WNW of Tehachapi, CA",earthquake,0.2,0.63,0.282,16,automatic,ci,ci
+2024-04-06T16:23:57.030Z,35.1903333,-118.5953333,7.77,1.29,ml,29,61,0.08664,0.16,ci,ci40706448,2024-04-07T14:46:29.982Z,"15 km WNW of Tehachapi, CA",earthquake,0.2,0.63,0.282,16,reviewed,ci,ci
 2024-04-06T15:53:11.539Z,24.2233,121.8511,26.353,4.8,mwr,106,40,0.62,0.71,us,us7000magn,2024-04-06T16:46:06.323Z,"37 km NE of Hualien City, Taiwan",earthquake,2.87,4.756,0.06,27,reviewed,us,us
 2024-04-06T15:39:12.554Z,51.7964,178.456,101.2,3.7,ml,,,,0.36,ak,ak0244goak26,2024-04-06T17:45:21.742Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2024-04-06T15:33:20.500Z,38.8380013,-122.8021698,1.89,0.64,md,9,113,0.009245,0.01,nc,nc74030246,2024-04-06T15:34:53.445Z,"7 km WNW of Cobb, CA",earthquake,0.44,0.81,0.49,10,automatic,nc,nc
@@ -186,5 +188,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-06T15:12:23.060Z,19.359167098999,-155.302169799805,0.779999971389771,2.23000002,md,14,98,0.02341,0.0700000003,hv,hv74162957,2024-04-06T15:14:03.320Z,"11 km SW of Volcano, Hawaii",earthquake,0.24,0.430000007,0.129999995,8,automatic,hv,hv
 2024-04-06T15:08:57.400Z,38.7939987,-122.7581635,0.32,1.1,md,13,84,0.006726,0.02,nc,nc74030226,2024-04-06T15:10:32.253Z,"2 km N of The Geysers, CA",earthquake,0.23,0.62,0.12,14,automatic,nc,nc
 2024-04-06T15:02:43.234Z,65.3518,-149.0344,16.1,1.1,ml,,,,1.13,ak,ak0244go2oqr,2024-04-06T15:05:55.262Z,"26 km NNE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-04-06T14:52:50.410Z,36.0738333,-117.8775,3.02,1.05,ml,22,84,0.04735,0.16,ci,ci40706392,2024-04-06T14:58:43.094Z,"7 km ENE of Coso Junction, CA",earthquake,0.22,0.52,0.216,13,automatic,ci,ci
-2024-04-06T14:51:24.270Z,19.3581657409668,-155.306503295898,0.600000023841858,1.92999995,md,12,115,0.0338,0.0900000036,hv,hv74162932,2024-04-06T14:53:16.020Z,"12 km SW of Volcano, Hawaii",earthquake,0.3,0.589999974,0.460000008,9,automatic,hv,hv
+2024-04-06T14:52:50.410Z,36.0738333,-117.8775,3.02,1.05,ml,22,84,0.04735,0.16,ci,ci40706392,2024-04-07T14:46:47.215Z,"7 km ENE of Coso Junction, CA",earthquake,0.22,0.52,0.216,13,reviewed,ci,ci
