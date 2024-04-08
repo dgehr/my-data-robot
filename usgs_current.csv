@@ -200,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-07T21:08:14.790Z,33.8925,-117.7386667,8.58,1.06,ml,14,80,0.03394,0.12,ci,ci40707072,2024-04-08T18:51:36.420Z,"7 km E of Yorba Linda, CA",earthquake,0.38,0.57,0.161,9,reviewed,ci,ci
 2024-04-07T21:02:16.466Z,61.219,-151.1223,69.9,2.3,ml,,,,0.46,ak,ak0244if6ksq,2024-04-07T21:04:08.437Z,"8 km NNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-04-07T20:47:58.740Z,41.8868,82.1535,10,5,mb,72,76,2.44,0.45,us,us7000manu,2024-04-07T21:04:06.040Z,"67 km WNW of Kuqa, China",earthquake,4.5,1.862,0.044,163,reviewed,us,us
-2024-04-07T20:38:09.515Z,61.8841,-150.7925,63.1,1.8,ml,,,,0.57,ak,ak0244iesufr,2024-04-07T20:40:04.988Z,"33 km ESE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
