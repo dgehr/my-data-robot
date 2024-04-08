@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-04-08T10:35:31.850Z,19.4500007629395,-155.876159667969,9.31999969482422,2.61999989,md,37,150,0.1723,0.219999999,hv,hv74164982,2024-04-08T10:37:04.950Z,"1 km WSW of Honaunau-Napoopoo, Hawaii",earthquake,0.47,0.409999996,0.519999981,14,automatic,hv,hv
+2024-04-08T10:35:31.850Z,19.4500007629395,-155.876159667969,9.31999969482422,2.45,ml,37,150,0.1723,0.219999999,hv,hv74164982,2024-04-08T10:38:10.830Z,"1 km WSW of Honaunau-Napoopoo, Hawaii",earthquake,0.47,0.409999996,0.27,4,automatic,hv,hv
 2024-04-08T10:29:06.030Z,38.8089981,-122.8001633,2.07,1.09,md,14,69,0.003934,0.01,nc,nc74031191,2024-04-08T10:30:38.997Z,"5 km NW of The Geysers, CA",earthquake,0.27,0.54,0.12,17,automatic,nc,nc
 2024-04-08T10:26:21.508Z,62.5093,-151.8055,14.2,1.4,ml,,,,0.6,ak,ak0244jwbb7q,2024-04-08T10:28:08.694Z,"53 km W of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-08T10:23:56.560Z,46.53916549682617,-122.38016510009766,18.9799995422363,1.7036783695220947,ml,47,72,,0.100000001,uw,uw61995131,2024-04-08T10:26:16.490Z,"8 km E of Mossyrock, Washington",earthquake,0.24,0.860000014,0.26185473799705505,16,automatic,uw,uw
