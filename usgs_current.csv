@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-04-11T07:36:37.882Z,60.9133,-152.7852,151.4,3.3,ml,,,,0.6,ak,ak0244ot78al,2024-04-11T07:47:29.736Z,"85 km WNW of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-04-11T07:49:28.880Z,33.919,-116.3605,5.53,0.87,ml,36,53,0.04558,0.15,ci,ci40710624,2024-04-11T07:55:36.028Z,"11 km NNE of Thousand Palms, CA",earthquake,0.18,0.52,0.104,19,automatic,ci,ci
+2024-04-11T07:41:10.990Z,17.8761666666667,-66.5811666666667,7.14,2.45,md,15,204,0.05284,0.12,pr,pr71445368,2024-04-11T07:53:32.070Z,"15 km SSE of Ponce, Puerto Rico",earthquake,0.37,0.25,0.147216055335747,7,reviewed,pr,pr
+2024-04-11T07:36:37.882Z,60.9133,-152.7852,151.4,3.3,ml,,,,0.6,ak,ak0244ot78al,2024-04-11T07:52:33.094Z,"85 km WNW of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-04-11T07:35:01.810Z,35.6636667,-117.5278333,6.66,0.59,ml,20,92,0.0848,0.11,ci,ci40710616,2024-04-11T07:41:37.845Z,"14 km ENE of Ridgecrest, CA",earthquake,0.22,0.62,0.122,5,automatic,ci,ci
 2024-04-11T07:13:57.970Z,38.8303337,-122.8186646,1.56,0.74,md,7,127,0.009645,0.01,nc,nc74032661,2024-04-11T07:15:34.056Z,"8 km NW of The Geysers, CA",earthquake,0.41,1.14,0.24,8,automatic,nc,nc
 2024-04-11T07:07:50.950Z,35.7363333,-117.5655,10.2,1.04,ml,25,123,0.1172,0.15,ci,ci40710608,2024-04-11T07:13:41.759Z,"15 km WSW of Searles Valley, CA",earthquake,0.23,0.65,0.121,9,automatic,ci,ci
