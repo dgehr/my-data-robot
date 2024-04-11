@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-11T13:24:32.060Z,33.5014992,-116.4973297,9.94,1.08,ml,39,60,0.06253,0.14,ci,ci40710776,2024-04-11T13:26:39.124Z,"17 km ESE of Anza, CA",earthquake,0.23,0.58,0.244,7,automatic,ci,ci
+2024-04-11T13:23:26.796Z,59.5976,-152.6972,81.1,1.7,ml,,,,0.38,ak,ak0244owp0rr,2024-04-11T13:25:53.524Z,"51 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-04-11T13:06:19.161Z,2.6804,127.3495,67.172,4.5,mb,28,114,1.896,0.99,us,us7000mbde,2024-04-11T13:27:41.040Z,"128 km NW of Tobelo, Indonesia",earthquake,11.45,8.653,0.109,25,reviewed,us,us
 2024-04-11T12:52:56.300Z,19.3958339691162,-155.276168823242,1.21000003814697,2.1,ml,26,44,0.002429,0.189999998,hv,hv74168217,2024-04-11T12:55:34.190Z,"6 km SW of Volcano, Hawaii",earthquake,0.2,0.159999996,0.3,12,automatic,hv,hv
 2024-04-11T12:47:33.770Z,38.8274994,-122.8151703,1.83,1.07,md,18,45,0.005713,0.01,nc,nc74032761,2024-04-11T12:49:08.111Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.43,0.26,17,automatic,nc,nc
 2024-04-11T12:46:51.609Z,60.3309,-150.7625,14.5,1.7,ml,,,,0.27,ak,ak0244ow8kjs,2024-04-11T12:48:11.701Z,"19 km S of Funny River, Alaska",earthquake,,0.4,,,automatic,ak,ak
