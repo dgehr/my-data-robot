@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-11T03:52:49.540Z,38.8108333,-122.8271667,2.12,0.52,md,29,49,0.002514,0.04,nc,nc74032566,2024-04-11T20:31:53.874Z,"7 km WNW of The Geysers, CA",earthquake,0.13,0.22,0.165,26,reviewed,nc,nc
 2024-04-11T03:47:19.466Z,62.2271,-149.3199,32.6,1.4,ml,,,,0.8,ak,ak0244oqvtca,2024-04-11T03:49:34.952Z,"28 km ENE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-11T03:45:22.010Z,38.8243332,-122.8016663,2.61,0.79,md,8,92,0.006634,0.01,nc,nc74032561,2024-04-11T03:46:53.710Z,"6 km NW of The Geysers, CA",earthquake,0.42,0.84,0.11,12,automatic,nc,nc
-2024-04-11T03:33:57.125Z,7.5908,126.228,10,5.2,mww,59,78,0.826,0.95,us,us7000mbbc,2024-04-11T22:16:18.391Z,"10 km E of Bantacan, Philippines",earthquake,7.57,0.381,0.065,23,reviewed,us,us
