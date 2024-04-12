@@ -193,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-11T10:45:57.750Z,19.2740001678467,-155.407669067383,30.8099994659424,1.75999999,md,24,117,0.06264,0.140000001,hv,hv74168077,2024-04-11T10:47:42.230Z,"10 km NE of Pāhala, Hawaii",earthquake,0.7,0.99000001,0.159999996,5,automatic,hv,hv
 2024-04-11T10:20:30.975Z,62.0173,-148.6095,20.2,1.1,ml,,,,0.41,ak,ak0244ouw34p,2024-04-11T10:23:06.346Z,"25 km NNW of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-11T10:12:16.230Z,60.3933,-151.837,74,1.1,ml,,,,0.48,ak,ak0244ouuc9j,2024-04-11T10:14:51.548Z,"29 km W of Cohoe, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2024-04-11T09:56:43.959Z,31.613,-104.514,8.1763,1.5,ml,21,77,0.1,0.2,tx,tx2024hdhn,2024-04-11T15:02:16.343Z,"63 km SSW of Whites City, New Mexico",earthquake,1.728189319687759,0.9707292594505716,0.2,16,reviewed,tx,tx
