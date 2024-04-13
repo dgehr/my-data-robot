@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-13T15:34:15.416Z,31.596,-103.974,4.8038,1.5,ml,15,63,0,0.3,tx,tx2024hhjq,2024-04-13T15:43:59.746Z,"35 km NNW of Toyah, Texas",earthquake,0,1.31949368881329,0.2,13,automatic,tx,tx
 2024-04-13T15:30:10.344Z,60.7143,-147.4259,12.5,1.9,ml,,,,0.56,ak,ak0244s901pm,2024-04-13T15:32:14.027Z,"44 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-13T15:29:15.260Z,19.2514991760254,-155.386001586914,30.5499992370605,2.24000001,md,45,138,0.08147,0.140000001,hv,hv74170537,2024-04-13T15:30:52.480Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.5,0.680000007,0.379999995,7,automatic,hv,hv
 2024-04-13T15:17:18.884Z,-49.0065,121.4222,10,5.1,mb,52,54,16.366,0.69,us,us7000mbwy,2024-04-13T15:36:45.040Z,"western Indian-Antarctic Ridge",earthquake,6.67,1.828,0.081,50,reviewed,us,us
