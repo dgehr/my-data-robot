@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-04-15T22:27:21.600Z,34.7678337,-118.9509964,14.66,1.25,ml,8,147,0.01679,0.09,ci,ci40713504,2024-04-15T22:29:24.014Z,"6 km S of Frazier Park, CA",earthquake,1.07,1.29,0.263,5,automatic,ci,ci
+2024-04-15T22:27:21.900Z,34.7761667,-118.9443333,11.3,1.78,ml,19,70,0.1252,0.22,ci,ci40713504,2024-04-15T22:37:34.953Z,"5 km S of Frazier Park, CA",earthquake,0.36,0.91,0.375,29,automatic,ci,ci
 2024-04-15T22:07:52.219Z,31.587,-104.552,3.1481,1.8,ml,15,164,0.1,0.2,tx,tx2024hlnq,2024-04-15T22:25:43.512Z,"66 km NNE of Van Horn, Texas",earthquake,0,1.7423708695189597,0.1,13,automatic,tx,tx
 2024-04-15T22:06:09.092Z,31.589,-104.56,2.9212,1.7,ml,15,167,0.1,0.4,tx,tx2024hlnp,2024-04-15T22:25:39.523Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.34051310497153,0.1,12,automatic,tx,tx
 2024-04-15T21:57:25.505Z,29.065,-97.828,6.9092,2.6,ml,14,44,0,0.1,tx,tx2024hlni,2024-04-15T22:28:11.546Z,"20 km ENE of Falls City, Texas",earthquake,0.8832210934534468,1.2688789150354436,0.2,9,reviewed,tx,tx
