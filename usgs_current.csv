@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-15T10:41:40.420Z,36.6419983,-121.30233,4.12,1.56,md,10,140,0.03262,0.17,nc,nc74034696,2024-04-15T10:43:13.863Z,"16 km S of Tres Pinos, CA",earthquake,0.69,1.55,0.24,8,automatic,nc,nc
 2024-04-15T10:39:09.202Z,63.5259,-148.1564,33.7,1.2,ml,,,,0.66,ak,ak0244vh5i14,2024-04-15T10:41:22.815Z,"42 km ENE of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-04-15T10:16:41.800Z,38.8353348,-122.809166,2.24,1.47,md,27,36,0.01194,0.02,nc,nc74034691,2024-04-15T10:18:13.762Z,"8 km W of Cobb, CA",earthquake,0.19,0.31,0.14,30,automatic,nc,nc
 2024-04-15T10:07:06.130Z,36.1049995,-120.6806641,2.5,1.58,md,11,103,0.07738,0.11,nc,nc74034686,2024-04-15T10:08:39.587Z,"22 km ENE of San Ardo, CA",earthquake,0.55,2.46,0.17,7,automatic,nc,nc
