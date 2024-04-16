@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-16T06:47:43.630Z,46.20100021362305,-122.18049621582031,7.61999988555908,0.360000014,md,23,66,,0.109999999,uw,uw61989027,2024-04-16T06:50:03.420Z,"38 km NNE of Amboy, Washington",earthquake,0.47,0.550000012,,1,automatic,uw,uw
 2024-04-16T06:44:22.830Z,36.5968323,-121.2536697,4.54,1.96,md,27,133,0.05104,0.14,nc,nc74035146,2024-04-16T06:47:31.589Z,"12 km NW of Pinnacles, CA",earthquake,0.39,1.35,0.24,22,automatic,nc,nc
-2024-04-16T06:43:54.119Z,61.1979,-146.4086,0.4,1.6,ml,,,,0.9,ak,ak0244x2c2da,2024-04-16T06:46:14.833Z,"8 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-04-16T06:43:54.119Z,61.1979,-146.4086,0.4,1.6,ml,,,,0.9,ak,ak0244x2c2da,2024-04-16T06:52:51.458Z,"8 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-16T06:40:00.920Z,38.8380013,-122.7988358,2.07,0.76,md,13,71,0.006644,0.02,nc,nc74035141,2024-04-16T06:41:34.750Z,"7 km WNW of Cobb, CA",earthquake,0.28,0.73,0.17,13,automatic,nc,nc
 2024-04-16T06:34:49.260Z,19.3598327636719,-155.297164916992,0.360000014305115,1.96,ml,16,75,0.02433,0.280000001,hv,hv74173132,2024-04-16T06:37:26.690Z,"11 km SW of Volcano, Hawaii",earthquake,0.33,0.589999974,0.5,6,automatic,hv,hv
-2024-04-16T06:33:19.170Z,31.623,-104.504,6.8689,3,ml,20,72,0,0.1,tx,tx2024hmei,2024-04-16T06:48:21.707Z,"62 km S of Whites City, New Mexico",earthquake,1.0986188794927656,0.599542043767182,0.2,11,reviewed,tx,tx
+2024-04-16T06:33:19.170Z,31.623,-104.504,6.8689,3,ml,20,72,0,0.1,tx,tx2024hmei,2024-04-16T06:49:26.040Z,"62 km S of Whites City, New Mexico",earthquake,1.0986188794927656,0.599542043767182,0.2,11,reviewed,tx,tx
 2024-04-16T06:31:52.561Z,31.59,-104.545,3.5267,2.6,ml,8,161,0.1,0.1,tx,tx2024hmeg,2024-04-16T06:42:39.671Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.92605618049677,0.1,6,automatic,tx,tx
 2024-04-16T06:31:01.780Z,38.833168,-122.8148346,9.55,0.29,md,9,105,0.01044,0.05,nc,nc74035136,2024-04-16T06:32:35.646Z,"8 km NW of The Geysers, CA",earthquake,1.16,7.13,0.16,10,automatic,nc,nc
 2024-04-16T06:23:18.987Z,31.592,-104.544,4.1428,1.7,ml,7,161,0.1,0.3,tx,tx2024hmdz,2024-04-16T06:42:34.652Z,"66 km SSW of Whites City, New Mexico",earthquake,0,2.32424665161824,0.1,7,automatic,tx,tx
