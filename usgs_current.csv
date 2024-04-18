@@ -227,5 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-17T13:42:24.520Z,19.3866666666667,-155.2805,1.2,1.39,md,8,130,0.001155,0.05,hv,hv74174937,2024-04-17T18:12:20.820Z,"7 km SW of Volcano, Hawaii",earthquake,0.46,0.33,0.168878055731732,15,reviewed,hv,hv
 2024-04-17T13:37:33.730Z,36.1195,-117.8815,7.47,1.12,ml,24,48,0.02165,0.16,ci,ci40715216,2024-04-17T16:01:12.180Z,"10 km NE of Coso Junction, CA",earthquake,0.24,0.45,0.298,17,reviewed,ci,ci
 2024-04-17T13:32:39.880Z,17.953,-66.5095,9.76,2.21,md,6,121,0.06833,0.22,pr,pr71445823,2024-04-17T14:01:26.710Z,"4 km SSW of Potala Pastillo, Puerto Rico",earthquake,0.52,1.4,0.160908745745147,4,reviewed,pr,pr
-2024-04-17T13:29:55.550Z,38.8111649,-122.8281631,1.14,1.07,md,16,71,0.002427,0.02,nc,nc74035976,2024-04-17T13:31:27.898Z,"7 km WNW of The Geysers, CA",earthquake,0.21,0.47,0.18,18,automatic,nc,nc
-2024-04-17T13:26:30.470Z,19.384,-155.2785,1.35,1.31,md,25,51,0.003944,0.09,hv,hv74174897,2024-04-17T18:04:51.860Z,"8 km SW of Volcano, Hawaii",earthquake,0.18,0.13,0.168505269514743,20,reviewed,hv,hv
