@@ -292,4 +292,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-18T11:36:27.430Z,40.6235,-121.8231667,3.62,1.5,md,16,60,0.09622,0.24,nc,nc74036511,2024-04-19T06:15:17.758Z,"16 km NNE of Shingletown, CA",earthquake,0.65,4.32,0.357,16,reviewed,nc,nc
 2024-04-18T11:28:27.440Z,40.2096667,-121.1446667,3.1,2.67,md,39,50,0.03799,0.19,nc,nc74036506,2024-04-19T06:15:11.900Z,"1 km E of Prattville, CA",earthquake,0.27,0.43,0.115,41,reviewed,nc,nc
 2024-04-18T11:21:05.930Z,19.2536659240723,-155.380828857422,31.75,2.06999993,md,23,146,0.07944,0.100000001,hv,hv74176357,2024-04-18T11:22:52.210Z,"11 km ENE of Pāhala, Hawaii",earthquake,1.01,0.709999979,0.119999997,3,automatic,hv,hv
-2024-04-18T11:17:52.013Z,40.678,-74.7731,8.044,0.7,ml,5,87,0.029,0.14,us,us7000md08,2024-04-18T20:30:28.040Z,"6 km NE of Lebanon, New Jersey",earthquake,4.83,5.932,0.115,10,reviewed,us,us
