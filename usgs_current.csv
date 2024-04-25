@@ -13,6 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-25T09:15:33.070Z,19.1459999084473,-155.487670898438,33.1500015258789,2.41,ml,56,157,0.02591,0.140000001,hv,hv74185127,2024-04-25T09:18:10.980Z,"6 km S of Pāhala, Hawaii",earthquake,0.44,0.600000024,0.25,20,automatic,hv,hv
 2024-04-25T09:12:54.720Z,17.935,-67.0968333333333,7.02,2.49,md,7,272,0.06067,0.13,pr,pr71446518,2024-04-25T09:25:23.020Z,"6 km SW of La Parguera, Puerto Rico",earthquake,0.95,0.23,0.0603724432246857,4,reviewed,pr,pr
 2024-04-25T09:11:52.950Z,33.5095,-116.757,4.4,0.75,ml,40,34,0.04338,0.17,ci,ci40557767,2024-04-25T09:18:18.132Z,"9 km WSW of Anza, CA",earthquake,0.15,0.35,0.171,14,automatic,ci,ci
+2024-04-25T09:11:18.049Z,31.965,-103.341,9.7913,2.1,ml,32,75,0,0.3,tx,tx2024icvb,2024-04-25T10:35:19.761Z,"21 km SW of Jal, New Mexico",earthquake,1.1735997384265837,0.8365128354778867,0.2,24,reviewed,tx,tx
 2024-04-25T09:09:03.048Z,14.5582,146.8974,10,5.1,mb,62,71,1.263,1.05,us,us6000mtmz,2024-04-25T10:09:07.220Z,"142 km ESE of Saipan, Northern Mariana Islands",earthquake,8.12,1.874,0.052,120,reviewed,us,us
 2024-04-25T09:07:29.066Z,37.3017,-104.5033,4.45,2.4,ml,14,64,0.179,0.54,us,us6000mtmx,2024-04-25T09:20:36.040Z,"9 km NNW of El Moro, Colorado",earthquake,1.57,2.147,0.128,8,reviewed,us,us
 2024-04-25T09:07:11.990Z,38.8171654,-122.8228302,1.89,0.76,md,9,75,0.009656,0.03,nc,nc74040706,2024-04-25T09:08:44.057Z,"7 km NW of The Geysers, CA",earthquake,0.37,1.14,0.18,11,automatic,nc,nc
@@ -252,6 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-24T10:43:14.129Z,61.4047,-148.7459,28.3,0.8,ml,,,,0.47,ak,ak0245ad0hpw,2024-04-24T10:45:07.675Z,"10 km SE of Knik River, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-24T10:38:38.260Z,44.8013333333333,-111.0565,7.37,0.65,ml,12,155,0.03597,0.1,uu,uu80067316,2024-04-24T14:57:32.010Z,"11 km ENE of Hebgen Lake Estates, Montana",earthquake,0.54,0.71,0.393218550674106,3,reviewed,uu,uu
 2024-04-24T10:38:01.760Z,36.0886667,-117.8821667,2.48,1.18,ml,13,159,0.03635,0.1,ci,ci40556823,2024-04-24T13:32:47.545Z,"8 km NE of Coso Junction, CA",earthquake,0.39,0.31,0.206,15,reviewed,ci,ci
-2024-04-24T10:31:13.209Z,58.2401,-155.1714,37.2,0.6,ml,,,,0.17,ak,ak0245acxx20,2024-04-24T10:32:37.958Z,"85 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-04-24T10:30:42.850Z,38.8231659,-122.7945023,3.25,0.39,md,8,114,0.01217,0.01,nc,nc74040236,2024-04-24T10:32:18.452Z,"6 km NNW of The Geysers, CA",earthquake,0.54,1.75,0.3,10,automatic,nc,nc
-2024-04-24T10:29:16.430Z,46.847166666666666,-121.76666666666667,0.04,-0.04,ml,18,66,0.02584,0.07,uw,uw61999366,2024-04-24T17:32:30.840Z,"22 km ENE of Ashford, Washington",earthquake,0.17,0.82,0.1895520498044673,7,reviewed,uw,uw
