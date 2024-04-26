@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-26T15:34:47.740Z,19.3819999694824,-155.239501953125,2.03999996185303,1.75,ml,17,79,0.008453,0.140000001,hv,hv74186917,2024-04-26T15:37:24.950Z,"6 km S of Volcano, Hawaii",earthquake,0.32,0.200000003,0.18,6,automatic,hv,hv
 2024-04-26T15:27:49.030Z,38.8209991,-122.7969971,2.6,1.09,md,18,55,0.01049,0.01,nc,nc74041436,2024-04-26T15:29:23.899Z,"6 km NW of The Geysers, CA",earthquake,0.25,0.55,0.07,19,automatic,nc,nc
 2024-04-26T15:26:11.900Z,60.1352,-141.6357,16.9,1.1,ml,,,,0.36,ak,ak0245dqypdy,2024-04-26T15:27:29.578Z,"125 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-26T15:23:58.650Z,19.3813323974609,-155.240325927734,2.33999991416931,1.95,ml,21,71,0.007728,0.230000004,hv,hv74186907,2024-04-26T15:26:35.360Z,"6 km S of Volcano, Hawaii",earthquake,0.38,0.25,0.23,7,automatic,hv,hv
 2024-04-26T15:19:51.530Z,35.6748333,-117.4793333,6.66,1.3,ml,25,69,0.04632,0.12,ci,ci40559159,2024-04-26T15:25:58.407Z,"12 km SSW of Searles Valley, CA",earthquake,0.2,0.42,0.138,16,automatic,ci,ci
 2024-04-26T15:13:50.265Z,60.5238,-142.7972,17.4,1.2,ml,,,,0.56,ak,ak0245dqw01e,2024-04-26T15:15:33.686Z,"101 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-26T15:11:35.060Z,38.8364983,-122.7931671,2.7,0.21,md,8,82,0.002916,0.02,nc,nc74041431,2024-04-26T15:13:09.670Z,"6 km WNW of Cobb, CA",earthquake,0.62,2.06,0.09,9,automatic,nc,nc
+2024-04-26T15:09:16.780Z,18.0383333333333,-66.8016666666667,17,2.53,md,9,142,0.09702,0.2,pr,pr71446703,2024-04-26T15:29:39.670Z,"2 km NNW of Guayanilla, Puerto Rico",earthquake,0.9,0.92,0.200709127518319,7,reviewed,pr,pr
 2024-04-26T15:06:50.288Z,59.2788,-153.7648,119.1,1.8,ml,,,,0.48,ak,ak0245dqui11,2024-04-26T15:10:35.119Z,"51 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-04-26T14:58:54.721Z,61.5586,-152.256,23.6,1.5,ml,,,,1.12,ak,ak0245dqk800,2024-04-26T15:00:57.610Z,"66 km SW of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-26T14:57:32.600Z,17.9758333333333,-66.826,12.5,1.99,md,7,197,0.0507,0.12,pr,pr71446693,2024-04-26T15:12:43.670Z,"2 km SSW of Indios, Puerto Rico",earthquake,2.1,0.58,0.123208780666989,5,reviewed,pr,pr
@@ -262,4 +264,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-25T15:50:23.700Z,45.3235,-121.7235,0.14,1.8900000000000001,ml,16,103,0.01534,0.06,uw,uw61999741,2024-04-25T17:13:15.900Z,"3 km NE of Government Camp, Oregon",earthquake,0.18,0.24,0.2883112366962567,11,reviewed,uw,uw
 2024-04-25T15:48:17.040Z,38.8346672,-122.7904968,1.81,0.74,md,13,85,0.003738,0.01,nc,nc74040841,2024-04-25T15:49:53.437Z,"6 km WNW of Cobb, CA",earthquake,0.3,0.47,0.13,14,automatic,nc,nc
 2024-04-25T15:46:07.330Z,19.3931674957275,-155.276840209961,0.860000014305115,1.8,ml,16,66,0.003728,0.129999995,hv,hv74185497,2024-04-25T15:48:46.380Z,"7 km SW of Volcano, Hawaii",earthquake,0.2,0.159999996,0.22,4,automatic,hv,hv
-2024-04-25T15:30:03.155Z,57.5948,-153.4729,18.4,3.2,ml,,,,0.33,ak,ak0245c3g78y,2024-04-25T16:07:37.040Z,"30 km E of Larsen Bay, Alaska",earthquake,,1.3,,,automatic,ak,ak
