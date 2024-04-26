@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-26T20:30:30.390Z,34.1686667,-117.488,4.45,1.05,ml,12,67,0.06269,0.12,ci,ci40559447,2024-04-26T20:37:00.179Z,"8 km NNW of Fontana, CA",earthquake,0.26,0.7,0.149,23,automatic,ci,ci
 2024-04-26T20:24:41.910Z,38.8289986,-122.8528366,1.93,0.72,md,8,119,0.0151,0.01,nc,nc74041551,2024-04-26T20:26:15.280Z,"10 km NW of The Geysers, CA",earthquake,0.41,1.31,0.3,7,automatic,nc,nc
 2024-04-26T20:18:23.040Z,38.757,-122.734169,-0.14,1.04,md,6,135,0.008602,0.04,nc,nc74041546,2024-04-26T20:19:55.182Z,"3 km SE of The Geysers, CA",earthquake,0.33,0.98,0.28,7,automatic,nc,nc
 2024-04-26T20:02:44.320Z,34.0016667,-117.1765,13.77,1.49,ml,54,28,0.05424,0.18,ci,ci40559415,2024-04-26T20:13:24.860Z,"6 km S of Redlands, CA",earthquake,0.17,0.36,0.136,27,automatic,ci,ci
@@ -98,7 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-26T11:02:47.685Z,31.958,-103.355,8.5864,2.8,ml,39,64,0,0.2,tx,tx2024ieuf,2024-04-26T19:17:37.937Z,"22 km SW of Jal, New Mexico",earthquake,0.6889622625432011,0.7397431522832414,0.2,29,reviewed,tx,tx
 2024-04-26T10:58:19.990Z,38.8338318,-122.8164978,1.39,1.03,md,16,57,0.01157,0.03,nc,nc74041336,2024-04-26T10:59:53.777Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.61,0.25,17,automatic,nc,nc
 2024-04-26T10:53:43.430Z,19.279333114624,-155.397506713867,29.2099990844727,2.11999989,md,23,172,0.05493,0.140000001,hv,hv74186577,2024-04-26T10:55:21.020Z,"12 km NE of Pāhala, Hawaii",earthquake,0.74,1.04999995,0.280000001,3,automatic,hv,hv
-2024-04-26T10:52:40.270Z,33.5821667,-116.8068333,7.44,0.35,ml,19,72,0.03748,0.15,ci,ci40558935,2024-04-26T10:58:34.518Z,"13 km WNW of Anza, CA",earthquake,0.24,0.57,0.034,6,automatic,ci,ci
+2024-04-26T10:52:40.220Z,33.5843333,-116.8061667,8.18,0.38,ml,23,68,0.03633,0.12,ci,ci40558935,2024-04-26T20:39:41.952Z,"13 km WNW of Anza, CA",earthquake,0.22,0.44,0.224,10,reviewed,ci,ci
 2024-04-26T10:50:46.550Z,38.8209991,-122.7863312,2,0.76,md,12,81,0.008899,0.01,nc,nc74041331,2024-04-26T10:52:23.667Z,"6 km W of Cobb, CA",earthquake,0.38,0.97,0.07,12,automatic,nc,nc
 2024-04-26T10:47:50.550Z,19.2721672058105,-155.405166625977,29.7600002288818,1.95,ml,50,119,0.06363,0.159999996,hv,hv74186567,2024-04-26T10:50:28.110Z,"10 km NE of Pāhala, Hawaii",earthquake,0.39,0.579999983,0.16,5,automatic,hv,hv
 2024-04-26T10:45:10.042Z,61.3812,-151.7378,87.5,0.7,ml,,,,0.59,ak,ak0245do3lt4,2024-04-26T10:47:26.428Z,"44 km NW of Beluga, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -263,6 +264,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-25T20:52:23.960Z,38.791832,-122.7593307,2.55,0.75,md,9,118,0.008785,0.02,nc,nc74040996,2024-04-25T20:53:58.567Z,"2 km N of The Geysers, CA",earthquake,0.52,1.02,0.15,9,automatic,nc,nc
 2024-04-25T20:49:06.907Z,31.968,-103.335,8.2788,2.4,ml,23,56,0,0.2,tx,tx2024idsb,2024-04-26T17:05:08.932Z,"20 km SW of Jal, New Mexico",earthquake,0.9626518990396635,0.8686643403595996,0.2,13,reviewed,tx,tx
 2024-04-25T20:47:03.520Z,17.9205,-66.9571666666667,12.01,3.09,md,24,207,0.06912,0.12,pr,pr71446588,2024-04-26T13:33:02.040Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.46,0.25,0.143314981690507,12,reviewed,pr,pr
+2024-04-25T20:46:55.850Z,40.4011667,-121.1578333,4.04,1.44,md,13,134,0.2029,0.12,nc,nc74040986,2024-04-26T20:39:26.525Z,"12 km NNE of Chester, CA",earthquake,0.4,2,0.235,12,reviewed,nc,nc
 2024-04-25T20:44:26.990Z,40.3984985,-121.1654968,7.02,1.81,md,8,136,0.197,0.07,nc,nc74040981,2024-04-25T20:45:59.478Z,"12 km NNE of Chester, CA",earthquake,0.51,3.09,0.23,6,automatic,nc,nc
-2024-04-25T20:37:16.327Z,60.1404,-152.9942,118.8,1.5,ml,,,,0.47,ak,ak0245c6gw4w,2024-04-25T20:39:35.890Z,"73 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-04-25T20:36:17.580Z,44.7948333333333,-110.972333333333,5.9,0.06,md,9,163,0.0429,0.18,uu,uu80067486,2024-04-25T20:56:06.220Z,"17 km E of Hebgen Lake Estates, Montana",earthquake,0.58,1.06,0.165909256832607,6,reviewed,uu,uu
