@@ -364,4 +364,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-29T00:07:14.780Z,38.7985001,-122.7486649,1.75,0.85,md,10,154,0.008889,0.03,nc,nc74042731,2024-04-29T00:08:50.010Z,"2 km NNE of The Geysers, CA",earthquake,0.49,0.67,0.14,10,automatic,nc,nc
 2024-04-28T23:57:43.320Z,38.7833328,-122.8073349,8.34,0.62,md,7,231,0.005997,0.01,nc,nc74042726,2024-04-28T23:59:20.853Z,"4 km W of The Geysers, CA",earthquake,1.8,6.94,0.32,9,automatic,nc,nc
 2024-04-28T23:54:52.582Z,31.715,-104.584,4.3958,1.6,ml,16,198,0,0.5,tx,tx2024ijks,2024-04-29T00:27:20.719Z,"54 km SSW of Whites City, New Mexico",earthquake,0,2.64551087664782,0.1,13,automatic,tx,tx
-2024-04-28T23:44:12.997Z,63.1256,-150.4714,106,1.2,ml,,,,0.27,ak,ak0245h6wq6r,2024-04-28T23:46:22.067Z,"71 km NNE of Petersville, Alaska",earthquake,,2,,,automatic,ak,ak
