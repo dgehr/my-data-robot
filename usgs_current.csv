@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-05-05T19:20:54.990Z,19.3700008392334,-155.240005493164,0.109999999403954,1.86,ml,17,90,0.01876,0.180000007,hv,hv74214457,2024-05-05T19:23:34.780Z,"8 km S of Volcano, Hawaii",earthquake,0.29,0.239999995,0.44,8,automatic,hv,hv
-2024-05-05T19:16:55.380Z,34.0096667,-117.1045,12.73,1.8,ml,73,28,0.02656,0.17,ci,ci40740264,2024-05-05T19:23:32.358Z,"5 km WNW of Calimesa, CA",earthquake,0.13,0.35,0.095,27,automatic,ci,ci
+2024-05-05T19:16:55.380Z,34.0096667,-117.1045,12.73,1.8,ml,73,28,0.02656,0.17,ci,ci40740264,2024-05-05T19:27:49.920Z,"5 km WNW of Calimesa, CA",earthquake,0.13,0.35,0.095,27,automatic,ci,ci
+2024-05-05T19:08:49.863Z,15.0412,119.9744,42.444,4.8,mb,51,100,7.805,0.59,us,us6000mwjn,2024-05-05T19:26:39.040Z,"10 km WSW of Poblacion, San Felipe, Philippines",earthquake,10.35,7.504,0.067,68,reviewed,us,us
 2024-05-05T19:02:50.240Z,38.8251647949219,-122.805335998535,2.47000002861023,0.77,md,22,40,0.004101,0.01,nc,nc75001766,2024-05-05T19:04:27.454Z,"7 km NNW of The Geysers, CA",earthquake,0.22,0.49000001,0.18,23,automatic,nc,nc
 2024-05-05T19:02:34.432Z,63.464,-151.4524,3.5,2.3,ml,,,,0.74,ak,ak0245sp1gtc,2024-05-05T19:10:29.040Z,"15 km ESE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-05T18:55:10.300Z,38.8344993591309,-122.815330505371,1.72000002861023,0.9,md,18,57,0.01626,0.02,nc,nc75001761,2024-05-05T18:56:47.634Z,"8 km WNW of Cobb, CA",earthquake,0.22,0.610000014,0.19,19,automatic,nc,nc
