@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-04T07:34:03.302Z,55.8046,-159.3671,87.5,2.7,ml,,,,0.06,ak,ak0245qujpka,2024-05-04T07:40:41.040Z,"13 km SE of Ivanof Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-05-04T07:00:05.430Z,38.8173332214355,-122.822998046875,2.33999991416931,0.76,md,16,64,0.009735,0.02,nc,nc75000901,2024-05-04T07:01:43.445Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.629999995,0.16,18,automatic,nc,nc
 2024-05-04T06:54:40.340Z,33.4911667,-116.4868333,14.02,0.4,ml,19,63,0.07575,0.09,ci,ci40738208,2024-05-04T07:02:00.849Z,"19 km ESE of Anza, CA",earthquake,0.19,0.38,0.14,6,automatic,ci,ci
-2024-05-04T06:48:11.632Z,60.7899,-146.4885,20,2.8,ml,,,,0.46,ak,ak0245qu1amj,2024-05-04T07:14:34.040Z,"13 km SE of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
