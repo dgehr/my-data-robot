@@ -227,6 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-05T08:57:54.490Z,-5.8052,147.4095,139.377,5.2,mww,63,95,3.585,0.62,us,us6000mwg2,2024-05-05T09:31:34.748Z,"96 km NNW of Finschhafen, Papua New Guinea",earthquake,11.1,5.711,0.083,14,reviewed,us,us
 2024-05-05T08:57:42.620Z,46.208,-122.17883333333333,7.54,0.4,ml,9,96,0.009072,0.11,uw,uw61994397,2024-05-05T23:59:44.100Z,"39 km NNE of Amboy, Washington",earthquake,0.38,0.57,0.18231459532345784,5,reviewed,uw,uw
 2024-05-05T08:44:08.610Z,48.0251666666667,-113.876333333333,11.16,2.31,ml,23,129,0.1857,0.15,mb,mb90049313,2024-05-05T14:16:06.250Z,"10 km NNW of Swan Lake, Montana",earthquake,0.39,0.78,0.316998849162913,18,reviewed,mb,mb
-2024-05-05T08:37:10.180Z,62.2584,-150.0817,45.6,2.1,ml,,,,0.41,ak,ak0245sip5ca,2024-05-05T08:38:56.044Z,"7 km S of Talkeetna, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-05-05T08:36:55.950Z,46.20166666666667,-122.18883333333333,1.42,0.11,ml,13,59,0.002353,0.06,uw,uw61994392,2024-05-06T00:45:42.100Z,"38 km NNE of Amboy, Washington",earthquake,0.27,0.16,0.0760889407511619,5,reviewed,uw,uw
-2024-05-05T08:29:18.750Z,18.861,-64.3851,8,3.74,md,17,297,0.5034,0.36,pr,pr2024126000,2024-05-05T08:55:32.971Z,"72 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,1.66,1.66,0.09,15,reviewed,pr,pr
