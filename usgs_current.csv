@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-06T15:55:05.550Z,19.3813323974609,-155.238662719727,1.85000002384186,1.89,ml,20,73,0.007939,0.170000002,hv,hv74215642,2024-05-06T15:57:44.440Z,"6 km S of Volcano, Hawaii",earthquake,0.31,0.200000003,0.21,8,automatic,hv,hv
+2024-05-06T15:53:02.748Z,37.1442,-116.4836,0,1.4,ml,10,152.22000000000003,0.078,0.5693,nn,nn00877229,2024-05-06T15:55:59.955Z,"35 km NE of Beatty, Nevada",earthquake,,3.5,0.37,9,automatic,nn,nn
 2024-05-06T15:46:24.800Z,38.8131675720215,-122.817497253418,2.77999997138977,0.78,md,11,60,0.01009,0.01,nc,nc75002306,2024-05-06T15:48:02.909Z,"7 km NW of The Geysers, CA",earthquake,0.4,1.10000002,0.34,12,automatic,nc,nc
 2024-05-06T15:45:18.960Z,38.7136650085449,-122.860168457031,5.59000015258789,1.13,md,13,170,0.05605,0.03,nc,nc75002301,2024-05-06T15:46:52.898Z,"11 km WSW of The Geysers, CA",earthquake,0.4,1.17999995,0.13,14,automatic,nc,nc
 2024-05-06T15:40:02.140Z,33.584,-116.8051667,8.07,1.82,ml,12,82,0.03562,0.11,ci,ci40740992,2024-05-06T15:46:40.514Z,"13 km WNW of Anza, CA",earthquake,0.27,0.48,0.433,22,automatic,ci,ci
@@ -6,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-06T15:32:32.157Z,0.4867,-77.6664,10,4.8,mww,110,55,0.258,0.95,us,us6000mwq2,2024-05-06T15:51:18.040Z,"21 km ESE of San Gabriel, Ecuador",earthquake,5.58,1.875,0.098,10,reviewed,us,us
 2024-05-06T15:22:01.280Z,34.4381667,-117.9285,7.49,1.57,ml,32,72,0.122,0.19,ci,ci40740968,2024-05-06T15:29:00.407Z,"8 km SSW of Pearblossom, CA",earthquake,0.23,0.82,0.315,33,automatic,ci,ci
 2024-05-06T15:20:46.311Z,61.2452,-152.1562,28.4,0.7,ml,,,,0.16,ak,ak0245uaayon,2024-05-06T15:24:16.599Z,"58 km WNW of Tyonek, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2024-05-06T15:17:05.271Z,0.3839,-77.5955,10,4.8,mww,76,65,0.363,0.89,us,us6000mwpy,2024-05-06T15:52:41.590Z,"34 km SE of San Gabriel, Ecuador",earthquake,6.5,1.817,0.08,15,reviewed,us,us
+2024-05-06T15:17:05.271Z,0.3839,-77.5955,10,4.8,mww,76,65,0.363,0.89,us,us6000mwpy,2024-05-06T15:58:22.584Z,"34 km SE of San Gabriel, Ecuador",earthquake,6.5,1.817,0.08,15,reviewed,us,us
 2024-05-06T15:15:41.670Z,36.1561667,-118.0635,2.65,1.58,ml,28,75,0.1732,0.18,ci,ci40740952,2024-05-06T15:22:06.371Z,"15 km SSW of Olancha, CA",earthquake,0.22,0.7,0.231,24,automatic,ci,ci
 2024-05-06T15:14:11.370Z,38.8380012512207,-122.835830688477,1.4099999666214,0.23,md,8,103,0.0006454,0.01,nc,nc75002286,2024-05-06T15:15:48.537Z,"10 km NW of The Geysers, CA",earthquake,0.41,0.860000014,0.11,8,automatic,nc,nc
 2024-05-06T15:11:55.873Z,62.9557,-149.5851,71,1.9,ml,,,,0.47,ak,ak0245ua91z7,2024-05-06T15:13:51.690Z,"58 km SSW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
