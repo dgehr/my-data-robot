@@ -17,6 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-09T18:17:15.890Z,44.7601666666667,-111.139666666667,10.3,0.56,md,14,73,0.04135,0.18,uu,uu80069206,2024-05-09T20:30:36.530Z,"4 km ESE of Hebgen Lake Estates, Montana",earthquake,0.55,0.94,0.398978457425353,6,reviewed,uu,uu
 2024-05-09T18:11:56.698Z,62.4109,-152.8255,0,1.7,ml,,,,1.02,ak,ak0245zanec5,2024-05-09T18:14:17.239Z,"87 km WNW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-09T18:00:46.192Z,63.2118,-150.76,145.5,1.3,ml,,,,0.17,ak,ak0245zal0nf,2024-05-09T18:03:59.954Z,"60 km SE of Denali National Park, Alaska",earthquake,,5,,,automatic,ak,ak
+2024-05-09T17:41:51.070Z,44.3123333333333,-115.137666666667,4.98,1.18,ml,5,127,0.2937,0.09,mb,mb90049983,2024-05-09T20:44:51.200Z,"19 km WNW of Stanley, Idaho",earthquake,0.39,7.36,0.158675050428872,6,reviewed,mb,mb
 2024-05-09T17:35:01.900Z,34.2101667,-117.6213333,9.51,1.83,ml,58,30,0.04204,0.19,ci,ci40743888,2024-05-09T18:42:00.096Z,"10 km NNW of Rancho Cucamonga, CA",earthquake,0.18,0.39,0.163,17,reviewed,ci,ci
 2024-05-09T17:12:08.910Z,34.39766667,-96.78966667,0,1.41,ml,53,167,0.2078592109,1.06,ok,ok2024jczy,2024-05-09T17:39:15.078Z,"3 km ESE of Mill Creek, Oklahoma",quarry blast,,1.4,0.23,22,reviewed,ok,ok
 2024-05-09T17:08:03.220Z,33.4186667,-117.0561667,8.39,0.84,ml,33,53,0.03588,0.19,ci,ci40743864,2024-05-09T18:25:35.595Z,"6 km NNE of Pala, CA",earthquake,0.21,0.54,0.123,18,automatic,ci,ci
