@@ -128,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-15T04:49:51.230Z,33.0356667,-117.7451667,-0.23,2.13,ml,36,159,0.348,0.36,ci,ci40585479,2024-05-15T04:56:51.946Z,"39 km WSW of Carlsbad, CA",earthquake,0.83,1.92,0.168,28,automatic,ci,ci
 2024-05-15T04:48:42.339Z,64.308,-152.4672,0,1.4,ml,,,,0.52,ak,ak02468zrb7t,2024-05-15T04:51:02.167Z,"48 km N of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-15T04:45:17.340Z,35.6715,-117.5158333,5.55,0.68,ml,21,99,0.07528,0.14,ci,ci40585471,2024-05-15T04:51:02.469Z,"15 km SW of Searles Valley, CA",earthquake,0.23,0.76,0.186,7,automatic,ci,ci
-2024-05-15T04:43:55.940Z,33.1811667,-115.6075,2.98,1.53,ml,35,85,0.007758,0.23,ci,ci40585463,2024-05-15T04:50:28.469Z,"10 km SW of Niland, CA",earthquake,0.25,0.18,0.232,30,automatic,ci,ci
+2024-05-15T04:43:55.960Z,33.1811667,-115.6053333,3.07,1.67,ml,31,86,0.009397,0.22,ci,ci40585463,2024-05-15T18:47:13.265Z,"10 km SW of Niland, CA",earthquake,0.23,0.19,0.294,17,reviewed,ci,ci
 2024-05-15T04:43:42.575Z,28.947,-98.084,0.0488,1.7,ml,11,116,0.1,0.3,tx,tx2024jnak,2024-05-15T16:42:03.801Z,"7 km WSW of Falls City, Texas",earthquake,2.814821477475654,3.6679216390116727,0.1,7,reviewed,tx,tx
 2024-05-15T04:41:45.376Z,28.954,-98.072,5.8838,2.8,ml,16,46,0.1,0.1,tx,tx2024jnaf,2024-05-15T17:48:37.390Z,"6 km WSW of Falls City, Texas",earthquake,1.364306201169138,2.076036049617256,0.1,6,reviewed,tx,tx
 2024-05-15T04:39:51.550Z,19.1825,-155.34,27.46,3.41,ml,59,175,0.07711,0.13,hv,hv74231257,2024-05-15T06:42:04.243Z,"14 km E of Pāhala, Hawaii",earthquake,0.39,0.53,0.183465129779823,39,reviewed,hv,hv
