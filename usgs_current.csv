@@ -231,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-14T20:04:52.643Z,62.7434,-149.5155,61.8,1.8,ml,,,,0.51,ak,ak02467lhhow,2024-05-14T20:06:56.365Z,"44 km NE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-05-14T19:59:00.400Z,32.9431667,-116.2068333,10.92,0.73,ml,19,72,0.08197,0.16,ci,ci40583191,2024-05-14T21:05:01.641Z,"23 km SSW of Ocotillo Wells, CA",earthquake,0.27,0.64,0.106,15,reviewed,ci,ci
 2024-05-14T19:57:19.802Z,58.6523,-152.5737,46.7,1.9,ml,,,,0.23,ak,ak02467l7cin,2024-05-14T19:59:36.345Z,"68 km NNE of Aleneva, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2024-05-14T19:41:07.590Z,46.853,-121.76566666666666,1.13,0.19,ml,13,71,0.02837,0.07,uw,uw61503088,2024-05-14T21:12:38.550Z,"22 km ENE of Ashford, Washington",earthquake,0.25,0.7,0.17285749585157006,3,reviewed,uw,uw
