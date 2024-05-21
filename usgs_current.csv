@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-21T13:39:09.170Z,33.149,-115.951,6.29,0.82,ml,22,67,0.03316,0.16,ci,ci40594679,2024-05-21T13:45:14.937Z,"17 km S of Salton City, CA",earthquake,0.23,0.42,0.204,10,automatic,ci,ci
 2024-05-21T13:35:52.550Z,38.8224983215332,-122.794830322266,2.40000009536743,1.1,md,24,33,0.01194,0.02,nc,nc75010151,2024-05-21T13:37:27.185Z,"6 km NNW of The Geysers, CA",earthquake,0.2,0.49000001,0.14,26,automatic,nc,nc
 2024-05-21T13:31:49.342Z,61.0974,-146.5313,10.3,1.6,ml,,,,1.22,ak,ak0246j28nzq,2024-05-21T13:34:04.594Z,"10 km WSW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-21T13:29:30.117Z,67.8679,-160.8391,5.6,3,ml,,,,0.97,ak,ak0246j286zp,2024-05-21T13:33:07.994Z,"87 km ESE of Red Dog Mine, Alaska",earthquake,,289.8,,,automatic,ak,ak
@@ -261,6 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-20T14:05:10.027Z,62.3593,-149.0161,0,1.6,ml,,,,1.11,ak,ak0246hf53ga,2024-05-20T14:07:54.677Z,"48 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-20T14:04:25.000Z,61.265,-152.249333333333,6.83,-0.16,ml,7,104,0.05213,0.15,av,av93133476,2024-05-21T03:02:26.560Z,"63 km WNW of Tyonek, Alaska",earthquake,0.34,0.99,0.263236658903983,7,reviewed,av,av
 2024-05-20T13:49:38.360Z,60.061,-153.074833333333,1.27,-0.97,ml,5,215,0.00672,0.27,av,av93133471,2024-05-21T02:21:20.990Z,"65 km ENE of Pedro Bay, Alaska",earthquake,1.84,0.7,0.224381106555162,5,reviewed,av,av
-2024-05-20T13:45:44.711Z,63.1527,-151.0891,16.8,1.8,ml,,,,1.1,ak,ak0246hesb5z,2024-05-20T13:48:26.015Z,"53 km SE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-05-20T13:43:16.670Z,61.2418333333333,-152.174166666667,21.25,-0.12,ml,4,209,0.09266,0.12,av,av93008074,2024-05-21T02:34:53.710Z,"59 km WNW of Tyonek, Alaska",earthquake,0.77,1.08,0.146099074812628,4,reviewed,av,av
-2024-05-20T13:43:02.810Z,61.2691666666667,-152.198166666667,21.76,-0.05,ml,5,134,0.04616,0.21,av,av93133461,2024-05-21T02:30:12.400Z,"61 km WNW of Tyonek, Alaska",earthquake,0.84,1.4,0.238844502254607,5,reviewed,av,av
