@@ -272,4 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-20T07:38:34.160Z,32.9585,-115.5425,5.89,1.31,ml,22,95,0.0589,0.21,ci,ci40593335,2024-05-20T07:44:44.232Z,"2 km SSW of Brawley, CA",earthquake,0.27,0.57,0.246,3,automatic,ci,ci
 2024-05-20T07:28:23.360Z,32.9315,-115.5303333,5.61,1.37,ml,25,56,0.03937,0.25,ci,ci40593327,2024-05-20T07:34:47.866Z,"5 km S of Brawley, CA",earthquake,0.3,0.55,0.253,26,automatic,ci,ci
 2024-05-20T07:28:04.842Z,44.374,-115.1945,10,2.5,ml,45,34,0.366,0.79,us,us6000mzs0,2024-05-20T14:30:45.040Z,"26 km NW of Stanley, Idaho",earthquake,2.07,2.001,0.041,78,reviewed,us,us
-2024-05-20T07:27:25.980Z,53.3846666666667,-168.171833333333,3.12,-0.62,ml,6,197,0.02256,0.27,av,av93133186,2024-05-20T23:58:57.870Z,"67 km NE of Nikolski, Alaska",earthquake,1,0.86,0.162665455089848,6,reviewed,av,av
