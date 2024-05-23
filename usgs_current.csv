@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-23T18:27:26.420Z,38.8306655883789,-122.820167541504,1.9099999666214,0.23,md,11,76,0.01072,0.01,nc,nc75011166,2024-05-23T18:29:03.955Z,"8 km NNW of The Geysers, CA",earthquake,0.33,0.819999993,0.1,11,automatic,nc,nc
 2024-05-23T18:21:16.959Z,63.1631,-150.5963,112.1,1.7,ml,,,,0.44,ak,ak0246mg8bcf,2024-05-23T18:23:17.074Z,"70 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-05-23T18:16:04.430Z,36.886833190918,-121.62166595459,1.95000004768372,1.86,md,13,103,0.05452,0.03,nc,nc75011161,2024-05-23T18:17:39.766Z,"2 km ESE of Aromas, CA",earthquake,0.31,0.790000021,0.13,6,automatic,nc,nc
 2024-05-23T18:15:29.950Z,60.7719,-151.8271,77.6,1.4,ml,,,,0.11,ak,ak0246mg721v,2024-05-23T18:17:44.378Z,"30 km WNW of Nikiski, Alaska",earthquake,,1.7,,,automatic,ak,ak
