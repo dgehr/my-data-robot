@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-27T04:41:07.100Z,36.7195014953613,-121.412498474121,5.30000019073486,1.63,md,14,76,0.05437,0.08,nc,nc75012521,2024-05-27T04:42:41.867Z,"11 km SSW of Ridgemark, CA",earthquake,0.34,0.709999979,0.17,10,automatic,nc,nc
 2024-05-27T04:24:52.338Z,61.3845,-151.8642,87.6,1.4,ml,,,,0.52,ak,ak0246su2cq9,2024-05-27T04:27:13.294Z,"49 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-05-27T04:17:49.540Z,39.4351654052734,-123.110336303711,-0.649999976158142,1.9,md,17,122,0.06303,0.12,nc,nc75012516,2024-05-27T04:19:26.790Z,"13 km WNW of Lake Pillsbury, CA",earthquake,0.37,2.9000001,0.12,10,automatic,nc,nc
 2024-05-27T04:10:04.483Z,36.6702,-115.8238,4.8,0.3,ml,10,282.21000000000004,0.111,0.2526,nn,nn00878213,2024-05-27T04:12:24.532Z,"17 km NW of Indian Springs, Nevada",earthquake,,2,0.18,7,automatic,nn,nn
@@ -197,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-26T05:27:11.360Z,18.2411666666667,-66.4195,38.19,2.58,md,14,63,0.09407,0.09,pr,pr71450428,2024-05-26T05:41:47.430Z,"3 km WNW of Orocovis, Puerto Rico",earthquake,0.41,0.63,0.14875158112673,6,reviewed,pr,pr
 2024-05-26T05:05:36.104Z,-22.0671,-179.5636,570.182,4.5,mb,66,38,4.154,0.79,us,us6000n11n,2024-05-26T05:24:56.040Z,"south of the Fiji Islands",earthquake,7.83,8.263,0.04,182,reviewed,us,us
 2024-05-26T04:55:26.580Z,33.2923333,-116.7395,13.16,0.69,ml,19,84,0.05847,0.14,ci,ci40600679,2024-05-26T05:09:31.527Z,"6 km NNE of Lake Henshaw, CA",earthquake,0.32,0.54,0.173,7,automatic,ci,ci
-2024-05-26T04:37:10.084Z,8.4812,-82.9749,4.304,4.6,mb,72,88,0.348,0.67,us,us6000n11l,2024-05-26T16:43:25.241Z,"15 km WNW of Progreso, Panama",earthquake,5.62,5.021,0.047,134,reviewed,us,us
