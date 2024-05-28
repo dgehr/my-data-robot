@@ -207,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-27T04:10:04.483Z,36.6702,-115.8238,4.8,0.3,ml,10,282.21000000000004,0.111,0.2526,nn,nn00878213,2024-05-27T04:12:24.532Z,"17 km NW of Indian Springs, Nevada",earthquake,,2,0.18,7,automatic,nn,nn
 2024-05-27T04:04:15.440Z,35.6645,-117.4706667,8.1,1.19,ml,28,97,0.03824,0.15,ci,ci40601935,2024-05-27T04:10:14.463Z,"13 km SSW of Searles Valley, CA",earthquake,0.23,0.46,0.103,13,automatic,ci,ci
 2024-05-27T03:59:20.624Z,-20.5444,-68.9324,105.462,4.1,mb,17,54,0.718,0.65,us,us6000n17f,2024-05-27T23:10:21.040Z,"79 km ESE of La Tirana, Chile",earthquake,5.25,6.346,0.197,7,reviewed,us,us
-2024-05-27T03:52:59.770Z,33.7765,-116.133,5.82,1.18,ml,58,73,0.07645,0.17,ci,ci40601927,2024-05-27T04:04:07.040Z,"10 km NE of Indio, CA",earthquake,0.14,0.58,0.18,26,automatic,ci,ci
-2024-05-27T03:52:30.885Z,63.5504,-150.0113,2,3.4,ml,,,,0.99,ak,ak0246stmvho,2024-05-27T22:17:36.040Z,"55 km WNW of Cantwell, Alaska",earthquake,,0,,,reviewed,ak,ak
