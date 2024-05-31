@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-30T14:14:09.843Z,61.929,-149.9825,33.5,1.7,ml,,,,0.81,ak,ak0246xykhtk,2024-05-30T14:16:40.501Z,"20 km N of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-30T14:10:03.480Z,38.8418350219727,-122.830001831055,1.22000002861023,1.48,md,24,86,0.005372,0.02,nc,nc75013382,2024-05-30T14:11:40.410Z,"10 km WNW of Cobb, CA",earthquake,0.18,0.360000014,0.12,25,automatic,nc,nc
 2024-05-30T14:03:58.760Z,33.2241667,-116.0671667,10.02,1.08,ml,47,60,0.08806,0.2,ci,ci40606887,2024-05-30T14:14:59.546Z,"11 km NNE of Ocotillo Wells, CA",earthquake,0.18,0.47,0.125,24,automatic,ci,ci
-2024-05-30T13:55:24.240Z,51.808,-178.808666666667,7.3,0.7,ml,5,143,0.01136,0.16,av,av93145446,2024-05-31T01:34:52.480Z,"150 km W of Adak, Alaska",earthquake,0.7,0.83,0.125979920869509,5,reviewed,av,av
