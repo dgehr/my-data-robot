@@ -248,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-01T07:58:11.580Z,35.8735,-117.688,6.19,0.56,ml,17,108,0.08028,0.16,ci,ci40609503,2024-06-01T08:03:48.184Z,"21 km ESE of Little Lake, CA",earthquake,0.25,0.66,0.131,2,automatic,ci,ci
 2024-06-01T07:49:16.492Z,31.674,-104.19,3.7715,1.6,ml,18,73,0.1,0.6,tx,tx2024kshv,2024-06-01T08:21:23.725Z,"54 km NW of Toyah, Texas",earthquake,0,1.22596789483541,0.2,13,automatic,tx,tx
 2024-06-01T07:49:15.218Z,56.8788,-155.7833,35.4,3.2,ml,,,,0.34,ak,ak024715oo1t,2024-06-01T08:19:43.040Z,"98 km W of Akhiok, Alaska",earthquake,,16.6,,,automatic,ak,ak
-2024-06-01T07:29:10.215Z,38.888,-118.3962,6.4,1.1,ml,8,83.09000000000003,0.28,0.1205,nn,nn00878459,2024-06-01T15:30:59.551Z,"36 km E of Schurz, Nevada",earthquake,,4.5,0.47,6,reviewed,nn,nn
