@@ -204,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-05T19:02:10.930Z,33.0236667,-115.9923333,8.29,0.79,ml,28,107,0.1379,0.16,ci,ci40615367,2024-06-06T14:36:11.510Z,"19 km SE of Ocotillo Wells, CA",earthquake,0.23,1.2,0.073,11,reviewed,ci,ci
 2024-06-05T18:59:28.227Z,63.2692,-151.8355,1.5,1.4,ml,,,,0.63,ak,ak02477yfzui,2024-06-05T19:01:59.252Z,"30 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-05T18:59:23.630Z,58.5963333333333,-154.334166666667,1.55,-0.14,ml,5,309,0.006561,0.06,av,av93010494,2024-06-06T03:30:35.320Z,"97 km SSE of Kokhanok, Alaska",earthquake,1.19,0.26,0.321412057603664,5,reviewed,av,av
-2024-06-05T18:47:45.960Z,38.8028335571289,-122.782165527344,2.80999994277954,1.07,md,13,62,0.01047,0.02,nc,nc75016837,2024-06-05T18:49:20.598Z,"4 km NNW of The Geysers, CA",earthquake,0.38,0.589999974,0.31,15,automatic,nc,nc
