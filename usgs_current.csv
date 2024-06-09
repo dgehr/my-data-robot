@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-09T19:24:17.000Z,35.2418327,-118.1323318,9.14,0.96,ml,7,237,0.728,0.14,ci,ci40618111,2024-06-09T19:35:29.734Z,"18 km NW of California City, CA",earthquake,2.33,16.4,0.067,3,automatic,ci,ci
 2024-06-09T19:15:52.440Z,61.7455,-150.9013,65.4,1.6,ml,,,,0.53,ak,ak0247ekxfsc,2024-06-09T19:18:00.395Z,"30 km NW of Susitna, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-06-09T19:11:00.898Z,63.1008,-151.5209,0.1,2,ml,,,,1.07,ak,ak0247ekwgy1,2024-06-09T19:13:46.877Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-09T17:52:57.630Z,35.7286667,-118.4111667,4.42,0.92,ml,17,84,0.04892,0.15,ci,ci40618087,2024-06-09T17:58:43.137Z,"3 km SSE of Kernville, CA",earthquake,0.23,0.4,0.097,6,automatic,ci,ci
@@ -393,9 +394,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-08T19:36:35.370Z,38.7928352355957,-122.824668884277,1.03999996185303,0.81,md,9,101,0.008112,0.03,nc,nc75017977,2024-06-08T19:38:11.120Z,"6 km WNW of The Geysers, CA",earthquake,0.31,0.680000007,0.16,10,automatic,nc,nc
 2024-06-08T19:36:07.090Z,38.821834564209,-122.771003723145,1.0900000333786,1.76,md,16,90,0.008666,0.03,nc,nc75017967,2024-06-08T20:00:31.340Z,"4 km W of Cobb, CA",earthquake,0.22,0.400000006,0.24,17,automatic,nc,nc
 2024-06-08T19:36:02.010Z,38.8173332214355,-122.81950378418,0.310000002384186,1.53,md,9,153,0.01134,0.03,nc,nc75017962,2024-06-08T19:37:39.565Z,"7 km NW of The Geysers, CA",earthquake,0.36,1.07000005,0.1,9,automatic,nc,nc
-2024-06-08T19:35:55.580Z,38.8068351745605,-122.810333251953,0,1.66,md,12,88,0.01486,0.03,nc,nc75017957,2024-06-08T19:37:29.637Z,"6 km NW of The Geysers, CA",earthquake,0.2,0.939999998,0.14,10,automatic,nc,nc
-2024-06-08T19:35:49.060Z,38.8084983825684,-122.823333740234,2.97000002861023,1.7,md,19,64,0.01339,0.02,nc,nc75017952,2024-06-08T19:37:24.823Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.720000029,0.21,18,automatic,nc,nc
-2024-06-08T19:35:44.530Z,45.368,-121.70116666666667,1.17,1.1400000000000001,ml,11,71,0.03189,0.05,uw,uw62005242,2024-06-09T18:52:41.920Z,"8 km NNE of Government Camp, Oregon",earthquake,0.17,0.15,0.21802550973110923,8,reviewed,uw,uw
-2024-06-08T19:35:30.210Z,38.8026666666667,-122.821333333333,0.47,2.86,md,22,60,0.008713,0.04,nc,nc75017947,2024-06-09T17:58:25.214Z,"6 km NW of The Geysers, CA",earthquake,0.16,0.3,0.259,21,reviewed,nc,nc
-2024-06-08T19:34:29.120Z,38.814,-122.821833333333,3.55,4.48,mw,103,19,0.007693,0.07,nc,nc75017972,2024-06-09T19:17:30.927Z,"7 km NW of The Geysers, CA",earthquake,0.09,0.15,,17,reviewed,nc,nc
-2024-06-08T19:32:21.566Z,59.9787,-152.4416,84.1,1.2,ml,,,,0.31,ak,ak0247cxhoac,2024-06-08T19:34:50.740Z,"39 km W of Happy Valley, Alaska",earthquake,,1.5,,,automatic,ak,ak
