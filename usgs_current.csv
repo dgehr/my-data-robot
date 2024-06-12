@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-12T19:43:15.780Z,33.1650009,-116.114502,10.23,1.03,ml,11,190,0.115,0.33,ci,ci40621151,2024-06-12T19:45:20.139Z,"3 km NNE of Ocotillo Wells, CA",earthquake,4.51,2.63,0.158,4,automatic,ci,ci
 2024-06-12T19:34:10.850Z,19.2049999237061,-155.48567199707,32.0499992370605,2.5,ml,59,79,0.04495,0.119999997,hv,hv74274381,2024-06-12T19:36:48.600Z,"0 km WNW of Pāhala, Hawaii",earthquake,0.34,0.50999999,0.28,39,automatic,hv,hv
 2024-06-12T19:28:39.720Z,38.791332244873,-122.885330200195,16.5799999237061,0.88,md,8,165,0.02063,0.07,nc,nc75021432,2024-06-12T19:30:19.926Z,"11 km WNW of The Geysers, CA",earthquake,3.55,3.4000001,0.22,5,automatic,nc,nc
 2024-06-12T19:12:28.620Z,19.3916664123535,-155.277160644531,1.75999999046326,2.18,ml,27,56,0.004958,0.170000002,hv,hv74274346,2024-06-12T19:15:04.740Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.209999993,0.34,13,automatic,hv,hv
