@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-16T11:49:04.982Z,4.8468,125.3423,57.28,4.9,mb,52,82,2.221,0.86,us,us7000mssz,2024-06-16T12:07:44.040Z,"62 km SSW of Sarangani, Philippines",earthquake,6.32,6.811,0.056,101,reviewed,us,us
 2024-06-16T11:35:24.749Z,61.4457,-149.7525,52.1,2.5,ml,,,,0.33,ak,ak0247q11ml6,2024-06-16T12:46:06.040Z,"1 km SW of Knik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-16T11:03:04.953Z,64.4835,-146.8981,10.2,0.9,ml,,,,0.61,ak,ak0247q0uq5b,2024-06-16T11:04:36.420Z,"4 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-06-16T10:49:59.690Z,38.8133316040039,-122.833335876465,1.99000000953674,0.43,md,7,114,0.005515,0.01,nc,nc75022932,2024-06-16T10:51:35.402Z,"8 km NW of The Geysers, CA",earthquake,0.61,1.97000003,0.25,8,automatic,nc,nc
