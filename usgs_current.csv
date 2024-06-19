@@ -267,4 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-18T14:04:58.060Z,41.564,-112.416666666667,4.19,1.06,md,12,113,0.02144,0.16,uu,uu80074046,2024-06-18T19:40:55.360Z,"17 km SW of Thatcher, Utah",earthquake,0.41,1.4,0.185658772261543,9,reviewed,uu,uu
 2024-06-18T13:50:56.830Z,35.7305,-117.542,1.88,0.67,ml,17,146,0.1163,0.13,ci,ci40801680,2024-06-18T14:17:35.694Z,"13 km WSW of Searles Valley, CA",earthquake,0.24,0.47,0.076,5,reviewed,ci,ci
 2024-06-18T13:49:44.456Z,-38.9664,177.6503,18.954,4.4,mwr,38,147,0.63,0.8,us,us7000mt6g,2024-06-18T19:43:42.660Z,"23 km SSE of Tiniroto, New Zealand",earthquake,6.37,5.005,0.069,20,reviewed,us,us
-2024-06-18T13:42:55.315Z,35.239,87.5539,10,4.5,mb,45,90,7.666,0.99,us,us7000mt6f,2024-06-18T15:33:54.040Z,"western Xizang",earthquake,10.33,1.916,0.082,44,reviewed,us,us
