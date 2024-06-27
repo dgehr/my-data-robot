@@ -85,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-27T04:32:04.560Z,35.9283332824707,-121.287330627441,5.48000001907349,3.18,ml,75,108,0.06795,0.22,nc,nc75027786,2024-06-27T04:59:40.416Z,"27 km ESE of Lopez Point, CA",earthquake,0.37,1.10000002,0.274,18,automatic,nc,nc
 2024-06-27T04:28:51.803Z,39.9134,-118.431,9,1.1,ml,8,148.20999999999998,0.761,0.1829,nn,nn00880026,2024-06-27T04:31:30.488Z,"29 km S of Lovelock, Nevada",earthquake,,1.1,0.31,5,automatic,nn,nn
 2024-06-27T04:10:07.618Z,31.621,-104.125,4.7668,1.7,ml,24,56,0,0.2,tx,tx2024mnnv,2024-06-27T15:33:37.398Z,"46 km NW of Toyah, Texas",earthquake,0.4790845268138177,0.8197888218745367,0.3,24,reviewed,tx,tx
-2024-06-27T03:53:23.122Z,31.583,-104.562,2.764,1.8,ml,17,167,0.1,0.2,tx,tx2024mnng,2024-06-27T04:16:54.133Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.26271522720655,0.1,12,automatic,tx,tx
+2024-06-27T03:53:23.519Z,31.628,-104.518,8.5095,1.7,ml,18,79,0,0.1,tx,tx2024mnng,2024-06-27T15:37:33.412Z,"62 km SSW of Whites City, New Mexico",earthquake,0.814868156791584,0.496565618093485,0.1,17,reviewed,tx,tx
 2024-06-27T03:53:01.236Z,36.7213,-116.3104,15.9,0.1,ml,8,191.01999999999998,0.012,0.281,nn,nn00880025,2024-06-27T03:56:40.097Z,"45 km ESE of Beatty, Nevada",earthquake,,0.6,1.14,5,automatic,nn,nn
 2024-06-27T03:52:31.644Z,63.0715,-151.3923,0,1.6,ml,,,,1.02,ak,ak024883amvn,2024-06-27T03:56:30.367Z,"54 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-06-27T03:51:59.243Z,36.7553,-116.2743,8.5,0,ml,10,80.96000000000001,0.049,0.0599,nn,nn00880024,2024-06-27T03:53:50.534Z,"46 km ESE of Beatty, Nevada",earthquake,,1.1,0.54,5,automatic,nn,nn
