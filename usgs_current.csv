@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-27T11:38:53.320Z,33.5229988,-115.8615036,5.27,1.07,ml,18,190,0.03793,0.23,ci,ci40811600,2024-06-27T11:40:56.753Z,"7 km E of North Shore, CA",earthquake,1.4,1.66,0.109,4,automatic,ci,ci
+2024-06-27T11:38:10.325Z,63.2179,-152.1441,0,1.9,ml,,,,0.98,ak,ak024887z21c,2024-06-27T11:40:10.288Z,"41 km SSW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-06-27T11:33:46.323Z,62.4152,-149.2291,57.3,1.2,ml,,,,0.76,ak,ak024887y294,2024-06-27T11:39:42.686Z,"42 km NE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-06-27T11:33:05.311Z,60.7777,-147.9544,20.3,1.6,ml,,,,0.5,ak,ak024887xz2f,2024-06-27T11:39:39.661Z,"39 km E of Whittier, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-06-27T11:09:24.300Z,35.8686667,-117.711,10.6,0.79,ml,19,97,0.07426,0.11,ci,ci40811592,2024-06-27T11:23:49.855Z,"19 km ESE of Little Lake, CA",earthquake,0.17,0.35,0.135,8,automatic,ci,ci
 2024-06-27T11:07:39.670Z,19.2383327484131,-155.40299987793,32.1800003051758,2.06,ml,52,153,0.09123,0.150000006,hv,hv74295171,2024-06-27T11:10:17.610Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.37,0.519999981,0.14,6,automatic,hv,hv
 2024-06-27T11:05:18.600Z,32.994,-115.9458333,8.73,1.17,ml,36,49,0.1087,0.2,ci,ci40811584,2024-06-27T11:19:30.877Z,"24 km SE of Ocotillo Wells, CA",earthquake,0.2,0.92,0.222,18,automatic,ci,ci
