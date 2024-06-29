@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-29T06:38:22.719Z,31.671,-104.19,4.406,2.5,ml,20,105,0.1,0.4,tx,tx2024mrjs,2024-06-29T06:46:40.213Z,"54 km NW of Toyah, Texas",earthquake,0,1.34240473453644,0.2,16,automatic,tx,tx
 2024-06-29T06:37:21.915Z,62.3696,-149.2428,27.9,1.1,ml,,,,0.94,ak,ak0248bg2e69,2024-06-29T06:39:42.831Z,"39 km NE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-29T06:33:28.564Z,64.2109,-148.0803,0,1.4,ml,,,,0.78,ak,ak0248bg1jug,2024-06-29T06:36:04.503Z,"53 km E of Clear, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-29T06:07:35.500Z,19.3841667175293,-155.25,1.6599999666214,1.77,ml,22,72,0.001821,0.200000003,hv,hv74299876,2024-06-29T06:10:13.560Z,"6 km SSW of Volcano, Hawaii",earthquake,0.27,0.239999995,0.13,10,automatic,hv,hv
@@ -280,4 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-28T07:05:42.800Z,19.3858337402344,-155.253005981445,0.479999989271164,1.91999996,md,22,75,0.001633,0.170000002,hv,hv74297091,2024-06-28T07:07:24.750Z,"6 km SSW of Volcano, Hawaii",earthquake,0.17,0.119999997,0.360000014,14,automatic,hv,hv
 2024-06-28T07:05:24.768Z,-15.9713,-74.792,20.737,4.4,mb,21,143,4.877,0.75,us,us6000n8u2,2024-06-28T17:41:37.705Z,"49 km WSW of Atiquipa, Peru",earthquake,8.35,7.079,0.123,19,reviewed,us,us
 2024-06-28T07:03:49.589Z,31.04,-103.669,8.3557,1.8,ml,12,49,0.1,0.1,tx,tx2024mppa,2024-06-28T14:23:29.186Z,"9 km NE of Balmorhea, Texas",earthquake,0.5952330579090864,1.417900966189275,0.2,12,reviewed,tx,tx
-2024-06-28T06:45:52.486Z,38.7008,-97.6637,4.452,2.6,mb_lg,34,93,0.69,0.45,us,us6000n8tx,2024-06-28T15:32:22.723Z,"4 km SSE of Smolan, Kansas",earthquake,3.37,7.791,0.255,4,reviewed,us,us
