@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-06-30T14:26:45.110Z,19.3801670074463,-155.252670288086,1.76999998092651,2.06999993,md,31,92,0.005468,0.270000011,hv,hv74305476,2024-06-30T14:28:28.290Z,"7 km SSW of Volcano, Hawaii",earthquake,0.3,0.200000003,0.340000004,21,automatic,hv,hv
+2024-06-30T14:26:45.110Z,19.3801670074463,-155.252670288086,1.76999998092651,1.85,ml,31,92,0.005468,0.270000011,hv,hv74305476,2024-06-30T14:29:22.890Z,"7 km SSW of Volcano, Hawaii",earthquake,0.3,0.200000003,0.26,14,automatic,hv,hv
 2024-06-30T14:20:01.630Z,38.8386650085449,-122.810997009277,2.00999999046326,0.6,md,9,124,0.01526,0.01,nc,nc75029136,2024-06-30T14:21:39.289Z,"8 km WNW of Cobb, CA",earthquake,0.38,0.939999998,0.36,9,automatic,nc,nc
 2024-06-30T14:16:09.108Z,65.2526,-148.9304,0,1.1,ml,,,,0.37,ak,ak0248d88oi4,2024-06-30T14:18:27.695Z,"22 km ENE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-30T14:15:17.462Z,37.5415,-118.0237,2,1.8,ml,21,165.29,0.178,0.2782,nn,nn00880160,2024-06-30T14:18:11.131Z,"14 km SSE of Dyer, Nevada",earthquake,,1.4,0.28,13,automatic,nn,nn
