@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-03T07:42:49.240Z,59.0143,-152.6699,63.8,1.2,ml,,,,0.44,ak,ak0248i2ucgs,2024-07-03T07:44:33.971Z,"57 km SW of Nanwalek, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-07-03T07:34:30.030Z,38.8288345336914,-122.8125,0.980000019073486,0.67,md,8,86,0.0185,0.03,nc,nc75030111,2024-07-03T07:36:08.394Z,"8 km NNW of The Geysers, CA",earthquake,0.36,1,0.37,9,automatic,nc,nc
 2024-07-03T07:17:28.285Z,-54.019,-2.4486,10,5.2,mb,30,91,17.72,0.73,us,us6000n9zp,2024-07-03T07:34:24.040Z,"southern Mid-Atlantic Ridge",earthquake,13.67,1.91,0.089,42,reviewed,us,us
 2024-07-03T07:02:10.554Z,35.31902695,-98.03147888,2.435736895,2.39,ml,36,50.76400757,0.1050542742,0.9992081408,ok,ok2024mysm,2024-07-03T07:09:38.990Z,"7 km W of Minco, Oklahoma",earthquake,2.389024165,1.585692243,0.32,31,automatic,ok,ok
