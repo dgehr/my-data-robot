@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-08T07:21:51.830Z,19.3939990997314,-155.275329589844,0.400000005960464,2.06,ml,19,50,0.002095,0.109999999,hv,hv74321806,2024-07-08T07:24:28.600Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.129999995,0.92,15,automatic,hv,hv
+2024-07-08T07:21:25.020Z,34.3655014,-117.6628342,8.41,1.06,ml,20,107,0.1264,0.19,ci,ci40651847,2024-07-08T07:23:44.700Z,"3 km W of Wrightwood, CA",earthquake,0.51,1.33,0.198,4,automatic,ci,ci
 2024-07-08T07:08:16.741Z,61.5948,-143.893,48.1,1.3,ml,,,,0.48,ak,ak0248qcbq2y,2024-07-08T07:10:20.852Z,"30 km ENE of Chitina, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-07-08T07:01:09.381Z,65.9724,-151.7613,10.3,1,ml,,,,0.53,ak,ak0248qca7i2,2024-07-08T07:03:21.694Z,"75 km SSE of New Allakaket, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-08T06:59:01.890Z,38.8143348693848,-122.819831848145,3.02999997138977,0.73,md,9,80,0.009117,0.01,nc,nc75032247,2024-07-08T07:00:36.175Z,"7 km NW of The Geysers, CA",earthquake,0.44,1.14999998,0.3,9,automatic,nc,nc
@@ -192,5 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-07T07:35:23.915Z,-6.8305,109.7337,9.51,4.6,mb,23,103,0.735,0.66,us,us7000mxka,2024-07-08T04:52:44.671Z,"9 km NE of Pekalongan, Indonesia",earthquake,7.11,4.62,0.136,16,reviewed,us,us
 2024-07-07T07:35:22.809Z,31.624,-104.469,3.8677,1.7,ml,16,120,0,0.5,tx,tx2024ngbp,2024-07-07T08:04:18.648Z,"61 km S of Whites City, New Mexico",earthquake,0,1.81760706432726,0.1,12,automatic,tx,tx
 2024-07-07T07:30:47.100Z,34,-116.6591667,16.02,1.83,ml,90,45,0.03954,0.16,ci,ci40651031,2024-07-07T14:02:40.050Z,"9 km SW of Morongo Valley, CA",earthquake,0.12,0.33,0.138,26,reviewed,ci,ci
-2024-07-07T07:19:12.060Z,19.3360004425049,-155.132507324219,2.53999996185303,2.22,ml,54,104,0.04906,0.25999999,hv,hv74319496,2024-07-07T08:20:50.705Z,"14 km S of Fern Forest, Hawaii",earthquake,0.38,0.629999995,0.32,31,automatic,hv,hv
-2024-07-07T07:18:05.630Z,33.1451683,-115.6278305,8.89,1.39,ml,15,103,0.0338,0.2,ci,ci40651023,2024-07-07T07:24:08.268Z,"11 km WNW of Calipatria, CA",earthquake,1.36,1.96,0.185,2,automatic,ci,ci
