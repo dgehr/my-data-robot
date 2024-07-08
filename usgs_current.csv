@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-07T23:53:21.390Z,37.5233333333333,-117.924833333333,2.05,1.8,md,8,235,0.4119,0.05,nc,nc75032137,2024-07-08T21:00:54.177Z,"18 km NNE of Deep Springs, CA",earthquake,0.79,3.27,0.247,8,reviewed,nc,nc
 2024-07-07T23:48:38.168Z,28.983,-97.797,9.7412,1.6,ml,11,84,0.1,0.2,tx,tx2024nhhs,2024-07-08T18:15:05.903Z,"13 km NW of Runge, Texas",earthquake,1.221450390061624,1.0950439667065845,0.3,6,reviewed,tx,tx
 2024-07-07T23:47:16.136Z,64.125,-152.923,0.1,1.3,ml,,,,0.68,ak,ak0248oyjo59,2024-07-07T23:50:36.458Z,"40 km NW of Lake Minchumina, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-07-07T23:33:52.550Z,31.498,-115.6236667,6.16,2.14,ml,8,78,0.1734,0.19,ci,ci40651551,2024-07-08T14:51:13.250Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.38,2.59,0.068,14,reviewed,ci,ci
