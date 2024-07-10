@@ -193,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-09T13:59:33.290Z,46.86266666666667,-121.72266666666667,-2.39,0.48,ml,14,167,0.01051,0.15,uw,uw62022966,2024-07-09T16:26:10.830Z,"26 km ENE of Ashford, Washington",earthquake,0.39,0.68,0.20125764503870353,5,reviewed,uw,uw
 2024-07-09T13:50:58.610Z,38.7958335876465,-122.78099822998,3.30999994277954,1.27,md,11,91,0.006022,0.02,nc,nc75032772,2024-07-09T13:52:35.327Z,"3 km NW of The Geysers, CA",earthquake,0.46,1.11000001,0.21,14,automatic,nc,nc
 2024-07-09T13:50:01.087Z,1.1318,128.2768,9.71,4.6,mb,58,97,0.978,0.86,us,us7000my14,2024-07-09T21:07:46.040Z,"47 km N of Maba, Indonesia",earthquake,6.71,4.048,0.081,50,reviewed,us,us
-2024-07-09T13:31:27.010Z,18.8541,-64.4128,32,3.71,md,15,305,0.4849,0.29,pr,pr2024191000,2024-07-09T14:06:55.114Z,"70 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,3.29,7.22,0.13,11,reviewed,pr,pr
