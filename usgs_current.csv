@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-10T04:42:00.240Z,40.2190017700195,-124.602500915527,13.8400001525879,2.76,md,10,273,0.2107,0.07,nc,nc75033027,2024-07-10T04:43:48.201Z,"29 km WSW of Petrolia, CA",earthquake,1.31,1.24000001,0.07,7,automatic,nc,nc
+2024-07-10T04:40:05.130Z,40.9039993286133,-123.329002380371,20.8500003814697,2.15,md,8,154,0.2576,0.06,nc,nc75033022,2024-07-10T04:41:43.210Z,"26 km ESE of Willow Creek, CA",earthquake,0.87,1.35000002,0.13,5,automatic,nc,nc
 2024-07-10T04:33:55.145Z,61.8673,-149.6084,32.4,1.6,ml,,,,0.63,ak,ak0248tlrk4a,2024-07-10T04:36:01.434Z,"23 km NW of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-10T04:30:11.930Z,33.2705,-116.4163333,4.84,0.4,ml,27,75,0.002396,0.16,ci,ci40654471,2024-07-10T04:36:11.112Z,"4 km WNW of Borrego Springs, CA",earthquake,0.19,0.36,0.166,6,automatic,ci,ci
 2024-07-10T04:28:50.402Z,63.6507,-145.9271,17.7,2.6,ml,,,,0.89,ak,ak0248tlqh2l,2024-07-10T04:30:55.342Z,"36 km SSW of Fort Greely, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -97,6 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-09T16:25:11.620Z,47.55983333333333,-121.90866666666666,2.91,1.1400000000000001,ml,6,125,0.07015,0.15,uw,uw62023011,2024-07-09T23:49:25.360Z,"1 km WSW of Fall City, Washington",earthquake,0.83,0.57,0.25816557006161356,3,reviewed,uw,uw
 2024-07-09T16:15:02.045Z,61.5685,-146.3578,38.6,1.2,ml,,,,0.6,ak,ak0248s59fwc,2024-07-09T16:17:23.514Z,"48 km N of Valdez, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-09T16:13:16.525Z,61.9129,-149.5352,34.5,1.6,ml,,,,0.48,ak,ak0248s591l0,2024-07-09T16:14:53.142Z,"24 km NW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-09T16:05:28.800Z,52.3598333333333,-174.2115,7.41,-0.65,ml,5,112,0.02566,0.27,av,av93014864,2024-07-10T04:38:57.610Z,"18 km N of Atka, Alaska",earthquake,1.09,1.86,0.202347680589788,5,reviewed,av,av
 2024-07-09T16:03:18.366Z,61.2555,-153.967,11.5,1.4,ml,,,,0.82,ak,ak0248s56wkc,2024-07-09T16:05:45.878Z,"79 km E of Lime Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-09T15:40:36.778Z,59.6397,-153.3553,118,2.1,ml,,,,0.57,ak,ak0248s4tfwt,2024-07-09T15:42:27.395Z,"45 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-07-09T15:33:37.690Z,18.359,-67.0263333333333,17.68,2.54,md,15,71,0.03793,0.13,pr,pr71454888,2024-07-09T16:10:05.940Z,"4 km WNW of San Sebastián, Puerto Rico",earthquake,0.37,0.56,0.212871534122798,9,reviewed,pr,pr
