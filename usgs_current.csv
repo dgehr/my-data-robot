@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-17T05:29:33.526Z,31.407,-103.808,3.8443,1.7,ml,6,125,0.1,0.4,tx,tx2024nyem,2024-07-17T05:47:09.719Z,"10 km N of Toyah, Texas",earthquake,0,2.05859791938027,0.2,6,automatic,tx,tx
 2024-07-17T05:19:28.030Z,33.6875,-116.7145,16.27,0.45,ml,19,90,0.02361,0.12,ci,ci40661903,2024-07-17T05:31:19.376Z,"6 km S of Idyllwild, CA",earthquake,0.29,0.42,0.192,6,automatic,ci,ci
 2024-07-17T05:15:42.716Z,59.1718,-152.404,55.9,3.3,ml,,,,0.45,ak,ak0249570jb6,2024-07-17T05:17:19.347Z,"34 km SW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-17T05:15:31.200Z,34.6113333,-119.0621667,2.38,1.11,ml,16,57,0.1263,0.19,ci,ci40661895,2024-07-17T05:27:16.039Z,"25 km NE of Ojai, CA",earthquake,0.34,1.58,0.526,15,automatic,ci,ci
