@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-20T23:42:52.223Z,63.8136,-148.5292,96.7,1,ml,,,,0.31,ak,ak0249agi6rn,2024-07-20T23:52:41.778Z,"21 km ENE of Denali Park, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-07-20T23:37:31.030Z,38.8344993591309,-122.810501098633,2.05999994277954,1.25,md,24,51,0.01109,0.02,nc,nc75037362,2024-07-20T23:39:09.240Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.439999998,0.18,25,automatic,nc,nc
 2024-07-20T23:34:22.938Z,59.5522,-152.9107,94.7,1.1,ml,,,,0.36,ak,ak0249agges5,2024-07-20T23:36:56.834Z,"60 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-07-20T23:26:32.970Z,38.8348350524902,-122.810165405273,2.10999989509583,1.25,md,27,46,0.01142,0.02,nc,nc75037357,2024-07-20T23:44:24.849Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.389999986,0.21,27,automatic,nc,nc
@@ -183,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-20T00:08:55.530Z,19.3783340454102,-155.25016784668,-0.430000007152557,1.7,ml,17,111,0.007219,0.300000012,hv,hv74345706,2024-07-20T00:11:49.860Z,"7 km SSW of Volcano, Hawaii",earthquake,0.21,0.209999993,0.15,11,automatic,hv,hv
 2024-07-20T00:02:47.630Z,61.4844,-146.4691,23,1.9,ml,,,,0.6,ak,ak0249a2kmuz,2024-07-20T00:04:34.023Z,"39 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-20T00:00:34.564Z,64.7706,-149.1969,16.1,0.8,ml,,,,0.46,ak,ak0249a2k6f4,2024-07-20T00:02:31.599Z,"19 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-07-19T23:51:53.075Z,61.2997,-152.2457,11.9,0.9,ml,,,,0.2,ak,ak02498t0rsb,2024-07-20T04:17:22.060Z,"64 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
