@@ -485,4 +485,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-24T06:57:18.230Z,38.8431663513184,-122.836166381836,1.16999995708466,0.93,md,12,201,0.02004,0.03,nc,nc75038752,2024-07-24T07:42:50.725Z,"10 km WNW of Cobb, CA",earthquake,0.43,0.620000005,0.2,14,automatic,nc,nc
 2024-07-24T06:55:05.032Z,61.1831,-146.4191,1.2,1.7,ml,,,,0.95,ak,ak0249gslw3o,2024-07-24T06:56:59.543Z,"6 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-24T06:52:19.593Z,63.5095,-151.2521,0,1.4,ml,,,,1.11,ak,ak0249gsla3r,2024-07-24T06:55:22.836Z,"23 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-07-24T06:51:19.257Z,62.8593,-149.6094,43.1,1.4,ml,,,,0.49,ak,ak0249gsl2d1,2024-07-24T06:53:02.278Z,"52 km NNE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
