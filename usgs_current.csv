@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-26T05:45:45.440Z,33.6416667,-116.7683333,16.01,0.34,ml,11,93,0.08036,0.09,ci,ci40671751,2024-07-26T05:51:47.030Z,"12 km SSW of Idyllwild, CA",earthquake,0.26,0.47,0.065,6,automatic,ci,ci
 2024-07-26T05:41:22.390Z,19.3801670074463,-155.255493164062,0.0399999991059303,1.80999994,md,14,107,0.006621,0.159999996,hv,hv74365641,2024-07-26T05:42:43.390Z,"7 km SSW of Volcano, Hawaii",earthquake,0.16,0.180000007,0.50999999,9,automatic,hv,hv
 2024-07-26T05:40:48.860Z,63.3048,-149.813,103,1.7,ml,,,,0.23,ak,ak0249k3015i,2024-07-26T05:42:55.432Z,"44 km WSW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-07-26T05:33:49.400Z,38.8351669311523,-122.819664001465,1.5,0.95,md,9,74,0.01282,0.01,nc,nc75039647,2024-07-26T05:35:26.329Z,"8 km NNW of The Geysers, CA",earthquake,0.33,1,0.23,9,automatic,nc,nc
