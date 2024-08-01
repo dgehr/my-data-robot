@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-01T03:54:11.440Z,19.3875007629395,-155.261672973633,0.109999999403954,2.04,ml,18,62,0.009981,0.150000006,hv,hv74377721,2024-08-01T03:56:48.230Z,"6 km SSW of Volcano, Hawaii",earthquake,0.13,0.170000002,0.33,13,automatic,hv,hv
+2024-08-01T03:50:31.670Z,40.2628326416016,-122.059829711914,9.52999973297119,1.96,md,6,149,0.07402,0.01,nc,nc75042097,2024-08-01T03:52:07.220Z,"18 km ENE of Red Bluff, CA",earthquake,1.23,2.48000002,0.04,6,automatic,nc,nc
 2024-08-01T03:39:16.620Z,38.792667388916,-122.74683380127,2.39000010490417,0.8,md,9,91,0.01229,0.01,nc,nc75042092,2024-08-01T03:40:50.893Z,"2 km NE of The Geysers, CA",earthquake,0.44,0.930000007,0.23,9,automatic,nc,nc
 2024-08-01T03:31:34.216Z,60.356,-146.8512,24.4,1.2,ml,,,,0.82,ak,ak0249tyzabx,2024-08-01T03:33:27.317Z,"57 km S of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-01T03:27:23.110Z,33.7665,-116.9323333,13.02,0.69,ml,34,60,0.07953,0.17,ci,ci40678951,2024-08-01T03:33:12.847Z,"3 km SE of San Jacinto, CA",earthquake,0.22,0.51,0.092,19,automatic,ci,ci
