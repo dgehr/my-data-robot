@@ -205,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T17:44:05.870Z,38.81,-122.82,2.67,0.78,md,13,75,0.006191,0.02,nc,nc75043127,2024-08-03T18:17:13.654Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.889999986,0.4,14,automatic,nc,nc
 2024-08-03T17:38:40.667Z,65.1486,-148.9885,18.7,0.9,ml,,,,0.21,ak,ak0249xifkaq,2024-08-03T17:40:48.270Z,"16 km E of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-03T17:34:30.936Z,64.6647,-147.5758,14.4,0.8,ml,,,,1.2,ak,ak0249xieool,2024-08-03T17:35:42.409Z,"14 km SW of North Pole, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-08-03T17:28:30.872Z,-22.8616,179.0861,578.623,4.3,mb,88,58,5.182,0.88,us,us6000nhy1,2024-08-03T21:04:23.040Z,"south of the Fiji Islands",earthquake,10.74,6.75,0.059,89,reviewed,us,us
-2024-08-03T17:26:45.858Z,31.663,-104.369,4.6504,1.8,ml,15,96,0.1,0.3,tx,tx2024pedr,2024-08-03T17:48:08.102Z,"56 km S of Whites City, New Mexico",earthquake,0,1.49780327160366,0.2,13,automatic,tx,tx
