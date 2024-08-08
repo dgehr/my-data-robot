@@ -126,6 +126,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T03:17:19.800Z,18.397,-67.9791,137,3.6,md,7,172,0.9203,0.35,pr,pr2024221000,2024-08-08T03:43:34.883Z,"49 km ESE of Punta Cana, Dominican Republic",earthquake,5.04,2.73,0.02,3,reviewed,pr,pr
 2024-08-08T03:16:56.910Z,19.3888339996338,-155.241836547852,1.22000002861023,2.12,ml,25,50,0.009535,0.219999999,hv,hv74390696,2024-08-08T03:19:32.580Z,"6 km S of Volcano, Hawaii",earthquake,0.27,0.230000004,0.19,11,automatic,hv,hv
 2024-08-08T03:11:42.924Z,32.403,-102.053,6.9092,2.6,ml,28,55,0,0.1,tx,tx2024pmfa,2024-08-08T14:09:06.032Z,"34 km WSW of Ackerly, Texas",earthquake,0.4998421467156596,1.090032382724387,0,11,reviewed,tx,tx
+2024-08-08T03:07:23.657Z,32.781,-100.686,4.9316,1.8,ml,19,56,0.1,0.2,tx,tx2024pmev,2024-08-08T14:47:19.492Z,"17 km NNE of Hermleigh, Texas",earthquake,0.8153256357981429,2.1165499055969943,0.1,8,reviewed,tx,tx
 2024-08-08T03:01:19.180Z,38.82,-122.84,1.83,1.04,md,15,102,0.005717,0.01,nc,nc75045542,2024-08-08T03:25:57.804Z,"9 km NW of The Geysers, CA",earthquake,0.25,0.430000007,0.28,17,automatic,nc,nc
 2024-08-08T02:58:12.790Z,35.1113333,-119.1181667,2.74,1.32,ml,24,86,0.05969,0.24,ci,ci40869344,2024-08-08T03:05:48.217Z,"25 km SW of Lamont, CA",earthquake,0.33,1.17,0.127,29,automatic,ci,ci
 2024-08-08T02:53:56.770Z,33.8446667,-117.708,2.88,1.32,ml,35,60,0.0241,0.19,ci,ci40869336,2024-08-08T08:52:11.798Z,"10 km ENE of Villa Park, CA",earthquake,0.25,0.18,0.432,33,automatic,ci,ci
@@ -315,6 +316,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T14:56:26.495Z,63.1223,-151.3368,0,1.2,ml,,,,0.73,ak,ak024a42wh8f,2024-08-07T14:59:40.291Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-07T14:52:14.820Z,35.0861667,-119.1298333,0.04,1.63,ml,27,72,0.04671,0.28,ci,ci40867712,2024-08-07T16:14:04.727Z,"24 km NW of Grapevine, CA",earthquake,0.41,1.6,0.198,29,automatic,ci,ci
 2024-08-07T14:51:03.760Z,19.3759994506836,-155.218505859375,2.1800000667572,1.81,ml,31,57,0.003592,0.230000004,hv,hv74389631,2024-08-07T14:53:40.470Z,"7 km SSE of Volcano, Hawaii",earthquake,0.34,0.370000005,0.15,9,automatic,hv,hv
-2024-08-07T14:46:59.750Z,35.0905,-119.0895,3.18,1.51,ml,31,96,0.03217,0.22,ci,ci40867704,2024-08-08T14:02:50.966Z,"22 km NW of Grapevine, CA",earthquake,0.25,1.01,0.207,28,reviewed,ci,ci
-2024-08-07T14:46:00.205Z,-21.8156,-178.3006,395.93,4.7,mb,76,90,3.142,0.73,us,us6000nimv,2024-08-07T15:28:19.040Z,"Fiji region",earthquake,11.22,8.146,0.057,95,reviewed,us,us
-2024-08-07T14:45:15.270Z,35.0801667,-119.0801667,2.49,1.42,ml,31,74,0.02172,0.23,ci,ci40867696,2024-08-07T16:10:01.552Z,"20 km NW of Grapevine, CA",earthquake,0.34,1,0.151,28,automatic,ci,ci
