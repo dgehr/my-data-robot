@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T11:10:45.297Z,-21.6569,-179.3909,583.362,5.6,mww,89,24,3.931,0.86,us,us6000nj27,2024-08-09T11:30:37.511Z,"Fiji region",earthquake,9.49,6.173,0.103,9,reviewed,us,us
 2024-08-09T11:10:32.960Z,61.5173,-150.6988,34.9,3.1,ml,,,,0.78,ak,ak024a7bx0y4,2024-08-09T11:12:14.481Z,"10 km WSW of Susitna, Alaska",earthquake,,1028.6,,,automatic,ak,ak
 2024-08-09T11:00:11.283Z,60.4532,-143.6712,13.8,1.8,ml,,,,0.77,ak,ak024a7buu5k,2024-08-09T11:02:48.487Z,"115 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-08-09T10:57:37.932Z,35.4028,139.3395,18.542,5.1,mww,86,107,1.466,1.35,us,us6000nj24,2024-08-09T11:44:03.306Z,"2 km E of Isehara, Japan",earthquake,5.74,4.653,0.103,9,reviewed,us,us
+2024-08-09T10:57:37.932Z,35.4028,139.3395,18.542,5.1,mww,86,107,1.466,1.35,us,us6000nj24,2024-08-09T11:54:23.496Z,"2 km E of Isehara, Japan",earthquake,5.74,4.653,0.103,9,reviewed,us,us
 2024-08-09T10:49:40.900Z,33.7628333,-116.93,13.06,0.38,ml,24,47,0.07573,0.14,ci,ci40695103,2024-08-09T10:55:25.949Z,"4 km SE of San Jacinto, CA",earthquake,0.22,0.45,0.055,5,automatic,ci,ci
 2024-08-09T10:40:07.120Z,38.82,-122.77,2.16,0.81,md,9,123,0.007307,0.01,nc,nc75046132,2024-08-09T11:16:04.002Z,"4 km WNW of Cobb, CA",earthquake,0.39,0.980000019,0.12,10,automatic,nc,nc
 2024-08-09T10:38:13.840Z,38.84,-122.8,2.49,0.51,md,10,70,0.005806,0.02,nc,nc75046127,2024-08-09T11:16:03.003Z,"7 km WNW of Cobb, CA",earthquake,0.46,1.10000002,0.26,10,automatic,nc,nc
