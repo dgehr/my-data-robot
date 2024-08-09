@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-09T21:42:43.170Z,34.0385,-116.9596667,11.63,1.1,ml,34,45,0.05835,0.15,ci,ci40695751,2024-08-09T21:48:52.770Z,"8 km E of Yucaipa, CA",earthquake,0.2,0.57,0.246,23,automatic,ci,ci
 2024-08-09T21:41:17.640Z,38.82,-122.82,3.02,0.85,md,20,65,0.006275,0.02,nc,nc75046382,2024-08-09T21:42:56.090Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.579999983,0.25,21,automatic,nc,nc
-2024-08-09T21:35:00.359Z,64.9357,-148.9216,0,2.6,ml,,,,0.97,ak,ak024a7i0nf7,2024-08-09T21:37:30.997Z,"31 km SE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-09T21:35:00.359Z,64.9357,-148.9216,0,2.6,ml,,,,0.97,ak,ak024a7i0nf7,2024-08-09T21:45:37.040Z,"31 km SE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-09T21:30:51.661Z,64.9295,-148.886,2.9,0.8,ml,,,,1.33,ak,ak024a7hzosu,2024-08-09T21:32:47.605Z,"32 km SE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-09T21:29:00.115Z,64.9454,-148.8157,19.6,0.9,ml,,,,0.73,ak,ak024a7hz9xw,2024-08-09T21:31:14.780Z,"33 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-09T21:28:01.200Z,35.0915,-119.1081667,12.92,1.62,ml,35,64,0.03843,0.22,ci,ci40695743,2024-08-09T21:34:41.732Z,"23 km NW of Grapevine, CA",earthquake,0.32,0.68,0.161,26,automatic,ci,ci
@@ -14,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T20:56:12.543Z,62.9008,-150.3971,99,1.1,ml,,,,0.53,ak,ak024a7hjqsm,2024-08-09T20:58:37.609Z,"48 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-08-09T20:50:48.610Z,35.0775,-119.0563333,12,1.35,ml,20,125,0.02938,0.24,ci,ci40695727,2024-08-09T21:11:50.928Z,"19 km NW of Grapevine, CA",earthquake,0.44,0.84,0.237,28,automatic,ci,ci
 2024-08-09T20:43:40.975Z,60.7291,-152.8728,109,1.9,ml,,,,1.01,ak,ak024a7hh0m5,2024-08-09T20:46:22.244Z,"85 km W of Salamatof, Alaska",earthquake,,3.3,,,automatic,ak,ak
-2024-08-09T20:33:34.700Z,65.2094,-162.7648,8.1,2.8,ml,,,,0.86,ak,ak024a7hev1a,2024-08-09T20:36:43.229Z,"66 km NNE of White Mountain, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-09T20:33:34.700Z,65.2094,-162.7648,8.1,2.8,ml,,,,0.86,ak,ak024a7hev1a,2024-08-09T21:52:01.040Z,"66 km NNE of White Mountain, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-09T20:28:28.918Z,36.616,-115.6527,0,0.6,ml,12,309.01,0.253,0.1863,nn,nn00882150,2024-08-09T20:30:45.855Z,"5 km NNE of Indian Springs, Nevada",earthquake,,49.9,0.18,7,automatic,nn,nn
 2024-08-09T20:20:18.480Z,35.9651667,-117.6586667,2.46,1.41,ml,22,94,0.0185,0.13,ci,ci40695679,2024-08-09T20:26:26.128Z,"23 km E of Little Lake, CA",earthquake,0.2,0.16,0.186,17,automatic,ci,ci
 2024-08-09T20:18:11.000Z,35.0935,-119.096,12,1.35,ml,30,55,0.03623,0.22,ci,ci40695671,2024-08-09T21:19:42.155Z,"22 km NW of Grapevine, CA",earthquake,0.29,0.67,0.101,27,automatic,ci,ci
