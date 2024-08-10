@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-10T07:23:50.479Z,55.7541,-154.19,13.5,4,ml,,,,0.57,ak,ak024a8x5gr0,2024-08-10T07:26:51.817Z,"132 km S of Akhiok, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-10T07:08:31.080Z,19.2264995574951,-155.706329345703,-0.589999973773956,2.05999994,md,13,131,0.0737,0.289999992,hv,hv74393781,2024-08-10T07:10:59.910Z,"18 km NNE of Hawaiian Ocean View, Hawaii",earthquake,0.88,1.02999997,0.189999998,3,automatic,hv,hv
 2024-08-10T07:05:19.530Z,33.9831667,-116.8331667,15.04,0.67,ml,31,59,0.05598,0.15,ci,ci40696055,2024-08-10T07:11:20.809Z,"8 km NNE of Banning, CA",earthquake,0.22,0.5,0.136,17,automatic,ci,ci
 2024-08-10T06:59:45.410Z,33.0345,-116.4131667,9.41,1.1,ml,58,30,0.04758,0.19,ci,ci40696047,2024-08-10T07:10:43.710Z,"18 km ESE of Julian, CA",earthquake,0.18,0.39,0.2,27,automatic,ci,ci
@@ -267,4 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T07:36:57.353Z,-30.3767,-177.5671,22.726,5,mb,30,79,1.153,1.02,us,us6000nj1g,2024-08-09T07:55:12.040Z,"Kermadec Islands, New Zealand",earthquake,13.07,6.315,0.101,31,reviewed,us,us
 2024-08-09T07:36:56.483Z,40.1108,-119.7841,12.6,1.3,ml,9,152.63,0.072,0.1491,nn,nn00882130,2024-08-09T16:55:48.914Z,"23 km NW of Sutcliffe, Nevada",earthquake,,1.2,0.18,7,reviewed,nn,nn
 2024-08-09T07:36:42.185Z,61.2304,-147.5395,27.2,1.3,ml,,,,0.32,ak,ak024a79ovwa,2024-08-09T07:39:14.091Z,"61 km NW of Tatitlek, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2024-08-09T07:21:38.060Z,-3.1141,147.4855,10,4.8,mb,29,119,6.258,0.61,us,us6000nj1c,2024-08-09T07:40:19.040Z,"121 km SSE of Lorengau, Papua New Guinea",earthquake,10.92,1.903,0.107,27,reviewed,us,us
