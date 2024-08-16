@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-16T08:44:16.150Z,37.7765007019043,-121.989166259766,7.17000007629395,1.63,md,18,68,0.04728,0.06,nc,nc75049041,2024-08-16T08:45:54.449Z,"1 km W of San Ramon, CA",earthquake,0.24,0.49000001,0.2,14,automatic,nc,nc
+2024-08-16T08:43:17.420Z,38.8014984130859,-122.778335571289,2.49000000953674,1.1,md,12,89,0.01189,0.02,nc,nc75049036,2024-08-16T08:44:54.797Z,"3 km NNW of The Geysers, CA",earthquake,0.36,0.600000024,0.28,14,automatic,nc,nc
 2024-08-16T08:37:08.100Z,19.3684997558594,-155.149337768555,2.44000005722046,2.69,ml,55,83,0.02176,0.280000001,hv,hv74404096,2024-08-16T08:39:48.360Z,"10 km S of Fern Forest, Hawaii",earthquake,0.44,0.519999981,0.37,35,automatic,hv,hv
 2024-08-16T08:33:23.660Z,38.7910003662109,-122.772666931152,1.83000004291534,1.55,md,30,84,0.01212,0.04,nc,nc75049031,2024-08-16T08:36:23.900Z,"2 km NNW of The Geysers, CA",earthquake,0.21,0.330000013,0.18,27,automatic,nc,nc
 2024-08-16T08:23:49.577Z,65.6291,-147.7503,6.7,1.2,ml,,,,0.68,ak,ak024aiuyz7x,2024-08-16T08:26:58.678Z,"38 km ENE of Livengood, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -264,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T09:04:39.050Z,34.2371667,-117.644,5.16,1.01,ml,38,74,0.01215,0.18,ci,ci40702791,2024-08-15T13:36:33.348Z,"14 km W of Lytle Creek, CA",earthquake,0.2,0.41,0.152,29,reviewed,ci,ci
 2024-08-15T08:52:46.832Z,60.2968,-148.5548,0,1.5,ml,,,,0.9,ak,ak024ah7lua3,2024-08-15T08:54:32.927Z,"39 km NW of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-15T08:50:31.320Z,38.82,-122.84,1.48,0.75,md,7,117,0.006525,0.02,nc,nc75048606,2024-08-15T09:46:36.552Z,"9 km NW of The Geysers, CA",earthquake,0.51,0.75,0.27,9,automatic,nc,nc
-2024-08-15T08:47:49.010Z,33.2403333,-116.0366667,3.58,0.79,ml,36,97,0.05819,0.2,ci,ci40702783,2024-08-15T20:08:44.950Z,"10 km SW of Salton City, CA",earthquake,0.25,0.44,0.133,12,reviewed,ci,ci
