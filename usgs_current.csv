@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-22T21:50:53.970Z,19.3931674957275,-155.249664306641,1.46000003814697,1.9,ml,19,52,0.007774,0.129999995,hv,hv74420351,2024-08-22T21:53:33.090Z,"5 km SSW of Volcano, Hawaii",earthquake,0.19,0.200000003,0.3,10,automatic,hv,hv
 2024-08-22T21:48:09.800Z,33.848999,-117.4906693,0.87,1.43,ml,50,45,0.04936,0.19,ci,ci40711567,2024-08-22T21:50:27.526Z,"4 km SE of Home Gardens, CA",earthquake,0.28,0.5,0.203,17,automatic,ci,ci
 2024-08-22T21:27:39.440Z,19.3729991912842,-155.210998535156,2.03999996185303,2.06,ml,30,59,0.004321,0.170000002,hv,hv74420316,2024-08-22T21:30:17.210Z,"8 km SSE of Volcano, Hawaii",earthquake,0.35,0.330000013,0.18,13,automatic,hv,hv
 2024-08-22T21:27:35.150Z,19.3793334960938,-155.224502563477,-0.469999998807907,1.98,ml,9,92,0.01013,0.180000007,hv,hv74420311,2024-08-22T21:30:14.090Z,"7 km S of Volcano, Hawaii",earthquake,0.31,0.270000011,0.16,13,automatic,hv,hv
@@ -240,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T22:06:11.640Z,54.1511666666667,-165.974166666667,1.43,-1,ml,6,113,0.01584,0.15,av,av93236776,2024-08-22T00:01:05.100Z,"13 km W of Akutan, Alaska",earthquake,0.35,0.61,0.312120353697374,6,reviewed,av,av
 2024-08-21T22:03:19.050Z,34.08,-118.2011667,11,1.1,ml,19,97,0.04691,0.14,ci,ci40710487,2024-08-22T20:22:00.867Z,"4 km S of Highland Park, CA",earthquake,0.34,0.52,0.248,8,reviewed,ci,ci
 2024-08-21T21:59:15.771Z,62.7778,-149.1108,9.1,1.4,ml,,,,0.52,ak,ak024arclzq1,2024-08-21T22:01:18.949Z,"62 km NE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-08-21T21:57:43.260Z,33.972,-116.951,18.2,1.24,ml,46,30,0.05615,0.17,ci,ci40710479,2024-08-22T20:14:37.586Z,"5 km NNE of Beaumont, CA",earthquake,0.2,0.43,0.176,21,reviewed,ci,ci
