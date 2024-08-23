@@ -230,5 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T17:44:22.254Z,1.9793,127.1238,73.295,4.8,mb,67,99,1.224,0.77,us,us7000n8tn,2024-08-22T18:04:52.040Z,"102 km WNW of Tobelo, Indonesia",earthquake,8,6.972,0.064,75,reviewed,us,us
 2024-08-22T17:42:15.180Z,35.6756667,-117.5198333,5.34,1.18,ml,22,62,0.07897,0.14,ci,ci40711295,2024-08-23T17:14:38.711Z,"15 km SW of Searles Valley, CA",earthquake,0.22,0.61,0.219,9,reviewed,ci,ci
 2024-08-22T17:41:44.235Z,61.503,-150.5891,49.2,2.5,ml,,,,0.24,ak,ak024asxnt3r,2024-08-22T17:51:57.040Z,"6 km SW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2024-08-22T17:33:21.771Z,60.2911,-143.2912,8.5,2.4,ml,,,,1.04,ak,ak024asxm1ma,2024-08-22T17:45:20.040Z,"128 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-08-22T17:29:20.909Z,37.5038,-117.2042,10.3,1.6,ml,19,131.74999999999997,0.209,0.184,nn,nn00882814,2024-08-23T02:03:51.087Z,"22 km S of Goldfield, Nevada",earthquake,,2.1,0.47,4,reviewed,nn,nn
