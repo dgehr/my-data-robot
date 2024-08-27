@@ -245,5 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T16:21:49.662Z,-44.8617,-73.7142,59.301,5,mww,75,135,0.323,0.89,us,us6000nmw5,2024-08-26T16:41:50.040Z,"81 km W of Puerto Cisnes, Chile",earthquake,7.58,4.41,0.08,15,reviewed,us,us
 2024-08-26T16:14:04.018Z,61.3536,-149.8288,30.1,1.7,ml,,,,0.35,ak,ak024azj1w1d,2024-08-26T16:15:45.016Z,"8 km E of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-26T15:56:17.810Z,37.3513333333333,-113.4105,3.61,0.29,md,5,91,0.2272,0.14,uu,uu80080261,2024-08-26T18:21:32.550Z,"10 km ESE of Pine Valley, Utah",earthquake,0.57,8.68,0.0921513773346375,3,reviewed,uu,uu
-2024-08-26T15:54:41.380Z,38.8331680297852,-122.815498352051,1.8400000333786,1.06,md,21,55,0.01064,0.01,nc,nc75053696,2024-08-26T17:09:25.953Z,"8 km NNW of The Geysers, CA",earthquake,0.2,0.439999998,0.13,21,automatic,nc,nc
-2024-08-26T15:49:41.750Z,54.5455,-159.6885,28.58,5.1,mww,127,68,0.925,0.86,us,us6000nmvh,2024-08-27T09:59:51.985Z,"102 km SSE of Sand Point, Alaska",earthquake,4.56,4.296,0.052,36,reviewed,us,us
