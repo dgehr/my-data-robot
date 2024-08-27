@@ -83,7 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T10:28:31.590Z,19.7356662750244,-155.70783996582,19.9699993133545,2.03999996,md,25,133,0.1296,0.140000001,hv,hv74426352,2024-08-27T10:30:03.900Z,"24 km SSE of Waikoloa, Hawaii",earthquake,0.59,1.39999998,0.180000007,6,automatic,hv,hv
 2024-08-27T10:18:40.158Z,38.6835,-118.5672,4,1.4,ml,11,139.89,0.066,0.1608,nn,nn00883064,2024-08-27T10:21:39.559Z,"16 km ENE of Walker Lake, Nevada",earthquake,,1.9,0.1,6,automatic,nn,nn
 2024-08-27T10:04:13.890Z,35.7068333,-117.5088333,6.41,0.47,ml,21,76,0.08084,0.14,ci,ci40715671,2024-08-27T16:56:23.304Z,"12 km SW of Searles Valley, CA",earthquake,0.22,0.87,0.057,4,reviewed,ci,ci
-2024-08-27T09:59:35.760Z,38.6976,-118.6974,7.5,1.6,ml,12,154.18,0.512,0.2119,nn,nn00883062,2024-08-27T10:01:59.202Z,"7 km NE of Walker Lake, Nevada",earthquake,,1.1,0.2,7,automatic,nn,nn
+2024-08-27T09:59:34.260Z,38.6768,-118.5614,6.5,1.6,ml,10,96.87,0.058,0.1381,nn,nn00883062,2024-08-27T19:27:12.522Z,"17 km E of Walker Lake, Nevada",earthquake,,1.5,0.27,5,reviewed,nn,nn
 2024-08-27T09:57:07.830Z,35.6628333,-117.476,7.59,1.12,ml,28,52,0.04264,0.13,ci,ci40715663,2024-08-27T14:28:00.231Z,"13 km SSW of Searles Valley, CA",earthquake,0.16,0.41,0.141,13,reviewed,ci,ci
 2024-08-27T09:53:04.443Z,60.4188,-141.8254,6.6,1.7,ml,,,,0.76,ak,ak024b12nk98,2024-08-27T09:54:43.750Z,"127 km SSE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-27T09:47:43.060Z,32.9853333,-116.3098333,8.77,0.56,ml,31,80,0.0858,0.2,ci,ci40715655,2024-08-27T18:16:06.662Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.28,0.65,0.063,5,reviewed,ci,ci
@@ -245,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T19:32:48.340Z,34.5265,-96.61016667,4.52,1.32,ml,38,70,0.1025798703,0.2,ok,ok2024quik,2024-08-27T14:31:20.049Z,"15 km NW of Bromide, Oklahoma",earthquake,,1.4,0.22,21,reviewed,ok,ok
 2024-08-26T19:32:19.040Z,60.0383333333333,-153.081333333333,0.89,-0.46,ml,4,131,0.02105,0.08,av,av93242346,2024-08-27T02:28:31.780Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.74,0.61,0.165570991685882,4,reviewed,av,av
 2024-08-26T19:31:16.570Z,19.1606674194336,-155.46516418457,31.4799995422363,1.74000001,md,21,244,0.09965,0.170000002,hv,hv74424917,2024-08-26T19:32:44.240Z,"4 km SSE of Pāhala, Hawaii",earthquake,1.29,0.920000017,0.150000006,4,automatic,hv,hv
-2024-08-26T19:26:16.530Z,34.5015,-97.2415,7.14,0.97,ml,22,127,0.1115781046,0.35,ok,ok2024quif,2024-08-27T14:23:13.840Z,"11 km W of Davis, Oklahoma",earthquake,,1.4,0.26,6,reviewed,ok,ok
