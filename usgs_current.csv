@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-27T09:47:43.190Z,32.9883347,-116.3031693,6.51,1.57,ml,16,125,0.09182,0.28,ci,ci40715655,2024-08-27T09:49:47.926Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.66,1.77,0.479,11,automatic,ci,ci
+2024-08-27T09:53:04.443Z,60.4188,-141.8254,6.6,1.7,ml,,,,0.76,ak,ak024b12nk98,2024-08-27T09:54:43.750Z,"127 km SSE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-27T09:47:43.100Z,32.9865,-116.3116667,8.63,0.56,ml,33,52,0.08447,0.19,ci,ci40715655,2024-08-27T09:54:02.712Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.23,0.72,0.063,5,automatic,ci,ci
 2024-08-27T09:46:38.200Z,19.3721675872803,-155.185668945312,1.57000005245209,1.80999994,md,18,126,0.02821,0.319999993,hv,hv74426282,2024-08-27T09:48:03.510Z,"9 km SSE of Volcano, Hawaii",earthquake,0.97,0.680000007,0.209999993,12,automatic,hv,hv
 2024-08-27T09:36:58.610Z,19.24049949646,-155.34733581543,27.9200000762939,2.16,ml,27,216,0.04749,0.330000013,hv,hv74426252,2024-08-27T09:39:58.430Z,"14 km ENE of Pāhala, Hawaii",earthquake,1.97,1.28999996,0.24,3,automatic,hv,hv
 2024-08-27T09:28:48.110Z,38.8253326416016,-122.797836303711,2.95000004768372,0.77,md,13,58,0.009753,0.01,nc,nc75053981,2024-08-27T09:30:25.062Z,"6 km NNW of The Geysers, CA",earthquake,0.36,0.829999983,0.13,14,automatic,nc,nc
