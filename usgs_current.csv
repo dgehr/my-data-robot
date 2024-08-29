@@ -25,7 +25,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T17:00:26.300Z,37.4395,-116.7783,9.4,1.1,ml,11,162.70000000000005,0.299,0.2307,nn,nn00883405,2024-08-29T17:03:14.738Z,"50 km SE of Goldfield, Nevada",earthquake,,1.8,0.13,7,automatic,nn,nn
 2024-08-29T16:53:40.100Z,38.8376655578613,-122.821334838867,1.85000002384186,0.62,md,9,81,0.01675,0.01,nc,nc75054956,2024-08-29T17:52:18.042Z,"9 km WNW of Cobb, CA",earthquake,0.47,0.860000014,0.37,10,automatic,nc,nc
 2024-08-29T16:50:01.864Z,62.1392,-151.6703,84.6,1.7,ml,,,,0.41,ak,ak024b4hvn4q,2024-08-29T16:51:55.155Z,"21 km NW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-08-29T16:45:09.050Z,33.2461662,-116.7316666,3.33,1.87,ml,7,116,0.02487,0.18,ci,ci40718895,2024-08-29T16:51:43.533Z,"3 km E of Lake Henshaw, CA",earthquake,1.52,1.77,0.281,12,automatic,ci,ci
 2024-08-29T16:39:41.060Z,35.2465,-97.77466667,0.78,1.33,ml,20,73,0.01799646848,0.35,ok,ok2024qzpf,2024-08-29T16:59:42.169Z,"3 km WNW of Bridge Creek, Oklahoma",earthquake,,0.4,0.23,12,reviewed,ok,ok
 2024-08-29T16:32:31.300Z,35.947,-117.6856667,4.73,0.66,ml,19,75,0.02865,0.14,ci,ci40718847,2024-08-29T16:47:44.943Z,"20 km E of Little Lake, CA",earthquake,0.2,0.33,0.205,6,reviewed,ci,ci
 2024-08-29T16:31:51.170Z,35.24766667,-97.75333333,4.81,0.68,ml,12,236,0.009898057663,0.1,ok,ok2024qzoy,2024-08-29T17:02:32.859Z,"2 km NW of Bridge Creek, Oklahoma",earthquake,,0.6,0.18,5,reviewed,ok,ok
@@ -167,6 +166,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T07:39:31.870Z,48.758,-121.785,-0.7,1.56,ml,7,115,0.09906,0.7,uw,uw62041881,2024-08-29T17:25:19.900Z,"18 km SE of Glacier, Washington",earthquake,2.06,5.66,0.19662776993477316,6,reviewed,uw,uw
 2024-08-29T07:37:13.290Z,33.811,-116.8115,15.55,0.48,ml,22,102,0.02542,0.1,ci,ci40718535,2024-08-29T15:12:19.093Z,"10 km NE of Valle Vista, CA",earthquake,0.22,0.38,0.236,15,reviewed,ci,ci
 2024-08-29T07:35:07.354Z,37.5873,-116.9645,0.8,0.7,ml,10,169.54000000000002,0.483,0.3542,nn,nn00883303,2024-08-29T07:37:27.720Z,"27 km ESE of Goldfield, Nevada",earthquake,,46.8,0.17,7,automatic,nn,nn
+2024-08-29T07:31:33.910Z,32.9793333,-116.2778333,12.26,1.5,ml,20,87,0.1119,0.15,ci,ci37682708,2024-08-29T18:38:36.164Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.26,0.93,0.123,44,reviewed,ci,ci
 2024-08-29T07:31:22.510Z,32.9753333,-116.2816667,10.28,1.94,ml,70,38,0.1085,0.18,ci,ci40718527,2024-08-29T18:33:38.120Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.14,0.38,0.247,27,reviewed,ci,ci
 2024-08-29T07:30:23.973Z,37.741,-117.1386,4.8,2,ml,16,94.78,0.198,0.1723,nn,nn00883300,2024-08-29T17:06:12.604Z,"9 km ENE of Goldfield, Nevada",earthquake,,4.5,0.27,4,reviewed,nn,nn
 2024-08-29T07:30:07.020Z,32.9743333,-116.2831667,9.46,2.13,ml,83,38,0.1072,0.2,ci,ci40718519,2024-08-29T16:50:35.840Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.14,0.49,0.199,27,reviewed,ci,ci
