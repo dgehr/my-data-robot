@@ -251,5 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T23:06:58.860Z,38.7861671447754,-122.720001220703,2.21000003814697,1.07,md,10,92,0.01339,0.01,nc,nc75055066,2024-08-29T23:49:26.983Z,"3 km NW of Anderson Springs, CA",earthquake,0.34,0.970000029,0.11,10,automatic,nc,nc
 2024-08-29T23:01:40.517Z,62.3772,-149.7841,48.4,1.7,ml,,,,0.41,ak,ak024b4lr99f,2024-08-29T23:03:22.132Z,"17 km ENE of Talkeetna, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-08-29T23:01:22.713Z,37.7409,-117.1448,7.9,1.2,ml,13,116.63,0.45,0.1553,nn,nn00883433,2024-08-30T15:56:14.092Z,"8 km ENE of Goldfield, Nevada",earthquake,,3.7,0.35,2,reviewed,nn,nn
-2024-08-29T22:46:56.600Z,38.7919998168945,-122.776832580566,1.62999999523163,1.42,md,31,51,0.008743,0.04,nc,nc75055061,2024-08-29T23:24:23.794Z,"2 km NW of The Geysers, CA",earthquake,0.21,0.310000002,0.14,32,automatic,nc,nc
-2024-08-29T22:46:53.140Z,17.9585,-67.0076666666667,8.54,2.65,md,13,207,0.03645,0.07,pr,pr71458613,2024-08-29T23:03:59.450Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.34,0.57,0.135441815046587,6,reviewed,pr,pr
