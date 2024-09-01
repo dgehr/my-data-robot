@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-01T08:41:00.840Z,63.2649,-151.3884,5.4,1.7,ml,,,,0.44,ak,ak024b9boa90,2024-09-01T08:42:46.564Z,"35 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-01T08:37:44.060Z,35.0863333,-119.1373333,11.61,1.65,ml,44,39,0.0519,0.25,ci,ci40721319,2024-09-01T08:44:12.706Z,"24 km E of Maricopa, CA",earthquake,0.27,0.7,0.238,26,automatic,ci,ci
 2024-09-01T08:19:12.780Z,57.2289,-155.1242,27.8,1.7,ml,,,,0.1,ak,ak024b9bjlf2,2024-09-01T08:20:45.515Z,"55 km SW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-01T08:16:55.560Z,38.7856674194336,-122.731666564941,1.61000001430511,1.29,md,16,86,0.004639,0.02,nc,nc75055996,2024-09-01T08:34:34.895Z,"2 km ENE of The Geysers, CA",earthquake,0.3,0.50999999,0.21,17,automatic,nc,nc
 2024-09-01T08:12:53.409Z,37.7492,-117.1233,5.3,0.6,ml,8,178.65000000000003,0.566,0.1218,nn,nn00883612,2024-09-01T08:15:37.643Z,"10 km ENE of Goldfield, Nevada",earthquake,,0,0.37,6,automatic,nn,nn
