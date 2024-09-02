@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-02T03:44:02.930Z,19.3806667327881,-155.23649597168,2.10999989509583,1.85,ml,22,75,0.008058,0.170000002,hv,hv74436632,2024-09-02T03:46:56.380Z,"6 km S of Volcano, Hawaii",earthquake,0.23,0.209999993,0.23,10,automatic,hv,hv
+2024-09-02T03:42:36.247Z,37.5901,-116.9313,0,0.1,ml,8,172.13,0.476,0.2213,nn,nn00883677,2024-09-02T03:45:05.725Z,"29 km ESE of Goldfield, Nevada",earthquake,,71.8,0.42,5,automatic,nn,nn
+2024-09-02T03:39:53.296Z,37.7506,-117.1268,0,1,ml,14,178.57999999999998,0.563,0.2694,nn,nn00883675,2024-09-02T03:42:26.809Z,"10 km ENE of Goldfield, Nevada",earthquake,,48.7,0.19,9,automatic,nn,nn
 2024-09-02T03:37:16.876Z,37.7472,-117.1202,3.9,1.9,ml,23,154.42999999999995,0.461,0.1938,nn,nn00883672,2024-09-02T03:39:59.151Z,"11 km ENE of Goldfield, Nevada",earthquake,,5.9,0.16,17,automatic,nn,nn
 2024-09-02T03:35:52.032Z,37.6896,-117.086,4,0.8,ml,10,324.45,0.618,0.1566,nn,nn00883670,2024-09-02T03:38:06.149Z,"13 km E of Goldfield, Nevada",earthquake,,13,0.35,7,automatic,nn,nn
 2024-09-02T03:33:05.432Z,37.7309,-117.1512,12,0.7,ml,9,174.17999999999995,0.559,0.1211,nn,nn00883668,2024-09-02T03:35:45.943Z,"7 km ENE of Goldfield, Nevada",earthquake,,903.7,0.13,5,automatic,nn,nn
@@ -241,5 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-01T03:53:11.800Z,64.4925,-146.8573,4.7,1,ml,,,,0.61,ak,ak024b98rpnw,2024-09-01T10:20:44.876Z,"4 km SSE of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-01T03:52:50.310Z,38.8388328552246,-122.810997009277,1.92999994754791,1,md,22,48,0.01543,0.02,nc,nc75055936,2024-09-01T05:49:26.698Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.439999998,0.2,23,automatic,nc,nc
 2024-09-01T03:50:29.772Z,61.6426,-149.7221,30.1,1.5,ml,,,,0.83,ak,ak024b98r3wh,2024-09-01T03:52:32.136Z,"5 km ENE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-09-01T03:48:18.917Z,38.7131,-118.5846,12.3,2.2,ml,13,84.4,0.098,0.4839,nn,nn00883586,2024-09-01T03:50:59.002Z,"16 km ENE of Walker Lake, Nevada",earthquake,,0.7,0.1,6,automatic,nn,nn
-2024-09-01T03:42:49.405Z,8.1824,91.7074,10,5.2,mww,99,62,5.974,0.83,us,us6000nnzf,2024-09-01T04:02:30.040Z,"Nicobar Islands, India region",earthquake,6.9,1.823,0.093,11,reviewed,us,us
