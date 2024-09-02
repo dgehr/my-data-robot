@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-02T17:46:15.670Z,35.9701667,-117.657,2.41,0.99,ml,23,95,0.02286,0.14,ci,ci40722703,2024-09-02T17:52:28.365Z,"23 km E of Little Lake, CA",earthquake,0.22,0.18,0.115,13,automatic,ci,ci
 2024-09-02T17:42:35.213Z,60.4962,-153.145,157.1,1.4,ml,,,,0.23,ak,ak024bb4ktk1,2024-09-02T17:44:24.458Z,"72 km ENE of Port Alsworth, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-09-02T17:33:25.543Z,60.9765,-151.9523,88.1,1.1,ml,,,,0.49,ak,ak024bb4ivd6,2024-09-02T17:34:59.264Z,"45 km WSW of Tyonek, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-09-02T17:29:40.420Z,19.3689994812012,-155.152328491211,2.61999988555908,2.27,ml,51,100,0.0191,0.310000002,hv,hv74437772,2024-09-02T17:32:41.160Z,"10 km S of Fern Forest, Hawaii",earthquake,0.59,0.649999976,0.58,22,automatic,hv,hv
