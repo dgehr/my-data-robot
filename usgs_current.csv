@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-04T20:28:11.513Z,37.2879,-116.5567,12.9,0.5,ml,8,300.76,0.196,0.3146,nn,nn00883934,2024-09-04T20:30:20.900Z,"45 km NNE of Beatty, Nevada",earthquake,,2.6,0.19,5,automatic,nn,nn
+2024-09-04T20:24:13.604Z,37.677,-117.0944,6.8,2.7,ml,27,140.86,0.399,0.2791,nn,nn00883931,2024-09-04T20:26:55.860Z,"12 km ESE of Goldfield, Nevada",earthquake,,3,0.21,16,automatic,nn,nn
+2024-09-04T20:19:55.800Z,19.1461658477783,-155.469833374023,31.5,2.27,ml,56,170,0.01174,0.159999996,hv,hv74441636,2024-09-04T20:22:48.360Z,"6 km S of Pāhala, Hawaii",earthquake,0.45,0.550000012,0.47,16,automatic,hv,hv
 2024-09-04T20:02:48.237Z,61.1847,-147.6244,16.6,1.9,ml,,,,0.66,ak,ak024beh79m2,2024-09-04T20:05:35.276Z,"62 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-04T20:01:48.771Z,37.7522,-117.1182,1.4,1.6,ml,23,131.7,0.466,0.2395,nn,nn00883928,2024-09-04T20:04:25.542Z,"11 km ENE of Goldfield, Nevada",earthquake,,11.6,0.14,17,automatic,nn,nn
+2024-09-04T19:49:10.400Z,42.888,-123.558,-0.94,0.8300000000000001,md,7,85,0.04209,0.56,uw,uw62043626,2024-09-04T20:17:45.270Z,"17 km WSW of Riddle, Oregon",explosion,1.73,31.61,0.1443287410152454,6,reviewed,uw,uw
 2024-09-04T19:40:53.870Z,19.1593341827393,-155.477172851562,31.7299995422363,2.17000008,md,43,121,0.01476,0.119999997,hv,hv74441576,2024-09-04T19:42:49.530Z,"4 km S of Pāhala, Hawaii",earthquake,0.67,0.74000001,0.159999996,23,automatic,hv,hv
 2024-09-04T19:33:18.440Z,48.08283333333333,-123.60433333333333,-0.23,0.66,md,2,359,0.07191,0.31,uw,uw62043616,2024-09-04T20:14:43.940Z,"13 km WSW of Port Angeles, Washington",explosion,25.06,31.61,,1,reviewed,uw,uw
 2024-09-04T19:27:13.820Z,33.5625,-117.5206667,0.31,1.39,ml,18,222,0.117,0.18,ci,ci40724927,2024-09-04T19:34:00.551Z,"8 km SE of Coto De Caza, CA",earthquake,1.16,0.82,0.356,31,automatic,ci,ci
@@ -38,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T16:39:24.792Z,5.2053,-82.666,10,4.8,mb,42,165,3.25,0.95,us,us6000nppn,2024-09-04T17:40:07.040Z,"south of Panama",earthquake,8.88,1.922,0.094,35,reviewed,us,us
 2024-09-04T16:32:06.890Z,33.3738333,-116.8615,16.27,0.67,ml,14,153,0.02019,0.22,ci,ci40724703,2024-09-04T16:38:35.336Z,"2 km N of Palomar Observatory, CA",earthquake,2.06,1.74,0.119,13,automatic,ci,ci
 2024-09-04T16:27:35.110Z,34.4603333,-119.043,0.66,1.64,ml,41,32,0.08151,0.21,ci,ci40724695,2024-09-04T16:34:14.384Z,"12 km N of Santa Paula, CA",earthquake,0.18,0.42,0.276,27,automatic,ci,ci
-2024-09-04T16:24:17.710Z,33.6028333,-116.6351667,13.25,0.38,ml,19,67,0.03301,0.1,ci,ci40724687,2024-09-04T16:30:11.395Z,"6 km NE of Anza, CA",earthquake,0.27,0.37,0.269,6,automatic,ci,ci
+2024-09-04T16:24:17.710Z,33.6046667,-116.6365,13.22,0.27,ml,18,65,0.03441,0.11,ci,ci40724687,2024-09-04T20:30:05.776Z,"6 km NNE of Anza, CA",earthquake,0.29,0.37,0.167,10,reviewed,ci,ci
 2024-09-04T16:20:59.090Z,33.8736667,-116.318,3.92,0.82,ml,35,50,0.06943,0.21,ci,ci40724671,2024-09-04T16:27:07.693Z,"9 km NE of Thousand Palms, CA",earthquake,0.25,0.72,0.151,19,automatic,ci,ci
 2024-09-04T16:08:46.870Z,39.3193321228027,-122.897331237793,6.82000017166138,1.38,md,9,69,0.01426,0.19,nc,nc75057311,2024-09-04T16:54:25.092Z,"11 km SSE of Lake Pillsbury, CA",earthquake,0.61,1.32000005,0.12,6,automatic,nc,nc
 2024-09-04T15:54:51.970Z,36.7738342285156,-121.288665771484,9,2.38,md,44,84,0.01903,0.1,nc,nc75057306,2024-09-04T16:22:15.865Z,"3 km SE of Tres Pinos, CA",earthquake,0.21,0.400000006,0.16,49,automatic,nc,nc
@@ -57,6 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T14:17:20.310Z,38.4985,-112.885333333333,1.69,0.29,md,7,140,0.003241,0.06,uu,uu80081336,2024-09-04T17:22:40.740Z,"15 km NE of Milford, Utah",earthquake,0.75,0.48,0.472275404670357,3,reviewed,uu,uu
 2024-09-04T14:17:19.250Z,37.553,-113.057666666667,10.14,1.09,ml,10,87,0.04853,0.07,uu,uu80001523,2024-09-04T17:24:32.370Z,"11 km E of Kanarraville, Utah",earthquake,0.39,0.73,0.341245249234623,4,reviewed,uu,uu
 2024-09-04T14:16:45.450Z,37.2591666666667,-121.620833333333,5.42,0.9,md,15,65,0.04172,0.07,nc,nc75057286,2024-09-04T19:01:59.463Z,"15 km NNE of Morgan Hill, CA",earthquake,0.2,0.43,0.17,13,reviewed,nc,nc
+2024-09-04T14:15:43.620Z,37.5603333333333,-113.07,12.86,2.09,ml,24,45,0.03769,0.2,uu,uu80081331,2024-09-04T20:27:22.150Z,"10 km ENE of Kanarraville, Utah",earthquake,0.31,0.53,0.196533383851383,12,reviewed,uu,uu
 2024-09-04T14:06:38.270Z,33.603,-116.7176667,12.95,0.43,ml,19,66,0.03985,0.12,ci,ci40724551,2024-09-04T18:31:38.823Z,"7 km NW of Anza, CA",earthquake,0.27,0.46,0.134,8,reviewed,ci,ci
 2024-09-04T14:05:15.930Z,38.8278350830078,-122.77449798584,12.5200004577637,0.88,md,9,166,0.004444,0.09,nc,nc75057276,2024-09-04T15:09:26.387Z,"4 km WNW of Cobb, CA",earthquake,2.51,10.21,0.21,4,automatic,nc,nc
 2024-09-04T14:04:58.243Z,62.0306,-149.3084,23.1,1.4,ml,,,,0.47,ak,ak024bedn4ao,2024-09-04T14:06:37.717Z,"31 km ESE of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -190,7 +195,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T01:53:56.758Z,37.7415,-117.1388,9.3,0.7,ml,13,117.35,0.452,0.181,nn,nn00883845,2024-09-04T19:39:41.367Z,"9 km ENE of Goldfield, Nevada",earthquake,,3,0,1,reviewed,nn,nn
 2024-09-04T01:47:56.390Z,33.6383333,-116.7848333,14.44,0.77,ml,40,52,0.04777,0.12,ci,ci40724215,2024-09-04T12:51:51.785Z,"13 km SSW of Idyllwild, CA",earthquake,0.15,0.25,0.172,20,reviewed,ci,ci
 2024-09-04T01:47:19.520Z,62.3926,-148.6556,32.7,1,ml,,,,0.26,ak,ak024be65m8a,2024-09-04T01:57:33.547Z,"67 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-09-04T01:44:47.060Z,46.1245,-122.50283333333333,18.27,0.62,ml,13,184,0.1207,0.09,uw,uw62043406,2024-09-04T16:25:02.160Z,"24 km N of Amboy, Washington",earthquake,0.44,0.67,0.2312238720437766,7,reviewed,uw,uw
+2024-09-04T01:44:47.080Z,46.12266666666667,-122.50016666666667,18.42,0.84,ml,17,118,0.1202,0.09,uw,uw62043406,2024-09-04T20:19:16.000Z,"23 km N of Amboy, Washington",earthquake,0.32,0.63,0.22356687999676783,6,reviewed,uw,uw
 2024-09-04T01:44:22.559Z,37.7453,-117.1368,8.2,0.8,ml,11,155.33,0.497,0.1334,nn,nn00883841,2024-09-04T19:27:22.921Z,"9 km ENE of Goldfield, Nevada",earthquake,,2.6,0,1,reviewed,nn,nn
 2024-09-04T01:39:18.128Z,61.5987,-146.505,29.6,1.7,ml,,,,0.53,ak,ak024be63wec,2024-09-04T01:40:59.844Z,"45 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-04T01:37:16.677Z,-18.6499,-70.9227,31.705,4,mwr,17,191,0.614,0.81,us,us6000npl0,2024-09-04T02:40:21.040Z,"68 km WSW of Arica, Chile",earthquake,5.59,6.598,0.066,22,reviewed,us,us
@@ -238,6 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T20:41:25.514Z,60.148,-153.5954,48.8,2.5,ml,,,,0.53,ak,ak024bctw8ef,2024-09-03T20:44:10.541Z,"40 km E of Port Alsworth, Alaska",earthquake,,15.5,,,automatic,ak,ak
 2024-09-03T20:41:14.222Z,60.8827,-150.6771,48,1.6,ml,,,,0.75,ak,ak024bctw7il,2024-09-04T04:58:39.762Z,"4 km S of Point Possession, Alaska",earthquake,,2.4,,,reviewed,ak,ak
 2024-09-03T20:37:56.179Z,35.68166667,-98.14483333,5.28,1.29,ml,79,32,0.06208781625,0.41,ok,ok2024rjap,2024-09-04T13:46:44.092Z,"9 km NNW of Calumet, Oklahoma",earthquake,,1,0.2,31,reviewed,ok,ok
-2024-09-03T20:23:37.410Z,38.8108329772949,-122.82250213623,2.84999990463257,0.63,md,6,105,0.005573,0.02,nc,nc75057046,2024-09-03T21:09:30.955Z,"7 km NW of The Geysers, CA",earthquake,0.79,1.70000005,0.28,8,automatic,nc,nc
-2024-09-03T20:22:10.088Z,37.7384,-117.1459,8.3,1.6,ml,21,94.03999999999999,0.192,0.1573,nn,nn00883821,2024-09-03T22:12:17.295Z,"8 km ENE of Goldfield, Nevada",earthquake,,1.5,0.31,7,reviewed,nn,nn
-2024-09-03T20:20:32.000Z,42.1415,-119.02816666666666,8.14,2.0300000000000002,ml,7,213,0.412,0.29,uw,uw62043296,2024-09-03T21:24:06.580Z,"36 km WNW of Denio, Nevada",earthquake,1.14,3.09,0.07648253631680568,4,reviewed,uw,uw
