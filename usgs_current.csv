@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-05T21:45:46.081Z,37.7323,-117.1442,0,2.2,ml,25,172.76999999999998,0.442,0.2149,nn,nn00884165,2024-09-05T21:48:20.288Z,"8 km ENE of Goldfield, Nevada",earthquake,,30.2,0.18,16,automatic,nn,nn
+2024-09-05T21:45:42.690Z,33.8621674,-117.5090027,-0.24,1.44,ml,33,84,0.06948,0.28,ci,ci40726119,2024-09-05T21:47:45.124Z,"2 km SSE of Home Gardens, CA",earthquake,0.58,0.9,0.18,7,automatic,ci,ci
+2024-09-05T21:43:45.153Z,37.7331,-117.1354,13.2,3.2,ml,29,101.96000000000004,0.444,0.2518,nn,nn00884163,2024-09-05T21:46:31.598Z,"9 km ENE of Goldfield, Nevada",earthquake,,0.6,0.17,19,automatic,nn,nn
 2024-09-05T21:33:44.183Z,38.6664,-117.1652,14.7,1.6,ml,8,211.08999999999997,0.727,0.3019,nn,nn00884161,2024-09-05T21:36:25.348Z,"60 km S of Kingston, Nevada",earthquake,,1.7,0.83,5,automatic,nn,nn
 2024-09-05T21:31:14.830Z,35.9415,-117.684,5.15,1.37,ml,22,64,0.02802,0.11,ci,ci40726087,2024-09-05T21:41:17.701Z,"20 km E of Little Lake, CA",earthquake,0.15,0.39,0.134,18,automatic,ci,ci
 2024-09-05T21:21:09.740Z,19.4181671142578,-155.268173217773,1.10000002384186,1.74,ml,22,94,0.008876,0.340000004,hv,hv74443291,2024-09-05T21:24:01.380Z,"4 km SW of Volcano, Hawaii",earthquake,0.44,0.25999999,0.26,9,automatic,hv,hv
@@ -16,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T20:22:57.156Z,36.7043,-115.6497,1.8,0.9,ml,9,298.95,0.424,0.4007,nn,nn00884150,2024-09-05T20:24:54.581Z,"15 km N of Indian Springs, Nevada",earthquake,,28.5,0.19,7,automatic,nn,nn
 2024-09-05T20:13:35.739Z,31.675,-104.42,7.7588,1.5,ml,14,70,0,0.3,tx,tx2024rmqu,2024-09-05T20:25:45.395Z,"55 km S of Whites City, New Mexico",earthquake,0,2.63527917861938,0.2,9,automatic,tx,tx
 2024-09-05T20:10:49.930Z,35.9406667,-117.6871667,4.75,1.05,ml,18,112,0.03071,0.1,ci,ci40726007,2024-09-05T21:09:42.339Z,"20 km E of Little Lake, CA",earthquake,0.19,0.25,0.117,11,reviewed,ci,ci
-2024-09-05T20:04:29.310Z,36.0699996948242,-120.167335510254,11.7399997711182,3.32,mw,52,70,0.01919,0.13,nc,nc75057881,2024-09-05T21:12:46.671Z,"8 km NNW of Avenal, CA",earthquake,0.25,0.349999994,,3,reviewed,nc,nc
+2024-09-05T20:04:29.310Z,36.0699996948242,-120.167335510254,11.7399997711182,3.32,mw,52,70,0.01919,0.13,nc,nc75057881,2024-09-05T21:47:17.628Z,"8 km NNW of Avenal, CA",earthquake,0.25,0.349999994,,3,reviewed,nc,nc
 2024-09-05T20:03:22.544Z,31.969,-103.806,7.439,1.6,ml,6,167,0,0.1,tx,tx2024rmqm,2024-09-05T20:42:17.509Z,"35 km NW of Mentone, Texas",earthquake,0,4.38656425476074,0.3,6,automatic,tx,tx
 2024-09-05T20:03:07.880Z,38.7615013122559,-122.727333068848,1.80999994277954,0.78,md,7,152,0.001935,0.02,nc,nc75057876,2024-09-05T21:34:23.545Z,"3 km SE of The Geysers, CA",earthquake,0.76,0.939999998,0.3,8,automatic,nc,nc
 2024-09-05T20:01:58.542Z,64.7801,-148.8451,14.3,1,ml,,,,0.76,ak,ak024bg4qfan,2024-09-05T20:04:41.356Z,"23 km NNE of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -284,4 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T22:02:43.040Z,37.7401,-117.146,9.3,1.6,ml,17,114.05000000000001,0.449,0.1803,nn,nn00883974,2024-09-05T01:17:59.625Z,"8 km ENE of Goldfield, Nevada",earthquake,,2,0.38,4,reviewed,nn,nn
 2024-09-04T21:57:54.313Z,32.408,-101.389,7.666,1.7,ml,20,62,0,0.1,tx,tx2024rkyt,2024-09-05T12:29:00.655Z,"14 km NNW of Sand Springs, Texas",earthquake,0.5225761508455984,0.5610642162970476,0.1,20,reviewed,tx,tx
 2024-09-04T21:52:49.271Z,37.7312,-117.1808,12.5,0.9,ml,10,171.95,0.541,0.2693,nn,nn00883969,2024-09-04T21:55:02.352Z,"5 km ENE of Goldfield, Nevada",earthquake,,2.8,0.25,8,automatic,nn,nn
-2024-09-04T21:47:33.669Z,37.7436,-117.143,9.2,2.2,ml,20,94.41999999999999,0.195,0.1696,nn,nn00883965,2024-09-04T23:14:54.507Z,"9 km ENE of Goldfield, Nevada",earthquake,,1.7,0.32,5,reviewed,nn,nn
