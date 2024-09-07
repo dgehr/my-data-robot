@@ -242,5 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-06T07:49:24.777Z,65.1615,-150.0267,2.9,1.2,ml,,,,0.56,ak,ak024bhktcot,2024-09-06T07:51:29.643Z,"31 km W of Minto, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-06T07:44:36.800Z,19.4053325653076,-155.266494750977,1.30999994277954,1.82000005,md,18,50,0.007067,0.140000001,hv,hv74444186,2024-09-06T07:46:01.620Z,"5 km SW of Volcano, Hawaii",earthquake,0.2,0.280000001,0.200000003,17,automatic,hv,hv
 2024-09-06T07:43:51.140Z,19.3543338775635,-155.063171386719,0.379999995231628,2.26,ml,19,188,0.04916,0.209999993,hv,hv74444181,2024-09-06T07:46:58.530Z,"14 km SSE of Fern Forest, Hawaii",earthquake,0.83,0.430000007,0.96,9,automatic,hv,hv
-2024-09-06T07:41:42.500Z,-24.2035,-67.0371,192.765,4.5,mb,40,86,1.628,1.36,us,us6000nq0d,2024-09-06T08:01:58.040Z,"72 km W of San Antonio de los Cobres, Argentina",earthquake,5.85,7.65,0.052,111,reviewed,us,us
-2024-09-06T07:39:46.364Z,5.6734,125.0738,77.133,4.7,mb,38,102,1.475,0.82,us,us6000nq0g,2024-09-06T08:14:48.090Z,"18 km SW of Kablalan, Philippines",earthquake,9.14,8.006,0.074,55,reviewed,us,us
