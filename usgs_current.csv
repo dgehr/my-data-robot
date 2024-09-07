@@ -236,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-06T14:20:12.250Z,19.503999710083,-155.588500976562,15.0600004196167,2.03,ml,16,73,0.02048,0.129999995,hv,hv74444956,2024-09-06T14:23:05.160Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.47,1.01999998,0.79,5,automatic,hv,hv
 2024-09-06T14:12:11.420Z,59.8505,-153.4557,130,2,ml,,,,0.23,ak,ak024bhorfdi,2024-09-06T14:13:45.845Z,"37 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-06T14:03:15.040Z,35.6345,-117.4656667,7.58,-0.18,ml,5,132,0.04798,0.09,ci,ci40726503,2024-09-06T20:21:05.592Z,"16 km SSW of Searles Valley, CA",earthquake,0.36,0.82,0.081,3,reviewed,ci,ci
-2024-09-06T13:54:34.476Z,28.776,-99.044,1.7822,2.2,ml,16,77,0.1,0.2,tx,tx2024rnzu,2024-09-06T14:54:51.110Z,"13 km SSE of Pearsall, Texas",earthquake,1.9393281860008247,3.132733132350751,0.1,11,reviewed,tx,tx
