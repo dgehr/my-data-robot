@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-13T08:40:14.100Z,34.055,-118.8051667,11.47,1.52,ml,49,94,0.02606,0.25,ci,ci40732479,2024-09-13T08:46:45.337Z,"6 km N of Malibu, CA",earthquake,0.25,0.32,0.188,33,automatic,ci,ci
+2024-09-13T08:40:14.100Z,34.055,-118.8051667,11.47,1.52,ml,49,94,0.02606,0.25,ci,ci40732479,2024-09-13T08:55:23.747Z,"6 km N of Malibu, CA",earthquake,0.25,0.32,0.188,33,automatic,ci,ci
 2024-09-13T08:37:54.160Z,33.8111667,-117.1281667,4.87,0.85,ml,43,68,0.07848,0.18,ci,ci40732471,2024-09-13T08:44:05.140Z,"2 km ENE of Nuevo, CA",earthquake,0.21,0.42,0.155,23,automatic,ci,ci
 2024-09-13T08:23:57.459Z,-35.1626,-179.3358,13.248,5,mww,30,59,3.059,0.96,us,us7000ndgu,2024-09-13T08:43:10.040Z,"east of the North Island of New Zealand",earthquake,13.53,5.678,0.075,17,reviewed,us,us
 2024-09-13T08:18:20.580Z,19.3934993743896,-155.253997802734,1.37999999523163,2.33,ml,41,50,0.008343,0.330000013,hv,hv74456046,2024-09-13T08:21:15.440Z,"5 km SSW of Volcano, Hawaii",earthquake,0.26,0.180000007,0.65,21,automatic,hv,hv
