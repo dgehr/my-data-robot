@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-17T19:36:04.440Z,40.4049987792969,-125.122169494629,5.96000003814697,3.16,ml,47,270,,0.46,nc,nc75063181,2024-09-17T19:38:07.526Z,"71 km WNW of Petrolia, CA",earthquake,4.92,5.80000019,0.169,4,automatic,nc,nc
+2024-09-17T19:34:46.970Z,33.3696667,-116.8243333,8.57,0.83,ml,38,37,0.03584,0.2,ci,ci40736119,2024-09-17T19:40:43.451Z,"4 km ENE of Palomar Observatory, CA",earthquake,0.21,0.57,0.124,22,automatic,ci,ci
 2024-09-17T19:25:27.080Z,35.6753333,-117.5413333,9.25,1.27,ml,26,52,0.09631,0.15,ci,ci40736079,2024-09-17T19:31:34.042Z,"14 km ENE of Ridgecrest, CA",earthquake,0.18,0.59,0.145,16,automatic,ci,ci
 2024-09-17T19:24:16.720Z,19.1865005493164,-155.407669067383,4.11999988555908,1.82000005,md,31,178,0.05164,0.209999993,hv,hv74467942,2024-09-17T19:26:01.110Z,"7 km ESE of Pāhala, Hawaii",earthquake,0.57,1.04999995,0.270000011,7,automatic,hv,hv
 2024-09-17T19:19:06.824Z,63.4961,-147.1985,28.4,1.5,ml,,,,0.26,ak,ak024bzyowik,2024-09-17T19:25:28.022Z,"88 km E of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -258,7 +260,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-16T22:23:10.731Z,61.7986,-151.2317,63.8,1.5,ml,,,,0.4,ak,ak024bycyq01,2024-09-16T22:25:23.507Z,"23 km SSE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-16T22:18:39.540Z,33.222,-116.05,3.37,1.79,ml,70,56,0.07753,0.22,ci,ci40735519,2024-09-16T22:34:23.208Z,"12 km NE of Ocotillo Wells, CA",earthquake,0.15,0.31,0.176,26,automatic,ci,ci
 2024-09-16T22:16:32.700Z,19.3871669769287,-155.156661987305,3.23000001907349,2.31,ml,25,118,0.01419,0.379999995,hv,hv74465732,2024-09-16T22:19:24.220Z,"8 km SSW of Fern Forest, Hawaii",earthquake,0.97,1.67999995,0.33,4,automatic,hv,hv
-2024-09-16T22:15:05.710Z,32.9218333,-116.284,10.99,0.98,ml,27,92,0.03651,0.18,ci,ci40735511,2024-09-16T22:23:34.605Z,"26 km ENE of Pine Valley, CA",earthquake,0.26,0.39,0.155,17,automatic,ci,ci
+2024-09-16T22:15:05.690Z,32.9241667,-116.284,10.9,0.86,ml,23,124,0.03445,0.16,ci,ci40735511,2024-09-17T19:38:54.548Z,"26 km ENE of Pine Valley, CA",earthquake,0.27,0.46,0.136,10,reviewed,ci,ci
 2024-09-16T22:09:26.317Z,61.7781,-150.4218,31.1,1.2,ml,,,,0.22,ak,ak024bycvr6f,2024-09-16T22:11:52.384Z,"20 km W of Willow, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-16T22:01:59.190Z,19.3818340301514,-155.174331665039,2.26999998092651,1.75,ml,19,116,0.005313,0.300000012,hv,hv74465697,2024-09-16T22:04:50.480Z,"9 km SE of Volcano, Hawaii",earthquake,1.02,0.639999986,0.19,3,automatic,hv,hv
 2024-09-16T21:48:58.979Z,31.977,-102.319,7.6904,1.2,ml,11,90,0,0.1,tx,tx2024sgwy,2024-09-17T16:16:30.181Z,"7 km SE of Gardendale, Texas",earthquake,0.9191004414690392,1.081860559108814,0.2,6,reviewed,tx,tx
@@ -290,4 +292,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-16T19:44:19.230Z,33.8228333,-117.4861667,2.63,1.42,ml,17,200,0.03469,0.12,ci,ci40735375,2024-09-16T19:50:51.273Z,"7 km SSE of Home Gardens, CA",earthquake,1.23,0.28,0.359,34,automatic,ci,ci
 2024-09-16T19:44:10.537Z,51.3307,-179.3274,27.2,2.4,ml,,,,0.49,ak,ak024bybax9a,2024-09-16T22:44:11.908Z,"196 km WSW of Adak, Alaska",earthquake,,12.5,,,reviewed,ak,ak
 2024-09-16T19:43:20.910Z,47.72983333333333,-119.50666666666666,16.98,0.56,ml,8,101,0.07623,0.25,uw,uw62038572,2024-09-17T00:55:59.940Z,"13 km SE of Mansfield, Washington",earthquake,0.59,1.1,0.23204699534610917,6,reviewed,uw,uw
-2024-09-16T19:40:54.531Z,50.9956,-171.839,10,3.3,ml,21,230,1.903,0.67,us,us7000nebn,2024-09-16T21:12:04.040Z,"211 km SE of Atka, Alaska",earthquake,4.78,1.998,0.085,18,reviewed,us,us
