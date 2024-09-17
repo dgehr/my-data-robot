@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-17T21:40:34.525Z,60.5969,-151.6699,59.2,2.1,ml,,,,0.4,ak,ak024c000bwc,2024-09-17T21:41:55.126Z,"19 km W of Salamatof, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-09-17T21:31:37.993Z,38.4685,-117.4143,9.9,1.4,ml,10,161.45999999999998,0.789,0.3263,nn,nn00884794,2024-09-17T21:35:52.783Z,"47 km NNW of Tonopah, Nevada",earthquake,,1.6,0.42,4,automatic,nn,nn
 2024-09-17T21:30:51.880Z,58.6735,-152.8114,46,1.9,ml,,,,0.48,ak,ak024bzzy82m,2024-09-17T21:33:09.540Z,"68 km N of Aleneva, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-09-17T21:10:56.840Z,19.140832901001,-155.505493164062,34.4300003051758,2.05999994,md,35,149,0.0435,0.159999996,hv,hv74468082,2024-09-17T21:12:32.050Z,"7 km SSW of Pāhala, Hawaii",earthquake,0.58,0.639999986,0.25999999,9,automatic,hv,hv
@@ -111,6 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-17T10:10:40.710Z,19.3575000762939,-155.127334594727,0.579999983310699,1.74000001,md,29,175,0.02728,0.310000002,hv,hv74467337,2024-09-17T10:12:30.000Z,"11 km S of Fern Forest, Hawaii",earthquake,0.81,0.74000001,0.300000012,15,automatic,hv,hv
 2024-09-17T10:07:21.470Z,36.9323333333333,-121.680333333333,12.31,1.06,md,29,56,0.01486,0.1,nc,nc75063026,2024-09-17T18:12:04.409Z,"5 km SE of Interlaken, CA",earthquake,0.2,0.36,0.231,23,reviewed,nc,nc
 2024-09-17T10:07:10.900Z,19.3733329772949,-155.174331665039,2.45000004768372,1.93,ml,21,178,0.007719,0.239999995,hv,hv74467332,2024-09-17T10:10:04.990Z,"9 km SE of Volcano, Hawaii",earthquake,1.01,0.569999993,0.44,3,automatic,hv,hv
+2024-09-17T09:57:36.060Z,19.3725,-155.169333333333,2.26,1.81,ml,30,137,0.006911,0.13,hv,hv74467317,2024-09-17T21:40:19.630Z,"10 km SE of Volcano, Hawaii",earthquake,0.52,0.35,0.240386780633448,26,reviewed,hv,hv
 2024-09-17T09:46:20.050Z,34.034,-118.8046667,12.47,1.49,ml,33,100,0.02568,0.21,ci,ci40735759,2024-09-17T14:07:51.118Z,"3 km N of Malibu, CA",earthquake,0.38,0.51,0.328,33,reviewed,ci,ci
 2024-09-17T09:45:59.871Z,61.3317,-147.378,12.3,1.2,ml,,,,0.73,ak,ak024bzsw96b,2024-09-17T09:48:53.790Z,"55 km SSE of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-17T09:44:13.760Z,40.4778333333333,-121.435,1.39,1.57,md,10,92,0.0648,0.07,nc,nc75063016,2024-09-17T18:25:38.971Z,"18 km NE of Mineral, CA",earthquake,0.44,0.98,0.166,10,reviewed,nc,nc
@@ -296,5 +298,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-16T22:09:26.317Z,61.7781,-150.4218,31.1,1.2,ml,,,,0.22,ak,ak024bycvr6f,2024-09-16T22:11:52.384Z,"20 km W of Willow, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-16T22:01:59.190Z,19.3818340301514,-155.174331665039,2.26999998092651,1.75,ml,19,116,0.005313,0.300000012,hv,hv74465697,2024-09-16T22:04:50.480Z,"9 km SE of Volcano, Hawaii",earthquake,1.02,0.639999986,0.19,3,automatic,hv,hv
 2024-09-16T21:48:58.979Z,31.977,-102.319,7.6904,1.2,ml,11,90,0,0.1,tx,tx2024sgwy,2024-09-17T21:24:25.195Z,"7 km SE of Gardendale, Texas",earthquake,0.9191004414690392,1.081860559108814,0.2,6,reviewed,tx,tx
-2024-09-16T21:42:53.664Z,40.124,-119.7482,16.2,0.6,ml,3,183.16,0.048,0.0487,nn,nn00884758,2024-09-16T22:37:07.929Z,"23 km NNW of Sutcliffe, Nevada",earthquake,,3.9,0.49,2,reviewed,nn,nn
-2024-09-16T21:37:05.740Z,19.3683333333333,-155.171666666667,1.7,2.62,ml,49,84,0.01128,0.18,hv,hv74465637,2024-09-16T21:54:21.040Z,"10 km SE of Volcano, Hawaii",earthquake,0.25,0.26,0.192525443556244,37,reviewed,hv,hv
