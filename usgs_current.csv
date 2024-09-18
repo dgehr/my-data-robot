@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-18T11:10:40.700Z,60.5848,-151.1175,33.4,1.4,ml,,,,0.66,ak,ak024c1hexc6,2024-09-18T11:12:22.652Z,"6 km NNW of Ridgeway, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-18T10:15:32.020Z,19.7743339538574,-155.582336425781,12.2600002288818,2.04,ml,41,78,0.04981,0.310000002,hv,hv74468747,2024-09-18T10:18:25.500Z,"28 km SE of Waikoloa, Hawaii",earthquake,0.58,0.349999994,0.8,4,automatic,hv,hv
 2024-09-18T10:15:18.980Z,36.5745010375977,-121.169166564941,4.94000005722046,1.58,md,14,120,0.1044,0.06,nc,nc75063431,2024-09-18T10:57:16.549Z,"5 km NNW of Pinnacles, CA",earthquake,0.35,2.18000007,0.18,10,automatic,nc,nc
 2024-09-18T10:14:55.650Z,38.8418350219727,-122.87833404541,2.30999994277954,0.78,md,10,159,0.007804,0.02,nc,nc75063426,2024-09-18T10:44:22.456Z,"13 km E of Cloverdale, CA",earthquake,0.42,0.670000017,0.18,11,automatic,nc,nc
