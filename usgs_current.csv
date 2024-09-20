@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-20T07:50:45.180Z,38.8011665344238,-122.77799987793,3.94000005722046,0.75,md,7,106,0.01112,0.02,nc,nc75064311,2024-09-20T07:52:21.279Z,"3 km NNW of The Geysers, CA",earthquake,0.58,2.46000004,0.12,8,automatic,nc,nc
+2024-09-20T07:46:34.302Z,62.8094,-148.7457,8.3,0.7,ml,,,,1.02,ak,ak024c4qbl38,2024-09-20T07:49:19.930Z,"65 km S of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-20T07:40:24.862Z,66.3349,-154.8132,0.1,1.5,ml,,,,0.76,ak,ak024c4qaabp,2024-09-20T07:43:03.511Z,"40 km NW of Hughes, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-09-20T07:35:27.929Z,60.9591,-145.5767,17.4,1.4,ml,,,,0.85,ak,ak024c4q97tk,2024-09-20T07:37:45.782Z,"45 km ESE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-20T07:33:26.930Z,38.8213348388672,-122.790000915527,1.9099999666214,1.5,md,32,59,0.01086,0.03,nc,nc75064301,2024-09-20T07:36:26.550Z,"6 km NNW of The Geysers, CA",earthquake,0.2,0.300000012,0.14,31,automatic,nc,nc
