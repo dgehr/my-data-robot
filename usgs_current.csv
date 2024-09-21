@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-21T03:46:19.264Z,60.0473,-141.9223,9.4,1.5,ml,,,,0.62,ak,ak024c6bh63q,2024-09-21T03:48:14.468Z,"135 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-21T03:42:53.640Z,19.3156661987305,-155.251495361328,1.26999998092651,1.81,ml,43,89,0.04262,0.219999999,hv,hv74471632,2024-09-21T03:45:48.310Z,"14 km S of Volcano, Hawaii",earthquake,0.32,0.419999987,0.27,3,automatic,hv,hv
+2024-09-21T03:42:49.340Z,38.8009986877441,-122.752670288086,1.5900000333786,0.78,md,8,100,0.005515,0.02,nc,nc75064691,2024-09-21T03:44:27.459Z,"3 km NNE of The Geysers, CA",earthquake,0.39,1.26999998,0.08,10,automatic,nc,nc
 2024-09-21T03:33:20.310Z,37.8258323669434,-121.987831115723,6.09000015258789,1.67,md,14,79,0.03317,0.07,nc,nc75064686,2024-09-21T03:34:57.420Z,"1 km ENE of Danville, CA",earthquake,0.3,0.49000001,0.3,11,automatic,nc,nc
 2024-09-21T03:30:58.070Z,36.6175003051758,-121.158668518066,0.259999990463257,1.27,md,18,133,0.1035,0.35,nc,nc75064681,2024-09-21T03:32:37.397Z,"10 km N of Pinnacles, CA",earthquake,0.9,16.3299999,0.25,9,automatic,nc,nc
 2024-09-21T03:26:46.380Z,35.7743333,-117.583,5.87,0.84,ml,24,64,0.1518,0.15,ci,ci40740599,2024-09-21T03:32:34.235Z,"16 km W of Searles Valley, CA",earthquake,0.24,1.23,0.106,9,automatic,ci,ci
