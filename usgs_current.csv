@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-24T23:46:33.310Z,32.984333,-116.3119965,8.18,1.12,ml,33,60,0.03052,0.21,ci,ci40744711,2024-09-24T23:48:35.752Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.34,0.76,0.18,5,automatic,ci,ci
+2024-09-24T23:50:05.950Z,38.821834564209,-122.841667175293,1.5900000333786,0.83,md,7,154,0.00534,0.02,nc,nc75066366,2024-09-24T23:51:41.686Z,"9 km NW of The Geysers, CA",earthquake,0.75,0.769999981,0.31,8,automatic,nc,nc
+2024-09-24T23:46:33.330Z,32.9841667,-116.3111667,8.44,1.09,ml,44,59,0.0302,0.18,ci,ci40744711,2024-09-24T23:52:32.385Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.16,0.43,0.206,30,automatic,ci,ci
 2024-09-24T23:31:26.300Z,38.833667755127,-122.816665649414,1.95000004768372,0.77,md,14,87,0.01148,0.01,nc,nc75066361,2024-09-24T23:34:06.910Z,"8 km NNW of The Geysers, CA",earthquake,0.28,0.819999993,0.18,15,automatic,nc,nc
 2024-09-24T23:17:46.550Z,35.033,-117.675,-0.25,1.44,ml,37,40,0.09992,0.2,ci,ci40744679,2024-09-24T23:24:24.912Z,"4 km NNW of Boron, CA",earthquake,0.26,0.68,0.136,32,automatic,ci,ci
 2024-09-24T23:10:56.337Z,60.5576,-152.8192,13.4,0.7,ml,,,,0.2,ak,ak024cbls8rl,2024-09-24T23:12:51.485Z,"82 km W of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -55,6 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T17:00:46.490Z,38.8245010375977,-122.763832092285,2.00999999046326,1.09,md,16,127,0.007622,0.02,nc,nc75066206,2024-09-24T17:32:14.413Z,"4 km WNW of Cobb, CA",earthquake,0.32,0.529999971,0.29,16,automatic,nc,nc
 2024-09-24T16:43:14.900Z,34.0181667,-117.1016667,11.66,0.99,ml,33,83,0.01943,0.15,ci,ci40744255,2024-09-24T16:52:18.912Z,"6 km NW of Calimesa, CA",earthquake,0.21,0.49,0.192,26,reviewed,ci,ci
 2024-09-24T16:42:30.284Z,60.5761,-152.816,15.8,1.7,ml,,,,0.2,ak,ak024cbhsyvj,2024-09-24T23:34:54.010Z,"82 km W of Salamatof, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-24T16:40:50.310Z,54.1298333333333,-165.9465,4.16,-0.81,ml,6,90,0.01007,0.21,av,av93022164,2024-09-24T23:51:41.920Z,"11 km W of Akutan, Alaska",earthquake,0.44,0.88,0.144878434441148,4,reviewed,av,av
 2024-09-24T16:39:43.060Z,35.0638333,-119.0771667,13.7,1.42,ml,34,94,0.007541,0.18,ci,ci40744247,2024-09-24T16:50:42.850Z,"19 km NW of Grapevine, CA",earthquake,0.21,0.45,0.176,29,automatic,ci,ci
 2024-09-24T16:32:03.500Z,51.7808333333333,-178.8175,7.55,0.28,ml,4,137,0.02447,0.08,av,av93284553,2024-09-24T20:44:12.830Z,"150 km W of Adak, Alaska",earthquake,1.28,0.83,0.278536268576033,4,reviewed,av,av
 2024-09-24T16:30:00.050Z,45.0183333333333,-111.934833333333,5.17,1.39,ml,15,84,0.1808,0.1,mb,mb90062328,2024-09-24T18:24:20.740Z,"30 km S of Virginia City, Montana",earthquake,0.27,3.6,0.256498409977746,22,reviewed,mb,mb
