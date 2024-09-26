@@ -225,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T07:19:22.904Z,64.6492,-148.0592,13.8,0.4,ml,,,,0.4,ak,ak024cczuig2,2024-09-25T07:21:51.663Z,"22 km SW of South Van Horn, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-25T07:12:42.874Z,38.3232,-96.7606,5,2.7,mb_lg,30,37,0.785,0.22,us,us7000ng3p,2024-09-25T16:30:37.561Z,"8 km NE of Cedar Point, Kansas",earthquake,3.51,2,0.058,78,reviewed,us,us
 2024-09-25T07:04:11.170Z,38.8339996337891,-122.816497802734,1.89999997615814,1.05,md,24,58,0.01172,0.02,nc,nc75066471,2024-09-25T07:05:47.669Z,"8 km NNW of The Geysers, CA",earthquake,0.19,0.409999996,0.11,24,automatic,nc,nc
-2024-09-25T06:55:35.967Z,63.4895,-147.9741,8.4,1.4,ml,,,,0.18,ak,ak024cczgtmk,2024-09-25T06:57:42.495Z,"49 km ENE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
