@@ -1,9 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-27T11:31:58.612Z,56.4622,-156.4568,249.9,2.3,ml,,,,0.65,ak,ak024cgddl79,2024-09-27T11:34:26.291Z,"121 km E of Chignik, Alaska",earthquake,,10.5,,,automatic,ak,ak
+2024-09-27T11:28:02.920Z,40.3569984436035,-122.09400177002,1.92999994754791,1.82,md,8,118,0.1503,0.06,nc,nc75067336,2024-09-27T11:31:38.273Z,"20 km SE of Anderson, CA",earthquake,0.36,8.32999992,0.18,6,automatic,nc,nc
+2024-09-27T11:26:51.200Z,33.3205,-116.3815,6.52,1.53,ml,80,17,0.01353,0.19,ci,ci40746959,2024-09-27T11:33:35.829Z,"7 km N of Borrego Springs, CA",earthquake,0.13,0.35,0.196,26,automatic,ci,ci
 2024-09-27T11:25:03.392Z,59.9603,-148.5298,22.1,1.9,ml,,,,0.43,ak,ak024cgdc6n7,2024-09-27T11:26:46.458Z,"31 km WSW of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-09-27T11:25:02.700Z,33.3230019,-116.3791656,5.61,1.32,ml,48,71,0.01073,0.23,ci,ci40746951,2024-09-27T11:27:06.146Z,"8 km N of Borrego Springs, CA",earthquake,0.28,0.64,0.222,11,automatic,ci,ci
+2024-09-27T11:25:02.680Z,33.3206667,-116.38,6.13,1.17,ml,70,45,0.01235,0.19,ci,ci40746951,2024-09-27T11:31:31.542Z,"7 km N of Borrego Springs, CA",earthquake,0.16,0.38,0.222,26,automatic,ci,ci
+2024-09-27T11:24:24.733Z,31.661,-104.452,7.2143,1.7,ml,12,160,0,0.2,tx,tx2024taek,2024-09-27T11:30:36.640Z,"57 km S of Whites City, New Mexico",earthquake,0,3.38560914993286,0.1,10,automatic,tx,tx
 2024-09-27T11:10:28.798Z,63.8772,-145.6294,0,1.6,ml,,,,0.76,ak,ak024cgd9207,2024-09-27T11:13:30.631Z,"7 km SSW of Fort Greely, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-27T11:04:05.160Z,38.8330001831055,-122.882331848145,1.94000005722046,1.07,md,16,128,0.005288,0.03,nc,nc75067321,2024-09-27T11:05:42.705Z,"12 km E of Cloverdale, CA",earthquake,0.31,0.460000008,0.11,18,automatic,nc,nc
-2024-09-27T10:54:54.730Z,38.8053321838379,-122.783836364746,3.21000003814697,0.43,md,7,134,0.009338,0.01,nc,nc75067311,2024-09-27T11:24:24.301Z,"4 km NNW of The Geysers, CA",earthquake,0.58,1.60000002,0.22,8,automatic,nc,nc
+2024-09-27T10:54:54.730Z,38.8053321838379,-122.783836364746,3.21000003814697,0.43,md,7,134,0.009338,0.01,nc,nc75067311,2024-09-27T11:34:27.372Z,"4 km NNW of The Geysers, CA",earthquake,0.58,1.60000002,0.22,8,automatic,nc,nc
 2024-09-27T10:53:28.800Z,33.95,-116.726,15.63,1.39,ml,68,36,0.1095,0.15,ci,ci40746943,2024-09-27T11:00:06.054Z,"7 km ENE of Cabazon, CA",earthquake,0.13,0.38,0.327,10,automatic,ci,ci
 2024-09-27T10:44:20.034Z,-24.8731,178.5262,608.427,4.6,mb,56,128,5.38,0.64,us,us7000ngsn,2024-09-27T11:14:33.040Z,"south of the Fiji Islands",earthquake,14.33,9.564,0.077,50,reviewed,us,us
 2024-09-27T10:44:10.450Z,36.8196667,-118.4583333,5.36,1.83,ml,10,317,0.4519,0.1,ci,ci40746935,2024-09-27T10:50:14.128Z,"23 km W of Independence, CA",earthquake,6.88,3.14,0.241,6,automatic,ci,ci
