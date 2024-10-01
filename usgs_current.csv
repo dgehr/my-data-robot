@@ -106,7 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T02:18:21.746Z,1.0767,98.8638,101.066,5,mb,52,93,1.308,1.15,us,us7000nhcp,2024-10-01T02:30:40.040Z,"56 km SW of Padangsidempuan, Indonesia",earthquake,6.38,7.288,0.103,30,reviewed,us,us
 2024-10-01T02:16:24.984Z,51.0198,-176.1399,10.6,3.4,ml,,,,0.55,ak,ak024cmu2sio,2024-10-01T02:42:46.942Z,"101 km SSE of Adak, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2024-10-01T02:11:48.020Z,38.8256683349609,-122.806167602539,2.77999997138977,0.68,md,13,49,0.003803,0.01,nc,nc75068876,2024-10-01T03:19:26.338Z,"7 km NNW of The Geysers, CA",earthquake,0.36,0.949999988,0.4,13,automatic,nc,nc
-2024-10-01T01:53:25.967Z,32.054,-103.78,5.8542,2,ml,9,205,0.1,0.3,tx,tx2024tguc,2024-10-01T02:05:48.783Z,"33 km SE of Malaga, New Mexico",earthquake,0,6.82376384735107,0.3,7,automatic,tx,tx
+2024-10-01T01:53:26.324Z,32.027,-103.774,8.7274,2,ml,19,76,0,0.1,tx,tx2024tguc,2024-10-01T15:51:47.309Z,"35 km SE of Malaga, New Mexico",earthquake,0.5259673769462314,0.5602291071418866,0.2,26,reviewed,tx,tx
 2024-10-01T01:37:52.990Z,37.548,-118.745333333333,9.96,0.35,md,8,320,0.07869,0.01,nc,nc75068871,2024-10-01T11:21:26.319Z,"6 km W of Toms Place, CA",earthquake,4.72,3.24,0.122,6,reviewed,nc,nc
 2024-10-01T01:33:38.889Z,-5.0945,152.4688,35,5,mb,34,51,6.787,0.7,us,us7000nhci,2024-10-01T01:54:30.040Z,"85 km SSE of Kokopo, Papua New Guinea",earthquake,13.69,1.884,0.069,68,reviewed,us,us
 2024-10-01T01:23:12.200Z,19.7689990997314,-155.278167724609,32.7799987792969,2.1,ml,31,198,0.2399,0.170000002,hv,hv74483672,2024-10-01T01:26:05.900Z,"19 km W of Paukaa, Hawaii",earthquake,0.86,1.20000005,0.3,4,automatic,hv,hv
