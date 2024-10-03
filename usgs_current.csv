@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-10-03T13:38:55.650Z,19.3988342285156,-155.285339355469,7.98000001907349,2.04999995,md,24,56,0.01157,0.230000004,hv,hv74486722,2024-10-03T13:41:47.110Z,"7 km SW of Volcano, Hawaii",earthquake,0.52,0.449999988,0.170000002,15,automatic,hv,hv
 2024-10-03T13:32:41.222Z,59.902,-154.1109,189,1.8,ml,,,,0.72,ak,ak024cqbsq6w,2024-10-03T13:41:45.233Z,"12 km N of Pedro Bay, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2024-10-03T13:17:14.700Z,38.8263320922852,-122.78466796875,5.86999988555908,0.71,md,8,93,0.01224,0.03,nc,nc75069931,2024-10-03T13:18:52.690Z,"5 km WNW of Cobb, CA",earthquake,1.44,1.67999995,0.18,9,automatic,nc,nc
-2024-10-03T13:13:35.850Z,38.8409996032715,-122.832336425781,1.87000000476837,0.65,md,7,152,0.003442,0.01,nc,nc75069926,2024-10-03T13:39:23.644Z,"10 km NNW of The Geysers, CA",earthquake,0.8,1.34000003,0.09,8,automatic,nc,nc
-2024-10-03T13:08:40.592Z,51.3378,-177.0247,35,5.1,mb,84,145,0.522,0.64,us,us6000nw9t,2024-10-03T13:28:43.807Z,"65 km SSW of Adak, Alaska",earthquake,3.84,1.68,0.028,402,reviewed,us,us
+2024-10-03T13:17:14.700Z,38.8263320922852,-122.78466796875,5.86999988555908,0.71,md,8,93,0.01224,0.03,nc,nc75069931,2024-10-03T13:49:25.710Z,"5 km WNW of Cobb, CA",earthquake,1.44,1.67999995,0.18,9,automatic,nc,nc
+2024-10-03T13:13:35.850Z,38.8409996032715,-122.832336425781,1.87000000476837,0.65,md,7,152,0.003442,0.01,nc,nc75069926,2024-10-03T13:49:26.710Z,"10 km NNW of The Geysers, CA",earthquake,0.8,1.34000003,0.09,8,automatic,nc,nc
+2024-10-03T13:08:40.592Z,51.3378,-177.0247,35,5.1,mb,84,145,0.522,0.64,us,us6000nw9t,2024-10-03T13:48:45.257Z,"65 km SSW of Adak, Alaska",earthquake,3.84,1.68,0.028,402,reviewed,us,us
 2024-10-03T13:08:06.252Z,-28.4632,-176.3346,10,5.3,mb,46,111,1.601,0.86,us,us6000nw9u,2024-10-03T13:25:51.040Z,"Kermadec Islands region",earthquake,9.66,1.88,0.083,49,reviewed,us,us
 2024-10-03T13:07:15.556Z,38.3729,-118.8836,8.5,1.5,ml,10,122.93,0.125,0.2423,nn,nn00885520,2024-10-03T13:09:51.790Z,"28 km SW of Hawthorne, Nevada",earthquake,,1.3,0.11,5,automatic,nn,nn
 2024-10-03T12:29:55.997Z,31.643,-104.463,4.0938,1.8,ml,8,100,0,0.1,tx,tx2024tlfp,2024-10-03T12:50:48.174Z,"59 km S of Whites City, New Mexico",earthquake,0,2.13769960403442,0.2,7,automatic,tx,tx
@@ -248,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T14:00:13.830Z,19.15016746521,-155.439498901367,7.3600001335144,2.21,ml,51,208,0.022,0.289999992,hv,hv74485572,2024-10-02T14:03:08.230Z,"7 km SE of Pāhala, Hawaii",earthquake,0.56,0.629999995,0.65,7,automatic,hv,hv
 2024-10-02T13:55:22.116Z,55.3165,-159.448,17,2,ml,,,,0.59,ak,ak024cooea9h,2024-10-02T21:47:53.621Z,"65 km S of Ivanof Bay, Alaska",earthquake,,1.9,,,reviewed,ak,ak
 2024-10-02T13:51:12.720Z,35.36,-97.9415,6.98,0.91,ml,20,94,0.03689276038,0.24,ok,ok2024tjmt,2024-10-03T13:07:10.268Z,"3 km S of Union City, Oklahoma",earthquake,,1.3,0.3,11,reviewed,ok,ok
-2024-10-02T13:46:19.543Z,61.1405,-146.5697,0,1.7,ml,,,,0.79,ak,ak024coocbkn,2024-10-03T05:09:36.540Z,"11 km W of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-10-02T13:44:05.750Z,19.2941665649414,-155.426498413086,28.1200008392334,1.88999999,md,31,66,0.05487,0.109999999,hv,hv74485547,2024-10-02T13:45:42.220Z,"11 km NNE of Pāhala, Hawaii",earthquake,0.43,0.560000002,0.0700000003,3,automatic,hv,hv
