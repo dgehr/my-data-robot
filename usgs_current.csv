@@ -242,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-08T19:47:30.860Z,36.651166666667,-121.26483333333,4.95,1.47,md,23,106,0.05415,0.08,nc,nc75072116,2024-10-09T00:20:15.535Z,"16 km S of Tres Pinos, CA",earthquake,0.27,0.73,0.242,22,reviewed,nc,nc
 2024-10-08T19:46:38.330Z,37.401166666667,-118.523,11.99,1.46,md,15,122,0.05766,0.07,nc,nc75072106,2024-10-09T00:14:13.753Z,"7 km ESE of Round Valley, CA",earthquake,0.32,0.73,0.28,15,reviewed,nc,nc
 2024-10-08T19:46:23.270Z,35.113,-119.0998333,12.38,1.61,ml,33,79,0.05585,0.23,ci,ci40754791,2024-10-08T21:27:38.405Z,"24 km SW of Lamont, CA",earthquake,0.28,0.65,0.214,14,reviewed,ci,ci
-2024-10-08T19:36:55.930Z,34.6301667,-117.1076667,-1.56,1.48,ml,33,48,0.2115,0.15,ci,ci40754783,2024-10-08T22:20:20.770Z,"16 km NNE of Apple Valley, CA",quarry blast,0.21,31.61,0.076,21,reviewed,ci,ci
