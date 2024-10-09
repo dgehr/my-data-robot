@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-09T11:30:58.790Z,32.5738335,-115.2931671,17,1.59,ml,12,70,0.3077,0.21,ci,ci40755287,2024-10-09T11:33:18.329Z,"6 km E of Puebla, B.C., MX",earthquake,0.6,3.87,0.178,5,automatic,ci,ci
+2024-10-09T11:30:58.630Z,32.5656667,-115.289,21.99,1.55,ml,25,47,0.1464,0.22,ci,ci40755287,2024-10-09T11:37:07.344Z,"6 km E of Puebla, B.C., MX",earthquake,0.4,1.27,0.305,18,automatic,ci,ci
 2024-10-09T11:12:43.700Z,32.5666667,-115.2891667,18.09,1.88,ml,31,43,0.1464,0.29,ci,ci40755279,2024-10-09T11:18:58.241Z,"6 km E of Puebla, B.C., MX",earthquake,0.36,1.15,0.194,27,automatic,ci,ci
 2024-10-09T11:11:50.850Z,32.501,-115.2701667,22.79,1.61,ml,17,196,0.2656,0.21,ci,ci40755271,2024-10-09T11:17:54.237Z,"10 km SE of Puebla, B.C., MX",earthquake,0.75,1.84,0.228,16,automatic,ci,ci
 2024-10-09T11:08:33.779Z,36.0217,-115.5179,0.1,1.2,ml,14,290.21,0.733,0.2629,nn,nn00885736,2024-10-09T11:11:24.015Z,"10 km WSW of Blue Diamond, Nevada",earthquake,,53.4,0.37,12,automatic,nn,nn
