@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T06:30:54.580Z,33.7166667,-116.843,15.56,1.01,ml,61,30,0.07355,0.18,ci,ci40755135,2024-10-09T06:37:15.016Z,"6 km SE of Valle Vista, CA",earthquake,0.17,0.33,0.155,26,automatic,ci,ci
 2024-10-09T06:26:06.590Z,38.838165283203,-122.82483673096,1.7300000190735,0.27,md,10,91,0.008328,0.01,nc,nc75072266,2024-10-09T06:59:27.902Z,"9 km WNW of Cobb, CA",earthquake,0.33,0.889999986,0.16,13,automatic,nc,nc
 2024-10-09T06:23:58.320Z,32.5481667,-115.2866667,16.86,2.21,ml,33,43,0.1292,0.28,ci,ci40755127,2024-10-09T06:30:09.582Z,"6 km ESE of Puebla, B.C., MX",earthquake,0.35,1.12,0.23,27,automatic,ci,ci
-2024-10-09T06:22:50.000Z,38.843166351318,-122.82550048828,2.039999961853,1.26,md,26,76,0.00904,0.02,nc,nc75072261,2024-10-09T06:49:29.836Z,"9 km WNW of Cobb, CA",earthquake,0.21,0.379999995,0.13,26,automatic,nc,nc
+2024-10-09T06:22:50.000Z,38.843166351318,-122.82550048828,2.039999961853,1.26,md,26,76,0.00904,0.02,nc,nc75072261,2024-10-09T07:17:22.021Z,"9 km WNW of Cobb, CA",earthquake,0.21,0.379999995,0.13,26,automatic,nc,nc
 2024-10-09T06:22:10.060Z,33.7145,-116.8435,15.54,0.98,ml,62,20,0.07233,0.18,ci,ci40755119,2024-10-09T06:28:37.663Z,"6 km SE of Valle Vista, CA",earthquake,0.16,0.32,0.184,27,automatic,ci,ci
 2024-10-09T06:18:09.390Z,32.5588333,-115.2838333,19.38,2.31,ml,35,44,0.1401,0.29,ci,ci40755111,2024-10-09T06:29:08.740Z,"6 km E of Puebla, B.C., MX",earthquake,0.35,0.81,0.223,27,automatic,ci,ci
 2024-10-09T06:14:08.460Z,32.5506667,-115.283,17.65,2.34,ml,32,45,0.1321,0.27,ci,ci40755103,2024-10-09T06:25:05.250Z,"7 km ESE of Puebla, B.C., MX",earthquake,0.33,1.06,0.159,27,automatic,ci,ci
@@ -243,6 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-08T07:33:39.667Z,61.9652,-145.6852,2.7,2.4,ml,,,,1.54,ak,ak024cyhx2tc,2024-10-08T07:45:10.851Z,"16 km WSW of Copperville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-08T07:31:54.054Z,60.1545,-153.2483,157.1,2.6,ml,,,,0.37,ak,ak024cyhwnuy,2024-10-08T07:33:58.747Z,"59 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-08T07:31:53.966Z,61.8439,-150.0638,37.7,2.1,ml,,,,1.07,ak,ak024cyhwuja,2024-10-08T07:34:57.110Z,"10 km N of Willow, Alaska",earthquake,,4.4,,,automatic,ak,ak
-2024-10-08T07:25:51.830Z,34.7338333,-116.1456667,7.09,1.18,ml,22,53,0.05104,0.15,ci,ci40754407,2024-10-08T14:33:59.920Z,"2 km NE of Ludlow, CA",earthquake,0.18,0.42,0.172,13,reviewed,ci,ci
-2024-10-08T07:24:08.280Z,60.018833333333,-153.0985,-2.97,-0.48,ml,6,122,0.04026,0.14,av,av93303988,2024-10-09T01:59:59.700Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.32,1.92,0.25379290944278,6,reviewed,av,av
-2024-10-08T07:19:54.220Z,61.306333333333,-152.22916666667,2.07,-0.43,ml,7,145,0.05443,0.05,av,av93303973,2024-10-09T01:56:58.840Z,"64 km WNW of Beluga, Alaska",earthquake,0.39,0.62,0.23013748019752,7,reviewed,av,av
