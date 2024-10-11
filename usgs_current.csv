@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-11T14:38:27.905Z,68.4416,-161.4652,16.2,3.4,ml,,,,0.82,ak,ak024d3kq6km,2024-10-11T14:42:24.230Z,"73 km NE of Red Dog Mine, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-11T14:28:27.540Z,38.753833770752,-122.72799682617,8.1899995803833,0.74,md,9,209,0.01297,0.13,nc,nc75073076,2024-10-11T14:30:06.900Z,"4 km SSE of The Geysers, CA",earthquake,2.02,3.20000005,0.23,11,automatic,nc,nc
 2024-10-11T14:15:10.584Z,60.1462,-151.5948,57.5,1.6,ml,,,,0.15,ak,ak024d3kl7rm,2024-10-11T14:17:19.450Z,"11 km NNE of Ninilchik, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-10-11T14:08:00.520Z,37.551498413086,-118.86266326904,12.520000457764,1.18,md,17,226,0.0468,0.04,nc,nc75073071,2024-10-11T14:32:14.011Z,"14 km SE of Mammoth Lakes, CA",earthquake,0.99,1.62,0.14,16,automatic,nc,nc
@@ -208,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T15:31:43.810Z,37.407333333333,-118.61966666667,12.56,0.93,md,12,88,0.07031,0.04,nc,nc75072706,2024-10-10T18:31:13.618Z,"2 km WSW of Round Valley, CA",earthquake,0.31,0.78,0.128,9,reviewed,nc,nc
 2024-10-10T15:17:41.103Z,57.9748,-154.9304,58.1,1.1,ml,,,,0.4,ak,ak024d1xnsny,2024-10-10T15:19:35.565Z,"53 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-10T14:50:02.760Z,46.199833333333,-122.17816666667,-1.81,0.51,ml,7,170,0.005107,0.11,uw,uw62045172,2024-10-10T18:11:59.420Z,"38 km NNE of Amboy, Washington",earthquake,0.42,10.57,0.6278327448046,3,reviewed,uw,uw
-2024-10-10T14:41:19.500Z,36.897499084473,-121.63083648682,3.9100000858307,1.71,md,13,95,0.04159,0.05,nc,nc75072701,2024-10-10T15:12:21.715Z,"1 km ENE of Aromas, CA",earthquake,0.3,0.670000017,0.13,10,automatic,nc,nc
