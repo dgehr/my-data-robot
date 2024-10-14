@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-14T18:48:15.489Z,61.2613,-150.1924,41.6,2.1,ml,,,,0.27,ak,ak024d8ls2oc,2024-10-14T18:49:49.302Z,"15 km SW of Point MacKenzie, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-14T18:10:38.810Z,61.8841,-150.6137,2.5,1.9,ml,,,,0.37,ak,ak024d8ljz9l,2024-10-14T18:12:35.537Z,"33 km WNW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-14T17:55:51.050Z,19.186166763306,-155.48466491699,29.989999771118,2.05999994,md,37,151,0.03729,0.129999995,hv,hv74499906,2024-10-14T17:57:33.870Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.8,0.720000029,0.0399999991,4,automatic,hv,hv
 2024-10-14T17:32:30.936Z,31.641,-104.021,5.9138,1.8,ml,20,52,0,0.4,tx,tx2024ufsc,2024-10-14T17:42:22.271Z,"40 km W of Mentone, Texas",earthquake,0,2.0532176494598,0.2,14,automatic,tx,tx
@@ -16,6 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-14T16:01:26.539Z,-36.8755,177.0832,252.593,4.8,mb,45,178,1.193,0.92,us,us6000nymi,2024-10-14T16:21:23.040Z,"109 km E of Pauanui, New Zealand",earthquake,10.13,6.406,0.086,41,reviewed,us,us
 2024-10-14T15:58:48.956Z,64.9222,-150.124,7.8,1.4,ml,,,,0.45,ak,ak024d8k1zlr,2024-10-14T16:01:14.203Z,"25 km ESE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-14T15:58:39.200Z,17.906166666667,-66.859666666667,15.25,2.46,md,9,197,0.1866,0.15,pr,pr71462593,2024-10-14T16:14:05.710Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.73,1.18,0.05462344161434,4,reviewed,pr,pr
+2024-10-14T15:57:59.730Z,44.538833333333,-111.08533333333,14.79,0.85,md,15,136,0.0679,0.2,uu,uu80084506,2024-10-14T18:48:04.620Z,"13 km S of West Yellowstone, Montana",earthquake,0.64,1.16,0.38380948004555,8,reviewed,uu,uu
 2024-10-14T15:48:13.841Z,-23.9455,-64.2139,16.852,5,mb,47,48,5.077,1.04,us,us6000nyme,2024-10-14T17:04:57.754Z,"9 km ENE of Palma Sola, Argentina",earthquake,2.73,4.295,0.046,149,reviewed,us,us
 2024-10-14T15:10:16.070Z,38.788166046143,-122.75350189209,2.9300000667572,0.45,md,7,126,0.01335,0,nc,nc75074186,2024-10-14T15:59:27.722Z,"1 km NNE of The Geysers, CA",earthquake,0.54,1.52999997,0.19,7,automatic,nc,nc
 2024-10-14T14:57:45.420Z,63.2644,-149.1091,69,1.5,ml,,,,0.62,ak,ak024d8jgc0e,2024-10-14T15:00:16.181Z,"16 km SSW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
