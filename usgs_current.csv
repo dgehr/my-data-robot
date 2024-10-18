@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-18T23:54:23.640Z,19.21583366394,-155.38516235352,31.190000534058,1.74000001,md,28,176,0.02451,0.0900000036,hv,hv74503416,2024-10-18T23:55:53.560Z,"9 km E of Pāhala, Hawaii",earthquake,0.68,0.589999974,0.0700000003,4,automatic,hv,hv
 2024-10-18T23:33:19.032Z,38.8022,-119.6442,0,1.1,ml,8,152.29,0.094,0.1974,nn,nn00886229,2024-10-18T23:35:47.551Z,"6 km S of Carter Springs, Nevada",earthquake,,14.5,0.14,4,automatic,nn,nn
 2024-10-18T23:21:56.963Z,65.0148,-147.4984,0,0.9,ml,,,,1.02,ak,ak024dfaqxjk,2024-10-18T23:24:43.294Z,"8 km NE of Fox, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-10-18T23:18:21.338Z,31.679,-104.194,4.4801,2,ml,21,105,0.1,0.4,tx,tx2024unlo,2024-10-18T23:30:41.144Z,"55 km NW of Toyah, Texas",earthquake,0,1.3591842651367,0.2,14,automatic,tx,tx
@@ -70,9 +71,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-18T13:41:47.713Z,60.44,-150.4896,45,1.7,ml,,,,0.21,ak,ak024df4wv3n,2024-10-18T13:43:11.731Z,"16 km ESE of Funny River, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-10-18T13:36:24.848Z,61.6045,-149.7803,49.6,1.4,ml,,,,0.46,ak,ak024df4vqr8,2024-10-18T13:38:12.657Z,"3 km SE of Houston, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-10-18T13:31:26.460Z,38.799667358398,-122.75299835205,2.1400001049042,0.7,md,8,125,0.005332,0.01,nc,nc75075766,2024-10-18T13:47:18.194Z,"3 km NNE of The Geysers, CA",earthquake,0.53,0.99000001,0.17,8,automatic,nc,nc
+2024-10-18T13:14:25.150Z,58.243,-155.8305,13.63,-0.05,ml,6,229,0.1827,0.19,av,av93024464,2024-10-18T23:55:46.620Z,"69 km SE of King Salmon, Alaska",earthquake,0.9,1.92,0.20607465120202,6,reviewed,av,av
 2024-10-18T13:13:33.170Z,33.4825,-116.445,13.32,0.5,ml,22,73,0.1037,0.13,ci,ci40956024,2024-10-18T21:38:37.809Z,"23 km ESE of Anza, CA",earthquake,0.25,0.6,0.11,6,reviewed,ci,ci
 2024-10-18T13:05:48.790Z,33.3156667,-116.371,7.13,1.25,ml,60,45,0.0115,0.19,ci,ci40956016,2024-10-18T18:50:36.830Z,"7 km N of Borrego Springs, CA",earthquake,0.16,0.33,0.201,29,reviewed,ci,ci
 2024-10-18T13:05:23.890Z,19.050500869751,-155.36532592773,32.880001068115,2.13000011,md,54,211,0.1388,0.150000006,hv,hv74503016,2024-10-18T13:07:17.640Z,"20 km SE of Pāhala, Hawaii",earthquake,0.5,0.660000026,0.150000006,20,automatic,hv,hv
+2024-10-18T13:01:59.140Z,60.515166666667,-152.70933333333,6.4,-0.91,ml,7,157,0.02752,0.06,av,av93321298,2024-10-18T23:50:59.390Z,"77 km W of Salamatof, Alaska",earthquake,0.38,0.65,0.19733455067592,7,reviewed,av,av
 2024-10-18T12:57:51.628Z,58.1582,-154.2644,40.5,1.3,ml,,,,0.83,ak,ak024df4ev96,2024-10-18T12:59:23.274Z,"66 km N of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-10-18T12:55:22.140Z,46.870666666667,-121.96166666667,9.18,0.64,ml,23,153,0.00694,0.09,uw,uw62055266,2024-10-18T20:15:11.020Z,"13 km NNE of Ashford, Washington",earthquake,0.22,0.34,0.14308185267705,13,reviewed,uw,uw
 2024-10-18T12:48:06.940Z,54.14,-165.97366666667,2.99,-0.26,ml,7,89,0.01563,0.27,av,av93024454,2024-10-18T23:40:56.030Z,"12 km W of Akutan, Alaska",earthquake,0.37,0.77,0.2647243221635,7,reviewed,av,av
@@ -196,5 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-18T00:14:38.430Z,51.897,179.59616666667,9.71,0.08,ml,4,248,0.02178,0.13,av,av93320858,2024-10-18T17:16:26.780Z,"259 km W of Adak, Alaska",earthquake,0.94,0.76,0.34206631250516,4,reviewed,av,av
 2024-10-18T00:13:15.860Z,38.833999633789,-122.80249786377,1.2400000095367,0.65,md,8,72,0.01046,0.01,nc,nc75075611,2024-10-18T00:47:17.638Z,"7 km WNW of Cobb, CA",earthquake,0.37,1.38,0.07,9,automatic,nc,nc
 2024-10-18T00:04:28.920Z,62.5551,-152.1775,3.7,1.3,ml,,,,0.54,ak,ak024dewy9e5,2024-10-18T00:07:04.982Z,"72 km W of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-10-17T23:54:27.053Z,63.9448,-149.0291,0,2.3,ml,,,,0.68,ak,ak024ddneldd,2024-10-17T23:56:32.781Z,"9 km SSE of Ferry, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-10-17T23:53:55.460Z,33.3031667,-116.3283333,11.15,1.37,ml,53,47,0.0401,0.18,ci,ci40955816,2024-10-18T00:27:41.480Z,"7 km NE of Borrego Springs, CA",earthquake,0.19,0.32,0.194,24,reviewed,ci,ci
