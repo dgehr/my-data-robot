@@ -169,4 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-18T11:45:24.483Z,60.0732,-141.0845,9.7,3,ml,,,,0.58,ak,ak024df3qsyo,2024-10-19T05:44:12.040Z,"96 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-18T11:41:37.020Z,61.271,-152.192,23.8,-0.22,ml,6,121,0.01871,0.21,av,av93024439,2024-10-18T23:09:31.410Z,"61 km WNW of Tyonek, Alaska",earthquake,1.21,0.83,0.21926853519767,6,reviewed,av,av
 2024-10-18T11:38:51.701Z,32.411,-102.071,7.2754,1.5,ml,20,76,0,0.1,tx,tx2024umol,2024-10-18T12:38:16.189Z,"35 km WSW of Ackerly, Texas",earthquake,0.51486442482801,1.121628965176,0.1,22,reviewed,tx,tx
-2024-10-18T11:36:43.997Z,61.64,-148.0606,8.5,1.5,ml,,,,0.74,ak,ak024df3ox0v,2024-10-18T11:38:54.477Z,"27 km SE of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
