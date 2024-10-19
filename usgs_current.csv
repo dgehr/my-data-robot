@@ -135,4 +135,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-18T22:23:14.062Z,62.2406,-148.669,31.8,1.5,ml,,,,0.74,ak,ak024dfa5u26,2024-10-18T22:25:09.378Z,"50 km NNW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-18T22:17:13.890Z,19.416334152222,-155.26350402832,0.72000002861023,1.83000004,md,8,159,0.005438,0.170000002,hv,hv74503336,2024-10-18T22:18:44.520Z,"4 km SW of Volcano, Hawaii",earthquake,0.52,0.660000026,0.119999997,6,automatic,hv,hv
 2024-10-18T22:06:05.530Z,38.841331481934,-122.83866882324,1.9099999666214,1.05,md,11,117,0.003698,0.01,nc,nc75075906,2024-10-18T22:07:42.098Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.569999993,0.17,12,automatic,nc,nc
-2024-10-18T21:52:15.512Z,57.3769,-155.1717,45.3,2.2,ml,,,,0.76,ak,ak024df9qmbz,2024-10-18T22:12:52.040Z,"48 km WSW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
