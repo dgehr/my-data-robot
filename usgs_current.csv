@@ -135,4 +135,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-18T23:18:21.338Z,31.679,-104.194,4.4801,2,ml,21,105,0.1,0.4,tx,tx2024unlo,2024-10-18T23:30:41.144Z,"55 km NW of Toyah, Texas",earthquake,0,1.3591842651367,0.2,14,automatic,tx,tx
 2024-10-18T22:56:21.431Z,42.9402,142.145,114.073,4.3,mb,30,101,1.19,0.73,us,us6000nznc,2024-10-18T23:19:16.040Z,"18 km SE of Yūbari, Japan",earthquake,8.68,4.615,0.126,18,reviewed,us,us
 2024-10-18T22:49:17.420Z,19.4355,-154.86316666667,4.81,1.87,ml,30,217,0.05591,0.14,hv,hv74503366,2024-10-19T00:14:19.380Z,"6 km ESE of Leilani Estates, Hawaii",earthquake,0.69,1.03,0.21122611801762,7,reviewed,hv,hv
-2024-10-18T22:40:12.810Z,19.14066696167,-155.4538269043,33.240001678467,2.08999991,md,42,175,0.01663,0.140000001,hv,hv74503356,2024-10-18T22:41:49.710Z,"7 km SSE of Pāhala, Hawaii",earthquake,0.69,0.74000001,0.430000007,6,automatic,hv,hv
