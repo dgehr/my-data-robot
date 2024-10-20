@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-20T11:43:51.690Z,19.149833679199,-155.4803314209,31.389999389648,2.93000007,md,59,155,0.0181,0.129999995,hv,hv74504681,2024-10-20T11:45:49.110Z,"5 km S of Pāhala, Hawaii",earthquake,0.37,0.49000001,0.300000012,44,automatic,hv,hv
 2024-10-20T11:23:30.446Z,60.0641,-151.5121,35.7,1.9,ml,,,,0.34,ak,ak024dieosno,2024-10-20T11:24:48.075Z,"8 km E of Ninilchik, Alaska",earthquake,,5.1,,,automatic,ak,ak
 2024-10-20T10:50:22.810Z,33.5093333,-116.986,12.6,1,ml,62,33,0.06718,0.2,ci,ci40957520,2024-10-20T10:57:28.034Z,"13 km WNW of Aguanga, CA",earthquake,0.16,0.41,0.106,29,automatic,ci,ci
 2024-10-20T10:50:04.510Z,33.2926667,-116.2375,8.57,0.6,ml,39,80,0.09207,0.21,ci,ci40957512,2024-10-20T10:55:52.340Z,"13 km ENE of Borrego Springs, CA",earthquake,0.28,0.68,0.064,7,automatic,ci,ci
@@ -183,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-19T12:05:43.650Z,34.029,-117.2595,7.59,0.9,ml,46,49,0.0792,0.2,ci,ci40956680,2024-10-19T12:11:55.711Z,"2 km S of Loma Linda, CA",earthquake,0.21,0.67,0.119,22,automatic,ci,ci
 2024-10-19T11:56:13.745Z,61.2546,-152.2139,21.2,0.2,ml,,,,0.4,ak,ak024dgrchi6,2024-10-19T11:58:19.604Z,"61 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-19T11:54:15.230Z,34.0188333,-117.5905,4.46,1.38,ml,62,38,0.02,0.18,ci,ci40956672,2024-10-19T12:07:29.688Z,"5 km SE of Ontario, CA",earthquake,0.14,0.34,0.18,30,automatic,ci,ci
-2024-10-19T11:45:40.250Z,34.264,-117.0738333,2.43,0.78,ml,31,108,0.07991,0.15,ci,ci40956664,2024-10-19T11:56:00.627Z,"7 km NNE of Running Springs, CA",earthquake,0.22,0.57,0.242,12,automatic,ci,ci
