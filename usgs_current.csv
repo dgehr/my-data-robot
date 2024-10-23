@@ -258,4 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T00:07:30.140Z,34.0308333,-118.2021667,10.8,0.82,ml,18,156,0.02075,0.17,ci,ci40961224,2024-10-23T15:29:12.004Z,"3 km W of East Los Angeles, CA",earthquake,0.37,0.59,0.125,4,reviewed,ci,ci
 2024-10-23T00:05:49.310Z,19.356333333333,-155.12783333333,0.38,1,ml,21,175,0.02847,0.14,hv,hv74508581,2024-10-23T17:59:24.920Z,"12 km S of Fern Forest, Hawaii",earthquake,0.33,0.25,0.39524373059923,9,reviewed,hv,hv
 2024-10-22T23:59:25.981Z,34.9628,-103.9735,9.324,2.6,mb_lg,27,66,1.402,1.2,us,us7000nmit,2024-10-23T04:13:18.438Z,"29 km ESE of Newkirk, New Mexico",earthquake,3.41,7.243,0.068,57,reviewed,us,us
-2024-10-22T23:45:15.200Z,33.9738333,-117.2008333,11.98,0.56,ml,22,78,0.03521,0.17,ci,ci40961208,2024-10-23T19:25:06.063Z,"6 km NNE of Moreno Valley, CA",earthquake,0.28,0.73,0.086,10,reviewed,ci,ci
