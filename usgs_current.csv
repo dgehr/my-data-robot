@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T15:10:50.350Z,19.181833333333,-155.37633333333,30.9,1.51,md,24,216,0.1335,0.1,hv,hv74507721,2024-10-22T21:13:29.070Z,"11 km ESE of Pāhala, Hawaii",earthquake,0.77,0.77,0.031895451781562,6,reviewed,hv,hv
 2024-10-22T15:06:16.970Z,38.557666666667,-112.713,9.33,1.42,ml,23,79,0.08946,0.12,uu,uu80084861,2024-10-22T15:36:42.930Z,"31 km NE of Milford, Utah",earthquake,0.4,0.84,0.14119379927,5,reviewed,uu,uu
 2024-10-22T14:57:37.307Z,59.8432,-152.6586,92.7,1.9,ml,,,,0.67,ak,ak024dlrr3c2,2024-10-22T14:59:51.663Z,"47 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-10-22T14:55:21.700Z,39.347166666667,-123.24066666667,6.68,1.53,md,27,65,0.05399,0.09,nc,nc75077336,2024-10-23T10:07:18.204Z,"10 km  of Redwood Valley, CA",earthquake,0.17,0.45,0.15,20,reviewed,nc,nc
