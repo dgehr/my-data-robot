@@ -219,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T07:06:03.180Z,33.3905,-116.386,11.35,0.35,ml,28,78,0.06553,0.14,ci,ci40960040,2024-10-22T07:14:47.848Z,"15 km N of Borrego Springs, CA",earthquake,0.21,0.44,0.145,5,automatic,ci,ci
 2024-10-22T07:05:07.120Z,33.225,-116.048,3.43,0.97,ml,44,82,0.07571,0.23,ci,ci40960032,2024-10-22T07:12:50.549Z,"12 km SW of Salton City, CA",earthquake,0.21,0.41,0.145,19,automatic,ci,ci
 2024-10-22T07:04:01.290Z,33.224,-116.0476667,3.67,1.39,ml,55,71,0.07625,0.2,ci,ci40960024,2024-10-22T20:28:00.770Z,"12 km SW of Salton City, CA",earthquake,0.16,0.4,0.116,47,reviewed,ci,ci
-2024-10-22T06:50:52.760Z,47.105333333333,-111.964,5.73,1.49,ml,18,161,0.2606,0.22,mb,mb90064073,2024-10-22T14:42:23.350Z,"3 km N of Craig, Montana",earthquake,0.78,1.38,0.10217517972361,13,reviewed,mb,mb
