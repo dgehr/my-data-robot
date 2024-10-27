@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-27T19:24:37.670Z,33.3911667,-116.3475037,7.29,0.98,ml,18,104,0.04279,0.14,ci,ci40965832,2024-10-27T19:26:47.445Z,"15 km N of Borrego Springs, CA",earthquake,0.62,1.22,0.247,9,automatic,ci,ci
+2024-10-27T19:22:37.220Z,19.358999252319,-155.22866821289,29.110000610352,1.70000005,md,46,54,0.01836,0.119999997,hv,hv74515432,2024-10-27T19:24:23.860Z,"9 km S of Volcano, Hawaii",earthquake,0.47,0.400000006,0.209999993,11,automatic,hv,hv
 2024-10-27T18:48:57.176Z,31.691,-104.154,6.185,2.3,ml,19,147,0.1,0.6,tx,tx2024vdof,2024-10-27T19:05:54.002Z,"52 km W of Mentone, Texas",earthquake,0,3.1212866306305,0.2,14,automatic,tx,tx
 2024-10-27T18:45:34.370Z,19.319166183472,-155.21466064453,1.7400000095367,1.72,ml,37,82,0.0389,0.270000011,hv,hv74515392,2024-10-27T18:48:27.800Z,"13 km S of Volcano, Hawaii",earthquake,0.42,0.689999998,0.87,5,automatic,hv,hv
 2024-10-27T18:44:56.929Z,60.2238,-152.6664,104.3,1.7,ml,,,,0.61,ak,ak024du3qtfg,2024-10-27T18:47:22.414Z,"58 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -96,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-27T07:48:27.841Z,61.802,-150.1326,28.7,1.8,ml,,,,0.71,ak,ak024dtx7ufa,2024-10-27T07:51:03.195Z,"7 km NW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-27T07:46:52.380Z,19.17799949646,-155.48567199707,34.25,2.21000004,md,38,165,0.03163,0.129999995,hv,hv74514887,2024-10-27T07:48:23.820Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.84,0.959999979,0.200000003,5,automatic,hv,hv
 2024-10-27T07:45:24.970Z,17.838,-66.894,8.33,3.14,md,19,228,0.1342,0.14,pr,pr71463778,2024-10-27T08:18:03.760Z,"14 km S of Guánica, Puerto Rico",earthquake,0.42,0.9,0.14387624195098,15,reviewed,pr,pr
-2024-10-27T07:40:46.930Z,35.173,-118.931,10.56,2.35,ml,64,26,0.1695,0.23,ci,ci40965640,2024-10-27T08:03:32.650Z,"10 km S of Lamont, CA",earthquake,0.17,0.54,0.176,25,automatic,ci,ci
+2024-10-27T07:40:46.910Z,35.1723333,-118.9313333,10.49,2.43,ml,64,26,0.1688,0.22,ci,ci40965640,2024-10-27T19:30:00.463Z,"10 km S of Lamont, CA",earthquake,0.16,0.5,0.169,103,reviewed,ci,ci
 2024-10-27T07:40:04.858Z,62.6319,-151.4841,5.7,1.1,ml,,,,0.71,ak,ak024dtx635m,2024-10-27T07:42:57.593Z,"39 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-27T07:30:42.560Z,19.177333831787,-155.49783325195,31.200000762939,1.84000003,md,34,97,0.04019,0.119999997,hv,hv74514867,2024-10-27T07:32:15.320Z,"3 km SW of Pāhala, Hawaii",earthquake,0.59,0.709999979,0.140000001,4,automatic,hv,hv
 2024-10-27T07:26:50.204Z,37.3011,-116.7289,2.1,0.2,ml,10,196.2,0.312,0.1763,nn,nn00886883,2024-10-27T07:28:56.156Z,"43 km N of Beatty, Nevada",earthquake,,13.2,0.67,6,automatic,nn,nn
@@ -210,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-26T19:48:24.310Z,38.837665557861,-122.80816650391,1.8700000047684,1.07,md,18,58,0.01394,0.02,nc,nc75079301,2024-10-26T20:17:18.344Z,"8 km WNW of Cobb, CA",earthquake,0.25,0.49000001,0.19,18,automatic,nc,nc
 2024-10-26T19:41:26.410Z,35.8865,-98.356,7.87,1.88,ml,83,30,0,0.21,ok,ok2024vbuk,2024-10-26T20:28:20.269Z,"6 km NE of Watonga, Oklahoma",earthquake,,0.6,0.25,31,reviewed,ok,ok
 2024-10-26T19:34:55.430Z,38.820999145508,-122.80016326904,2.579999923706,0.95,md,15,90,0.008103,0.01,nc,nc75079291,2024-10-26T19:52:15.170Z,"6 km NNW of The Geysers, CA",earthquake,0.31,0.589999974,0.23,17,automatic,nc,nc
-2024-10-26T19:26:22.072Z,36.5986,-117.0572,8.1,1.3,ml,21,244.05,0.297,0.1648,nn,nn00886843,2024-10-26T19:28:33.494Z,"24 km NW of Furnace Creek, California",earthquake,,8.5,0.26,13,automatic,nn,nn
