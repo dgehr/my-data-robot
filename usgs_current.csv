@@ -165,7 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T00:36:22.591Z,36.7308,-116.0856,2.8,0.5,ml,29,54.68,0.025,0.1012,nn,nn00887103,2024-11-02T13:50:40.932Z,"41 km WNW of Indian Springs, Nevada",earthquake,,0.5,0.41,15,reviewed,nn,nn
 2024-11-02T00:27:48.640Z,38.788833618164,-122.76899719238,1.6200000047684,0.77,md,7,81,0.01383,0.01,nc,nc75081996,2024-11-02T00:47:20.277Z,"2 km NNW of The Geysers, CA",earthquake,0.83,1.01999998,0.17,7,automatic,nc,nc
 2024-11-02T00:27:18.395Z,60.7055,-151.7751,26.6,1.7,ml,,,,0.73,ak,ak024e3q5dcv,2024-11-02T00:29:03.730Z,"26 km W of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-11-02T00:19:24.000Z,35.978,-120.883,9.65,0.88,md,29,39,0.04704,0.09,nc,nc75081991,2024-11-02T17:59:10.638Z,"5 km SSE of San Ardo, CA",earthquake,0.21,0.37,0.181,15,reviewed,nc,nc
+2024-11-02T00:19:24.000Z,35.978,-120.883,9.65,0.88,md,29,39,0.04704,0.09,nc,nc75081991,2024-11-02T18:32:17.931Z,"5 km SSE of San Ardo, CA",earthquake,0.21,0.37,0.181,15,reviewed,nc,nc
 2024-11-02T00:11:01.661Z,60.3446,-152.7762,122.8,1.9,ml,,,,0.34,ak,ak024e3q1wly,2024-11-02T00:13:57.203Z,"69 km WNW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-11-01T23:57:23.438Z,37.2035,-114.5145,10.1,1.9,ml,16,189.79,0.867,0.5156,nn,nn00887102,2024-11-02T00:00:28.613Z,"45 km S of Caliente, Nevada",earthquake,,1.3,0.35,14,automatic,nn,nn
 2024-11-01T23:52:30.076Z,59.8911,-152.9028,111.7,2.3,ml,,,,0.38,ak,ak024e2ggdm1,2024-11-02T00:01:04.040Z,"61 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -222,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T18:40:52.720Z,61.275166666667,-152.24133333333,3.45,-0.67,ml,6,148,0.04283,0.05,av,av93025879,2024-11-02T03:24:57.760Z,"63 km WNW of Tyonek, Alaska",earthquake,0.26,0.39,0.29982777353195,7,reviewed,av,av
 2024-11-01T18:39:32.180Z,33.3125,-116.3206667,11.05,0.73,ml,27,99,0.04142,0.18,ci,ci40785735,2024-11-01T23:20:40.366Z,"8 km NE of Borrego Springs, CA",earthquake,0.27,0.46,0.173,14,reviewed,ci,ci
 2024-11-01T18:37:01.122Z,62.3933,-151.0598,63.5,1.7,ml,,,,0.74,ak,ak024e2ddxkw,2024-11-01T18:39:45.852Z,"19 km SW of Petersville, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2024-11-01T18:31:52.020Z,38.805332183838,-122.7808303833,2.6500000953674,0.77,md,7,122,0.007916,0.01,nc,nc75081891,2024-11-01T18:47:17.644Z,"4 km NNW of The Geysers, CA",earthquake,0.71,1.42999995,0.16,8,automatic,nc,nc
