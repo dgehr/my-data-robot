@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-11-02T20:37:30.940Z,33.3683319,-116.4261703,15.11,1.09,ml,24,85,0.09774,0.24,ci,ci40786455,2024-11-02T20:39:42.624Z,"13 km NNW of Borrego Springs, CA",earthquake,0.76,0.9,0.183,7,automatic,ci,ci
-2024-11-02T20:27:55.425Z,40.0571,-117.8481,6.8,3.5,ml,38,238.15,0.312,0.2929,nn,nn00887121,2024-11-02T20:31:47.389Z,"55 km ESE of Lovelock, Nevada",earthquake,,1,0.32,24,automatic,nn,nn
+2024-11-02T20:37:30.400Z,33.3703333,-116.372,10.27,0.93,ml,33,74,0.05282,0.17,ci,ci40786455,2024-11-02T20:44:54.109Z,"13 km N of Borrego Springs, CA",earthquake,0.33,0.59,0.208,27,automatic,ci,ci
+2024-11-02T20:27:57.775Z,39.9548,-117.8561,6.3,3,ml,6,126.1,0.232,0.071,nn,nn00887121,2024-11-02T20:49:21.418Z,"58 km ESE of Lovelock, Nevada",earthquake,,3.5,1.75,4,reviewed,nn,nn
 2024-11-02T20:19:56.740Z,33.3571667,-116.3715,11.44,1.17,ml,58,33,0.03057,0.2,ci,ci40786439,2024-11-02T20:26:47.626Z,"11 km N of Borrego Springs, CA",earthquake,0.18,0.3,0.185,27,automatic,ci,ci
 2024-11-02T20:03:53.072Z,61.3597,-152.3091,2.9,0.8,ml,,,,1.21,ak,ak024e41wyy3,2024-11-02T20:05:27.229Z,"70 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-02T19:59:15.189Z,12.545,-87.9507,68.502,5.1,mww,87,142,0.92,1.11,us,us7000npl2,2024-11-02T20:26:31.932Z,"58 km WSW of Jiquilillo, Nicaragua",earthquake,5.39,5.856,0.049,40,reviewed,us,us
