@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-08T16:47:04.230Z,57.2083,-154.6452,21.3,2.5,ml,,,,0.37,ak,ak024edx0n87,2024-11-08T16:48:57.711Z,"40 km NW of Akhiok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-08T16:23:58.155Z,-25.192,179.9105,512.241,4.5,mb,36,96,4.472,0.9,us,us7000nqmb,2024-11-08T16:37:44.040Z,"south of the Fiji Islands",earthquake,11.55,8.463,0.069,62,reviewed,us,us
-2024-11-08T16:23:02.579Z,56.8047,-155.6009,14.3,2.5,ml,,,,0.47,ak,ak024edwvhwx,2024-11-08T16:25:25.421Z,"88 km W of Akhiok, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-11-08T16:15:15.020Z,38.785999298096,-122.74700164795,1.3799999952316,0.87,md,10,94,0.008492,0.02,nc,nc75083996,2024-11-08T16:16:49.237Z,"1 km NE of The Geysers, CA",earthquake,0.3,0.670000017,0.15,9,automatic,nc,nc
+2024-11-08T16:23:02.579Z,56.8047,-155.6009,14.3,2.5,ml,,,,0.47,ak,ak024edwvhwx,2024-11-08T16:45:07.040Z,"88 km W of Akhiok, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-11-08T16:17:24.936Z,-25.1464,178.6394,577.205,4.6,mb,31,118,5.099,0.58,us,us7000nqm9,2024-11-08T16:41:21.040Z,"south of the Fiji Islands",earthquake,14.98,12.832,0.103,28,reviewed,us,us
+2024-11-08T16:15:15.020Z,38.785999298096,-122.74700164795,1.3799999952316,0.87,md,10,94,0.008492,0.02,nc,nc75083996,2024-11-08T16:42:16.939Z,"1 km NE of The Geysers, CA",earthquake,0.3,0.670000017,0.15,9,automatic,nc,nc
 2024-11-08T16:11:09.860Z,64.4879,-146.1475,12.3,1.5,ml,,,,0.33,ak,ak024edwsxvu,2024-11-08T16:12:31.983Z,"25 km ENE of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-08T16:10:27.514Z,38.1285,-118.0314,1.4,1.9,ml,13,153.75,0.079,0.3418,nn,nn00887341,2024-11-08T16:13:18.724Z,"29 km SSE of Mina, Nevada",earthquake,,1.6,0.34,7,automatic,nn,nn
 2024-11-08T16:04:34.790Z,19.289833068848,-155.43200683594,28.780000686646,1.96000004,md,12,100,0.06142,0.119999997,hv,hv74525502,2024-11-08T16:06:10.950Z,"10 km NNE of Pāhala, Hawaii",earthquake,0.9,0.790000021,0.25,3,automatic,hv,hv
@@ -180,4 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-07T17:05:03.610Z,17.921,-66.75,7.57,2.13,md,3,234,0.2233,0.16,pr,pr71465088,2024-11-07T17:58:06.810Z,"8 km SSW of Tallaboa, Puerto Rico",earthquake,9.36,7.07,0.040460807295418,3,reviewed,pr,pr
 2024-11-07T16:54:07.890Z,19.174833297729,-155.38433837891,29.5,2.03,ml,52,178,0.06357,0.140000001,hv,hv74524677,2024-11-07T16:57:01.790Z,"10 km ESE of Pāhala, Hawaii",earthquake,0.48,0.589999974,0.92,6,automatic,hv,hv
 2024-11-07T16:53:27.780Z,38.832164764404,-122.88249969482,2.0099999904633,0.93,md,14,129,0.006095,0.03,nc,nc75083586,2024-11-07T17:17:17.021Z,"12 km E of Cloverdale, CA",earthquake,0.34,0.469999999,0.19,17,automatic,nc,nc
-2024-11-07T16:42:04.957Z,-5.7029,154.4274,91.464,5.2,mww,54,100,2.71,0.77,us,us7000nqfp,2024-11-07T17:03:18.040Z,"135 km WNW of Panguna, Papua New Guinea",earthquake,7.36,6.862,0.071,19,reviewed,us,us
