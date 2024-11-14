@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-14T17:50:40.166Z,58.7366,-154.3824,111.6,2.2,ml,,,,1.36,ak,ak024enuuvpu,2024-11-14T17:53:53.348Z,"81 km SSE of Kokhanok, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-11-14T17:47:39.000Z,38.819831848145,-122.80783081055,3.3199999332428,0.82,md,7,74,0.003966,0.01,nc,nc75086401,2024-11-14T17:49:17.394Z,"6 km NNW of The Geysers, CA",earthquake,0.5,1.64999998,0.12,9,automatic,nc,nc
 2024-11-14T16:59:31.430Z,38.83466720581,-122.79816436768,1.9900000095367,1.04,md,19,56,0.00716,0.02,nc,nc75086391,2024-11-14T17:27:14.007Z,"7 km WNW of Cobb, CA",earthquake,0.21,0.430000007,0.08,19,automatic,nc,nc
 2024-11-14T16:54:32.230Z,38.792331695557,-122.78033447266,3.3499999046326,1.07,md,19,79,0.005986,0.02,nc,nc75086386,2024-11-14T17:17:16.244Z,"3 km NW of The Geysers, CA",earthquake,0.29,0.600000024,0.21,19,automatic,nc,nc
 2024-11-14T16:51:58.440Z,44.781,-111.49833333333,11.6,0.67,ml,11,73,0.06952,0.18,mb,mb90066018,2024-11-14T17:21:40.140Z,"24 km W of Hebgen Lake Estates, Montana",earthquake,0.43,0.71,0.22569997907142,4,reviewed,mb,mb
@@ -193,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T18:15:32.651Z,64.7942,-149.0867,16.5,1.1,ml,,,,0.27,ak,ak024em7pg6d,2024-11-13T18:18:26.638Z,"21 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-13T18:13:30.360Z,17.883833333333,-68.071,4.96,3.34,md,14,222,0.693,0.36,pr,pr71465588,2024-11-13T18:45:26.600Z,"78 km SE of Boca de Yuma, Dominican Republic",earthquake,2.29,1.7,0.092129997900019,9,reviewed,pr,pr
 2024-11-13T18:02:05.910Z,33.486,-116.5858333,5.79,0.23,ml,18,98,0.0162,0.08,ci,ci40792575,2024-11-13T18:19:31.420Z,"11 km SE of Anza, CA",earthquake,0.16,0.27,0.11,5,reviewed,ci,ci
-2024-11-13T17:53:18.990Z,58.178,-155.296,2.35,0.16,ml,11,100,0.03632,0.07,av,av93363763,2024-11-14T01:31:09.850Z,"84 km NW of Karluk, Alaska",earthquake,0.18,0.36,0.29767073388724,11,reviewed,av,av
