@@ -209,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T11:54:41.520Z,61.287333333333,-152.235,5.07,-0.53,ml,7,129,0.04443,0.11,av,av93374098,2024-11-22T01:49:23.020Z,"63 km WNW of Tyonek, Alaska",earthquake,1.01,1.48,0.15179392781641,7,reviewed,av,av
 2024-11-21T11:48:26.167Z,37.3949,-114.3288,9.6,2,ml,8,95.1,0.381,0.1726,nn,nn00887792,2024-11-21T17:48:16.102Z,"29 km SSE of Caliente, Nevada",earthquake,,11.3,0.39,6,reviewed,nn,nn
 2024-11-21T11:47:13.700Z,37.837501525879,-121.99883270264,8.25,1.86,md,20,53,0.02186,0.07,nc,nc75088796,2024-11-21T12:09:30.646Z,"2 km NNE of Danville, CA",earthquake,0.25,0.430000007,0.21,17,automatic,nc,nc
-2024-11-21T11:23:44.282Z,31.106,-103.762,8.5608,2,ml,18,68,0.2,0.1,tx,tx2024wwrc,2024-11-21T13:33:08.757Z,"13 km N of Balmorhea, Texas",earthquake,0.64634640576938,1.2638836942083,0.2,28,reviewed,tx,tx
-2024-11-21T11:19:21.411Z,-22.1029,-179.4158,584.867,4.8,mb,37,111,4.946,1.17,us,us6000p6r5,2024-11-21T11:37:52.040Z,"south of the Fiji Islands",earthquake,12.89,8.519,0.084,44,reviewed,us,us
