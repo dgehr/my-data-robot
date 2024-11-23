@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-11-23T07:42:51.990Z,33.5101662,-116.4625015,4.42,1.62,ml,54,75,0.07418,0.2,ci,ci40798687,2024-11-23T07:45:06.761Z,"20 km ESE of Anza, CA",earthquake,0.26,0.63,0.234,28,automatic,ci,ci
+2024-11-23T07:47:36.924Z,57.6792,-155.939,84.7,1.6,ml,,,,0.17,ak,ak024f2kq0po,2024-11-23T07:49:35.286Z,"89 km ENE of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-11-23T07:42:52.010Z,33.5085,-116.468,5.28,1.62,ml,81,28,0.07182,0.19,ci,ci40798687,2024-11-23T07:48:07.570Z,"20 km ESE of Anza, CA",earthquake,0.13,0.49,0.235,26,automatic,ci,ci
 2024-11-23T07:41:40.070Z,38.838333129883,-122.811668396,0.55000001192093,1.15,md,11,63,0.01497,0.03,nc,nc75089291,2024-11-23T07:43:18.927Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.75,0.22,12,automatic,nc,nc
 2024-11-23T07:13:58.645Z,58.1747,-155.3777,1.1,0.2,ml,,,,0.18,ak,ak024f2kis1k,2024-11-23T07:15:31.853Z,"86 km NW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-11-23T07:11:44.980Z,31.663,-104.327,5.5662,1.9,ml,25,58,0.1,0.3,tx,tx2024wzzt,2024-11-23T07:43:42.287Z,"57 km S of Whites City, New Mexico",earthquake,0,2.0835616588592,0.2,19,automatic,tx,tx
@@ -193,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T08:02:17.540Z,60.677,-152.64633333333,11.05,-0.11,ml,8,260,0.08855,0.07,av,av93374858,2024-11-22T23:54:02.560Z,"72 km W of Salamatof, Alaska",earthquake,0.49,0.69,0.2884706978853,8,reviewed,av,av
 2024-11-22T07:59:23.420Z,58.414833333333,-154.4605,9.26,0.57,ml,13,280,0.1528,0.17,av,av93374853,2024-11-22T23:50:20.430Z,"94 km N of Karluk, Alaska",earthquake,0.67,0.88,0.27937692171805,14,reviewed,av,av
 2024-11-22T07:55:01.876Z,3.9422,-85.9793,10,4.3,mb,35,160,5.942,0.97,us,us6000p6y8,2024-11-22T09:25:33.040Z,"off the coast of Central America",earthquake,10.43,1.955,0.111,23,reviewed,us,us
-2024-11-22T07:51:06.027Z,2.6393,128.2565,73.851,5.2,mb,77,35,2.057,1.08,us,us6000p6y6,2024-11-22T08:28:59.040Z,"104 km NNE of Tobelo, Indonesia",earthquake,7.84,6.625,0.041,191,reviewed,us,us
