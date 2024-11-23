@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-23T20:35:38.700Z,34.4636667,-117.9646667,8.17,1.82,ml,61,33,0.01656,0.19,ci,ci40798927,2024-11-23T20:42:01.726Z,"7 km SSE of Littlerock, CA",earthquake,0.16,0.36,0.212,27,automatic,ci,ci
 2024-11-23T20:32:04.370Z,19.054166793823,-155.35466003418,29.35000038147,1.89999998,md,31,213,0.1431,0.140000001,hv,hv74538607,2024-11-23T20:33:36.540Z,"21 km SE of Pāhala, Hawaii",earthquake,0.74,1.20000005,0.349999994,3,automatic,hv,hv
 2024-11-23T20:22:55.600Z,39.599166870117,-123.83200073242,-0.76999998092651,2.78,md,41,171,0.2116,0.23,nc,nc75089526,2024-11-23T20:37:19.047Z,"14 km SSW of Cape Vizcaino, CA",earthquake,0.6,2.67000008,0.12,33,automatic,nc,nc
 2024-11-23T20:20:17.570Z,33.7273333,-116.8421667,16.21,0.84,ml,34,69,0.07902,0.21,ci,ci40798903,2024-11-23T20:24:37.623Z,"5 km ESE of Valle Vista, CA",earthquake,0.28,0.53,0.197,24,automatic,ci,ci
