@@ -206,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-23T04:58:52.448Z,2.2341,128.1056,167.834,4.6,mb,20,170,1.63,0.63,us,us6000p76u,2024-11-23T05:15:42.040Z,"56 km N of Tobelo, Indonesia",earthquake,12.86,9.57,0.151,14,reviewed,us,us
 2024-11-23T04:56:25.290Z,38.826332092285,-122.80516815185,11.14999961853,0.64,md,8,211,0.004826,0.08,nc,nc75089276,2024-11-23T05:17:16.647Z,"7 km NNW of The Geysers, CA",earthquake,1.62,2.21000004,0.33,9,automatic,nc,nc
 2024-11-23T04:47:25.872Z,59.6578,-151.5216,51.6,2.5,ml,,,,0.17,ak,ak024f2ixp1n,2024-11-23T05:07:31.040Z,"2 km NE of Homer, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-11-23T04:34:51.400Z,19.166999816894,-155.4734954834,29.819999694824,2.3499999,md,24,245,0.01577,0.189999998,hv,hv74538032,2024-11-23T04:36:33.960Z,"4 km S of Pāhala, Hawaii",earthquake,0.94,0.939999998,0.280000001,3,automatic,hv,hv
