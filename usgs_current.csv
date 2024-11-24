@@ -125,7 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-24T08:58:45.450Z,38.82500076294,-122.76633453369,2.1400001049042,0.76,md,9,122,0.006136,0.01,nc,nc75089736,2024-11-24T09:22:18.152Z,"4 km WNW of Cobb, CA",earthquake,0.34,0.569999993,0.05,10,automatic,nc,nc
 2024-11-24T08:54:08.650Z,19.252666473389,-155.41833496094,32.709999084473,1.78999996,md,38,94,0.0248,0.109999999,hv,hv74539162,2024-11-24T08:56:42.640Z,"8 km NE of Pāhala, Hawaii",earthquake,0.52,0.569999993,0.330000013,5,automatic,hv,hv
 2024-11-24T08:53:06.390Z,65.0089,-148.9906,11.8,0.9,ml,,,,0.28,ak,ak024f48w0r3,2024-11-24T08:54:49.166Z,"23 km SE of Minto, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2024-11-24T08:49:51.380Z,35.0898333,-119.092,11.42,1.41,ml,38,76,0.03188,0.22,ci,ci40799159,2024-11-24T08:54:11.922Z,"22 km NW of Grapevine, CA",earthquake,0.27,0.63,0.125,27,automatic,ci,ci
+2024-11-24T08:49:51.260Z,35.0931667,-119.0965,12.03,1.49,ml,32,83,0.03603,0.2,ci,ci40799159,2024-11-24T20:57:31.667Z,"22 km NW of Grapevine, CA",earthquake,0.3,0.61,0.138,31,reviewed,ci,ci
 2024-11-24T08:37:25.835Z,60.228,-151.2781,52.5,1.3,ml,,,,0.35,ak,ak024f48smsn,2024-11-24T08:39:32.798Z,"6 km E of Clam Gulch, Alaska",earthquake,,2,,,automatic,ak,ak
 2024-11-24T08:36:39.610Z,35.895,-117.7023333,9.6,0.21,ml,12,68,0.06756,0.08,ci,ci40799151,2024-11-24T14:10:44.099Z,"19 km ESE of Little Lake, CA",earthquake,0.19,0.52,0.18,3,reviewed,ci,ci
 2024-11-24T08:31:10.650Z,36.69383333,-97.68533333,7.27,3.31,ml,91,40,0,0.19,ok,ok2024xbxw,2024-11-24T16:30:07.993Z,"9 km ESE of Jefferson, Oklahoma",earthquake,,0.5,0.21,40,reviewed,ok,ok
@@ -235,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-23T21:08:25.542Z,60.3529,-150.9099,51.8,1.4,ml,,,,0.28,ak,ak024f2stpdm,2024-11-23T21:10:23.806Z,"17 km SSE of Soldotna, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-11-23T21:04:13.520Z,38.803001403809,-122.77933502197,1.6100000143051,0.45,md,7,146,0.0103,0.05,nc,nc75089541,2024-11-23T21:24:29.258Z,"3 km NNW of The Geysers, CA",earthquake,0.53,1.03999996,0.24,9,automatic,nc,nc
 2024-11-23T21:03:52.076Z,60.6962,-150.313,47.8,1.5,ml,,,,0.44,ak,ak024f2ssouf,2024-11-23T21:05:34.385Z,"30 km NE of Sterling, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-11-23T20:53:53.550Z,61.097,-150.5192,51.1,2.3,ml,,,,0.56,ak,ak024f2shz4x,2024-11-24T01:10:27.733Z,"21 km NNE of Point Possession, Alaska",earthquake,,1.3,,,reviewed,ak,ak
