@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-11-29T22:28:24.130Z,38.83483505249,-122.797996521,1.8799999952316,1.02,md,15,59,0.006961,0.02,nc,nc75092651,2024-11-29T22:30:03.273Z,"7 km WNW of Cobb, CA",earthquake,0.26,0.439999998,0.23,16,automatic,nc,nc
+2024-11-29T22:28:24.130Z,38.83483505249,-122.797996521,1.8799999952316,1.02,md,15,59,0.006961,0.02,nc,nc75092651,2024-11-29T22:47:18.735Z,"7 km WNW of Cobb, CA",earthquake,0.26,0.439999998,0.23,16,automatic,nc,nc
 2024-11-29T22:18:16.673Z,61.4168,-147.8248,19.7,2.4,ml,,,,0.63,ak,ak024fcqpce2,2024-11-29T22:19:50.716Z,"44 km SSW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-29T22:10:04.027Z,62.1376,-144.8822,19.7,1.4,ml,,,,0.48,ak,ak024fcqnlpu,2024-11-29T22:11:46.222Z,"27 km ENE of Silver Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-29T21:51:14.750Z,38.837665557861,-122.79350280762,1.9700000286102,0.37,md,7,182,0.002576,0.01,nc,nc75092646,2024-11-29T22:07:18.469Z,"6 km WNW of Cobb, CA",earthquake,1.32,1.33000004,0.22,7,automatic,nc,nc
