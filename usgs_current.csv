@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-30T06:52:12.453Z,60.6392,-146.8142,20,2.3,ml,,,,0.64,ak,ak024fe4x19d,2024-11-30T06:54:04.971Z,"26 km SSW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-30T06:28:39.440Z,36.487998962402,-121.09666442871,-0.0099999997764826,1.42,md,11,119,0.1013,0.32,nc,nc75092846,2024-11-30T06:30:17.638Z,"6 km SSE of Pinnacles, CA",earthquake,1.07,12.1000004,0.3,7,automatic,nc,nc
 2024-11-30T06:04:57.540Z,37.479167938232,-118.42250061035,0.5,1.62,md,12,168,0.07073,0.04,nc,nc75092841,2024-11-30T06:06:33.498Z,"10 km N of Dixon Lane-Meadow Creek, CA",earthquake,0.88,6.5,0.19,9,automatic,nc,nc
 2024-11-30T05:59:44.297Z,63.7315,-149.4447,119.4,1.5,ml,,,,0.26,ak,ak024fe4d64d,2024-11-30T06:01:59.543Z,"26 km W of Denali Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
