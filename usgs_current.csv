@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-02T14:49:15.260Z,38.837833404541,-122.82816314697,2.0099999904633,0.19,md,7,111,0.005769,0.01,nc,nc75094031,2024-12-02T14:50:54.908Z,"9 km NNW of The Geysers, CA",earthquake,0.51,1.32000005,0.09,9,automatic,nc,nc
 2024-12-02T14:34:43.709Z,37.3521,-117.1429,2.1,0.5,ml,8,131.52,0.107,0.33,nn,nn00888184,2024-12-02T14:37:20.211Z,"40 km SSE of Goldfield, Nevada",earthquake,,2.6,0.41,5,automatic,nn,nn
 2024-12-02T14:31:51.670Z,38.840167999268,-122.83166503906,1.1599999666214,0.71,md,14,84,0.003376,0.01,nc,nc75094026,2024-12-02T14:33:28.698Z,"10 km NNW of The Geysers, CA",earthquake,0.24,0.569999993,0.3,14,automatic,nc,nc
-2024-12-02T14:31:05.230Z,38.840000152588,-122.83383178711,1.3600000143051,2.21,md,9,148,0.001912,0.01,nc,nc75094021,2024-12-02T14:32:43.522Z,"10 km NNW of The Geysers, CA",earthquake,0.45,0.5,0.48,9,automatic,nc,nc
+2024-12-02T14:31:05.230Z,38.840000152588,-122.83383178711,1.3600000143051,2.21,md,9,148,0.001912,0.01,nc,nc75094021,2024-12-02T14:47:19.661Z,"10 km NNW of The Geysers, CA",earthquake,0.45,0.5,0.48,9,automatic,nc,nc
 2024-12-02T14:23:25.620Z,19.153165817261,-155.46466064453,33.209999084473,2.27999997,md,36,172,0.003287,0.180000007,hv,hv74551652,2024-12-02T14:25:15.230Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.65,0.810000002,0.129999995,3,automatic,hv,hv
 2024-12-02T14:19:08.398Z,62.5982,-149.6145,14.8,1.6,ml,,,,0.46,ak,ak024fhkjzvg,2024-12-02T14:21:32.053Z,"30 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-02T14:09:35.827Z,60.9777,-149.3003,23.7,1.5,ml,,,,0.54,ak,ak024fhki11o,2024-12-02T14:12:30.296Z,"8 km WNW of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -98,7 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T01:04:36.880Z,34.5946667,-116.6221667,2.81,1.43,ml,36,58,0.04909,0.15,ci,ci40991592,2024-12-02T01:16:04.170Z,"36 km ENE of Lucerne Valley, CA",earthquake,0.19,0.32,0.139,29,automatic,ci,ci
 2024-12-02T01:01:11.971Z,13.121,146.8706,10,5,mb,51,119,2.004,0.89,us,us7000nvcm,2024-12-02T13:11:19.062Z,"219 km ESE of Yigo Village, Guam",earthquake,6.22,1.906,0.097,34,reviewed,us,us
 2024-12-02T00:56:17.620Z,35.0321667,-117.6835,-0.83,1.59,ml,46,39,0.09811,0.23,ci,ci40991584,2024-12-02T01:00:11.166Z,"5 km NW of Boron, CA",earthquake,0.3,0.63,0.097,27,automatic,ci,ci
-2024-12-02T00:45:56.401Z,39.3232,-99.7642,9.344,2.7,mb_lg,25,50,0.509,0.75,us,us7000nvcj,2024-12-02T03:33:47.858Z,"7 km SW of Bogue, Kansas",earthquake,4,7.896,0.086,35,reviewed,us,us
+2024-12-02T00:45:56.401Z,39.3232,-99.7642,9.344,2.7,mb_lg,25,50,0.509,0.75,us,us7000nvcj,2024-12-02T14:44:47.986Z,"7 km SW of Bogue, Kansas",earthquake,4,7.896,0.086,35,reviewed,us,us
 2024-12-02T00:34:12.800Z,19.285833358765,-155.80183410644,7.7300000190735,1.83000004,md,38,105,0.06729,0.230000004,hv,hv74550797,2024-12-02T00:36:20.890Z,"19 km SSE of Honaunau-Napoopoo, Hawaii",earthquake,0.55,0.550000012,0.170000002,12,automatic,hv,hv
 2024-12-02T00:29:30.320Z,62.2206,-150.7855,66.7,2.5,ml,,,,0.49,ak,ak024fhca8ix,2024-12-02T00:40:47.146Z,"30 km WSW of Trapper Creek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-02T00:27:38.934Z,61.4925,-149.9286,34.5,2.8,ml,,,,0.26,ak,ak024fhc9tr9,2024-12-02T00:44:33.040Z,"3 km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -170,4 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-01T15:29:40.570Z,19.863832473755,-155.55616760254,20.120000839233,2.50999999,md,54,106,0.09561,0.150000006,hv,hv74550172,2024-12-01T15:45:33.382Z,"21 km SE of Waimea, Hawaii",earthquake,0.37,0.689999998,0.589999974,10,automatic,hv,hv
 2024-12-01T15:29:10.938Z,61.4317,-151.278,59.8,1.7,ml,,,,0.34,ak,ak024ffxoclx,2024-12-01T15:31:11.021Z,"34 km NNW of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-12-01T14:55:45.250Z,33.0413333,-116.3933333,9.01,1.1,ml,48,44,0.05202,0.2,ci,ci40991368,2024-12-01T15:06:33.610Z,"20 km ESE of Julian, CA",earthquake,0.2,0.49,0.212,28,automatic,ci,ci
-2024-12-01T14:44:54.175Z,51.7705,178.4212,107.6,3.7,ml,,,,0.42,ak,ak024ffx685m,2024-12-01T20:05:18.557Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.4,,,reviewed,ak,ak
