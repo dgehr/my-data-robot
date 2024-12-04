@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T10:06:04.530Z,31.687,-104.101,4.8101,1.9,ml,24,79,0,0.3,tx,tx2024xuip,2024-12-04T10:31:29.136Z,"47 km W of Mentone, Texas",earthquake,0,1.0922012329102,0.2,18,automatic,tx,tx
 2024-12-04T09:50:25.710Z,38.666999816895,-122.75866699219,5.9200000762939,1.71,md,32,51,0.04368,0.08,nc,nc75094911,2024-12-04T10:09:31.302Z,"11 km ENE of Healdsburg, CA",earthquake,0.24,0.649999976,0.17,29,automatic,nc,nc
 2024-12-04T09:35:08.587Z,63.5501,-147.5854,0,1.7,ml,,,,0.91,ak,ak024fksr2kq,2024-12-04T09:36:56.839Z,"68 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-12-04T09:35:07.980Z,19.7091,-65.3848,16,3.89,md,21,252,1.4053,0.38,pr,pr2024339001,2024-12-04T10:03:19.040Z,"149 km NNE of Vieques, Puerto Rico",earthquake,2.66,5.83,0.1,20,reviewed,pr,pr
+2024-12-04T09:35:07.980Z,19.7091,-65.3848,16,3.89,md,21,252,1.4053,0.38,pr,pr2024339001,2024-12-04T11:34:04.778Z,"149 km NNE of Vieques, Puerto Rico",earthquake,2.66,5.83,0.1,20,reviewed,pr,pr
 2024-12-04T09:12:03.266Z,31.659,-104.071,5.6681,2.2,ml,16,120,0,0.3,tx,tx2024xugr,2024-12-04T09:22:50.611Z,"45 km W of Mentone, Texas",earthquake,0,2.4693274497986,0.1,12,automatic,tx,tx
 2024-12-04T09:09:09.980Z,35.9112,31.6536,46.593,4.6,mb,55,76,1.638,0.88,us,us7000nvuc,2024-12-04T11:03:08.871Z,"71 km SW of Gazipaşa, Turkey",earthquake,5.99,11.74,0.094,34,reviewed,us,us
 2024-12-04T09:05:00.540Z,35.6091667,-117.4743333,9.2,0.69,ml,22,49,0.02468,0.13,ci,ci40993424,2024-12-04T09:09:03.933Z,"18 km E of Ridgecrest, CA",earthquake,0.2,0.4,0.185,7,automatic,ci,ci
@@ -103,7 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T02:39:13.780Z,19.076,-66.5695,39,3.6,md,20,248,0.6002,0.41,pr,pr2024339000,2024-12-04T02:56:22.393Z,"68 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.36,5.77,0.07,18,reviewed,pr,pr
 2024-12-04T02:04:46.498Z,61.67,-149.4609,33.9,2.5,ml,,,,0.46,ak,ak024fkoeh2h,2024-12-04T02:17:21.040Z,"5 km NNW of Tanaina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-04T02:02:39.770Z,36.186,-118.0538333,1.8,0.87,ml,21,60,0.1749,0.19,ci,ci40993200,2024-12-04T02:20:38.216Z,"12 km SSW of Olancha, CA",earthquake,0.23,0.99,0.162,9,automatic,ci,ci
-2024-12-04T01:56:57.937Z,18.3418,80.4451,10,5,mb,63,52,9.886,0.79,us,us7000nvs3,2024-12-04T09:47:04.909Z,"55 km ENE of Mulugu, India",earthquake,10.44,1.894,0.064,77,reviewed,us,us
+2024-12-04T01:56:57.937Z,18.3418,80.4451,10,5,mb,63,52,9.886,0.79,us,us7000nvs3,2024-12-04T11:31:04.739Z,"55 km ENE of Mulugu, India",earthquake,10.44,1.894,0.064,77,reviewed,us,us
 2024-12-04T01:33:21.645Z,37.026,-116.3855,8.1,0,ml,8,78.92,0.031,0.0635,nn,nn00888249,2024-12-04T01:35:27.328Z,"35 km ENE of Beatty, Nevada",earthquake,,1,0.58,6,automatic,nn,nn
 2024-12-04T01:26:23.220Z,35.9226667,-117.676,3.18,1.13,ml,28,46,0.03265,0.13,ci,ci40993192,2024-12-04T01:29:50.875Z,"21 km E of Little Lake, CA",earthquake,0.14,0.34,0.138,18,automatic,ci,ci
 2024-12-04T01:17:42.370Z,19.328832626343,-155.19166564941,3.329999923706,1.77999997,md,45,110,0.05006,0.209999993,hv,hv74555137,2024-12-04T01:19:15.760Z,"13 km SSE of Volcano, Hawaii",earthquake,0.36,1.07000005,0.289999992,24,automatic,hv,hv
