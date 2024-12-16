@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-16T09:06:02.030Z,38.8125,-122.76300048828,11.85000038147,1.05,md,10,183,0.01213,0.12,nc,nc75103876,2024-12-16T09:07:40.137Z,"4 km W of Cobb, CA",earthquake,2.65,9.97999954,0.27,11,automatic,nc,nc
+2024-12-16T08:58:16.050Z,33.8986667,-116.283,6.41,0.92,ml,51,49,0.09498,0.17,ci,ci41002600,2024-12-16T09:03:49.121Z,"13 km NE of Thousand Palms, CA",earthquake,0.17,0.52,0.232,27,automatic,ci,ci
+2024-12-16T08:57:31.200Z,33.8955,-116.2896667,5.22,0.85,ml,29,63,0.1088,0.14,ci,ci41002592,2024-12-16T09:02:02.108Z,"12 km NE of Thousand Palms, CA",earthquake,0.16,0.36,0.186,24,automatic,ci,ci
 2024-12-16T08:50:02.480Z,38.808666229248,-122.77383422852,1.6900000572205,0.77,md,11,118,0.007048,0.02,nc,nc75103871,2024-12-16T08:51:39.870Z,"4 km NNW of The Geysers, CA",earthquake,0.34,0.74000001,0.04,11,automatic,nc,nc
 2024-12-16T08:43:29.131Z,61.3319,-152.2721,4.7,0.9,ml,,,,0.32,ak,ak024g4mnk7l,2024-12-16T08:45:15.526Z,"67 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-16T08:39:04.400Z,19.257165908814,-155.35066223144,29.120000839233,1.92999995,md,48,165,0.04838,0.140000001,hv,hv74567447,2024-12-16T08:40:54.690Z,"14 km ENE of Pāhala, Hawaii",earthquake,0.64,0.479999989,0.300000012,5,automatic,hv,hv
@@ -19,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-16T07:05:31.280Z,40.385665893555,-125.03500366211,8.3500003814697,3.09,ml,43,262,0.5381,0.24,nc,nc75103841,2024-12-16T08:47:19.035Z,"64 km WNW of Petrolia, CA",earthquake,3.43,3.5999999,0.146,6,automatic,nc,nc
 2024-12-16T06:57:33.450Z,19.146499633789,-155.48333740234,33.069999694824,2.32,ml,60,160,0.02194,0.129999995,hv,hv74567307,2024-12-16T07:00:25.110Z,"6 km S of Pāhala, Hawaii",earthquake,0.39,0.479999989,0.65,12,automatic,hv,hv
 2024-12-16T06:48:57.412Z,31.634,-104.074,7.3692,2.7,ml,8,116,0,0.2,tx,tx2024ypzp,2024-12-16T07:02:03.501Z,"44 km NW of Toyah, Texas",earthquake,0,4.2777061462402,0.3,6,automatic,tx,tx
-2024-12-16T06:48:17.706Z,31.634,-104.027,6.7151,3.2,ml,33,41,0,0.1,tx,tx2024ypzo,2024-12-16T07:03:06.535Z,"41 km W of Mentone, Texas",earthquake,0.37644642541341,0.33876731563168,0.2,33,reviewed,tx,tx
+2024-12-16T06:48:17.706Z,31.634,-104.027,6.7151,3.2,ml,33,41,0,0.1,tx,tx2024ypzo,2024-12-16T08:52:52.983Z,"41 km W of Mentone, Texas",earthquake,0.37644642541341,0.33876731563168,0.2,33,reviewed,tx,tx
 2024-12-16T06:40:27.099Z,64.1936,-148.0824,0,1.7,ml,,,,0.4,ak,ak024g4lg1p1,2024-12-16T06:42:31.509Z,"53 km E of Clear, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-16T06:39:01.600Z,38.843166351318,-122.87999725342,2.4500000476837,1.12,md,17,98,0.005626,0.02,nc,nc75103836,2024-12-16T08:32:17.924Z,"13 km E of Cloverdale, CA",earthquake,0.33,0.519999981,0.14,18,automatic,nc,nc
 2024-12-16T06:37:37.574Z,39.148,-119.0567,5.5,1.3,ml,9,86.24,0.217,0.1798,nn,nn00889748,2024-12-16T06:39:38.024Z,"20 km NNE of Yerington, Nevada",earthquake,,1.9,0.23,7,automatic,nn,nn
@@ -267,5 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-15T09:15:34.610Z,38.793834686279,-122.75533294678,0.47999998927116,0.79,md,16,87,0.007595,0.03,nc,nc75103401,2024-12-15T09:32:17.159Z,"2 km NNE of The Geysers, CA",earthquake,0.22,0.550000012,0.1,15,automatic,nc,nc
 2024-12-15T09:14:31.370Z,19.242332458496,-155.35899353027,30.809999465942,2.19000006,md,45,156,0.0367,0.150000006,hv,hv74565912,2024-12-15T09:16:18.930Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.48,0.419999987,0.129999995,7,automatic,hv,hv
 2024-12-15T09:12:08.603Z,56.8187,-155.9525,58.4,2.4,ml,,,,0.42,ak,ak024g2ziyjg,2024-12-15T10:46:26.040Z,"109 km W of Akhiok, Alaska",earthquake,,3.9,,,automatic,ak,ak
-2024-12-15T09:05:00.435Z,39.1735,-119.0163,6.5,1.4,ml,16,117.04,0.018,0.1794,nn,nn00889685,2024-12-16T02:05:11.958Z,"24 km NNE of Yerington, Nevada",earthquake,,0.8,0.2,8,reviewed,nn,nn
-2024-12-15T08:57:44.564Z,61.0381,-152.3561,101.9,1.1,ml,,,,0.2,ak,ak024g2z78xk,2024-12-15T08:59:20.013Z,"65 km W of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
