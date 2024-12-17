@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-17T07:33:46.010Z,34.0368347,-117.248497,15.55,1.85,ml,100,27,0.0741,0.19,ci,ci41003384,2024-12-17T07:35:53.487Z,"2 km SE of Loma Linda, CA",earthquake,0.17,0.29,0.196,26,automatic,ci,ci
+2024-12-17T07:33:45.950Z,34.0383333,-117.247,16.2,1.87,ml,111,14,0.07322,0.17,ci,ci41003384,2024-12-17T07:37:52.902Z,"2 km SE of Loma Linda, CA",earthquake,0.11,0.25,0.141,27,automatic,ci,ci
 2024-12-17T07:28:29.691Z,61.7309,-146.8203,70.5,1.8,ml,,,,0.62,ak,ak024g69i9eh,2024-12-17T07:30:45.652Z,"29 km S of Nelchina, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-12-17T07:21:30.814Z,62.9969,-149.2715,68.1,1.3,ml,,,,0.37,ak,ak024g69grh5,2024-12-17T07:24:28.407Z,"46 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-12-17T07:20:03.660Z,38.838665008545,-122.82216644287,15.10000038147,0.84,md,10,166,0.016,0.11,nc,nc75104416,2024-12-17T07:21:41.781Z,"9 km WNW of Cobb, CA",earthquake,2.39,10.7399998,0.16,11,automatic,nc,nc
+2024-12-17T07:20:03.660Z,38.838665008545,-122.82216644287,15.10000038147,0.84,md,10,166,0.016,0.11,nc,nc75104416,2024-12-17T07:37:17.504Z,"9 km WNW of Cobb, CA",earthquake,2.39,10.7399998,0.16,11,automatic,nc,nc
 2024-12-17T07:17:52.258Z,-60.3241,-28.6733,10,5.2,mb,35,67,7.384,0.88,us,us7000nzhh,2024-12-17T07:33:03.040Z,"South Sandwich Islands region",earthquake,11.3,1.906,0.079,53,reviewed,us,us
 2024-12-17T07:17:29.320Z,32.9166667,-116.2395,8.15,0.64,ml,33,45,0.1541,0.17,ci,ci41003368,2024-12-17T07:21:25.512Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.2,1.77,0.11,7,automatic,ci,ci
 2024-12-17T07:16:11.554Z,61.6248,-151.2417,66.2,1.8,ml,,,,0.5,ak,ak024g69fner,2024-12-17T07:18:06.831Z,"39 km WNW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -69,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T01:53:13.108Z,-17.7548,167.9646,48.726,5.5,mb,17,81,2.408,0.75,us,us7000nzf4,2024-12-17T03:55:58.905Z,"37 km W of Port-Vila, Vanuatu",earthquake,8.7,8.076,0.163,13,reviewed,us,us
 2024-12-17T01:47:26.347Z,-17.6859,168.0338,57.094,7.3,mww,121,30,2.364,1.19,us,us7000nzf3,2024-12-17T04:53:33.948Z,"30 km W of Port-Vila, Vanuatu",earthquake,5.87,4.465,0.036,73,reviewed,us,us
 2024-12-17T01:35:32.200Z,34.9086667,-119.0471667,15.42,1.24,ml,30,65,0.0898,0.2,ci,ci41003280,2024-12-17T01:40:21.706Z,"11 km WSW of Grapevine, CA",earthquake,0.23,0.64,0.209,24,automatic,ci,ci
-2024-12-17T01:28:16.190Z,40.329333333333,-124.9225,8.58,3.77,mw,133,232,0.4453,0.28,nc,nc75104246,2024-12-17T07:22:16.408Z,"54 km WNW of Petrolia, CA",earthquake,0.5,0.79,,6,reviewed,nc,nc
+2024-12-17T01:28:16.190Z,40.329333333333,-124.9225,8.58,3.77,mw,133,232,0.4453,0.28,nc,nc75104246,2024-12-17T07:42:16.701Z,"54 km WNW of Petrolia, CA",earthquake,0.5,0.79,,6,reviewed,nc,nc
 2024-12-17T01:20:38.230Z,38.845832824707,-122.83583068848,12.14999961853,0.82,md,10,229,0.03011,0.09,nc,nc75104241,2024-12-17T01:22:14.001Z,"10 km WNW of Cobb, CA",earthquake,1.86,7.71999979,0.06,10,automatic,nc,nc
 2024-12-17T01:19:34.790Z,38.780834197998,-122.75933074951,1.2999999523163,1.06,md,13,83,0.01783,0.02,nc,nc75104236,2024-12-17T01:52:16.113Z,"0 km NNW of The Geysers, CA",earthquake,0.22,0.460000008,0.29,13,automatic,nc,nc
 2024-12-17T01:09:17.690Z,40.263832092285,-123.80466461182,28.85000038147,3.32,ml,42,33,0.02871,0.11,nc,nc75104211,2024-12-17T03:07:17.733Z,"16 km NNE of Redway, CA",earthquake,0.28,0.689999998,0.302,5,automatic,nc,nc
