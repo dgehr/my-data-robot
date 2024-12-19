@@ -284,4 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-18T04:09:12.892Z,-20.2093,-70.0146,58.528,5.2,mww,103,78,0.125,1.26,us,us7000nzpr,2024-12-19T00:20:32.787Z,"11 km NE of Alto Hospicio, Chile",earthquake,6.35,5.36,0.066,22,reviewed,us,us
 2024-12-18T04:02:14.480Z,17.984666666667,-66.835166666667,16.72,2.03,md,6,183,0.04304,0.06,pr,pr71468848,2024-12-18T04:10:28.580Z,"1 km WSW of Indios, Puerto Rico",earthquake,1.57,0.59,0.20978328223719,5,reviewed,pr,pr
 2024-12-18T04:00:16.300Z,44.343833333333,-110.84216666667,6.99,1.13,md,12,106,0.07768,0.2,uu,uu80098011,2024-12-18T14:28:37.020Z,"41 km SSE of West Yellowstone, Montana",earthquake,0.65,1.19,0.37124949549833,8,reviewed,uu,uu
-2024-12-18T03:58:45.210Z,44.343166666667,-110.84433333333,7.75,1.02,md,9,100,0.07761,0.2,uu,uu80002488,2024-12-18T22:19:27.320Z,"41 km SSE of West Yellowstone, Montana",earthquake,0.71,1.03,0.27318909670976,6,reviewed,uu,uu
