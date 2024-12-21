@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-20T21:51:26.428Z,4.0073,125.8812,147.856,4.9,mb,31,68,3.057,0.9,us,us7000p0hq,2024-12-20T22:15:13.040Z,"161 km SSE of Sarangani, Philippines",earthquake,9.5,8.438,0.119,22,reviewed,us,us
 2024-12-20T21:40:41.740Z,31.714,-104.28,4.3013,2,ml,20,121,0,0.4,tx,tx2024yylk,2024-12-20T21:45:11.862Z,"52 km S of Whites City, New Mexico",earthquake,0,1.4458757638931,0.1,16,automatic,tx,tx
 2024-12-20T21:39:16.726Z,31.655,-104.37,4.6172,2.1,ml,16,70,0.1,0.2,tx,tx2024yyli,2024-12-20T21:53:59.938Z,"57 km S of Whites City, New Mexico",earthquake,0,1.3891068696976,0.1,12,automatic,tx,tx
-2024-12-20T21:32:27.630Z,36.560333251953,-121.16883087158,2.4400000572205,1.42,md,9,73,0.01751,0.17,nc,nc75106001,2024-12-20T21:52:14.616Z,"4 km NNW of Pinnacles, CA",earthquake,0.6,1,0.11,7,automatic,nc,nc
