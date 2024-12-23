@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-23T22:56:10.850Z,38.83466720581,-122.79933166504,1.7300000190735,1.3,md,24,43,0.007952,0.01,nc,nc75107141,2024-12-23T22:57:44.932Z,"7 km WNW of Cobb, CA",earthquake,0.19,0.330000013,0.11,24,automatic,nc,nc
 2024-12-23T22:46:09.292Z,64.699,-148.0828,11.5,1.7,ml,,,,0.56,ak,ak024ggfrnr5,2024-12-23T22:47:56.855Z,"16 km S of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-23T22:45:27.177Z,38.5898,-117.2583,11,1.6,ml,8,200.6,0.623,0.1542,nn,nn00890432,2024-12-23T22:48:25.738Z,"58 km N of Tonopah, Nevada",earthquake,,3.5,0.17,5,automatic,nn,nn
 2024-12-23T22:39:35.919Z,64.4743,-150.6369,25.9,3,ml,,,,0.57,ak,ak024ggfq7sn,2024-12-23T22:41:39.308Z,"58 km S of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
