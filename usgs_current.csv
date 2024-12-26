@@ -182,5 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-25T19:55:03.761Z,60.3124,-143.1875,7,1.8,ml,,,,0.28,ak,ak024gjp3yy0,2024-12-25T19:57:07.967Z,"125 km S of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-25T19:47:22.120Z,37.528499603271,-118.827003479,5.8099999427795,1.43,md,15,159,0.06144,0.04,nc,nc75107901,2024-12-25T21:07:16.446Z,"13 km W of Toms Place, CA",earthquake,0.54,1.33000004,0.09,14,automatic,nc,nc
 2024-12-25T19:44:03.390Z,37.517665863037,-118.82917022705,-1.0099999904633,2.26,md,25,107,0.07223,0.1,nc,nc75107896,2024-12-25T20:32:15.234Z,"14 km W of Toms Place, CA",earthquake,0.34,9.60999966,0.16,28,automatic,nc,nc
-2024-12-25T19:38:51.654Z,-3.2423,146.0968,10,4.7,mb,23,56,1.74,1.06,us,us6000pflg,2024-12-25T21:32:04.040Z,"186 km SW of Lorengau, Papua New Guinea",earthquake,7.93,1.921,0.127,19,reviewed,us,us
-2024-12-25T19:37:12.030Z,38.793167114258,-122.9058303833,5.25,1.1,md,19,204,0.03542,0.04,nc,nc75107891,2024-12-25T20:17:18.125Z,"10 km ESE of Cloverdale, CA",earthquake,0.61,1.11000001,0.12,19,automatic,nc,nc
