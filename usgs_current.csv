@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-27T19:39:33.070Z,40.319499969482,-124.8955001831,7.5799999237061,3.87,ml,55,260,0.4403,0.28,nc,nc75108656,2024-12-27T19:44:28.040Z,"52 km W of Petrolia, CA",earthquake,3.75,3.26999998,0.28,18,automatic,nc,nc
+2024-12-27T19:36:28.950Z,33.174,-115.6041667,2.45,1.37,ml,27,68,0.01023,0.18,ci,ci40829087,2024-12-27T19:40:12.261Z,"10 km WNW of Calipatria, CA",earthquake,0.18,0.2,0.199,28,automatic,ci,ci
 2024-12-27T19:32:34.370Z,37.560001373291,-118.83333587647,2.579999923706,1.49,md,14,207,0.03016,0.05,nc,nc75108651,2024-12-27T19:34:10.532Z,"14 km W of Toms Place, CA",earthquake,0.67,1.16999996,0.18,14,automatic,nc,nc
 2024-12-27T19:27:23.636Z,32.158,-102.106,4.3533,1,ml,19,81,0.1,0.3,tx,tx2024zlbe,2024-12-27T19:32:15.516Z,"18 km N of Midland, Texas",earthquake,0,1.3478115797043,0.1,12,automatic,tx,tx
 2024-12-27T19:26:45.900Z,38.777000427246,-122.73083496094,0.38999998569488,1.01,md,11,74,0.007744,0.05,nc,nc75108646,2024-12-27T19:28:20.441Z,"2 km ESE of The Geysers, CA",earthquake,0.22,0.50999999,0.27,10,automatic,nc,nc
@@ -11,6 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T18:40:57.713Z,32.402,-102.062,4.5108,1.4,ml,35,47,0,0.4,tx,tx2024zkzp,2024-12-27T18:54:07.307Z,"35 km WSW of Ackerly, Texas",earthquake,0,0.92579233646393,0.1,20,automatic,tx,tx
 2024-12-27T18:23:54.040Z,38.784168243408,-122.7628326416,3.7200000286102,0.75,md,10,110,0.01362,0.02,nc,nc75108636,2024-12-27T18:25:29.640Z,"1 km NNW of The Geysers, CA",earthquake,0.52,0.949999988,0.36,11,automatic,nc,nc
 2024-12-27T18:23:41.193Z,58.7884,-154.4177,110.8,1.8,ml,,,,0.22,ak,ak024gmzegav,2024-12-27T18:26:29.395Z,"75 km SSE of Kokhanok, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-12-27T18:18:15.930Z,39.705166666667,-110.85116666667,1.78,1.48,md,6,116,0.1119,0.15,uu,uu80098691,2024-12-27T19:42:30.760Z,"2 km N of Helper, Utah",earthquake,1.14,31.61,0.23239413815245,5,reviewed,uu,uu
 2024-12-27T18:15:39.231Z,-22.1524,-68.5844,110.927,4.7,mwr,57,40,0.706,1.01,us,us6000pfyg,2024-12-27T18:31:54.040Z,"48 km NE of Calama, Chile",earthquake,4.02,4.441,0.059,28,reviewed,us,us
 2024-12-27T18:00:11.777Z,63.1506,-150.7667,26.4,1.7,ml,,,,0.89,ak,ak024gmz9gk9,2024-12-27T18:02:35.125Z,"64 km SE of Denali National Park, Alaska",earthquake,,2,,,automatic,ak,ak
 2024-12-27T17:52:10.126Z,31.55,-104.033,6.5917,1.9,ml,16,87,0,0.2,tx,tx2024zkxz,2024-12-27T17:55:59.936Z,"34 km NW of Toyah, Texas",earthquake,0,2.6480522155762,0.1,12,automatic,tx,tx
@@ -168,6 +171,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T01:32:43.490Z,38.791831970215,-122.76149749756,1.3899999856949,1.05,md,14,67,0.00889,0.03,nc,nc75108376,2024-12-27T01:34:19.917Z,"2 km  of The Geysers, CA",earthquake,0.26,0.50999999,0.08,15,automatic,nc,nc
 2024-12-27T01:31:01.780Z,38.830501556396,-122.79116821289,1.7300000190735,1.34,md,22,47,0.007922,0.04,nc,nc75108371,2024-12-27T02:07:19.343Z,"6 km WNW of Cobb, CA",earthquake,0.21,0.360000014,0.19,23,automatic,nc,nc
 2024-12-27T01:28:30.450Z,58.1653,-155.4066,0,1.3,ml,,,,0.73,ak,ak024gmpb4rp,2024-12-27T01:30:17.801Z,"87 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-12-27T01:28:17.060Z,61.334333333333,-152.256,-0.55,-0.54,ml,9,131,0.08455,0.1,av,av93427161,2024-12-27T19:43:24.460Z,"66 km WNW of Beluga, Alaska",earthquake,0.25,4.5,0.16010627423003,9,reviewed,av,av
 2024-12-27T01:21:37.730Z,33.6295,-116.6855,13.96,0.73,ml,33,48,0.04049,0.15,ci,ci40828671,2024-12-27T01:26:44.707Z,"8 km N of Anza, CA",earthquake,0.2,0.32,0.157,24,automatic,ci,ci
 2024-12-27T01:09:13.638Z,31.975,-104.023,8.374,2.7,ml,37,73,0,0.1,tx,tx2024zjqx,2024-12-27T03:28:00.040Z,"28 km S of Malaga, New Mexico",earthquake,0.43305684294696,0.59217381099807,0.1,42,reviewed,tx,tx
 2024-12-27T00:51:58.420Z,61.28,-152.25916666667,3.24,-0.58,ml,10,109,0.05239,0.08,av,av93427141,2024-12-27T19:32:59.370Z,"64 km WNW of Tyonek, Alaska",earthquake,0.31,0.36,0.15909267809807,10,reviewed,av,av
