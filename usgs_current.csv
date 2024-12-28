@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-28T17:41:23.180Z,33.2905,-116.7436667,13.15,0.64,ml,34,38,0.05582,0.14,ci,ci40829431,2024-12-28T17:45:44.244Z,"6 km NNE of Lake Henshaw, CA",earthquake,0.19,0.42,0.065,11,automatic,ci,ci
+2024-12-28T17:37:58.366Z,61.649,-150.9048,61.9,1.2,ml,,,,0.25,ak,ak024gomfejg,2024-12-28T17:40:10.417Z,"23 km WNW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-12-28T17:33:50.446Z,37.8481,-116.1675,10.5,1.6,ml,22,165.61,0.787,0.4234,nn,nn00890750,2024-12-28T17:36:30.038Z,"43 km WNW of Rachel, Nevada",earthquake,,2,0.26,11,reviewed,nn,nn
 2024-12-28T17:30:48.660Z,38.792167663574,-122.77916717529,2.0199999809265,0.71,md,9,106,0.006913,0.01,nc,nc75108966,2024-12-28T17:32:24.425Z,"3 km NW of The Geysers, CA",earthquake,0.32,0.75999999,0.41,11,automatic,nc,nc
 2024-12-28T17:30:23.190Z,38.820835113525,-122.84116363525,1.960000038147,1.07,md,23,69,0.005305,0.02,nc,nc75108961,2024-12-28T17:31:59.772Z,"9 km NW of The Geysers, CA",earthquake,0.22,0.360000014,0.1,24,automatic,nc,nc
