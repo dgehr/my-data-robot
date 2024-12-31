@@ -213,5 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T16:14:28.290Z,37.187666666667,-112.887,19.55,1.72,ml,13,76,0.1785,0.14,uu,uu80098861,2024-12-30T17:58:40.670Z,"9 km E of Springdale, Utah",earthquake,0.51,1.06,0.23298782722517,6,reviewed,uu,uu
 2024-12-30T16:07:40.427Z,61.1878,-146.9248,13.8,1.7,ml,,,,0.1,ak,ak024grwq722,2024-12-30T16:10:02.129Z,"31 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-30T16:01:44.995Z,61.6046,-149.6392,34.4,1.8,ml,,,,0.52,ak,ak024grwox43,2024-12-30T16:03:20.026Z,"3 km SW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-12-30T15:55:59.600Z,19.212165832519,-155.48550415039,29.360000610352,2.37,ml,59,81,0.03821,0.159999996,hv,hv74580412,2024-12-30T16:51:39.040Z,"1 km NW of Pāhala, Hawaii",earthquake,0.39,0.610000014,0.63,9,automatic,hv,hv
-2024-12-30T15:55:03.700Z,38.811164855957,-122.78600311279,1.1699999570847,1.07,md,8,106,0.004651,0.01,nc,nc75109771,2024-12-30T15:56:39.006Z,"5 km NNW of The Geysers, CA",earthquake,0.45,0.769999981,0.31,9,automatic,nc,nc
