@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-04T22:27:00.360Z,40.396499633789,-124.80066680908,9.9499998092651,2.8,md,8,294,0.3622,0.07,nc,nc75112931,2025-01-04T22:32:17.398Z,"44 km WNW of Petrolia, CA",earthquake,6.33,5.26999998,0.04,8,automatic,nc,nc
 2025-01-04T22:09:41.610Z,33.8121667,-116.1441667,8.87,1.4,ml,49,36,0.06621,0.17,ci,ci40833895,2025-01-04T22:20:21.010Z,"12 km NNE of Indio, CA",earthquake,0.16,0.43,0.159,27,automatic,ci,ci
 2025-01-04T22:07:54.290Z,33.0793333,-116.0371667,9.24,1.07,ml,43,36,0.1063,0.2,ci,ci40833887,2025-01-04T22:12:37.351Z,"11 km SE of Ocotillo Wells, CA",earthquake,0.23,0.75,0.134,26,automatic,ci,ci
 2025-01-04T22:02:16.400Z,38.827167510986,-122.77549743652,1.5900000333786,1.08,md,13,84,0.005469,0.02,nc,nc75112926,2025-01-04T22:03:51.455Z,"5 km WNW of Cobb, CA",earthquake,0.29,0.460000008,0.07,13,automatic,nc,nc
@@ -167,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T22:40:02.926Z,64.9703,-147.4202,1.9,1.4,ml,,,,0.58,ak,ak0255by5ns,2025-01-03T22:42:50.162Z,"9 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-03T22:38:37.150Z,38.840831756592,-122.83766937256,1.7799999713898,1.05,md,20,87,0.002814,0.01,nc,nc75112626,2025-01-03T22:40:13.011Z,"10 km NNW of The Geysers, CA",earthquake,0.2,0.389999986,0.1,22,automatic,nc,nc
 2025-01-03T22:36:48.220Z,38.841167449951,-122.83850097656,1.6499999761581,0.71,md,9,116,0.003488,0.01,nc,nc75112621,2025-01-03T22:38:22.980Z,"10 km NW of The Geysers, CA",earthquake,0.34,0.550000012,0.28,12,automatic,nc,nc
-2025-01-03T22:32:50.009Z,60.0457,-141.659,17.4,2.1,ml,,,,0.61,ak,ak0255bwjk8,2025-01-03T22:34:45.514Z,"121 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
