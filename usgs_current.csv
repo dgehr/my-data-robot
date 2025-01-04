@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-01-04T05:39:29.030Z,38.796333312988,-122.73850250244,1.6000000238419,1.12,md,16,99,0.01315,0.02,nc,nc75112721,2025-01-04T05:41:03.907Z,"3 km NE of The Geysers, CA",earthquake,0.27,0.540000021,0.1,15,automatic,nc,nc
+2025-01-04T05:39:29.030Z,38.796333312988,-122.73850250244,1.6000000238419,1.12,md,16,99,0.01315,0.02,nc,nc75112721,2025-01-04T05:57:14.402Z,"3 km NE of The Geysers, CA",earthquake,0.27,0.540000021,0.1,15,automatic,nc,nc
 2025-01-04T05:36:37.216Z,61.5702,-149.8568,57,2.3,ml,,,,0.38,ak,ak0256pccnd,2025-01-04T05:38:06.144Z,"7 km SSW of Houston, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-04T05:36:15.750Z,32.2088333,-115.0265,15.48,2.1,ml,21,71,0.06967,0.3,ci,ci40833615,2025-01-04T05:39:54.343Z,"3 km NW of Estacion Coahuila, B.C., MX",earthquake,0.53,0.6,0.182,21,automatic,ci,ci
 2025-01-04T05:35:12.641Z,31.606,-103.984,6.3543,1.7,ml,15,61,0,0.3,tx,tx2025afxp,2025-01-04T05:43:56.669Z,"37 km NNW of Toyah, Texas",earthquake,0,2.550430059433,0.2,12,automatic,tx,tx
@@ -186,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T06:17:48.510Z,32.277,-101.93,4.0723,1.3,ml,48,27,0,0.4,tx,tx2025aedm,2025-01-03T06:34:05.586Z,"21 km NW of Stanton, Texas",earthquake,0,0.78038442134857,0.1,30,automatic,tx,tx
 2025-01-03T06:17:03.700Z,36.829666137695,-121.4075012207,7.9800000190735,1.9,md,36,44,0.07782,0.11,nc,nc75112351,2025-01-03T06:57:17.902Z,"2 km SW of Hollister, CA",earthquake,0.21,0.689999998,0.16,34,automatic,nc,nc
 2025-01-03T05:58:35.818Z,61.8371,-149.7189,28.1,1.3,ml,,,,0.46,ak,ak02551xpst,2025-01-03T06:00:48.173Z,"19 km ENE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-01-03T05:52:23.110Z,39.020668029785,-123.32917022705,3.2599999904633,1.57,md,13,79,0.03648,0.04,nc,nc75112346,2025-01-03T06:32:18.725Z,"3 km E of Boonville, CA",earthquake,0.24,0.709999979,0.16,10,automatic,nc,nc
