@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-04T06:12:49.187Z,61.1528,-151.2715,63.7,1.6,ml,,,,0.41,ak,ak0256psnzq,2025-01-04T06:14:49.550Z,"10 km W of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-04T06:03:39.287Z,49.5955,-28.3852,10,4.9,mww,53,91,14.194,1.01,us,us6000pht5,2025-01-04T06:22:26.040Z,"northern Mid-Atlantic Ridge",earthquake,11.64,1.877,0.073,18,reviewed,us,us
 2025-01-04T06:00:53.350Z,33.8928333,-118.3926667,13.22,1.5,ml,40,107,0.0529,0.27,ci,ci40833623,2025-01-04T06:05:50.473Z,"2 km ENE of Manhattan Beach, CA",earthquake,0.39,0.53,0.304,30,automatic,ci,ci
-2025-01-04T05:57:35.931Z,64.9674,-152.5012,0,2.7,ml,,,,1.32,ak,ak0256pgul5,2025-01-04T05:59:57.362Z,"30 km SW of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-04T05:57:35.931Z,64.9674,-152.5012,0,2.7,ml,,,,1.32,ak,ak0256pgul5,2025-01-04T08:50:17.040Z,"30 km SW of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-04T05:48:37.266Z,12.7146,-88.6755,60.152,4.4,mb,47,153,0.824,1.51,us,us6000phsz,2025-01-04T06:29:49.789Z,"64 km SSW of Puerto El Triunfo, El Salvador",earthquake,5.84,11.082,0.054,98,reviewed,us,us
 2025-01-04T05:39:29.030Z,38.796333312988,-122.73850250244,1.6000000238419,1.12,md,16,99,0.01315,0.02,nc,nc75112721,2025-01-04T06:12:15.502Z,"3 km NE of The Geysers, CA",earthquake,0.27,0.540000021,0.1,15,automatic,nc,nc
 2025-01-04T05:36:37.216Z,61.5702,-149.8568,57,2.3,ml,,,,0.38,ak,ak0256pccnd,2025-01-04T05:38:06.144Z,"7 km SSW of Houston, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -188,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T09:01:33.962Z,61.2321,-149.6497,136.9,1.4,ml,,,,1.09,ak,ak02553z89g,2025-01-03T09:03:40.936Z,"2 km SSW of Elmendorf Air Force Base, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-01-03T08:53:38.065Z,39.161,-119.095,3.5,0.6,ml,8,133.07,0.044,0.093,nn,nn00891311,2025-01-03T08:55:41.626Z,"20 km NNE of Yerington, Nevada",earthquake,,0.8,0.21,2,automatic,nn,nn
 2025-01-03T08:53:30.915Z,59.7145,-153.4788,118.9,2,ml,,,,0.62,ak,ak02553oxnn,2025-01-03T08:56:33.263Z,"36 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-01-03T08:45:34.847Z,42.6206,-111.1257,5.156,2.6,ml,30,61,0.146,0.54,us,us6000phec,2025-01-03T22:31:41.489Z,"13 km WSW of Fairview, Wyoming",earthquake,0.92,4.717,0.04,82,reviewed,us,us
