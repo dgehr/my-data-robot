@@ -134,6 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-05T02:46:18.378Z,-16.8537,-173.2135,36.518,4.8,mb,17,123,3.237,1.01,us,us6000phxq,2025-01-05T03:04:49.040Z,"117 km SSE of Hihifo, Tonga",earthquake,11.24,9.2,0.168,11,reviewed,us,us
 2025-01-05T02:45:37.355Z,39.1438,-119.0641,8,0.7,ml,10,110.03,0.011,0.1808,nn,nn00891443,2025-01-05T18:03:53.740Z,"19 km NNE of Yerington, Nevada",earthquake,,1.2,0.1,2,reviewed,nn,nn
 2025-01-05T02:42:02.840Z,32.7581667,-115.7035,4.5,1.27,ml,23,87,0.06997,0.31,ci,ci40833959,2025-01-05T02:46:22.690Z,"14 km WSW of El Centro, CA",earthquake,0.44,1.42,0.438,12,automatic,ci,ci
+2025-01-05T02:41:37.640Z,32.772,-115.7073333,4.1,0.96,ml,21,86,0.07314,0.26,ci,ci40833951,2025-01-05T21:37:50.185Z,"14 km W of El Centro, CA",earthquake,0.36,1.1,0.273,10,reviewed,ci,ci
 2025-01-05T02:21:10.559Z,-16.7164,28.7886,10,4.4,mb,14,157,1.543,0.75,us,us6000phxm,2025-01-05T02:42:52.040Z,"21 km SSE of Siavonga, Zambia",earthquake,8.1,1.924,0.179,9,reviewed,us,us
 2025-01-05T01:59:33.223Z,62.0905,-149.3922,21.3,1.5,ml,,,,0.41,ak,ak0258amvvu,2025-01-05T02:01:56.553Z,"25 km ESE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-01-05T01:55:59.630Z,33.3998333,-116.3753333,1.54,0.94,ml,47,35,0.06649,0.24,ci,ci40833943,2025-01-05T15:25:30.768Z,"16 km N of Borrego Springs, CA",earthquake,0.21,0.4,0.16,29,reviewed,ci,ci
