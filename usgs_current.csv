@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-05T07:32:37.470Z,38.803665161133,-122.82333374023,8.6899995803833,0.51,md,7,91,0.01378,0.06,nc,nc75113021,2025-01-05T07:34:13.605Z,"6 km NW of The Geysers, CA",earthquake,1.73,1.10000002,0.27,5,automatic,nc,nc
 2025-01-05T07:07:16.150Z,38.679000854492,-122.91033172607,3.2200000286102,1.73,md,22,43,0.1026,0.07,nc,nc75113016,2025-01-05T07:22:15.036Z,"8 km NNW of Healdsburg, CA",earthquake,0.22,2.25999999,0.16,21,automatic,nc,nc
 2025-01-05T06:40:53.060Z,33.306,-116.3428333,11.42,1.07,ml,61,29,0.06273,0.19,ci,ci40834047,2025-01-05T06:51:28.400Z,"6 km NNE of Borrego Springs, CA",earthquake,0.17,0.3,0.214,26,automatic,ci,ci
 2025-01-05T06:33:50.946Z,61.4523,-148.0203,0,1.2,ml,,,,0.67,ak,ak0258dgihu,2025-01-05T06:36:11.181Z,"44 km SSW of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -157,4 +158,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-04T08:07:38.140Z,33.3281667,-116.3563333,10.79,0.94,ml,41,61,0.0519,0.19,ci,ci40833663,2025-01-04T08:12:40.023Z,"8 km NNE of Borrego Springs, CA",earthquake,0.23,0.39,0.143,29,automatic,ci,ci
 2025-01-04T08:07:10.100Z,19.3015,-155.45716666667,8.43,1.79,ml,23,44,0.06597,0.1,hv,hv74583527,2025-01-05T05:12:05.250Z,"11 km NNE of Pāhala, Hawaii",earthquake,0.37,0.93,0.16011679520719,13,reviewed,hv,hv
 2025-01-04T07:48:06.340Z,38.797668457031,-122.75283050537,2.2599999904633,0.77,md,14,95,0.006134,0.02,nc,nc75112746,2025-01-04T07:49:42.673Z,"2 km NNE of The Geysers, CA",earthquake,0.32,0.610000014,0.05,14,automatic,nc,nc
-2025-01-04T07:29:14.520Z,31.9606667,-116.3083333,25.87,2.71,ml,20,81,0.3094,0.24,ci,ci40833655,2025-01-04T07:46:39.959Z,"31 km ENE of Ensenada, B.C., MX",earthquake,0.47,0.93,0.211,26,automatic,ci,ci
