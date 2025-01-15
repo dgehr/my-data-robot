@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-01-15T19:20:27.810Z,38.83150100708,-122.81566619873,1.8899999856949,1.09,md,16,65,0.009198,0.01,nc,nc75117656,2025-01-15T19:22:02.274Z,"8 km NNW of The Geysers, CA",earthquake,0.25,0.49000001,0.16,17,automatic,nc,nc
+2025-01-15T19:12:11.720Z,18.108666666667,-67.0395,26.65,2.55,md,17,58,0.01756,0.1,pr,pr71470908,2025-01-15T19:25:09.990Z,"3 km N of San Germán, Puerto Rico",earthquake,0.3,0.53,0.057155655833665,9,reviewed,pr,pr
 2025-01-15T18:49:53.861Z,31.584,-104.542,3.3281,2,ml,19,159,0.1,0.2,tx,tx2025bbah,2025-01-15T19:14:40.212Z,"66 km NNE of Van Horn, Texas",earthquake,0,1.66674721241,0.1,15,automatic,tx,tx
 2025-01-15T18:49:22.020Z,38.123500823975,-122.15483093262,2.6500000953674,2.02,md,10,113,0.004481,0.15,nc,nc75117651,2025-01-15T18:50:57.170Z,"7 km E of Vallejo, CA",earthquake,0.92,0.939999998,0.14,8,automatic,nc,nc
 2025-01-15T18:41:49.874Z,59.6935,-153.1928,104.7,1.6,ml,,,,0.09,ak,ak025p40wi3,2025-01-15T18:43:17.137Z,"52 km ESE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -157,6 +158,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T22:45:20.120Z,35.784166666667,-121.28883333333,1.54,1.4,md,13,187,0.1498,0.07,nc,nc75117321,2025-01-15T17:54:29.565Z,"18 km NNW of San Simeon, CA",earthquake,0.44,1.47,0.316,17,reviewed,nc,nc
 2025-01-14T22:30:25.683Z,61.9508,-148.6202,16.4,1.8,ml,,,,1.14,ak,ak025nisvoo,2025-01-14T22:32:05.631Z,"19 km NNW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-14T22:28:51.880Z,37.707,-77.605833333333,0.12,2.77,md,12,70,0.3351,0.33,se,se60502898,2025-01-15T18:44:52.918Z,"1 km NNE of Wyndham, Virginia",earthquake,0.62,1.65,0.080619434625133,9,reviewed,se,se
+2025-01-14T22:19:00.000Z,49.394666666667,-120.49416666667,-0.23,1.89,ml,17,211,0.6053,0.43,uw,uw62062337,2025-01-15T19:29:50.910Z,"7 km S of Princeton, Canada",explosion,3.24,31.61,0.11145327007078,11,reviewed,uw,uw
 2025-01-14T22:09:22.650Z,33.6645,-116.7063333,14.61,0.79,ml,20,85,0.02749,0.14,ci,ci40839679,2025-01-14T23:34:12.950Z,"8 km S of Idyllwild, CA",earthquake,0.3,0.45,0.137,15,reviewed,ci,ci
 2025-01-14T22:02:16.540Z,34.576,-118.9446667,3.52,0.96,ml,16,94,0.09918,0.22,ci,ci40839671,2025-01-14T23:03:49.631Z,"20 km N of Fillmore, CA",earthquake,0.37,1.1,0.129,13,reviewed,ci,ci
 2025-01-14T21:45:17.160Z,38.839000701904,-122.76599884033,0.75999999046326,1.34,md,22,152,0.008882,0.04,nc,nc75117296,2025-01-14T21:46:52.113Z,"4 km NW of Cobb, CA",earthquake,0.27,0.330000013,0.16,24,automatic,nc,nc
@@ -187,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T19:41:49.500Z,38.775665283203,-122.76249694824,2.7000000476837,1.06,md,8,92,0.005552,0.07,nc,nc75117226,2025-01-14T19:43:26.118Z,"1 km W of The Geysers, CA",earthquake,0.72,1.04999995,0.11,8,automatic,nc,nc
 2025-01-14T19:40:23.053Z,-5.0354,149.7982,374.723,5.1,mb,91,43,2.502,1.01,us,us6000pjz0,2025-01-14T20:00:19.040Z,"68 km NNW of Kimbe, Papua New Guinea",earthquake,7.96,6.379,0.039,209,reviewed,us,us
 2025-01-14T19:37:57.990Z,34.0493333,-117.0963333,11.67,1.61,ml,58,22,0.01922,0.17,ci,ci40839519,2025-01-14T22:35:51.950Z,"4 km ESE of Mentone, CA",earthquake,0.14,0.35,0.144,21,reviewed,ci,ci
-2025-01-14T19:25:35.207Z,61.3727,-150.0366,35,2.1,ml,,,,0.31,ak,ak025ngzj0w,2025-01-14T19:27:33.642Z,"3 km WNW of Point MacKenzie, Alaska",earthquake,,0.6,,,automatic,ak,ak
