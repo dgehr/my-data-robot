@@ -66,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-16T02:50:03.080Z,33.1685,-116.038,6.45,1.5,ml,63,21,0.05078,0.2,ci,ci40840623,2025-01-16T03:00:48.780Z,"9 km ENE of Ocotillo Wells, CA",earthquake,0.15,0.54,0.145,26,automatic,ci,ci
 2025-01-16T02:43:29.120Z,34.0783333,-117.638,10.38,1.26,ml,8,274,0.1549,0.06,ci,ci40840615,2025-01-16T02:48:10.812Z,"2 km SSE of Upland, CA",earthquake,2.11,0.59,0.324,33,automatic,ci,ci
 2025-01-16T02:43:02.006Z,31.596,-104.524,3.7024,1.5,ml,13,152,0.1,0.1,tx,tx2025bbpy,2025-01-16T03:08:56.754Z,"65 km SSW of Whites City, New Mexico",earthquake,0,2.3500189781189,0.1,10,automatic,tx,tx
-2025-01-16T02:39:06.627Z,31.594,-104.534,2.7745,2.3,ml,22,156,0.1,0.4,tx,tx2025bbpu,2025-01-16T03:08:53.755Z,"66 km SSW of Whites City, New Mexico",earthquake,0,1.6306818723679,0.2,16,automatic,tx,tx
+2025-01-16T02:39:06.690Z,31.62,-104.5,6.7664,2.3,ml,13,109,0,0.2,tx,tx2025bbpu,2025-01-16T09:30:12.120Z,"62 km S of Whites City, New Mexico",earthquake,1.3409270542155,0.78329241957494,0.1,31,reviewed,tx,tx
 2025-01-16T02:36:51.610Z,8.5579,40.2007,10,4.5,mb,27,265,3.939,0.68,us,us6000pkbw,2025-01-16T02:58:57.040Z,"45 km SW of Gelemso, Ethiopia",earthquake,7.72,2.006,0.128,18,reviewed,us,us
 2025-01-16T02:17:43.645Z,9.2212,39.8931,10,4.4,mb,15,255,3.702,0.84,us,us6000pkbv,2025-01-16T02:55:06.040Z,"35 km N of Metahāra, Ethiopia",earthquake,15,2.009,0.203,7,reviewed,us,us
 2025-01-16T02:09:21.820Z,34.0446667,-117.1333333,6.41,1.39,ml,60,29,0.01965,0.17,ci,ci40840599,2025-01-16T08:18:32.429Z,"3 km S of Mentone, CA",earthquake,0.13,0.32,0.174,27,automatic,ci,ci
