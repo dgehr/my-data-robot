@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-16T07:35:45.439Z,61.2948,-149.4496,28.5,1.7,ml,,,,0.4,ak,ak025qkz6pb,2025-01-16T07:37:16.481Z,"6 km ESE of Eagle River, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-16T07:31:15.030Z,35.7341667,-118.0555,0.51,0.61,ml,15,113,0.1569,0.14,ci,ci40840759,2025-01-16T07:35:04.576Z,"24 km WNW of Inyokern, CA",earthquake,0.24,0.41,0.238,5,automatic,ci,ci
 2025-01-16T07:26:56.290Z,38.787166595459,-122.77116394043,3.7799999713898,0.44,md,13,88,0.0144,0.02,nc,nc75117891,2025-01-16T07:28:33.446Z,"2 km NW of The Geysers, CA",earthquake,0.39,1.13,0.16,12,automatic,nc,nc
 2025-01-16T07:24:29.541Z,37.4029,-117.1309,0,0.9,ml,9,196.33,0.43,0.3787,nn,nn00892060,2025-01-16T07:26:40.154Z,"35 km SSE of Goldfield, Nevada",earthquake,,56,0.22,8,automatic,nn,nn
 2025-01-16T06:55:59.194Z,65.9333,-150.4427,10.6,2.6,ml,,,,0.95,ak,ak025qki2ha,2025-01-16T06:59:02.320Z,"49 km NNW of Rampart, Alaska",earthquake,,0.2,,,automatic,ak,ak
