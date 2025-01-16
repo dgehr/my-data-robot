@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-16T18:49:05.130Z,38.825668334961,-122.79299926758,2.6800000667572,0.79,md,14,79,0.01289,0.01,nc,nc75118131,2025-01-16T18:50:43.254Z,"6 km WNW of Cobb, CA",earthquake,0.34,0.550000012,0.22,15,automatic,nc,nc
+2025-01-16T18:44:56.200Z,34.62,-119.061,2.64,1.99,ml,46,37,0.1183,0.24,ci,ci40841167,2025-01-16T18:50:05.787Z,"25 km SSW of Frazier Park, CA",earthquake,0.22,1.16,0.144,28,automatic,ci,ci
 2025-01-16T18:33:12.280Z,40.288333892822,-124.51416778565,24.319999694824,2.03,md,13,286,0.1645,0.06,nc,nc75118121,2025-01-16T18:34:47.275Z,"20 km W of Petrolia, CA",earthquake,3.63,1.47000003,0.14,12,automatic,nc,nc
 2025-01-16T17:58:36.308Z,63.0016,-150.5827,109.2,1.8,ml,,,,0.51,ak,ak025qr2fim,2025-01-16T18:00:56.429Z,"57 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-16T17:44:56.050Z,35.9518333,-117.6811667,3.94,1.14,ml,24,48,0.1001,0.17,ci,ci40841079,2025-01-16T17:48:21.453Z,"20 km E of Little Lake, CA",earthquake,0.2,0.72,0.128,20,automatic,ci,ci
@@ -223,5 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-15T19:12:11.720Z,18.108666666667,-67.0395,26.65,2.55,md,17,58,0.01756,0.1,pr,pr71470908,2025-01-15T19:25:09.990Z,"3 km N of San Germán, Puerto Rico",earthquake,0.3,0.53,0.057155655833665,9,reviewed,pr,pr
 2025-01-15T19:02:58.279Z,64.6298,-147.6226,9.7,0.9,ml,,,,0.29,ak,ak025p4dztv,2025-01-15T19:05:02.377Z,"18 km SW of North Pole, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-01-15T18:56:04.110Z,57.097,-135.77966666667,6.33,0.37,ml,4,296,0.03417,0.08,av,av93457341,2025-01-16T03:59:47.870Z,"27 km W of Sitka, Alaska",earthquake,0.94,0.65,0.3964779097276,4,reviewed,av,av
-2025-01-15T18:49:54.044Z,31.611,-104.505,8.5095,1.9,ml,45,110,0.1,0.3,tx,tx2025bbah,2025-01-16T10:43:15.893Z,"63 km S of Whites City, New Mexico",earthquake,1.0314983900262,0.90760279077844,0.1,27,reviewed,tx,tx
-2025-01-15T18:49:22.020Z,38.123500823975,-122.15483093262,2.6500000953674,2.02,md,10,113,0.004481,0.15,nc,nc75117651,2025-01-15T18:50:57.170Z,"7 km E of Vallejo, CA",earthquake,0.92,0.939999998,0.14,8,automatic,nc,nc
