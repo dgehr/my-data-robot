@@ -55,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-23T08:10:42.230Z,33.6908333,-116.791,15.49,0.7,ml,31,60,0.06991,0.15,ci,ci41033952,2025-01-23T14:24:53.370Z,"9 km SW of Idyllwild, CA",earthquake,0.23,0.38,0.149,18,reviewed,ci,ci
 2025-01-23T08:09:05.240Z,33.4618333,-116.6145,8.97,0.55,ml,27,41,0.03435,0.1,ci,ci41033944,2025-01-23T14:24:51.473Z,"12 km SSE of Anza, CA",earthquake,0.15,0.37,0.197,11,reviewed,ci,ci
 2025-01-23T08:02:36.806Z,61.1513,-148.532,29.7,1.5,ml,,,,0.61,ak,ak0251264ygw,2025-01-23T08:04:20.042Z,"39 km SSE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-01-23T07:51:25.051Z,31.58,-104.543,3.2088,2.1,ml,8,159,0.1,0.2,tx,tx2025bouy,2025-01-23T08:03:41.519Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.2125129699707,0.2,6,automatic,tx,tx
+2025-01-23T07:51:25.334Z,31.622,-104.52,8.1763,2.2,ml,23,75,0,0.1,tx,tx2025bouy,2025-01-23T15:43:59.701Z,"62 km SSW of Whites City, New Mexico",earthquake,1.5400700265862,0.85660320383614,0.2,33,reviewed,tx,tx
 2025-01-23T07:51:18.080Z,61.4204,-146.5094,29.8,1.6,ml,,,,0.62,ak,ak025125tzi8,2025-01-23T07:54:26.493Z,"33 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-23T07:47:56.335Z,63.0913,-149.4113,91.4,1.8,ml,,,,0.62,ak,ak025125t7ld,2025-01-23T07:50:27.719Z,"40 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-01-23T07:47:51.401Z,60.6765,-141.8016,15.8,1.8,ml,,,,0.93,ak,ak025125t77o,2025-01-23T07:49:57.583Z,"103 km SE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -183,4 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-22T15:56:15.450Z,38.834499359131,-122.79850006103,1.7300000190735,1.16,md,8,74,0.007471,0.02,nc,nc75121301,2025-01-22T15:57:52.092Z,"7 km WNW of Cobb, CA",earthquake,0.43,1.39999998,0.46,9,automatic,nc,nc
 2025-01-22T15:51:00.630Z,42.060833333333,-120.054,-1.15,2.08,ml,9,184,0.1574,0.13,uw,uw62071686,2025-01-22T21:04:46.550Z,"21 km ENE of New Pine Creek, Oregon",earthquake,0.33,0.43,0.14339925645543,3,reviewed,uw,uw
 2025-01-22T15:47:52.570Z,44.351333333333,-111.389,15.98,0.51,ml,9,198,0.2188,0.06,mb,mb90071508,2025-01-22T22:43:43.530Z,"8 km S of Island Park, Idaho",earthquake,0.85,0.73,0.27947898034006,4,reviewed,mb,mb
-2025-01-22T15:38:10.090Z,38.758333333333,-122.72916666667,2.09,0.31,md,22,64,0.004683,0.03,nc,nc75121291,2025-01-23T05:08:55.582Z,"3 km SE of The Geysers, CA",earthquake,0.2,0.32,0.209,17,reviewed,nc,nc
