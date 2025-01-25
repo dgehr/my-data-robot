@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-25T13:49:58.130Z,33.987999,-118.3838348,7.26,2.23,ml,57,39,0.05062,0.27,ci,ci40850767,2025-01-25T13:52:19.394Z,"2 km SSW of Baldwin Hills, CA",earthquake,0.33,0.68,0.303,21,automatic,ci,ci
+2025-01-25T13:49:56.840Z,34.0028343,-118.5143356,2.53,1.45,ml,24,113,0.05969,0.37,ci,ci40850775,2025-01-25T13:52:20.393Z,"3 km SW of Santa Monica, CA",earthquake,0.86,0.99,0.331,10,automatic,ci,ci
 2025-01-25T13:24:53.820Z,61.5236,-149.9098,31.5,2.2,ml,,,,0.71,ak,ak02515kbkjq,2025-01-25T13:27:36.941Z,"2 km E of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-25T13:17:44.230Z,38.822498321533,-122.764503479,1.9299999475479,0.77,md,10,121,0.009013,0.02,nc,nc75122756,2025-01-25T13:19:19.670Z,"4 km WNW of Cobb, CA",earthquake,0.45,0.75999999,0.14,10,automatic,nc,nc
 2025-01-25T13:00:31.173Z,23.2642,120.4426,10,4.5,mb,48,122,0.176,1.06,us,us6000pmam,2025-01-25T13:20:41.040Z,"15 km N of Yujing, Taiwan",earthquake,3.13,1.819,0.103,28,reviewed,us,us
