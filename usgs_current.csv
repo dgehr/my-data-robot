@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-27T15:22:56.000Z,43.0469,-70.532,20,4.1,Ml,15,122.399990208,0.9279597,0.13,at,at00sqr6q8,2025-01-27T15:27:53.692Z,"13 km SE of York Harbor, Maine",earthquake,0,0,,9,reviewed,at,at
 2025-01-27T15:04:59.767Z,65.2219,-150.2353,15.4,1.3,ml,,,,0.38,ak,ak02518wguvs,2025-01-27T15:07:34.932Z,"30 km NE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-27T15:01:32.647Z,62.7919,-151.0581,203.7,2.6,ml,,,,1.2,ak,ak02518wg5n4,2025-01-27T15:04:29.561Z,"36 km NNW of Petersville, Alaska",earthquake,,5.5,,,automatic,ak,ak
 2025-01-27T14:57:53.150Z,40.28783416748,-124.52649688721,10.329999923706,1.46,md,10,300,0.1407,0.16,nc,nc75123956,2025-01-27T14:59:34.613Z,"21 km W of Petrolia, CA",earthquake,6.71,1.41999996,0.03,5,automatic,nc,nc
 2025-01-27T14:53:26.070Z,38.560165405273,-122.31199645996,2.920000076294,1.19,md,6,104,0.04831,0.01,nc,nc75123951,2025-01-27T14:55:03.940Z,"12 km ESE of Angwin, CA",earthquake,0.45,2.41000009,0.17,3,automatic,nc,nc
-2025-01-27T14:51:22.666Z,17.9803,145.9636,134.085,5.2,mww,104,45,2.729,1.03,us,us6000pmjt,2025-01-27T15:11:39.459Z,"Alamagan region, Northern Mariana Islands",earthquake,8.32,5.658,0.063,24,reviewed,us,us
+2025-01-27T14:51:22.666Z,17.9803,145.9636,134.085,5.2,mww,104,45,2.729,1.03,us,us6000pmjt,2025-01-27T15:31:25.965Z,"Alamagan region, Northern Mariana Islands",earthquake,8.32,5.658,0.063,24,reviewed,us,us
 2025-01-27T14:40:16.700Z,32.171,-102.16,5.6461,1.1,ml,5,156,0,0,tx,tx2025bwqd,2025-01-27T14:49:30.381Z,"20 km NNW of Midland, Texas",earthquake,0,8.73464012146,0.2,7,automatic,tx,tx
 2025-01-27T14:37:40.146Z,37.3758,-115.6512,13.9,1.5,ml,14,215.6,0.395,0.4054,nn,nn00892552,2025-01-27T14:40:13.555Z,"30 km SSE of Rachel, Nevada",earthquake,,1.7,0.4,11,automatic,nn,nn
 2025-01-27T14:32:40.580Z,38.824333190918,-122.80249786377,-0.5,1,md,14,67,0.005992,0.02,nc,nc75123946,2025-01-27T14:34:19.827Z,"7 km NNW of The Geysers, CA",earthquake,0.19,0.610000014,0.28,14,automatic,nc,nc
@@ -207,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-26T15:35:35.400Z,31.275,-103.348,5.7315,2,ml,10,164,0,0.6,tx,tx2025buwl,2025-01-26T15:47:52.794Z,"20 km ESE of Lindsay, Texas",earthquake,0,3.6791522502899,0.2,8,automatic,tx,tx
 2025-01-26T15:33:17.530Z,38.833999633789,-122.81466674805,1.3999999761581,0.21,md,7,82,0.01118,0.01,nc,nc75123381,2025-01-26T15:34:53.914Z,"8 km WNW of Cobb, CA",earthquake,0.44,1.82000005,0.13,8,automatic,nc,nc
 2025-01-26T15:32:31.024Z,6.6405,-73.1153,163.125,4.5,mb,44,82,0.744,0.56,us,us6000pmg0,2025-01-26T16:26:31.040Z,"6 km NW of Curití, Colombia",earthquake,9.41,7.19,0.045,146,reviewed,us,us
-2025-01-26T15:25:22.050Z,34.5246667,-119.07,7.72,2.74,ml,89,23,0.1038,0.31,ci,ci40851823,2025-01-26T16:12:25.040Z,"18 km ENE of Ojai, CA",earthquake,0.2,1.35,0.211,25,automatic,ci,ci
