@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-28T07:40:56.980Z,59.3926,-153.2627,103.9,2.8,ml,,,,0.41,ak,ak0251afgg3g,2025-01-28T07:42:47.051Z,"64 km SE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-01-28T07:38:44.090Z,33.5133333,-116.7608333,6.71,0.66,ml,23,72,0.04098,0.17,ci,ci40853407,2025-01-28T07:43:13.383Z,"9 km WSW of Anza, CA",earthquake,0.5,0.84,0.099,22,automatic,ci,ci
+2025-01-28T07:38:34.830Z,38.815334320068,-122.82399749756,2.460000038147,0.75,md,15,74,0.00762,0.02,nc,nc75124416,2025-01-28T07:40:11.171Z,"7 km NW of The Geysers, CA",earthquake,0.29,0.689999998,0.18,16,automatic,nc,nc
 2025-01-28T07:25:15.940Z,33.8063333,-116.2068333,8.93,1.38,ml,60,55,0.0155,0.16,ci,ci40853399,2025-01-28T07:36:29.590Z,"10 km N of Indio, CA",earthquake,0.15,0.35,0.243,25,automatic,ci,ci
 2025-01-28T07:09:10.810Z,36.547832489014,-121.08966827393,1.5499999523163,1.36,md,11,112,0.05063,0.16,nc,nc75124411,2025-01-28T07:10:46.167Z,"5 km E of Pinnacles, CA",earthquake,0.43,1.58000004,0.13,11,automatic,nc,nc
-2025-01-28T06:52:34.959Z,-28.1647,-175.9982,10,5.8,mww,40,138,2.009,0.84,us,us6000pmqw,2025-01-28T07:14:40.494Z,"Kermadec Islands region",earthquake,10.5,1.951,0.051,37,reviewed,us,us
+2025-01-28T06:52:34.959Z,-28.1647,-175.9982,10,5.8,mww,40,138,2.009,0.84,us,us6000pmqw,2025-01-28T07:39:03.600Z,"Kermadec Islands region",earthquake,10.5,1.951,0.051,37,reviewed,us,us
 2025-01-28T06:40:10.340Z,38.813499450684,-122.81916809082,2.7000000476837,1.07,md,27,52,0.009086,0.02,nc,nc75124406,2025-01-28T06:53:40.437Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.449999988,0.07,28,automatic,nc,nc
 2025-01-28T06:33:08.778Z,61.5438,-148.3695,23.5,1.1,ml,,,,0.18,ak,ak0251aeterh,2025-01-28T06:34:58.518Z,"28 km S of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-28T06:32:22.260Z,36.62516784668,-121.27933502197,5.0999999046326,1.28,md,7,114,0.03181,0.19,nc,nc75124401,2025-01-28T06:34:01.502Z,"16 km NW of Pinnacles, CA",earthquake,0.99,2,0.29,5,automatic,nc,nc
@@ -221,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-27T07:58:39.060Z,33.4833333,-116.4426667,10.75,0.72,ml,49,70,0.1288,0.2,ci,ci40852399,2025-01-27T14:30:28.865Z,"23 km ESE of Anza, CA",earthquake,0.19,0.37,0.181,23,reviewed,ci,ci
 2025-01-27T07:54:36.510Z,57.085,-135.75283333333,6.02,0.52,ml,4,257,0.0278,0.16,av,av93473731,2025-01-27T23:51:53.250Z,"25 km W of Sitka, Alaska",earthquake,1.39,1.05,0.15437688874592,4,reviewed,av,av
 2025-01-27T07:48:55.240Z,37.656666666667,-118.8725,2.58,0.26,md,12,74,0.02287,0.05,nc,nc75123821,2025-01-27T10:30:34.644Z,"10 km E of Mammoth Lakes, CA",earthquake,0.28,0.51,0.118,12,reviewed,nc,nc
-2025-01-27T07:38:27.834Z,9.3347,40.2412,10,4.7,mb,58,92,3.366,0.93,us,us6000pmiy,2025-01-27T20:16:46.915Z,"39 km NNE of Āwash, Ethiopia",earthquake,10.69,1.925,0.084,43,reviewed,us,us
