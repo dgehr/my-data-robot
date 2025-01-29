@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-01-29T03:40:27.960Z,33.3568344,-116.3710022,11.32,1.4,ml,46,35,0.05168,0.2,ci,ci40171258,2025-01-29T03:42:31.755Z,"11 km N of Borrego Springs, CA",earthquake,0.25,0.48,0.2,13,automatic,ci,ci
+2025-01-29T03:40:27.960Z,33.3528333,-116.3728333,11.2,1.18,ml,66,30,0.05377,0.2,ci,ci40171258,2025-01-29T03:46:26.897Z,"11 km N of Borrego Springs, CA",earthquake,0.17,0.3,0.227,25,automatic,ci,ci
 2025-01-29T03:39:17.850Z,33.9776667,-116.7416667,13.7,0.6,ml,28,53,0.0794,0.21,ci,ci40171250,2025-01-29T03:44:23.442Z,"8 km NNE of Cabazon, CA",earthquake,0.28,0.72,0.18,14,automatic,ci,ci
-2025-01-29T03:33:28.954Z,59.2819,-153.2282,89,2.8,ml,,,,0.5,ak,ak0251c0khzr,2025-01-29T03:35:11.489Z,"74 km W of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-01-29T03:33:28.954Z,59.2819,-153.2282,89,2.8,ml,,,,0.5,ak,ak0251c0khzr,2025-01-29T03:47:50.040Z,"74 km W of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-29T03:31:10.881Z,59.9426,-152.8663,103.1,2.1,ml,,,,0.44,ak,ak0251c0k15w,2025-01-29T03:39:49.040Z,"60 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-01-29T03:06:50.236Z,39.1197,-119.041,7.2,1.5,ml,16,61.68,0.049,0.1601,nn,nn00892676,2025-01-29T03:09:20.852Z,"18 km NE of Yerington, Nevada",earthquake,,0.6,0.16,9,automatic,nn,nn
 2025-01-29T03:01:25.310Z,38.828834533691,-122.81632995606,2.2200000286102,0.71,md,6,141,0.007306,0,nc,nc75124946,2025-01-29T03:03:00.578Z,"8 km NNW of The Geysers, CA",earthquake,0.68,1.57000005,0.25,7,automatic,nc,nc
@@ -245,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-28T04:00:30.830Z,61.272333333333,-152.24066666667,1.56,0.07,ml,5,200,0.04196,0.17,av,av93030959,2025-01-28T21:11:57.440Z,"63 km WNW of Tyonek, Alaska",earthquake,0.76,2.16,0.22260196243969,5,reviewed,av,av
 2025-01-28T03:55:39.920Z,31.9566667,-116.3776667,17.51,1.52,ml,15,91,0.3653,0.18,ci,ci40853319,2025-01-28T17:37:26.237Z,"25 km ENE of Ensenada, B.C., MX",earthquake,0.44,1.3,0.231,14,reviewed,ci,ci
 2025-01-28T03:54:12.350Z,33.8946667,-116.8613333,14.64,0.9,ml,40,33,0.08089,0.15,ci,ci40853311,2025-01-28T14:58:31.158Z,"4 km SSE of Banning, CA",earthquake,0.17,0.43,0.134,28,reviewed,ci,ci
-2025-01-28T03:51:45.614Z,39.1687,-119.0276,4,1,ml,10,84.91,0.009,0.1556,nn,nn00892630,2025-01-28T18:46:38.107Z,"23 km NNE of Yerington, Nevada",earthquake,,0.9,0.21,4,reviewed,nn,nn
