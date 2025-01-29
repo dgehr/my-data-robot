@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-29T23:31:54.626Z,61.9078,-151.0362,67.5,1.4,ml,,,,0.23,ak,ak0251ccgsna,2025-01-29T23:33:41.393Z,"21 km ESE of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-01-29T23:30:08.280Z,36.573001861572,-121.13166809082,-0.18000000715256,1.15,md,9,74,0.04328,0.2,nc,nc75125416,2025-01-29T23:31:46.196Z,"5 km NNE of Pinnacles, CA",earthquake,0.56,3.6400001,0.2,8,automatic,nc,nc
 2025-01-29T23:24:26.080Z,38.783164978027,-122.80699920654,10.909999847412,0.58,md,7,197,0.005999,0.06,nc,nc75125406,2025-01-29T23:26:01.123Z,"4 km WNW of The Geysers, CA",earthquake,1.73,2.38000011,0.18,7,automatic,nc,nc
 2025-01-29T23:20:44.920Z,34.4815,-116.5026667,7.09,1.15,ml,28,62,0.1466,0.16,ci,ci40174522,2025-01-29T23:24:12.375Z,"40 km NE of Big Bear City, CA",earthquake,0.24,1.31,0.211,23,automatic,ci,ci
 2025-01-29T23:16:23.647Z,64.6799,-149.2961,17,1.7,ml,,,,0.3,ak,ak0251ccdiik,2025-01-29T23:18:09.689Z,"12 km NW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-29T23:02:12.995Z,62.1005,-145.5729,16.4,1.9,ml,,,,0.9,ak,ak0251ccaho3,2025-01-29T23:04:39.414Z,"1 km SW of Glennallen, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-01-29T22:46:05.550Z,38.833499908447,-122.80349731445,2.0899999141693,0.88,md,10,101,0.01132,0.03,nc,nc75125391,2025-01-29T22:47:40.701Z,"7 km WNW of Cobb, CA",earthquake,0.55,0.810000002,0.29,12,automatic,nc,nc
-2025-01-29T22:38:44.068Z,36.1283,-115.1854,15.9,1.9,ml,8,332.97,0.884,0.4152,nn,nn00892713,2025-01-29T22:41:23.473Z,"4 km NW of Paradise, Nevada",earthquake,,10.2,0.36,5,automatic,nn,nn
 2025-01-29T22:16:02.455Z,60.3436,-141.1567,20,1.4,ml,,,,0.51,ak,ak0251cbs19x,2025-01-29T22:18:06.371Z,"119 km NW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-29T22:03:38.150Z,38.837833404541,-122.83766937256,1.3400000333786,1.27,md,18,109,0.001864,0.02,nc,nc75125381,2025-01-29T22:05:15.727Z,"10 km NW of The Geysers, CA",earthquake,0.25,0.370000005,0.48,18,automatic,nc,nc
 2025-01-29T21:56:28.973Z,64.6779,-149.1488,13,1,ml,,,,0.62,ak,ak0251cbf8cx,2025-01-29T21:58:08.234Z,"8 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -243,7 +244,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-29T01:06:04.610Z,33.7083333,-116.7488333,15.34,0.8,ml,29,69,0.03132,0.16,ci,ci40170866,2025-01-29T15:12:30.456Z,"4 km SW of Idyllwild, CA",earthquake,0.21,0.42,0.27,24,reviewed,ci,ci
 2025-01-29T01:04:35.180Z,60.036666666667,-153.06233333333,-0.23,-0.74,ml,4,133,0.02076,0.03,av,av93475731,2025-01-29T20:16:02.430Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.42,1.35,0.22750976022393,4,reviewed,av,av
 2025-01-29T01:03:57.530Z,44.7655,-110.769,8.09,2.04,ml,23,76,0.05609,0.17,uu,uu80100211,2025-01-29T15:57:37.360Z,"24 km SSW of Mammoth, Wyoming",earthquake,0.38,0.62,0.45904407191693,4,reviewed,uu,uu
-2025-01-29T00:59:47.660Z,44.765666666667,-110.771,8.24,3.74,ml,27,76,0.05726,0.18,uu,uu80100206,2025-01-29T20:21:16.040Z,"24 km SSW of Mammoth, Wyoming",earthquake,0.34,0.72,0.13741340025955,19,reviewed,uu,uu
+2025-01-29T00:59:47.660Z,44.765666666667,-110.771,8.24,3.74,ml,27,76,0.05726,0.18,uu,uu80100206,2025-01-29T23:28:27.098Z,"24 km SSW of Mammoth, Wyoming",earthquake,0.34,0.72,0.13741340025955,19,reviewed,uu,uu
 2025-01-29T00:58:27.880Z,44.724333333333,-112.488,3.21,1.21,ml,12,86,0.1471,0.11,mb,mb90071843,2025-01-29T17:58:10.040Z,"12 km NE of Lima, Montana",earthquake,0.4,0.93,0.15244576938102,17,reviewed,mb,mb
 2025-01-29T00:55:22.200Z,44.778,-110.766,6.2,0.59,md,13,215,0.06106,0.19,uu,uu80100201,2025-01-29T14:48:06.970Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.79,1.08,0.36649293042123,8,reviewed,uu,uu
 2025-01-29T00:54:38.890Z,53.946666666667,-166.5645,10.36,1.17,ml,10,129,0.07224,0.12,av,av93475726,2025-01-29T19:41:56.870Z,"6 km NNW of Dutch Harbor, Alaska",earthquake,0.4,0.69,0.24805002271284,10,reviewed,av,av
@@ -262,5 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-28T23:43:38.210Z,61.303833333333,-152.292,0.4,-0.62,ml,4,259,0.0593,0.11,av,av93031044,2025-01-29T08:44:07.340Z,"67 km WNW of Beluga, Alaska",earthquake,0.72,3.28,0.13324585235671,4,reviewed,av,av
 2025-01-28T23:38:53.480Z,46.049166666667,-122.82316666667,-0.29,1.65,ml,15,135,0.1183,0.08,uw,uw62064602,2025-01-28T23:46:05.410Z,"4 km NNE of Kalama, Washington",explosion,0.59,31.61,0.13373416438369,6,reviewed,uw,uw
 2025-01-28T23:37:08.810Z,36.0735,-120.22183333333,8.7,1.01,md,12,129,0.06086,0.07,nc,nc75124886,2025-01-29T05:17:37.605Z,"11 km NW of Avenal, CA",earthquake,0.47,0.71,0.085,4,reviewed,nc,nc
-2025-01-28T23:36:12.802Z,31.611,-104.525,6.51,2.4,ml,32,87,0.1,0.2,tx,tx2025bzdh,2025-01-29T11:13:16.173Z,"64 km SSW of Whites City, New Mexico",earthquake,1.0952698552094,0.84425912596078,0.1,14,reviewed,tx,tx
-2025-01-28T23:32:32.580Z,53.941333333333,-166.571,9.72,0.49,ml,8,224,0.07041,0.1,av,av93475661,2025-01-29T08:13:22.810Z,"6 km NNW of Dutch Harbor, Alaska",earthquake,0.48,0.35,0.2314468438473,8,reviewed,av,av
