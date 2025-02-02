@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-02T17:04:11.202Z,36.5347,25.6671,10,4.2,mb,38,63,1.395,0.85,us,us7000pauf,2025-02-02T17:29:19.040Z,"24 km ENE of Firá, Greece",earthquake,4.37,1.72,0.132,16,reviewed,us,us
 2025-02-02T17:02:43.210Z,35.784832000732,-121.13800048828,5.2199997901917,1.02,md,10,215,0.07874,0.06,nc,nc75127166,2025-02-02T17:04:19.208Z,"16 km NNE of San Simeon, CA",earthquake,0.96,0.730000019,0.17,3,automatic,nc,nc
 2025-02-02T16:50:51.280Z,32.7593333,-116.0308333,7.48,1.22,ml,32,38,0.1275,0.16,ci,ci40178474,2025-02-02T16:54:22.578Z,"4 km NW of Ocotillo, CA",earthquake,0.19,0.77,0.233,28,automatic,ci,ci
-2025-02-02T16:50:32.060Z,38.632333333333,-122.84833333333,4.14,2.18,md,65,37,0.02476,0.08,nc,nc75127161,2025-02-02T20:07:19.041Z,"3 km NE of Healdsburg, CA",earthquake,0.13,0.25,0.181,62,reviewed,nc,nc
+2025-02-02T16:50:32.060Z,38.632333333333,-122.84833333333,4.14,2.18,md,65,37,0.02476,0.08,nc,nc75127161,2025-02-02T20:27:15.185Z,"3 km NE of Healdsburg, CA",earthquake,0.13,0.25,0.181,62,reviewed,nc,nc
 2025-02-02T16:46:48.290Z,58.285166666667,-154.97116666667,3.85,-0.18,ml,7,148,0.04988,0.23,av,av93481521,2025-02-02T20:20:51.340Z,"85 km NNW of Karluk, Alaska",earthquake,0.49,1.21,0.24363675162792,7,reviewed,av,av
 2025-02-02T16:45:36.015Z,60.9784,-150.3297,48.6,1.6,ml,,,,0.52,ak,ak0251iuj3z5,2025-02-02T16:47:07.815Z,"20 km ENE of Point Possession, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-02-02T16:35:58.520Z,61.220666666667,-152.31033333333,6.43,-1.28,ml,5,211,0.02894,0.05,av,av93481511,2025-02-02T20:17:03.300Z,"65 km WNW of Tyonek, Alaska",earthquake,1.52,0.83,0.25745788521079,6,reviewed,av,av
@@ -83,6 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-02T09:13:10.084Z,-23.384,-179.4452,538.11,4.6,mb,24,154,5.993,0.51,us,us7000pas9,2025-02-02T09:58:28.040Z,"south of the Fiji Islands",earthquake,19.52,15.707,0.1,30,reviewed,us,us
 2025-02-02T09:12:52.893Z,61.4298,-146.6119,20,1.6,ml,,,,0.81,ak,ak0251iq61ex,2025-02-02T09:14:45.780Z,"36 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-02T09:11:50.820Z,62.1587,-148.9004,23.2,1.3,ml,,,,0.22,ak,ak0251iq5tje,2025-02-02T09:13:20.039Z,"43 km N of Sutton-Alpine, Alaska",earthquake,,2,,,automatic,ak,ak
+2025-02-02T09:08:43.000Z,38.812166666667,-122.8265,2.16,0.99,md,28,49,0.003902,0.03,nc,nc75127071,2025-02-02T20:33:32.197Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.25,0.237,25,reviewed,nc,nc
 2025-02-02T09:07:26.155Z,36.7259,-116.0738,2.8,-0.5,ml,10,249.36,0.03,0.0328,nn,nn00892880,2025-02-02T14:53:47.947Z,"40 km WNW of Indian Springs, Nevada",earthquake,,3.9,0.11,2,reviewed,nn,nn
 2025-02-02T09:05:38.380Z,38.792835235596,-122.75700378418,0.11999999731779,1.69,md,18,83,0.008061,0.03,nc,nc75127066,2025-02-02T09:07:13.754Z,"2 km N of The Geysers, CA",earthquake,0.21,0.50999999,0.25,17,automatic,nc,nc
 2025-02-02T08:44:28.854Z,32.437,-102.132,4.0855,1.3,ml,27,97,0,0.5,tx,tx2025chdk,2025-02-02T08:58:42.081Z,"37 km SSW of Los Ybanez, Texas",earthquake,0,1.0195214748383,0.1,18,automatic,tx,tx
