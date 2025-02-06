@@ -268,4 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-05T16:07:01.030Z,35.00216667,-97.65716667,8.4,1.48,ml,42,75,0.09898057663,0.28,ok,ok2025cnen,2025-02-05T17:21:54.441Z,"4 km SW of Dibble, Oklahoma",earthquake,,1.5,0.22,17,reviewed,ok,ok
 2025-02-05T16:06:18.640Z,61.276,-152.255,2.24,-0.74,ml,6,188,0.04945,0.09,av,av93485246,2025-02-06T11:22:00.000Z,"64 km WNW of Tyonek, Alaska",earthquake,0.4,0.94,0.096556053857936,7,reviewed,av,av
 2025-02-05T16:00:54.370Z,61.313333333333,-152.259,0.63,0.14,ml,7,175,0.06947,0.1,av,av93485241,2025-02-06T11:19:24.180Z,"66 km WNW of Beluga, Alaska",earthquake,0.34,2.02,0.19629890637712,8,reviewed,av,av
-2025-02-05T15:47:27.700Z,19.8751,-65.5785,34,3.76,md,19,291,1.5953,0.25,pr,pr2025036001,2025-02-05T16:38:14.403Z,"162 km N of Suárez, Puerto Rico",earthquake,1.56,16.95,0.1,13,reviewed,pr,pr
