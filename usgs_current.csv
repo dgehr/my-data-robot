@@ -269,5 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-05T22:59:24.635Z,36.4664,25.6671,10,4.2,mb,18,111,1.335,1.36,us,us7000pbp4,2025-02-05T23:09:29.040Z,"21 km ENE of Mesariá, Greece",earthquake,5.4,1.796,0.136,16,reviewed,us,us
 2025-02-05T22:57:45.641Z,36.5499,25.6795,10,4,mb,21,85,1.413,0.82,us,us7000pbp3,2025-02-05T23:07:33.040Z,"26 km ENE of Firá, Greece",earthquake,4.73,1.945,0.119,19,reviewed,us,us
 2025-02-05T22:57:13.250Z,37.373,-118.55,7.58,1.29,md,25,146,0.02245,0.09,nc,nc75128351,2025-02-06T04:57:11.585Z,"6 km SSE of Round Valley, CA",earthquake,0.23,0.51,0.08,14,reviewed,nc,nc
-2025-02-05T22:53:38.238Z,-39.0218,-92.6005,10,4.6,mb,33,159,16.178,0.71,us,us7000pbp5,2025-02-05T23:15:19.040Z,"southeast of Easter Island",earthquake,14.73,1.94,0.096,32,reviewed,us,us
-2025-02-05T22:51:48.040Z,61.2745,-152.25583333333,3,0.21,ml,8,147,0.04955,0.07,av,av93485526,2025-02-06T13:29:12.940Z,"64 km WNW of Tyonek, Alaska",earthquake,0.23,0.4,0.11729058460282,9,reviewed,av,av
