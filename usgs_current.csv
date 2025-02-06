@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-06T10:27:46.803Z,39.8961,-119.4752,15.3,1.2,ml,8,130.17,0.337,0.1362,nn,nn00892965,2025-02-06T10:30:11.873Z,"12 km ESE of Sutcliffe, Nevada",earthquake,,1.7,0.16,2,automatic,nn,nn
 2025-02-06T10:26:37.380Z,33.2821667,-116.2423333,10.37,0.82,ml,53,33,0.08977,0.21,ci,ci40180594,2025-02-06T10:31:49.875Z,"13 km ENE of Borrego Springs, CA",earthquake,0.21,0.47,0.134,23,automatic,ci,ci
 2025-02-06T10:23:13.150Z,38.814498901367,-122.80366516113,2.4000000953674,0.9,md,13,78,0.009231,0.02,nc,nc75128611,2025-02-06T10:25:55.858Z,"6 km NNW of The Geysers, CA",earthquake,0.31,0.629999995,0.18,13,automatic,nc,nc
-2025-02-06T10:15:00.390Z,35.66933333,-97.40533333,7.22,1.83,ml,97,23,0.03329346669,0.15,ok,ok2025cook,2025-02-06T13:44:22.550Z,"6 km ENE of Edmond, Oklahoma",earthquake,,0.3,0.23,43,reviewed,ok,ok
+2025-02-06T10:15:00.390Z,35.66933333,-97.40533333,7.22,1.83,ml,97,23,0.03329346669,0.15,ok,ok2025cook,2025-02-06T13:46:04.147Z,"6 km ENE of Edmond, Oklahoma",earthquake,,0.3,0.23,43,reviewed,ok,ok
 2025-02-06T10:04:14.688Z,31.663,-104.433,7.0437,1.6,ml,14,67,0,0.2,tx,tx2025coob,2025-02-06T10:08:41.687Z,"57 km S of Whites City, New Mexico",earthquake,0,2.964339017868,0.2,12,automatic,tx,tx
 2025-02-06T10:00:45.615Z,61.4349,-151.9713,115.3,0.6,ml,,,,0.33,ak,ak0251pcu9u9,2025-02-06T10:02:30.779Z,"57 km NW of Beluga, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2025-02-06T09:53:05.080Z,46.741832733154,-121.12349700928,-1.0299999713898,1.9766852855682,ml,63,88,,0.25,uw,uw62065937,2025-02-06T09:55:54.080Z,"16 km WSW of Nile, Washington",earthquake,0.48,3.67000008,0.23210678994656,21,automatic,uw,uw
@@ -86,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-06T04:10:20.220Z,35.9083333,-117.755,9.08,1.58,ml,27,64,0.06532,0.12,ci,ci40180410,2025-02-06T04:14:16.241Z,"14 km ESE of Little Lake, CA",earthquake,0.17,0.37,0.269,26,automatic,ci,ci
 2025-02-06T04:08:18.340Z,36.5714,25.6683,10,4,mb,22,106,1.428,0.59,us,us7000pbr0,2025-02-06T04:23:20.040Z,"27 km NE of Firá, Greece",earthquake,4.13,1.94,0.111,22,reviewed,us,us
 2025-02-06T04:01:24.470Z,38.828166666667,-122.84966666667,1.98,0.05,md,13,88,0.005663,0.03,nc,nc75128491,2025-02-06T07:00:48.445Z,"10 km NW of The Geysers, CA",earthquake,0.27,0.37,0.304,13,reviewed,nc,nc
-2025-02-06T04:01:21.778Z,32.193,-102.125,4.2136,2,ml,51,48,0.1,0.4,tx,tx2025cocb,2025-02-06T04:09:44.560Z,"22 km NNW of Midland, Texas",earthquake,0,0.76357835531235,0.1,35,automatic,tx,tx
+2025-02-06T04:01:22.260Z,32.196,-102.13,7.0557,2,ml,27,69,0.1,0.1,tx,tx2025cocb,2025-02-06T13:51:15.294Z,"22 km NNW of Midland, Texas",earthquake,0.37771466715694,1.8407725455375,0.1,21,reviewed,tx,tx
 2025-02-06T03:50:34.890Z,38.789665222168,-122.76933288574,0.75999999046326,0.77,md,8,97,0.01328,0.02,nc,nc75128486,2025-02-06T03:53:21.053Z,"2 km NNW of The Geysers, CA",earthquake,0.45,1.10000002,0.05,9,automatic,nc,nc
 2025-02-06T03:36:40.735Z,36.5315,25.5755,10,4.4,mb,44,106,1.36,0.99,us,us7000pbqv,2025-02-06T03:51:58.040Z,"17 km NE of Firá, Greece",earthquake,5.14,1.545,0.077,49,reviewed,us,us
 2025-02-06T03:35:43.371Z,64.6685,-146.8844,12.6,0.8,ml,,,,0.8,ak,ak0251p8vqil,2025-02-06T03:38:43.006Z,"8 km E of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -276,5 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-05T13:55:27.330Z,38.758833333333,-122.72816666667,1.55,0.27,md,12,89,0.003778,0.02,nc,nc75128176,2025-02-05T20:01:18.285Z,"3 km SE of The Geysers, CA",earthquake,0.24,0.27,0.2,6,reviewed,nc,nc
 2025-02-05T13:55:12.960Z,33.8065,-117.6308333,5.4,2.14,ml,97,43,0.0213,0.18,ci,ci40179970,2025-02-05T18:21:59.730Z,"9 km SW of Corona, CA",earthquake,0.12,0.26,0.169,27,reviewed,ci,ci
 2025-02-05T13:53:28.710Z,19.0855,-67.993,24,3.71,md,17,253,0.6911,0.44,pr,pr2025036000,2025-02-05T17:42:14.040Z,"70 km NE of Punta Cana, Dominican Republic",earthquake,2.24,27.92,0.08,13,reviewed,pr,pr
-2025-02-05T13:49:22.970Z,61.275833333333,-152.254,3.02,-0.81,ml,6,148,0.04894,0.08,av,av93485146,2025-02-06T06:33:29.770Z,"64 km WNW of Tyonek, Alaska",earthquake,0.33,0.52,0.063790429774546,7,reviewed,av,av
-2025-02-05T13:49:02.803Z,60.9615,-152.9273,160.4,1.5,ml,,,,1.06,ak,ak0251nrdmy0,2025-02-05T13:51:11.188Z,"94 km WNW of Nikiski, Alaska",earthquake,,3.1,,,automatic,ak,ak
