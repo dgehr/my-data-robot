@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-08T05:34:33.610Z,34.0135,-117.2051667,7.02,0.85,ml,31,49,0.07123,0.18,ci,ci40181930,2025-02-08T05:39:25.121Z,"5 km SSW of Redlands, CA",earthquake,0.21,0.58,0.176,30,automatic,ci,ci
 2025-02-08T05:09:26.617Z,61.6288,-150.9444,54.5,2.2,ml,,,,0.22,ak,ak0251skzos5,2025-02-08T05:10:35.409Z,"24 km WNW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-02-08T05:08:58.940Z,33.524,-116.7268333,4.02,0.64,ml,27,39,0.04221,0.16,ci,ci40181922,2025-02-08T05:13:13.124Z,"6 km SW of Anza, CA",earthquake,0.19,0.41,0.233,20,automatic,ci,ci
 2025-02-08T05:00:34.320Z,-6.0351,103.2686,27.694,5.1,mb,53,43,1.693,1.04,us,us7000pc9d,2025-02-08T05:20:29.040Z,"222 km S of Pagar Alam, Indonesia",earthquake,6.88,5.299,0.075,59,reviewed,us,us
@@ -239,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-07T06:05:54.404Z,59.8864,-152.2362,112.5,1.2,ml,,,,0.46,ak,ak0251qy0z68,2025-02-07T06:07:25.619Z,"25 km WNW of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-02-07T05:56:54.523Z,60.2432,-152.6236,99,0.8,ml,,,,0.31,ak,ak0251qxqh3g,2025-02-07T05:58:53.204Z,"57 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-07T05:52:14.620Z,18.184833333333,-66.141833333333,76.43,2.98,md,17,81,0.1354,0.18,pr,pr71472368,2025-02-07T06:14:17.550Z,"2 km ENE of Cidra, Puerto Rico",earthquake,1.03,0.7,0.047287962387558,5,reviewed,pr,pr
-2025-02-07T05:36:55.017Z,13.3208,-88.1849,207.28,4.4,mb,54,150,0.199,0.84,us,us7000pc16,2025-02-07T08:15:25.040Z,"10 km NE of Jucuarán, El Salvador",earthquake,9.42,5.777,0.079,46,reviewed,us,us
