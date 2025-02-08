@@ -264,4 +264,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-07T23:06:59.620Z,61.311333333333,-152.24866666667,1.66,-0.37,ml,6,175,0.06451,0.07,av,av93488966,2025-02-08T09:03:13.930Z,"65 km WNW of Beluga, Alaska",earthquake,0.37,1.26,0.13089541092269,7,reviewed,av,av
 2025-02-07T23:00:14.931Z,3.9897,62.5707,10,5.1,mb,68,93,10.978,1.16,us,us7000pc7i,2025-02-08T12:54:15.040Z,"Carlsberg Ridge",earthquake,6.99,1.873,0.066,74,reviewed,us,us
 2025-02-07T22:58:02.651Z,39.1654,-119.0138,8.4,3.5,ml,42,66.94,0.02,0.1487,nn,nn00893037,2025-02-08T02:47:57.372Z,"23 km NNE of Yerington, Nevada",earthquake,,0.6,0.21,9,reviewed,nn,nn
-2025-02-07T22:49:10.860Z,38.821998596191,-122.82316589356,2.4900000095367,0.75,md,10,62,0.009334,0.02,nc,nc75129542,2025-02-07T22:50:47.347Z,"8 km NW of The Geysers, CA",earthquake,0.37,0.970000029,0.35,13,automatic,nc,nc
