@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-11T11:37:40.720Z,38.825164794922,-122.85050201416,1.3500000238419,0.39,md,14,119,0.005515,0.04,nc,nc75131677,2025-02-11T11:39:17.929Z,"10 km NW of The Geysers, CA",earthquake,0.28,0.529999971,0.29,15,automatic,nc,nc
 2025-02-11T11:23:05.850Z,36.6677,-116.2668,5.2,1,ml,27,111.48,0.062,0.1696,nn,nn00893293,2025-02-11T11:25:20.735Z,"51 km ESE of Beatty, Nevada",earthquake,,0.7,0.17,16,automatic,nn,nn
 2025-02-11T11:22:02.544Z,65.4131,-148.2367,9.2,2.2,ml,,,,0.73,ak,ak0251xn926h,2025-02-11T11:24:09.704Z,"18 km SE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-11T11:20:11.510Z,40.333332061768,-124.58666992188,21.879999160767,2.6,md,18,296,0.192,0.1,nc,nc75131672,2025-02-11T11:32:15.174Z,"26 km WNW of Petrolia, CA",earthquake,4.03,0.449999988,0.1,15,automatic,nc,nc
@@ -228,7 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-10T12:04:51.690Z,34.1651667,-117.2636667,7.47,1.05,ml,52,36,0.03547,0.21,ci,ci40183234,2025-02-10T15:32:15.061Z,"5 km NE of San Bernardino, CA",earthquake,0.19,0.43,0.158,30,reviewed,ci,ci
 2025-02-10T11:58:00.920Z,34.17,-117.2641667,7.56,1.71,ml,98,19,0.03876,0.17,ci,ci40183226,2025-02-10T18:29:49.801Z,"5 km NNE of San Bernardino, CA",earthquake,0.1,0.3,0.152,25,reviewed,ci,ci
 2025-02-10T11:48:39.711Z,64.0837,-150.1849,14.9,1.5,ml,,,,0.4,ak,ak0251vzvdc3,2025-02-10T11:50:01.159Z,"52 km WSW of Clear, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-02-10T11:45:47.490Z,34.1673333,-117.2641667,7.62,1.24,ml,74,20,0.03675,0.18,ci,ci40183210,2025-02-10T15:37:24.040Z,"5 km NNE of San Bernardino, CA",earthquake,0.14,0.35,0.211,27,reviewed,ci,ci
-2025-02-10T11:44:31.350Z,44.735,-111.16966666667,14.43,1.65,ml,23,62,0.02464,0.14,uu,uu80101946,2025-02-10T14:35:53.950Z,"4 km SSE of Hebgen Lake Estates, Montana",earthquake,0.37,0.43,0.47490933401691,2,reviewed,uu,uu
-2025-02-10T11:42:09.940Z,65.4494,-148.1686,0,1.6,ml,,,,0.43,ak,ak0251vzu0qq,2025-02-10T11:43:43.765Z,"19 km ESE of Livengood, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-02-10T11:40:22.160Z,53.602333333333,-166.9405,14.54,1.36,ml,5,332,0.195,0.08,av,av93493886,2025-02-11T03:02:58.850Z,"40 km SW of Unalaska, Alaska",earthquake,1.21,0.46,0.18840628738007,5,reviewed,av,av
