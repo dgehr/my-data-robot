@@ -164,7 +164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-10T11:22:59.286Z,36.7615,-116.2406,5.2,-0.5,ml,10,96.35,0.041,0.0647,nn,nn00893176,2025-02-10T11:25:00.104Z,"49 km ESE of Beatty, Nevada",earthquake,,1.4,0.57,4,automatic,nn,nn
 2025-02-10T11:17:27.966Z,-7.092,155.062,10,5,mb,32,126,4.077,0.83,us,us7000pcmf,2025-02-10T12:05:02.040Z,"97 km SSW of Panguna, Papua New Guinea",earthquake,11.31,1.911,0.127,21,reviewed,us,us
 2025-02-10T11:13:16.870Z,38.820167541504,-122.84216308594,2.329999923706,0.75,md,15,77,0.006302,0.02,nc,nc75131127,2025-02-10T11:14:52.269Z,"9 km NW of The Geysers, CA",earthquake,0.27,0.600000024,0.19,15,automatic,nc,nc
-2025-02-10T11:11:16.114Z,36.6429,-116.2737,9.3,-0.1,ml,12,179.86,0.052,0.1575,nn,nn00893175,2025-02-10T11:13:10.295Z,"52 km SE of Beatty, Nevada",earthquake,,1.1,0.3,4,automatic,nn,nn
+2025-02-10T11:11:16.863Z,36.6575,-116.2713,7,-0.1,ml,24,158.92,0.056,0.0802,nn,nn00893175,2025-02-11T03:43:32.780Z,"51 km ESE of Beatty, Nevada",earthquake,,0.9,0.2,4,reviewed,nn,nn
 2025-02-10T11:05:49.191Z,64.8486,-149.0614,14.4,1.1,ml,,,,0.58,ak,ak0251vzm69z,2025-02-11T01:37:17.749Z,"27 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-10T11:04:17.040Z,38.821166666667,-122.85383333333,2.89,0.28,md,29,93,0.006797,0.02,nc,nc75131122,2025-02-10T21:50:20.912Z,"10 km NW of The Geysers, CA",earthquake,0.16,0.36,0.221,27,reviewed,nc,nc
 2025-02-10T11:00:30.030Z,38.792835235596,-122.77799987793,1.460000038147,0.75,md,9,102,0.007758,0.03,nc,nc75131117,2025-02-10T11:02:07.262Z,"3 km NW of The Geysers, CA",earthquake,0.39,0.74000001,0.07,10,automatic,nc,nc
