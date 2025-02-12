@@ -233,5 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-11T19:53:16.930Z,61.324166666667,-152.3095,-2.25,-0.36,ml,7,258,0.07198,0.25,av,av93032609,2025-02-12T02:39:40.450Z,"68 km WNW of Beluga, Alaska",earthquake,1.51,4.2,0.24706913076977,7,reviewed,av,av
 2025-02-11T19:40:30.680Z,34.0345,-117.155,10.66,1.1,ml,23,85,0.03538,0.16,ci,ci40184418,2025-02-11T19:48:46.073Z,"4 km SE of Redlands, CA",earthquake,0.23,0.53,0.103,8,reviewed,ci,ci
 2025-02-11T19:33:25.670Z,46.279,-121.90416666667,3.77,0.47,md,7,214,0.1659,0.08,uw,uw62066967,2025-02-11T22:43:18.830Z,"40 km SSW of Packwood, Washington",earthquake,0.97,9.08,0.055505977029154,4,reviewed,uw,uw
-2025-02-11T19:29:44.300Z,34.1631667,-117.2631667,5.81,1.44,ml,64,29,0.0344,0.19,ci,ci40184410,2025-02-12T16:07:32.110Z,"5 km NE of San Bernardino, CA",earthquake,0.15,0.51,0.118,53,reviewed,ci,ci
-2025-02-11T19:23:47.283Z,63.3141,-151.3003,10.8,1.7,ml,,,,0.71,ak,ak0251xs0ucm,2025-02-11T19:27:15.292Z,"32 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
