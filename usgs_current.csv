@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-21T17:41:46.767Z,62.6135,-151.2644,84.1,1.7,ml,,,,0.89,ak,ak0252eabaxg,2025-02-21T17:44:51.059Z,"28 km WNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-02-21T17:37:16.993Z,64.67,-146.8691,5.7,1,ml,,,,0.47,ak,ak0252eaadrn,2025-02-21T17:39:10.942Z,"8 km E of Eielson Air Force Base, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-21T16:54:34.370Z,38.766998291016,-122.73899841309,-0.81999999284744,0.84,md,4,166,0.0123,0.03,nc,nc75137117,2025-02-21T16:56:11.362Z,"2 km SE of The Geysers, CA",earthquake,0.43,3.45000005,0.21,6,automatic,nc,nc
 2025-02-21T16:48:21.024Z,61.3248,-152.2555,4.5,0.4,ml,,,,0.09,ak,ak0252e9rbcm,2025-02-21T16:55:00.028Z,"66 km WNW of Beluga, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -71,7 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-21T08:24:08.310Z,38.806999206543,-122.77233123779,1.8600000143051,1.18,md,27,80,0.009037,0.03,nc,nc75136952,2025-02-21T08:25:43.379Z,"4 km NNW of The Geysers, CA",earthquake,0.22,0.330000013,0.16,25,automatic,nc,nc
 2025-02-21T08:12:40.290Z,19.032667160034,-155.34683227539,20.270000457764,2.68,ml,56,215,0.1637,0.25,hv,hv74620192,2025-02-21T08:58:37.040Z,"23 km SE of Pāhala, Hawaii",earthquake,0.64,2.52999997,0.35,32,automatic,hv,hv
 2025-02-21T08:01:10.586Z,61.1274,-151.3261,77.5,1.6,ml,,,,0.18,ak,ak0252e4pr1u,2025-02-21T08:02:15.421Z,"12 km WNW of Tyonek, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-02-21T07:44:21.700Z,35.6823349,-117.5416641,4.64,1.17,ml,16,118,0.09756,0.11,ci,ci40190362,2025-02-21T07:46:28.900Z,"14 km ENE of Ridgecrest, CA",earthquake,0.43,0.88,0.153,7,automatic,ci,ci
+2025-02-21T07:44:21.710Z,35.6838333,-117.5428333,5.08,1.18,ml,23,74,0.09877,0.15,ci,ci40190362,2025-02-21T17:47:38.471Z,"14 km ENE of Ridgecrest, CA",earthquake,0.22,0.58,0.126,7,reviewed,ci,ci
 2025-02-21T07:26:51.910Z,19.4445,-65.740666666667,37.94,3.39,md,16,279,1.175,0.36,pr,pr71473193,2025-02-21T07:48:36.100Z,"112 km N of Suárez, Puerto Rico",earthquake,2.9,18.41,0.13969055142517,7,reviewed,pr,pr
 2025-02-21T07:23:24.400Z,38.788333892822,-122.77283477783,0.76999998092651,1.06,md,11,90,0.01274,0.02,nc,nc75136947,2025-02-21T07:25:02.675Z,"2 km NW of The Geysers, CA",earthquake,0.32,0.600000024,0.22,10,automatic,nc,nc
 2025-02-21T07:20:56.159Z,-19.5036,168.9379,43.738,5.1,mww,58,113,3.393,0.83,us,us7000pf62,2025-02-21T12:03:06.040Z,"36 km W of Isangel, Vanuatu",earthquake,9.62,6.983,0.08,15,reviewed,us,us
@@ -196,8 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T18:18:01.800Z,33.4538333,-116.6331667,11.84,0.81,ml,32,38,0.01074,0.15,ci,ci40189850,2025-02-20T21:00:19.841Z,"12 km SSE of Anza, CA",earthquake,0.19,0.41,0.129,19,reviewed,ci,ci
 2025-02-20T18:17:56.930Z,61.305333333333,-152.22816666667,1.28,-0.5,ml,6,220,0.05335,0.04,av,av93506381,2025-02-21T00:31:17.050Z,"64 km WNW of Beluga, Alaska",earthquake,0.39,1.07,0.15184325534986,6,reviewed,av,av
 2025-02-20T18:02:09.180Z,44.380666666667,-114.6705,9.36,1.56,ml,9,99,0.3022,0.16,mb,mb90072973,2025-02-20T18:47:07.750Z,"25 km WNW of Clayton, Idaho",earthquake,0.44,1.68,0.22832667514942,14,reviewed,mb,mb
-2025-02-20T17:52:38.686Z,36.6739,21.2966,10,4.2,mb,46,132,0.712,1.29,us,us7000pf23,2025-02-20T18:14:59.040Z,"39 km WSW of Methóni, Greece",earthquake,5.16,1.932,0.112,22,reviewed,us,us
-2025-02-20T17:51:05.810Z,18.2308,-67.8871,119,3.82,md,24,177,0.5696,0.24,pr,pr2025051000,2025-02-20T18:28:40.040Z,"67 km SE of Punta Cana, Dominican Republic",earthquake,1.87,0.97,0.09,18,reviewed,pr,pr
-2025-02-20T17:49:32.760Z,38.787166595459,-122.77133178711,3.6600000858307,1.14,md,19,82,0.01428,0.02,nc,nc75136647,2025-02-20T17:51:10.643Z,"2 km NW of The Geysers, CA",earthquake,0.27,0.649999976,0.12,20,automatic,nc,nc
-2025-02-20T17:47:36.870Z,61.313333333333,-152.25933333333,1.81,0.65,ml,9,122,0.06959,0.09,av,av93506376,2025-02-21T00:16:37.650Z,"66 km WNW of Beluga, Alaska",earthquake,0.27,0.7,0.21689630834166,10,reviewed,av,av
-2025-02-20T17:44:52.694Z,60.8579,-150.8829,44.3,1.8,ml,,,,0.61,ak,ak0252cmsm1h,2025-02-20T17:46:43.750Z,"12 km SW of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
