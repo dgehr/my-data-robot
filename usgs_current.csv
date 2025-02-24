@@ -172,6 +172,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-24T06:32:46.650Z,33.7423333,-117.0343333,17.05,1,ml,44,43,0.04373,0.17,ci,ci40192738,2025-02-24T06:36:56.965Z,"4 km E of Green Acres, CA",earthquake,0.21,0.36,0.174,28,automatic,ci,ci
 2025-02-24T06:27:47.705Z,59.3766,-152.0626,153.6,2.1,ml,,,,0.62,ak,ak0252j2aksy,2025-02-24T06:29:43.562Z,"8 km WNW of Nanwalek, Alaska",earthquake,,2,,,automatic,ak,ak
 2025-02-24T06:10:04.675Z,38.0442,-118.3689,9,1.5,ml,14,74.84,0.578,0.1316,nn,nn00893937,2025-02-24T22:32:49.952Z,"26 km NNE of Benton, California",earthquake,,3.4,0.3,10,reviewed,nn,nn
+2025-02-24T06:09:31.210Z,61.3135,-152.25033333333,0.83,-0.21,ml,10,122,0.06663,0.07,av,av93033589,2025-02-24T23:51:23.700Z,"65 km WNW of Beluga, Alaska",earthquake,0.21,1.44,0.17420160135714,10,reviewed,av,av
 2025-02-24T06:09:25.660Z,53.943166666667,-166.69316666667,3.54,1.23,ml,14,101,0.02569,0.21,av,av93510226,2025-02-24T22:16:05.920Z,"11 km WNW of Dutch Harbor, Alaska",earthquake,0.37,0.43,0.25144010136079,14,reviewed,av,av
 2025-02-24T06:04:53.090Z,38.824001312256,-122.80533599853,1.4099999666214,1.09,md,14,63,0.00375,0.02,nc,nc75138572,2025-02-24T20:13:33.275Z,"7 km NNW of The Geysers, CA",earthquake,0.26,0.75,0.07,15,automatic,nc,nc
 2025-02-24T06:04:25.448Z,59.9992,-151.9929,50.8,1.6,ml,,,,0.34,ak,ak0252j25lm8,2025-02-24T06:06:18.442Z,"15 km WNW of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -200,7 +201,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-24T03:53:54.867Z,62.0352,-151.2859,74.2,1.9,ml,,,,0.43,ak,ak0252j0nv5q,2025-02-24T03:55:52.759Z,"7 km NE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-02-24T03:42:22.440Z,33.4823333,-116.4825,11.5,0.38,ml,21,63,0.1008,0.15,ci,ci40192666,2025-02-24T13:59:21.075Z,"20 km ESE of Anza, CA",earthquake,0.24,0.69,0.146,9,reviewed,ci,ci
 2025-02-24T03:36:36.829Z,41.7842,-119.6614,1.7,1.4,ml,4,234.98,0.425,0.0754,nn,nn00893959,2025-02-24T21:00:50.583Z,"41 km ESE of Fort Bidwell, California",earthquake,,5,0.35,3,reviewed,nn,nn
-2025-02-24T03:32:04.677Z,41.7954,-119.652,4,2.1,ml,4,233.3,0.418,0.1428,nn,nn00893958,2025-02-24T20:57:46.045Z,"42 km E of Fort Bidwell, California",earthquake,,4.6,0.47,4,reviewed,nn,nn
+2025-02-24T03:32:04.677Z,41.7954,-119.652,4,2.1,ml,4,233.3,0.418,0.1428,nn,nn00893958,2025-02-24T23:49:45.620Z,"42 km E of Fort Bidwell, California",earthquake,,4.6,0.47,4,reviewed,nn,nn
 2025-02-24T03:23:23.160Z,35.24183333,-97.77133333,4.18,1.11,ml,50,51,0.01349735136,0.39,ok,ok2025duxw,2025-02-24T16:48:01.217Z,"3 km WNW of Bridge Creek, Oklahoma",earthquake,,0.7,0.28,22,reviewed,ok,ok
 2025-02-24T03:16:23.390Z,38.819000244141,-122.84133148193,2.2300000190735,1.12,md,25,68,0.006413,0.03,nc,nc75138517,2025-02-24T20:13:12.491Z,"9 km NW of The Geysers, CA",earthquake,0.21,0.340000004,0.13,26,automatic,nc,nc
 2025-02-24T03:15:50.320Z,38.830001831055,-122.85366821289,1.9900000095367,0.46,md,9,145,0.01536,0.02,nc,nc75138512,2025-02-24T20:13:09.384Z,"10 km NW of The Geysers, CA",earthquake,0.37,0.589999974,0.23,9,automatic,nc,nc
