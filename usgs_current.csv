@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-02-27T23:37:05.500Z,39.732334136963,-121.96716308594,15.970000267029,2.23,md,5,145,0.1449,0.07,nc,nc75140211,2025-02-27T23:38:40.222Z,"4 km ESE of Hamilton City, CA",earthquake,0.73,2.25999999,0.07,6,automatic,nc,nc
+2025-02-27T23:45:06.311Z,60.14,-152.605,79.1,1.6,ml,,,,0.12,ak,ak0252ob4r9j,2025-02-27T23:46:21.864Z,"53 km W of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-02-27T23:37:05.500Z,39.732334136963,-121.96716308594,15.970000267029,2.23,md,5,145,0.1449,0.07,nc,nc75140211,2025-02-27T23:47:19.845Z,"4 km ESE of Hamilton City, CA",earthquake,0.73,2.25999999,0.07,6,automatic,nc,nc
 2025-02-27T23:32:46.507Z,39.1509,-119.056,6.6,1.2,ml,10,93.1,0.022,0.0941,nn,nn00894144,2025-02-27T23:35:00.791Z,"20 km NNE of Yerington, Nevada",earthquake,,0.6,0.33,6,automatic,nn,nn
 2025-02-27T23:26:16.111Z,60.7578,-151.836,85.4,3.1,ml,,,,0.35,ak,ak0252ob0pfm,2025-02-27T23:36:14.953Z,"30 km WNW of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-27T23:21:34.712Z,64.9632,-149.1602,13.6,1.5,ml,,,,1.01,ak,ak0252oazo9o,2025-02-27T23:24:17.851Z,"22 km SSE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
