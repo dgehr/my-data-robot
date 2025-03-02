@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-02T08:28:03.490Z,38.812999725342,-122.74199676514,1.1399999856949,1.31,md,12,130,0.01855,0.02,nc,nc75141406,2025-03-02T08:29:40.664Z,"2 km WSW of Cobb, CA",earthquake,0.3,0.649999976,0.15,12,automatic,nc,nc
+2025-03-02T08:24:35.490Z,38.811500549316,-122.74466705322,0.31999999284744,1.04,md,8,124,0.02735,0.02,nc,nc75141401,2025-03-02T08:26:12.459Z,"2 km WSW of Cobb, CA",earthquake,0.54,1.55999994,0.24,9,automatic,nc,nc
+2025-03-02T08:14:55.100Z,32.096,-101.615,5.5554,1.2,ml,19,148,0,0.3,tx,tx2025eggm,2025-03-02T08:30:59.149Z,"16 km ESE of Stanton, Texas",earthquake,0,4.3710350990295,0.1,15,automatic,tx,tx
 2025-03-02T08:10:27.934Z,59.7942,-152.4576,84.9,1.8,ml,,,,0.58,ak,ak0252t0lua1,2025-03-02T08:12:41.352Z,"35 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-02T08:02:50.460Z,38.758834838867,-122.71800231934,1.6699999570847,1.85,md,18,72,0.01736,0.05,nc,nc75141391,2025-03-02T08:04:25.778Z,"3 km WSW of Anderson Springs, CA",earthquake,0.28,0.409999996,0.07,20,automatic,nc,nc
 2025-03-02T07:59:19.959Z,31.567,-104.02,6.8077,1.6,ml,14,103,0,0.4,tx,tx2025egfz,2025-03-02T08:04:14.908Z,"35 km NW of Toyah, Texas",earthquake,0,2.7662165164948,0.2,12,automatic,tx,tx
@@ -58,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-02T01:13:42.460Z,38.797500610352,-122.79333496094,3.2999999523163,0.76,md,16,59,0.006045,0.02,nc,nc75141266,2025-03-02T01:32:16.699Z,"4 km NW of The Geysers, CA",earthquake,0.39,0.649999976,0.19,16,automatic,nc,nc
 2025-03-02T01:04:09.000Z,18.9555,-65.166666666667,19.88,3.23,md,12,271,0.6321,0.19,pr,pr71474098,2025-03-02T01:48:59.280Z,"72 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.1,31.61,0.10540998376833,9,reviewed,pr,pr
 2025-03-02T00:56:43.322Z,-18.0389,-177.8675,580.061,4.3,mb,31,131,3.062,1.28,us,us6000pwcw,2025-03-02T02:29:25.040Z,"298 km E of Levuka, Fiji",earthquake,12.84,7.918,0.111,23,reviewed,us,us
-2025-03-02T00:53:59.100Z,38.819666666667,-122.8405,2.54,0.42,md,23,58,0.005488,0.03,nc,nc75141261,2025-03-02T08:08:41.180Z,"9 km NW of The Geysers, CA",earthquake,0.2,0.29,0.183,21,reviewed,nc,nc
+2025-03-02T00:53:59.100Z,38.819666666667,-122.8405,2.54,0.42,md,23,58,0.005488,0.03,nc,nc75141261,2025-03-02T08:22:17.304Z,"9 km NW of The Geysers, CA",earthquake,0.2,0.29,0.183,21,reviewed,nc,nc
 2025-03-02T00:36:19.730Z,18.904,-65.1541,44,3.98,md,24,263,0.5831,0.38,pr,pr2025061000,2025-03-02T01:26:47.917Z,"66 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.43,5.94,0.15,22,reviewed,pr,pr
 2025-03-02T00:21:39.590Z,33.4953333,-116.5113333,14.74,1.18,ml,36,44,0.07593,0.15,ci,ci41069640,2025-03-02T00:26:46.804Z,"16 km ESE of Anza, CA",earthquake,0.2,0.35,0.163,10,automatic,ci,ci
 2025-03-02T00:02:27.080Z,33.1931667,-115.9948333,7.62,1.38,ml,50,47,0.0243,0.22,ci,ci41069632,2025-03-02T00:13:31.950Z,"12 km SSW of Salton City, CA",earthquake,0.2,0.41,0.202,28,automatic,ci,ci
@@ -207,7 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-01T08:40:22.946Z,31.88,-101.911,5.542,1.5,ml,8,69,0,0.1,tx,tx2025eelv,2025-03-01T14:47:48.999Z,"20 km SE of Midland, Texas",earthquake,0.59102255638376,0.87900492495797,0.1,6,reviewed,tx,tx
 2025-03-01T08:39:25.340Z,19.5863,-65.3183,40,3.97,md,22,265,1.2793,0.39,pr,pr2025060001,2025-03-01T09:23:05.040Z,"139 km NNE of Vieques, Puerto Rico",earthquake,2.79,18.84,0.14,15,reviewed,pr,pr
 2025-03-01T08:37:19.600Z,36.78133392334,-121.52100372315,8.539999961853,2.12,md,50,45,0.03927,0.16,nc,nc75140891,2025-03-01T10:57:19.888Z,"7 km S of San Juan Bautista, CA",earthquake,0.25,0.5,0.18,45,automatic,nc,nc
-2025-03-01T08:30:10.320Z,33.4523333,-116.6261667,7.17,0.92,ml,55,21,0.01663,0.19,ci,ci41069160,2025-03-01T08:34:22.561Z,"12 km SSE of Anza, CA",earthquake,0.16,0.4,0.16,26,automatic,ci,ci
-2025-03-01T08:29:14.823Z,61.2231,-150.7177,52.6,1.6,ml,,,,0.28,ak,ak0252rd6izt,2025-03-01T08:31:19.595Z,"21 km ENE of Beluga, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2025-03-01T08:23:35.290Z,38.838665008545,-122.83616638184,1.4299999475479,0.74,md,12,110,0.000536,0.02,nc,nc75140881,2025-03-01T10:17:18.623Z,"10 km NW of The Geysers, CA",earthquake,0.26,0.550000012,0.35,12,automatic,nc,nc
-2025-03-01T08:22:35.550Z,38.818000793457,-122.82299804688,2.0699999332428,0.76,md,13,64,0.01032,0.01,nc,nc75140876,2025-03-01T09:52:19.447Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.689999998,0.17,14,automatic,nc,nc
