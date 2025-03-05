@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-05T13:39:48.048Z,36.6759,-115.5565,7.1,0.7,ml,14,307.37,0.326,0.1421,nn,nn00894331,2025-03-05T13:41:48.279Z,"15 km NE of Indian Springs, Nevada",earthquake,,80.3,0.36,11,automatic,nn,nn
 2025-03-05T13:34:39.016Z,59.7895,-146.8572,22.3,2.2,ml,,,,1.01,ak,ak0252y2c7tp,2025-03-05T13:36:41.524Z,"71 km ESE of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-05T13:26:42.370Z,35.9666667,-118.6095,7.87,1.62,ml,27,61,0.2395,0.13,ci,ci41071808,2025-03-05T13:30:59.204Z,"29 km NW of Kernville, CA",earthquake,0.17,1.35,0.171,27,automatic,ci,ci
 2025-03-05T13:21:42.360Z,33.2573333,-116.2918333,4.86,0.57,ml,34,69,0.07185,0.2,ci,ci41071792,2025-03-05T13:25:18.713Z,"8 km E of Borrego Springs, CA",earthquake,0.27,0.57,0.152,8,automatic,ci,ci
@@ -239,7 +240,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-04T17:19:48.560Z,62.2773,-142.5273,1.8,2.2,ml,,,,0.44,ak,ak0252wh3eqw,2025-03-04T17:21:43.251Z,"27 km ESE of Nabesna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-04T17:10:34.660Z,38.663501739502,-122.75933074951,6.6700000762939,1.41,md,17,125,0.04719,0.05,nc,nc75142796,2025-03-04T19:52:17.576Z,"11 km ENE of Healdsburg, CA",earthquake,0.33,0.75999999,0.07,16,automatic,nc,nc
 2025-03-04T17:05:10.120Z,37.567501068115,-118.83366394043,4.960000038147,0.95,md,9,227,0.02278,0.02,nc,nc75142791,2025-03-04T17:17:20.674Z,"14 km WNW of Toms Place, CA",earthquake,1.31,1.74000001,0.12,8,automatic,nc,nc
-2025-03-04T17:01:24.464Z,32.447,-102.117,5.8401,1.5,ml,9,177,0,0.5,tx,tx2025ekow,2025-03-04T17:15:22.441Z,"35 km SSW of Los Ybanez, Texas",earthquake,0,3.0169229507446,0.2,7,automatic,tx,tx
 2025-03-04T16:54:57.430Z,51.874166666667,-176.64366666667,0.94,1.73,ml,10,173,0.1094,0.11,av,av93521341,2025-03-05T07:59:50.240Z,"0 km W of Adak, Alaska",earthquake,0.42,0.63,0.27457900469717,10,reviewed,av,av
 2025-03-04T16:48:35.671Z,52.4379,169.7831,10,4.7,mb,167,106,2.649,0.76,us,us6000pwu6,2025-03-04T17:57:02.040Z,"234 km WSW of Attu Station, Alaska",earthquake,8.72,1.851,0.04,192,reviewed,us,us
 2025-03-04T16:46:20.591Z,59.493,-153.0091,90.3,2,ml,,,,0.4,ak,ak0252wgnpbf,2025-03-04T16:49:28.207Z,"63 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -274,4 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-04T14:07:42.770Z,38.829833984375,-122.811668396,1.4400000572205,0.29,md,10,83,0.006549,0.01,nc,nc75142701,2025-03-04T14:27:17.515Z,"8 km NNW of The Geysers, CA",earthquake,0.34,0.949999988,0.16,12,automatic,nc,nc
 2025-03-04T14:00:30.595Z,41.89,-119.5984,4.7,2.2,ml,5,219.26,0.359,0.1125,nn,nn00894288,2025-03-04T22:50:55.280Z,"46 km E of Fort Bidwell, California",earthquake,,3.4,0.41,5,reviewed,nn,nn
 2025-03-04T13:59:29.445Z,56.3415,-158.7497,121,3.1,ml,,,,0.48,ak,ak0252wey7hs,2025-03-04T16:19:19.040Z,"9 km N of Chignik Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-03-04T13:41:05.088Z,60.994,-151.0257,7.3,2,ml,,,,0.5,ak,ak0252weuaq4,2025-03-04T13:42:37.363Z,"10 km SE of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
