@@ -202,6 +202,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-05T21:19:22.080Z,35.345,-117.8026667,7.91,1.11,ml,23,69,0.08507,0.17,ci,ci41072496,2025-03-05T23:17:46.982Z,"16 km WSW of Johannesburg, CA",earthquake,0.27,0.69,0.218,26,reviewed,ci,ci
 2025-03-05T21:08:47.699Z,39.1025,-119.0363,5.9,1,ml,14,93.91,0.039,0.1394,nn,nn00894343,2025-03-05T21:30:03.650Z,"16 km NE of Yerington, Nevada",earthquake,,1.3,0.14,7,reviewed,nn,nn
 2025-03-05T20:50:20.736Z,39.1473,-119.037,4.3,1.2,ml,11,99.72,0.013,0.1446,nn,nn00894341,2025-03-05T21:14:41.867Z,"20 km NNE of Yerington, Nevada",earthquake,,1,0.22,5,reviewed,nn,nn
+2025-03-05T20:39:37.410Z,46.440166666667,-118.9425,17.01,0.92,ml,13,119,0.1233,0.2,uw,uw62079406,2025-03-06T19:53:22.210Z,"15 km SSE of Mesa, Washington",earthquake,0.44,1.15,0.067471504913138,2,reviewed,uw,uw
 2025-03-05T20:37:07.466Z,-0.0067,127.2078,128.204,4.1,mb,33,121,2.771,0.85,us,us6000px3i,2025-03-05T21:04:05.040Z,"74 km NNW of Labuha, Indonesia",earthquake,8.49,9.478,0.12,19,reviewed,us,us
 2025-03-05T20:13:08.009Z,2.2823,-98.8872,10,5.3,mww,92,90,14.184,0.64,us,us6000px3f,2025-03-05T20:34:00.040Z,"west of the Galapagos Islands",earthquake,3.67,1.892,0.075,17,reviewed,us,us
 2025-03-05T20:10:40.970Z,59.355,-153.43883333333,-0.4,0.54,ml,4,150,0.008195,0.12,av,av93522376,2025-03-06T06:15:33.470Z,"61 km SE of Pedro Bay, Alaska",earthquake,0.21,0.27,0.072279940276953,4,reviewed,av,av
@@ -210,6 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-05T20:05:23.080Z,33.2266667,-117.1743333,-0.39,1.03,ml,17,100,0.0634,0.24,ci,ci41072432,2025-03-05T23:21:21.901Z,"7 km ENE of Vista, CA",quarry blast,0.51,31.61,0.167,10,reviewed,ci,ci
 2025-03-05T20:04:00.820Z,38.823001861572,-122.8424987793,1.9700000286102,0.91,md,11,126,0.005835,0.03,nc,nc75143416,2025-03-05T20:27:16.344Z,"9 km NW of The Geysers, CA",earthquake,0.33,0.589999974,0.23,12,automatic,nc,nc
 2025-03-05T19:59:01.170Z,33.5726667,-116.7675,15.92,0.85,ml,29,66,0.02624,0.12,ci,ci41072408,2025-03-05T21:34:50.923Z,"9 km WNW of Anza, CA",earthquake,0.18,0.38,0.148,17,reviewed,ci,ci
-2025-03-05T19:58:55.060Z,46.002166666667,-112.467,-2,1.77,ml,10,112,0.06172,0.03,mb,mb90073593,2025-03-05T23:28:46.900Z,"5 km E of Butte, Montana",quarry blast,0.33,31.61,0.20628945505309,16,reviewed,mb,mb
-2025-03-05T19:55:33.080Z,46.440333333333,-122.37633333333,10.21,0.19,md,6,198,0.1365,0.04,uw,uw62079386,2025-03-06T18:55:59.880Z,"12 km SE of Mossyrock, Washington",earthquake,0.5,1.17,0.11649878920345,4,reviewed,uw,uw
-2025-03-05T19:53:29.518Z,62.1537,-150.8673,63.2,1.9,ml,,,,0.3,ak,ak0252y60vbr,2025-03-05T19:55:56.100Z,"33 km ENE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
