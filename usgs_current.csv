@@ -5,6 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-07T21:11:48.590Z,35.26283333,-97.78666667,5.63,-0.35,ml,12,148,0.009898057663,0.07,ok,ok2025eqjr,2025-03-07T21:22:23.349Z,"3 km SE of Tuttle, Oklahoma",earthquake,,0.4,0.14,6,reviewed,ok,ok
 2025-03-07T21:05:52.840Z,35.27133333,-97.78283333,4.86,1.52,ml,18,102,0.008098410816,0.14,ok,ok2025eqjl,2025-03-07T21:18:11.520Z,"3 km SE of Tuttle, Oklahoma",earthquake,,0.5,0.23,8,reviewed,ok,ok
 2025-03-07T20:59:53.679Z,35.26033333,-97.79016667,4,1.55,ml,16,75,0.006298763968,0.15,ok,ok2025eqjg,2025-03-07T21:06:38.376Z,"3 km SSE of Tuttle, Oklahoma",earthquake,,0.6,0.26,9,reviewed,ok,ok
+2025-03-07T20:56:15.450Z,37.5605,-113.0585,11.97,1.87,ml,19,66,0.1085,0.14,uu,uu80103446,2025-03-07T21:41:21.990Z,"11 km ENE of Kanarraville, Utah",earthquake,0.33,0.62,0.19225830899365,8,reviewed,uu,uu
 2025-03-07T20:54:36.570Z,35.26016667,-97.79283333,3.83,0.56,ml,16,72,0.00449911712,0.16,ok,ok2025eqjc,2025-03-07T21:02:50.879Z,"3 km SSE of Tuttle, Oklahoma",earthquake,,0.6,0.23,8,reviewed,ok,ok
 2025-03-07T20:52:47.759Z,35.2605,-97.79,4,1.17,ml,16,75,0.007198587392,0.18,ok,ok2025eqja,2025-03-07T20:59:24.635Z,"3 km SSE of Tuttle, Oklahoma",earthquake,,0.8,0.27,8,reviewed,ok,ok
 2025-03-07T20:51:07.629Z,35.26016667,-97.79183333,3.31,0.52,ml,16,73,0.005398940544,0.16,ok,ok2025eqiz,2025-03-07T20:57:23.824Z,"3 km SSE of Tuttle, Oklahoma",earthquake,,0.7,0.24,8,reviewed,ok,ok
@@ -280,4 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-06T21:59:08.220Z,38.835166931152,-122.81733703613,1.7699999809265,1.14,md,22,62,0.01305,0.03,nc,nc75144026,2025-03-07T00:37:17.562Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.400000006,0.1,23,automatic,nc,nc
 2025-03-06T21:56:30.280Z,39.385666666667,-111.91266666667,3.27,1.62,md,7,134,0.1425,0.08,uu,uu80002918,2025-03-07T18:13:37.710Z,"18 km NNW of Fayette, Utah",earthquake,0.4,31.61,0.18158796851235,4,reviewed,uu,uu
 2025-03-06T21:55:24.120Z,38.509,-112.90583333333,2.85,1.87,ml,15,66,0.01678,0.1,uu,uu80103376,2025-03-06T22:03:02.010Z,"15 km NE of Milford, Utah",earthquake,0.29,0.59,0.15754531689012,8,reviewed,uu,uu
-2025-03-06T21:42:43.960Z,45.280166666667,-121.696,7.57,0.34,ml,10,182,0.05276,0.07,uw,uw62079631,2025-03-06T22:16:43.690Z,"3 km NNE of Wapanitia, Oregon",earthquake,0.31,0.44,0.083886117297283,2,reviewed,uw,uw
