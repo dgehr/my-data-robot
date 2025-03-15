@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-15T21:35:30.630Z,38.826332092285,-122.76633453369,2.0499999523163,0.74,md,9,125,0.004989,0.01,nc,nc75149316,2025-03-15T21:37:05.383Z,"4 km WNW of Cobb, CA",earthquake,0.44,0.600000024,0.17,11,automatic,nc,nc
 2025-03-15T21:33:17.714Z,62.6237,-149.5022,51,1.9,ml,,,,0.4,ak,ak0253eqgw8r,2025-03-15T21:34:57.210Z,"36 km ENE of Chase, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-03-15T21:30:26.040Z,38.808498382568,-122.7799987793,1.1799999475479,1.81,md,35,45,0.004784,0.04,nc,nc75149311,2025-03-15T21:33:24.120Z,"4 km NNW of The Geysers, CA",earthquake,0.15,0.239999995,0.12,36,automatic,nc,nc
 2025-03-15T21:14:58.200Z,38.834499359131,-122.81666564941,1.5800000429153,0.64,md,12,59,0.01223,0.01,nc,nc75149306,2025-03-15T21:32:17.275Z,"8 km WNW of Cobb, CA",earthquake,0.28,0.860000014,0.42,14,automatic,nc,nc
@@ -198,6 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-14T21:53:52.001Z,60.219,-152.9245,113.7,1.5,ml,,,,0.34,ak,ak0253d31wps,2025-03-14T21:56:07.807Z,"72 km WNW of Ninilchik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-14T21:46:16.223Z,31.65,-104.28,6.5455,1.9,ml,16,87,0,0.7,tx,tx2025fdfi,2025-03-14T21:59:37.840Z,"59 km S of Whites City, New Mexico",earthquake,0,2.9081792831421,0.2,12,automatic,tx,tx
 2025-03-14T21:45:11.950Z,38.825832366943,-122.85683441162,11.689999580383,0.39,md,7,197,0.02608,0.01,nc,nc75148866,2025-03-14T23:27:18.102Z,"10 km NW of The Geysers, CA",earthquake,1.32,3.01999998,0.18,8,automatic,nc,nc
-2025-03-14T21:40:05.826Z,31.653,-104.291,5.7685,1.8,ml,15,87,0,0.4,tx,tx2025fdfc,2025-03-14T21:48:29.726Z,"58 km S of Whites City, New Mexico",earthquake,0,2.7893517017365,0.2,12,automatic,tx,tx
-2025-03-14T21:38:13.134Z,31.649,-104.29,6.409,1.6,ml,14,87,0,0.5,tx,tx2025fdfb,2025-03-14T21:47:45.719Z,"58 km S of Whites City, New Mexico",earthquake,0,2.8121705055237,0.2,12,automatic,tx,tx
-2025-03-14T21:37:18.620Z,33.3486667,-116.8676667,10.31,0.93,ml,28,69,0.006476,0.15,ci,ci41079712,2025-03-14T22:02:14.300Z,"1 km SSW of Palomar Observatory, CA",earthquake,0.23,0.43,0.146,20,reviewed,ci,ci
