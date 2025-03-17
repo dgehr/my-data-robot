@@ -251,4 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-17T00:04:48.036Z,31.651,-104.348,4.36,1.6,ml,17,70,0.1,0.4,tx,tx2025fhax,2025-03-17T00:18:31.148Z,"58 km S of Whites City, New Mexico",earthquake,0,1.3237617015839,0.2,12,automatic,tx,tx
 2025-03-16T23:58:29.810Z,33.6536667,-116.7465,15.68,1.24,ml,54,20,0.06251,0.2,ci,ci41081304,2025-03-17T14:31:58.930Z,"10 km SSW of Idyllwild, CA",earthquake,0.19,0.33,0.247,27,reviewed,ci,ci
 2025-03-16T23:51:38.890Z,38.8345,-122.80983333333,1.96,0.61,md,18,51,0.01109,0.01,nc,nc75149776,2025-03-17T17:53:29.595Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.62,0.205,16,reviewed,nc,nc
-2025-03-16T23:49:10.450Z,35.1101667,-119.0983333,18.67,1.56,ml,23,71,0.2205,0.17,ci,ci41081280,2025-03-17T21:01:36.100Z,"24 km SW of Lamont, CA",earthquake,0.26,0.75,0.113,23,reviewed,ci,ci
