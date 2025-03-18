@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-18T23:43:51.550Z,33.8936653,-118.4300003,11.28,2.09,ml,50,114,0.04732,0.3,ci,ci41083016,2025-03-18T23:54:31.590Z,"2 km WNW of Manhattan Beach, CA",earthquake,0.44,0.55,0.381,25,automatic,ci,ci
+2025-03-18T23:43:51.550Z,33.8936653,-118.4300003,11.28,2.09,ml,50,114,0.04732,0.3,ci,ci41083016,2025-03-18T23:54:47.500Z,"2 km WNW of Manhattan Beach, CA",earthquake,0.44,0.55,0.381,25,automatic,ci,ci
 2025-03-18T23:27:34.950Z,35.0424995,-117.682663,9.19,1.73,ml,31,95,0.1084,0.29,ci,ci41082984,2025-03-18T23:29:40.079Z,"6 km NNW of Boron, CA",earthquake,0.72,2.04,0.191,23,automatic,ci,ci
 2025-03-18T23:26:32.590Z,36.633167266846,-121.28949737549,7.5599999427795,2.66,md,67,30,0.03009,0.24,nc,nc75151272,2025-03-18T23:28:19.464Z,"17 km NW of Pinnacles, CA",earthquake,0.27,0.850000024,0.15,69,automatic,nc,nc
 2025-03-18T23:06:08.931Z,62.5261,-150.8953,32.8,1.2,ml,,,,0.86,ak,ak0253jq3zte,2025-03-18T23:11:04.548Z,"7 km WNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -239,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-18T00:00:40.950Z,38.84049987793,-122.82749938965,2.1500000953674,0.75,md,7,124,0.01451,0.01,nc,nc75150707,2025-03-18T00:22:19.039Z,"9 km WNW of Cobb, CA",earthquake,0.56,0.959999979,0.19,7,automatic,nc,nc
 2025-03-17T23:59:36.831Z,63.0972,-151.36,4.1,1.4,ml,,,,0.44,ak,ak0253i2w2j4,2025-03-18T00:02:42.781Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-17T23:57:53.157Z,65.2505,-145.2769,9.1,1.5,ml,,,,1.56,ak,ak0253i2vocz,2025-03-18T00:00:48.628Z,"42 km SSW of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-03-17T23:54:53.590Z,63.2024,-151.5397,16,2.9,ml,,,,1.06,ak,ak0253i2v14a,2025-03-18T00:42:41.040Z,"38 km SSE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
