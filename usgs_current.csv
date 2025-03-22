@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-22T12:43:54.733Z,61.6755,-148.7535,34.6,1.4,ml,,,,0.27,ak,ak0253q5xn9t,2025-03-22T12:45:24.120Z,"11 km S of Sutton-Alpine, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-03-22T12:33:47.290Z,18.832333333333,-65.415833333333,14.83,3.04,md,12,247,0.5372,0.16,pr,pr71477088,2025-03-22T13:00:46.610Z,"59 km NNW of Culebra, Puerto Rico",earthquake,0.75,1.42,0.025269080199568,7,reviewed,pr,pr
 2025-03-22T12:24:54.200Z,31.574,-103.938,5.4395,1.9,ml,16,74,0,0.2,tx,tx2025frcv,2025-03-22T12:36:35.375Z,"31 km NNW of Toyah, Texas",earthquake,0,2.5427763462067,0.2,12,automatic,tx,tx
-2025-03-22T12:24:29.670Z,38.816165924072,-122.81833648682,2.6099998950958,1.08,md,21,49,0.009683,0.02,nc,nc75153222,2025-03-22T12:42:14.759Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.589999974,0.11,22,automatic,nc,nc
+2025-03-22T12:24:29.670Z,38.816165924072,-122.81833648682,2.6099998950958,1.08,md,21,49,0.009683,0.02,nc,nc75153222,2025-03-22T13:52:17.200Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.589999974,0.11,22,automatic,nc,nc
 2025-03-22T12:16:11.150Z,37.033668518066,-121.48233032227,8.289999961853,1.04,md,9,108,0.008466,0.04,nc,nc75153217,2025-03-22T13:27:18.056Z,"8 km E of Gilroy, CA",earthquake,0.74,1.08000004,0.1,4,automatic,nc,nc
 2025-03-22T12:13:52.679Z,61.6287,-150.3528,32.6,2.5,ml,,,,0.21,ak,ak0253q5r7mr,2025-03-22T12:15:18.745Z,"12 km NE of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-22T12:09:56.640Z,19.2063331604,-155.48767089844,34.470001220703,2.39,ml,56,81,0.04317,0.170000002,hv,hv74638847,2025-03-22T12:20:23.288Z,"1 km WNW of Pāhala, Hawaii",earthquake,0.49,0.610000014,0.26,22,automatic,hv,hv
@@ -61,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-22T07:15:13.750Z,34.2136667,-116.99,20.48,1.09,ml,23,208,0.2336,0.33,ci,ci40906951,2025-03-22T07:20:28.445Z,"8 km WSW of Big Bear Lake, CA",earthquake,1.79,2.88,0.288,24,automatic,ci,ci
 2025-03-22T07:04:55.680Z,38.82149887085,-122.81133270264,3.1300001144409,1.48,md,32,40,0.002133,0.03,nc,nc75153117,2025-03-22T09:07:17.486Z,"7 km NNW of The Geysers, CA",earthquake,0.22,0.379999995,0.17,30,automatic,nc,nc
 2025-03-22T07:02:13.528Z,60.6481,-151.6754,70.6,1.4,ml,,,,0.62,ak,ak0253q2plpk,2025-03-22T07:03:59.237Z,"19 km W of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-03-22T07:01:27.417Z,7.6198,126.6836,82.124,4.5,mb,41,107,1.224,0.77,us,us7000pltf,2025-03-22T07:16:04.040Z,"14 km ENE of Baganga, Philippines",earthquake,5.86,7.921,0.074,54,reviewed,us,us
+2025-03-22T07:01:27.417Z,7.6198,126.6836,82.124,4.5,mb,41,107,1.224,0.77,us,us7000pltf,2025-03-22T07:16:04.040Z,"Mindanao, Philippines",earthquake,5.86,7.921,0.074,54,reviewed,us,us
 2025-03-22T07:00:44.150Z,31.4953333,-115.6263333,11.03,2.41,ml,9,109,0.17,0.2,ci,ci40906943,2025-03-22T07:04:17.021Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.37,1.29,0.16,20,automatic,ci,ci
 2025-03-22T06:36:05.730Z,33.534,-116.7223333,5.49,0.59,ml,26,41,0.03372,0.13,ci,ci40906927,2025-03-22T06:40:44.909Z,"5 km WSW of Anza, CA",earthquake,0.15,0.37,0.153,17,automatic,ci,ci
 2025-03-22T06:26:06.200Z,59.91,-153.0572,125.4,2.4,ml,,,,0.24,ak,ak0253q29aq4,2025-03-22T07:18:12.040Z,"60 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -251,6 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-21T14:13:00.160Z,38.800666809082,-122.77833557129,4.1100001335144,0.35,md,11,77,0.01058,0.02,nc,nc75152632,2025-03-21T15:42:19.402Z,"3 km NNW of The Geysers, CA",earthquake,0.6,1.45000005,0.15,13,automatic,nc,nc
 2025-03-21T14:12:05.745Z,39.158,-119.0399,7.6,1.5,ml,17,63.41,0.011,0.1195,nn,nn00894884,2025-03-22T02:12:38.869Z,"21 km NNE of Yerington, Nevada",earthquake,,0.7,0.15,9,reviewed,nn,nn
 2025-03-21T13:59:03.348Z,-20.4312,-69.0953,101.657,4.8,mb,35,76,0.294,0.75,us,us7000pllj,2025-03-22T01:14:37.387Z,"59 km E of La Tirana, Chile",earthquake,5.6,2.112,0.093,36,reviewed,us,us
-2025-03-21T13:57:28.650Z,44.752833333333,-111.10716666667,10.79,1.09,ml,16,84,0.04334,0.13,uu,uu80104231,2025-03-21T15:09:35.210Z,"6 km ESE of Hebgen Lake Estates, Montana",earthquake,0.45,0.83,0.44683791075347,2,reviewed,uu,uu
-2025-03-21T13:56:02.189Z,67.0937,-141.9759,0.1,3.1,ml,,,,0.64,ak,ak0253oj2emy,2025-03-22T12:52:02.040Z,"90 km ENE of Chalkyitsik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-03-21T13:55:35.750Z,19.192167282104,-155.486328125,33.939998626709,2.03,ml,53,78,0.04313,0.129999995,hv,hv74638247,2025-03-21T13:58:52.280Z,"1 km SW of Pāhala, Hawaii",earthquake,0.45,0.529999971,1.11,3,automatic,hv,hv
