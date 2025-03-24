@@ -1,5 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-24T19:10:29.740Z,35.816665649414,-120.48650360107,8.0299997329712,0.57,md,8,143,0.05029,0.03,nc,nc75154582,2025-03-24T19:12:04.049Z,"10 km SW of Parkfield, CA",earthquake,0.94,1.36000001,,1,automatic,nc,nc
+2025-03-24T19:07:35.694Z,64.981,-147.3633,6.3,1.5,ml,,,,0.47,ak,ak0253tkym9f,2025-03-24T19:14:59.582Z,"12 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-03-24T19:03:32.140Z,33.82,-117.486,2.48,1.65,ml,58,41,0.03423,0.21,ci,ci40908895,2025-03-24T19:09:16.160Z,"7 km SSE of Home Gardens, CA",earthquake,0.19,0.24,0.239,35,automatic,ci,ci
+2025-03-24T18:54:19.390Z,17.945666666667,-66.7305,8,2.96,md,25,192,0.09402,0.15,pr,pr71477348,2025-03-24T19:15:07.620Z,"5 km SSW of Tallaboa, Puerto Rico",earthquake,0.42,1.26,0.1446809552698,16,reviewed,pr,pr
+2025-03-24T18:48:02.379Z,60.9325,-152.2934,85.2,1.4,ml,,,,0.44,ak,ak0253tklwfh,2025-03-24T19:14:24.771Z,"60 km WNW of Nikiski, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2025-03-24T18:40:45.400Z,38.823501586914,-122.79383087158,3.2799999713898,0.78,md,7,124,0.01269,0.01,nc,nc75154572,2025-03-24T18:42:23.940Z,"6 km NNW of The Geysers, CA",earthquake,1.61,3.02999997,0.1,9,automatic,nc,nc
+2025-03-24T18:38:27.664Z,61.139,-151.6623,70.3,0.5,ml,,,,0.33,ak,ak0253tkjt7y,2025-03-24T19:14:22.809Z,"29 km WNW of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-03-24T18:23:19.150Z,36.0901667,-117.8608333,1.38,1.59,ml,23,61,0.02778,0.15,ci,ci40908863,2025-03-24T18:27:05.927Z,"9 km ENE of Coso Junction, CA",earthquake,0.18,0.21,0.22,23,automatic,ci,ci
 2025-03-24T18:16:00.800Z,33.307,-116.2601667,6.89,1.05,ml,57,23,0.06901,0.19,ci,ci40908855,2025-03-24T18:20:12.889Z,"12 km ENE of Borrego Springs, CA",earthquake,0.16,0.5,0.173,27,automatic,ci,ci
 2025-03-24T18:08:31.647Z,37.2842,-117.0279,2,1.2,ml,18,179.38,0.186,0.2758,nn,nn00895043,2025-03-24T18:10:54.455Z,"48 km NNW of Beatty, Nevada",earthquake,,6,0.23,11,automatic,nn,nn
