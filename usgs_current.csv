@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-25T11:39:31.400Z,38.838165283203,-122.81183624268,2.0599999427795,1.07,md,18,60,0.01481,0.02,nc,nc75154977,2025-03-25T11:41:08.265Z,"8 km WNW of Cobb, CA",earthquake,0.25,0.569999993,0.19,20,automatic,nc,nc
 2025-03-25T11:30:08.118Z,37.6468,-114.927,10.4,1.6,ml,20,202.4,0.26,0.4141,nn,nn00895087,2025-03-25T11:32:48.511Z,"26 km ENE of Hiko, Nevada",earthquake,,0.9,0.15,14,automatic,nn,nn
 2025-03-25T11:05:09.860Z,35.6475,-117.539,7.06,1.13,ml,25,52,0.09552,0.15,ci,ci40909543,2025-03-25T11:08:38.759Z,"13 km ENE of Ridgecrest, CA",earthquake,0.18,0.53,0.205,22,automatic,ci,ci
 2025-03-25T11:04:01.667Z,32.433,-102.073,4.1952,1.6,ml,51,56,0,0.4,tx,tx2025fwmr,2025-03-25T11:12:38.917Z,"34 km SSW of Los Ybanez, Texas",earthquake,0,0.78934532403946,0.1,36,automatic,tx,tx
@@ -214,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-24T11:56:48.406Z,31.536,-104.013,6.0999,1.8,ml,14,57,0,0.1,tx,tx2025fusy,2025-03-24T15:07:20.995Z,"32 km NW of Toyah, Texas",earthquake,1.0501135331702,0.74691641631965,0.1,12,reviewed,tx,tx
 2025-03-24T11:55:51.810Z,61.272166666667,-152.23766666667,3.78,-0.91,ml,7,145,0.0405,0.06,av,av93543841,2025-03-25T03:06:24.590Z,"63 km WNW of Tyonek, Alaska",earthquake,0.21,0.17,0.16948345778014,8,reviewed,av,av
 2025-03-24T11:48:21.300Z,38.791332244873,-122.72583007812,1.6299999952316,1.35,md,20,92,0.01174,0.03,nc,nc75154397,2025-03-24T13:37:20.366Z,"3 km ENE of The Geysers, CA",earthquake,0.27,0.449999988,0.17,20,automatic,nc,nc
-2025-03-24T11:41:19.650Z,38.841167449951,-122.81183624268,2.3499999046326,0.74,md,10,73,0.0162,0.01,nc,nc75154392,2025-03-24T13:12:15.209Z,"8 km WNW of Cobb, CA",earthquake,0.42,1.26999998,0.17,10,automatic,nc,nc
