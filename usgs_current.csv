@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-26T10:46:20.910Z,38.822498321533,-122.76216888428,2.1600000858307,0.73,md,11,125,0.009998,0.02,nc,nc75155512,2025-03-26T10:47:55.053Z,"3 km WNW of Cobb, CA",earthquake,0.38,0.629999995,0.07,11,automatic,nc,nc
 2025-03-26T10:44:15.740Z,38.81266784668,-122.82849884033,1.7300000190735,0.76,md,8,91,0.003831,0.02,nc,nc75155507,2025-03-26T10:45:50.025Z,"7 km NW of The Geysers, CA",earthquake,0.57,0.879999995,0.26,8,automatic,nc,nc
 2025-03-26T10:41:40.260Z,38.788501739502,-122.76866912842,1.0700000524521,1.07,md,14,80,0.01398,0.02,nc,nc75155502,2025-03-26T10:43:15.237Z,"2 km NNW of The Geysers, CA",earthquake,0.27,0.479999989,0.22,15,automatic,nc,nc
+2025-03-26T10:35:46.836Z,-23.1406,-68.4825,118.619,4.1,mb,18,94,0.337,0.71,us,us7000pmqb,2025-03-26T10:53:21.040Z,"38 km SW of San Pedro de Atacama, Chile",earthquake,6.79,5.712,0.151,12,reviewed,us,us
 2025-03-26T10:04:06.350Z,38.814498901367,-122.81600189209,0.5,0.29,md,10,59,0.01002,0.03,nc,nc75155487,2025-03-26T10:27:17.335Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.74000001,0.19,10,automatic,nc,nc
 2025-03-26T10:03:12.838Z,61.5264,-149.1395,24.3,1.8,ml,,,,0.61,ak,ak0253wqni5v,2025-03-26T10:05:25.106Z,"5 km WSW of Butte, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-26T10:02:18.096Z,36.6652,-116.267,1.7,-0.2,ml,10,173.9,0.061,0.1515,nn,nn00895148,2025-03-26T10:04:07.764Z,"51 km ESE of Beatty, Nevada",earthquake,,6,0.33,6,automatic,nn,nn
