@@ -125,7 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-31T08:12:18.114Z,39.0502,-119.0108,4.4,1.2,ml,15,112.26,0.095,0.1467,nn,nn00895426,2025-03-31T20:57:24.473Z,"14 km ENE of Yerington, Nevada",earthquake,,2.7,0.25,5,reviewed,nn,nn
 2025-03-31T07:48:38.300Z,51.872666666667,-176.54633333333,0.67,1.33,ml,10,171,0.0879,0.24,av,av93554966,2025-03-31T17:46:06.520Z,"6 km E of Adak, Alaska",earthquake,0.66,0.88,0.29624645523364,12,reviewed,av,av
 2025-03-31T07:40:55.995Z,31.664,-104.29,8.894,2.2,ml,15,177,0,0.2,tx,tx2025ghey,2025-03-31T19:59:52.081Z,"57 km S of Whites City, New Mexico",earthquake,1.0966763611424,1.1424029944297,0.2,6,reviewed,tx,tx
-2025-03-31T07:40:43.871Z,31.673,-104.301,6.6125,2.8,ml,14,66,0,0.1,tx,tx2025ghez,2025-03-31T08:10:21.433Z,"56 km S of Whites City, New Mexico",earthquake,1.0086375989483,0.84789461692182,0.2,28,reviewed,tx,tx
+2025-03-31T07:40:43.871Z,31.673,-104.301,6.6125,2.8,ml,14,66,0,0.1,tx,tx2025ghez,2025-03-31T08:10:22.547Z,"56 km S of Whites City, New Mexico",earthquake,1.0086375989483,0.84789461692182,0.2,28,reviewed,tx,tx
 2025-03-31T07:40:15.200Z,40.215167999268,-124.14966583252,11.470000267029,2.83,md,28,154,0.03801,0.15,nc,nc75157992,2025-03-31T16:17:28.521Z,"17 km SSE of Petrolia, CA",earthquake,0.43,0.519999981,0.14,22,automatic,nc,nc
 2025-03-31T07:31:55.194Z,36.478,-116.5819,5.2,1,ml,11,109.78,0.122,0.1027,nn,nn00895423,2025-03-31T13:55:19.068Z,"24 km E of Furnace Creek, California",earthquake,,3.8,0.31,4,reviewed,nn,nn
 2025-03-31T07:13:26.965Z,60.8306,-151.0308,14.1,1.5,ml,,,,0.65,ak,ak02544ym42g,2025-03-31T07:15:03.552Z,"21 km NE of Nikiski, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -229,5 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-30T21:53:32.043Z,64.9344,-147.5702,16.9,0.3,ml,,,,0.32,ak,ak02543jnf2s,2025-03-30T21:55:58.207Z,"3 km SE of Fox, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-03-30T21:51:45.353Z,-20.2527,-174.1096,31.142,5.3,mww,53,69,17.331,0.59,us,us7000pnxn,2025-03-31T01:34:23.134Z,"54 km SSE of Pangai, Tonga",earthquake,15.09,4.552,0.103,9,reviewed,us,us
 2025-03-30T21:51:22.160Z,38.792167663574,-122.77716827393,1.8899999856949,1.13,md,17,78,0.008461,0.03,nc,nc75157842,2025-03-30T21:53:26.251Z,"2 km NW of The Geysers, CA",earthquake,0.26,0.479999989,0.21,19,automatic,nc,nc
-2025-03-30T21:48:48.590Z,38.791168212891,-122.77616882324,1.3999999761581,2.14,md,42,79,0.009399,0.06,nc,nc75157837,2025-03-30T21:50:57.576Z,"2 km NW of The Geysers, CA",earthquake,0.19,0.25,0.17,44,automatic,nc,nc
-2025-03-30T21:44:04.577Z,30.333,89.9746,10,4.3,mb,18,117,1.181,0.55,us,us7000pnxl,2025-03-30T23:53:44.040Z,"82 km WNW of Dêqên, China",earthquake,9.28,1.974,0.099,30,reviewed,us,us
