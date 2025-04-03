@@ -283,4 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-03T00:30:07.780Z,47.7825,-113.75516666667,7.96,0.37,ml,7,187,0.007292,0.06,mb,mb90076678,2025-04-03T15:04:57.130Z,"17 km SSE of Swan Lake, Montana",earthquake,0.93,0.69,0.3046001411324,3,reviewed,mb,mb
 2025-04-03T00:06:23.797Z,59.724,-153.0545,99.5,1.2,ml,,,,0.31,ak,ak02549t0m23,2025-04-03T00:08:40.905Z,"59 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-04-02T23:59:15.500Z,36.0088333,-117.918,2.02,1.02,ml,15,67,0.0224,0.14,ci,ci40914927,2025-04-03T00:32:55.420Z,"5 km SE of Coso Junction, CA",earthquake,0.34,0.2,0.217,11,reviewed,ci,ci
-2025-04-02T23:52:42.658Z,64.449,-146.8896,7.5,0.7,ml,,,,0.13,ak,ak02548jg4vd,2025-04-02T23:54:13.582Z,"8 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
