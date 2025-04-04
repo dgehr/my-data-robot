@@ -66,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-04T06:55:58.740Z,38.837333679199,-122.83183288574,1.960000038147,0.29,md,8,85,0.003117,0.01,nc,nc75159832,2025-04-04T06:57:33.305Z,"9 km NNW of The Geysers, CA",earthquake,0.43,0.680000007,0.16,10,automatic,nc,nc
 2025-04-04T06:55:12.150Z,38.823333740234,-122.84149932861,1.3799999952316,0.66,md,9,119,0.005058,0.01,nc,nc75159827,2025-04-04T06:56:48.338Z,"9 km NW of The Geysers, CA",earthquake,0.33,0.75999999,0.43,11,automatic,nc,nc
 2025-04-04T06:51:39.747Z,31.521,-104.007,4.6074,2,ml,15,62,0,0.1,tx,tx2025golv,2025-04-04T07:04:54.809Z,"30 km NW of Toyah, Texas",earthquake,0,1.3649673461914,0.1,13,automatic,tx,tx
-2025-04-04T06:49:53.261Z,31.658,-104.203,4.5964,2.3,ml,17,79,0.1,0.2,tx,tx2025golt,2025-04-04T11:48:55.040Z,"54 km NW of Toyah, Texas",earthquake,0,1.2584962844849,0.2,13,automatic,tx,tx
+2025-04-04T06:49:53.162Z,31.663,-104.205,7.3816,2.3,ml,17,63,0.1,0.2,tx,tx2025golt,2025-04-04T13:50:48.204Z,"54 km NW of Toyah, Texas",earthquake,0.86414639556346,0.88881007158197,0.2,8,reviewed,tx,tx
 2025-04-04T06:40:35.760Z,38.820331573486,-122.82749938965,0.51999998092651,0.74,md,11,76,0.006507,0.02,nc,nc75159812,2025-04-04T06:42:14.163Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.620000005,0.4,11,automatic,nc,nc
 2025-04-04T06:39:29.770Z,38.841167449951,-122.78283691406,7.2199997901917,0.86,md,5,165,0.03438,0.03,nc,nc75159807,2025-04-04T06:41:04.188Z,"6 km WNW of Cobb, CA",earthquake,2.82,4.32999992,,1,automatic,nc,nc
 2025-04-04T06:37:14.668Z,31.52,-104.008,4.8015,1.8,ml,16,63,0,0.2,tx,tx2025golg,2025-04-04T06:50:11.706Z,"30 km NW of Toyah, Texas",earthquake,0,1.3355901241302,0.1,12,automatic,tx,tx
@@ -113,7 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-04T03:56:48.880Z,17.987,-66.809333333333,15.74,2.19,md,8,187,0.0676,0.14,pr,pr71478308,2025-04-04T04:09:42.880Z,"1 km SE of Indios, Puerto Rico",earthquake,0.59,0.99,0.11842459183158,4,reviewed,pr,pr
 2025-04-04T03:55:15.305Z,59.9774,-151.7748,69.9,1.4,ml,,,,0.06,ak,ak0254bimqsq,2025-04-04T03:57:12.022Z,"4 km NW of Happy Valley, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-04-04T03:44:20.774Z,29.4382,52.8314,10,4.4,mb,55,61,5.389,0.83,us,us6000q3va,2025-04-04T13:32:42.452Z,"21 km NNE of Akbarābād, Iran",earthquake,8.94,1.894,0.072,56,reviewed,us,us
-2025-04-04T03:40:44.803Z,31.518,-104.007,4.8097,1.9,ml,16,66,0,0.2,tx,tx2025gofb,2025-04-04T03:52:30.356Z,"30 km NW of Toyah, Texas",earthquake,0,1.3465323448181,0.1,12,automatic,tx,tx
+2025-04-04T03:40:44.938Z,31.531,-104.006,6.1255,1.9,ml,16,56,0,0.1,tx,tx2025gofb,2025-04-04T13:53:47.224Z,"31 km NW of Toyah, Texas",earthquake,1.051842515531,0.68428922260496,0.1,12,reviewed,tx,tx
 2025-04-04T03:32:54.690Z,33.9385,-117.7643333,4.59,1.36,ml,8,158,0.2981,0.33,ci,ci40915847,2025-04-04T03:38:00.762Z,"6 km S of Chino Hills, CA",earthquake,1.88,21.08,0.295,38,automatic,ci,ci
 2025-04-04T03:28:36.870Z,36.786167144775,-121.34883117676,2.3199999332428,2.14,md,32,44,0.07858,0.08,nc,nc75159707,2025-04-04T05:47:19.528Z,"3 km W of Tres Pinos, CA",earthquake,0.19,0.810000002,0.16,32,automatic,nc,nc
 2025-04-04T03:13:36.247Z,31.645,-104.596,3.4482,1.7,ml,8,191,0.1,0.2,tx,tx2025goee,2025-04-04T03:21:07.448Z,"62 km SSW of Whites City, New Mexico",earthquake,0,2.4352841377258,0.2,6,automatic,tx,tx
@@ -276,4 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-03T14:09:55.274Z,64.9946,-147.0613,12.6,0.7,ml,,,,0.7,ak,ak0254a1de3r,2025-04-03T14:18:01.054Z,"13 km N of Two Rivers, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-04-03T14:09:29.757Z,52.4601,-32.1106,10,6.9,mww,158,21,11.342,0.61,us,us6000q3nw,2025-04-04T00:37:47.718Z,"Reykjanes Ridge",earthquake,7.07,1.758,0.031,99,reviewed,us,us
 2025-04-03T13:58:13.542Z,-17.7213,168.1055,33.814,4.9,mb,62,99,2.421,0.52,us,us6000q3nr,2025-04-04T02:42:04.321Z,"22 km W of Port-Vila, Vanuatu",earthquake,8.13,5.517,0.062,81,reviewed,us,us
-2025-04-03T13:54:16.620Z,45.336333333333,-121.6965,6.82,-0.05,ml,7,140,0.04184,0.04,uw,uw62079827,2025-04-04T03:57:07.600Z,"5 km NE of Government Camp, Oregon",earthquake,0.33,0.51,0.1238350176127,2,reviewed,uw,uw
