@@ -1,8 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-04T14:36:36.418Z,58.3072,-136.883,10.6,3.3,ml,,,,0.65,ak,ak0254bp2hh5,2025-04-04T14:39:12.395Z,"34 km WNW of Elfin Cove, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-04-04T14:36:01.309Z,31.579,-104.553,3.4124,2,ml,8,165,0.1,0.2,tx,tx2025gpar,2025-04-04T14:40:42.500Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.9954853057861,0.1,6,automatic,tx,tx
+2025-04-04T14:34:45.330Z,38.138832092285,-121.84483337402,26.559999465942,2.19,md,22,101,0.1199,0.21,nc,nc75160022,2025-04-04T14:42:16.078Z,"13 km NNE of Pittsburg, CA",earthquake,0.63,1.25,0.11,16,automatic,nc,nc
+2025-04-04T14:22:50.193Z,28.9624,82.0167,10,4.9,mb,79,53,3.099,0.75,us,us6000q3xs,2025-04-04T14:41:50.212Z,"32 km ENE of Dailekh, Nepal",earthquake,8.85,1.86,0.053,112,reviewed,us,us
 2025-04-04T14:08:20.750Z,33.9495,-116.8775,17.38,1.02,ml,26,79,0.1032,0.27,ci,ci40916175,2025-04-04T14:12:49.078Z,"3 km N of Banning, CA",earthquake,0.53,1.77,0.228,26,automatic,ci,ci
 2025-04-04T13:55:36.230Z,63.3188,-145.3094,0,1.8,ml,,,,0.84,ak,ak0254bol4gn,2025-04-04T13:57:39.514Z,"29 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-04T13:42:45.740Z,38.820667266846,-122.84283447266,1.9400000572205,0.74,md,9,161,0.006569,0.01,nc,nc75160002,2025-04-04T14:12:17.889Z,"9 km NW of The Geysers, CA",earthquake,0.47,0.860000014,0.11,10,automatic,nc,nc
-2025-04-04T13:41:35.121Z,31.576,-103.936,5.3683,2.4,ml,16,76,0,0.2,tx,tx2025goyx,2025-04-04T13:55:30.246Z,"31 km NNW of Toyah, Texas",earthquake,0,2.1139039993286,0.2,12,automatic,tx,tx
+2025-04-04T13:41:35.126Z,31.578,-103.939,7.42,2.3,ml,31,37,0,0.1,tx,tx2025goyx,2025-04-04T14:41:00.519Z,"32 km NNW of Toyah, Texas",earthquake,0.4224731460653,0.47806806952853,0.2,18,reviewed,tx,tx
 2025-04-04T13:37:54.740Z,32.5996667,-117.4576667,15.46,1.51,ml,24,228,0.2551,0.25,ci,ci40916127,2025-04-04T13:41:45.543Z,"27 km WSW of Coronado, CA",earthquake,0.8,1.01,0.226,22,automatic,ci,ci
 2025-04-04T13:31:08.920Z,34.7825,-118.9668333,11.97,1.9,ml,58,31,0.007591,0.23,ci,ci40916111,2025-04-04T13:41:32.428Z,"5 km SSW of Frazier Park, CA",earthquake,0.23,0.4,0.179,27,automatic,ci,ci
 2025-04-04T13:22:30.130Z,38.838500976562,-122.82583618164,1.75,0.94,md,14,90,0.01625,0.01,nc,nc75159992,2025-04-04T13:57:16.793Z,"9 km NNW of The Geysers, CA",earthquake,0.27,0.560000002,0.22,14,automatic,nc,nc
@@ -39,6 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-04T10:00:07.834Z,36.8196,-115.9475,11.5,-0.1,ml,16,192.42,0.022,0.091,nn,nn00895652,2025-04-04T13:26:30.300Z,"37 km NW of Indian Springs, Nevada",earthquake,,1.3,0.38,4,reviewed,nn,nn
 2025-04-04T09:57:20.700Z,38.830833435059,-122.811668396,1.039999961853,0.76,md,13,85,0.007531,0.02,nc,nc75159917,2025-04-04T10:27:17.398Z,"8 km NNW of The Geysers, CA",earthquake,0.25,0.699999988,0.14,13,automatic,nc,nc
 2025-04-04T09:49:03.490Z,17.902666666667,-66.767333333333,7.38,1.6,md,4,238,0.2072,0.12,pr,pr71478333,2025-04-04T10:03:54.450Z,"11 km SSE of Indios, Puerto Rico",earthquake,8.67,6.86,0.12129250251602,4,reviewed,pr,pr
+2025-04-04T09:48:50.540Z,44.699333333333,-114.2325,5.31,1.19,ml,12,71,0.3453,0.18,mb,mb90076868,2025-04-04T14:38:31.990Z,"21 km N of Challis, Idaho",earthquake,0.53,2.35,0.23711039015147,19,reviewed,mb,mb
 2025-04-04T09:44:35.570Z,35.67633333,-97.38916667,6.62,2.06,ml,78,32,0.02879434957,0.11,ok,ok2025gorb,2025-04-04T12:24:52.977Z,"5 km W of Arcadia, Oklahoma",earthquake,,0.2,0.2,35,reviewed,ok,ok
 2025-04-04T09:42:36.610Z,38.954166412354,-123.23516845703,3.5199999809265,1.79,md,13,92,0.03604,0.07,nc,nc75159907,2025-04-04T12:27:18.166Z,"13 km SE of Boonville, CA",earthquake,0.34,0.850000024,0.12,9,automatic,nc,nc
 2025-04-04T09:39:34.650Z,38.766166687012,-122.7799987793,7.8499999046326,1.34,md,22,81,0.01203,0.23,nc,nc75159902,2025-04-04T12:07:18.034Z,"2 km WSW of The Geysers, CA",earthquake,0.78,1.5,0.12,23,automatic,nc,nc
@@ -122,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-04T03:40:44.938Z,31.531,-104.006,6.1255,1.9,ml,16,56,0,0.1,tx,tx2025gofb,2025-04-04T13:53:47.224Z,"31 km NW of Toyah, Texas",earthquake,1.051842515531,0.68428922260496,0.1,12,reviewed,tx,tx
 2025-04-04T03:32:54.690Z,33.9385,-117.7643333,4.59,1.36,ml,8,158,0.2981,0.33,ci,ci40915847,2025-04-04T03:38:00.762Z,"6 km S of Chino Hills, CA",earthquake,1.88,21.08,0.295,38,automatic,ci,ci
 2025-04-04T03:28:36.870Z,36.786167144775,-121.34883117676,2.3199999332428,2.14,md,32,44,0.07858,0.08,nc,nc75159707,2025-04-04T05:47:19.528Z,"3 km W of Tres Pinos, CA",earthquake,0.19,0.810000002,0.16,32,automatic,nc,nc
-2025-04-04T03:13:36.247Z,31.645,-104.596,3.4482,1.7,ml,8,191,0.1,0.2,tx,tx2025goee,2025-04-04T03:21:07.448Z,"62 km SSW of Whites City, New Mexico",earthquake,0,2.4352841377258,0.2,6,automatic,tx,tx
+2025-04-04T03:13:36.196Z,31.655,-104.579,7.2534,1.8,ml,20,72,0.1,0.2,tx,tx2025goee,2025-04-04T14:38:30.488Z,"60 km SSW of Whites City, New Mexico",earthquake,1.6897015179736,1.0935482164629,0.2,16,reviewed,tx,tx
 2025-04-04T03:07:51.903Z,-21.1605,-68.7328,121.35,4.3,mb,26,54,0.714,1.01,us,us6000q3v6,2025-04-04T03:44:49.040Z,"50 km W of Ollagüe, Chile",earthquake,5.14,6.954,0.168,10,reviewed,us,us
 2025-04-04T03:03:33.060Z,38.821334838867,-122.76466369629,2.1099998950958,1.34,md,22,119,0.01,0.03,nc,nc75159702,2025-04-04T05:32:18.439Z,"4 km W of Cobb, CA",earthquake,0.23,0.419999987,0.13,22,automatic,nc,nc
 2025-04-04T02:46:27.206Z,59.0904,-153.7381,95.3,2.2,ml,,,,0.4,ak,ak0254bhzeo0,2025-04-04T03:09:18.040Z,"67 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -147,7 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-04T01:39:39.290Z,19.255332946777,-155.39916992188,33.029998779297,2.21,ml,55,91,0.01781,0.129999995,hv,hv74647577,2025-04-04T02:26:57.040Z,"10 km NE of Pāhala, Hawaii",earthquake,0.35,0.319999993,0.53,18,automatic,hv,hv
 2025-04-04T01:37:07.106Z,-16.3306,-72.4838,111.91,4.8,mb,44,154,2.881,0.79,us,us6000q3ux,2025-04-04T02:44:02.957Z,"31 km W of El Pedregal, Peru",earthquake,10.2,7.033,0.088,41,reviewed,us,us
 2025-04-04T01:34:32.540Z,38.801833333333,-122.786,3.98,0.22,md,22,58,0.008771,0.02,nc,nc75159667,2025-04-04T07:10:28.223Z,"4 km NNW of The Geysers, CA",earthquake,0.22,0.37,0.282,20,reviewed,nc,nc
-2025-04-04T01:28:37.972Z,31.52,-104.009,7.2791,2.4,ml,28,62,0,0.1,tx,tx2025goas,2025-04-04T14:31:38.449Z,"30 km NW of Toyah, Texas",earthquake,0.87386126380611,0.65563152514313,0.1,22,reviewed,tx,tx
+2025-04-04T01:28:37.972Z,31.52,-104.009,7.2791,2.4,ml,28,62,0,0.1,tx,tx2025goas,2025-04-04T14:31:43.452Z,"30 km NW of Toyah, Texas",earthquake,0.87386126380611,0.65563152514313,0.1,22,reviewed,tx,tx
 2025-04-04T01:17:17.032Z,59.9504,-151.5636,77.9,2.2,ml,,,,0.27,ak,ak0254bh7qif,2025-04-04T01:32:09.040Z,"9 km E of Happy Valley, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-04-04T01:14:02.540Z,20.144,-155.8445,22.47,2.6,ml,37,158,0.06613,0.11,hv,hv74647562,2025-04-04T03:22:16.227Z,"10 km S of Hāwī, Hawaii",earthquake,0.68,0.73,0.13832465440817,14,reviewed,hv,hv
 2025-04-04T01:13:52.520Z,35.349,-117.8023333,6.34,1.49,ml,33,36,0.08882,0.18,ci,ci40915815,2025-04-04T01:19:56.819Z,"15 km W of Johannesburg, CA",earthquake,0.22,0.65,0.144,26,automatic,ci,ci
@@ -173,7 +178,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-04T00:05:49.400Z,38.815334320068,-122.77283477783,0.58999997377396,0.75,md,9,97,0.006473,0.01,nc,nc75159592,2025-04-04T00:42:18.492Z,"4 km W of Cobb, CA",earthquake,0.27,0.519999981,0.19,10,automatic,nc,nc
 2025-04-04T00:03:39.330Z,38.815498352051,-122.82316589356,2.0999999046326,0.76,md,14,64,0.008118,0.01,nc,nc75159587,2025-04-04T00:32:20.426Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.540000021,0.15,15,automatic,nc,nc
 2025-04-03T23:39:36.440Z,27.3505,49.9597,10,4.4,mb,47,72,5.546,0.69,us,us6000q3ua,2025-04-04T13:03:50.285Z,"49 km NE of Al Jubayl, Saudi Arabia",earthquake,6.68,1.854,0.088,37,reviewed,us,us
-2025-04-03T23:20:32.347Z,31.716,-104.505,4.8064,2,ml,8,143,0,0.3,tx,tx2025gnwm,2025-04-04T00:09:05.263Z,"52 km SSW of Whites City, New Mexico",earthquake,0,1.7683538198471,0.3,6,automatic,tx,tx
+2025-04-03T23:20:32.086Z,31.713,-104.523,6.9458,2,ml,20,66,0,0.2,tx,tx2025gnwm,2025-04-04T14:35:10.467Z,"53 km SSW of Whites City, New Mexico",earthquake,1.6511869314432,0.93288803596615,0.2,16,reviewed,tx,tx
 2025-04-03T23:13:48.138Z,64.9352,-147.291,0,1.1,ml,,,,0.9,ak,ak0254a6r4v1,2025-04-04T05:46:41.146Z,"13 km WNW of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-04-03T23:13:26.870Z,17.972166666667,-66.812,16.88,2.42,md,6,200,0.06408,0.11,pr,pr71478273,2025-04-03T23:26:45.340Z,"2 km SSE of Indios, Puerto Rico",earthquake,0.59,0.82,0.020903936127801,5,reviewed,pr,pr
 2025-04-03T23:04:34.230Z,37.060333251953,-121.16850280762,2.0599999427795,1.33,md,6,160,0.07995,0.1,nc,nc75159572,2025-04-04T02:07:19.083Z,"27 km SW of Gustine, CA",earthquake,0.72,11.8400002,0.04,4,automatic,nc,nc
@@ -278,5 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-03T14:54:14.050Z,31.52,-104.011,7.4329,1.8,ml,19,64,0,0.1,tx,tx2025gnfu,2025-04-03T15:03:41.598Z,"30 km NW of Toyah, Texas",earthquake,0.66141816672506,0.55285092684371,0.1,18,reviewed,tx,tx
 2025-04-03T14:49:56.170Z,46.6335,-120.6635,-0.92,1.51,ml,7,103,0.1407,0.58,uw,uw62079842,2025-04-03T16:44:53.990Z,"4 km NNW of Summitview, Washington",explosion,1.64,31.61,0.07841747335868,4,reviewed,uw,uw
 2025-04-03T14:48:45.570Z,64.4912,-146.9044,8.5,1.9,ml,,,,0.45,ak,ak0254a1lqa5,2025-04-03T14:50:37.585Z,"3 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-04-03T14:39:31.027Z,52.5857,-34.7766,10,4.6,mb,38,176,12.523,0.51,us,us6000q3q4,2025-04-03T15:37:52.040Z,"Reykjanes Ridge",earthquake,14.01,1.959,0.1,30,reviewed,us,us
-2025-04-03T14:39:12.191Z,61.6836,-151.6374,102.8,2.3,ml,,,,0.4,ak,ak0254a1jq9f,2025-04-03T14:40:57.891Z,"36 km SSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
