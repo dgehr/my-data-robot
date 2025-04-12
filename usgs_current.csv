@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-11T16:22:37.510Z,38.79349899292,-122.76000213623,2.75,0.74,md,7,161,0.007119,0.01,nc,nc75163721,2025-04-11T16:47:19.105Z,"2 km N of The Geysers, CA",earthquake,0.56,1.09000003,0.12,9,automatic,nc,nc
 2025-04-11T16:15:01.140Z,46.801833333333,-112.18816666667,9,0.42,ml,8,132,0.1112,0.09,mb,mb90078063,2025-04-11T18:01:21.100Z,"10 km ENE of Marysville, Montana",earthquake,0.33,1.07,0.10259400936746,3,reviewed,mb,mb
 2025-04-11T16:07:02.680Z,38.819333333333,-122.76583333333,1.96,0.37,md,16,81,0.01157,0.01,nc,nc75163716,2025-04-12T10:12:16.070Z,"4 km W of Cobb, CA",earthquake,0.24,0.45,0.099,13,reviewed,nc,nc
-2025-04-11T15:54:55.039Z,61.6039,-150.3752,46,0.9,ml,,,,0.78,ak,ak0254naj7hg,2025-04-11T17:20:37.596Z,"9 km NE of Susitna, Alaska",earthquake,,20.3,,,reviewed,ak,ak
