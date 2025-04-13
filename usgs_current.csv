@@ -198,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-12T08:11:45.371Z,61.766,-149.6243,33.5,1.2,ml,,,,0.68,ak,ak0254otnbl5,2025-04-12T08:14:06.853Z,"15 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-04-12T07:58:54.460Z,38.840831756592,-122.82399749756,1.6200000047684,0.21,md,11,92,0.009248,0.02,nc,nc75164021,2025-04-12T08:22:17.330Z,"9 km WNW of Cobb, CA",earthquake,0.39,0.829999983,0.1,10,automatic,nc,nc
 2025-04-12T07:57:46.120Z,37.895000457764,-122.06016540527,9.7700004577637,2,md,38,67,0.06449,0.09,nc,nc75164016,2025-04-13T04:27:13.323Z,"1 km S of Walnut Creek, CA",earthquake,0.2,0.370000005,0.12,31,automatic,nc,nc
-2025-04-12T07:49:52.930Z,35.3406667,-117.8105,7.26,1.8,ml,46,36,0.07858,0.22,ci,ci40923839,2025-04-12T08:00:20.940Z,"16 km WSW of Johannesburg, CA",earthquake,0.21,0.77,0.156,25,automatic,ci,ci
