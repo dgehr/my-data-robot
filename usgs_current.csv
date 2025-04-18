@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-04-18T19:07:18.699Z,61.7508,-146.9948,34.7,1.7,ml,,,,0.72,ak,ak0254yxe9a5,2025-04-18T19:09:30.830Z,"22 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-04-18T18:41:43.360Z,55.3894,164.403,10,5.4,mww,223,81,4.126,0.7,us,us6000q72m,2025-04-18T19:01:47.040Z,"152 km SE of Ust’-Kamchatsk Staryy, Russia",earthquake,7.64,1.823,0.073,18,reviewed,us,us
+2025-04-18T18:41:43.360Z,55.3894,164.403,10,5.4,mww,223,81,4.126,0.7,us,us6000q72m,2025-04-18T19:13:41.044Z,"152 km SE of Ust’-Kamchatsk Staryy, Russia",earthquake,7.64,1.823,0.073,18,reviewed,us,us
+2025-04-18T18:40:01.587Z,55.5018,164.3516,10,4.8,mb,152,29,4.164,0.81,us,us6000q72k,2025-04-18T19:17:50.040Z,"142 km SE of Ust’-Kamchatsk Staryy, Russia",earthquake,7.58,1.831,0.035,264,reviewed,us,us
 2025-04-18T18:28:44.070Z,38.836666107178,-122.79049682617,1.6799999475479,0.7,md,10,67,0.001744,0.02,nc,nc75167651,2025-04-18T18:57:16.821Z,"6 km WNW of Cobb, CA",earthquake,0.49,1.16999996,0.27,10,automatic,nc,nc
 2025-04-18T18:11:46.452Z,61.7107,-146.6326,19.9,1.8,ml,,,,0.73,ak,ak0254ywtqol,2025-04-18T18:13:33.616Z,"32 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-18T18:06:42.480Z,32.9136667,-116.8218333,9.42,1.37,ml,6,120,0.1892,0.17,ci,ci40932391,2025-04-18T18:11:23.540Z,"10 km NNW of Alpine, CA",earthquake,0.62,5.67,0.443,9,automatic,ci,ci
@@ -13,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-18T17:40:05.420Z,38.786998748779,-122.76733398438,1.7699999809265,1.11,md,19,79,0.01485,0.04,nc,nc75167621,2025-04-18T18:12:17.529Z,"1 km NNW of The Geysers, CA",earthquake,0.28,0.449999988,0.16,20,automatic,nc,nc
 2025-04-18T17:39:47.832Z,31.668,-104.321,6.0999,1.7,ml,20,57,0,0.1,tx,tx2025hovu,2025-04-18T18:39:54.466Z,"56 km S of Whites City, New Mexico",earthquake,0.87451392357117,0.79808498378079,0.2,29,reviewed,tx,tx
 2025-04-18T17:39:05.073Z,63.2613,-151.7583,2.8,1.4,ml,,,,0.54,ak,ak0254ywe7xn,2025-04-18T17:41:18.260Z,"31 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-04-18T17:37:08.750Z,38.825164794922,-122.79550170898,2.7799999713898,0.26,md,9,94,0.01152,0.01,nc,nc75167616,2025-04-18T18:07:18.500Z,"6 km WNW of Cobb, CA",earthquake,0.52,1.62,0.16,9,automatic,nc,nc
+2025-04-18T17:37:08.750Z,38.825164794922,-122.79550170898,2.7799999713898,0.26,md,9,94,0.01152,0.01,nc,nc75167616,2025-04-18T19:12:17.929Z,"6 km WNW of Cobb, CA",earthquake,0.52,1.62,0.16,9,automatic,nc,nc
 2025-04-18T17:35:55.660Z,33.0445,-116.5968333,13.41,0.83,ml,27,104,0.03639,0.2,ci,ci40932327,2025-04-18T17:39:24.340Z,"4 km S of Julian, CA",earthquake,0.34,0.54,0.157,15,automatic,ci,ci
 2025-04-18T17:31:23.242Z,17.617,-62.041,54.647,4.6,mwr,108,89,0.249,0.59,us,us6000q727,2025-04-18T18:46:10.743Z,"23 km W of Codrington, Antigua and Barbuda",earthquake,4.2,7.198,0.057,30,reviewed,us,us
 2025-04-18T17:12:37.390Z,34.8436667,-118.7873333,0.29,1.55,ml,16,73,0.06755,0.22,ci,ci40932295,2025-04-18T17:19:42.197Z,"7 km E of Lebec, CA",earthquake,0.31,0.66,0.472,33,automatic,ci,ci
@@ -74,7 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-18T12:23:31.040Z,35.3353333,-117.8181667,7.7,0.88,ml,17,119,0.07143,0.16,ci,ci40931959,2025-04-18T12:26:51.409Z,"17 km WSW of Johannesburg, CA",earthquake,0.29,0.7,0.266,12,automatic,ci,ci
 2025-04-18T12:16:49.570Z,38.778167724609,-122.71450042725,2.0599999427795,1.15,md,16,71,0.01553,0.02,nc,nc75167511,2025-04-18T14:12:15.991Z,"2 km WNW of Anderson Springs, CA",earthquake,0.25,0.479999989,0.12,17,automatic,nc,nc
 2025-04-18T12:12:17.838Z,31.668,-104.329,6.1255,1.9,ml,38,68,0.1,0.1,tx,tx2025hokz,2025-04-18T15:36:47.936Z,"56 km S of Whites City, New Mexico",earthquake,0.77336667973044,1.0330306236555,0.2,42,reviewed,tx,tx
-2025-04-18T12:10:40.382Z,39.0572,-119.0234,6.9,1.2,ml,11,147.61,0.112,0.1135,nn,nn00896417,2025-04-18T12:12:50.656Z,"14 km ENE of Yerington, Nevada",earthquake,,0.9,0.23,5,automatic,nn,nn
+2025-04-18T12:10:40.807Z,39.0532,-119.0146,5,1.2,ml,14,111.09,0.091,0.1759,nn,nn00896417,2025-04-18T19:20:15.393Z,"14 km ENE of Yerington, Nevada",earthquake,,3.3,0.24,4,reviewed,nn,nn
 2025-04-18T12:00:05.819Z,60.8609,-149.9359,36.1,1.6,ml,,,,0.4,ak,ak0254yt6p1h,2025-04-18T12:01:37.870Z,"17 km WSW of Hope, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-04-18T11:53:36.740Z,44.739833333333,-112.444,4.03,0.73,ml,8,100,0.1507,0.06,mb,mb90079258,2025-04-18T15:20:24.300Z,"16 km NE of Lima, Montana",earthquake,0.33,7.24,0.26750896422974,5,reviewed,mb,mb
 2025-04-18T11:50:52.277Z,67.6845,-156.9927,0,1.5,ml,,,,0.96,ak,ak0254ysw2tn,2025-04-18T11:55:07.890Z,"76 km NNE of Ambler, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -120,6 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-18T07:37:17.670Z,34.0188333,-117.2195,13.45,0.95,ml,54,41,0.09047,0.17,ci,ci40931839,2025-04-18T07:41:09.316Z,"5 km SE of Loma Linda, CA",earthquake,0.16,0.42,0.175,31,automatic,ci,ci
 2025-04-18T07:33:31.277Z,-6.1563,151.5779,10,4.7,mb,27,150,2.038,1.15,us,us6000q6zf,2025-04-18T07:50:17.040Z,"172 km ESE of Kimbe, Papua New Guinea",earthquake,5.89,1.903,0.088,39,reviewed,us,us
 2025-04-18T07:28:40.510Z,19.222833333333,-65.981833333333,16.8,3.38,md,19,245,0.9051,0.2,pr,pr71479383,2025-04-18T07:49:24.630Z,"84 km N of San Juan, Puerto Rico",earthquake,1.3,2.88,0.095703410393362,16,reviewed,pr,pr
+2025-04-18T07:26:37.930Z,61.355166666667,-152.2135,-3.15,-0.04,ml,7,243,0.09431,0.12,av,av93578866,2025-04-18T19:11:00.380Z,"65 km WNW of Beluga, Alaska",earthquake,0.72,2.08,0.16663277113301,7,reviewed,av,av
 2025-04-18T07:24:13.637Z,-6.2122,151.6385,10,5.1,mb,32,161,2.075,1.41,us,us6000q6zb,2025-04-18T07:42:42.040Z,"181 km ESE of Kimbe, Papua New Guinea",earthquake,11.53,1.923,0.069,69,reviewed,us,us
 2025-04-18T06:55:33.320Z,19.438333333333,-154.89316666667,6.71,2.73,ml,34,256,0.02947,0.13,hv,hv74655702,2025-04-18T18:31:45.555Z,"4 km SE of Leilani Estates, Hawaii",earthquake,1.02,0.45,0.18624569415842,30,reviewed,hv,hv
 2025-04-18T06:54:33.910Z,38.798168182373,-122.78583526611,3.920000076294,0.75,md,9,130,0.005241,0.01,nc,nc75167401,2025-04-18T08:57:16.863Z,"3 km NW of The Geysers, CA",earthquake,0.6,1.39999998,0.17,9,automatic,nc,nc
@@ -241,5 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-17T19:31:17.315Z,52.5058,-34.1366,10,4.6,mb,46,133,12.878,0.41,us,us6000q6ux,2025-04-17T21:27:18.040Z,"Reykjanes Ridge",earthquake,11.8,1.917,0.074,54,reviewed,us,us
 2025-04-17T19:28:35.530Z,33.1028333,-116.6451667,13.77,0.59,ml,19,102,0.04553,0.21,ci,ci40931423,2025-04-17T20:24:12.242Z,"5 km WNW of Julian, CA",earthquake,0.38,0.71,0.059,5,reviewed,ci,ci
 2025-04-17T19:26:01.970Z,38.770332336426,-122.73699951172,0.75,0.73,md,9,72,0.01289,0.02,nc,nc75167201,2025-04-17T20:07:17.737Z,"2 km SE of The Geysers, CA",earthquake,0.34,0.660000026,0.38,9,automatic,nc,nc
-2025-04-17T19:20:26.339Z,34.37783333,-96.8505,0,1.52,ml,27,122,0.2609487929,0.34,ok,ok2025hndp,2025-04-18T12:06:06.077Z,"3 km SW of Mill Creek, Oklahoma",quarry blast,,0.6,0.18,12,reviewed,ok,ok
-2025-04-17T19:19:08.290Z,38.814834594727,-122.76233673096,1.8899999856949,1.08,md,17,110,0.01434,0.01,nc,nc75167196,2025-04-17T19:57:19.667Z,"3 km W of Cobb, CA",earthquake,0.27,0.5,0.25,17,automatic,nc,nc
