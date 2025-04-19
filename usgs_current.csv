@@ -63,9 +63,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-19T07:26:02.400Z,38.817832946777,-122.82233428955,2.4100000858307,0.73,md,20,59,0.01043,0.02,nc,nc75167961,2025-04-19T08:12:18.120Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.419999987,0.09,21,automatic,nc,nc
 2025-04-19T07:25:20.310Z,38.811164855957,-122.81483459473,3.2200000286102,0.29,md,8,102,0.01144,0.01,nc,nc75167956,2025-04-19T08:07:19.087Z,"6 km NW of The Geysers, CA",earthquake,0.75,1.24000001,0.09,8,automatic,nc,nc
 2025-04-19T07:22:18.370Z,38.810832977295,-122.81433105469,2.6400001049042,1.11,md,28,53,0.01176,0.05,nc,nc75167951,2025-04-19T09:37:19.644Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.409999996,0.12,29,automatic,nc,nc
-2025-04-19T07:18:55.928Z,61.1688,-151.4679,83.3,4.3,ml,,,,0.57,ak,ak02550duu6u,2025-04-19T13:41:32.368Z,"20 km W of Beluga, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2025-04-19T07:18:55.928Z,61.1688,-151.4679,83.3,4.3,ml,,,,0.57,ak,ak02550duu6u,2025-04-19T13:51:57.214Z,"20 km W of Beluga, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2025-04-19T07:11:46.092Z,60.6086,-152.2385,87.3,1.1,ml,,,,0.2,ak,ak02550dtbht,2025-04-19T07:55:17.935Z,"50 km W of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-04-19T07:09:29.211Z,61.401,-150.4173,14.8,1.4,ml,,,,0.43,ak,ak02550dsurd,2025-04-19T13:02:20.102Z,"16 km SSE of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-04-19T07:09:29.211Z,61.401,-150.4173,14.8,1.4,ml,,,,0.43,ak,ak02550dsurd,2025-04-19T13:46:33.955Z,"16 km SSE of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-19T07:08:31.460Z,33.8411667,-116.7623333,17.04,0.83,ml,36,54,0.03013,0.14,ci,ci40932799,2025-04-19T07:12:59.151Z,"9 km SSE of Cabazon, CA",earthquake,0.18,0.39,0.298,23,automatic,ci,ci
 2025-04-19T07:07:44.740Z,38.828666687012,-122.85266876221,2,0.6,md,9,126,0.01668,0.02,nc,nc75167946,2025-04-19T07:37:17.908Z,"10 km NW of The Geysers, CA",earthquake,0.28,0.660000026,0.34,11,automatic,nc,nc
 2025-04-19T07:01:44.870Z,34.3906667,-118.8,0.89,1.17,ml,9,146,0.1017,0.06,ci,ci40932791,2025-04-19T07:05:11.174Z,"3 km SSW of Piru, CA",earthquake,0.77,0.83,0.311,16,automatic,ci,ci
@@ -249,5 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-18T14:00:47.860Z,17.981833333333,-66.830666666667,16.48,1.99,md,6,194,0.04674,0.19,pr,pr71479438,2025-04-18T14:12:38.310Z,"1 km SW of Indios, Puerto Rico",earthquake,0.86,1.24,0.14065775877181,4,reviewed,pr,pr
 2025-04-18T13:59:00.706Z,60.9726,-150.3488,51.9,1.8,ml,,,,0.51,ak,ak0254yu4rhy,2025-04-18T14:02:19.941Z,"19 km ENE of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-04-18T13:56:01.410Z,47.0895,-122.08116666667,12.73,0.44,ml,10,298,0.1137,0.08,uw,uw62094021,2025-04-18T22:22:12.090Z,"1 km ENE of Crocker, Washington",earthquake,0.6,0.54,0.040092945532441,4,reviewed,uw,uw
-2025-04-18T13:51:37.640Z,38.824001312256,-122.84616851807,1.8099999427795,0.83,md,7,148,0.008745,0.03,nc,nc75167536,2025-04-18T15:52:16.609Z,"9 km NW of The Geysers, CA",earthquake,0.48,0.810000002,0.26,7,automatic,nc,nc
-2025-04-18T13:50:23.850Z,35.6575,-118.1668333,9.59,0.65,ml,16,88,0.07238,0.15,ci,ci40931999,2025-04-18T17:44:16.365Z,"26 km ESE of Kernville, CA",earthquake,0.26,0.69,0.15,13,reviewed,ci,ci
