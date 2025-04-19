@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-19T19:17:14.327Z,60.3724,-152.5542,93.4,1.4,ml,,,,0.3,ak,ak02550kzqlk,2025-04-19T19:19:34.288Z,"60 km NW of Ninilchik, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2025-04-19T19:09:16.350Z,38.791999816895,-122.77816772461,1.2400000095367,1.51,md,31,79,0.00771,0.03,nc,nc75168246,2025-04-19T19:10:54.608Z,"2 km NW of The Geysers, CA",earthquake,0.2,0.330000013,0.13,32,automatic,nc,nc
 2025-04-19T19:07:09.800Z,62.613,-151.0866,86.1,1.6,ml,,,,0.43,ak,ak02550kxl38,2025-04-19T19:09:36.629Z,"21 km NW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-04-19T19:07:05.490Z,38.817165374756,-122.811668396,2.6800000667572,1.07,md,21,75,0.006344,0.02,nc,nc75168241,2025-04-19T19:08:44.825Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.479999989,0.11,22,automatic,nc,nc
@@ -237,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-18T19:35:37.570Z,38.814498901367,-122.82266998291,2.420000076294,1.41,md,27,50,0.007581,0.02,nc,nc75167681,2025-04-18T21:32:18.869Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.349999994,0.1,28,automatic,nc,nc
 2025-04-18T19:34:09.380Z,37.002,-112.35466666667,22.17,1.73,md,6,170,0.1349,0.04,uu,uu80106036,2025-04-18T19:54:30.510Z,"16 km ESE of Kanab, Utah",earthquake,0.51,0.86,0.26185576858695,3,reviewed,uu,uu
 2025-04-18T19:31:58.400Z,38.80583190918,-122.82633209228,2.2400000095367,0.93,md,22,71,0.00376,0.03,nc,nc75167676,2025-04-18T19:52:18.197Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.460000008,0.21,24,automatic,nc,nc
-2025-04-18T19:18:23.838Z,16.3504,-98.6529,10,4.6,mb,122,173,1.208,0.46,us,us6000q72t,2025-04-18T19:48:53.256Z,"16 km WSW of San Nicolás, Mexico",earthquake,8.22,1.913,0.035,248,reviewed,us,us
