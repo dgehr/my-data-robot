@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-26T09:51:21.600Z,34.2306671,-116.9745026,8.92,1.07,ml,28,39,0.03658,0.18,ci,ci41134952,2025-04-26T09:53:32.302Z,"6 km WSW of Big Bear Lake, CA",earthquake,0.34,0.62,0.094,7,automatic,ci,ci
 2025-04-26T09:09:35.620Z,35.7693333,-117.5901667,7.97,1.02,ml,23,60,0.1334,0.15,ci,ci41134936,2025-04-26T09:12:57.082Z,"17 km W of Searles Valley, CA",earthquake,0.22,0.91,0.083,17,automatic,ci,ci
 2025-04-26T08:52:44.253Z,58.7459,-155.046,134.3,1.7,ml,,,,0.31,ak,ak0255bzeyrt,2025-04-26T08:54:53.108Z,"78 km S of Kokhanok, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-04-26T08:44:26.170Z,33.6923333,-118.1515,14.04,2.7,ml,123,88,0.1054,0.27,ci,ci41134928,2025-04-26T09:47:02.979Z,"7 km SW of Seal Beach, CA",earthquake,0.27,0.39,0.244,26,automatic,ci,ci
@@ -225,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-25T10:33:11.280Z,46.493333333333,-122.29916666667,17.01,0.6,ml,19,78,0.1057,0.13,uw,uw62088487,2025-04-25T16:46:14.640Z,"7 km SSW of Morton, Washington",earthquake,0.38,0.76,0.058552905808576,5,reviewed,uw,uw
 2025-04-25T10:17:39.010Z,38.835666656494,-122.81916809082,1.9700000286102,0.27,md,9,92,0.01307,0.02,nc,nc75171206,2025-04-25T10:37:16.429Z,"8 km WNW of Cobb, CA",earthquake,0.37,1.38999999,0.18,10,automatic,nc,nc
 2025-04-25T09:54:32.443Z,31.778,-103.781,7.7405,1.7,ml,11,90,0.1,0.1,tx,tx2025ibaz,2025-04-25T14:17:32.127Z,"19 km WNW of Mentone, Texas",earthquake,0.50266547727499,0.79306608060008,0.2,18,reviewed,tx,tx
-2025-04-25T09:50:28.800Z,35.7723333,-117.5935,7.38,1.55,ml,27,62,0.135,0.15,ci,ci41132200,2025-04-25T18:51:28.200Z,"17 km W of Searles Valley, CA",earthquake,0.19,0.97,0.188,25,reviewed,ci,ci
-2025-04-25T09:49:14.330Z,38.812168121338,-122.81116485596,3.4800000190735,1.08,md,25,49,0.01124,0.02,nc,nc75171196,2025-04-25T10:27:18.354Z,"6 km NW of The Geysers, CA",earthquake,0.27,0.430000007,0.08,27,automatic,nc,nc
