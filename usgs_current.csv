@@ -37,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-26T01:43:56.960Z,17.982,-66.812333333333,16.13,2.41,md,17,169,0.05413,0.17,pr,pr71480153,2025-04-26T03:18:50.240Z,"1 km SSE of Indios, Puerto Rico",earthquake,0.39,0.4,0.14586323111026,6,reviewed,pr,pr
 2025-04-26T01:28:17.190Z,17.991666666667,-66.805,14.56,2.66,md,25,161,0.06323,0.14,pr,pr71480143,2025-04-26T02:51:00.300Z,"1 km E of Indios, Puerto Rico",earthquake,0.28,0.57,0.14694154754459,10,reviewed,pr,pr
 2025-04-26T01:24:22.660Z,17.985666666667,-66.8125,15.25,2.37,md,19,172,0.03955,0.25,pr,pr71480128,2025-04-26T02:32:41.200Z,"1 km SE of Indios, Puerto Rico",earthquake,0.53,0.93,0.072706582415671,6,reviewed,pr,pr
-2025-04-26T01:22:43.210Z,36.084,-117.8583333,2.83,1.51,ml,22,66,0.03363,0.15,ci,ci41134520,2025-04-26T03:32:43.597Z,"9 km ENE of Coso Junction, CA",earthquake,0.21,0.51,0.211,23,reviewed,ci,ci
+2025-04-26T01:22:43.230Z,36.083,-117.8558333,2.88,1.58,ml,19,80,0.03452,0.11,ci,ci41134520,2025-04-26T05:45:33.834Z,"9 km ENE of Coso Junction, CA",earthquake,0.16,0.41,0.185,17,reviewed,ci,ci
 2025-04-26T01:20:00.360Z,17.985833333333,-66.808166666667,15.08,3.11,md,32,166,0.03749,0.19,pr,pr71480113,2025-04-26T02:15:41.160Z,"1 km SE of Indios, Puerto Rico",earthquake,0.39,0.6,0.069535560747378,4,reviewed,pr,pr
 2025-04-26T01:12:40.800Z,33.5285,-116.7305,4.35,0.46,ml,19,41,0.03724,0.11,ci,ci41134504,2025-04-26T05:39:55.811Z,"6 km WSW of Anza, CA",earthquake,0.19,0.3,0.123,8,reviewed,ci,ci
 2025-04-26T01:07:25.486Z,59.621,-152.421,70.8,1.6,ml,,,,0.62,ak,ak0255buz8v8,2025-04-26T01:09:45.371Z,"37 km WSW of Anchor Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
