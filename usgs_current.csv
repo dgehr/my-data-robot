@@ -139,6 +139,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-15T00:25:18.630Z,33.1656667,-116.532,14.86,1.29,ml,61,40,0.1008,0.22,ci,ci41153128,2025-05-15T00:29:08.464Z,"12 km NE of Julian, CA",earthquake,0.18,0.33,0.16,26,automatic,ci,ci
 2025-05-15T00:24:08.340Z,33.1675,-116.3923333,3.7,0.87,ml,37,58,0.1026,0.21,ci,ci41153120,2025-05-15T00:28:20.729Z,"10 km S of Borrego Springs, CA",earthquake,0.2,0.73,0.184,14,automatic,ci,ci
 2025-05-15T00:07:24.070Z,35.952667236328,-120.50199890137,5.1100001335144,0.6,md,8,95,0.00619,0.02,nc,nc75182147,2025-05-15T00:08:59.598Z,"9 km NW of Parkfield, CA",earthquake,0.75,1.72000003,,1,automatic,nc,nc
+2025-05-15T00:04:07.020Z,44.8,-110.983,9.48,2.25,ml,19,134,0.04388,0.12,uu,uu80108341,2025-05-15T15:48:26.220Z,"16 km ENE of Hebgen Lake Estates, Montana",earthquake,0.34,0.61,0.26604842497076,5,reviewed,uu,uu
 2025-05-15T00:00:52.790Z,44.780833333333,-111.0045,1.78,0.35,md,5,243,0.02153,0.02,uu,uu80108336,2025-05-15T15:43:02.620Z,"14 km E of Hebgen Lake Estates, Montana",earthquake,1.35,0.15,0.24228556996083,4,reviewed,uu,uu
 2025-05-14T23:57:55.380Z,38.829666137695,-122.85366821289,2.4400000572205,0.45,md,8,130,0.003279,0.01,nc,nc75182142,2025-05-14T23:59:29.402Z,"10 km NW of The Geysers, CA",earthquake,1.06,1.27999997,0.26,8,automatic,nc,nc
 2025-05-14T23:53:06.220Z,59.886,-140.3444,0.5,1.6,ml,,,,0.97,ak,ak0256600uim,2025-05-14T23:54:55.355Z,"51 km NW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
