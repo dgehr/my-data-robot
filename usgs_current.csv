@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-16T05:34:28.720Z,-30.5231,-177.9231,64.243,4.9,mb,24,172,1.257,1.15,us,us7000pzit,2025-05-16T05:53:00.040Z,"Kermadec Islands, New Zealand",earthquake,16.45,14.094,0.119,22,reviewed,us,us
 2025-05-16T05:22:36.370Z,33.5426667,-116.7238333,4.5,0.32,ml,20,37,0.02531,0.12,ci,ci41154016,2025-05-16T05:26:08.279Z,"5 km WSW of Anza, CA",earthquake,0.16,0.31,0.175,8,automatic,ci,ci
 2025-05-16T05:17:22.141Z,-34.8835,-110.9607,10,4.7,mb,38,156,31.608,0.6,us,us7000pzis,2025-05-16T05:42:36.040Z,"southern East Pacific Rise",earthquake,15.94,1.916,0.049,127,reviewed,us,us
 2025-05-16T05:09:35.909Z,63.5557,-147.3423,7,1.5,ml,,,,0.44,ak,ak0256904dee,2025-05-16T05:11:44.906Z,"80 km ESE of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -203,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-15T06:18:24.330Z,61.310666666667,-152.255,-3.12,0.38,ml,8,121,0.06623,0.05,av,av93607116,2025-05-15T18:27:11.310Z,"65 km WNW of Beluga, Alaska",earthquake,0.19,0.96,0.35843112949004,8,reviewed,av,av
 2025-05-15T06:09:39.148Z,61.1471,-151.1084,78.1,1.7,ml,,,,0.47,ak,ak02567d6gre,2025-05-15T06:11:20.486Z,"1 km WNW of Beluga, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-05-15T05:56:37.039Z,32.277,-101.924,8.1299,1.1,ml,26,44,0,0.1,tx,tx2025jlhf,2025-05-15T12:08:21.330Z,"20 km NW of Stanton, Texas",earthquake,0.30946286218514,0.567606210377,0.1,20,reviewed,tx,tx
-2025-05-15T05:51:14.470Z,33.5806667,-116.7561667,12.59,1.04,ml,45,68,0.02191,0.18,ci,ci41153240,2025-05-15T15:03:15.644Z,"8 km WNW of Anza, CA",earthquake,0.2,0.39,0.286,29,reviewed,ci,ci
