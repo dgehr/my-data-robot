@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-18T19:17:51.060Z,32.7595,-116.0233333,7.48,1.11,ml,19,50,0.01239,0.19,ci,ci41155800,2025-05-18T19:21:25.062Z,"4 km NW of Ocotillo, CA",earthquake,0.25,0.54,0.219,19,automatic,ci,ci
+2025-05-18T19:15:21.197Z,19.0069,93.3524,10,5.1,mb,108,62,2.635,0.61,us,us7000q025,2025-05-18T19:31:48.040Z,"134 km SSE of Sittwe, Burma (Myanmar)",earthquake,7,1.809,0.04,203,reviewed,us,us
 2025-05-18T19:15:13.160Z,35.816,-118.0411667,7.62,1.27,ml,30,54,0.1128,0.12,ci,ci41155784,2025-05-18T19:18:38.940Z,"18 km SW of Little Lake, CA",earthquake,0.16,0.76,0.296,25,automatic,ci,ci
 2025-05-18T19:14:33.203Z,59.9744,-151.0205,36.4,1.2,ml,,,,0.87,ak,ak0256cjk788,2025-05-18T19:16:43.406Z,"13 km NNW of Fox River, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2025-05-18T18:58:33.450Z,34.1113333,-117.367,25.3,1.43,ml,8,213,0.2182,0.21,ci,ci41155776,2025-05-18T19:02:03.826Z,"1 km NNE of Rialto, CA",earthquake,3.57,3.26,0.335,31,automatic,ci,ci
