@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-18T00:05:58.920Z,31.681,-104.399,4.4868,2.1,ml,16,69,0,0.3,tx,tx2025jqid,2025-05-18T00:12:56.897Z,"54 km S of Whites City, New Mexico",earthquake,0,1.3666244745255,0.1,12,automatic,tx,tx
 2025-05-17T23:59:14.601Z,60.0448,-152.8335,95.2,1.6,ml,,,,0.83,ak,ak0256ayo6y7,2025-05-18T00:02:02.582Z,"62 km W of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-05-17T23:54:04.897Z,31.756,-101.929,3.9978,1.4,ml,34,55,0.1,0.5,tx,tx2025jqhu,2025-05-18T00:02:03.804Z,"30 km SSE of Midland, Texas",earthquake,0,0.96251201629639,0.1,25,automatic,tx,tx
-2025-05-17T23:52:04.704Z,38.7966,23.5761,10,4.2,mb,59,56,1.553,1.08,us,us7000pzx1,2025-05-18T07:24:13.250Z,"8 km E of Mantoúdi, Greece",earthquake,3.13,1.93,0.141,14,reviewed,us,us
