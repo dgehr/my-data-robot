@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-18T18:30:23.840Z,18.012,-66.73,12.36,2.88,md,15,132,0.1217,0.23,pr,pr71482803,2025-05-18T18:47:52.290Z,"2 km NW of Tallaboa, Puerto Rico",earthquake,0.39,0.64,0.07124044390624,8,reviewed,pr,pr
 2025-05-18T18:27:22.060Z,38.781665802002,-122.74333190918,0.75999999046326,0.72,md,6,154,0.005397,0.01,nc,nc75184112,2025-05-18T19:07:16.391Z,"1 km ENE of The Geysers, CA",earthquake,0.75,1.22000003,0.24,7,automatic,nc,nc
 2025-05-18T18:16:21.082Z,60.2966,-150.9481,36.3,1.5,ml,,,,0.5,ak,ak0256ciz64c,2025-05-18T18:19:08.563Z,"18 km ESE of Kasilof, Alaska",earthquake,,2,,,automatic,ak,ak
-2025-05-18T18:12:53.760Z,38.782501220703,-122.74433135986,0.74000000953674,1.37,md,13,89,0.00599,0.02,nc,nc75184107,2025-05-18T18:52:19.295Z,"1 km ENE of The Geysers, CA",earthquake,0.23,0.430000007,0.16,15,automatic,nc,nc
+2025-05-18T18:12:53.760Z,38.782501220703,-122.74433135986,0.74000000953674,1.37,md,13,89,0.00599,0.02,nc,nc75184107,2025-05-18T19:47:20.670Z,"1 km ENE of The Geysers, CA",earthquake,0.23,0.430000007,0.16,15,automatic,nc,nc
 2025-05-18T18:11:04.190Z,37.463500976562,-118.85099792481,4.5599999427795,1.23,md,17,134,0.1275,0.04,nc,nc75184102,2025-05-18T19:22:17.502Z,"19 km WSW of Toms Place, CA",earthquake,0.31,1.69000006,0.11,15,automatic,nc,nc
 2025-05-18T17:59:31.419Z,61.2723,-146.8352,20.4,1.5,ml,,,,0.42,ak,ak0256cimz3p,2025-05-18T18:01:51.333Z,"30 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-05-18T17:56:27.297Z,-10.7456,41.3662,10,4.4,mb,33,52,4.305,0.44,us,us7000q01v,2025-05-18T18:22:02.040Z,"119 km ESE of Madimba, Tanzania",earthquake,9.13,1.879,0.112,23,reviewed,us,us
@@ -228,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-17T20:10:47.576Z,62.8232,-150.9695,77.6,1.2,ml,,,,0.75,ak,ak0256awlgl1,2025-05-17T20:13:04.024Z,"37 km NNW of Petersville, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2025-05-17T19:59:31.081Z,31.668,-104.398,3.9463,2,ml,18,70,0,0.5,tx,tx2025jqaa,2025-05-17T20:13:32.930Z,"56 km S of Whites City, New Mexico",earthquake,0,1.2593669891357,0.1,13,automatic,tx,tx
 2025-05-17T19:52:54.205Z,37.2794,-104.5088,6.34,2.5,mb_lg,13,72,0.161,0.6,us,us7000pzvz,2025-05-17T21:25:38.957Z,"7 km NNW of El Moro, Colorado",earthquake,2.2,2.846,0.136,21,reviewed,us,us
-2025-05-17T19:48:06.130Z,46.800833333333,-112.18666666667,7.87,1.29,ml,11,132,0.1117,0.08,mb,mb90086688,2025-05-18T14:28:05.340Z,"10 km ENE of Marysville, Montana",earthquake,0.28,0.78,0.22141436582454,14,reviewed,mb,mb
