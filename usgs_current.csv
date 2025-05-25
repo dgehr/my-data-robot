@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-24T16:26:57.330Z,38.8145,-122.855,1.46,0.23,md,22,94,0.01311,0.06,nc,nc75185921,2025-05-24T20:27:19.377Z,"9 km NW of The Geysers, CA",earthquake,0.19,0.32,0.16,19,reviewed,nc,nc
 2025-05-24T16:25:23.630Z,35.8673333,-117.6478333,5.76,0.7,ml,17,68,0.08042,0.15,ci,ci40974847,2025-05-24T16:28:48.929Z,"25 km ESE of Little Lake, CA",earthquake,0.25,0.76,0.122,12,automatic,ci,ci
 2025-05-24T16:13:21.680Z,33.4903333,-116.5511667,6.71,0.46,ml,14,112,0.04287,0.16,ci,ci40974839,2025-05-24T16:16:48.059Z,"13 km ESE of Anza, CA",earthquake,0.31,0.62,0.104,10,automatic,ci,ci
-2025-05-24T15:49:13.520Z,38.838165283203,-122.79750061035,2.2799999713898,1.08,md,21,74,0.005594,0.02,nc,nc75185916,2025-05-24T16:22:18.795Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.460000008,0.06,22,automatic,nc,nc
