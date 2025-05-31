@@ -249,5 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-30T12:07:55.521Z,62.4962,-149.269,15.2,1.9,ml,,,,0.1,ak,ak0256w9svmo,2025-05-30T12:09:28.371Z,"43 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-30T12:06:27.463Z,61.8701,-150.75,5.3,1.7,ml,,,,0.34,ak,ak0256w9slqy,2025-05-30T12:08:07.416Z,"36 km ESE of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-30T12:05:47.990Z,54.129833333333,-166.04466666667,2.39,-1.04,ml,5,149,0.01539,0.09,av,av93043164,2025-05-31T05:22:33.610Z,"17 km W of Akutan, Alaska",earthquake,0.34,0.76,0.27587044255302,5,reviewed,av,av
-2025-05-30T11:54:46.630Z,61.276333333333,-152.2475,3.26,-0.41,ml,6,187,0.046,0.09,av,av93043154,2025-05-31T05:01:12.790Z,"64 km WNW of Tyonek, Alaska",earthquake,0.45,0.9,0.30029321723843,6,reviewed,av,av
-2025-05-30T11:54:44.270Z,61.274666666667,-152.23516666667,3.53,-0.44,ml,4,227,0.03981,0.08,av,av93622421,2025-05-31T04:57:47.710Z,"63 km WNW of Tyonek, Alaska",earthquake,0.5,0.65,0.20736178088704,5,reviewed,av,av
