@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-04T21:40:35.800Z,33.5313333,-116.7236667,5.98,0.9,ml,31,32,0.03583,0.15,ci,ci41174440,2025-06-04T21:44:26.058Z,"5 km WSW of Anza, CA",earthquake,0.17,0.4,0.19,26,automatic,ci,ci
 2025-06-04T21:28:43.070Z,19.422500610352,-155.26733398438,1.9099999666214,1.71,ml,13,107,0.004565,0.140000001,hv,hv74688157,2025-06-04T21:31:39.480Z,"4 km WSW of Volcano, Hawaii",earthquake,0.4,0.460000008,0.2,8,automatic,hv,hv
 2025-06-04T21:15:32.267Z,31.547,-104.224,4.6076,1.7,ml,18,152,0.1,0.5,tx,tx2025kwzo,2025-06-04T21:20:10.665Z,"48 km WNW of Toyah, Texas",earthquake,0,1.4718905687332,0.4,11,automatic,tx,tx
 2025-06-04T21:10:20.760Z,38.835334777832,-122.80283355713,1.789999961853,0.28,md,8,94,0.01023,0,nc,nc75191001,2025-06-04T21:11:57.238Z,"7 km WNW of Cobb, CA",earthquake,0.44,1.27999997,0.2,8,automatic,nc,nc
@@ -46,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-04T16:31:00.370Z,38.824501037598,-122.76249694824,1.9199999570847,0.75,md,9,140,0.008312,0.02,nc,nc75190911,2025-06-04T17:07:24.415Z,"3 km WNW of Cobb, CA",earthquake,0.41,0.779999971,0.32,11,automatic,nc,nc
 2025-06-04T16:21:28.024Z,31.584,-104.574,3.7443,1.6,ml,22,122,0.1,0.4,tx,tx2025kwpw,2025-06-04T16:25:50.117Z,"65 km NNE of Van Horn, Texas",earthquake,0,1.4985716342926,0.2,17,automatic,tx,tx
 2025-06-04T16:07:54.420Z,33.2501667,-116.3878333,3.44,1.01,ml,51,22,0.03045,0.22,ci,ci41173008,2025-06-04T16:39:52.442Z,"1 km WSW of Borrego Springs, CA",earthquake,0.19,0.33,0.147,31,reviewed,ci,ci
-2025-06-04T16:01:11.610Z,17.974666666667,-68.230166666667,71.48,3.4,md,12,217,0.5557,0.42,pr,pr71484503,2025-06-04T16:25:19.550Z,"60 km SE of Boca de Yuma, Dominican Republic",earthquake,3.29,3.53,0.084496448810608,6,reviewed,pr,pr
+2025-06-04T16:01:11.610Z,17.974666666667,-68.230166666667,71.48,3.4,md,12,217,0.5557,0.42,pr,pr71484503,2025-06-04T21:46:20.040Z,"60 km SE of Boca de Yuma, Dominican Republic",earthquake,3.29,3.53,0.084496448810608,6,reviewed,pr,pr
 2025-06-04T15:50:04.510Z,18.4915,-66.303,74.75,2.78,md,11,211,0.181,0.39,pr,pr71484498,2025-06-04T16:15:17.890Z,"4 km N of San Antonio, Puerto Rico",earthquake,2.24,1.9,0.087468122221344,6,reviewed,pr,pr
 2025-06-04T15:43:18.770Z,35.33,-117.8143333,8.38,0.63,ml,6,121,0.06754,0.16,ci,ci41173000,2025-06-04T16:21:37.115Z,"17 km WSW of Johannesburg, CA",earthquake,0.52,0.95,0.189,3,reviewed,ci,ci
 2025-06-04T15:41:32.522Z,31.645,-104.362,4.0863,1.6,ml,28,89,0.1,0.4,tx,tx2025kwop,2025-06-04T15:44:02.133Z,"58 km S of Whites City, New Mexico",earthquake,0,1.0877814292908,0.2,21,automatic,tx,tx
