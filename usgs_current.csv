@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-05T20:37:52.880Z,38.833667755127,-122.87683105469,2.9300000667572,0.4,md,10,148,0.006887,0.02,nc,nc75191471,2025-06-05T20:39:28.516Z,"12 km NW of The Geysers, CA",earthquake,0.47,0.689999998,0.29,10,automatic,nc,nc
 2025-06-05T20:33:21.267Z,31.509,-104.096,1.0831,1.6,ml,15,170,0,0.9,tx,tx2025kytu,2025-06-05T20:35:20.582Z,"35 km NW of Toyah, Texas",earthquake,0,1.8147830963135,1,8,automatic,tx,tx
 2025-06-05T20:31:08.412Z,31.929,-103.321,1.9479,1.8,ml,9,202,0.1,0.7,tx,tx2025kytt,2025-06-05T20:34:46.963Z,"23 km WNW of Kermit, Texas",earthquake,0,2.1778101921082,0.4,7,automatic,tx,tx
 2025-06-05T20:25:06.019Z,31.943,-103.358,8.1992,2.7,ml,23,69,0,0.5,tx,tx2025kytn,2025-06-05T20:28:37.471Z,"24 km SW of Jal, New Mexico",earthquake,0,2.010409116745,0.3,15,automatic,tx,tx
@@ -14,6 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-05T19:36:09.310Z,17.895666666667,-66.595333333333,12.09,2.51,md,14,182,0.06602,0.1,pr,pr71484668,2025-06-05T19:53:00.790Z,"13 km SSE of Ponce, Puerto Rico",earthquake,0.31,0.28,0.14856880998157,9,reviewed,pr,pr
 2025-06-05T19:11:33.970Z,17.957333333333,-66.847333333333,13.8,1.86,md,5,209,0.03513,0.05,pr,pr71484663,2025-06-05T19:40:43.270Z,"5 km ESE of Maria Antonia, Puerto Rico",earthquake,1.25,0.24,0.19359402567477,4,reviewed,pr,pr
 2025-06-05T19:06:53.350Z,19.312833333333,-155.21016666667,0.2,1.85,ml,48,128,0.03428,0.14,hv,hv74688762,2025-06-05T19:55:35.990Z,"14 km S of Volcano, Hawaii",earthquake,0.22,0.17,0.21565469890307,33,reviewed,hv,hv
+2025-06-05T18:36:28.390Z,-60.7921,-23.634,10,4.7,mb,50,115,13.649,0.9,us,us6000qi8p,2025-06-05T20:42:49.040Z,"South Sandwich Islands region",earthquake,11.22,1.702,0.085,42,reviewed,us,us
 2025-06-05T18:34:13.373Z,59.954,-152.7322,84.2,2,ml,,,,0.5,ak,ak02576ar9ax,2025-06-05T18:36:24.333Z,"54 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-06-05T18:31:21.560Z,36.0928333,-117.8581667,3.04,1.22,ml,22,92,0.02484,0.13,ci,ci41176216,2025-06-05T18:34:45.126Z,"10 km ENE of Coso Junction, CA",earthquake,0.2,0.38,0.181,24,automatic,ci,ci
 2025-06-05T18:28:03.532Z,61.2487,-151.748,85.4,0.8,ml,,,,0.33,ak,ak02576apy8x,2025-06-05T18:29:52.332Z,"37 km WNW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -130,6 +132,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-05T05:40:38.480Z,40.28783416748,-124.45216369629,18.920000076294,1.54,md,7,284,0.08382,0.04,nc,nc75191176,2025-06-05T08:22:19.019Z,"15 km W of Petrolia, CA",earthquake,2.27,0.709999979,0.09,3,automatic,nc,nc
 2025-06-05T05:35:40.640Z,47.916,-121.66866666667,12.26,1.07,ml,16,74,0.1308,0.21,uw,uw62123506,2025-06-05T12:55:37.050Z,"6 km N of May Creek, Washington",earthquake,0.46,1.17,0.064245565049639,3,reviewed,uw,uw
 2025-06-05T05:29:04.612Z,64.8367,-148.9255,7.7,1,ml,,,,0.35,ak,ak025762zj6l,2025-06-05T05:32:13.038Z,"27 km NNE of Four Mile Road, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-06-05T05:22:21.540Z,61.307666666667,-152.294,-2.99,-0.45,ml,6,170,0.06166,0.18,av,av93628116,2025-06-05T20:39:34.610Z,"67 km WNW of Beluga, Alaska",earthquake,0.58,3.12,0.25429317101589,7,reviewed,av,av
 2025-06-05T05:20:43.590Z,36.77466583252,-121.30850219727,7.5700001716614,0.97,md,7,129,0.0737,0.02,nc,nc75191171,2025-06-05T07:32:16.762Z,"2 km SSE of Tres Pinos, CA",earthquake,0.44,0.930000007,0.12,5,automatic,nc,nc
 2025-06-05T05:18:38.412Z,40.1325,24.8124,10,4.7,mb,45,40,1.782,0.93,us,us6000qi2m,2025-06-05T06:39:56.418Z,"35 km NW of Mýrina, Greece",earthquake,6.39,1.888,0.1,30,reviewed,us,us
 2025-06-05T05:10:38.944Z,31.69,-104.086,5,1.4,ml,8,224,0.2,0.8,tx,tx2025kxpr,2025-06-05T06:00:17.972Z,"46 km W of Mentone, Texas",earthquake,0,,0.6,6,automatic,tx,tx
