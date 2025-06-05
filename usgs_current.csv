@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-05T19:11:33.970Z,17.957333333333,-66.847333333333,13.8,1.86,md,5,209,0.03513,0.05,pr,pr71484663,2025-06-05T19:40:43.270Z,"5 km ESE of Maria Antonia, Puerto Rico",earthquake,1.25,0.24,0.19359402567477,4,reviewed,pr,pr
 2025-06-05T19:06:53.300Z,19.317667007446,-155.21617126465,-0.21999999880791,2.04,ml,52,82,0.03712,0.180000007,hv,hv74688762,2025-06-05T19:10:24.390Z,"13 km S of Volcano, Hawaii",earthquake,0.21,0.170000002,0.78,20,automatic,hv,hv
 2025-06-05T18:34:13.373Z,59.954,-152.7322,84.2,2,ml,,,,0.5,ak,ak02576ar9ax,2025-06-05T18:36:24.333Z,"54 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-06-05T18:31:21.560Z,36.0928333,-117.8581667,3.04,1.22,ml,22,92,0.02484,0.13,ci,ci41176216,2025-06-05T18:34:45.126Z,"10 km ENE of Coso Junction, CA",earthquake,0.2,0.38,0.181,24,automatic,ci,ci
@@ -86,7 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-05T09:34:24.382Z,56.9674,-154.9146,0,2.5,ml,,,,0.39,ak,ak025765edpi,2025-06-05T09:36:22.774Z,"45 km W of Akhiok, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-06-05T09:16:03.743Z,36.737,-116.2965,9.1,-0.1,ml,30,83.19,0.013,0.0755,nn,nn00898537,2025-06-05T17:24:22.115Z,"45 km ESE of Beatty, Nevada",earthquake,,0.7,0.19,4,reviewed,nn,nn
 2025-06-05T09:13:43.905Z,65.283,-149.0022,10.1,0.8,ml,,,,0.61,ak,ak0257659x6e,2025-06-05T09:15:28.370Z,"21 km NE of Minto, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-06-05T09:01:13.378Z,38.844,-118.7982,1.4,2,ml,23,58,0.372,0.1595,nn,nn00898535,2025-06-05T09:03:30.672Z,"11 km S of Schurz, Nevada",earthquake,,3.1,0.21,15,automatic,nn,nn
+2025-06-05T09:01:14.130Z,38.8393,-118.7999,11.9,2.1,ml,15,57.81,0.302,0.1042,nn,nn00898535,2025-06-05T19:36:04.967Z,"12 km S of Schurz, Nevada",earthquake,,3.3,0.13,8,reviewed,nn,nn
 2025-06-05T08:48:48.700Z,36.484666666667,-92.54,11.54,2.13,md,10,110,0.2796,0.05,nm,nm60503633,2025-06-05T19:13:58.089Z,"6 km ESE of Pontiac, Missouri",earthquake,0.59,1.15,0.093711495224768,7,reviewed,nm,nm
 2025-06-05T08:32:10.943Z,64.8417,-147.4917,15.8,1,ml,,,,0.35,ak,ak025764shmu,2025-06-05T08:33:47.482Z,"5 km NNE of Badger, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-05T08:31:15.576Z,31.716,-104.494,4.613,2.2,ml,19,88,0,0.3,tx,tx2025kxvz,2025-06-05T12:45:24.446Z,"52 km SSW of Whites City, New Mexico",earthquake,1.1094812793526,0.89085284365737,0.1,9,reviewed,tx,tx
@@ -230,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-04T19:47:56.920Z,17.921666666667,-66.857833333333,12.08,2.11,md,9,223,0.05142,0.14,pr,pr71484533,2025-06-04T20:03:05.430Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.88,0.45,0.19080042587234,3,reviewed,pr,pr
 2025-06-04T19:46:11.280Z,38.788666666667,-122.7565,2.49,0.3,md,22,77,0.0122,0.03,nc,nc75190951,2025-06-05T00:47:18.736Z,"1 km N of The Geysers, CA",earthquake,0.19,0.55,0.171,17,reviewed,nc,nc
 2025-06-04T19:42:49.640Z,58.171333333333,-155.36933333333,2.36,-0.15,ml,4,275,0.1089,0.05,av,av93043644,2025-06-05T02:51:47.870Z,"86 km NW of Karluk, Alaska",earthquake,0.5,0.56,0.26114373440893,5,reviewed,av,av
-2025-06-04T19:40:54.270Z,46.118333333333,-122.51216666667,18.34,0.99,ml,17,123,0.1296,0.1,uw,uw62123231,2025-06-04T20:45:56.000Z,"23 km NNW of Amboy, Washington",earthquake,0.33,0.64,0.20772681595753,7,reviewed,uw,uw
