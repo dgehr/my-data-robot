@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-06T21:43:36.390Z,38.839168548584,-122.83599853516,1.4700000286102,0.73,md,14,90,0.0007032,0.01,nc,nc75191996,2025-06-06T21:45:15.361Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.409999996,0.27,14,automatic,nc,nc
 2025-06-06T21:21:50.808Z,31.672,-104.194,4.1169,1.6,ml,29,62,0.1,0.2,tx,tx2025lara,2025-06-06T21:24:39.411Z,"54 km NW of Toyah, Texas",earthquake,0,1.002427816391,0.2,21,automatic,tx,tx
 2025-06-06T21:18:47.913Z,28.467,-98.078,5,1.6,ml,6,143,0.2,0.2,tx,tx2025laqz,2025-06-06T21:21:43.018Z,"10 km E of Three Rivers, Texas",earthquake,0,,0.2,6,automatic,tx,tx
 2025-06-06T21:15:33.121Z,31.634,-104.46,7.4199,1.6,ml,15,106,0,0.6,tx,tx2025laqs,2025-06-06T21:19:10.224Z,"60 km S of Whites City, New Mexico",earthquake,0,4.2347059249878,0.1,13,automatic,tx,tx
