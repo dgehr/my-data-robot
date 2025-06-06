@@ -163,6 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-06T08:38:40.000Z,36.2915,-97.5105,9.3,1.56,ml,25,64,0.06658693337,0.24,ok,ok2025kzrp,2025-06-06T10:48:27.886Z,"5 km WNW of Lucien, Oklahoma",earthquake,,1.3,0.25,9,reviewed,ok,ok
 2025-06-06T08:36:00.252Z,65.2704,-151.2711,0,1.3,ml,,,,0.79,ak,ak02577sco6f,2025-06-06T08:38:44.522Z,"39 km ENE of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-06T08:35:37.670Z,38.817501068115,-122.79499816894,2.329999923706,1.21,md,24,35,0.009522,0.01,nc,nc75191706,2025-06-06T10:47:19.432Z,"6 km NNW of The Geysers, CA",earthquake,0.2,0.430000007,0.16,25,automatic,nc,nc
+2025-06-06T08:31:29.690Z,51.870666666667,-177.84466666667,8.81,-0.39,ml,5,153,0.05939,0.2,av,av93043829,2025-06-06T22:38:37.160Z,"83 km W of Adak, Alaska",earthquake,0.95,0.98,0.30929777512248,5,reviewed,av,av
 2025-06-06T08:29:46.128Z,36.5976,-116.279,6.2,-0.3,ml,16,133.97,0.068,0.0755,nn,nn00898584,2025-06-06T13:40:11.200Z,"50 km NNW of Pahrump, Nevada",earthquake,,1.8,0.52,4,reviewed,nn,nn
 2025-06-06T08:26:48.998Z,36.7286,-116.293,8.3,-0.4,ml,10,204.06,0.019,0.0551,nn,nn00898583,2025-06-06T13:37:04.285Z,"46 km ESE of Beatty, Nevada",earthquake,,1.7,0,1,reviewed,nn,nn
 2025-06-06T08:25:42.440Z,35.3313333,-117.8061667,7.89,0.95,ml,21,82,0.07154,0.14,ci,ci41176728,2025-06-06T18:17:25.609Z,"16 km WSW of Johannesburg, CA",earthquake,0.21,0.57,0.203,14,reviewed,ci,ci
@@ -303,5 +304,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-05T22:51:31.550Z,47.726,-113.81283333333,6.89,-0.65,ml,4,182,0.07221,0.05,mb,mb90094173,2025-06-06T19:36:02.280Z,"18 km E of Finley Point, Montana",earthquake,0.74,1.96,0.28593429885798,2,reviewed,mb,mb
 2025-06-05T22:48:02.760Z,59.2908,-152.1343,46.5,1.9,ml,,,,0.45,ak,ak02576d7yxg,2025-06-05T22:50:05.824Z,"14 km WSW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-06-05T22:45:05.790Z,33.5231667,-116.7473333,5.15,0.28,ml,7,188,0.04295,0.13,ci,ci37729596,2025-06-06T17:47:54.999Z,"8 km WSW of Anza, CA",earthquake,0.6,0.93,0.16,5,reviewed,ci,ci
-2025-06-05T22:44:57.630Z,33.5281667,-116.7406667,4.41,0.67,ml,25,45,0.03724,0.14,ci,ci41176296,2025-06-06T20:24:02.073Z,"7 km WSW of Anza, CA",earthquake,0.17,0.29,0.116,13,reviewed,ci,ci
-2025-06-05T22:40:00.570Z,56.1875,-158.8979,91.6,1.7,ml,,,,0.36,ak,ak02576d6915,2025-06-05T22:42:06.515Z,"11 km SW of Chignik Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
