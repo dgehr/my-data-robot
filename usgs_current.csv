@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-07T18:36:44.460Z,37.806999206543,-121.98217010498,7.710000038147,1.09,md,7,87,0.04552,0.03,nc,nc75192411,2025-06-07T18:38:23.328Z,"2 km SSE of Danville, CA",earthquake,0.41,1.12,0.12,6,automatic,nc,nc
 2025-06-07T18:35:00.958Z,60.9503,-150.6044,35,2.8,ml,62,50,0.325,0.84,us,us6000qire,2025-06-07T21:14:20.040Z,"5 km ENE of Point Possession, Alaska",earthquake,2.69,1.982,0.031,134,reviewed,us,us
 2025-06-07T18:34:12.700Z,34.0028333,-116.7903333,17.62,1.13,ml,38,75,0.03534,0.16,ci,ci41178512,2025-06-07T18:37:46.385Z,"10 km N of Cabazon, CA",earthquake,0.18,0.46,0.236,27,automatic,ci,ci
-2025-06-07T18:30:53.035Z,37.308,-114.6465,4.9,2.9,ml,76,101.9,0.337,0.1498,nn,nn00898642,2025-06-07T21:47:13.765Z,"36 km SSW of Caliente, Nevada",earthquake,,0.9,0.49,36,reviewed,nn,nn
+2025-06-07T18:30:53.053Z,37.3082,-114.6473,5,2.9,ml,73,101.86,0.336,0.1491,nn,nn00898642,2025-06-07T21:56:46.531Z,"36 km SSW of Caliente, Nevada",earthquake,,0.9,0.34,33,reviewed,nn,nn
 2025-06-07T18:30:51.491Z,62.5548,-150.2067,55.8,2,ml,,,,0.56,ak,ak02579lt6d9,2025-06-07T18:33:08.998Z,"12 km NNW of Chase, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-06-07T18:13:08.374Z,62.3434,-149.4537,43.6,1.6,ml,,,,0.84,ak,ak02579lpfv9,2025-06-07T18:16:28.280Z,"28 km NE of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-06-07T18:11:27.210Z,37.806167602539,-121.98750305176,7.4299998283386,1.84,md,21,48,0.04899,0.07,nc,nc75192391,2025-06-07T20:45:23.430Z,"2 km SSE of Danville, CA",earthquake,0.24,0.430000007,0.13,14,automatic,nc,nc
@@ -269,5 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-06T22:06:27.370Z,58.233166666667,-155.09216666667,24.59,0.16,ml,7,135,0.06515,0.14,av,av93630216,2025-06-07T03:45:48.870Z,"83 km NNW of Karluk, Alaska",earthquake,0.91,0.71,0.22686659998424,6,reviewed,av,av
 2025-06-06T22:05:00.236Z,31.665,-104.197,4.8999,1.8,ml,35,62,0.1,0.4,tx,tx2025lasr,2025-06-06T22:08:07.765Z,"54 km NW of Toyah, Texas",earthquake,0,0.91254460811615,0.2,25,automatic,tx,tx
 2025-06-06T22:04:59.353Z,44.3573,-115.1001,11.255,3,ml,59,27,0.31,0.85,us,us6000qikl,2025-06-07T07:17:22.683Z,"20 km NW of Stanley, Idaho",earthquake,3.39,7.998,0.03,144,reviewed,us,us
-2025-06-06T21:58:01.340Z,31.666,-104.195,4.3328,1.7,ml,33,62,0.1,0.2,tx,tx2025lasj,2025-06-06T23:00:54.651Z,"54 km NW of Toyah, Texas",earthquake,0,0.94667088985443,0.3,24,automatic,tx,tx
-2025-06-06T21:57:14.800Z,33.6695,-117.3666667,9.55,1.1,ml,35,65,0.03441,0.18,ci,ci41177424,2025-06-06T23:20:20.160Z,"4 km W of Lake Elsinore, CA",earthquake,0.24,0.47,0.132,16,reviewed,ci,ci
