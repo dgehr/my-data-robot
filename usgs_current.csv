@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-08T16:47:58.247Z,31.654,-104.307,4.3974,2.4,ml,43,68,0,0.4,tx,tx2025ldyy,2025-06-08T16:51:55.511Z,"58 km S of Whites City, New Mexico",earthquake,0,0.88092535734177,0.2,31,automatic,tx,tx
+2025-06-08T16:49:40.246Z,31.6428,-104.3453,4.521,3,ml,30,108,0.135,0.34,us,us6000qiyv,2025-06-08T16:58:29.040Z,"59 km S of Whites City, New Mexico",earthquake,0.89,2.798,0.06,74,reviewed,us,us
+2025-06-08T16:47:58.247Z,31.654,-104.307,4.3974,2.4,ml,43,68,0,0.4,tx,tx2025ldyy,2025-06-08T16:52:11.460Z,"58 km S of Whites City, New Mexico",earthquake,0,0.88092535734177,0.2,31,automatic,tx,tx
 2025-06-08T16:30:58.219Z,4.4201,-73.3408,10,4.9,mb,101,62,1.064,0.64,us,us6000qiys,2025-06-08T16:47:12.040Z,"9 km S of Medina, Colombia",earthquake,8.45,1.869,0.026,448,reviewed,us,us
 2025-06-08T16:18:31.770Z,34.0135,-116.7955,17.17,0.79,ml,36,96,0.02388,0.18,ci,ci41179368,2025-06-08T16:22:24.365Z,"11 km N of Cabazon, CA",earthquake,0.22,0.5,0.215,22,automatic,ci,ci
 2025-06-08T16:10:48.150Z,19.147666931152,-155.47399902344,31.10000038147,1.87,ml,54,165,0.01363,0.140000001,hv,hv74692292,2025-06-08T16:15:12.350Z,"6 km S of Pāhala, Hawaii",earthquake,0.49,0.680000007,0.38,3,automatic,hv,hv
