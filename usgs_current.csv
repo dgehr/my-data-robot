@@ -199,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-07T09:22:22.455Z,60.3201,-143.2955,12.4,1.6,ml,,,,0.48,ak,ak02579gehyd,2025-06-07T09:23:40.605Z,"125 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-07T09:10:53.530Z,33.5186667,-116.7496667,2.98,1.78,ml,94,15,0.04774,0.23,ci,ci41177936,2025-06-07T09:21:51.420Z,"8 km WSW of Anza, CA",earthquake,0.13,0.43,0.254,25,automatic,ci,ci
 2025-06-07T09:06:45.840Z,20.340333938599,-155.98384094238,29.770000457764,2.68,ml,62,307,0.1736,0.119999997,hv,hv74690857,2025-06-07T09:15:26.040Z,"19 km NW of Hāwī, Hawaii",earthquake,0.55,0.839999974,0.26,3,automatic,hv,hv
-2025-06-07T08:54:23.710Z,44.345666666667,-115.01633333333,0.25,2.28,ml,18,78,0.2687,0.16,mb,mb90094413,2025-06-07T14:04:26.320Z,"15 km NNW of Stanley, Idaho",earthquake,0.45,1.73,0.17809332811111,40,reviewed,mb,mb
