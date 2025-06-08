@@ -214,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-07T07:17:50.670Z,34.6393333,-119.0126667,10.33,1.33,ml,46,31,0.1201,0.23,ci,ci41177840,2025-06-07T07:28:23.740Z,"21 km SSW of Frazier Park, CA",earthquake,0.23,0.46,0.236,30,automatic,ci,ci
 2025-06-07T07:11:54.036Z,61.5797,-146.3668,17.2,3.2,ml,,,,0.69,ak,ak02579f5cc3,2025-06-07T07:35:06.040Z,"50 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-07T07:10:31.060Z,33.3768333,-116.8675,4.98,0.6,ml,53,24,0.02351,0.22,ci,ci41177832,2025-06-07T07:14:36.765Z,"2 km N of Palomar Observatory, CA",earthquake,0.19,0.4,0.084,22,automatic,ci,ci
-2025-06-07T06:51:42.181Z,44.3445,-115.0169,13.451,2.6,ml,21,59,0.268,0.29,us,us6000qin3,2025-06-07T14:26:30.660Z,"15 km NNW of Stanley, Idaho",earthquake,1.59,4.94,0.053,46,reviewed,us,us
