@@ -200,7 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-07T11:36:27.743Z,31.671,-104.394,8.2971,1.9,ml,33,69,0,0.8,tx,tx2025lbtw,2025-06-07T12:01:56.073Z,"55 km S of Whites City, New Mexico",earthquake,0,2.0626142024994,0.2,23,automatic,tx,tx
 2025-06-07T11:34:04.722Z,36.6377,-116.2359,1.8,-0.3,ml,9,129.14,0.069,0.3164,nn,nn00898630,2025-06-07T11:35:57.659Z,"51 km W of Indian Springs, Nevada",earthquake,,5.9,0.1,7,automatic,nn,nn
 2025-06-07T11:26:15.540Z,33.782,-116.6833333,15.25,0.5,ml,34,46,0.0444,0.14,ci,ci41177976,2025-06-07T11:29:48.419Z,"6 km NE of Idyllwild, CA",earthquake,0.18,0.39,0.163,9,automatic,ci,ci
-2025-06-07T11:10:21.225Z,31.665,-104.386,4.5667,1.9,ml,31,70,0,0.3,tx,tx2025lbsy,2025-06-07T11:14:31.152Z,"56 km S of Whites City, New Mexico",earthquake,0,1.0676848888397,0.1,18,automatic,tx,tx
-2025-06-07T11:10:15.530Z,38.838165283203,-122.7825012207,0.91000002622604,0.7,md,9,140,0.00613,0.01,nc,nc75192226,2025-06-07T11:11:51.133Z,"5 km WNW of Cobb, CA",earthquake,0.36,0.469999999,0.16,11,automatic,nc,nc
-2025-06-07T11:09:33.020Z,31.669,-104.39,4.8065,1.6,ml,21,69,0,0.3,tx,tx2025lbsx,2025-06-07T12:01:30.063Z,"56 km S of Whites City, New Mexico",earthquake,0,1.1909208297729,0.2,14,automatic,tx,tx
-2025-06-07T11:08:33.028Z,31.676,-104.385,7.6417,1.5,ml,25,69,0,0.7,tx,tx2025lbsw,2025-06-07T12:01:32.066Z,"55 km S of Whites City, New Mexico",earthquake,0,2.321528673172,0.2,14,automatic,tx,tx
