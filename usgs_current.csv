@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-08T15:55:01.980Z,33.5135,-118.3346667,7.95,2.07,ml,8,288,0.1799,0.28,ci,ci41179328,2025-06-08T15:58:43.219Z,"19 km N of Avalon, CA",earthquake,3.22,23.73,0.232,38,automatic,ci,ci
 2025-06-08T15:40:04.952Z,36.6634,-116.276,10.9,-0.2,ml,14,91.01,0.054,0.1312,nn,nn00898686,2025-06-08T15:41:55.947Z,"50 km ESE of Beatty, Nevada",earthquake,,0.8,0.26,6,automatic,nn,nn
 2025-06-08T15:39:14.270Z,32.5958333,-116.1535,-0.32,1.39,ml,9,226,0.2837,0.26,ci,ci41179312,2025-06-08T15:42:44.117Z,"22 km SW of Ocotillo, CA",earthquake,4.92,7.89,0.273,9,automatic,ci,ci
 2025-06-08T15:34:47.530Z,47.189167022705,-123.10600280762,17.25,1.6669253110886,ml,19,118,,0.0900000036,uw,uw62125216,2025-06-08T15:37:24.240Z,"2 km S of Shelton, Washington",earthquake,0.41,0.910000026,0.29885104298592,17,automatic,uw,uw
