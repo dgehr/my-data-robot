@@ -11,6 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-10T20:47:22.390Z,34.0746667,-117.3208333,15.63,1.31,ml,47,42,0.09279,0.21,ci,ci41181936,2025-06-10T20:51:15.469Z,"1 km W of Colton, CA",earthquake,0.23,0.45,0.21,31,automatic,ci,ci
 2025-06-10T20:26:37.390Z,38.80016708374,-122.75016784668,2.5999999046326,0.76,md,9,172,0.0199,0.01,nc,nc75193891,2025-06-10T20:28:14.348Z,"3 km NNE of The Geysers, CA",earthquake,0.45,1.85000002,0.06,8,automatic,nc,nc
 2025-06-10T20:23:59.460Z,17.986,-66.8345,17.39,2.14,md,7,181,0.04397,0.08,pr,pr71485408,2025-06-10T20:33:23.360Z,"1 km WSW of Indios, Puerto Rico",earthquake,0.5,0.71,0.068089416084347,5,reviewed,pr,pr
+2025-06-10T20:13:01.390Z,33.2465,-115.6633333,3.24,1.43,ml,5,277,0.07185,0.16,ci,ci37545413,2025-06-10T21:47:05.382Z,"13 km SSE of Bombay Beach, CA",earthquake,1.27,0.5,0.233,4,reviewed,ci,ci
 2025-06-10T20:12:24.940Z,33.3115,-116.3196667,9.68,1.95,ml,9,136,0.04255,0.12,ci,ci41181880,2025-06-10T21:27:00.406Z,"8 km NE of Borrego Springs, CA",earthquake,0.68,1.03,0.15,15,automatic,ci,ci
 2025-06-10T20:12:24.290Z,33.3533333,-115.4511667,5.02,0.98,ml,3,291,0.1302,0.19,ci,ci37545405,2025-06-10T21:40:08.479Z,"14 km NNE of Niland, CA",earthquake,1.89,12.07,0.792,3,reviewed,ci,ci
 2025-06-10T20:10:35.620Z,35.323,-117.8038333,6.74,1.44,ml,28,55,0.06523,0.17,ci,ci41181888,2025-06-10T21:23:24.382Z,"16 km WSW of Johannesburg, CA",earthquake,0.19,0.46,0.153,16,reviewed,ci,ci
@@ -23,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-10T19:26:13.020Z,36.0761667,-117.8338333,4.91,0.62,ml,7,124,0.0447,0.04,ci,ci41181800,2025-06-10T21:06:39.959Z,"11 km ENE of Coso Junction, CA",earthquake,0.18,0.47,0.158,7,reviewed,ci,ci
 2025-06-10T19:23:35.360Z,34.174,-118.056,12.24,1.47,ml,27,51,0.04953,0.12,ci,ci41181784,2025-06-10T20:27:17.072Z,"1 km NNW of Sierra Madre, CA",earthquake,0.19,0.39,0.23,17,reviewed,ci,ci
 2025-06-10T19:19:30.449Z,31.648,-104.29,4.4452,1.7,ml,35,68,0,0.3,tx,tx2025lhvr,2025-06-10T19:22:50.136Z,"59 km S of Whites City, New Mexico",earthquake,0,0.94821959733963,0.2,25,automatic,tx,tx
-2025-06-10T19:15:47.810Z,33.8271667,-118.5516667,10.41,3.25,ml,113,126,0.1486,0.26,ci,ci41181776,2025-06-10T21:42:10.339Z,"14 km WSW of Manhattan Beach, CA",earthquake,0.24,0.49,0.159,309,reviewed,ci,ci
+2025-06-10T19:15:47.810Z,33.8271667,-118.5516667,10.41,3.25,ml,113,126,0.1486,0.26,ci,ci41181776,2025-06-10T21:47:36.167Z,"14 km WSW of Manhattan Beach, CA",earthquake,0.24,0.49,0.159,309,reviewed,ci,ci
 2025-06-10T19:12:54.920Z,38.821834564209,-122.81083679199,3.1099998950958,1.08,md,24,48,0.01841,0.02,nc,nc75193871,2025-06-10T19:14:29.006Z,"7 km NNW of The Geysers, CA",earthquake,0.25,0.419999987,0.11,25,automatic,nc,nc
 2025-06-10T18:51:20.600Z,46.202,-122.20016666667,-0.03,0.85,md,6,92,0.01034,0.17,uw,uw62126126,2025-06-10T19:35:02.140Z,"37 km NNE of Amboy, Washington",earthquake,0.37,0.92,0.31597014997783,3,reviewed,uw,uw
 2025-06-10T18:47:17.090Z,61.4488,-148.4281,29.1,1.1,ml,,,,0.44,ak,ak0257ekisd9,2025-06-10T18:48:55.234Z,"25 km E of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -246,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-09T21:55:12.707Z,61.5286,-150.082,43.5,1.2,ml,,,,0.55,ak,ak0257cytg2u,2025-06-09T21:56:53.750Z,"6 km W of Big Lake, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-06-09T21:55:09.967Z,32.184,-101.688,4.3405,1,ml,21,106,0,0.2,tx,tx2025lgep,2025-06-09T21:57:58.472Z,"11 km ENE of Stanton, Texas",earthquake,0,1.1641138792038,0.1,15,automatic,tx,tx
 2025-06-09T21:51:06.800Z,61.290666666667,-152.3395,1.98,-0.72,ml,7,155,0.0354,0.22,av,av93044109,2025-06-10T02:57:13.710Z,"69 km WNW of Tyonek, Alaska",earthquake,0.77,2.01,0.30490161095635,7,reviewed,av,av
-2025-06-09T21:47:53.740Z,34.1061667,-117.3228333,17.7,1.51,ml,62,20,0.09642,0.16,ci,ci41180760,2025-06-09T23:45:09.240Z,"4 km NNW of Colton, CA",earthquake,0.14,0.3,0.226,30,reviewed,ci,ci
-2025-06-09T21:43:46.551Z,61.2742,-146.5364,26.9,1.7,ml,,,,0.93,ak,ak0257cyqy3j,2025-06-09T21:46:02.793Z,"18 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
