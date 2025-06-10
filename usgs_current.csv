@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-10T11:20:38.991Z,61.6641,-148.0771,4.9,1.5,ml,,,,0.8,ak,ak0257eg70hn,2025-06-10T11:22:46.577Z,"25 km SE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-06-10T10:47:17.160Z,38.824165344238,-122.79983520508,3.0699999332428,0.77,md,12,104,0.008035,0.01,nc,nc75193651,2025-06-10T10:48:54.167Z,"6 km NNW of The Geysers, CA",earthquake,0.35,0.649999976,0.15,16,automatic,nc,nc
 2025-06-10T10:43:10.592Z,8.3989,127.5966,10,4.4,mb,26,86,2.396,1.12,us,us6000qjc5,2025-06-10T11:16:55.040Z,"130 km ENE of Barcelona, Philippines",earthquake,9.56,1.912,0.126,18,reviewed,us,us
 2025-06-10T10:38:10.320Z,33.4866667,-116.5546667,7.54,0.55,ml,28,49,0.04052,0.11,ci,ci41181200,2025-06-10T10:41:36.916Z,"13 km SE of Anza, CA",earthquake,0.14,0.34,0.186,11,automatic,ci,ci
@@ -237,5 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-09T11:44:45.870Z,63.5381,-149.1826,1.7,1.1,ml,,,,0.29,ak,ak0257csstpn,2025-06-09T11:46:14.539Z,"20 km NW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-06-09T11:38:59.350Z,38.824666666667,-122.80133333333,2.47,0.39,md,24,48,0.006945,0.01,nc,nc75193206,2025-06-10T00:38:00.988Z,"7 km NNW of The Geysers, CA",earthquake,0.22,0.57,0.126,23,reviewed,nc,nc
 2025-06-09T11:31:32.585Z,31.642,-104.43,3.7308,1.7,ml,27,85,0,0.3,tx,tx2025lfjw,2025-06-09T12:00:41.505Z,"59 km S of Whites City, New Mexico",earthquake,0,1.2140499353409,0.1,19,automatic,tx,tx
-2025-06-09T11:26:21.690Z,53.859166666667,-166.5025,15.1,0.06,ml,13,195,0.111,0.12,av,av93632686,2025-06-10T00:16:11.790Z,"2 km SE of Unalaska, Alaska",earthquake,0.69,0.89,0.26626320423888,13,reviewed,av,av
-2025-06-09T11:22:02.460Z,32.091,-101.485,3.4974,1.9,ml,48,45,0.1,0.4,tx,tx2025lfjm,2025-06-09T11:25:40.480Z,"11 km W of Forsan, Texas",earthquake,0,0.8995925784111,0.1,33,automatic,tx,tx
