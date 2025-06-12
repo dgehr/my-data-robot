@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-12T17:30:52.441Z,31.663,-104.294,7.6379,2.9,ml,38,67,0,0.2,tx,tx2025lmsmdc,2025-06-12T17:44:05.913Z,"57 km S of Whites City, New Mexico",earthquake,0.67401336281141,0.67724686630209,0.2,30,reviewed,tx,tx
+2025-06-12T17:50:00.680Z,32.4031677,-115.2511673,10.68,2.38,ml,24,59,0.04836,0.29,ci,ci40992375,2025-06-12T17:52:09.412Z,"8 km NW of Delta, B.C., MX",earthquake,0.43,0.87,0.418,26,automatic,ci,ci
+2025-06-12T17:45:13.440Z,38.493831634521,-122.27500152588,5.6300001144409,0.94,md,6,104,0.05699,0.06,nc,nc75194786,2025-06-12T17:46:50.678Z,"13 km NE of Yountville, CA",earthquake,0.56,3.05999994,0.05,6,automatic,nc,nc
+2025-06-12T17:30:52.441Z,31.663,-104.294,7.6379,2.9,ml,38,67,0,0.2,tx,tx2025lmsmdc,2025-06-12T17:46:51.040Z,"57 km S of Whites City, New Mexico",earthquake,0.67401336281141,0.67724686630209,0.2,30,reviewed,tx,tx
 2025-06-12T17:25:29.641Z,-4.8485,150.9001,253.162,4.8,mb,77,54,1.419,0.72,us,us6000qjv7,2025-06-12T17:43:12.040Z,"114 km NE of Kimbe, Papua New Guinea",earthquake,8.35,6.288,0.037,228,reviewed,us,us
 2025-06-12T17:23:49.140Z,33.8473333,-117.4915,2.2,1.39,ml,38,45,0.04886,0.18,ci,ci40992343,2025-06-12T17:28:15.334Z,"4 km SE of Home Gardens, CA",earthquake,0.17,0.27,0.229,34,automatic,ci,ci
 2025-06-12T17:05:54.165Z,44.3119,-115.0065,10,2.6,ml,25,63,0.236,0.5,us,us6000qjuk,2025-06-12T17:18:41.040Z,"11 km NNW of Stanley, Idaho",earthquake,1.66,1.988,0.044,68,reviewed,us,us
@@ -204,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-11T18:11:46.050Z,33.1861667,-115.6025,3.23,1.66,ml,37,87,0.01402,0.21,ci,ci40990727,2025-06-11T21:16:50.083Z,"10 km SW of Niland, CA",earthquake,0.22,0.15,0.194,26,reviewed,ci,ci
 2025-06-11T18:04:36.220Z,38.784999847412,-122.73449707031,1.3799999952316,0.75,md,10,85,0.002476,0.02,nc,nc75194356,2025-06-11T18:06:14.646Z,"2 km ENE of The Geysers, CA",earthquake,0.25,0.600000024,0.24,10,automatic,nc,nc
 2025-06-11T17:53:56.870Z,19.055665969849,-155.3553314209,32.720001220703,2.22,ml,31,265,0.1416,0.150000006,hv,hv74695092,2025-06-11T17:57:12.210Z,"20 km SE of Pāhala, Hawaii",earthquake,1.14,0.829999983,0.96,3,automatic,hv,hv
-2025-06-11T17:49:45.840Z,63.472,-151.3179,0,1.3,ml,,,,0.99,ak,ak0257g7h6wo,2025-06-11T17:51:46.177Z,"21 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
