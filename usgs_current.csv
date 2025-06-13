@@ -239,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-12T09:58:47.760Z,47.670666666667,-120.383,4.24,0.68,ml,6,108,0.07444,0.06,uw,uw62127181,2025-06-12T19:24:12.480Z,"13 km W of Entiat, Washington",earthquake,0.28,0.94,0.17768008168001,6,reviewed,uw,uw
 2025-06-12T09:55:16.690Z,31.9243333,-115.7036667,7.64,2.63,ml,17,101,0.08301,0.29,ci,ci40992055,2025-06-12T16:38:04.204Z,"61 km WSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.47,0.9,0.253,16,reviewed,ci,ci
 2025-06-12T09:52:55.412Z,-5.0595,151.6512,136.137,4.4,mb,40,153,1.002,0.8,us,us6000qjsi,2025-06-12T10:11:21.040Z,"104 km SW of Kokopo, Papua New Guinea",earthquake,11.97,7.522,0.096,31,reviewed,us,us
-2025-06-12T09:41:21.891Z,-3.3019,130.3344,10,4.9,mb,56,36,1.949,1.17,us,us6000qjsf,2025-06-12T10:00:30.040Z,"151 km E of Masohi, Indonesia",earthquake,5.73,1.834,0.061,85,reviewed,us,us
