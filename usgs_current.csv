@@ -12,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-17T13:57:54.660Z,38.805332183838,-122.77766418457,3.289999961853,0.96,md,17,70,0.00826,0.01,nc,nc75196806,2025-06-17T13:59:29.566Z,"4 km NNW of The Geysers, CA",earthquake,0.3,0.589999974,0.19,20,automatic,nc,nc
 2025-06-17T13:54:25.311Z,38.4719,-116.4728,5.2,1.4,ml,9,198.17,1.071,0.2218,nn,nn00899051,2025-06-17T13:57:04.271Z,"80 km NE of Tonopah, Nevada",earthquake,,1.2,1.33,6,automatic,nn,nn
 2025-06-17T13:50:17.156Z,65.4371,-148.1761,0,1.3,ml,,,,0.69,ak,ak0257q2boyb,2025-06-17T13:52:14.555Z,"19 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-06-17T13:45:23.321Z,38.9126,70.7975,10,4.5,mb,128,59,0.961,0.69,us,us6000qkte,2025-06-17T15:55:54.040Z,"38 km ESE of Rasht, Tajikistan",earthquake,3.47,1.832,0.053,108,reviewed,us,us
 2025-06-17T13:40:09.020Z,17.952666666667,-66.941166666667,12.51,1.91,md,6,210,0.06299,0.06,pr,pr71486038,2025-06-17T14:02:36.510Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.6,0.36,0.40062774997062,5,reviewed,pr,pr
 2025-06-17T13:35:20.267Z,-4.9187,102.9708,62.508,4.7,mb,82,92,0.555,0.8,us,us6000qktd,2025-06-17T14:58:08.040Z,"103 km SSW of Pagar Alam, Indonesia",earthquake,6.98,6.224,0.065,73,reviewed,us,us
 2025-06-17T13:33:17.390Z,44.330833333333,-115.05933333333,6.28,1.05,ml,8,126,0.0431,0.09,mb,mb90097048,2025-06-17T13:54:49.340Z,"15 km NW of Stanley, Idaho",earthquake,0.42,0.56,0.1115415209114,12,reviewed,mb,mb
@@ -246,6 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-16T16:10:07.660Z,38.792333333333,-122.75533333333,0.5,0.2,md,13,106,0.008959,0.03,nc,nc75196406,2025-06-16T18:32:50.313Z,"2 km NNE of The Geysers, CA",earthquake,0.27,0.41,0.139,10,reviewed,nc,nc
 2025-06-16T16:04:00.030Z,33.869,-116.174,6.26,0.89,ml,32,45,0.05631,0.15,ci,ci40995855,2025-06-17T13:54:37.262Z,"17 km NNE of Indio, CA",earthquake,0.22,0.47,0.151,16,reviewed,ci,ci
 2025-06-16T16:01:40.650Z,54.571833333333,-164.52316666667,10.62,1.57,ml,9,156,0.03341,0.19,av,av93639896,2025-06-17T03:30:03.140Z,"78 km WSW of False Pass, Alaska",earthquake,0.73,1.04,0.355046297018,9,reviewed,av,av
-2025-06-16T15:57:40.990Z,18.956333333333,-64.998166666667,38.14,3.13,md,14,253,0.602,0.2,pr,pr71485993,2025-06-16T17:13:39.040Z,"68 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.87,5.98,0.086544938807826,7,reviewed,pr,pr
-2025-06-16T15:56:07.440Z,18.961833333333,-65.016166666667,22.12,3.08,md,15,253,0.6088,0.25,pr,pr71485983,2025-06-16T17:11:11.040Z,"69 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.1,19.75,0.04586949080882,7,reviewed,pr,pr
-2025-06-16T15:55:13.295Z,61.5128,-146.4416,26.9,1.5,ml,,,,0.6,ak,ak0257og09y9,2025-06-16T15:57:01.409Z,"42 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
