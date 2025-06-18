@@ -184,6 +184,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-18T02:55:45.430Z,33.6493333,-116.7211667,15.48,1.06,ml,46,30,0.04407,0.16,ci,ci40997495,2025-06-18T13:36:58.990Z,"10 km S of Idyllwild, CA",earthquake,0.17,0.31,0.153,28,reviewed,ci,ci
 2025-06-18T02:52:21.374Z,31.672,-104.363,6.0999,1.7,ml,34,68,0.1,0.2,tx,tx2025lwpshm,2025-06-18T09:26:01.463Z,"55 km S of Whites City, New Mexico",earthquake,0.6890742098292,0.72321467643107,0.1,23,reviewed,tx,tx
 2025-06-18T02:47:15.160Z,37.8075,-121.983,8.16,1.08,md,19,59,0.04633,0.06,nc,nc75197061,2025-06-18T05:53:30.112Z,"2 km SSE of Danville, CA",earthquake,0.23,0.37,0.272,12,reviewed,nc,nc
+2025-06-18T02:42:27.650Z,61.186833333333,-152.26733333333,4.91,-0.32,ml,8,237,0.03623,0.13,av,av93641171,2025-06-18T21:43:43.480Z,"62 km WNW of Tyonek, Alaska",earthquake,0.71,0.53,0.20285940647818,8,reviewed,av,av
 2025-06-18T02:39:52.006Z,57.63,-155.0322,70.6,1.9,ml,,,,0.26,ak,ak0257rj8zls,2025-06-18T02:42:28.103Z,"35 km W of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-06-18T02:39:01.143Z,31.67,-104.368,6.0999,1.6,ml,37,69,0.1,0.2,tx,tx2025lwpgxj,2025-06-18T09:42:32.858Z,"56 km S of Whites City, New Mexico",earthquake,0.70817960188711,0.56909700515174,0.2,24,reviewed,tx,tx
 2025-06-18T02:37:31.791Z,62.0581,-149.6672,36.1,2.3,ml,,,,0.62,ak,ak0257rj8im3,2025-06-18T02:39:45.559Z,"14 km SE of Susitna North, Alaska",earthquake,,2.1,,,automatic,ak,ak
@@ -252,7 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-17T22:00:10.890Z,40.518166666667,-124.40366666667,18.3,1.61,md,32,220,0.1584,0.11,nc,nc75196971,2025-06-17T22:41:28.630Z,"13 km WSW of Ferndale, CA",earthquake,0.43,0.31,0.123,13,reviewed,nc,nc
 2025-06-17T21:59:11.720Z,38.761501312256,-122.69599914551,1.3799999952316,0.78,md,8,125,0.007142,0.02,nc,nc75196966,2025-06-17T22:00:48.748Z,"2 km SSW of Anderson Springs, CA",earthquake,0.36,0.49000001,0.21,7,automatic,nc,nc
 2025-06-17T21:50:19.730Z,38.808498382568,-122.79716491699,3.329999923706,1.07,md,22,43,0.001548,0.03,nc,nc75196956,2025-06-17T21:51:53.918Z,"5 km NW of The Geysers, CA",earthquake,0.29,0.540000021,0.16,22,automatic,nc,nc
-2025-06-17T21:49:43.750Z,37.6045,-119.00566666667,2.47,0.47,md,7,191,0.01902,0.06,nc,nc75196961,2025-06-17T22:34:19.311Z,"4 km SW of Mammoth Lakes, CA",earthquake,1.62,0.63,0.109,6,reviewed,nc,nc
-2025-06-17T21:46:05.640Z,38.780834197998,-122.75550079346,1.2599999904633,1.01,md,11,68,0.01289,0.02,nc,nc75196951,2025-06-17T21:47:39.676Z,"0 km NNE of The Geysers, CA",earthquake,0.28,0.699999988,0.22,9,automatic,nc,nc
-2025-06-17T21:43:48.970Z,19.202,-155.71583333333,7.05,2.29,ml,33,150,0.04875,0.15,hv,hv74701007,2025-06-18T00:21:49.660Z,"15 km NNE of Hawaiian Ocean View, Hawaii",earthquake,0.39,0.75,0.15845817053606,15,reviewed,hv,hv
-2025-06-17T21:43:10.429Z,63.0643,-150.4499,28.5,1.6,ml,,,,1.27,ak,ak0257q71n9e,2025-06-17T21:45:33.976Z,"65 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
