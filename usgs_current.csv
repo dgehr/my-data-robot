@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-19T23:53:54.090Z,38.843166351318,-122.89616394043,7.4400000572205,0.22,md,6,130,0.01109,0.03,nc,nc75197856,2025-06-19T23:55:32.104Z,"11 km E of Cloverdale, CA",earthquake,2.33,6.61000013,0.07,6,automatic,nc,nc
+2025-06-19T23:48:22.810Z,33.8453333,-117.4915,2.05,1.75,ml,75,31,0.04767,0.21,ci,ci40999271,2025-06-19T23:51:52.970Z,"4 km SE of Home Gardens, CA",earthquake,0.16,0.25,0.157,33,automatic,ci,ci
 2025-06-19T23:45:47.894Z,63.493,-148.0358,13.9,0.9,ml,,,,0.5,ak,ak0257tjbps5,2025-06-19T23:47:44.030Z,"47 km ENE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-06-19T23:25:30.988Z,37.2509,-115.7111,8.1,1.7,ml,26,204.09,0.273,0.3149,nn,nn00899159,2025-06-19T23:28:44.819Z,"43 km S of Rachel, Nevada",earthquake,,2.1,0.25,18,automatic,nn,nn
 2025-06-19T23:23:54.302Z,37.318,-115.6635,8.7,2.8,ml,37,174.17,0.346,0.4003,nn,nn00899157,2025-06-19T23:36:16.040Z,"36 km S of Rachel, Nevada",earthquake,,0.8,0.27,23,automatic,nn,nn
