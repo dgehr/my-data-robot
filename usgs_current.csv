@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-19T22:39:05.510Z,34.1151667,-116.8678333,2.36,0.95,ml,30,76,0.06044,0.19,ci,ci40999239,2025-06-19T22:42:27.282Z,"15 km SSE of Big Bear Lake, CA",earthquake,0.21,0.63,0.124,29,automatic,ci,ci
+2025-06-19T22:39:05.510Z,34.1151667,-116.8678333,2.36,0.95,ml,30,76,0.06044,0.19,ci,ci40999239,2025-06-19T22:49:13.157Z,"15 km SSE of Big Bear Lake, CA",earthquake,0.21,0.63,0.124,29,automatic,ci,ci
 2025-06-19T22:38:59.750Z,38.814834594727,-122.80233001709,1.3400000333786,0.73,md,7,112,0.008784,0.07,nc,nc75197851,2025-06-19T22:40:36.662Z,"6 km NNW of The Geysers, CA",earthquake,0.86,2.22000003,0.06,8,automatic,nc,nc
 2025-06-19T22:36:15.959Z,64.9933,-147.4782,0,1.4,ml,,,,1.13,ak,ak0257tioa9n,2025-06-19T22:38:48.488Z,"7 km ENE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-06-19T22:34:59.360Z,38.836498260498,-122.79033660889,1.8799999952316,1.05,md,14,59,0.001908,0.02,nc,nc75197846,2025-06-19T22:36:36.738Z,"6 km WNW of Cobb, CA",earthquake,0.29,0.469999999,0.23,16,automatic,nc,nc
