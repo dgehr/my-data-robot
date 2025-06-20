@@ -111,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-20T11:02:23.200Z,45.697333333333,-112.15116666667,6.58,1.29,ml,18,63,0.1302,0.09,mb,mb90097753,2025-06-20T14:06:31.760Z,"19 km SSW of Whitehall, Montana",earthquake,0.24,1.84,0.2538012775443,22,reviewed,mb,mb
 2025-06-20T10:59:36.823Z,31.678,-104.398,7.1765,1.8,ml,27,69,0,0.2,tx,tx2025maxhvp,2025-06-20T12:26:02.534Z,"55 km S of Whites City, New Mexico",earthquake,1.1243715389352,0.82529784613237,0.2,18,reviewed,tx,tx
 2025-06-20T10:56:46.680Z,38.794,-122.80783333333,3.13,0.52,md,30,77,0.006779,0.02,nc,nc75198041,2025-06-20T17:37:18.455Z,"5 km NW of The Geysers, CA",earthquake,0.19,0.38,0.114,26,reviewed,nc,nc
-2025-06-20T10:50:37.970Z,33.531,-116.7318333,6.11,0.11,ml,16,56,0.03461,0.07,ci,ci40999503,2025-06-20T10:55:04.153Z,"6 km WSW of Anza, CA",earthquake,0.17,0.28,0.189,6,automatic,ci,ci
+2025-06-20T10:50:37.840Z,33.5306667,-116.7341667,6.97,0.09,ml,12,139,0.03474,0.08,ci,ci40999503,2025-06-20T19:28:30.979Z,"6 km WSW of Anza, CA",earthquake,0.24,0.39,0.147,9,reviewed,ci,ci
 2025-06-20T10:44:19.890Z,38.814334869385,-122.81749725342,1.1499999761581,1.08,md,14,51,0.01075,0.03,nc,nc75198036,2025-06-20T11:17:19.716Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.829999983,0.17,17,automatic,nc,nc
 2025-06-20T10:36:25.875Z,63.0786,-150.5438,26,1.2,ml,,,,1.76,ak,ak0257uz2g9n,2025-06-20T10:38:15.735Z,"65 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-06-20T10:32:37.510Z,38.81916809082,-122.82299804688,2.3800001144409,1.7,md,34,46,0.01019,0.03,nc,nc75198031,2025-06-20T13:27:19.673Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.289999992,0.13,35,automatic,nc,nc
@@ -255,5 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-19T19:39:54.730Z,64.5858,-148.1509,12.4,0.9,ml,,,,0.36,ak,ak0257tgwpld,2025-06-19T19:40:57.014Z,"29 km SSW of Ester, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-06-19T19:36:25.500Z,33.683,-117.4011667,9.17,1.47,ml,7,133,0.03969,0.07,ci,ci40999071,2025-06-19T19:40:15.173Z,"7 km WNW of Lake Elsinore, CA",earthquake,0.58,0.85,0.446,36,automatic,ci,ci
 2025-06-19T19:35:17.110Z,38.798999786377,-122.81349945068,0.64999997615814,0.68,md,7,171,0.0168,0.06,nc,nc75197816,2025-06-19T20:07:16.095Z,"6 km NW of The Geysers, CA",earthquake,0.71,1.73000002,0.13,9,automatic,nc,nc
-2025-06-19T19:34:11.860Z,35.9111667,-117.6956667,6.97,1.06,ml,20,71,0.05191,0.12,ci,ci40999063,2025-06-20T17:23:52.720Z,"19 km E of Little Lake, CA",earthquake,0.2,0.46,0.137,20,reviewed,ci,ci
-2025-06-19T19:33:17.860Z,35.5754,58.4222,10,4.2,mb,31,174,8.62,0.58,us,us6000qlbg,2025-06-19T20:03:55.040Z,"37 km N of Kāshmar, Iran",earthquake,11.99,1.954,0.091,34,reviewed,us,us
