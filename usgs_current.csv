@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-22T21:39:58.056Z,38.2908,-115.9207,8.1,1.9,ml,20,128.44,1.046,0.243,nn,nn00899296,2025-06-22T21:42:40.398Z,"73 km NNW of Rachel, Nevada",earthquake,,0.8,0.23,14,automatic,nn,nn
 2025-06-22T21:30:27.708Z,37.3446,-117.2907,3.1,1.1,ml,15,166.1,0.05,0.3181,nn,nn00899294,2025-06-22T21:32:47.587Z,"40 km S of Goldfield, Nevada",earthquake,,0.8,0.37,7,automatic,nn,nn
 2025-06-22T21:28:05.810Z,38.839832305908,-122.79299926758,7.289999961853,0.74,md,8,203,0.002514,0.09,nc,nc75199066,2025-06-22T21:29:40.951Z,"6 km WNW of Cobb, CA",earthquake,1.7,2.6099999,0.08,9,automatic,nc,nc
 2025-06-22T20:53:26.420Z,32.9955,-116.3693333,5.44,0.76,ml,28,46,0.04199,0.17,ci,ci41001071,2025-06-22T20:56:52.094Z,"24 km ESE of Julian, CA",earthquake,0.21,0.35,0.184,13,automatic,ci,ci
