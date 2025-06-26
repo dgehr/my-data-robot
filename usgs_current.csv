@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-26T15:53:00.960Z,38.837665557861,-122.78616333008,1.8799999952316,0.77,md,12,81,0.003348,0.02,nc,nc75200941,2025-06-26T15:54:35.823Z,"6 km WNW of Cobb, CA",earthquake,0.41,0.870000005,0.12,13,automatic,nc,nc
+2025-06-26T16:22:17.702Z,61.2746,-150.9467,56.9,1.1,ml,,,,0.69,ak,ak02584zs47e,2025-06-26T16:24:22.346Z,"16 km NNE of Beluga, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2025-06-26T16:05:20.120Z,36.891166687012,-121.61866760254,-0.11999999731779,2.35,md,7,90,0.02243,0.05,nc,nc75200951,2025-06-26T16:06:55.837Z,"2 km E of Aromas, CA",earthquake,0.42,0.779999971,0.04,7,automatic,nc,nc
+2025-06-26T15:57:13.827Z,-6.9937,125.2391,541.884,4.5,mb,27,53,2.907,1.09,us,us7000q8yd,2025-06-26T16:19:32.040Z,"176 km N of Likisá, Timor Leste",earthquake,12.42,11.092,0.139,15,reviewed,us,us
+2025-06-26T15:53:00.960Z,38.837665557861,-122.78616333008,1.8799999952316,0.77,md,12,81,0.003348,0.02,nc,nc75200941,2025-06-26T16:17:19.154Z,"6 km WNW of Cobb, CA",earthquake,0.41,0.870000005,0.12,13,automatic,nc,nc
 2025-06-26T15:43:29.080Z,33.047,-114.9885,3.6,1.37,ml,9,144,0.07509,0.12,ci,ci41005111,2025-06-26T15:50:37.279Z,"45 km NE of Holtville, CA",earthquake,0.46,0.55,0.105,13,automatic,ci,ci
-2025-06-26T15:40:42.211Z,61.789,-149.8399,19.6,2.9,ml,,,,0.63,ak,ak02584zalf5,2025-06-26T15:57:56.040Z,"11 km ENE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-06-26T15:40:42.211Z,61.789,-149.8399,19.6,2.9,ml,,,,0.63,ak,ak02584zalf5,2025-06-26T16:15:36.718Z,"11 km ENE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-06-26T15:33:43.550Z,18.674833333333,-66.737833333333,78.84,2.73,md,16,236,0.2788,0.15,pr,pr71487273,2025-06-26T15:54:37.110Z,"22 km NNE of Carrizales, Puerto Rico",earthquake,0.8,0.74,0.049110481046095,7,reviewed,pr,pr
 2025-06-26T15:24:57.580Z,33.2361667,-116.0346667,4.71,0.64,ml,35,79,0.05994,0.23,ci,ci41005063,2025-06-26T15:28:26.142Z,"10 km SW of Salton City, CA",earthquake,0.21,0.56,0.237,8,automatic,ci,ci
 2025-06-26T15:08:30.970Z,33.6646667,-116.927,14.56,0.77,ml,27,36,0.02251,0.18,ci,ci41005031,2025-06-26T15:11:54.060Z,"10 km SSW of Valle Vista, CA",earthquake,0.3,0.43,0.195,18,automatic,ci,ci
@@ -12,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-26T14:23:46.668Z,59.8812,-152.2475,12.1,1.1,ml,,,,1.45,ak,ak02584yliy2,2025-06-26T14:25:25.087Z,"26 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-06-26T14:23:45.190Z,33.3735,-116.8645,8.81,0.67,ml,36,28,0.0199,0.2,ci,ci41004951,2025-06-26T14:27:35.782Z,"2 km N of Palomar Observatory, CA",earthquake,0.2,0.51,0.119,18,automatic,ci,ci
 2025-06-26T14:17:17.571Z,31.691,-104.357,7.0483,2.2,ml,29,66,0.1,0.3,tx,tx2025mmedxm,2025-06-26T14:44:30.844Z,"53 km S of Whites City, New Mexico",earthquake,0.74271401699639,1.0189677166367,0.1,23,reviewed,tx,tx
-2025-06-26T13:57:38.770Z,37.389667510986,-119.98166656494,21.510000228882,2.37,md,5,169,0.1918,0.05,nc,nc75200911,2025-06-26T14:32:20.407Z,"11 km SSW of Mariposa, CA",earthquake,0.68,0.639999986,0.12,3,automatic,nc,nc
+2025-06-26T13:57:38.770Z,37.389667510986,-119.98166656494,21.510000228882,2.37,md,5,169,0.1918,0.05,nc,nc75200911,2025-06-26T16:22:18.196Z,"11 km SSW of Mariposa, CA",earthquake,0.68,0.639999986,0.12,3,automatic,nc,nc
 2025-06-26T13:54:40.590Z,33.8278333,-117.038,-0.5,1.12,ml,6,228,0.1696,0.27,ci,ci41004927,2025-06-26T13:58:28.591Z,"9 km WNW of San Jacinto, CA",earthquake,1.73,3.82,0.378,22,automatic,ci,ci
 2025-06-26T13:54:32.540Z,33.3351667,-117.1695,-0.69,1.22,ml,12,179,0.3859,0.49,ci,ci41004919,2025-06-26T13:58:06.122Z,"9 km ESE of Fallbrook, CA",earthquake,2.1,14.79,0.445,30,automatic,ci,ci
 2025-06-26T13:48:35.552Z,-29.7899,-176.6053,10,4.8,mb,27,163,1.275,1.04,us,us7000q8x5,2025-06-26T14:05:13.040Z,"Kermadec Islands region",earthquake,10.72,1.946,0.121,25,reviewed,us,us
@@ -231,7 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-25T16:41:37.006Z,61.9818,-149.9204,131.2,2.8,ml,,,,0.88,ak,ak02583ccvt0,2025-06-25T16:44:39.568Z,"20 km S of Susitna North, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2025-06-25T16:40:18.465Z,31.68,-104.429,6.7151,1.5,ml,13,63,0,0.2,tx,tx2025mkneyh,2025-06-25T19:03:24.519Z,"55 km S of Whites City, New Mexico",earthquake,1.0755571996889,0.65625365922296,0.1,6,reviewed,tx,tx
 2025-06-25T16:29:09.433Z,61.1538,-149.6119,28.8,1.1,ml,,,,0.79,ak,ak02583ca933,2025-06-25T16:30:58.850Z,"11 km S of Elmendorf Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-06-25T16:10:58.945Z,19.253,-155.2852,49.092,2.5,ml,25,169,0.048,0.5,us,us7000q8pu,2025-06-26T00:34:19.314Z,"21 km ENE of Pāhala, Hawaii",earthquake,3.6,4.389,0.051,50,reviewed,us,us
-2025-06-25T16:09:19.040Z,62.3006,-148.7468,16.4,1.1,ml,,,,0.38,ak,ak02583c5zi8,2025-06-25T16:11:33.078Z,"58 km NNW of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-06-25T16:08:37.050Z,33.3358333,-115.7638333,5.3,2.75,ml,67,36,0.04057,0.2,ci,ci41003855,2025-06-26T15:52:25.019Z,"3 km WSW of Bombay Beach, CA",earthquake,0.16,0.51,0.104,26,reviewed,ci,ci
-2025-06-25T16:00:17.010Z,35.92266667,-95.17216667,0,1.64,ml,48,104,0.503001294,0.63,ok,ok2025miys,2025-06-25T16:15:27.144Z,"2 km WSW of Hulbert, Oklahoma",quarry blast,,0.7,0.16,12,reviewed,ok,ok
