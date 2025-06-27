@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-27T07:27:09.046Z,36.7256,-116.0041,5.6,-0.3,ml,8,119,0.015,0.0621,nn,nn00899559,2025-06-27T07:29:07.530Z,"34 km WNW of Indian Springs, Nevada",earthquake,,1.1,0.39,5,automatic,nn,nn
 2025-06-27T07:22:21.250Z,17.958333333333,-66.751833333333,11.97,2.37,md,8,219,0.07203,0.11,pr,pr71487318,2025-06-27T07:30:56.370Z,"5 km SW of Tallaboa, Puerto Rico",earthquake,0.75,0.5,0.086556029436929,4,reviewed,pr,pr
 2025-06-27T07:06:26.731Z,32.107,-101.932,4.0526,1.4,ml,55,34,0.1,0.5,tx,tx2025mnlrgr,2025-06-27T07:10:54.969Z,"13 km W of Stanton, Texas",earthquake,0,0.74419522285461,0.2,34,automatic,tx,tx
-2025-06-27T06:59:49.418Z,41.4088,19.5525,10,4.4,mb,46,56,0.242,1.41,us,us7000q91z,2025-06-27T07:35:58.593Z,"7 km N of Shijak, Albania",earthquake,4.33,1.83,0.105,26,reviewed,us,us
+2025-06-27T06:59:49.418Z,41.4088,19.5525,10,4.4,mb,46,56,0.242,1.41,us,us7000q91z,2025-06-27T07:48:30.091Z,"7 km N of Shijak, Albania",earthquake,4.33,1.83,0.105,26,reviewed,us,us
 2025-06-27T06:41:18.810Z,36.747,-90.915333333333,10.11,2.94,md,47,130,0.2691,0.21,nm,nm60609011,2025-06-27T07:28:54.444Z,"12 km SW of Grandin, Missouri",earthquake,0.57,0.81,0.022368333905028,31,reviewed,nm,nm
 2025-06-27T06:40:38.035Z,63.3121,-144.946,8.2,1.1,ml,,,,0.33,ak,ak02586hh13v,2025-06-27T06:42:34.733Z,"40 km SSW of Dry Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-27T06:39:30.613Z,61.9382,-151.7022,14.6,1.2,ml,,,,0.34,ak,ak02586hgsth,2025-06-27T06:41:07.180Z,"16 km WSW of Skwentna, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -277,5 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-26T08:00:43.740Z,54.732666666667,-163.41483333333,6.59,1.06,ml,6,178,0.1731,0.26,av,av93648781,2025-06-27T03:17:06.480Z,"13 km S of False Pass, Alaska",earthquake,2.09,1.81,0.35574463482198,6,reviewed,av,av
 2025-06-26T07:54:46.383Z,-5.6855,154.3878,125.531,4.9,mb,81,82,2.667,0.8,us,us7000q8vy,2025-06-26T08:15:43.040Z,"140 km WNW of Panguna, Papua New Guinea",earthquake,10.08,6.578,0.041,184,reviewed,us,us
 2025-06-26T07:52:02.717Z,-15.1275,-172.8297,10,4.9,mb,39,109,1.58,0.65,us,us7000q8w0,2025-06-26T08:32:09.040Z,"138 km NE of Hihifo, Tonga",earthquake,10.34,1.898,0.036,246,reviewed,us,us
-2025-06-26T07:50:29.630Z,33.5286667,-116.7341667,5.52,0.21,ml,16,60,0.03673,0.1,ci,ci41004719,2025-06-26T13:01:25.577Z,"6 km WSW of Anza, CA",earthquake,0.19,0.37,0.02,6,reviewed,ci,ci
-2025-06-26T07:48:53.200Z,41.8965,-119.6291,5.9,1.6,ml,5,217.39,0.34,0.149,nn,nn00899528,2025-06-26T20:42:54.368Z,"43 km E of Fort Bidwell, California",earthquake,,2.7,0.43,4,reviewed,nn,nn
