@@ -62,6 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-01T13:54:10.228Z,61.1602,-152.0151,17.2,1.2,ml,,,,0.48,ak,ak0258d7ve72,2025-07-01T13:55:47.300Z,"48 km WNW of Tyonek, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-07-01T13:42:44.996Z,37.3853,-117.0967,0,1,ml,8,217.81,0.156,0.1886,nn,nn00899911,2025-07-01T13:45:03.730Z,"37 km SSE of Goldfield, Nevada",earthquake,,13.8,0.47,6,automatic,nn,nn
 2025-07-01T13:39:31.157Z,62.8227,-148.2688,51.1,1.1,ml,,,,0.62,ak,ak0258d7s82j,2025-07-01T13:41:35.646Z,"72 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-07-01T13:34:27.420Z,19.833,-155.39066666667,20.67,1.93,ml,52,92,0.07169,0.13,hv,hv74713432,2025-07-01T19:46:20.500Z,"23 km S of Pa‘auilo, Hawaii",earthquake,0.3,0.81,0.18248366539478,12,reviewed,hv,hv
 2025-07-01T13:31:57.721Z,36.714,-116.278,8.4,0.1,ml,14,102.93,0.054,0.2161,nn,nn00899910,2025-07-01T13:33:55.414Z,"48 km ESE of Beatty, Nevada",earthquake,,0.8,0.29,11,automatic,nn,nn
 2025-07-01T13:28:14.664Z,32.306,-101.2,6.5186,0.9,ml,21,77,0.1,0.2,tx,tx2025mvhfth,2025-07-01T16:47:00.067Z,"10 km E of Coahoma, Texas",earthquake,0.54209995926848,1.1579152444371,0.1,7,reviewed,tx,tx
 2025-07-01T13:22:34.380Z,35.0096667,-119.1046667,12.92,1.33,ml,37,45,0.1616,0.2,ci,ci41010799,2025-07-01T13:26:04.718Z,"18 km WNW of Grapevine, CA",earthquake,0.24,0.72,0.192,27,automatic,ci,ci
@@ -144,7 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-01T06:40:20.860Z,19.38433265686,-155.4503326416,6.710000038147,1.79,ml,53,32,0.01383,0.200000003,hv,hv74713232,2025-07-01T06:44:01.530Z,"20 km N of Pāhala, Hawaii",earthquake,0.29,0.550000012,0.13,5,automatic,hv,hv
 2025-07-01T06:20:40.616Z,29.2804,129.36,10,4.4,mb,37,144,2.414,0.94,us,us7000q9xc,2025-07-01T06:43:22.040Z,"94 km NNW of Tatsugō, Japan",earthquake,8.95,1.918,0.106,26,reviewed,us,us
 2025-07-01T06:14:58.697Z,32.066,-103.727,7.4969,1.6,ml,36,43,0,0.2,tx,tx2025muswis,2025-07-01T09:35:28.568Z,"37 km ESE of Malaga, New Mexico",earthquake,0.49780913855879,0.50749500177463,0.2,20,reviewed,tx,tx
-2025-07-01T05:55:40.280Z,37.7035,-121.9965,10.58,2.9,md,187,12,0.05043,0.18,nc,nc75202946,2025-07-01T19:13:20.252Z,"5 km ENE of Fairview, CA",earthquake,0.11,0.23,0.15,179,reviewed,nc,nc
+2025-07-01T05:55:40.280Z,37.7035,-121.9965,10.58,2.9,md,187,12,0.05043,0.18,nc,nc75202946,2025-07-01T19:45:30.842Z,"5 km ENE of Fairview, CA",earthquake,0.11,0.23,0.15,179,reviewed,nc,nc
 2025-07-01T05:12:37.757Z,-23.5176,-179.8443,519.955,4.4,mb,40,69,5.957,1.05,us,us7000q9x4,2025-07-01T05:35:01.040Z,"south of the Fiji Islands",earthquake,12.22,9.217,0.096,31,reviewed,us,us
 2025-07-01T05:09:03.623Z,62.1526,-149.4703,35.3,1.6,ml,,,,0.44,ak,ak0258d2u9mi,2025-07-01T05:11:26.863Z,"19 km E of Susitna North, Alaska",earthquake,,7.7,,,automatic,ak,ak
 2025-07-01T04:59:39.400Z,37.252666473389,-121.63400268555,4.6500000953674,1.71,md,34,67,0.03184,0.06,nc,nc75202926,2025-07-01T06:03:12.225Z,"14 km NNE of Morgan Hill, CA",earthquake,0.15,0.360000014,0.16,26,automatic,nc,nc
@@ -255,4 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-30T19:54:29.362Z,63.3102,-145.3136,4.4,1.6,ml,,,,0.57,ak,ak0258bnwot4,2025-06-30T19:56:38.732Z,"28 km NNE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-06-30T19:51:45.460Z,38.835834503174,-122.80066680908,1.8200000524521,0.7,md,11,69,0.008462,0.01,nc,nc75202741,2025-06-30T20:12:17.566Z,"7 km WNW of Cobb, CA",earthquake,0.3,0.970000029,0.08,13,automatic,nc,nc
 2025-06-30T19:51:14.710Z,53.929166666667,-166.604,9.97,0.34,ml,12,101,0.05993,0.19,av,av93653681,2025-07-01T04:00:30.180Z,"5 km NW of Dutch Harbor, Alaska",earthquake,0.48,0.73,0.23247569568652,12,reviewed,av,av
-2025-06-30T19:47:55.500Z,18.144333333333,-66.667166666667,23.36,2.05,md,10,81,0.1085,0.08,pr,pr71487783,2025-06-30T19:58:50.510Z,"6 km ESE of Adjuntas, Puerto Rico",earthquake,0.34,0.63,0.15745702261228,7,reviewed,pr,pr
