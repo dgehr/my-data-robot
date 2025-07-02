@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-02T11:55:31.730Z,33.5209999,-116.7363358,3.75,1.83,ml,72,21,0.04429,0.23,ci,ci41012167,2025-07-02T11:57:44.219Z,"7 km WSW of Anza, CA",earthquake,0.19,0.64,0.254,25,automatic,ci,ci
+2025-07-02T11:55:03.629Z,32.095,-102.297,3.2207,1.1,ml,13,95,0.1,0.5,tx,tx2025mwzwjs,2025-07-02T11:58:53.325Z,"11 km NE of Gardendale, Texas",earthquake,0,1.5922095775604,0.3,6,automatic,tx,tx
+2025-07-02T11:53:28.396Z,64.8719,-149.166,15.5,0.8,ml,,,,1.08,ak,ak0258eu7p5z,2025-07-02T11:56:01.454Z,"30 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-07-02T11:52:04.487Z,32.071,-102.297,4.2203,1.6,ml,39,87,0.1,0.5,tx,tx2025mwztuo,2025-07-02T11:56:37.641Z,"9 km NE of Gardendale, Texas",earthquake,0,0.88836997747421,0.2,25,automatic,tx,tx
 2025-07-02T11:50:15.980Z,38.80899810791,-122.79550170898,3.1800000667572,0.84,md,21,37,0.00104,0.02,nc,nc75203476,2025-07-02T11:51:54.760Z,"5 km NNW of The Geysers, CA",earthquake,0.25,0.50999999,0.21,22,automatic,nc,nc
 2025-07-02T11:43:15.151Z,64.785,-149.0612,17.5,0.4,ml,,,,0.39,ak,ak0258eu5izf,2025-07-02T11:44:26.661Z,"20 km N of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-07-02T11:35:42.200Z,38.767333984375,-122.7011642456,1.8099999427795,0.79,md,7,152,0.001697,0.02,nc,nc75203466,2025-07-02T11:37:19.456Z,"1 km SW of Anderson Springs, CA",earthquake,0.89,0.460000008,0.13,6,automatic,nc,nc
