@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-07-04T05:38:59.430Z,33.5886667,-116.7551667,11.91,0.43,ml,25,39,0.02759,0.14,ci,ci41013951,2025-07-04T05:42:31.529Z,"8 km WNW of Anza, CA",earthquake,0.24,0.46,0.125,11,automatic,ci,ci
+2025-07-04T05:33:51.772Z,6.102,95.1074,10,5.2,mww,80,43,2.026,1.1,us,us7000qal5,2025-07-04T05:51:27.040Z,"32 km NW of Sabang, Indonesia",earthquake,7.96,1.841,0.11,8,reviewed,us,us
 2025-07-04T05:19:05.013Z,61.3042,-152.5113,1.7,2.2,ml,,,,0.79,ak,ak0258i1igdh,2025-07-04T05:20:58.546Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-07-04T05:18:49.497Z,60.6694,-152.8833,126.4,1.8,ml,,,,0.66,ak,ak0258i1ic39,2025-07-04T05:22:24.674Z,"85 km W of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-07-04T05:18:23.512Z,37.5161,-117.6677,5.5,1.7,ml,25,175.56,0.284,0.2881,nn,nn00900098,2025-07-04T05:21:07.401Z,"26 km S of Silver Peak, Nevada",earthquake,,0.8,0.32,18,automatic,nn,nn
@@ -203,6 +204,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-03T09:15:46.412Z,62.5292,-149.16,2.2,1.1,ml,,,,0.88,ak,ak0258ggc2mp,2025-07-03T09:18:03.906Z,"49 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-03T09:08:51.133Z,57.5901,-155.5158,71,2,ml,,,,0.12,ak,ak0258ggakzd,2025-07-03T09:10:14.837Z,"63 km W of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2025-07-03T09:07:46.421Z,62.479,-149.1275,10.7,1.1,ml,,,,0.34,ak,ak0258ggacwi,2025-07-03T09:09:13.484Z,"50 km E of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-07-03T08:58:58.336Z,36.8038,71.4191,156.77,4.3,mb,51,164,1.728,0.6,us,us7000qae2,2025-07-04T05:47:55.040Z,"16 km NW of Ashkāsham, Afghanistan",earthquake,8.47,9.469,0.089,36,reviewed,us,us
 2025-07-03T08:58:13.120Z,34.1796667,-116.8238333,5.45,1.06,ml,56,25,0.1151,0.17,ci,ci41013279,2025-07-03T09:01:42.736Z,"9 km SSE of Big Bear City, CA",earthquake,0.13,0.5,0.142,27,automatic,ci,ci
 2025-07-03T08:47:42.978Z,-7.5175,127.9689,152.732,4.5,mb,38,53,4.282,0.8,us,us7000qae1,2025-07-03T21:21:00.040Z,"154 km NE of Lospalos, Timor Leste",earthquake,6.97,5.712,0.094,33,reviewed,us,us
 2025-07-03T08:44:55.420Z,46.721333333333,-121.93816666667,1.64,0.97,ml,29,92,0.02391,0.09,uw,uw62131252,2025-07-03T17:57:48.600Z,"8 km ESE of Ashford, Washington",earthquake,0.21,0.58,0.1689099736411,18,reviewed,uw,uw
@@ -239,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-03T06:11:48.179Z,29.3563,129.4598,10,5,mb,43,108,2.311,1.02,us,us7000qadd,2025-07-03T06:43:07.040Z,"101 km N of Tatsugō, Japan",earthquake,7.13,1.887,0.053,112,reviewed,us,us
 2025-07-03T06:10:39.980Z,51.9075,-177.27666666667,14.15,0.29,ml,4,284,0.05152,0.09,av,av93655821,2025-07-03T20:24:25.120Z,"44 km W of Adak, Alaska",earthquake,2.52,1.85,0.25729591590863,5,reviewed,av,av
 2025-07-03T05:58:01.000Z,38.795333862305,-122.81216430664,3.0899999141693,0.75,md,14,92,0.009974,0.02,nc,nc75203881,2025-07-03T05:59:37.399Z,"5 km NW of The Geysers, CA",earthquake,0.38,0.879999995,0.03,14,automatic,nc,nc
-2025-07-03T05:47:35.610Z,51.706,-178.36683333333,7.54,1.42,ml,7,162,0.2019,0.15,av,av93655806,2025-07-03T18:09:28.450Z,"121 km W of Adak, Alaska",earthquake,0.84,0.65,0.22309835393087,7,reviewed,av,av
