@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-07T07:47:53.154Z,31.649,-104.376,4.0834,1.5,ml,28,71,0,0.4,tx,tx2025nfwhub,2025-07-07T07:51:07.738Z,"58 km S of Whites City, New Mexico",earthquake,0,1.0801148414612,0.2,19,automatic,tx,tx
+2025-07-07T07:46:58.724Z,32.357,-102.163,4.2685,1.1,ml,23,62,0,0.5,tx,tx2025nfwhae,2025-07-07T07:53:51.008Z,"35 km E of McKinney Acres, Texas",earthquake,0,1.0648995637894,0.2,14,automatic,tx,tx
 2025-07-07T07:30:30.320Z,38.841835021973,-122.82333374023,1.8600000143051,0.71,md,14,92,0.01003,0.02,nc,nc75206557,2025-07-07T07:32:06.569Z,"9 km WNW of Cobb, CA",earthquake,0.29,0.680000007,0.41,15,automatic,nc,nc
 2025-07-07T07:29:32.020Z,33.793,-116.0808333,1.67,0.82,ml,33,46,0.1172,0.23,ci,ci41015895,2025-07-07T07:32:59.802Z,"15 km ENE of Indio, CA",earthquake,0.28,0.51,0.217,14,automatic,ci,ci
 2025-07-07T07:25:58.820Z,33.7913333,-116.078,1.94,0.87,ml,38,87,0.1196,0.18,ci,ci41015887,2025-07-07T07:29:52.015Z,"15 km ENE of Indio, CA",earthquake,0.2,0.32,0.088,18,automatic,ci,ci
