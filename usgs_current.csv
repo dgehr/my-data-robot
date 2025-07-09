@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-09T11:24:50.650Z,60.2028,-152.3287,83,1.7,ml,,,,0.42,ak,ak0258qesykp,2025-07-09T11:26:52.413Z,"40 km WNW of Ninilchik, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-07-09T11:12:40.408Z,60.1721,-153.0056,113.8,1.9,ml,,,,0.48,ak,ak0258qeqd6w,2025-07-09T11:14:57.656Z,"72 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-09T10:50:10.427Z,62.7835,-149.0161,59.4,1.2,ml,,,,0.83,ak,ak0258qed0he,2025-07-09T10:52:21.390Z,"67 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-07-09T10:49:53.460Z,32.066,-103.729,8.0383,1.5,ml,16,77,0,0.4,tx,tx2025njtubu,2025-07-09T10:53:06.745Z,"36 km ESE of Malaga, New Mexico",earthquake,0,3.4994077682495,0.2,10,automatic,tx,tx
 2025-07-09T10:46:24.210Z,34.0133333,-117.2075,4.96,0.82,ml,39,69,0.07183,0.18,ci,ci41017743,2025-07-09T10:49:46.879Z,"5 km SSW of Redlands, CA",earthquake,0.17,0.43,0.302,32,automatic,ci,ci
 2025-07-09T10:45:09.415Z,63.4826,-150.1481,135,1.9,ml,,,,0.27,ak,ak0258qeby2l,2025-07-09T10:46:59.535Z,"60 km W of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-07-09T10:42:35.200Z,38.82799911499,-122.85633087158,2.8399999141693,0.77,md,11,130,0.01535,0.01,nc,nc75207447,2025-07-09T10:44:14.052Z,"10 km NW of The Geysers, CA",earthquake,0.43,0.779999971,0.32,12,automatic,nc,nc
-2025-07-09T10:31:37.472Z,31.712,-101.7,3.6722,1.2,ml,17,60,0.1,0.6,tx,tx2025njteqj,2025-07-09T11:00:46.796Z,"26 km SW of Garden City, Texas",earthquake,0,1.3966065645218,0.2,11,automatic,tx,tx
+2025-07-09T10:31:37.262Z,31.706,-101.696,3.926,1.4,mlv,25,63,0.1,0.5,tx,tx2025njteqj,2025-07-09T11:17:41.845Z,"26 km SW of Garden City, Texas",earthquake,0,1.2484068870544,0.1,14,automatic,tx,tx
 2025-07-09T10:05:31.240Z,35.6343333,-117.4711667,9.62,0.87,ml,18,79,0.04937,0.11,ci,ci41017735,2025-07-09T10:08:53.463Z,"16 km SSW of Searles Valley, CA",earthquake,0.26,0.52,0.26,9,automatic,ci,ci
 2025-07-09T09:55:30.810Z,33.7825,-116.0333333,0.54,1.02,ml,44,55,0.132,0.18,ci,ci41017727,2025-07-09T10:01:57.307Z,"17 km NE of Coachella, CA",earthquake,0.15,0.32,0.109,26,automatic,ci,ci
 2025-07-09T09:48:39.820Z,35.6985,-117.5458333,9.09,1.74,ml,39,45,0.1049,0.13,ci,ci41017719,2025-07-09T09:58:59.950Z,"15 km NE of Ridgecrest, CA",earthquake,0.13,0.43,0.209,25,automatic,ci,ci
@@ -385,6 +386,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-08T12:56:12.030Z,46.849166870117,-121.75849914551,-0.41999998688698,0.360000014,md,16,88,,0.0199999996,uw,uw62134632,2025-07-08T12:57:59.200Z,"23 km ENE of Ashford, Washington",earthquake,0.27,0.819999993,,1,automatic,uw,uw
 2025-07-08T12:53:43.340Z,46.849833333333,-121.7595,0.19,0.6,ml,19,70,0.02298,0.07,uw,uw62134622,2025-07-08T19:21:21.070Z,"23 km ENE of Ashford, Washington",earthquake,0.17,0.46,0.26147058639161,13,reviewed,uw,uw
 2025-07-08T12:47:45.741Z,31.682,-104.412,6.0999,1.8,ml,35,69,0,0.2,tx,tx2025nibzbn,2025-07-08T14:52:16.355Z,"54 km S of Whites City, New Mexico",earthquake,0.77416684313249,0.49188163153862,0.1,19,reviewed,tx,tx
+2025-07-08T12:42:10.373Z,-38.7099,175.8807,107.952,4.3,mb,17,76,0.313,0.41,us,us7000qbbi,2025-07-09T11:22:15.040Z,"13 km W of Acacia Bay, New Zealand",earthquake,4.39,2.273,0.237,5,reviewed,us,us
 2025-07-08T12:36:33.160Z,46.849334716797,-121.75983428955,-0.60000002384186,0.360000014,md,16,86,,0.0399999991,uw,uw62134607,2025-07-08T12:38:04.610Z,"23 km ENE of Ashford, Washington",earthquake,0.3,1.24000001,,1,automatic,uw,uw
 2025-07-08T12:34:11.480Z,46.850166320801,-121.75650024414,-0.44999998807907,0.769999981,md,25,71,,0.0599999987,uw,uw62134597,2025-07-08T12:35:44.100Z,"23 km ENE of Ashford, Washington",earthquake,0.24,0.819999993,0.75999999,2,automatic,uw,uw
 2025-07-08T12:33:08.660Z,46.892665863037,-121.85250091553,4.7300000190735,1.08000004,md,13,162,,0.360000014,uw,uw62134592,2025-07-08T12:34:44.530Z,"20 km NE of Ashford, Washington",earthquake,2.51,4.36999989,,1,automatic,uw,uw
@@ -414,8 +416,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-08T11:40:32.690Z,46.85033416748,-121.76066589355,0.03999999910593,0.360000014,md,8,131,,0.0199999996,uw,uw62134417,2025-07-08T11:42:05.140Z,"23 km ENE of Ashford, Washington",earthquake,0.39,1.25,,1,automatic,uw,uw
 2025-07-08T11:40:06.901Z,-13.6502,-76.503,46.673,5,mb,61,138,1.685,0.83,us,us7000qbba,2025-07-08T19:02:24.198Z,"32 km WNW of Pisco, Peru",earthquake,8.54,7.378,0.03,353,reviewed,us,us
 2025-07-08T11:36:36.300Z,46.848667144775,-121.75633239746,-0.56999999284744,0.360000014,md,15,74,,0.0399999991,uw,uw62134407,2025-07-08T11:38:46.160Z,"23 km ENE of Ashford, Washington",earthquake,0.24,0.829999983,,1,automatic,uw,uw
-2025-07-08T11:30:11.890Z,33.192,-116.0226667,9.34,0.66,ml,31,58,0.04195,0.18,ci,ci41016823,2025-07-08T23:15:00.777Z,"12 km ENE of Ocotillo Wells, CA",earthquake,0.23,0.54,0.222,10,reviewed,ci,ci
-2025-07-08T11:30:09.850Z,33.5295,-116.7291667,3.2,-0.43,ml,6,141,0.03644,0.04,ci,ci37546949,2025-07-08T23:26:11.733Z,"6 km WSW of Anza, CA",earthquake,0.19,0.51,0.122,5,reviewed,ci,ci
-2025-07-08T11:21:43.262Z,62.5066,-151.9502,107.7,1.5,ml,,,,0.24,ak,ak0258or8yd2,2025-07-08T11:23:55.473Z,"61 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-07-08T11:17:56.870Z,35.4915,-120.0531667,4.76,1.36,ml,19,166,0.0907,0.24,ci,ci41016815,2025-07-08T11:21:56.621Z,"16 km NNW of Simmler, CA",earthquake,0.52,0.89,0.171,25,automatic,ci,ci
-2025-07-08T11:17:16.550Z,18.7405,-67.0445,49.28,2.87,md,15,283,0.2788,0.15,pr,pr71488528,2025-07-08T11:52:57.130Z,"26 km N of Isabela, Puerto Rico",earthquake,0.7,1.15,0.028072153254391,11,reviewed,pr,pr
