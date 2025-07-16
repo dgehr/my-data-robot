@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-16T05:55:20.930Z,35.7271667,-117.5608333,6.24,1.75,ml,41,52,0.09328,0.13,ci,ci41023887,2025-07-16T05:58:51.053Z,"15 km WSW of Searles Valley, CA",earthquake,0.12,0.46,0.159,26,automatic,ci,ci
+2025-07-16T05:50:13.310Z,34.5085,-118.937,-0.41,2.12,ml,39,55,0.03359,0.29,ci,ci41023879,2025-07-16T05:54:44.029Z,"12 km N of Fillmore, CA",earthquake,0.34,0.78,0.148,27,automatic,ci,ci
 2025-07-16T05:47:16.370Z,38.804668426514,-122.80850219727,2.0099999904633,0.74,md,6,120,0.01083,0.01,nc,nc75210642,2025-07-16T05:48:52.889Z,"5 km NW of The Geysers, CA",earthquake,0.46,0.939999998,0.18,7,automatic,nc,nc
 2025-07-16T05:31:20.376Z,59.3615,-152.2888,60.7,1.6,ml,,,,0.5,ak,ak02591w182t,2025-07-16T05:33:34.335Z,"20 km W of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-07-16T05:31:10.720Z,38.804832458496,-122.81116485596,2.2599999904633,0.77,md,20,60,0.01278,0.03,nc,nc75210632,2025-07-16T05:32:47.187Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.519999981,0.11,21,automatic,nc,nc
@@ -20,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-16T04:01:13.020Z,35.775,-117.6003333,7.47,0.69,ml,18,93,0.04072,0.12,ci,ci41023783,2025-07-16T04:04:40.319Z,"18 km W of Searles Valley, CA",earthquake,0.27,0.43,0.077,12,automatic,ci,ci
 2025-07-16T03:49:47.450Z,17.907666666667,-65.687333333333,9.74,2.41,md,8,245,0.228,0.1,pr,pr71489388,2025-07-16T04:09:43.950Z,"22 km SE of El Negro, Puerto Rico",earthquake,0.53,0.73,0.12173837795967,8,reviewed,pr,pr
 2025-07-16T03:19:20.150Z,37.362335205078,-121.73733520508,3.0999999046326,1.04,md,6,134,0.07829,0.01,nc,nc75210607,2025-07-16T03:20:56.838Z,"8 km ESE of Alum Rock, CA",earthquake,1.13,3.73000002,0.21,3,automatic,nc,nc
-2025-07-16T03:17:21.170Z,34.5198333,-118.9386667,-0.38,2.72,ml,91,27,0.0443,0.3,ci,ci41023759,2025-07-16T05:44:26.824Z,"14 km N of Fillmore, CA",earthquake,0.18,0.48,0.14,25,automatic,ci,ci
+2025-07-16T03:17:21.170Z,34.5198333,-118.9386667,-0.38,2.72,ml,91,27,0.0443,0.3,ci,ci41023759,2025-07-16T05:56:23.735Z,"14 km N of Fillmore, CA",earthquake,0.18,0.48,0.14,25,automatic,ci,ci
 2025-07-16T03:14:01.684Z,31.495,-104.04,4.5888,2.4,mlv,40,67,0,0.3,tx,tx2025nwatpt,2025-07-16T05:14:03.370Z,"30 km NW of Toyah, Texas",earthquake,0,0.95187222957611,0.1,30,automatic,tx,tx
 2025-07-16T03:12:02.628Z,63.8344,-148.8032,0,2.6,ml,,,,0.65,ak,ak02591uq8w5,2025-07-16T03:35:00.011Z,"8 km ESE of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-16T02:54:53.620Z,33.7878333,-116.0871667,0.86,1.24,ml,45,45,0.1122,0.21,ci,ci41023751,2025-07-16T03:05:50.810Z,"14 km ENE of Indio, CA",earthquake,0.19,0.37,0.148,27,automatic,ci,ci
@@ -313,5 +315,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-15T06:01:18.190Z,51.910333333333,179.575,7.16,0.83,ml,4,180,0.01346,0.28,av,av93668781,2025-07-16T01:00:01.870Z,"260 km W of Adak, Alaska",earthquake,1.59,1.4,0.17051465681751,4,reviewed,av,av
 2025-07-15T06:00:48.680Z,38.818332672119,-122.82316589356,1.8200000524521,0.75,md,7,89,0.01043,0.01,nc,nc75210087,2025-07-15T06:02:27.389Z,"7 km NW of The Geysers, CA",earthquake,0.62,1.13999999,0.26,9,automatic,nc,nc
 2025-07-15T05:59:07.810Z,61.37,-152.34216666667,2.84,0.07,ml,14,152,0.1122,0.3,av,av93046634,2025-07-16T00:25:18.080Z,"72 km WNW of Beluga, Alaska",earthquake,0.59,1.13,0.20627647422216,14,reviewed,av,av
-2025-07-15T05:58:30.500Z,61.368666666667,-152.336,3.66,-0.11,ml,11,151,0.1113,0.19,av,av93668771,2025-07-16T00:07:36.850Z,"71 km WNW of Beluga, Alaska",earthquake,0.46,0.53,0.15253009439954,10,reviewed,av,av
-2025-07-15T05:55:28.860Z,38.834833333333,-122.78583333333,2.33,0.17,md,15,66,0.005016,0.02,nc,nc75210082,2025-07-15T18:01:03.682Z,"6 km WNW of Cobb, CA",earthquake,0.27,0.45,0.334,15,reviewed,nc,nc
