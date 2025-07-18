@@ -1,5 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-18T13:20:27.670Z,38.757499694824,-122.73266601562,2.1600000858307,1.02,md,15,136,0.007345,0.08,nc,nc75211642,2025-07-18T13:22:01.800Z,"3 km SSE of The Geysers, CA",earthquake,0.34,0.589999974,0.17,14,automatic,nc,nc
+2025-07-18T13:13:16.270Z,61.3015,-152.5296,5.7,1.1,ml,,,,0.17,ak,ak02595brip7,2025-07-18T13:14:33.392Z,"79 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-07-18T13:09:16.479Z,61.0585,-146.6325,0,1.3,ml,,,,0.73,ak,ak02595bqnun,2025-07-18T13:11:37.122Z,"17 km WSW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-07-18T12:52:30.004Z,62.7781,-144.4027,11.5,1.2,ml,,,,1.24,ak,ak02595beh2w,2025-07-18T12:54:43.579Z,"23 km WNW of Slana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-18T12:44:53.990Z,38.804668426514,-122.81749725342,2.7400000095367,0.79,md,11,66,0.01004,0.05,nc,nc75211632,2025-07-18T12:46:32.445Z,"6 km NW of The Geysers, CA",earthquake,0.41,0.939999998,0.36,9,automatic,nc,nc
+2025-07-18T12:29:59.258Z,39.3318,-120.1386,8.6,-0.3,ml,6,108.25,0.088,0.0795,nn,nn00900822,2025-07-18T12:53:42.428Z,"3 km E of Truckee, California",earthquake,,3,0.34,3,reviewed,nn,nn
+2025-07-18T12:25:14.963Z,39.3323,-120.1381,8.8,0.2,ml,10,103.52,0.088,0.0867,nn,nn00900821,2025-07-18T12:56:30.138Z,"3 km E of Truckee, California",earthquake,,2.1,0.56,5,reviewed,nn,nn
 2025-07-18T12:19:15.270Z,35.3181667,-117.8146667,7.84,1.01,ml,35,65,0.05668,0.17,ci,ci41025551,2025-07-18T12:22:40.072Z,"17 km WSW of Johannesburg, CA",earthquake,0.18,0.52,0.238,19,automatic,ci,ci
 2025-07-18T12:14:02.426Z,60.2937,-143.3163,2.2,1.4,ml,,,,0.95,ak,ak02595b69qq,2025-07-18T12:15:48.846Z,"128 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-18T12:10:52.520Z,38.824165344238,-122.80699920654,2.6400001049042,1.07,md,21,49,0.002522,0.01,nc,nc75211622,2025-07-18T12:12:27.551Z,"7 km NNW of The Geysers, CA",earthquake,0.24,0.469999999,0.22,23,automatic,nc,nc
@@ -52,6 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-18T07:27:00.300Z,36.1411667,-117.8505,5.72,0.82,ml,17,90,0.0238,0.13,ci,ci41025431,2025-07-18T07:30:25.396Z,"14 km NE of Coso Junction, CA",earthquake,0.31,0.41,0.125,11,automatic,ci,ci
 2025-07-18T07:23:46.101Z,-23.7251,179.9185,518.917,4.6,mb,51,103,5.826,0.71,us,us7000qdd9,2025-07-18T07:40:18.040Z,"south of the Fiji Islands",earthquake,15.35,9.973,0.047,132,reviewed,us,us
 2025-07-18T07:12:38.390Z,33.265,-116.4216667,4.73,0.86,ml,45,39,0.004944,0.2,ci,ci41025423,2025-07-18T07:16:08.924Z,"4 km WNW of Borrego Springs, CA",earthquake,0.17,0.33,0.161,20,automatic,ci,ci
+2025-07-18T07:12:01.003Z,36.786,-116.0868,4.1,-0.2,ml,7,133.57,0.025,0.1096,nn,nn00900820,2025-07-18T12:50:16.139Z,"44 km WNW of Indian Springs, Nevada",earthquake,,2,0.08,2,reviewed,nn,nn
 2025-07-18T07:07:53.508Z,59.541,-153.1852,97.8,1.4,ml,,,,0.29,ak,ak0259585pna,2025-07-18T07:09:54.264Z,"58 km ESE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-07-18T07:07:43.086Z,39.1561,-119.0305,11,1.4,ml,17,85.84,0.236,0.1472,nn,nn00900810,2025-07-18T07:10:03.193Z,"22 km NNE of Yerington, Nevada",earthquake,,1.1,0.22,11,automatic,nn,nn
 2025-07-18T06:58:21.730Z,33.3758333,-117.4498333,9.68,1.34,ml,9,164,0.07773,0.25,ci,ci41025399,2025-07-18T07:01:49.734Z,"14 km WNW of Camp Pendleton North, CA",earthquake,1.04,2.36,0.386,22,automatic,ci,ci
@@ -234,12 +241,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-17T14:24:27.530Z,44.316666666667,-114.99216666667,5.7,2.97,ml,23,63,0.02524,0.15,mb,mb90102493,2025-07-18T07:20:24.401Z,"11 km NNW of Stanley, Idaho",earthquake,0.35,0.62,0.18404373688308,62,reviewed,mb,mb
 2025-07-17T14:14:26.912Z,-21.1079,-179.0272,625.437,5,mb,94,68,4.334,0.64,us,us7000qd7l,2025-07-17T14:29:12.040Z,"Fiji region",earthquake,11.46,8.152,0.055,107,reviewed,us,us
 2025-07-17T13:42:28.610Z,38.826499938965,-122.81500244141,1.7799999713898,1.29,md,25,40,0.016,0.01,nc,nc75211092,2025-07-17T14:17:20.037Z,"7 km NNW of The Geysers, CA",earthquake,0.19,0.360000014,0.1,26,automatic,nc,nc
+2025-07-17T13:37:00.873Z,54.5844,-159.9804,35,3.3,ml,15,199,0.335,0.91,us,us7000qd7f,2025-07-18T13:25:08.040Z,"90 km SSE of Sand Point, Alaska",earthquake,9.29,2.012,0.097,20,reviewed,us,us
 2025-07-17T13:33:32.000Z,58.162666666667,-155.358,0.28,-0.31,ml,5,192,0.05005,0.11,av,av93672511,2025-07-18T00:50:07.690Z,"85 km NW of Karluk, Alaska",earthquake,0.35,3.16,0.18277968447038,5,reviewed,av,av
 2025-07-17T13:26:40.514Z,61.4285,-149.3927,35.5,1.7,ml,,,,0.25,ak,ak02593ob0dv,2025-07-17T13:28:26.744Z,"14 km SE of Knik-Fairview, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-07-17T13:21:12.642Z,62.1217,-151.5361,74.1,1,ml,,,,0.59,ak,ak02593o9vnk,2025-07-17T13:24:05.392Z,"16 km NNW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-07-17T13:12:39.320Z,46.8515,-121.75616666667,0.42,0.4,ml,16,72,0.02526,0.07,uw,uw62144852,2025-07-17T15:14:20.710Z,"23 km ENE of Ashford, Washington",earthquake,0.19,0.5,0.26602778409258,7,reviewed,uw,uw
-2025-07-17T13:09:27.964Z,32.557,-101.092,2.71,1.2,ml,16,71,0.2,0.2,tx,tx2025nyqfrp,2025-07-17T14:05:52.083Z,"23 km NNW of Westbrook, Texas",earthquake,1.0050185096102,2.2528128752985,0.1,4,reviewed,tx,tx
-2025-07-17T13:04:42.323Z,32.1,-102.11,6.9824,0.8,ml,20,76,0.1,0.2,tx,tx2025nyqblq,2025-07-17T14:14:13.953Z,"11 km NNW of Midland, Texas",earthquake,0.76673167487137,1.021609254771,0.2,6,reviewed,tx,tx
-2025-07-17T12:56:41.571Z,36.9896,-116.1092,5.2,0.4,ml,22,67.74,0.043,0.1036,nn,nn00900765,2025-07-18T02:06:36.935Z,"58 km E of Beatty, Nevada",earthquake,,0.9,0.33,11,reviewed,nn,nn
-2025-07-17T12:56:05.281Z,32.564,-101.105,6.958,1.5,ml,19,66,0.1,0.2,tx,tx2025nypudx,2025-07-17T14:14:02.143Z,"24 km SW of Snyder, Texas",earthquake,1.0382714163845,1.7087395351951,0,7,reviewed,tx,tx
-2025-07-17T12:49:11.540Z,33.386,-116.3113333,11.49,0.87,ml,51,37,0.02361,0.22,ci,ci41024719,2025-07-17T18:49:20.239Z,"16 km NNE of Borrego Springs, CA",earthquake,0.21,0.37,0.21,21,reviewed,ci,ci
