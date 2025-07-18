@@ -246,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-17T21:52:14.003Z,59.5662,-152.6476,91,1.9,ml,,,,0.31,ak,ak02593t7zso,2025-07-17T21:54:12.187Z,"47 km WNW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-17T21:43:26.840Z,37.409833333333,-118.58783333333,13.09,0.99,md,15,79,0.05986,0.06,nc,nc75211307,2025-07-18T17:28:38.693Z,"1 km SE of Round Valley, CA",earthquake,0.61,1.25,0.203,9,reviewed,nc,nc
 2025-07-17T21:35:26.363Z,60.7351,-150.0211,44.2,1.5,ml,,,,0.55,ak,ak02593t4dks,2025-07-17T21:37:13.812Z,"29 km SW of Hope, Alaska",earthquake,,3.1,,,automatic,ak,ak
-2025-07-17T21:29:44.070Z,36.947166442871,-121.56083679199,6.1700000762939,1.52,md,13,132,0.01883,0.15,nc,nc75211292,2025-07-17T22:17:18.593Z,"7 km S of Gilroy, CA",earthquake,0.66,0.899999976,0.22,10,automatic,nc,nc
