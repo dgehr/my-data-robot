@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-19T23:54:27.800Z,36.1373329,-117.8724976,2.04,0.97,ml,12,146,0.02434,0.13,ci,ci41026639,2025-07-19T23:56:30.265Z,"12 km NNE of Coso Junction, CA",earthquake,0.68,0.33,0.291,8,automatic,ci,ci
 2025-07-19T23:41:56.020Z,59.8083,-153.4387,121.5,1.6,ml,,,,0.54,ak,ak025975facy,2025-07-19T23:44:22.697Z,"37 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-19T23:40:30.560Z,32.356,-102.171,4.0532,1.5,ml,35,57,0,0.5,tx,tx2025odcpdo,2025-07-19T23:44:32.607Z,"34 km E of McKinney Acres, Texas",earthquake,0,0.87621086835861,0.2,18,automatic,tx,tx
 2025-07-19T23:38:48.650Z,19.210666656494,-155.48483276367,29.670000076294,1.99,ml,53,102,0.03982,0.159999996,hv,hv74730067,2025-07-19T23:42:13.260Z,"1 km NW of Pāhala, Hawaii",earthquake,0.48,0.529999971,0.6,8,automatic,hv,hv
@@ -252,4 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-19T00:05:19.920Z,46.858166666667,-121.7565,-2.11,0.41,ml,15,104,0.02088,0.06,uw,uw62146017,2025-07-19T05:34:45.300Z,"23 km ENE of Ashford, Washington",earthquake,0.22,0.37,0.15844677992022,7,reviewed,uw,uw
 2025-07-19T00:00:03.230Z,35.3165,-117.81,7.3,1.57,ml,49,35,0.05706,0.18,ci,ci41026023,2025-07-19T00:03:36.243Z,"17 km WSW of Johannesburg, CA",earthquake,0.16,0.51,0.174,25,automatic,ci,ci
 2025-07-18T23:58:49.118Z,32.191,-101.401,6.3721,1.4,ml,26,81,0.1,0.1,tx,tx2025obhmdb,2025-07-19T20:50:54.421Z,"9 km NNW of Forsan, Texas",earthquake,0.35829956671332,0.67627495632561,0.2,20,reviewed,tx,tx
-2025-07-18T23:51:24.260Z,19.042666666667,-68.196666666667,5.1,3.12,md,6,223,0.5537,0.19,pr,pr71489648,2025-07-19T01:18:29.616Z,"55 km NNE of Punta Cana, Dominican Republic",earthquake,0.93,1.23,0.14445243780364,5,reviewed,pr,pr
