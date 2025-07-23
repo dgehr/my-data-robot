@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-23T11:55:12.140Z,63.258,-151.1248,0,1.4,ml,,,,0.55,ak,ak0259dkidpq,2025-07-23T11:57:25.943Z,"43 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-07-23T11:54:48.057Z,60.27,-152.8349,115.2,1.2,ml,,,,0.5,ak,ak0259dki8rp,2025-07-23T11:56:46.471Z,"69 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-07-23T11:52:12.530Z,33.4853333,-116.4798333,11.43,1.78,ml,92,29,0.1027,0.21,ci,ci41029639,2025-07-23T11:56:07.369Z,"20 km ESE of Anza, CA",earthquake,0.13,0.45,0.184,26,automatic,ci,ci
 2025-07-23T11:42:45.780Z,33.0415,-116.5985,13.95,0.8,ml,38,33,0.03938,0.18,ci,ci41029631,2025-07-23T11:46:51.310Z,"4 km S of Julian, CA",earthquake,0.2,0.4,0.123,14,automatic,ci,ci
-2025-07-23T11:38:25.080Z,38.835334777832,-122.80950164795,2.2799999713898,1.46,md,31,51,0.01193,0.02,nc,nc75213902,2025-07-23T11:41:37.910Z,"8 km WNW of Cobb, CA",earthquake,0.17,0.340000004,0.14,31,automatic,nc,nc
-2025-07-23T11:35:33.400Z,35.80437469,-96.6570282,2.626974821,2.22,ml,53,36.18263245,0.1345624179,0.4781406301,ok,ok2025ohub,2025-07-23T11:48:39.786Z,"6 km N of Stroud, Oklahoma",earthquake,1.673148023,1.388587158,0.28,39,automatic,ok,ok
+2025-07-23T11:38:25.080Z,38.835334777832,-122.80950164795,2.2799999713898,1.46,md,31,51,0.01193,0.02,nc,nc75213902,2025-07-23T11:57:17.369Z,"8 km WNW of Cobb, CA",earthquake,0.17,0.340000004,0.14,31,automatic,nc,nc
+2025-07-23T11:35:33.149Z,35.798,-96.65016667,7.54,2.07,ml,76,33,0,0.2,ok,ok2025ohub,2025-07-23T11:59:18.763Z,"5 km N of Stroud, Oklahoma",earthquake,,0.4,0.25,33,reviewed,ok,ok
 2025-07-23T11:29:16.498Z,60.7947,-143.2745,20.7,0.8,ml,,,,0.13,ak,ak0259dkctfl,2025-07-23T11:31:06.948Z,"73 km SSW of McCarthy, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-07-23T11:24:20.310Z,33.651,-116.7215,13.5,0.73,ml,30,55,0.04361,0.16,ci,ci41029623,2025-07-23T11:27:52.168Z,"10 km S of Idyllwild, CA",earthquake,0.21,0.42,0.161,21,automatic,ci,ci
 2025-07-23T11:19:51.880Z,17.937666666667,-66.873666666667,13.65,2.05,md,7,219,0.03756,0.2,pr,pr71490178,2025-07-23T11:36:37.780Z,"4 km SSE of Maria Antonia, Puerto Rico",earthquake,1.31,0.59,0.067101000434539,5,reviewed,pr,pr
