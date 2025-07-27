@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-27T23:48:12.652Z,32.097,-102.074,4.3631,1.7,ml,47,38,0,0.4,tx,tx2025oruqxq,2025-07-27T23:53:47.169Z,"11 km N of Midland, Texas",earthquake,0,0.78260409832001,0.1,29,automatic,tx,tx
+2025-07-27T23:40:02.458Z,64.5139,-17.2871,10,5,mb,71,72,1.756,0.76,us,us6000qvj6,2025-07-27T23:55:37.040Z,"104 km WNW of Höfn, Iceland",earthquake,9.78,1.841,0.025,504,reviewed,us,us
 2025-07-27T23:00:29.550Z,38.807834625244,-122.78966522217,3.3199999332428,0.77,md,5,157,0.004407,0.01,nc,nc75215987,2025-07-27T23:02:05.877Z,"4 km NNW of The Geysers, CA",earthquake,3.03,2.21000004,0.14,9,automatic,nc,nc
 2025-07-27T22:47:05.553Z,53.9743,-166.4796,88.942,5.4,mww,105,61,0.13,0.52,us,us6000qvj2,2025-07-27T23:48:47.229Z,"10 km NNE of Dutch Harbor, Alaska",earthquake,6.58,3.444,0.068,21,reviewed,us,us
 2025-07-27T22:42:47.610Z,34.6375,-116.6661667,3.7,1.1,ml,30,39,0.03503,0.16,ci,ci41034015,2025-07-27T22:46:26.406Z,"35 km NE of Lucerne Valley, CA",earthquake,0.19,0.44,0.137,17,automatic,ci,ci
@@ -201,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-27T00:36:40.371Z,60.4294,-151.5717,28,1.4,ml,,,,0.26,ak,ak0259jzzzlx,2025-07-27T00:38:52.394Z,"15 km W of Kalifornsky, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-26T23:57:54.220Z,38.795166015625,-122.78099822998,3.1300001144409,0.77,md,19,76,0.00576,0.03,nc,nc75215562,2025-07-26T23:59:28.854Z,"3 km NW of The Geysers, CA",earthquake,0.32,0.519999981,0.31,21,automatic,nc,nc
 2025-07-26T23:57:39.370Z,38.795166015625,-122.7816696167,3.2599999904633,1.07,md,23,76,0.005271,0.02,nc,nc75215557,2025-07-26T23:59:13.870Z,"3 km NW of The Geysers, CA",earthquake,0.25,0.50999999,0.14,24,automatic,nc,nc
-2025-07-26T23:53:46.390Z,59.997166666667,-153.13033333333,13.2,-0.4,ml,4,152,0.01529,0.08,av,av93690191,2025-07-27T22:31:42.020Z,"59 km ENE of Pedro Bay, Alaska",earthquake,1.21,0.78,0.151627385305,4,reviewed,av,av
-2025-07-26T23:53:27.302Z,61.3931,-150.6534,49.3,1.7,ml,,,,0.26,ak,ak0259iq986y,2025-07-26T23:54:57.387Z,"18 km SSW of Susitna, Alaska",earthquake,,1.6,,,automatic,ak,ak
