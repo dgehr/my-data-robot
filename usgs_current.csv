@@ -249,6 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-04T16:12:12.210Z,38.841835021973,-122.85083007812,-0.75,0.67,md,9,156,0.01241,0.28,nc,nc75219087,2025-08-04T16:13:49.951Z,"11 km NW of The Geysers, CA",earthquake,0.79,2.56999993,0.14,8,automatic,nc,nc
 2025-08-04T16:08:51.259Z,31.715,-104.211,6.0999,2.1,ml,32,64,0.1,0.1,tx,tx2025pfxgcg,2025-08-04T17:21:16.091Z,"53 km SSE of Whites City, New Mexico",earthquake,0.45664735353126,0.48871925929883,0.1,21,reviewed,tx,tx
 2025-08-04T16:03:59.417Z,62.4992,-149.7986,44.5,2.1,ml,,,,0.76,ak,ak0259xhmo01,2025-08-04T16:06:17.975Z,"16 km ENE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-08-04T15:57:51.642Z,49.9415,156.075,64.646,4.5,mb,54,131,3.329,0.97,us,us6000qy28,2025-08-04T16:51:48.040Z,"81 km S of Severo-Kuril’sk, Russia",earthquake,10,7.742,0.064,72,reviewed,us,us
-2025-08-04T15:57:15.057Z,65.0847,-150.8345,10.2,1.1,ml,,,,0.54,ak,ak0259xhcppt,2025-08-04T15:59:11.044Z,"13 km NW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-08-04T15:54:45.390Z,36.951,-118.2745,6.86,1.87,ml,16,85,0.109,0.2,ci,ci41252744,2025-08-04T18:57:19.768Z,"18 km NNW of Independence, CA",earthquake,0.31,1.31,0.192,19,reviewed,ci,ci
