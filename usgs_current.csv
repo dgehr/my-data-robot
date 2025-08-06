@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-06T19:00:23.688Z,60.374,-150.6658,32.9,1.6,ml,,,,0.66,ak,ak025a0ugxz4,2025-08-06T19:03:34.329Z,"15 km SSE of Funny River, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-08-06T18:53:27.360Z,33.2713333,-116.4173333,4.47,0.52,ml,23,75,0.003128,0.18,ci,ci41255016,2025-08-06T19:44:33.183Z,"4 km WNW of Borrego Springs, CA",earthquake,0.22,0.34,0.103,11,reviewed,ci,ci
 2025-08-06T18:48:50.940Z,17.929166666667,-66.912666666667,11.61,1.71,md,7,244,0.04297,0.09,pr,pr71491798,2025-08-06T19:11:56.960Z,"4 km S of Guánica, Puerto Rico",earthquake,0.88,0.26,0.0077267896059084,2,reviewed,pr,pr
-2025-08-06T18:38:57.240Z,62.4466,-151.2159,84.4,4.6,ml,,,,0.83,ak,ak025a0u3q2q,2025-08-06T21:35:50.054Z,"23 km WSW of Petersville, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-08-06T18:38:57.240Z,62.4466,-151.2159,84.4,4.6,ml,,,,0.83,ak,ak025a0u3q2q,2025-08-06T21:52:35.865Z,"23 km WSW of Petersville, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-08-06T18:38:36.403Z,29.7198,138.4394,487.37,4.3,mb,37,160,5.577,0.54,us,us6000qypv,2025-08-06T19:06:16.040Z,"Izu Islands, Japan region",earthquake,14.73,11.184,0.106,25,reviewed,us,us
 2025-08-06T18:35:28.960Z,35.0598333,-118.3385,4.03,1.32,ml,34,33,0.06912,0.25,ci,ci41254984,2025-08-06T19:44:50.157Z,"13 km SE of Tehachapi, CA",quarry blast,0.27,1,0.166,28,automatic,ci,ci
 2025-08-06T18:31:38.340Z,36.330833333333,-89.474666666667,6.72,1.61,md,16,64,0.03446,0.06,nm,nm60612516,2025-08-06T21:15:56.289Z,"5 km S of Tiptonville, Tennessee",earthquake,0.24,0.53,0.055324303819798,12,reviewed,nm,nm
@@ -255,5 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-05T22:03:05.700Z,34.9811667,-118.1928333,-0.9,1.68,ml,21,52,0.1225,0.28,ci,ci41254064,2025-08-06T19:33:02.400Z,"8 km SSW of Mojave, CA",quarry blast,0.41,31.61,0.169,26,reviewed,ci,ci
 2025-08-05T22:00:38.190Z,17.941833333333,-66.9895,12.3,2.09,md,6,223,0.05888,0.05,pr,pr71491683,2025-08-05T22:26:30.110Z,"7 km ESE of La Parguera, Puerto Rico",earthquake,1.28,0.46,0.035672892221431,4,reviewed,pr,pr
 2025-08-05T21:59:56.340Z,28.654,-98.235,10.1256,2.2,ml,12,78,0,0.1,tx,tx2025piepnt,2025-08-05T23:36:45.975Z,"22 km NNW of Three Rivers, Texas",earthquake,0.82495201911622,1.5672096360211,0.1,13,reviewed,tx,tx
-2025-08-05T21:58:11.260Z,34.857,-118.9683333,6.66,1.23,ml,23,109,0.06931,0.16,ci,ci41254048,2025-08-06T16:37:48.205Z,"4 km NNW of Frazier Park, CA",earthquake,0.23,0.6,0.173,15,reviewed,ci,ci
-2025-08-05T21:55:05.375Z,57.0526,-155.0921,39.4,2.2,ml,,,,0.36,ak,ak0259z8g7nt,2025-08-05T21:57:19.205Z,"57 km WNW of Akhiok, Alaska",earthquake,,8.9,,,automatic,ak,ak
