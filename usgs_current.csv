@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-09T12:52:24.937Z,62.8664,-150.7861,98.5,1.8,ml,,,,0.67,ak,ak025a5p83jx,2025-08-09T12:55:07.404Z,"41 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-09T12:51:11.520Z,33.3896667,-116.3086667,11.34,0.62,ml,43,91,0.02724,0.2,ci,ci41257200,2025-08-09T12:54:53.238Z,"16 km NNE of Borrego Springs, CA",earthquake,0.24,0.38,0.073,10,automatic,ci,ci
+2025-08-09T12:48:24.158Z,53.2249,159.7957,60.264,4.6,mb,43,113,0.719,0.92,us,us6000qzh1,2025-08-09T13:18:30.040Z,"80 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.95,7.568,0.078,49,reviewed,us,us
 2025-08-09T12:41:21.481Z,35.02964783,-97.89162445,2.485111475,1.58,ml,12,147.8038635,0.09594492614,0.706576997,ok,ok2025pmxu,2025-08-09T12:46:21.661Z,"4 km ESE of Chickasha, Oklahoma",earthquake,4.174291089,3.076533797,0.26,10,automatic,ok,ok
 2025-08-09T12:39:35.361Z,65.7664,-155.2754,2.6,1.3,ml,,,,0.44,ak,ak025a5p5c1s,2025-08-09T12:41:33.413Z,"52 km E of Huslia, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-09T12:30:13.091Z,22.8707,94.5029,98.102,4.6,mb,75,58,4.791,0.64,us,us6000qzgu,2025-08-09T12:47:00.040Z,"84 km E of Falam, Burma (Myanmar)",earthquake,9.99,7.233,0.071,59,reviewed,us,us
 2025-08-09T12:28:15.990Z,60.677,-151.6561,69.4,2,ml,,,,0.24,ak,ak025a5p2xof,2025-08-09T12:29:32.045Z,"19 km WNW of Salamatof, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-08-09T12:25:05.750Z,34.0076667,-117.5723333,3.18,0.84,ml,39,79,0.009411,0.16,ci,ci41257184,2025-08-09T12:30:09.622Z,"5 km WNW of Mira Loma, CA",earthquake,0.16,0.18,0.267,34,automatic,ci,ci
 2025-08-09T12:14:51.990Z,38.788501739502,-122.76782989502,3.2200000286102,0.75,md,9,96,0.01367,0.01,nc,nc75221097,2025-08-09T12:16:27.536Z,"2 km NNW of The Geysers, CA",earthquake,0.65,1.44000006,0.15,8,automatic,nc,nc
@@ -63,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T07:33:39.160Z,38.79349899292,-122.75299835205,1.3500000238419,1.05,md,15,88,0.00884,0.03,nc,nc75221037,2025-08-09T07:35:17.283Z,"2 km NNE of The Geysers, CA",earthquake,0.26,0.449999988,0.23,15,automatic,nc,nc
 2025-08-09T07:30:11.240Z,33.9411667,-118.3585,12.95,1.32,ml,55,79,0.02195,0.23,ci,ci41257080,2025-08-09T07:41:41.942Z,"1 km WNW of Lennox, CA",earthquake,0.21,0.36,0.336,12,automatic,ci,ci
 2025-08-09T07:26:20.090Z,34.103,-117.4855,2.95,0.79,ml,39,79,0.03894,0.18,ci,ci41257072,2025-08-09T07:31:04.001Z,"3 km WNW of Fontana, CA",earthquake,0.23,0.19,0.207,32,automatic,ci,ci
-2025-08-09T07:14:12.941Z,39.1345,-119.0839,7,3.5,ml,44,74.37,0.193,0.1235,nn,nn00902315,2025-08-09T09:27:59.876Z,"17 km NNE of Yerington, Nevada",earthquake,,1.6,0.23,20,reviewed,nn,nn
+2025-08-09T07:14:12.941Z,39.1345,-119.0839,7,3.5,mw,44,74.37,0.193,0.1235,nn,nn00902315,2025-08-09T13:16:38.015Z,"17 km NNE of Yerington, Nevada",earthquake,,1.6,,,reviewed,nn,nn
 2025-08-09T07:13:50.837Z,61.2931,-152.7851,119.2,1.3,ml,,,,1.12,ak,ak025a5m0mln,2025-08-09T07:15:40.814Z,"92 km WNW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-08-09T07:03:34.990Z,40.5727,47.9307,10,4.3,mb,24,78,1.583,1.21,us,us6000qzfd,2025-08-09T07:17:43.040Z,"18 km ESE of Göyçay, Azerbaijan",earthquake,6.01,1.9,0.138,15,reviewed,us,us
 2025-08-09T06:59:11.400Z,33.3265,-116.2795,10.15,0.65,ml,26,54,0.2374,0.17,ci,ci41257056,2025-08-09T07:02:47.326Z,"12 km NE of Borrego Springs, CA",earthquake,0.27,1.03,0.16,13,automatic,ci,ci
@@ -88,6 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T04:44:09.149Z,-7.5949,-74.6511,158.82,4.5,mb,26,111,1.934,0.88,us,us6000qzex,2025-08-09T05:18:53.040Z,"49 km SE of Contamana, Peru",earthquake,9.33,10.097,0.113,23,reviewed,us,us
 2025-08-09T04:43:02.480Z,17.9595,-66.922166666667,10.09,2.37,md,9,200,0.01804,0.11,pr,pr71492218,2025-08-09T04:52:11.890Z,"2 km SW of Guánica, Puerto Rico",earthquake,0.67,0.52,0.14307077127312,6,reviewed,pr,pr
 2025-08-09T04:32:43.820Z,60.2389,-152.9507,134.2,1.4,ml,,,,0.38,ak,ak025a5kcdum,2025-08-09T04:34:33.010Z,"74 km WNW of Ninilchik, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-08-09T04:32:18.820Z,33.652833333333,-79.204166666667,4.82,1.89,md,10,186,0.3189,0.36,se,se60503888,2025-08-09T13:10:21.680Z,"9 km W of Bucksport, South Carolina",earthquake,1.58,2.6,0.24987124212241,6,reviewed,se,se
 2025-08-09T04:31:35.160Z,38.829166412354,-122.81632995606,1.6499999761581,0.4,md,9,122,0.007556,0.01,nc,nc75220987,2025-08-09T04:33:12.815Z,"8 km NNW of The Geysers, CA",earthquake,0.42,0.899999976,0.25,11,automatic,nc,nc
 2025-08-09T04:29:42.689Z,-16.8349,-69.9131,192.493,4.3,mb,22,129,1.581,0.66,us,us6000qzew,2025-08-09T05:10:48.040Z,"23 km WSW of Mazo Cruz, Peru",earthquake,11.01,11.377,0.202,7,reviewed,us,us
 2025-08-09T04:20:28.028Z,63.0542,-149.9134,81.4,2.5,ml,,,,0.45,ak,ak025a5k9rzw,2025-08-09T04:31:31.040Z,"61 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -245,13 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T13:31:03.480Z,19.145666666667,-155.4845,34.22,2.03,ml,45,162,0.02328,0.1,hv,hv74746247,2025-08-08T22:09:13.920Z,"6 km S of Pāhala, Hawaii",earthquake,0.45,0.57,0.20874487373736,26,reviewed,hv,hv
 2025-08-08T13:30:42.990Z,38.794998168945,-122.76899719238,3.3699998855591,0.87,md,15,74,0.009177,0.02,nc,nc75220722,2025-08-08T13:32:17.778Z,"2 km NNW of The Geysers, CA",earthquake,0.28,0.660000026,0.16,17,automatic,nc,nc
 2025-08-08T13:29:32.740Z,58.169,-155.339,1.41,-0.41,ml,8,120,0.04184,0.08,av,av93708108,2025-08-08T23:03:51.680Z,"84 km NW of Karluk, Alaska",earthquake,0.24,0.69,0.17249660547298,8,reviewed,av,av
-2025-08-08T13:12:21.000Z,17.994,-66.545166666667,15.21,1.95,md,5,169,0.07571,0.24,pr,pr71492128,2025-08-08T13:30:14.410Z,"2 km SSW of Capitanejo, Puerto Rico",earthquake,1.99,1.43,0.12217176148406,4,reviewed,pr,pr
-2025-08-08T13:12:10.430Z,58.209166666667,-154.88766666667,7.18,0.18,ml,5,257,0.07277,0.1,av,av93047974,2025-08-08T23:16:10.430Z,"75 km NNW of Karluk, Alaska",earthquake,0.68,0.73,0.3978013038478,5,reviewed,av,av
-2025-08-08T13:10:13.819Z,49.941,158.5753,17.758,4.8,mb,37,128,3.087,0.5,us,us6000qz34,2025-08-08T13:26:51.040Z,"192 km ESE of Severo-Kuril’sk, Russia",earthquake,10.77,4.983,0.075,55,reviewed,us,us
-2025-08-08T13:08:59.066Z,32.408,-101.925,8.4473,0.7,ml,25,72,0,0.1,tx,tx2025pnaeqf,2025-08-08T14:01:50.708Z,"23 km SW of Ackerly, Texas",earthquake,0.32300994805378,0.66471913875751,0.2,13,reviewed,tx,tx
-2025-08-08T13:05:04.992Z,52.0933,158.3389,85.401,5,mb,50,163,0.951,0.78,us,us6000qz30,2025-08-08T13:20:14.040Z,"93 km S of Vilyuchinsk, Russia",earthquake,9.85,7.53,0.027,436,reviewed,us,us
-2025-08-08T13:04:58.560Z,35.254666666667,-84.2945,12.45,2.21,md,14,98,0.1493,0.07,se,se60612646,2025-08-08T17:37:55.483Z,"12 km S of Tellico Plains, Tennessee",earthquake,0.3,0.98,0.064145921843877,11,reviewed,se,se
-2025-08-08T13:02:56.113Z,62.2069,-150.1433,9.8,1.6,ml,,,,0.36,ak,ak025a41zj9n,2025-08-08T13:04:28.838Z,"13 km SSE of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-08-08T12:52:06.414Z,31.696,-104.496,7.0227,1.2,ml,16,78,0,0.1,tx,tx2025pmzpyi,2025-08-08T20:20:55.098Z,"54 km SSW of Whites City, New Mexico",earthquake,0.9078361465749,0.59413727444825,0.2,12,reviewed,tx,tx
-2025-08-08T12:51:03.200Z,61.332166666667,-152.127,-3.16,-0.43,ml,10,122,0.06489,0.28,av,av93708063,2025-08-08T22:56:04.350Z,"59 km WNW of Beluga, Alaska",earthquake,0.84,4.74,0.12817056883201,9,reviewed,av,av
-2025-08-08T12:50:13.740Z,35.922166666667,-91.334666666667,18.93,1.79,md,7,168,0.1991,0.15,nm,nm60503878,2025-08-08T14:05:58.020Z,"5 km SSW of Strawberry, Arkansas",earthquake,0.51,0.59,0.094127745224888,7,reviewed,nm,nm
