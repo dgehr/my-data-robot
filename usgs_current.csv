@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-10T07:46:10.766Z,32.542,-101.12,1.2379,1.7,ml,25,105,0.1,0.6,tx,tx2025pqgycv,2025-08-10T07:49:47.392Z,"22 km NNW of Westbrook, Texas",earthquake,0,1.1963620185852,0.1,15,automatic,tx,tx
 2025-08-10T07:38:17.530Z,33.4668333,-116.4615,2.91,0.68,ml,37,68,0.1208,0.16,ci,ci41257760,2025-08-10T07:42:57.066Z,"22 km ESE of Anza, CA",earthquake,0.17,0.88,0.181,18,automatic,ci,ci
 2025-08-10T07:28:32.190Z,33.2688333,-116.4111667,5.59,0.6,ml,29,77,0.005061,0.17,ci,ci41257752,2025-08-10T07:32:02.558Z,"4 km WNW of Borrego Springs, CA",earthquake,0.22,0.44,0.115,3,automatic,ci,ci
 2025-08-10T06:59:34.391Z,51.497,159.6335,10,5.2,mb,74,114,1.644,1.06,us,us6000qzkx,2025-08-10T07:16:53.040Z,"180 km SSE of Vilyuchinsk, Russia",earthquake,8.31,1.864,0.034,292,reviewed,us,us
