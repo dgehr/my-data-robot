@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-11T14:57:09.034Z,61.6297,-147.294,33.7,1.1,ml,,,,0.68,ak,ak025a91ip3r,2025-08-11T14:59:22.921Z,"27 km SE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-11T14:55:45.267Z,36.7768,-116.2434,9.3,0.4,ml,18,79.03,0.042,0.1043,nn,nn00902416,2025-08-11T14:57:39.124Z,"48 km ESE of Beatty, Nevada",earthquake,,0.7,0.36,11,automatic,nn,nn
 2025-08-11T14:48:12.508Z,60.0393,-151.6369,81,1.2,ml,,,,0.14,ak,ak025a91grxe,2025-08-11T14:49:26.609Z,"2 km SE of Ninilchik, Alaska",earthquake,,4.4,,,automatic,ak,ak
 2025-08-11T14:41:39.010Z,34.0666667,-117.1323333,9.4,0.8,ml,20,211,0.03524,0.14,ci,ci41258424,2025-08-11T14:45:09.189Z,"0 km SSE of Mentone, CA",earthquake,0.43,0.37,0.174,24,automatic,ci,ci
 2025-08-11T13:54:13.407Z,63.1431,-147.699,16.8,1.3,ml,,,,0.34,ak,ak025a90wmos,2025-08-11T13:55:35.559Z,"68 km ESE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -89,7 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T05:19:53.940Z,33.0158333,-116.363,3.21,0.7,ml,41,47,0.05942,0.19,ci,ci41258168,2025-08-11T05:23:24.240Z,"23 km ESE of Julian, CA",earthquake,0.19,0.29,0.124,11,automatic,ci,ci
 2025-08-11T05:08:55.290Z,33.5916667,-116.7205,11.87,0.38,ml,21,123,0.02972,0.1,ci,ci41258160,2025-08-11T05:12:17.098Z,"6 km NW of Anza, CA",earthquake,0.21,0.34,0.153,10,automatic,ci,ci
 2025-08-11T04:38:19.998Z,61.0382,-147.5097,3.3,1.3,ml,,,,0.51,ak,ak025a8vgban,2025-08-11T04:40:01.370Z,"49 km WNW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-08-11T04:19:18.390Z,47.582832336426,-122.58166503906,23.450000762939,1.8624756336212,ml,17,58,0.1155,0.119999997,uw,uw62169126,2025-08-11T14:34:25.430Z,"1 km E of Enetai, Washington",earthquake,0.53,1.26999998,0.18494260311127,6,reviewed,uw,uw
+2025-08-11T04:19:18.340Z,47.5875,-122.57,23.75,1.28,ml,24,52,0.1083,0.17,uw,uw62169126,2025-08-11T14:58:01.510Z,"2 km E of Enetai, Washington",earthquake,0.35,0.77,0.19307512925051,13,reviewed,uw,uw
 2025-08-11T04:18:16.510Z,34.3563333,-116.9025,3.87,1.2,ml,54,45,0.06263,0.16,ci,ci41258152,2025-08-11T04:22:06.429Z,"11 km SSE of Lucerne Valley, CA",earthquake,0.14,0.35,0.214,29,automatic,ci,ci
 2025-08-11T04:16:44.456Z,61.1999,-150.9659,8.8,1.5,ml,,,,1.61,ak,ak025a8vbnfh,2025-08-11T04:19:11.690Z,"9 km NE of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-08-11T04:16:28.090Z,38.826831817627,-122.78616333008,1.8600000143051,1.03,md,14,48,0.01201,0.02,nc,nc75221597,2025-08-11T04:18:03.843Z,"5 km WNW of Cobb, CA",earthquake,0.28,0.460000008,0.3,13,automatic,nc,nc
@@ -190,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-10T15:22:14.530Z,40.920333333333,-110.86616666667,20.91,0.9,md,9,232,0.1028,0.18,uu,uu80113596,2025-08-10T16:36:55.540Z,"39 km SSE of Evanston, Wyoming",earthquake,1.77,1.46,0.40176380233442,8,reviewed,uu,uu
 2025-08-10T15:08:40.960Z,33.1421667,-116.6311667,4.48,0.34,ml,16,70,0.05841,0.19,ci,ci41257912,2025-08-10T20:41:07.024Z,"8 km NNW of Julian, CA",earthquake,0.38,0.39,0.062,5,reviewed,ci,ci
 2025-08-10T15:03:02.450Z,33.0048333,-116.4536667,8.74,0.62,ml,32,70,0.04891,0.13,ci,ci41257904,2025-08-10T20:41:08.025Z,"16 km ESE of Julian, CA",earthquake,0.15,0.41,0.135,8,reviewed,ci,ci
-2025-08-10T14:55:02.160Z,38.822834014893,-122.8253326416,0.68999999761581,1.33,md,21,58,0.00758,0.04,nc,nc75221422,2025-08-10T14:56:37.468Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.409999996,0.17,21,automatic,nc,nc
