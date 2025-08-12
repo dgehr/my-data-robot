@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-12T06:41:47.104Z,31.655,-104.379,4.8654,1.5,ml,16,116,0,0.3,tx,tx2025ptwgmj,2025-08-12T06:44:07.950Z,"57 km S of Whites City, New Mexico",earthquake,0,1.6237088441849,0.2,10,automatic,tx,tx
+2025-08-12T07:18:38.912Z,31.663,-104.374,5.8849,1.7,ml,26,87,0,0.4,tx,tx2025ptxmgz,2025-08-12T07:22:47.973Z,"56 km S of Whites City, New Mexico",earthquake,0,2.4428100585938,0.2,17,automatic,tx,tx
+2025-08-12T07:16:58.580Z,33.4775,-116.5871667,10.62,0.64,ml,32,63,0.02126,0.15,ci,ci41258984,2025-08-12T07:21:18.295Z,"12 km SE of Anza, CA",earthquake,0.18,0.25,0.203,18,automatic,ci,ci
+2025-08-12T07:10:41.740Z,38.823833465576,-122.79833221435,2.1800000667572,0.74,md,9,94,0.009182,0.05,nc,nc75222152,2025-08-12T07:12:19.597Z,"6 km NNW of The Geysers, CA",earthquake,0.55,1.41999996,0.5,9,automatic,nc,nc
+2025-08-12T06:58:52.338Z,31.671,-104.368,6.0999,3.5,ml,28,69,0.1,0.2,tx,tx2025ptwvfe,2025-08-12T07:17:45.340Z,"55 km S of Whites City, New Mexico",earthquake,0.8589699448826,0.73374023534074,0.1,17,reviewed,tx,tx
+2025-08-12T06:41:47.104Z,31.655,-104.379,4.8654,1.5,ml,16,116,0,0.3,tx,tx2025ptwgmj,2025-08-12T07:00:52.151Z,"57 km S of Whites City, New Mexico",earthquake,0,1.6237088441849,0.2,10,automatic,tx,tx
 2025-08-12T06:33:10.584Z,59.317,-151.8876,75.4,1.6,ml,,,,0.68,ak,ak025aak5foy,2025-08-12T06:35:21.209Z,"4 km SSE of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-08-12T06:31:03.708Z,31.675,-104.371,6.0999,2.2,ml,36,72,0,0.2,tx,tx2025ptvxgc,2025-08-12T06:57:20.143Z,"55 km S of Whites City, New Mexico",earthquake,0.78051738195907,0.58294103237309,0.2,23,reviewed,tx,tx
 2025-08-12T06:30:51.890Z,35.7806667,-117.672,6.79,0.5,ml,15,95,0.06994,0.27,ci,ci41258976,2025-08-12T06:34:21.059Z,"18 km N of Ridgecrest, CA",earthquake,0.4,0.86,0.21,11,automatic,ci,ci
@@ -15,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T05:11:52.030Z,35.9988327,-117.9558334,4.48,1.14,ml,18,96,0.0538,0.12,ci,ci41258944,2025-08-12T05:15:20.923Z,"5 km S of Coso Junction, CA",earthquake,0.37,1.28,0.221,9,automatic,ci,ci
 2025-08-12T05:08:48.848Z,61.3864,-146.5194,20,1.8,ml,,,,0.54,ak,ak025aajeq50,2025-08-12T05:10:30.746Z,"29 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-12T05:08:31.359Z,5.5576,126.1045,141.255,5.3,mww,144,26,1.029,0.9,us,us6000r00x,2025-08-12T05:49:48.974Z,"64 km SE of Caburan, Philippines",earthquake,7.5,6.115,0.061,26,reviewed,us,us
+2025-08-12T05:05:13.595Z,31.593,-104.235,7.6892,1.5,ml,31,72,0.1,0.2,tx,tx2025pttbhj,2025-08-12T07:22:41.976Z,"52 km NW of Toyah, Texas",earthquake,0.94461060043864,0.82451920584047,0.2,13,reviewed,tx,tx
 2025-08-12T05:00:20.100Z,58.7033,-152.8043,39.7,1.4,ml,,,,0.55,ak,ak025aajcy6y,2025-08-12T05:02:15.426Z,"71 km N of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-08-12T04:37:02.310Z,36.549667358398,-121.05100250244,4.3600001335144,1.07,md,8,167,0.0302,0.18,nc,nc75222127,2025-08-12T04:38:39.408Z,"8 km E of Pinnacles, CA",earthquake,1.37,2.6400001,0.09,5,automatic,nc,nc
 2025-08-12T04:29:20.017Z,53.5075,-166.5271,63.8,3,ml,,,,0.45,ak,ak025aaixqh8,2025-08-12T06:47:38.463Z,"40 km S of Unalaska, Alaska",earthquake,,0.8,,,reviewed,ak,ak
@@ -45,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T02:04:46.360Z,46.857666666667,-121.7665,1.56,0.37,ml,12,75,0.0269,0.08,uw,uw62169666,2025-08-12T05:29:38.570Z,"23 km ENE of Ashford, Washington",earthquake,0.2,0.55,0.21514846706158,6,reviewed,uw,uw
 2025-08-12T01:56:14.160Z,17.9175,-66.917833333333,9.97,2.57,md,14,227,0.05511,0.1,pr,pr71492533,2025-08-12T02:06:08.800Z,"6 km S of Guánica, Puerto Rico",earthquake,0.59,0.44,0.11434638832356,7,reviewed,pr,pr
 2025-08-12T01:51:02.922Z,59.849,-152.8821,90.8,1.2,ml,,,,0.27,ak,ak025aaha3ys,2025-08-12T01:52:34.682Z,"59 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-08-12T01:45:13.570Z,35.32516667,-97.91833333,7.67,2.6,ml,58,56,0.06478728652,0.27,ok,ok2025pror,2025-08-12T04:41:35.738Z,"2 km ENE of Minco, Oklahoma",earthquake,,0.4,0.26,27,reviewed,ok,ok
+2025-08-12T01:45:13.570Z,35.32516667,-97.91833333,7.67,2.6,ml,58,56,0.06478728652,0.27,ok,ok2025pror,2025-08-12T07:14:37.482Z,"2 km ENE of Minco, Oklahoma",earthquake,,0.4,0.26,27,reviewed,ok,ok
 2025-08-12T01:42:15.857Z,52.9034,159.6022,69.416,4.7,mb,66,130,0.588,1,us,us6000r008,2025-08-12T02:04:28.040Z,"67 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.99,5.874,0.054,105,reviewed,us,us
 2025-08-12T01:39:11.810Z,38.790666666667,-122.7775,1.11,0.2,md,20,80,0.008519,0.04,nc,nc75222057,2025-08-12T06:16:18.325Z,"2 km NW of The Geysers, CA",earthquake,0.18,0.34,0.205,17,reviewed,nc,nc
 2025-08-12T01:26:55.320Z,37.581665039062,-121.84750366211,7.6799998283386,1.87,md,27,47,0.04277,0.18,nc,nc75222052,2025-08-12T01:28:33.142Z,"5 km SE of Sunol, CA",earthquake,0.3,0.449999988,0.13,24,automatic,nc,nc
@@ -97,7 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T19:45:16.280Z,35.32366667,-97.927,6.57,1.22,ml,61,55,0.06658693337,0.24,ok,ok2025prcr,2025-08-11T23:31:42.902Z,"1 km NE of Minco, Oklahoma",earthquake,,0.4,0.22,23,reviewed,ok,ok
 2025-08-11T19:40:16.355Z,32.125,-101.485,7.5928,0.9,ml,16,82,0.1,0.1,tx,tx2025ptailn,2025-08-11T23:41:16.485Z,"11 km W of Forsan, Texas",earthquake,0.7835332138773,0.76892999064731,0.2,6,reviewed,tx,tx
 2025-08-11T19:36:39.746Z,-26.8842,-71.1207,23.635,4.8,mwr,44,141,0.337,1,us,us6000qzvz,2025-08-11T23:38:21.836Z,"94 km NW of Copiapó, Chile",earthquake,4.63,4.732,0.043,53,reviewed,us,us
-2025-08-11T19:30:01.913Z,31.625,-104.469,3.1071,2.1,ml,29,104,0,0.3,tx,tx2025pszzpu,2025-08-11T20:00:29.402Z,"61 km S of Whites City, New Mexico",earthquake,0,1.2745561599731,0.1,20,automatic,tx,tx
+2025-08-11T19:30:02.541Z,31.666,-104.421,5.9973,2,ml,35,87,0,0.2,tx,tx2025pszzpu,2025-08-12T07:07:50.204Z,"56 km S of Whites City, New Mexico",earthquake,1.1418406000745,0.62944657041748,0.2,19,reviewed,tx,tx
 2025-08-11T19:19:51.820Z,38.801166534424,-122.81632995606,2.6500000953674,1.06,md,19,77,0.01265,0.02,nc,nc75221937,2025-08-11T19:21:27.915Z,"6 km NW of The Geysers, CA",earthquake,0.25,0.439999998,0.22,19,automatic,nc,nc
 2025-08-11T19:15:47.360Z,44.807166666667,-111.52483333333,11.38,1.24,ml,16,75,0.02633,0.22,mb,mb90106878,2025-08-11T21:44:52.010Z,"26 km W of Hebgen Lake Estates, Montana",earthquake,0.4,0.7,0.15876277952677,13,reviewed,mb,mb
 2025-08-11T19:15:01.764Z,41.2961,-116.6985,5.3,1.6,ml,4,260.51,0.374,0.147,nn,nn00902451,2025-08-12T02:08:58.581Z,"66 km NNE of Valmy, Nevada",earthquake,,4.2,0.06,2,reviewed,nn,nn
@@ -242,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T07:49:31.782Z,60.1902,-152.1722,82.7,1.8,ml,,,,0.44,ak,ak025a8xazwa,2025-08-11T14:33:18.337Z,"32 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-11T07:48:07.340Z,33.0043333,-116.4536667,9.84,0.42,ml,18,70,0.04858,0.15,ci,ci41258256,2025-08-11T23:24:28.370Z,"16 km ESE of Julian, CA",earthquake,0.24,0.55,0.185,12,reviewed,ci,ci
 2025-08-11T07:37:20.360Z,33.478,-116.5898333,10.38,0.61,ml,39,66,0.0196,0.17,ci,ci41258248,2025-08-11T12:59:33.140Z,"12 km SE of Anza, CA",earthquake,0.18,0.3,0.21,17,reviewed,ci,ci
-2025-08-11T07:19:34.030Z,33.474,-116.5713333,10.82,0.35,ml,23,77,0.03304,0.13,ci,ci41258240,2025-08-11T12:58:51.462Z,"13 km SE of Anza, CA",earthquake,0.2,0.35,0.146,10,reviewed,ci,ci
-2025-08-11T07:02:48.770Z,36.030166625977,-120.60516357422,-0.62999999523163,1.29,md,9,121,0.03924,0.14,nc,nc75221627,2025-08-11T07:04:24.142Z,"21 km NW of Parkfield, CA",earthquake,1.46,8.02000046,0.09,2,automatic,nc,nc
