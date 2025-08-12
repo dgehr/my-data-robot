@@ -270,4 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T23:06:59.696Z,31.599,-104.229,7.4841,1.6,ml,30,69,0.1,0.2,tx,tx2025ptheou,2025-08-11T23:32:30.437Z,"52 km NW of Toyah, Texas",earthquake,0.89519565324104,0.98903562473029,0.1,14,reviewed,tx,tx
 2025-08-11T22:59:01.455Z,32.546,-101.142,4.8096,1.5,ml,17,70,0.1,0.2,tx,tx2025ptgxsj,2025-08-12T00:27:44.786Z,"24 km NNW of Westbrook, Texas",earthquake,0.96606940143382,1.9526714072186,0.2,13,reviewed,tx,tx
 2025-08-11T22:57:01.620Z,44.808666666667,-111.51183333333,13.77,0.01,ml,5,106,0.03569,0.15,mb,mb90106963,2025-08-12T13:48:28.890Z,"25 km W of Hebgen Lake Estates, Montana",earthquake,0.89,1.57,0.27071505868507,4,reviewed,mb,mb
-2025-08-11T22:50:44.720Z,33.2008333,-115.999,6.93,0.64,ml,18,90,0.03258,0.14,ci,ci41258808,2025-08-12T21:19:56.960Z,"12 km SSW of Salton City, CA",earthquake,0.26,0.46,0.137,8,reviewed,ci,ci
