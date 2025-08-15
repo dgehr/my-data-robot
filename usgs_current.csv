@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-15T05:36:16.538Z,60.9967,-147.0601,20.1,1.2,ml,,,,0.39,ak,ak025afi6p6d,2025-08-15T05:37:48.471Z,"25 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-15T05:21:05.947Z,58.2478,-138.0123,0.1,2.6,ml,,,,0.96,ak,ak025afi3gma,2025-08-15T05:23:11.693Z,"98 km W of Elfin Cove, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-15T05:17:27.402Z,60.4164,-152.0006,78.7,1.4,ml,,,,0.3,ak,ak025afi2nes,2025-08-15T05:19:31.575Z,"38 km W of Cohoe, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-08-15T05:03:08.350Z,38.807666778565,-122.81700134277,3.170000076294,0.66,md,11,109,0.009589,0.01,nc,nc75223987,2025-08-15T05:04:45.362Z,"6 km NW of The Geysers, CA",earthquake,0.39,0.75999999,0.36,13,automatic,nc,nc
 2025-08-15T04:57:58.090Z,38.813167572021,-122.8184967041,2.5999999046326,1.07,md,15,59,0.009385,0.02,nc,nc75223982,2025-08-15T04:59:36.385Z,"7 km NW of The Geysers, CA",earthquake,0.29,0.800000012,0.32,17,automatic,nc,nc
@@ -12,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T04:22:53.870Z,38.94966506958,-123.14649963379,4.210000038147,1.84,md,12,75,0.03701,0.06,nc,nc75223977,2025-08-15T04:24:30.991Z,"20 km NNW of Cloverdale, CA",earthquake,0.33,0.639999986,0.07,12,automatic,nc,nc
 2025-08-15T04:10:17.120Z,19.182167053223,-155.48966979981,28.579999923706,2.19,ml,60,85,0.03724,0.119999997,hv,hv74752777,2025-08-15T04:14:15.220Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.36,0.460000008,0.4,18,automatic,hv,hv
 2025-08-15T04:08:25.116Z,62.7197,-151.2452,87.9,1.6,ml,,,,0.4,ak,ak025afhfa6n,2025-08-15T04:10:30.787Z,"35 km NW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-08-15T04:05:37.480Z,35.496166229248,-120.80416870117,7.6999998092651,2.39,md,42,46,0.08019,0.06,nc,nc75223972,2025-08-15T05:12:10.155Z,"10 km ENE of Cayucos, CA",earthquake,0.19,0.860000014,0.13,42,automatic,nc,nc
+2025-08-15T04:05:37.480Z,35.496166229248,-120.80416870117,7.6999998092651,2.39,md,42,46,0.08019,0.06,nc,nc75223972,2025-08-15T05:37:21.466Z,"10 km ENE of Cayucos, CA",earthquake,0.19,0.860000014,0.13,42,automatic,nc,nc
 2025-08-15T03:57:24.260Z,33.3738333,-116.2748333,12.46,1.99,ml,78,32,0.09042,0.2,ci,ci41261152,2025-08-15T04:13:21.746Z,"16 km NE of Borrego Springs, CA",earthquake,0.14,0.58,0.164,26,automatic,ci,ci
 2025-08-15T03:45:36.630Z,33.4861667,-116.698,13.29,0.56,ml,9,223,0.09381,0.14,ci,ci41261144,2025-08-15T03:49:26.496Z,"8 km SSW of Anza, CA",earthquake,2.9,2.84,0.118,5,automatic,ci,ci
 2025-08-15T03:37:39.084Z,31.637,-104.487,3.9493,1.7,ml,24,105,0,0.4,tx,tx2025pzdimg,2025-08-15T04:01:00.800Z,"60 km S of Whites City, New Mexico",earthquake,0,1.4146920442581,0.1,15,automatic,tx,tx
@@ -59,10 +61,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T00:05:00.530Z,33.2615,-116.4128333,4.77,0.6,ml,27,57,0.007602,0.14,ci,ci41261032,2025-08-15T00:08:40.165Z,"4 km W of Borrego Springs, CA",earthquake,0.17,0.2,0.118,9,automatic,ci,ci
 2025-08-15T00:01:50.840Z,51.81,-178.81783333333,11.2,0.32,ml,5,181,0.01186,0.13,av,av93716588,2025-08-15T03:55:54.950Z,"150 km W of Adak, Alaska",earthquake,1.69,0.71,0.16909066602981,5,reviewed,av,av
 2025-08-14T23:58:22.817Z,64.9394,-147.2951,0,1.4,ml,,,,0.7,ak,ak025ae5hvt5,2025-08-15T00:00:36.375Z,"14 km WNW of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-08-14T23:47:16.924Z,39.1375,-99.1864,9.258,2.6,mb_lg,21,68,0.537,0.5,us,us6000r0vd,2025-08-15T01:29:09.913Z,"14 km SE of Plainville, Kansas",earthquake,2.73,7.586,0.057,81,reviewed,us,us
+2025-08-14T23:47:16.484Z,39.1263,-99.1788,5,2.6,mb_lg,22,56,0.536,0.34,us,us6000r0vd,2025-08-15T05:35:14.598Z,"14 km WSW of Natoma, Kansas",earthquake,3.22,2,0.058,79,reviewed,us,us
 2025-08-14T23:32:29.680Z,33.7146667,-117.3315,-0.5,1.27,ml,28,52,0.03991,0.19,ci,ci41261024,2025-08-14T23:49:50.865Z,"5 km N of Lake Elsinore, CA",quarry blast,0.28,31.61,0.155,37,reviewed,ci,ci
 2025-08-14T23:15:20.101Z,31.683,-104.441,4.7061,2,ml,24,56,0,0.4,tx,tx2025pyuqku,2025-08-15T00:01:09.722Z,"54 km S of Whites City, New Mexico",earthquake,0,1.1696881055832,0.2,16,automatic,tx,tx
 2025-08-14T23:13:00.707Z,31.672,-104.437,6.5982,1.7,ml,22,58,0,0.4,tx,tx2025pyuoky,2025-08-15T00:00:50.859Z,"56 km S of Whites City, New Mexico",earthquake,0,2.3013644218445,0.2,14,automatic,tx,tx
+2025-08-14T23:12:39.005Z,50.6948,157.9305,35,4.9,mb,45,93,2.374,0.74,us,us6000r0v9,2025-08-15T05:32:47.040Z,"127 km E of Severo-Kuril’sk, Russia",earthquake,5,1.895,0.057,97,reviewed,us,us
 2025-08-14T23:11:36.027Z,31.613,-103.867,5,1.6,ml,16,160,0.1,0.8,tx,tx2025pyuniw,2025-08-14T23:20:21.085Z,"27 km WSW of Mentone, Texas",earthquake,0,,0.1,11,automatic,tx,tx
 2025-08-14T23:10:50.960Z,61.629,-147.4983,17.1,2.5,ml,,,,0.79,ak,ak025ae57nl5,2025-08-14T23:12:36.258Z,"21 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-14T23:10:41.412Z,31.68,-104.425,6.4146,3,ml,33,83,0,0.1,tx,tx2025pyumjw,2025-08-15T05:19:51.040Z,"55 km S of Whites City, New Mexico",earthquake,0.68845700062637,0.42896407786276,0.2,30,reviewed,tx,tx
@@ -308,6 +311,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-14T05:56:10.847Z,60.1731,-152.5425,109,1.8,ml,,,,0.73,ak,ak025adurmkc,2025-08-14T05:59:59.796Z,"50 km WNW of Ninilchik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-08-14T05:51:48.897Z,35.8978,-97.3357,11.479,1.8,ml,26,47,0.163,0.28,us,us6000r0lc,2025-08-14T10:45:11.693Z,"8 km ENE of Guthrie, Oklahoma",earthquake,1.14,7.376,0.06,36,reviewed,us,us
 2025-08-14T05:40:58.820Z,33.3876667,-116.3815,11.02,0.69,ml,41,44,0.06195,0.22,ci,ci41260504,2025-08-14T18:48:46.895Z,"15 km N of Borrego Springs, CA",earthquake,0.24,0.45,0.107,15,reviewed,ci,ci
-2025-08-14T05:38:19.400Z,39.026833333333,-111.38416666667,-2.06,1.32,md,5,134,0.03529,0.01,uu,uu80113796,2025-08-14T13:34:17.710Z,"16 km NW of Emery, Utah",earthquake,0.85,0.61,0.29910718037337,4,reviewed,uu,uu
-2025-08-14T05:37:35.270Z,37.281333333333,-111.75266666667,6,1.49,ml,8,158,0.6291,0.2,uu,uu80004483,2025-08-14T15:15:42.100Z,"23 km NNW of Big Water, Utah",earthquake,1.12,31.61,0.11005482279148,6,reviewed,uu,uu
-2025-08-14T05:35:26.792Z,61.3734,-149.7354,22.4,1.7,ml,,,,0.72,ak,ak025adun5rb,2025-08-14T05:37:44.860Z,"9 km S of Knik, Alaska",earthquake,,0.3,,,automatic,ak,ak
