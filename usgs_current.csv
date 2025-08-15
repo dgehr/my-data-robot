@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-15T16:43:29.100Z,33.6764984,-116.8006668,16.34,3.57,mlr,111,13,0.0996,0.2,ci,ci41261536,2025-08-15T16:47:31.893Z,"10 km SW of Idyllwild, CA",earthquake,0.21,0.6,0.25,14,reviewed,ci,ci
+2025-08-15T16:50:36.450Z,38.80016708374,-122.81966400147,3.0199999809265,0.79,md,9,82,0.01143,0.02,nc,nc75224162,2025-08-15T16:52:13.992Z,"6 km NW of The Geysers, CA",earthquake,0.55,0.970000029,0.31,13,automatic,nc,nc
+2025-08-15T16:43:29.100Z,33.6764984,-116.8006668,16.34,3.57,mlr,111,13,0.0996,0.2,ci,ci41261536,2025-08-15T16:54:23.220Z,"10 km SW of Idyllwild, CA",earthquake,0.21,0.6,0.25,14,reviewed,ci,ci
 2025-08-15T16:37:18.160Z,19.159000396729,-155.49783325195,30.030000686646,2.21,ml,54,176,0.03396,0.140000001,hv,hv74753182,2025-08-15T16:40:36.830Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.55,0.620000005,0.33,18,automatic,hv,hv
 2025-08-15T16:33:23.640Z,34.0708333,-118.2605,5.63,1.26,ml,9,170,0.1085,0.25,ci,ci41261528,2025-08-15T16:47:50.436Z,"0 km WSW of Echo Park, CA",earthquake,1.08,1.74,0.224,8,automatic,ci,ci
-2025-08-15T16:31:05.570Z,34.147,-117.4158333,5.36,2.7,ml,139,16,0.04649,0.2,ci,ci41261504,2025-08-15T16:47:19.000Z,"6 km NW of Rialto, CA",earthquake,0.1,0.38,0.142,25,automatic,ci,ci
+2025-08-15T16:31:05.570Z,34.147,-117.4158333,5.36,2.7,ml,139,16,0.04649,0.2,ci,ci41261504,2025-08-15T16:55:04.765Z,"6 km NW of Rialto, CA",earthquake,0.1,0.38,0.142,25,automatic,ci,ci
 2025-08-15T16:09:15.750Z,33.4626667,-116.4356667,12.35,2.06,ml,84,23,0.1472,0.2,ci,ci41261488,2025-08-15T16:20:07.560Z,"24 km NNW of Borrego Springs, CA",earthquake,0.13,0.54,0.171,26,automatic,ci,ci
 2025-08-15T16:00:14.110Z,33.4633333,-116.433,11.6,1.38,ml,61,24,0.147,0.2,ci,ci41261480,2025-08-15T16:04:04.255Z,"24 km NNW of Borrego Springs, CA",earthquake,0.16,0.69,0.203,26,automatic,ci,ci
 2025-08-15T15:56:16.342Z,59.8106,-152.0675,49.5,1.6,ml,,,,0.52,ak,ak025afo9bj6,2025-08-15T15:58:21.618Z,"13 km WNW of Anchor Point, Alaska",earthquake,,2.3,,,automatic,ak,ak
