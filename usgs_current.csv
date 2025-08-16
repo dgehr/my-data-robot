@@ -186,6 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T16:09:15.750Z,33.4626667,-116.4356667,12.35,2.06,ml,84,23,0.1472,0.2,ci,ci41261488,2025-08-15T16:20:07.560Z,"24 km NNW of Borrego Springs, CA",earthquake,0.13,0.54,0.171,26,automatic,ci,ci
 2025-08-15T16:01:46.282Z,32.141,-101.057,3.0716,1.7,mlv,10,128,0.2,0.2,tx,tx2025qabzjt,2025-08-15T23:12:56.965Z,"24 km S of Westbrook, Texas",earthquake,0,2.0513021945953,0.4,7,automatic,tx,tx
 2025-08-15T16:00:14.110Z,33.4633333,-116.433,11.6,1.38,ml,61,24,0.147,0.2,ci,ci41261480,2025-08-15T16:04:04.255Z,"24 km NNW of Borrego Springs, CA",earthquake,0.16,0.69,0.203,26,automatic,ci,ci
-2025-08-15T15:56:16.342Z,59.8106,-152.0675,49.5,1.6,ml,,,,0.52,ak,ak025afo9bj6,2025-08-15T15:58:21.618Z,"13 km WNW of Anchor Point, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2025-08-15T15:52:37.386Z,58.8465,-154.4941,109.4,2.2,ml,,,,0.28,ak,ak025afo8iai,2025-08-15T16:22:05.040Z,"67 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-08-15T15:50:19.798Z,45.6945,153.834,25.221,5.1,mww,45,128,7.77,0.57,us,us6000r0zd,2025-08-15T16:07:15.040Z,"east of the Kuril Islands",earthquake,10.33,6.706,0.073,18,reviewed,us,us
