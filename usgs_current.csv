@@ -198,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T11:24:51.937Z,60.9343,-145.2573,29.9,0.7,ml,,,,0.35,ak,ak025aflosy1,2025-08-15T11:26:47.835Z,"51 km NNE of Cordova, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-15T11:19:09.784Z,31.717,-104.294,6.4075,1.9,ml,27,73,0.1,0.1,tx,tx2025pzsqdj,2025-08-15T12:31:53.898Z,"51 km S of Whites City, New Mexico",earthquake,0.60568548504366,0.81627344731999,0,7,reviewed,tx,tx
 2025-08-15T11:09:37.770Z,38.816665649414,-122.80716705322,2.039999961853,0.75,md,6,114,0.007093,0.01,nc,nc75224072,2025-08-15T11:11:12.143Z,"6 km NW of The Geysers, CA",earthquake,0.63,1.54999995,0.13,9,automatic,nc,nc
-2025-08-15T10:59:52.090Z,38.832832336426,-122.87433624268,2.7400000095367,1.65,md,32,67,0.008431,0.02,nc,nc75224067,2025-08-15T11:02:56.840Z,"12 km NW of The Geysers, CA",earthquake,0.22,0.340000004,0.14,30,automatic,nc,nc
