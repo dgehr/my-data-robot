@@ -177,4 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T18:16:36.550Z,34.0873333,-117.9516667,8.55,1.58,ml,17,53,0.05607,0.27,ci,ci40399522,2025-08-16T00:05:59.664Z,"1 km ENE of Baldwin Park, CA",quarry blast,0.6,1.13,0.315,38,automatic,ci,ci
 2025-08-15T18:05:20.982Z,60.1126,-139.0981,0,1.6,ml,,,,0.76,ak,ak025afpqp6q,2025-08-15T18:07:25.811Z,"72 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-15T18:00:35.020Z,36.1698333,-117.9825,1.98,0.7,ml,19,71,0.1157,0.16,ci,ci41261608,2025-08-15T18:04:01.978Z,"13 km S of Olancha, CA",earthquake,0.28,0.87,0.272,10,automatic,ci,ci
-2025-08-15T17:52:54.300Z,38.819499969482,-122.79866790772,2.329999923706,1.03,md,24,30,0.009722,0.02,nc,nc75224187,2025-08-15T17:54:29.491Z,"6 km NNW of The Geysers, CA",earthquake,0.2,0.409999996,0.28,23,automatic,nc,nc
