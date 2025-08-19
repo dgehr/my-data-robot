@@ -237,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-18T22:19:23.258Z,42.0843,140.5321,131.404,5.1,mww,116,20,1.354,0.5,us,us6000r1yj,2025-08-19T01:56:27.040Z,"24 km WNW of Shikabe, Japan",earthquake,7.22,4.533,0.078,16,reviewed,us,us
 2025-08-18T22:13:49.905Z,63.4113,-151.1034,0.8,1,ml,,,,0.45,ak,ak025akqs8o6,2025-08-18T22:21:59.276Z,"34 km ESE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-18T22:00:31.490Z,47.185833333333,-121.92233333333,-0.77,1.66,ml,20,105,0.04539,0.23,uw,uw62164912,2025-08-19T04:53:51.318Z,"5 km ESE of Enumclaw, Washington",explosion,0.49,31.61,0.067300688100954,11,reviewed,uw,uw
-2025-08-18T21:56:02.270Z,38.827167510986,-122.82333374023,0.8299999833107,0.75,md,8,114,0.009992,0.02,nc,nc75225567,2025-08-18T21:57:38.362Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.99000001,0.59,8,automatic,nc,nc
