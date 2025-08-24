@@ -76,12 +76,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T11:51:31.050Z,38.828998565674,-122.85116577148,1.6399999856949,0.59,md,8,91,0.004688,0.01,nc,nc75228062,2025-08-24T11:53:05.810Z,"10 km NW of The Geysers, CA",earthquake,0.36,0.970000029,0.29,9,automatic,nc,nc
 2025-08-24T11:45:41.440Z,60.699,-152.513,106.4,1.6,ml,,,,0.35,ak,ak025auhnem8,2025-08-24T11:48:11.586Z,"65 km W of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-24T11:41:56.020Z,18.0265,-68.7603,87,3.94,md,16,199,0.6173,0.42,pr,pr2025236000,2025-08-24T12:26:27.129Z,"42 km SSW of Boca de Yuma, Dominican Republic",earthquake,2.33,2.86,0.11,14,reviewed,pr,pr
+2025-08-24T11:39:28.617Z,32.128,-101.091,2.5692,1.5,mlv,20,79,0.2,0.3,tx,tx2025qqgvpg,2025-08-24T23:15:59.162Z,"26 km E of Forsan, Texas",earthquake,0,1.3195633888245,0.1,12,automatic,tx,tx
 2025-08-24T11:35:11.874Z,34.39071655,-97.46665192,6.64074564,1.96,ml,12,87.65549469,0.02766246535,0.4010927243,ok,ok2025qogd,2025-08-24T11:40:40.589Z,"7 km SSE of Ratliff City, Oklahoma",earthquake,4.17456255,4.814898452,0.18,7,automatic,ok,ok
 2025-08-24T11:30:17.330Z,33.7011667,-116.7418333,16.1,0.36,ml,38,35,0.05024,0.16,ci,ci41273240,2025-08-24T13:18:48.910Z,"5 km SSW of Idyllwild, CA",earthquake,0.19,0.39,0.129,10,reviewed,ci,ci
 2025-08-24T11:21:45.750Z,34.0593333,-117.2548333,12.62,0.72,ml,50,32,0.1198,0.2,ci,ci41273232,2025-08-24T13:18:13.663Z,"1 km NNE of Loma Linda, CA",earthquake,0.18,0.48,0.203,24,reviewed,ci,ci
 2025-08-24T11:12:59.175Z,51.1398,-166.6954,4.2,2.6,ml,,,,0.85,ak,ak025auhgas5,2025-08-24T18:44:10.250Z,"249 km SE of Nikolski, Alaska",earthquake,,4.5,,,reviewed,ak,ak
 2025-08-24T11:12:24.508Z,51.3001,-177.3417,25.6,3.6,ml,,,,0.48,ak,ak025auhgb5h,2025-08-24T18:43:58.343Z,"80 km SW of Adak, Alaska",earthquake,,1.5,,,reviewed,ak,ak
 2025-08-24T11:10:46.570Z,38.5442,-116.3634,0.1,1.5,ml,9,248.13,1.125,0.374,nn,nn00903107,2025-08-24T11:13:45.711Z,"92 km NE of Tonopah, Nevada",earthquake,,4.2,0.54,5,automatic,nn,nn
+2025-08-24T11:09:52.770Z,32.099,-101.924,3.9928,1.1,mlv,12,67,0.2,0.5,tx,tx2025qqfwau,2025-08-24T23:15:12.446Z,"13 km WSW of Stanton, Texas",earthquake,0,1.5968444347382,0.4,8,automatic,tx,tx
 2025-08-24T11:06:11.301Z,60.4358,-147.8459,16.9,1.5,ml,,,,0.39,ak,ak025auhezd6,2025-08-24T11:08:07.106Z,"42 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-24T11:04:29.993Z,52.4752,160.8558,34.078,4.9,mb,93,117,1.449,0.72,us,us6000r3gu,2025-08-24T11:22:53.040Z,"164 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.1,5.385,0.042,177,reviewed,us,us
 2025-08-24T10:56:20.970Z,38.196166666667,-114.078,5.32,2.62,ml,17,109,0.38,0.15,uu,uu80114526,2025-08-24T14:26:43.770Z,"26 km NNE of Ursine, Nevada",earthquake,0.66,2.2,0.1397618512429,20,reviewed,uu,uu
@@ -186,6 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T23:37:25.181Z,18.9161,145.4843,223.449,4.5,mb,57,96,3.666,0.81,us,us6000r3e5,2025-08-23T23:54:40.040Z,"Pagan region, Northern Mariana Islands",earthquake,10.78,7.764,0.042,169,reviewed,us,us
 2025-08-23T23:29:36.990Z,34.0136667,-117.5868333,4.51,1.15,ml,31,64,0.02281,0.16,ci,ci41272720,2025-08-23T23:44:50.371Z,"6 km SE of Ontario, CA",earthquake,0.26,0.37,0.178,30,automatic,ci,ci
 2025-08-23T23:19:29.590Z,44.812333333333,-111.52816666667,10.78,0.89,ml,13,110,0.02516,0.11,mb,mb90108548,2025-08-24T18:28:47.390Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.27,0.6,0.16697474776367,11,reviewed,mb,mb
-2025-08-23T23:05:24.950Z,32.9108333,-115.5211667,8.98,1.56,ml,39,35,0.03455,0.32,ci,ci41272696,2025-08-23T23:08:58.598Z,"8 km S of Brawley, CA",earthquake,0.35,0.68,0.273,27,automatic,ci,ci
-2025-08-23T23:04:07.480Z,35.8631667,-117.692,8.61,0.44,ml,11,81,0.08047,0.12,ci,ci41272688,2025-08-23T23:07:46.591Z,"21 km ESE of Little Lake, CA",earthquake,0.28,0.88,0.211,8,automatic,ci,ci
-2025-08-23T23:03:54.880Z,38.839668273926,-122.77700042725,2.2799999713898,0.39,md,7,138,0.002967,0.01,nc,nc75227862,2025-08-23T23:05:33.556Z,"5 km NW of Cobb, CA",earthquake,1.6,2.77999997,0.3,8,automatic,nc,nc
