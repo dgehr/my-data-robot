@@ -191,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T22:35:06.560Z,36.544498443604,-121.10099792481,5.3600001335144,1.81,md,23,97,0.05997,0.23,nc,nc75227852,2025-08-23T22:36:48.613Z,"4 km E of Pinnacles, CA",earthquake,0.61,2.42000008,0.17,19,automatic,nc,nc
 2025-08-23T22:27:03.630Z,40.324333190918,-124.53566741943,10.560000419617,2.33,md,13,307,0.1519,0.05,nc,nc75227842,2025-08-23T22:47:22.419Z,"21 km W of Petrolia, CA",earthquake,2.08,0.699999988,0.06,10,automatic,nc,nc
 2025-08-23T22:12:24.705Z,60.9525,-147.705,6.5,0.7,ml,,,,0.84,ak,ak025at0gpuu,2025-08-23T22:14:46.720Z,"56 km W of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-08-23T21:50:11.029Z,61.4648,-146.5233,29.4,1.3,ml,,,,0.39,ak,ak025at03eem,2025-08-23T21:51:51.285Z,"38 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
