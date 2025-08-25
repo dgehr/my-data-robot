@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-25T11:07:09.550Z,33.4046667,-116.3633333,5.77,0.62,ml,37,92,0.06165,0.19,ci,ci41273976,2025-08-25T11:11:04.977Z,"17 km N of Borrego Springs, CA",earthquake,0.22,0.76,0.153,18,automatic,ci,ci
 2025-08-25T10:50:47.770Z,35.8061667,-117.6335,7.05,0.38,ml,13,54,0.03077,0.15,ci,ci41273968,2025-08-25T10:54:17.194Z,"21 km N of Ridgecrest, CA",earthquake,0.27,0.39,0.077,8,automatic,ci,ci
 2025-08-25T10:37:22.354Z,61.8584,-150.5187,51,1.2,ml,,,,0.63,ak,ak025aw4jkaz,2025-08-25T10:39:14.709Z,"28 km WNW of Willow, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-08-25T10:24:45.620Z,33.5076667,-116.5033333,14.13,0.52,ml,25,58,0.08362,0.12,ci,ci41273960,2025-08-25T10:28:15.075Z,"17 km ESE of Anza, CA",earthquake,0.19,0.43,0.098,12,automatic,ci,ci
@@ -174,9 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T11:35:11.874Z,34.39071655,-97.46665192,6.64074564,1.96,ml,12,87.65549469,0.02766246535,0.4010927243,ok,ok2025qogd,2025-08-24T11:40:40.589Z,"7 km SSE of Ratliff City, Oklahoma",earthquake,4.17456255,4.814898452,0.18,7,automatic,ok,ok
 2025-08-24T11:30:17.330Z,33.7011667,-116.7418333,16.1,0.36,ml,38,35,0.05024,0.16,ci,ci41273240,2025-08-24T13:18:48.910Z,"5 km SSW of Idyllwild, CA",earthquake,0.19,0.39,0.129,10,reviewed,ci,ci
 2025-08-24T11:21:45.750Z,34.0593333,-117.2548333,12.62,0.72,ml,50,32,0.1198,0.2,ci,ci41273232,2025-08-24T13:18:13.663Z,"1 km NNE of Loma Linda, CA",earthquake,0.18,0.48,0.203,24,reviewed,ci,ci
-2025-08-24T11:12:59.175Z,51.1398,-166.6954,4.2,2.6,ml,,,,0.85,ak,ak025auhgas5,2025-08-24T18:44:10.250Z,"249 km SE of Nikolski, Alaska",earthquake,,4.5,,,reviewed,ak,ak
-2025-08-24T11:12:24.508Z,51.3001,-177.3417,25.6,3.6,ml,,,,0.48,ak,ak025auhgb5h,2025-08-24T18:43:58.343Z,"80 km SW of Adak, Alaska",earthquake,,1.5,,,reviewed,ak,ak
-2025-08-24T11:10:46.570Z,38.5442,-116.3634,0.1,1.5,ml,9,248.13,1.125,0.374,nn,nn00903107,2025-08-24T11:13:45.711Z,"92 km NE of Tonopah, Nevada",earthquake,,4.2,0.54,5,automatic,nn,nn
-2025-08-24T11:09:52.770Z,32.099,-101.924,3.9928,1.1,mlv,12,67,0.2,0.5,tx,tx2025qqfwau,2025-08-24T23:15:12.446Z,"13 km WSW of Stanton, Texas",earthquake,0,1.5968444347382,0.4,8,automatic,tx,tx
-2025-08-24T11:06:11.301Z,60.4358,-147.8459,16.9,1.5,ml,,,,0.39,ak,ak025auhezd6,2025-08-24T11:08:07.106Z,"42 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-08-24T11:04:29.993Z,52.4752,160.8558,34.078,4.9,mb,93,117,1.449,0.72,us,us6000r3gu,2025-08-24T11:22:53.040Z,"164 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.1,5.385,0.042,177,reviewed,us,us
