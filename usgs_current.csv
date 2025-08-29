@@ -69,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T12:17:07.240Z,34.0393333,-117.2275,13.52,0.68,ml,38,39,0.08205,0.16,ci,ci41278184,2025-08-29T12:21:50.631Z,"3 km ESE of Loma Linda, CA",earthquake,0.19,0.5,0.185,24,automatic,ci,ci
 2025-08-29T12:16:28.300Z,32.7571667,-115.867,8.05,1.15,ml,33,52,0.1189,0.19,ci,ci41278176,2025-08-29T16:49:44.560Z,"12 km ENE of Ocotillo, CA",earthquake,0.2,0.88,0.209,16,reviewed,ci,ci
 2025-08-29T12:01:58.540Z,33.109,-116.6195,13.82,0.87,ml,49,28,0.03347,0.19,ci,ci41278168,2025-08-29T16:49:40.630Z,"4 km NNW of Julian, CA",earthquake,0.17,0.41,0.17,25,reviewed,ci,ci
-2025-08-29T12:00:30.020Z,33.9943333,-116.9501667,8.5,0.8,ml,41,64,0.09967,0.14,ci,ci41278160,2025-08-29T12:03:55.491Z,"8 km NNE of Beaumont, CA",earthquake,0.14,0.51,0.165,28,automatic,ci,ci
+2025-08-29T12:00:29.970Z,33.9951667,-116.9481667,8.38,0.82,ml,32,66,0.09866,0.13,ci,ci41278160,2025-08-29T20:52:58.065Z,"8 km NNE of Beaumont, CA",earthquake,0.17,0.66,0.172,22,reviewed,ci,ci
 2025-08-29T11:58:32.030Z,48.417333333333,-114.36833333333,8.69,0.87,ml,9,111,0.0791,0.04,mb,mb90109538,2025-08-29T18:19:25.710Z,"2 km WNW of Whitefish, Montana",earthquake,0.32,0.64,0.27436327238683,9,reviewed,mb,mb
 2025-08-29T11:58:20.844Z,36.7639,-116.2568,8.8,-0.5,ml,9,105.01,0.028,0.0448,nn,nn00903386,2025-08-29T14:06:28.226Z,"47 km ESE of Beatty, Nevada",earthquake,,1.6,0,1,reviewed,nn,nn
 2025-08-29T11:50:27.490Z,54.7535,-163.97,-2.3,0.1,ml,4,115,0.04687,0.2,av,av93740443,2025-08-29T20:12:43.150Z,"37 km WSW of False Pass, Alaska",earthquake,0.48,1.01,0.25805169989105,4,reviewed,av,av
@@ -290,4 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T21:11:47.880Z,34.386,-96.80416667,0,1.17,ml,26,142,0.2222563857,0.45,ok,ok2025qwhe,2025-08-29T13:00:49.225Z,"2 km SE of Mill Creek, Oklahoma",quarry blast,,0.8,0.23,13,reviewed,ok,ok
 2025-08-28T21:08:50.870Z,44.695166666667,-123.242,-0.34,1.24,ml,11,57,0.1184,0.45,uw,uw62177776,2025-08-28T23:34:29.470Z,"3 km NW of Adair Village, Oregon",explosion,0.77,31.61,0.067175310389005,6,reviewed,uw,uw
 2025-08-28T21:04:01.140Z,44.815833333333,-111.53116666667,11.69,0.54,ml,11,113,0.02461,0.23,mb,mb90109248,2025-08-28T22:26:06.350Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.46,0.77,0.11096269232747,6,reviewed,mb,mb
-2025-08-28T20:54:27.280Z,36.1766667,-118.0215,4.32,1.44,ml,26,49,0.1472,0.13,ci,ci41277656,2025-08-28T22:22:31.122Z,"12 km S of Olancha, CA",earthquake,0.2,1.28,0.183,28,reviewed,ci,ci
