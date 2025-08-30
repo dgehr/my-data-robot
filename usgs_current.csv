@@ -236,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T16:54:11.650Z,61.317,-152.31283333333,0.09,0.46,ml,12,103,0.06455,0.07,av,av93740728,2025-08-30T00:31:34.150Z,"68 km WNW of Beluga, Alaska",earthquake,0.17,1.14,0.15581547354245,13,reviewed,av,av
 2025-08-29T16:51:00.782Z,37.2553,141.6984,44.24,5,mb,56,138,2.886,0.89,us,us7000qrw7,2025-08-30T03:42:22.035Z,"61 km E of Tomioka, Japan",earthquake,6.4,7.008,0.047,145,reviewed,us,us
 2025-08-29T16:50:28.780Z,44.3565,-115.16766666667,5.01,1.5,ml,10,71,0.3404,0.17,mb,mb90109473,2025-08-29T17:50:21.440Z,"23 km NW of Stanley, Idaho",earthquake,0.56,10.84,0.26074785830641,11,reviewed,mb,mb
-2025-08-29T16:38:17.948Z,29.189,-97.474,10.0124,1.5,mlv,5,135,0.1,0.3,tx,tx2025qzvjmw,2025-08-29T22:07:32.127Z,"17 km ESE of Smiley, Texas",earthquake,0,5.6106810569763,0.5,5,automatic,tx,tx
