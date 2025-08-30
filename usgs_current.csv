@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-30T22:05:39.410Z,33.1501667,-116.1036667,3.7,1.27,ml,56,30,0.05417,0.2,ci,ci41279648,2025-08-30T22:09:15.465Z,"3 km ENE of Ocotillo Wells, CA",earthquake,0.14,0.38,0.074,26,automatic,ci,ci
+2025-08-30T22:24:46.861Z,59.3974,-153.7254,102.3,1.1,ml,,,,0.44,ak,ak025b4larm6,2025-08-30T22:26:50.395Z,"46 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-08-30T22:05:39.410Z,33.1501667,-116.1036667,3.7,1.27,ml,56,30,0.05417,0.2,ci,ci41279648,2025-08-30T22:16:33.670Z,"3 km ENE of Ocotillo Wells, CA",earthquake,0.14,0.38,0.074,26,automatic,ci,ci
 2025-08-30T21:44:29.318Z,31.672,-104.434,4.2067,1.5,ml,22,62,0,0.4,tx,tx2025rcbgae,2025-08-30T22:03:35.015Z,"56 km S of Whites City, New Mexico",earthquake,0,1.2636520862579,0.1,12,automatic,tx,tx
 2025-08-30T21:40:16.338Z,62.5343,-147.4346,1.2,1.7,ml,,,,1.06,ak,ak025b4ksp41,2025-08-30T21:42:09.401Z,"53 km WNW of Lake Louise, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-30T21:32:17.160Z,33.9545,-116.9213333,14.55,0.98,ml,46,24,0.0593,0.16,ci,ci41279632,2025-08-30T21:35:47.765Z,"5 km NW of Banning, CA",earthquake,0.16,0.32,0.234,14,automatic,ci,ci
@@ -174,6 +175,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T04:06:00.432Z,32.003,-101.383,9.4727,1.7,ml,12,67,0.2,0.1,tx,tx2025rasece,2025-08-30T14:25:11.338Z,"11 km S of Forsan, Texas",earthquake,0.79358659597498,1.8951188790215,0.1,15,reviewed,tx,tx
 2025-08-30T04:01:54.836Z,64.2843,-148.5623,0,1.7,ml,,,,0.46,ak,ak025b4ag1vf,2025-08-30T04:03:57.870Z,"30 km E of Clear, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-30T04:00:43.018Z,57.6417,-154.0386,41,1.5,ml,,,,0.88,ak,ak025b4aft8t,2025-08-30T04:02:27.118Z,"11 km NNW of Larsen Bay, Alaska",earthquake,,4.5,,,automatic,ak,ak
+2025-08-30T03:54:26.550Z,60.048,-153.09366666667,-0.89,-0.44,ml,5,122,0.01776,0.09,av,av93741198,2025-08-30T22:15:36.760Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.41,2.06,0.22494533296955,4,reviewed,av,av
 2025-08-30T03:54:23.290Z,37.542167663574,-118.82733154297,3.8800001144409,2.4,md,30,63,0.0478,0.05,nc,nc75230617,2025-08-30T06:07:18.363Z,"13 km W of Toms Place, CA",earthquake,0.21,0.709999979,0.21,34,automatic,nc,nc
 2025-08-30T03:50:25.150Z,17.6365,-66.313166666667,20.2,2.09,md,7,266,0.3817,0.22,pr,pr71493843,2025-08-30T04:05:37.760Z,"36 km SSW of Central Aguirre, Puerto Rico",earthquake,1.39,17.78,0.29404544583812,3,reviewed,pr,pr
 2025-08-30T03:30:40.360Z,46.240833333333,-111.38533333333,2.3,0.85,ml,11,86,0.1513,0.08,mb,mb90109683,2025-08-30T20:03:56.550Z,"8 km NNE of Toston, Montana",earthquake,0.38,1.16,0.13445487644429,8,reviewed,mb,mb
@@ -231,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T22:46:31.650Z,33.5353333,-116.7121667,3.59,0.57,ml,14,76,0.0366,0.07,ci,ci41278856,2025-08-29T23:17:33.191Z,"4 km WSW of Anza, CA",earthquake,0.15,0.3,0.104,12,reviewed,ci,ci
 2025-08-29T22:44:18.170Z,36.119,-117.887,4.54,1.72,ml,35,49,0.02606,0.15,ci,ci41278848,2025-08-29T22:58:31.783Z,"10 km NE of Coso Junction, CA",earthquake,0.17,0.27,0.256,25,reviewed,ci,ci
 2025-08-29T22:32:11.041Z,31.652,-104.446,5.741,1.7,ml,19,81,0,0.3,tx,tx2025rahchc,2025-08-30T15:24:50.687Z,"58 km S of Whites City, New Mexico",earthquake,1.6893609373302,0.68274070063591,0.2,15,reviewed,tx,tx
-2025-08-29T22:18:30.880Z,39.116165161133,-123.04383087158,13.220000267029,1.43,md,10,87,0.02892,0.33,nc,nc75230532,2025-08-30T00:57:18.063Z,"11 km ESE of Talmage, CA",earthquake,1.02,1.95000005,0.23,6,automatic,nc,nc
