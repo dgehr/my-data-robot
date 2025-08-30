@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-30T15:52:46.930Z,36.817165374756,-120.80883026123,0.12999999523163,1.32,md,8,108,0.1543,0.18,nc,nc75230872,2025-08-30T15:54:26.918Z,"21 km SW of South Dos Palos, CA",earthquake,1.06,13.96,0.05,4,automatic,nc,nc
+2025-08-30T15:49:36.400Z,38.826168060303,-122.8553314209,2.5199999809265,0.35,md,11,155,0.001828,0.01,nc,nc75230867,2025-08-30T15:54:24.123Z,"10 km NW of The Geysers, CA",earthquake,0.4,0.649999976,0.23,11,automatic,nc,nc
 2025-08-30T15:05:15.703Z,62.1464,-149.483,40.2,1.5,ml,,,,0.52,ak,ak025b4h0lde,2025-08-30T15:07:10.744Z,"19 km E of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-08-30T15:05:04.260Z,33.3968333,-116.6678333,22.36,0.83,ml,16,101,0.112,0.33,ci,ci41279384,2025-08-30T15:08:33.661Z,"13 km NNW of Warner Springs, CA",earthquake,0.91,1.99,0.199,12,automatic,ci,ci
 2025-08-30T15:04:03.214Z,60.7229,-150.9536,62.5,1.8,ml,,,,0.34,ak,ak025b4h0cox,2025-08-30T15:05:24.794Z,"18 km E of Nikiski, Alaska",earthquake,,2,,,automatic,ak,ak
