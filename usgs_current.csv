@@ -233,6 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T17:26:37.160Z,44.82,-110.86016666667,6.88,0.99,ml,12,210,0.03241,0.06,uu,uu80115211,2025-08-29T19:35:52.500Z,"21 km SW of Mammoth, Wyoming",earthquake,0.41,0.57,0.43834609229722,5,reviewed,uu,uu
 2025-08-29T17:16:03.040Z,33.4771667,-116.5025,7.73,0.54,ml,21,59,0.08514,0.14,ci,ci41278512,2025-08-29T18:48:29.017Z,"18 km ESE of Anza, CA",earthquake,0.23,0.74,0.153,12,reviewed,ci,ci
 2025-08-29T17:09:21.202Z,59.9657,-152.6457,29.5,1.7,ml,,,,0.47,ak,ak025b2uozdk,2025-08-29T17:11:28.803Z,"50 km WNW of Anchor Point, Alaska",earthquake,,2.5,,,automatic,ak,ak
-2025-08-29T17:03:26.470Z,46.185,-121.87266666667,-1.23,0.65,ml,11,169,0.1385,0.15,uw,uw62178241,2025-08-29T18:22:11.540Z,"33 km NW of Trout Lake, Washington",explosion,0.58,31.61,0.098480813406909,5,reviewed,uw,uw
-2025-08-29T17:00:06.968Z,43.0735,-73.8591,0,2.1,mb_lg,34,68,0.37,0.64,us,us7000qrw9,2025-08-30T15:06:44.521Z,"4 km N of Milton, New York",quarry blast,1.43,1.852,0.51,1,reviewed,us,us
-2025-08-29T16:54:11.650Z,61.317,-152.31283333333,0.09,0.46,ml,12,103,0.06455,0.07,av,av93740728,2025-08-30T00:31:34.150Z,"68 km WNW of Beluga, Alaska",earthquake,0.17,1.14,0.15581547354245,13,reviewed,av,av
