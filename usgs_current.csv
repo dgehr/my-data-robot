@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T09:18:48.500Z,33.1045,-116.515,10.29,0.68,ml,40,52,0.06995,0.2,ci,ci41282856,2025-09-04T09:22:37.317Z,"9 km ENE of Julian, CA",earthquake,0.2,0.43,0.201,11,automatic,ci,ci
 2025-09-04T09:17:23.490Z,36.0233333,-117.8695,2.06,0.85,ml,29,48,0.02301,0.15,ci,ci41282848,2025-09-04T09:20:51.303Z,"8 km ESE of Coso Junction, CA",earthquake,0.16,0.17,0.193,17,automatic,ci,ci
 2025-09-04T08:51:05.580Z,36.108,-117.8581667,2.72,1.14,ml,32,43,0.009928,0.16,ci,ci41282840,2025-09-04T08:54:33.159Z,"11 km NE of Coso Junction, CA",earthquake,0.18,0.32,0.206,25,automatic,ci,ci
-2025-09-04T08:50:53.083Z,31.658,-104.398,4.4023,2.5,ml,35,88,0,0.4,tx,tx2025rkgfxz,2025-09-04T08:55:45.254Z,"57 km S of Whites City, New Mexico",earthquake,0,1.0031152963638,0.1,24,automatic,tx,tx
+2025-09-04T08:50:53.083Z,31.658,-104.398,4.4023,2.5,ml,35,88,0,0.4,tx,tx2025rkgfxz,2025-09-04T11:41:53.040Z,"57 km S of Whites City, New Mexico",earthquake,0,1.0031152963638,0.1,24,automatic,tx,tx
 2025-09-04T08:38:18.360Z,31.486166,-115.605835,10.23,2.14,ml,6,148,0.1792,0.03,ci,ci41282832,2025-09-04T08:42:01.093Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.48,2.99,0.288,6,automatic,ci,ci
 2025-09-04T08:31:55.620Z,35.931,-117.7155,2.92,1.2,ml,33,39,0.05547,0.16,ci,ci41282824,2025-09-04T08:35:35.876Z,"17 km E of Little Lake, CA",earthquake,0.16,0.56,0.181,26,automatic,ci,ci
 2025-09-04T08:29:19.229Z,35.29166031,-97.92577362,3.982638359,1.93,ml,14,69.14611816,0.09375081211,0.7050159387,ok,ok2025rico,2025-09-04T08:32:14.224Z,"2 km SE of Minco, Oklahoma",earthquake,3.468009224,2.670395979,0.32,12,automatic,ok,ok
