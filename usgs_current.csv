@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-04T04:54:11.610Z,33.379,-116.9441667,7.43,0.39,ml,23,63,0.07277,0.17,ci,ci41282760,2025-09-04T04:57:41.529Z,"8 km WNW of Palomar Observatory, CA",earthquake,0.24,0.65,0.11,6,automatic,ci,ci
+2025-09-04T04:45:54.670Z,18.029166666667,-66.787333333333,14.62,2.1,md,8,149,0.09554,0.23,pr,pr71494623,2025-09-04T04:54:52.160Z,"1 km NNE of Guayanilla, Puerto Rico",earthquake,0.9,1.64,0.10804331128117,3,reviewed,pr,pr
 2025-09-04T04:42:36.452Z,31.591,-104.333,3.3757,1.7,ml,31,96,0.1,0.3,tx,tx2025rjyaay,2025-09-04T04:45:19.285Z,"59 km WNW of Toyah, Texas",earthquake,0,1.1236661672592,0.2,23,automatic,tx,tx
-2025-09-04T04:34:12.260Z,62.0277,-150.3209,12.1,2.7,ml,,,,0.49,ak,ak025bckbroq,2025-09-04T04:50:26.412Z,"28 km WSW of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-09-04T04:37:49.091Z,11.6791,141.8786,10,5.1,mb,82,54,3.481,0.86,us,us7000qtpw,2025-09-04T04:53:43.040Z,"258 km NE of Fais, Micronesia",earthquake,7.93,1.836,0.05,130,reviewed,us,us
+2025-09-04T04:34:12.260Z,62.0277,-150.3209,12.1,2.7,ml,,,,0.49,ak,ak025bckbroq,2025-09-04T04:57:49.846Z,"28 km WSW of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-04T04:33:08.090Z,33.879,-116.0086667,1.98,1.63,ml,55,47,0.1216,0.17,ci,ci41282752,2025-09-04T04:36:37.902Z,"26 km NE of Indio, CA",earthquake,0.15,0.36,0.201,26,automatic,ci,ci
 2025-09-04T04:19:41.825Z,31.703,-104.185,3.7446,1.8,ml,33,59,0.1,0.4,tx,tx2025rjxgdl,2025-09-04T04:23:06.326Z,"55 km SSE of Whites City, New Mexico",earthquake,0,0.91514766216278,0.3,24,automatic,tx,tx
 2025-09-04T04:14:50.580Z,36.115,-117.8648333,2.43,0.73,ml,16,204,0.008476,0.08,ci,ci41282728,2025-09-04T04:18:19.281Z,"11 km NE of Coso Junction, CA",earthquake,0.67,0.34,0.281,14,automatic,ci,ci
