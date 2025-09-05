@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-05T18:47:28.110Z,34.1655,-117.9281667,1.21,1.05,ml,20,146,0.04817,0.21,ci,ci41284168,2025-09-05T18:51:06.582Z,"4 km NNW of Azusa, CA",earthquake,0.43,0.55,0.198,31,automatic,ci,ci
+2025-09-05T18:46:32.301Z,60.2533,-153.2283,141.6,1.2,ml,,,,0.23,ak,ak025beg9sse,2025-09-05T18:48:39.904Z,"60 km E of Port Alsworth, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-09-05T18:43:39.287Z,59.5068,-152.6698,68.6,1.2,ml,,,,0.62,ak,ak025beg966g,2025-09-05T18:45:56.379Z,"45 km WNW of Nanwalek, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-09-05T18:37:02.750Z,33.4981667,-116.8903333,11.24,0.27,ml,19,40,0.06866,0.1,ci,ci41284152,2025-09-05T18:40:46.807Z,"7 km NNW of Aguanga, CA",earthquake,0.17,0.43,0.048,7,automatic,ci,ci
 2025-09-05T18:36:48.674Z,60.0446,-152.858,117.6,1.6,ml,,,,0.31,ak,ak025beg7ow3,2025-09-05T18:38:43.782Z,"63 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -126,6 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-05T07:43:45.734Z,41.1372,-116.7126,11,2.7,ml,8,156.18,0.301,0.2074,nn,nn00903876,2025-09-05T15:37:43.832Z,"51 km NE of Valmy, Nevada",earthquake,,2.3,0.36,5,reviewed,nn,nn
 2025-09-05T07:38:06.187Z,32.101,-101.489,8.7646,0.8,ml,11,59,0.1,0.2,tx,tx2025rlznxg,2025-09-05T12:09:45.434Z,"11 km W of Forsan, Texas",earthquake,1.3366990102596,2.1219303312609,0.2,5,reviewed,tx,tx
 2025-09-05T07:32:45.990Z,34.3628333,-118.7366667,14.55,1.34,ml,46,31,0.08697,0.22,ci,ci41283696,2025-09-05T18:13:15.878Z,"8 km SE of Piru, CA",earthquake,0.23,0.5,0.158,39,reviewed,ci,ci
+2025-09-05T07:26:27.670Z,38.499333333333,-112.894,2,1.4,ml,20,55,0.003195,0.13,uu,uu80116686,2025-09-05T18:53:21.330Z,"15 km NE of Milford, Utah",earthquake,0.27,0.38,0.11727182118111,3,reviewed,uu,uu
 2025-09-05T07:23:28.487Z,64.937,-147.5843,8,0.9,ml,,,,1.25,ak,ak025be9l3dc,2025-09-05T07:25:25.138Z,"2 km SE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-05T07:20:11.739Z,31.612,-104.091,6.5997,1.5,ml,36,63,0,0.2,tx,tx2025rlyysk,2025-09-05T08:12:41.331Z,"43 km NW of Toyah, Texas",earthquake,0.4738309330526,0.38952878284546,0.1,15,reviewed,tx,tx
 2025-09-05T07:13:03.810Z,61.5638,-151.8765,12.3,0.8,ml,,,,0.15,ak,ak025be9iwb1,2025-09-05T07:14:38.854Z,"53 km SSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -180,6 +183,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-05T03:57:59.180Z,36.0233333,-117.7768333,1.89,0.59,ml,18,64,0.009567,0.11,ci,ci41283616,2025-09-05T04:01:27.727Z,"15 km NE of Little Lake, CA",earthquake,0.15,0.16,0.135,8,automatic,ci,ci
 2025-09-05T03:56:38.950Z,31.665,-104.339,7.0227,2.4,ml,38,68,0.1,0.2,tx,tx2025rlsfhx,2025-09-05T07:09:35.583Z,"56 km S of Whites City, New Mexico",earthquake,0.87164250628239,0.58443588410878,0.2,19,reviewed,tx,tx
 2025-09-05T03:55:44.110Z,33.372,-116.8666667,8.4,0.88,ml,47,26,0.01865,0.23,ci,ci41283608,2025-09-05T03:59:56.043Z,"2 km N of Palomar Observatory, CA",earthquake,0.2,0.57,0.159,29,automatic,ci,ci
+2025-09-05T03:50:18.400Z,54.7425,-163.98683333333,2.43,0.54,ml,5,100,0.03365,0.23,av,av93751403,2025-09-05T18:50:45.280Z,"39 km WSW of False Pass, Alaska",earthquake,0.73,2.2,0.59991448414228,5,reviewed,av,av
 2025-09-05T03:46:07.317Z,64.8244,-147.4901,13.5,0.4,ml,,,,0.25,ak,ak025be7c8sb,2025-09-05T03:47:53.723Z,"3 km NE of Badger, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-05T03:36:37.399Z,41.4304,-71.3902,9.436,1.8,mb_lg,15,213,0.494,0.55,us,us7000qu0b,2025-09-05T17:46:19.060Z,"5 km ESE of Narragansett, Rhode Island",earthquake,2.28,7.12,0.295,3,reviewed,us,us
 2025-09-05T03:29:02.426Z,28.742,-99.101,7.4104,1.7,ml,18,62,0.1,0.4,tx,tx2025rlrhoe,2025-09-05T11:17:43.051Z,"9 km NE of Hilltop, Texas",earthquake,1.4351467008919,1.5785268754833,0.2,10,reviewed,tx,tx
