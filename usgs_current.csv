@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-06T07:49:42.324Z,61.3768,-151.5945,19.7,1.2,ml,,,,0.34,ak,ak025bfxa1js,2025-09-06T07:51:08.164Z,"37 km NW of Beluga, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2025-09-06T07:49:18.038Z,60.2124,-141.0199,21.6,1.2,ml,,,,1.22,ak,ak025bfx9zob,2025-09-06T07:51:34.912Z,"103 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-06T07:44:53.870Z,38.783164978027,-122.76333618164,3.579999923706,1.11,md,22,69,0.01257,0.02,nc,nc75233772,2025-09-06T07:46:28.229Z,"1 km NNW of The Geysers, CA",earthquake,0.28,0.610000014,0.17,21,automatic,nc,nc
 2025-09-06T07:41:15.197Z,62.4444,-151.209,81.4,1.3,ml,,,,0.2,ak,ak025bfx89q7,2025-09-06T07:42:59.532Z,"23 km WSW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-06T07:38:51.420Z,35.739,-117.5695,4.06,0.7,ml,21,85,0.07989,0.16,ci,ci41284560,2025-09-06T07:42:40.710Z,"15 km WSW of Searles Valley, CA",earthquake,0.22,0.55,0.146,11,automatic,ci,ci
-2025-09-06T07:38:03.760Z,39.220165252685,-120.08366394043,2.960000038147,1.77,md,10,97,0.03517,0.15,nc,nc75233762,2025-09-06T07:40:48.306Z,"4 km WSW of Tahoe Vista, CA",earthquake,0.55,1.26999998,0.14,8,automatic,nc,nc
+2025-09-06T07:38:03.760Z,39.220165252685,-120.08366394043,2.960000038147,1.77,md,10,97,0.03517,0.15,nc,nc75233762,2025-09-06T07:57:15.472Z,"4 km WSW of Tahoe Vista, CA",earthquake,0.55,1.26999998,0.14,8,automatic,nc,nc
 2025-09-06T07:27:41.276Z,28.683,-98.145,10.8556,1.9,ml,6,126,0.1,0.3,tx,tx2025rnuyao,2025-09-06T07:29:44.315Z,"14 km WNW of Pawnee, Texas",earthquake,0,5.2386751174927,0.1,6,automatic,tx,tx
 2025-09-06T07:19:45.631Z,28.676,-98.14,9.8661,1.7,ml,5,137,0.1,0.4,tx,tx2025rnurfe,2025-09-06T07:21:54.272Z,"13 km W of Pawnee, Texas",earthquake,0,5.6151604652405,0.1,5,automatic,tx,tx
 2025-09-06T07:16:51.980Z,33.534,-116.7158333,5.46,0.83,ml,47,28,0.03609,0.18,ci,ci41284552,2025-09-06T07:21:03.749Z,"5 km WSW of Anza, CA",earthquake,0.15,0.41,0.129,26,automatic,ci,ci
