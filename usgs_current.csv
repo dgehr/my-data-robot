@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-10T15:51:56.320Z,33.4471664,-116.3841629,12.57,0.96,ml,22,98,0.1051,0.23,ci,ci41288144,2025-09-10T15:54:03.801Z,"21 km N of Borrego Springs, CA",earthquake,0.46,1.2,0.223,6,automatic,ci,ci
 2025-09-10T15:45:08.245Z,56.2689,-155.7457,25.8,2.7,ml,,,,0.67,ak,ak025bmo5yvc,2025-09-10T15:46:59.952Z,"122 km SW of Akhiok, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-10T15:14:15.420Z,17.920166666667,-67.025333333333,13.37,2.41,md,15,223,0.05219,0.09,pr,pr71495288,2025-09-10T15:43:43.800Z,"6 km SSE of La Parguera, Puerto Rico",earthquake,0.43,0.22,0.076169790419281,6,reviewed,pr,pr
 2025-09-10T15:12:27.290Z,38.839500427246,-122.811668396,1.9299999475479,0.72,md,9,83,0.01767,0.01,nc,nc75235967,2025-09-10T15:37:18.282Z,"8 km WNW of Cobb, CA",earthquake,0.33,0.829999983,0.05,10,automatic,nc,nc
@@ -222,6 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T16:02:03.036Z,31.675,-104.408,6.4075,1.2,ml,12,88,0,0.1,tx,tx2025rtzdxm,2025-09-09T16:40:14.924Z,"55 km S of Whites City, New Mexico",earthquake,0.87513607661047,0.69226613053969,0.1,24,reviewed,tx,tx
 2025-09-09T15:56:46.520Z,56.996833333333,-135.89266666667,12.6,0.16,ml,4,337,0.06553,0.06,av,av93758253,2025-09-10T01:35:33.300Z,"34 km W of Sitka, Alaska",earthquake,1.79,1.01,0.55353295701159,4,reviewed,av,av
 2025-09-09T15:56:08.400Z,38.825164794922,-122.79483032227,2.7699999809265,1.05,md,23,36,0.01204,0.02,nc,nc75235527,2025-09-09T16:22:17.328Z,"6 km WNW of Cobb, CA",earthquake,0.25,0.430000007,0.11,22,automatic,nc,nc
-2025-09-09T15:54:38.395Z,60.1181,-152.7153,110.1,3,ml,,,,0.45,ak,ak025bl0om6s,2025-09-10T15:19:17.040Z,"58 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-09-09T15:50:01.408Z,42.5239,-126.4272,10,2.7,ml,55,225,1.554,0.88,us,us7000qv0q,2025-09-10T15:08:56.040Z,"160 km W of Port Orford, Oregon",earthquake,6.79,2.01,0.035,110,reviewed,us,us
-2025-09-09T15:49:22.690Z,38.823501586914,-122.84549713135,2.079999923706,1.23,md,24,78,0.008185,0.02,nc,nc75235517,2025-09-09T17:12:19.569Z,"9 km NW of The Geysers, CA",earthquake,0.21,0.349999994,0.1,24,automatic,nc,nc
