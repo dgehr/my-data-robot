@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-11T22:49:36.790Z,36.0483322,-117.848999,1.89,1.11,ml,12,129,0.0526,0.08,ci,ci41289488,2025-09-11T22:51:43.264Z,"9 km E of Coso Junction, CA",earthquake,0.36,0.41,0.205,9,automatic,ci,ci
+2025-09-11T22:49:36.780Z,36.0486667,-117.8486667,2.02,1,ml,25,52,0.05303,0.11,ci,ci41289488,2025-09-11T22:53:06.851Z,"9 km E of Coso Junction, CA",earthquake,0.13,0.15,0.192,20,automatic,ci,ci
 2025-09-11T22:48:16.170Z,19.271667480469,-155.39433288574,32.590000152588,2.05,ml,53,99,0.03412,0.140000001,hv,hv74773692,2025-09-11T22:51:44.260Z,"11 km NE of Pāhala, Hawaii",earthquake,0.5,0.519999981,0.49,18,automatic,hv,hv
-2025-09-11T22:45:37.037Z,32.108,-102.137,3.8965,2.6,ml,78,32,0,0.4,tx,tx2025rydzll,2025-09-11T22:50:44.611Z,"13 km NNW of Midland, Texas",earthquake,0,0.58601063489914,0.2,55,automatic,tx,tx
+2025-09-11T22:45:37.037Z,32.108,-102.137,3.8965,2.6,ml,78,32,0,0.4,tx,tx2025rydzll,2025-09-11T22:55:44.989Z,"13 km NNW of Midland, Texas",earthquake,0,0.58601063489914,0.2,55,automatic,tx,tx
 2025-09-11T22:43:37.930Z,33.9605,-117.1233333,14.91,1.01,ml,33,50,0.1199,0.16,ci,ci41289480,2025-09-11T22:47:31.707Z,"7 km WSW of Calimesa, CA",earthquake,0.18,0.44,0.193,30,automatic,ci,ci
 2025-09-11T22:28:57.060Z,33.4686667,-116.4688333,12.34,0.92,ml,34,63,0.1144,0.19,ci,ci41289456,2025-09-11T22:32:28.554Z,"21 km ESE of Anza, CA",earthquake,0.23,0.65,0.084,19,automatic,ci,ci
 2025-09-11T22:26:15.680Z,37.946166992188,-118.55083465576,9.3800001144409,2.83,md,43,128,0.3068,0.14,nc,nc75236617,2025-09-11T22:49:38.355Z,"40 km SSW of Qualeys Camp, NV",earthquake,0.39,1.72000003,0.16,37,automatic,nc,nc
@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T22:11:05.890Z,36.0483333,-117.8528333,1.92,2.54,ml,39,40,0.05068,0.17,ci,ci41289440,2025-09-11T22:15:00.458Z,"9 km E of Coso Junction, CA",earthquake,0.17,0.22,0.239,25,automatic,ci,ci
 2025-09-11T22:06:44.090Z,33.4796667,-116.5825,11.31,0.64,ml,19,50,0.02227,0.14,ci,ci41289432,2025-09-11T22:10:19.737Z,"12 km SE of Anza, CA",earthquake,0.23,0.49,0.124,14,automatic,ci,ci
 2025-09-11T21:58:39.610Z,38.791000366211,-122.76866912842,1.3899999856949,0.78,md,8,106,0.01189,0.02,nc,nc75236592,2025-09-11T22:00:15.388Z,"2 km NNW of The Geysers, CA",earthquake,0.53,0.889999986,0.06,9,automatic,nc,nc
-2025-09-11T21:39:16.497Z,32.103,-102.139,4.0658,1.4,ml,44,40,0,0.5,tx,tx2025rybtvw,2025-09-11T22:00:37.698Z,"13 km NNW of Midland, Texas",earthquake,0,0.79686337709427,0.2,30,automatic,tx,tx
+2025-09-11T21:39:16.881Z,32.107,-102.141,6.8115,1.4,ml,40,38,0,0.2,tx,tx2025rybtvw,2025-09-11T22:57:36.093Z,"13 km NNW of Midland, Texas",earthquake,0.39188484458262,0.85746095928848,0.2,20,reviewed,tx,tx
 2025-09-11T21:31:51.720Z,19.126333236694,-155.39900207519,31.780000686646,2.18,ml,54,183,0.06631,0.129999995,hv,hv74773657,2025-09-11T21:35:31.160Z,"11 km SE of Pāhala, Hawaii",earthquake,0.58,0.610000014,0.77,6,automatic,hv,hv
 2025-09-11T21:29:54.182Z,63.915,-147.7604,7.8,1.2,ml,,,,0.56,ak,ak025bof6l2y,2025-09-11T21:32:33.073Z,"59 km E of Healy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-11T21:20:10.610Z,38.823165893555,-122.8433303833,1.3999999761581,0.55,md,6,169,0.006484,0.01,nc,nc75236577,2025-09-11T21:52:19.140Z,"9 km NW of The Geysers, CA",earthquake,0.67,1.08000004,0.13,6,automatic,nc,nc
@@ -241,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T23:21:58.290Z,38.531665802002,-122.60216522217,6.5999999046326,1.71,md,34,38,0.09226,0.14,nc,nc75236137,2025-09-11T02:22:17.963Z,"6 km SSW of Calistoga, CA",earthquake,0.33,1.05999994,0.16,32,automatic,nc,nc
 2025-09-10T23:19:04.690Z,61.9264,-150.561,13.8,1.7,ml,,,,0.43,ak,ak025bmsruth,2025-09-10T23:20:47.397Z,"34 km NW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-10T23:12:04.686Z,36.6624,-116.2603,3,0.8,ml,29,94.65,0.065,0.0663,nn,nn00904117,2025-09-10T23:56:24.617Z,"52 km ESE of Beatty, Nevada",earthquake,,1.4,0.26,9,reviewed,nn,nn
-2025-09-10T22:54:30.272Z,31.647,-104.256,7.5867,1.1,ml,22,67,0,0.1,tx,tx2025rwiofr,2025-09-11T14:22:36.804Z,"57 km NW of Toyah, Texas",earthquake,0.98695157610342,1.2824500106453,0.2,22,reviewed,tx,tx
