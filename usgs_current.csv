@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-11T03:47:40.388Z,36.7008,-115.7056,9.2,1.4,ml,26,161.67,0.214,0.2754,nn,nn00904129,2025-09-11T03:51:47.938Z,"14 km NNW of Indian Springs, Nevada",earthquake,,1.2,0.28,18,automatic,nn,nn
 2025-09-11T03:23:18.258Z,31.476,-103.92,4.8532,1.6,ml,12,74,0.1,0.4,tx,tx2025rwrlwh,2025-09-11T03:27:24.287Z,"21 km NW of Toyah, Texas",earthquake,0,1.5594127178192,0.1,8,automatic,tx,tx
 2025-09-11T03:14:58.065Z,-9.6564,112.8505,35,4.9,mb,38,78,1.744,1.05,us,us7000qvd6,2025-09-11T03:28:16.040Z,"160 km S of Dampit, Indonesia",earthquake,7.02,1.95,0.096,34,reviewed,us,us
 2025-09-11T03:14:34.510Z,38.836833953857,-122.80300140381,2.0499999523163,0.2,md,8,90,0.01001,0.01,nc,nc75236187,2025-09-11T03:37:19.488Z,"7 km WNW of Cobb, CA",earthquake,0.53,1.61000001,0.05,9,automatic,nc,nc
