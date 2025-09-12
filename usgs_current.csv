@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-12T19:23:15.170Z,35.0535,-118.3406667,0.56,1.19,ml,20,52,0.06276,0.16,ci,ci41290144,2025-09-12T19:26:58.963Z,"13 km SE of Tehachapi, CA",earthquake,0.23,0.47,0.142,28,automatic,ci,ci
 2025-09-12T19:09:31.716Z,60.5652,-142.6552,16,1.8,ml,,,,0.85,ak,ak025bq1eqb7,2025-09-12T19:11:49.854Z,"97 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-12T19:03:12.760Z,33.4215,-116.3736667,11.15,0.77,ml,44,53,0.07969,0.19,ci,ci41290128,2025-09-12T19:07:14.330Z,"18 km N of Borrego Springs, CA",earthquake,0.19,0.39,0.123,21,automatic,ci,ci
 2025-09-12T19:01:35.420Z,33.87,-117.506,1.23,0.86,ml,37,54,0.07298,0.19,ci,ci41290120,2025-09-12T19:05:26.320Z,"2 km ESE of Home Gardens, CA",earthquake,0.24,0.35,0.179,29,automatic,ci,ci
@@ -7,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T18:55:07.770Z,36.02783203125,-120.60633087158,-0.73000001907349,0.82,md,11,123,0.04171,0.12,nc,nc75236997,2025-09-12T18:56:46.450Z,"21 km NW of Parkfield, CA",earthquake,1.31,8.05000019,0.2,3,automatic,nc,nc
 2025-09-12T18:52:34.250Z,38.822834014893,-122.78800201416,0.61000001430511,1.01,md,13,74,0.01114,0.02,nc,nc75236992,2025-09-12T18:54:11.542Z,"6 km WNW of Cobb, CA",earthquake,0.26,0.600000024,0.24,14,automatic,nc,nc
 2025-09-12T18:39:00.900Z,33.4668333,-116.466,14.49,0.7,ml,26,64,0.1172,0.16,ci,ci41290096,2025-09-12T18:42:29.215Z,"22 km ESE of Anza, CA",earthquake,0.21,0.52,0.104,14,automatic,ci,ci
+2025-09-12T18:38:26.234Z,-10.3564,120.4812,44.512,4.6,mb,26,58,0.707,0.75,us,us7000qvrp,2025-09-12T19:25:10.040Z,"80 km SSE of Waingapu, Indonesia",earthquake,6.23,6.807,0.117,22,reviewed,us,us
 2025-09-12T18:32:44.545Z,61.7816,-148.4047,8.8,1.9,ml,,,,0.86,ak,ak025bq0y95y,2025-09-12T18:34:39.458Z,"3 km ESE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-09-12T18:30:09.860Z,19.398166656494,-155.28700256348,-0.5799999833107,1.89,ml,19,45,0.01047,0.25999999,hv,hv74774467,2025-09-12T18:33:03.770Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.25999999,0.2,13,automatic,hv,hv
 2025-09-12T18:27:48.097Z,32,-101.789,5,1.6,ml,7,154,0,0.7,tx,tx2025rzreeh,2025-09-12T18:29:10.253Z,"14 km S of Stanton, Texas",earthquake,0,,0.4,5,automatic,tx,tx
@@ -150,6 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T05:45:31.258Z,31.876,-103.922,6.9202,1.4,ml,25,45,0.1,0.1,tx,tx2025ryrwxs,2025-09-12T12:46:26.575Z,"35 km WNW of Mentone, Texas",earthquake,0.55679976423691,0.8227528492908,0.2,35,reviewed,tx,tx
 2025-09-12T05:39:31.150Z,35.8018333,-117.6411667,-0.32,1.94,ml,38,50,0.0381,0.26,ci,ci41289664,2025-09-12T05:43:07.199Z,"20 km N of Ridgecrest, CA",earthquake,0.24,0.5,0.11,25,automatic,ci,ci
 2025-09-12T05:30:10.415Z,32.357,-102.062,7.2754,0.6,ml,17,66,0,0.1,tx,tx2025ryrkbp,2025-09-12T12:57:53.633Z,"36 km NW of Stanton, Texas",earthquake,0.68949370633439,0.87594460641676,0.1,7,reviewed,tx,tx
+2025-09-12T05:29:21.000Z,46.6475,-120.5305,11.38,0.72,ml,13,96,0.121,0.25,uw,uw62179582,2025-09-12T19:21:21.630Z,"0 km S of Selah, Washington",earthquake,0.5,0.92,0.17815500328046,11,reviewed,uw,uw
 2025-09-12T05:24:11.930Z,46.6475,-120.53233333333,9.89,1.44,ml,16,96,0.09817,0.15,uw,uw62179577,2025-09-12T19:17:44.660Z,"0 km SSW of Selah, Washington",earthquake,0.34,0.64,0.17011161598171,16,reviewed,uw,uw
 2025-09-12T05:23:52.890Z,17.895166666667,-66.856333333333,16.1,2.01,md,7,235,0.0824,0.1,pr,pr71495418,2025-09-12T05:37:53.160Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.72,0.79,0.18861070885045,4,reviewed,pr,pr
 2025-09-12T05:20:32.150Z,36.0476667,-117.8503333,2.26,1.03,ml,25,49,0.0514,0.12,ci,ci41289648,2025-09-12T05:23:52.013Z,"9 km E of Coso Junction, CA",earthquake,0.14,0.16,0.268,20,automatic,ci,ci
