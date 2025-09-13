@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-13T15:40:24.480Z,33.4791679,-116.4228363,12.91,1.26,ml,17,81,0.1501,0.08,ci,ci41290776,2025-09-13T15:42:28.601Z,"23 km SSW of La Quinta, CA",earthquake,0.33,1.1,0.437,9,automatic,ci,ci
 2025-09-13T15:16:29.140Z,19.26549911499,-155.37832641602,0.68000000715256,2.18000007,md,54,131,0.03322,0.200000003,hv,hv74775102,2025-09-13T15:19:54.240Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.27,0.340000004,0.00999999978,5,automatic,hv,hv
 2025-09-13T15:11:44.169Z,35.65264893,-98.04473114,6.585471153,2.3,ml,25,49.71054077,0.1440982074,0.7226007988,ok,ok2025rzbj,2025-09-13T15:14:22.074Z,"8 km NE of Calumet, Oklahoma",earthquake,,3.776498505,0.3,21,automatic,ok,ok
 2025-09-13T15:09:10.660Z,38.825832366943,-122.85583496094,2.3900001049042,1.04,md,17,96,0.001893,0.02,nc,nc75237397,2025-09-13T15:32:18.492Z,"10 km NW of The Geysers, CA",earthquake,0.25,0.469999999,0.21,19,automatic,nc,nc
