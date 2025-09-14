@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-14T06:48:07.908Z,35.32404327,-97.94551849,6.563539028,1.64,ml,12,81.48948669,0.07044610381,0.3593235388,ok,ok2025sagg,2025-09-14T06:50:24.338Z,"1 km N of Minco, Oklahoma",earthquake,4.000957142,6.538459011,0.22,11,automatic,ok,ok
+2025-09-14T06:48:07.908Z,35.32404327,-97.94551849,6.563539028,1.64,ml,12,81.48948669,0.07044610381,0.3593235388,ok,ok2025sagg,2025-09-14T06:50:48.210Z,"1 km N of Minco, Oklahoma",earthquake,4.000957142,6.538459011,0.22,11,automatic,ok,ok
 2025-09-14T06:32:39.137Z,57.9635,-154.8084,74.2,1,ml,,,,0.14,ak,ak025bt4vqh5,2025-09-14T06:33:53.195Z,"48 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-14T06:31:47.240Z,63.6139,-149.6596,30.2,1.6,ml,,,,0.63,ak,ak025bt4vjdw,2025-09-14T06:34:13.361Z,"39 km WSW of Denali Park, Alaska",earthquake,,2,,,automatic,ak,ak
 2025-09-14T06:23:49.774Z,31.653,-104.336,3.225,2.1,ml,39,78,0.1,0.4,tx,tx2025sckqbj,2025-09-14T06:27:59.022Z,"58 km S of Whites City, New Mexico",earthquake,0,0.92675369977951,0.2,26,automatic,tx,tx
