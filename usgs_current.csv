@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-15T19:49:54.980Z,19.525499343872,-156.03300476074,1.2799999713898,2.72,ml,49,234,0.1476,0.319999993,hv,hv74776597,2025-09-15T19:53:56.540Z,"9 km SW of Kahaluu-Keauhou, Hawaii",earthquake,0.86,0.699999988,0.37,11,automatic,hv,hv
 2025-09-15T19:42:16.324Z,62.3108,-151.1824,119.6,1.6,ml,,,,1.17,ak,ak025bv07t8g,2025-09-15T19:45:21.828Z,"29 km SW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-09-15T19:38:31.734Z,60.7535,-149.5045,18.1,1.8,ml,,,,0.67,ak,ak025bv06zk5,2025-09-15T19:40:26.600Z,"15 km SSW of Sunrise, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-15T19:35:36.540Z,32.7851667,-115.4488333,15.65,2.4,ml,40,38,0.02017,0.28,ci,ci41291944,2025-09-15T19:46:03.620Z,"7 km WSW of Holtville, CA",earthquake,0.3,0.42,0.194,27,automatic,ci,ci
