@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-17T06:35:38.805Z,56.6187,-152.1292,0,4.7,ml,,,,0.87,ak,ak025by3iekl,2025-09-17T06:40:36.687Z,"96 km SE of Old Harbor, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-09-17T06:44:52.329Z,57.5908,-153.4923,40,2.2,ml,,,,0.99,ak,ak025by3kdkg,2025-09-17T06:46:57.674Z,"29 km E of Larsen Bay, Alaska",earthquake,,11.4,,,automatic,ak,ak
+2025-09-17T06:35:40.812Z,56.3453,-152.176,11.8,4.6,ml,,,,0.85,ak,ak025by3iekl,2025-09-17T06:51:17.645Z,"117 km SE of Old Harbor, Alaska",earthquake,,3.1,,,reviewed,ak,ak
 2025-09-17T06:10:07.030Z,35.8995,-117.6888333,3.29,0.55,ml,15,88,0.0575,0.1,ci,ci41292816,2025-09-17T06:13:37.724Z,"20 km ESE of Little Lake, CA",earthquake,0.16,0.56,0.126,11,automatic,ci,ci
 2025-09-17T05:59:14.150Z,33.1315,-116.0256667,8.01,0.88,ml,39,50,0.05805,0.23,ci,ci41292808,2025-09-17T06:02:46.388Z,"10 km E of Ocotillo Wells, CA",earthquake,0.24,0.81,0.137,12,automatic,ci,ci
 2025-09-17T05:53:42.960Z,35.6986667,-117.5163333,4.48,0.52,ml,25,68,0.08251,0.15,ci,ci41292800,2025-09-17T05:57:11.909Z,"13 km SW of Searles Valley, CA",earthquake,0.21,0.56,0.061,11,automatic,ci,ci
