@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-17T20:51:37.130Z,35.0460014,-118.3270035,0.63,1.54,ml,19,46,0.05655,0.2,ci,ci40440842,2025-09-17T20:53:43.799Z,"14 km W of Mojave, CA",earthquake,0.49,0.92,0.216,13,automatic,ci,ci
 2025-09-17T20:43:53.970Z,35.9194984,-117.7665024,2.05,1.34,ml,12,103,0.05114,0.03,ci,ci40440522,2025-09-17T20:46:12.972Z,"13 km E of Little Lake, CA",earthquake,0.37,0.6,0.289,10,automatic,ci,ci
 2025-09-17T20:38:24.090Z,33.9816666,-116.7099991,13.61,1.02,ml,21,98,0.07663,0.13,ci,ci40440362,2025-09-17T20:40:30.682Z,"10 km NE of Cabazon, CA",earthquake,0.46,0.95,0.214,4,automatic,ci,ci
 2025-09-17T20:35:11.354Z,57.4436,-154.7999,26.2,1.5,ml,,,,0.39,ak,ak025bybuffj,2025-09-17T20:37:15.508Z,"24 km SW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -10,11 +11,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T20:04:51.640Z,40.266998291016,-124.78466796875,6.9400000572205,2.41,md,19,301,0.3389,0.17,nc,nc75238907,2025-09-17T20:06:33.089Z,"43 km W of Petrolia, CA",earthquake,6.11,4.32000017,0.11,17,automatic,nc,nc
 2025-09-17T20:03:39.960Z,33.2625,-116.4133333,4.68,0.92,ml,41,40,0.006526,0.17,ci,ci40439722,2025-09-17T20:07:03.395Z,"4 km WNW of Borrego Springs, CA",earthquake,0.16,0.29,0.154,22,automatic,ci,ci
 2025-09-17T19:58:55.040Z,38.819831848145,-122.84100341797,2.1800000667572,0.74,md,6,163,0.01432,0.02,nc,nc75238902,2025-09-17T20:00:32.921Z,"9 km NW of The Geysers, CA",earthquake,0.85,1.20000005,0.17,7,automatic,nc,nc
-2025-09-17T19:56:15.940Z,34.1218333,-118.5048333,7.91,1.81,ml,58,123,0.04416,0.17,ci,ci40439570,2025-09-17T20:00:07.314Z,"4 km S of Encino, CA",earthquake,0.21,0.37,0.136,28,automatic,ci,ci
+2025-09-17T19:56:15.940Z,34.1218333,-118.5048333,7.91,1.81,ml,58,123,0.04416,0.17,ci,ci40439570,2025-09-17T20:50:50.761Z,"4 km S of Encino, CA",earthquake,0.21,0.37,0.136,28,automatic,ci,ci
 2025-09-17T19:51:40.060Z,38.80583190918,-122.77649688721,2.0099999904633,1.38,md,18,72,0.008106,0.02,nc,nc75238897,2025-09-17T19:53:18.034Z,"4 km NNW of The Geysers, CA",earthquake,0.26,0.370000005,0.17,20,automatic,nc,nc
 2025-09-17T19:46:11.900Z,19.193832397461,-155.49049377441,32.29999923706,1.87,md,52,75,0.04669,0.129999995,hv,hv74778197,2025-09-17T19:50:00.030Z,"1 km SW of Pāhala, Hawaii",earthquake,0.43,0.569999993,0.129999995,3,automatic,hv,hv
 2025-09-17T19:34:35.662Z,32.746,-100.662,7.6416,1.6,ml,16,72,0.1,0.3,tx,tx2025sixzsr,2025-09-17T20:16:26.550Z,"15 km NE of Hermleigh, Texas",earthquake,0.9805168194899,1.5762692664885,0.1,6,reviewed,tx,tx
-2025-09-17T19:34:34.014Z,32.744,-100.669,11.2055,1.6,ml,13,154,0.1,0.7,tx,tx2025siyaco,2025-09-17T20:47:31.765Z,"14 km NE of Hermleigh, Texas",earthquake,0,2.1772511005402,0.1,8,automatic,tx,tx
+2025-09-17T19:34:34.014Z,32.744,-100.669,11.2055,1.6,ml,13,154,0.1,0.7,tx,tx2025siyacp,2025-09-17T20:55:14.808Z,"14 km NE of Hermleigh, Texas",earthquake,0,2.1772511005402,0.1,8,automatic,tx,tx
+2025-09-17T19:34:15.843Z,32.749,-100.664,6.5186,1.2,ml,11,72,0.1,0.1,tx,tx2025siyaco,2025-09-17T20:54:12.801Z,"15 km NE of Hermleigh, Texas",earthquake,1.017092343909,1.9772759891008,0.1,7,reviewed,tx,tx
 2025-09-17T19:29:41.072Z,32.362,-102.06,6.9336,1.7,ml,44,61,0,0.2,tx,tx2025sixvst,2025-09-17T20:06:22.377Z,"36 km NW of Stanton, Texas",earthquake,0.34743311924091,0.644739864501,0.1,18,reviewed,tx,tx
 2025-09-17T19:29:34.749Z,62.1631,-152.062,108.1,2.7,ml,,,,0.36,ak,ak025byb7rci,2025-09-17T19:31:07.601Z,"39 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-17T19:26:46.859Z,60.1502,-152.5713,88.2,1,ml,,,,0.46,ak,ak025byb754d,2025-09-17T19:28:36.343Z,"51 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -53,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T16:12:23.070Z,39.845832824707,-123.36499786377,5.960000038147,2.02,md,25,64,0.06128,0.11,nc,nc75238817,2025-09-17T17:57:18.121Z,"12 km NW of Covelo, CA",earthquake,0.26,0.74000001,0.08,15,automatic,nc,nc
 2025-09-17T16:07:17.001Z,59.7434,-153.6079,130.2,1.9,ml,,,,0.62,ak,ak025by9apec,2025-09-17T16:09:32.831Z,"28 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-17T16:04:36.780Z,39.845001220703,-123.34583282471,5.5799999237061,1.76,md,18,93,0.0662,0.16,nc,nc75238807,2025-09-17T17:42:17.027Z,"10 km NW of Covelo, CA",earthquake,0.44,1.25999999,0.11,12,automatic,nc,nc
-2025-09-17T16:00:33.130Z,33.7101667,-116.8391667,14.07,1.75,ml,76,21,0.07424,0.19,ci,ci41293112,2025-09-17T18:01:52.443Z,"6 km SE of Valle Vista, CA",earthquake,0.14,0.26,0.197,26,reviewed,ci,ci
+2025-09-17T16:00:33.130Z,33.7101667,-116.8391667,14.07,1.75,ml,76,21,0.07424,0.19,ci,ci41293112,2025-09-17T20:52:34.070Z,"6 km SE of Valle Vista, CA",earthquake,0.14,0.26,0.197,26,reviewed,ci,ci
 2025-09-17T15:54:41.020Z,36.02283333,-96.52866667,0,1.48,ml,42,65,0.1817643316,0.36,ok,ok2025sgku,2025-09-17T16:06:41.395Z,"7 km ENE of Drumright, Oklahoma",quarry blast,,0.4,0.16,19,reviewed,ok,ok
 2025-09-17T15:54:14.330Z,33.7186667,-116.8295,14.93,0.47,ml,13,178,0.08471,0.12,ci,ci41293096,2025-09-17T16:21:03.871Z,"7 km ESE of Valle Vista, CA",earthquake,0.47,0.58,0.103,8,reviewed,ci,ci
 2025-09-17T15:36:32.842Z,62.7815,-149.4809,63.5,1.3,ml,,,,0.07,ak,ak025by8vis4,2025-09-17T15:37:50.875Z,"48 km NE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -111,8 +113,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T10:45:49.580Z,33.4591667,-116.443,14.69,0.25,ml,13,73,0.1377,0.13,ci,ci37743436,2025-09-17T18:08:09.532Z,"24 km NNW of Borrego Springs, CA",earthquake,0.34,0.84,0.116,9,reviewed,ci,ci
 2025-09-17T10:37:54.380Z,46.1205,-122.15983333333,8.91,0.65,ml,9,205,0.07908,0.17,uw,uw62190696,2025-09-17T18:28:13.470Z,"32 km NE of Amboy, Washington",earthquake,0.74,1.1,0.18180199114119,5,reviewed,uw,uw
 2025-09-17T10:32:57.760Z,38.802165985107,-122.77116394043,2.420000076294,1.09,md,13,78,0.00908,0.02,nc,nc75238732,2025-09-17T11:17:20.303Z,"3 km NNW of The Geysers, CA",earthquake,0.34,0.579999983,0.25,13,automatic,nc,nc
+2025-09-17T10:30:46.330Z,54.764166666667,-163.973,-1.41,0.68,ml,5,91,0.04958,0.24,av,av93773993,2025-09-17T20:54:10.960Z,"37 km WSW of False Pass, Alaska",earthquake,0.59,0.46,0.33492384730322,5,reviewed,av,av
 2025-09-17T10:29:47.150Z,44.7715,-114.40783333333,7.02,2.26,ml,33,48,0.4567,0.17,mb,mb90112218,2025-09-17T14:20:31.640Z,"32 km NNW of Challis, Idaho",earthquake,0.28,0.68,0.23356345586006,43,reviewed,mb,mb
 2025-09-17T10:26:02.700Z,40.292835235596,-124.52683258057,7.9400000572205,2.29,md,24,277,0.141,0.13,nc,nc75238727,2025-09-17T11:18:36.578Z,"21 km W of Petrolia, CA",earthquake,2.62,1.25999999,0.1,18,automatic,nc,nc
+2025-09-17T10:16:58.680Z,54.752333333333,-163.99316666667,0.45,0.43,ml,4,102,0.04303,0.07,av,av93773963,2025-09-17T20:50:34.860Z,"39 km WSW of False Pass, Alaska",earthquake,0.23,0.2,0.16918014588143,4,reviewed,av,av
 2025-09-17T10:13:43.060Z,37.200333333333,-112.8895,15.95,0.85,md,7,132,0.1912,0.2,uu,uu80004868,2025-09-17T14:42:38.920Z,"9 km E of Springdale, Utah",earthquake,0.62,2.86,0.20082987278695,5,reviewed,uu,uu
 2025-09-17T10:13:34.569Z,28.977,-97.984,8.4359,1.4,ml,16,67,0,0.3,tx,tx2025sifkro,2025-09-17T11:03:28.392Z,"3 km E of Falls City, Texas",earthquake,1.2653761821307,1.1554814224286,0.1,6,reviewed,tx,tx
 2025-09-17T10:09:21.150Z,54.747666666667,-163.8885,7.72,1,ml,5,137,0.07375,0.21,av,av93773953,2025-09-17T20:47:59.010Z,"32 km WSW of False Pass, Alaska",earthquake,0.81,2.26,0.14388027170839,4,reviewed,av,av
@@ -141,7 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T08:43:05.153Z,37.2084,-117.6419,8.5,1.1,ml,20,167.46,0.306,0.1755,nn,nn00904469,2025-09-17T18:56:53.915Z,"57 km E of Big Pine, California",earthquake,,1.4,0.51,5,reviewed,nn,nn
 2025-09-17T08:36:17.240Z,32.9865,-116.3083333,8.95,-0.03,ml,20,124,0.03208,0.18,ci,ci41292856,2025-09-17T08:39:40.207Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.28,0.56,0.051,2,automatic,ci,ci
 2025-09-17T08:30:58.890Z,32.9858333,-116.3123333,9.04,0.1,ml,16,95,0.03204,0.13,ci,ci41292848,2025-09-17T08:34:22.177Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.21,0.48,0.018,2,automatic,ci,ci
-2025-09-17T08:29:35.160Z,37.799833333333,-122.2045,10.41,1.11,md,31,67,0.06039,0.07,nc,nc75238692,2025-09-17T19:22:17.723Z,"2 km ENE of Oakland, CA",earthquake,0.18,0.52,0.264,24,reviewed,nc,nc
+2025-09-17T08:29:35.160Z,37.799833333333,-122.2045,10.41,1.11,md,31,67,0.06039,0.07,nc,nc75238692,2025-09-17T20:52:17.414Z,"2 km ENE of Oakland, CA",earthquake,0.18,0.52,0.264,24,reviewed,nc,nc
 2025-09-17T08:23:38.950Z,54.752,-163.97683333333,-0.75,0.9,ml,5,97,0.04424,0.14,av,av93773823,2025-09-17T20:02:55.790Z,"38 km WSW of False Pass, Alaska",earthquake,0.36,0.47,0.22243654540535,5,reviewed,av,av
 2025-09-17T08:06:33.817Z,60.4522,-142.9533,6.8,2,ml,,,,0.26,ak,ak025by4j251,2025-09-17T08:07:44.703Z,"109 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-17T08:03:18.026Z,61.5355,-149.9359,29.4,1.2,ml,,,,0.25,ak,ak025by4idru,2025-09-17T08:06:38.554Z,"1 km NNE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -272,4 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T21:22:06.243Z,-21.0652,-68.631,140.215,4.2,mb,19,66,0.8,0.5,us,us7000qwke,2025-09-16T22:22:46.040Z,"43 km WNW of Ollagüe, Chile",earthquake,5.95,6.947,0.199,7,reviewed,us,us
 2025-09-16T21:16:28.710Z,54.738666666667,-163.98116666667,2.41,0.27,ml,5,104,0.03071,0.27,av,av93772778,2025-09-16T22:40:36.210Z,"38 km WSW of False Pass, Alaska",earthquake,0.97,2.49,0.4021467905736,5,reviewed,av,av
 2025-09-16T21:08:46.170Z,35.8995,-117.673,3.64,0.27,ml,14,54,0.05167,0.09,ci,ci41292488,2025-09-16T23:33:54.030Z,"21 km E of Little Lake, CA",earthquake,0.17,0.45,0.117,13,reviewed,ci,ci
-2025-09-16T20:50:40.790Z,32.9601667,-116.4596667,7.59,0.46,ml,10,112,0.04282,0.09,ci,ci41292480,2025-09-16T23:41:29.610Z,"17 km NNE of Pine Valley, CA",earthquake,0.25,0.53,0.206,7,reviewed,ci,ci
