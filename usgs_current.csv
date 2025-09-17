@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-17T22:39:39.430Z,38.113998413086,-121.80500030518,4.9499998092651,2.22,md,7,210,0.786,0.06,nc,nc75238952,2025-09-17T22:41:17.390Z,"11 km WSW of Rio Vista, CA",earthquake,3.89,8.96000004,,1,automatic,nc,nc
+2025-09-17T22:39:32.779Z,36.7724,-116.252,12.1,0.7,ml,21,49.53,0.048,0.1003,nn,nn00904519,2025-09-17T22:41:25.229Z,"47 km ESE of Beatty, Nevada",earthquake,,0.6,0.23,14,automatic,nn,nn
 2025-09-17T22:20:18.173Z,31.735,-104.121,4.5664,2.4,ml,42,40,0,0.4,tx,tx2025sjdlgm,2025-09-17T22:26:48.862Z,"49 km W of Mentone, Texas",earthquake,0,0.80295395851135,0.2,32,automatic,tx,tx
 2025-09-17T22:20:15.390Z,39.458667755127,-123.12866973877,5.2800002098083,1.39,md,11,91,0.1127,0.05,nc,nc75238947,2025-09-17T22:23:03.301Z,"16 km WNW of Lake Pillsbury, CA",earthquake,0.31,1.98000002,0.08,4,automatic,nc,nc
 2025-09-17T22:19:49.333Z,31.73,-104.129,4.5975,2.3,ml,11,148,0.1,0.4,tx,tx2025sjdmkb,2025-09-17T22:23:26.612Z,"50 km W of Mentone, Texas",earthquake,0,1.5543427467346,0.3,9,automatic,tx,tx
@@ -45,6 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T18:31:14.260Z,60.4851,-142.976,6.9,2.7,ml,,,,0.4,ak,ak025byampky,2025-09-17T19:11:56.040Z,"105 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-17T18:25:41.680Z,43.5185,-110.81716666667,2.12,0.16,ml,8,103,0.07443,0.14,mb,mb90112308,2025-09-17T19:48:58.170Z,"2 km ESE of Moose Wilson Road, Wyoming",earthquake,1.38,2.74,0.034451520191015,6,reviewed,mb,mb
 2025-09-17T18:18:07.010Z,36.7687,-116.257,9.8,1,ml,43,60.65,0.033,0.1205,nn,nn00904506,2025-09-17T20:04:38.599Z,"47 km ESE of Beatty, Nevada",earthquake,,0.5,0.27,14,reviewed,nn,nn
+2025-09-17T18:16:46.110Z,54.7595,-163.97133333333,-2.98,0.25,ml,5,95,0.05234,0.32,av,av93774908,2025-09-17T22:39:57.850Z,"37 km WSW of False Pass, Alaska",earthquake,0.61,1.5,0.16087838723505,5,reviewed,av,av
 2025-09-17T18:12:24.870Z,38.81266784668,-122.78649902344,2.960000038147,1.38,md,23,44,0.00458,0.02,nc,nc75238862,2025-09-17T20:07:17.078Z,"5 km NNW of The Geysers, CA",earthquake,0.26,0.419999987,0.12,23,automatic,nc,nc
 2025-09-17T18:01:34.480Z,41.1799,-116.7681,4.9,2.9,ml,17,139.67,0.334,0.171,nn,nn00904495,2025-09-17T19:04:33.040Z,"52 km NE of Valmy, Nevada",earthquake,,2.6,0.3,12,reviewed,nn,nn
 2025-09-17T17:58:46.639Z,63.2015,-149.3874,89.2,1.4,ml,,,,0.48,ak,ak025bya74t3,2025-09-17T18:00:22.409Z,"30 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -289,5 +292,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T23:06:19.470Z,49.375666666667,-120.51466666667,-0.51,2.13,ml,11,215,0.584,0.26,uw,uw62190521,2025-09-17T00:30:45.470Z,"9 km S of Princeton, Canada",explosion,2.04,31.61,0.15043963404504,8,reviewed,uw,uw
 2025-09-16T23:04:09.804Z,36.7659,-116.2611,10.1,-0.4,ml,22,59.22,0.029,0.0837,nn,nn00904454,2025-09-17T00:18:26.211Z,"47 km ESE of Beatty, Nevada",earthquake,,0.8,0.31,5,reviewed,nn,nn
 2025-09-16T22:57:31.618Z,64.7346,-149.0898,17.2,0.9,ml,,,,0.13,ak,ak025bwpmpgp,2025-09-16T22:59:07.805Z,"14 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-09-16T22:46:19.500Z,44.758833333333,-110.51266666667,6.13,1.24,ml,13,85,0.04114,0.18,uu,uu80117541,2025-09-17T13:53:17.820Z,"28 km SSE of Mammoth, Wyoming",earthquake,0.45,0.79,0.44970172863855,2,reviewed,uu,uu
-2025-09-16T22:40:26.129Z,61.1387,-152.5613,5.3,1,ml,,,,0.19,ak,ak025bwpj1v8,2025-09-17T04:40:50.500Z,"77 km W of Tyonek, Alaska",earthquake,,1.2,,,automatic,ak,ak
