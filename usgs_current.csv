@@ -293,5 +293,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T07:44:36.647Z,38.4298,-119.3273,3.9,0.5,ml,11,122.4,0.114,0.1271,nn,nn00904466,2025-09-17T18:38:28.304Z,"16 km SE of Walker, California",earthquake,,4.8,0.15,2,reviewed,nn,nn
 2025-09-17T07:44:14.910Z,45.021833333333,-111.95166666667,1.26,0.47,ml,7,145,0.1932,0.08,mb,mb90112243,2025-09-17T15:03:08.200Z,"30 km S of Virginia City, Montana",earthquake,1.19,1.78,0.12477563433357,8,reviewed,mb,mb
 2025-09-17T07:42:31.172Z,56.3899,-152.0937,10,3,ml,34,209,1.172,0.67,us,us7000qwmt,2025-09-17T14:44:03.040Z,"116 km SE of Old Harbor, Alaska",earthquake,7.68,2.011,0.051,50,reviewed,us,us
-2025-09-17T07:37:51.580Z,54.754666666667,-163.96466666667,-2.65,0.65,ml,5,102,0.04907,0.13,av,av93773763,2025-09-17T19:57:48.220Z,"37 km WSW of False Pass, Alaska",earthquake,0.31,0.82,0.32751423383942,5,reviewed,av,av
-2025-09-17T07:35:58.240Z,45.368833333333,-121.67316666667,-0.77,-0.82,md,5,153,0.02051,0.05,uw,uw62190666,2025-09-17T18:18:19.660Z,"9 km NE of Government Camp, Oregon",earthquake,0.45,9.27,0.070791642169057,3,reviewed,uw,uw
