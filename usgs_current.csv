@@ -298,6 +298,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T23:53:46.537Z,36.8673,-117.7637,10.8,1.7,ml,11,95.76,0.343,0.2095,nn,nn00904625,2025-09-19T02:10:36.574Z,"39 km NE of Lone Pine, California",earthquake,,2.1,0.58,4,reviewed,nn,nn
 2025-09-18T23:40:46.231Z,52.6627,160.8035,10,4.9,mb,68,128,1.355,0.82,us,us7000qx5i,2025-09-19T00:11:55.040Z,"153 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.34,1.893,0.035,259,reviewed,us,us
 2025-09-18T23:38:16.360Z,38.659168243408,-122.60866546631,1.3700000047684,1.07,md,5,177,0.1938,0.05,nc,nc75239317,2025-09-19T00:32:18.609Z,"9 km  of Calistoga, CA",earthquake,2.83,8.88000011,,1,automatic,nc,nc
-2025-09-18T23:29:32.259Z,63.3527,-151.5198,0,1.8,ml,,,,0.41,ak,ak025c014u21,2025-09-18T23:31:23.358Z,"23 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-09-18T23:27:44.434Z,52.8185,160.9707,10,4.8,mb,81,128,1.42,0.99,us,us7000qx5h,2025-09-18T23:54:57.040Z,"159 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.92,1.893,0.042,176,reviewed,us,us
-2025-09-18T23:27:39.597Z,32.361,-102.055,6.1768,0.5,ml,11,67,0,0.2,tx,tx2025slbltx,2025-09-19T13:29:07.062Z,"35 km NW of Stanton, Texas",earthquake,0.71508197576984,1.3739131700605,0.1,6,reviewed,tx,tx
