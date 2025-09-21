@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-21T21:45:30.200Z,34.0471667,-117.053,10.22,0.99,ml,44,33,0.07006,0.18,ci,ci40447666,2025-09-21T21:50:12.383Z,"2 km NNW of Yucaipa, CA",earthquake,0.17,0.36,0.154,34,automatic,ci,ci
+2025-09-21T21:43:45.050Z,19.317499160767,-155.42483520508,27.930000305176,2.25,ml,54,62,0.04024,0.140000001,hv,hv74781507,2025-09-21T21:48:02.530Z,"13 km NNE of Pāhala, Hawaii",earthquake,0.31,0.5,0.5,20,automatic,hv,hv
 2025-09-21T21:40:42.690Z,19.319499969482,-155.42333984375,28.200000762939,2.43,ml,58,62,0.03818,0.150000006,hv,hv74781497,2025-09-21T21:44:26.560Z,"14 km NNE of Pāhala, Hawaii",earthquake,0.35,0.49000001,0.49,24,automatic,hv,hv
 2025-09-21T21:31:28.930Z,33.5301667,-116.7211667,5.73,1.37,ml,65,26,0.03764,0.19,ci,ci40447658,2025-09-21T21:34:58.850Z,"5 km WSW of Anza, CA",earthquake,0.12,0.36,0.184,27,automatic,ci,ci
 2025-09-21T21:30:18.430Z,38.767501831055,-122.75650024414,1.460000038147,1.18,md,11,125,0.007911,0.03,nc,nc75240347,2025-09-21T21:31:54.410Z,"1 km SSW of The Geysers, CA",earthquake,0.31,0.49000001,0.11,12,automatic,nc,nc
 2025-09-21T21:06:54.450Z,18.101666666667,-67.026666666667,10.75,2.84,md,21,84,0.02709,0.26,pr,pr71496228,2025-09-21T21:26:55.820Z,"2 km NE of San Germán, Puerto Rico",earthquake,0.31,0.75,0.13336265108641,14,reviewed,pr,pr
-2025-09-21T21:05:47.183Z,39.1455,28.1408,10,5.1,mww,37,44,0.964,0.82,us,us7000qxqv,2025-09-21T21:41:27.525Z,"11 km SSW of Sındırgı, Turkey",earthquake,2.74,1.881,0.075,17,reviewed,us,us
+2025-09-21T21:05:47.183Z,39.1455,28.1408,10,5.1,mww,37,44,0.964,0.82,us,us7000qxqv,2025-09-21T21:46:37.645Z,"11 km SSW of Sındırgı, Turkey",earthquake,2.74,1.881,0.075,17,reviewed,us,us
 2025-09-21T21:00:45.880Z,33.9023333,-116.8925,15.38,0.8,ml,31,66,0.1047,0.17,ci,ci40447650,2025-09-21T21:04:12.651Z,"3 km SSW of Banning, CA",earthquake,0.23,0.57,0.132,31,automatic,ci,ci
 2025-09-21T20:51:52.551Z,61.2306,-151.5173,75.5,1.4,ml,,,,0.33,ak,ak025c4y3c1j,2025-09-21T20:53:58.161Z,"25 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-21T20:37:27.016Z,32.099,-101.913,3.8005,1.3,ml,38,34,0.1,0.3,tx,tx2025sqizvf,2025-09-21T20:42:04.698Z,"12 km WSW of Stanton, Texas",earthquake,0,0.85272812843323,0.1,25,automatic,tx,tx
