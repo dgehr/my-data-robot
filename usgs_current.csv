@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-21T15:32:33.835Z,36.587,-116.0275,16,-0.4,ml,9,201.79,0.091,0.2829,nn,nn00904739,2025-09-21T15:34:27.281Z,"32 km W of Indian Springs, Nevada",earthquake,,3,0.42,6,automatic,nn,nn
 2025-09-21T15:11:17.847Z,64.8644,-146.2996,11,1.2,ml,,,,0.71,ak,ak025c4uvip4,2025-09-21T15:13:51.660Z,"27 km E of Pleasant Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-21T14:42:00.355Z,64.7286,-146.8291,18.4,1.2,ml,,,,0.1,ak,ak025c4ugoxv,2025-09-21T14:43:18.220Z,"12 km NE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-21T14:39:53.617Z,52.713,161.1142,10,4.6,mb,40,113,1.526,0.98,us,us7000qxpq,2025-09-21T15:08:06.040Z,"171 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,5.89,1.881,0.051,114,reviewed,us,us
@@ -190,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T15:47:58.733Z,32.357,-102.065,4.8138,1,mlv,15,74,0,0.2,tx,tx2025sodrmo,2025-09-20T23:13:03.882Z,"36 km NW of Stanton, Texas",earthquake,0,1.3408707380295,0.2,11,automatic,tx,tx
 2025-09-20T15:41:48.425Z,-23.4386,-68.4177,101.406,4.5,mb,59,92,0.532,0.86,us,us7000qxkg,2025-09-20T16:04:59.981Z,"62 km SSW of San Pedro de Atacama, Chile",earthquake,6.27,5.448,0.075,56,reviewed,us,us
 2025-09-20T15:37:55.614Z,-15.6174,-177.3584,415.387,4.4,mb,115,66,3.259,0.71,us,us7000qxkh,2025-09-20T18:07:31.040Z,"165 km SSE of Alo, Wallis and Futuna",earthquake,12.11,7.07,0.045,141,reviewed,us,us
-2025-09-20T15:31:09.338Z,-58.1161,-24.6544,10,5.2,mb,75,48,7.633,0.73,us,us7000qxkf,2025-09-20T15:49:54.040Z,"South Sandwich Islands region",earthquake,8.57,1.862,0.061,89,reviewed,us,us
