@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-21T21:40:42.690Z,19.319499969482,-155.42333984375,28.200000762939,2.43,ml,58,62,0.03818,0.150000006,hv,hv74781497,2025-09-21T21:44:26.560Z,"14 km NNE of Pāhala, Hawaii",earthquake,0.35,0.49000001,0.49,24,automatic,hv,hv
 2025-09-21T21:31:28.930Z,33.5301667,-116.7211667,5.73,1.37,ml,65,26,0.03764,0.19,ci,ci40447658,2025-09-21T21:34:58.850Z,"5 km WSW of Anza, CA",earthquake,0.12,0.36,0.184,27,automatic,ci,ci
 2025-09-21T21:30:18.430Z,38.767501831055,-122.75650024414,1.460000038147,1.18,md,11,125,0.007911,0.03,nc,nc75240347,2025-09-21T21:31:54.410Z,"1 km SSW of The Geysers, CA",earthquake,0.31,0.49000001,0.11,12,automatic,nc,nc
 2025-09-21T21:06:54.450Z,18.101666666667,-67.026666666667,10.75,2.84,md,21,84,0.02709,0.26,pr,pr71496228,2025-09-21T21:26:55.820Z,"2 km NE of San Germán, Puerto Rico",earthquake,0.31,0.75,0.13336265108641,14,reviewed,pr,pr
-2025-09-21T21:05:47.183Z,39.1455,28.1408,10,5.1,mww,37,44,0.964,0.82,us,us7000qxqv,2025-09-21T21:33:42.069Z,"11 km SSW of Sındırgı, Turkey",earthquake,2.74,1.881,0.075,17,reviewed,us,us
+2025-09-21T21:05:47.183Z,39.1455,28.1408,10,5.1,mww,37,44,0.964,0.82,us,us7000qxqv,2025-09-21T21:41:27.525Z,"11 km SSW of Sındırgı, Turkey",earthquake,2.74,1.881,0.075,17,reviewed,us,us
 2025-09-21T21:00:45.880Z,33.9023333,-116.8925,15.38,0.8,ml,31,66,0.1047,0.17,ci,ci40447650,2025-09-21T21:04:12.651Z,"3 km SSW of Banning, CA",earthquake,0.23,0.57,0.132,31,automatic,ci,ci
 2025-09-21T20:51:52.551Z,61.2306,-151.5173,75.5,1.4,ml,,,,0.33,ak,ak025c4y3c1j,2025-09-21T20:53:58.161Z,"25 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-21T20:37:27.016Z,32.099,-101.913,3.8005,1.3,ml,38,34,0.1,0.3,tx,tx2025sqizvf,2025-09-21T20:42:04.698Z,"12 km WSW of Stanton, Texas",earthquake,0,0.85272812843323,0.1,25,automatic,tx,tx
@@ -37,7 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T15:38:47.453Z,52.8866,161.0213,10,4.7,mb,58,165,1.441,0.83,us,us7000qxpu,2025-09-21T16:00:58.040Z,"162 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,11.14,1.823,0.039,200,reviewed,us,us
 2025-09-21T15:32:33.835Z,36.587,-116.0275,16,-0.4,ml,9,201.79,0.091,0.2829,nn,nn00904739,2025-09-21T15:34:27.281Z,"32 km W of Indian Springs, Nevada",earthquake,,3,0.42,6,automatic,nn,nn
 2025-09-21T15:19:12.861Z,83.8394,112.5366,10,4.9,mb,70,72,12.646,0.89,us,us7000qxpt,2025-09-21T15:47:25.040Z,"north of Severnaya Zemlya",earthquake,11.41,1.895,0.039,208,reviewed,us,us
-2025-09-21T15:13:38.670Z,36.7865,-121.33166666667,7.23,1.03,md,23,72,0.01982,0.06,nc,nc75240262,2025-09-21T21:09:46.688Z,"1 km WSW of Tres Pinos, CA",earthquake,0.2,0.38,0.349,18,reviewed,nc,nc
+2025-09-21T15:13:38.670Z,36.7865,-121.33166666667,7.23,1.03,md,23,72,0.01982,0.06,nc,nc75240262,2025-09-21T21:42:18.445Z,"1 km WSW of Tres Pinos, CA",earthquake,0.2,0.38,0.349,18,reviewed,nc,nc
 2025-09-21T15:12:34.122Z,-17.5321,-70.2097,139.676,4.4,mb,20,121,0.698,0.9,us,us7000qxps,2025-09-21T16:17:40.040Z,"3 km SSE of Chipispaya, Peru",earthquake,6.49,7.068,0.179,9,reviewed,us,us
 2025-09-21T15:11:17.847Z,64.8644,-146.2996,11,1.2,ml,,,,0.71,ak,ak025c4uvip4,2025-09-21T15:13:51.660Z,"27 km E of Pleasant Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-21T14:50:17.740Z,53.6893,160.1342,60.234,4.3,mb,25,159,1.112,0.51,us,us7000qxpr,2025-09-21T16:08:03.040Z,"122 km NE of Petropavlovsk-Kamchatsky, Russia",earthquake,13.2,11.123,0.105,26,reviewed,us,us
@@ -83,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T10:01:46.590Z,44.8135,-111.53866666667,11.28,1.48,ml,27,78,0.01882,0.2,mb,mb90112748,2025-09-21T13:55:09.080Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.31,0.5,0.14922396813665,36,reviewed,mb,mb
 2025-09-21T09:50:24.270Z,32.8925,-116.5973333,7.98,0.85,ml,35,54,0.06764,0.19,ci,ci40447482,2025-09-21T13:19:59.561Z,"10 km NW of Pine Valley, CA",earthquake,0.2,0.61,0.19,10,reviewed,ci,ci
 2025-09-21T09:30:43.800Z,33.2666667,-116.611,16.72,1.19,ml,70,20,0.07388,0.2,ci,ci40447474,2025-09-21T09:34:20.973Z,"3 km SE of Warner Springs, CA",earthquake,0.15,0.41,0.206,26,automatic,ci,ci
-2025-09-21T09:30:27.882Z,51.2024,-178.0199,30,5.5,mww,147,42,0.559,1.08,us,us7000qxp1,2025-09-21T17:14:22.542Z,"121 km SW of Adak, Alaska",earthquake,3.97,1.809,0.046,46,reviewed,us,us
+2025-09-21T09:30:27.882Z,51.2024,-178.0199,30,5.5,mww,147,42,0.559,1.08,us,us7000qxp1,2025-09-21T21:40:33.179Z,"121 km SW of Adak, Alaska",earthquake,3.97,1.809,0.046,46,reviewed,us,us
 2025-09-21T09:25:55.950Z,33.2306667,-116.1033333,9.93,1.77,ml,76,32,0.09232,0.18,ci,ci40447466,2025-09-21T17:04:29.545Z,"10 km NNE of Ocotillo Wells, CA",earthquake,0.12,0.39,0.164,80,reviewed,ci,ci
 2025-09-21T09:23:29.940Z,33.2686667,-116.6065,17.09,0.99,ml,56,23,0.07729,0.2,ci,ci40447458,2025-09-21T09:27:04.755Z,"3 km ESE of Warner Springs, CA",earthquake,0.17,0.43,0.213,27,automatic,ci,ci
 2025-09-21T09:13:51.660Z,38.81583404541,-122.8184967041,2.2200000286102,1.08,md,14,55,0.01001,0.02,nc,nc75240187,2025-09-21T11:07:17.786Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.639999986,0.16,15,automatic,nc,nc
@@ -194,5 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T22:06:12.740Z,38.840667724609,-122.83466339111,1.8400000333786,1.98,md,31,58,0.002173,0.05,nc,nc75240002,2025-09-21T01:07:18.492Z,"10 km NNW of The Geysers, CA",earthquake,0.2,0.300000012,0.16,38,automatic,nc,nc
 2025-09-20T22:04:30.553Z,63.1142,-149.1881,67.4,1.7,ml,,,,0.52,ak,ak025c3bgqen,2025-09-20T22:11:59.681Z,"33 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-20T21:55:37.800Z,38.833667755127,-122.81700134277,1.6599999666214,1.61,md,26,72,0.0116,0.03,nc,nc75239992,2025-09-21T00:42:19.290Z,"8 km NNW of The Geysers, CA",earthquake,0.19,0.310000002,0.13,25,automatic,nc,nc
-2025-09-20T21:43:31.230Z,36.021499633789,-120.5830001831,3,1.3,md,12,119,0.03949,0.06,nc,nc75239987,2025-09-21T00:17:20.112Z,"19 km NNW of Parkfield, CA",earthquake,0.33,0.660000026,0.33,4,automatic,nc,nc
-2025-09-20T21:38:48.700Z,35.61216667,-98.04816667,7.73,1.53,ml,88,69,0.1529699821,0.2,ok,ok2025smiq,2025-09-20T23:01:13.459Z,"6 km E of Calumet, Oklahoma",earthquake,,0.4,0.25,42,reviewed,ok,ok
