@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-21T11:07:35.234Z,50.9904,159.0834,27.703,4.5,mb,34,215,2.054,0.84,us,us7000qxpa,2025-09-21T11:29:02.040Z,"188 km ESE of Ozernovskiy, Russia",earthquake,15.55,7.382,0.094,33,reviewed,us,us
 2025-09-21T11:04:25.189Z,36.7283,-116.2306,7.9,-0.2,ml,8,135.41,0.015,0.2468,nn,nn00904737,2025-09-21T11:06:26.052Z,"51 km ESE of Beatty, Nevada",earthquake,,0.8,0.05,3,automatic,nn,nn
 2025-09-21T10:47:41.271Z,60.3042,-152.1207,70.5,1.8,ml,,,,0.11,ak,ak025c4s449b,2025-09-21T10:48:58.961Z,"37 km NW of Ninilchik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-09-21T10:29:09.560Z,33.5318333,-116.7188333,5.93,0.75,ml,45,27,0.03686,0.16,ci,ci40447490,2025-09-21T10:32:39.361Z,"5 km WSW of Anza, CA",earthquake,0.14,0.37,0.152,23,automatic,ci,ci
