@@ -4,6 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T11:20:50.670Z,37.85599899292,-122.24349975586,7.0599999427795,2.3,md,18,65,0.02114,0.04,nc,nc75240867,2025-09-23T11:33:43.878Z,"3 km SE of Berkeley, CA",earthquake,0.23,0.449999988,0.19,14,automatic,nc,nc
 2025-09-23T11:17:35.130Z,33.7043343,-116.8170013,15.66,1.2,ml,34,44,0.0907,0.19,ci,ci40448682,2025-09-23T11:19:38.394Z,"9 km SE of Valle Vista, CA",earthquake,0.29,0.6,0.288,9,automatic,ci,ci
 2025-09-23T11:06:48.200Z,33.9718323,-116.6776657,12.52,0.97,ml,20,123,0.07095,0.14,ci,ci40448674,2025-09-23T11:08:51.428Z,"12 km ENE of Cabazon, CA",earthquake,0.46,1.14,0.421,4,automatic,ci,ci
+2025-09-23T10:50:33.247Z,34.5763,70.6337,10,4.9,mb,75,61,1.239,0.89,us,us6000rc98,2025-09-23T11:36:03.040Z,"23 km NE of Jalālābād, Afghanistan",earthquake,7.06,1.845,0.047,141,reviewed,us,us
 2025-09-23T10:48:09.000Z,39.107,-119.0661,3.8,1.2,ml,14,75.4,0.182,0.1523,nn,nn00904854,2025-09-23T10:50:31.111Z,"15 km NNE of Yerington, Nevada",earthquake,,13.5,0.26,9,automatic,nn,nn
 2025-09-23T10:45:58.900Z,64.4808,-149.2657,10.8,1.4,ml,,,,0.63,ak,ak025c836f6a,2025-09-23T10:47:57.792Z,"12 km SW of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-23T10:39:14.639Z,66.0675,-149.1299,2.4,1.7,ml,,,,0.69,ak,ak025c8351gn,2025-09-23T10:41:51.547Z,"7 km NNW of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
