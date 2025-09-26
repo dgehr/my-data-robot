@@ -68,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-26T00:26:14.970Z,33.3691667,-116.4056667,11.02,1.18,ml,62,24,0.05321,0.21,ci,ci41097887,2025-09-26T00:30:09.492Z,"13 km NNW of Borrego Springs, CA",earthquake,0.17,0.32,0.164,26,automatic,ci,ci
 2025-09-26T00:25:44.301Z,62.9283,-150.5907,87.4,1.7,ml,,,,0.59,ak,ak025ccvpt5q,2025-09-26T00:27:29.618Z,"48 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-26T00:21:30.872Z,6.7533,-73.0109,164.302,4.5,mb,53,80,2.301,0.7,us,us6000rcz9,2025-09-26T00:44:33.040Z,"4 km W of Cepitá, Colombia",earthquake,8.2,8.182,0.049,122,reviewed,us,us
-2025-09-26T00:17:45.250Z,31.46,-103.825,6.9089,2.4,mlv,34,67,0.1,0.4,tx,tx2025sxzdrl,2025-09-26T06:09:07.593Z,"16 km N of Toyah, Texas",earthquake,0,1.7174665927887,0.2,24,automatic,tx,tx
+2025-09-26T00:17:45.222Z,31.465,-103.827,4.9335,2.3,ml,45,54,0.1,0.2,tx,tx2025sxzdrl,2025-09-26T07:51:48.350Z,"16 km N of Toyah, Texas",earthquake,0.59037316314147,1.2764549609989,0.2,30,reviewed,tx,tx
 2025-09-26T00:02:59.820Z,31.52,-103.477,8.5095,2,ml,26,80,0.1,0.2,tx,tx2025sxyslr,2025-09-26T07:40:11.629Z,"10 km NW of Barstow, Texas",earthquake,0.72012073117797,2.1502364733471,0.2,15,reviewed,tx,tx
 2025-09-26T00:02:12.020Z,33.6866667,-117.3033333,17.05,1.44,ml,51,45,0.02218,0.17,ci,ci41097871,2025-09-26T00:06:18.181Z,"3 km NE of Lake Elsinore, CA",earthquake,0.19,0.38,0.255,28,automatic,ci,ci
 2025-09-25T23:54:58.000Z,44.411333333333,-122.4715,9.35,1.54,ml,20,52,0.1446,0.24,uw,uw62194311,2025-09-26T00:25:52.930Z,"1 km NNE of Cascadia, Oregon",earthquake,0.3,2,0.088628500701744,12,reviewed,uw,uw
@@ -260,4 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T08:32:29.650Z,46.213333333333,-121.5125,0.78,0.6,ml,5,258,0.09437,0.38,uw,uw62193816,2025-09-25T21:34:20.780Z,"24 km N of Trout Lake, Washington",earthquake,3.13,28.93,0.075252999903249,2,reviewed,uw,uw
 2025-09-25T08:19:16.380Z,33.6775,-116.774,16.29,0.84,ml,45,43,0.06335,0.15,ci,ci41097295,2025-09-25T13:23:38.020Z,"9 km SW of Idyllwild, CA",earthquake,0.17,0.32,0.167,26,reviewed,ci,ci
 2025-09-25T08:06:45.875Z,58.5907,-153.7795,95,2.1,ml,,,,0.25,ak,ak025cbctv0r,2025-09-25T08:08:29.479Z,"78 km NW of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-09-25T07:55:28.840Z,33.7176667,-116.7666667,15.52,0.37,ml,23,80,0.04579,0.16,ci,ci41097287,2025-09-25T13:23:48.213Z,"5 km WSW of Idyllwild, CA",earthquake,0.3,0.52,0.103,7,reviewed,ci,ci
