@@ -172,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-26T14:02:05.671Z,63.0153,-151.6107,6.5,1.6,ml,,,,0.84,ak,ak025cd3wv6f,2025-09-26T14:04:57.454Z,"58 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-26T13:52:57.980Z,19.361166666667,-155.48833333333,7.77,1.5,ml,41,41,0.0313,0.14,hv,hv74785897,2025-09-26T19:09:57.910Z,"17 km N of Pāhala, Hawaii",earthquake,0.26,0.5,0.26574315589902,19,reviewed,hv,hv
 2025-09-26T13:49:46.720Z,32.42,-101.77,6.2256,0.8,ml,16,67,0,0.1,tx,tx2025szacxk,2025-09-26T14:27:25.830Z,"12 km SSW of Ackerly, Texas",earthquake,0.4741214808354,0.59356478863906,0.2,10,reviewed,tx,tx
-2025-09-26T13:46:20.824Z,31.527,-104.012,7.1765,1.6,ml,24,57,0,0.2,tx,tx2025syzzuq,2025-09-26T13:56:43.627Z,"31 km NW of Toyah, Texas",earthquake,0.83082667477693,0.54032428801644,0.1,18,reviewed,tx,tx
