@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-27T03:26:05.837Z,28.829,-99.099,6.2707,2.3,ml,17,84,0.3,0.5,tx,tx2025tabeio,2025-09-27T03:28:31.464Z,"7 km S of Pearsall, Texas",earthquake,0,3.0853035449982,0.2,7,automatic,tx,tx
+2025-09-27T03:26:05.837Z,28.829,-99.099,6.2707,2.3,ml,17,84,0.3,0.5,tx,tx2025tabeio,2025-09-27T03:29:48.471Z,"7 km S of Pearsall, Texas",earthquake,0,3.0853035449982,0.1,12,automatic,tx,tx
 2025-09-27T03:06:04.340Z,46.147666931152,-122.51999664307,10.579999923706,1.5847084522247,ml,22,104,,0.0700000003,uw,uw62194891,2025-09-27T03:08:05.850Z,"27 km NNW of Amboy, Washington",earthquake,0.45,1.65999997,0.30057632923126,20,automatic,uw,uw
 2025-09-27T02:58:24.110Z,34.7283333,-116.3038333,5.41,1.34,ml,24,44,0.104,0.15,ci,ci41098999,2025-09-27T03:01:53.671Z,"13 km W of Ludlow, CA",earthquake,0.18,0.93,0.187,26,automatic,ci,ci
 2025-09-27T02:31:38.058Z,-20.58,-178.7444,613.656,4.6,mb,43,107,4.137,0.72,us,us6000rd9w,2025-09-27T02:50:10.040Z,"Fiji region",earthquake,8.64,8.22,0.034,253,reviewed,us,us
@@ -179,5 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-26T03:48:04.070Z,60.2406,-153.0303,137.9,2,ml,,,,0.68,ak,ak025ccxmyc7,2025-09-26T03:50:06.486Z,"71 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-26T03:46:56.132Z,61.4092,-147.6723,19.1,1.5,ml,,,,0.49,ak,ak025ccxmmx9,2025-09-26T03:48:49.673Z,"44 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-26T03:46:23.890Z,32.118,-101.926,8.0322,1.1,ml,57,36,0,0.2,tx,tx2025sygcyo,2025-09-26T09:05:47.074Z,"13 km W of Stanton, Texas",earthquake,0.28791281329896,0.57161576117287,0.2,32,reviewed,tx,tx
-2025-09-26T03:42:02.598Z,65.8221,-147.046,9.4,1.6,ml,,,,0.68,ak,ak025ccxlnxf,2025-09-26T03:44:04.893Z,"61 km SSE of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-09-26T03:33:04.715Z,61.3474,-141.1802,10.6,1.9,ml,,,,0.51,ak,ak025ccxjqnb,2025-09-26T03:35:16.907Z,"93 km E of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
