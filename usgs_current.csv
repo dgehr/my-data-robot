@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T13:28:53.245Z,36.7855,-116.2433,6.1,0.1,ml,34,49.88,0.047,0.0802,nn,nn00905120,2025-09-28T13:44:19.900Z,"47 km ESE of Beatty, Nevada",earthquake,,0.6,0.11,8,reviewed,nn,nn
 2025-09-28T13:25:44.260Z,34.0516667,-116.9726667,13.88,0.82,ml,43,51,0.05175,0.14,ci,ci41100151,2025-09-28T13:29:12.656Z,"7 km ENE of Yucaipa, CA",earthquake,0.16,0.36,0.195,28,automatic,ci,ci
 2025-09-28T13:22:09.560Z,62.0124,-144.5905,6.1,1.9,ml,,,,0.78,ak,ak025cgeif6k,2025-09-28T13:24:07.372Z,"37 km NNE of Kenny Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-09-28T13:21:04.598Z,19.1439,-64.6279,41.619,3,ml,13,269,0.72,0.3,us,us6000rdfl,2025-09-28T13:35:35.040Z,"91 km N of Cruz Bay, U.S. Virgin Islands",earthquake,2.54,25.745,0.074,24,reviewed,us,us
+2025-09-28T13:21:05.310Z,19.2098,-64.581,23,3.66,md,20,272,0.7411,0.35,pr,pr2025271000,2025-09-28T13:49:41.952Z,"99 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.59,26.69,0.21,16,reviewed,pr,pr
 2025-09-28T13:20:39.753Z,31.132,-101.167,5,1.4,ml,10,133,0.2,0.6,tx,tx2025tcqpml,2025-09-28T13:24:21.833Z,"28 km ESE of Big Lake, Texas",earthquake,0,,0.2,6,automatic,tx,tx
 2025-09-28T13:08:31.927Z,31.866,-101.509,2.1487,1.3,ml,15,115,0.2,0.7,tx,tx2025tcqfdb,2025-09-28T13:11:37.744Z,"2 km W of Garden City, Texas",earthquake,0,1.5705157518387,0.2,8,automatic,tx,tx
 2025-09-28T13:01:58.490Z,36.0206667,-117.8706667,1.96,0.92,ml,28,48,0.02055,0.15,ci,ci41100143,2025-09-28T13:39:34.211Z,"8 km ESE of Coso Junction, CA",earthquake,0.17,0.18,0.188,16,reviewed,ci,ci
@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T08:59:54.680Z,40.266166687012,-124.49250030518,19.139999389648,2.67,md,8,294,0.1168,0.05,nc,nc75242887,2025-09-28T09:22:17.149Z,"19 km W of Petrolia, CA",earthquake,3.79,1.59000003,0.04,7,automatic,nc,nc
 2025-09-28T08:55:36.140Z,33.319,-116.8986667,17.51,1.13,ml,60,24,0.04583,0.18,ci,ci41100047,2025-09-28T13:40:43.966Z,"5 km SW of Palomar Observatory, CA",earthquake,0.15,0.4,0.156,26,reviewed,ci,ci
 2025-09-28T08:52:59.832Z,-23.8619,178.842,556.297,5.5,mww,56,71,6.131,0.82,us,us6000rdex,2025-09-28T11:16:45.230Z,"south of the Fiji Islands",earthquake,13.37,8.405,0.075,17,reviewed,us,us
-2025-09-28T08:17:25.054Z,35.54565048,-96.75790405,2.341861248,3.71,ml,104,27.20546722,0.01897467114,0.8431742794,ok,ok2025szyg,2025-09-28T13:39:39.627Z,"8 km SE of Sparks, Oklahoma",earthquake,1.344037329,1.021849523,0.31,64,automatic,ok,ok
+2025-09-28T08:17:25.054Z,35.54565048,-96.75790405,2.341861248,3.71,ml,104,27.20546722,0.01897467114,0.8431742794,ok,ok2025szyg,2025-09-28T13:44:42.643Z,"8 km SE of Sparks, Oklahoma",earthquake,1.344037329,1.021849523,0.31,64,automatic,ok,ok
 2025-09-28T08:10:27.710Z,33.594,-116.7386667,11.65,0.43,ml,12,262,0.0979,0.1,ci,ci41100039,2025-09-28T08:13:53.472Z,"7 km NW of Anza, CA",earthquake,0.55,0.48,0.17,15,automatic,ci,ci
 2025-09-28T07:38:39.260Z,44.802666666667,-110.85483333333,7.81,3.11,ml,39,36,0.01466,0.23,uu,uu80118201,2025-09-28T08:00:22.320Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.39,0.54,0.34497203039669,9,reviewed,uu,uu
 2025-09-28T07:30:46.848Z,60.5721,-147.5303,14.5,1.9,ml,,,,0.93,ak,ak025cgazm5o,2025-09-28T07:32:46.344Z,"56 km SW of Tatitlek, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -49,6 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T07:11:25.360Z,62.0042,-147.9778,26.5,1.9,ml,,,,0.64,ak,ak025cgavhw8,2025-09-28T07:13:04.514Z,"27 km NW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-28T07:09:48.008Z,62.5349,-151.2753,88.6,1.6,ml,,,,0.39,ak,ak025cgav47k,2025-09-28T07:11:23.666Z,"26 km W of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-28T07:09:15.470Z,33.286,-116.4293333,5.16,0.86,ml,21,167,0.02047,0.17,ci,ci41100023,2025-09-28T07:13:12.213Z,"6 km WNW of Borrego Springs, CA",earthquake,0.53,0.37,0.121,24,automatic,ci,ci
+2025-09-28T07:07:59.442Z,36.6451,-116.2717,6.7,0,ml,14,112.53,0.054,0.0809,nn,nn00905122,2025-09-28T13:50:30.305Z,"52 km SE of Beatty, Nevada",earthquake,,1.4,0.18,4,reviewed,nn,nn
 2025-09-28T07:06:02.672Z,60.3703,-143.0703,21.1,1.4,ml,,,,0.48,ak,ak025cgaudkb,2025-09-28T07:08:04.473Z,"118 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-28T06:57:08.310Z,37.3001,-116.611,0,0,ml,9,170.12,0.241,0.2635,nn,nn00905108,2025-09-28T06:59:32.223Z,"45 km NNE of Beatty, Nevada",earthquake,,1764.4,0.34,4,automatic,nn,nn
 2025-09-28T06:51:33.470Z,63.3334,-145.5739,8.1,1.5,ml,,,,0.47,ak,ak025cgaink3,2025-09-28T06:53:03.662Z,"27 km N of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -110,6 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-27T21:28:44.695Z,64.4991,-146.888,2.8,2.5,ml,,,,0.82,ak,ak025cevrwim,2025-09-28T01:47:59.500Z,"2 km SSE of Salcha, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2025-09-27T21:25:52.960Z,38.00016784668,-121.9238357544,5.0199999809265,1.76,md,12,190,0.2139,0.2,nc,nc75242727,2025-09-27T23:52:20.059Z,"5 km SE of Bay Point, CA",earthquake,7.96,15.8400002,,1,automatic,nc,nc
 2025-09-27T21:22:43.380Z,33.0261667,-116.2931667,7.04,1.16,ml,50,40,0.07188,0.2,ci,ci41099791,2025-09-27T21:26:59.942Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.18,0.51,0.146,28,automatic,ci,ci
+2025-09-27T21:21:15.100Z,46.077333333333,-110.38633333333,9.63,1.76,ml,16,159,0.4475,0.2,mb,mb90113418,2025-09-28T13:48:55.520Z,"23 km ENE of Wilsall, Montana",earthquake,0.69,1.3,0.18624499813352,18,reviewed,mb,mb
 2025-09-27T21:13:49.170Z,49.4585,-120.5155,4.47,1.89,ml,8,226,0.5973,0.58,uw,uw62195096,2025-09-28T06:12:30.460Z,"0 km W of Princeton, Canada",explosion,2.28,31.61,0.089720729781776,6,reviewed,uw,uw
 2025-09-27T20:55:58.479Z,63.1437,-151.6876,32.1,1.8,ml,,,,0.74,ak,ak025cevcabr,2025-09-27T20:58:12.647Z,"44 km S of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-27T20:37:15.320Z,38.793167114258,-122.750831604,1.210000038147,2.34,md,47,45,0.01018,0.07,nc,nc75242707,2025-09-27T22:37:18.515Z,"2 km NNE of The Geysers, CA",earthquake,0.18,0.239999995,0.15,51,automatic,nc,nc
