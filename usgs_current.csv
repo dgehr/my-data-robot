@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-28T20:51:00.043Z,63.3284,-145.5735,11.8,1.4,ml,,,,0.42,ak,ak025cgiung4,2025-09-28T20:53:01.111Z,"26 km N of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-28T20:45:29.452Z,64.4922,-146.914,6.7,1.1,ml,,,,0.34,ak,ak025cgitff5,2025-09-28T20:47:42.216Z,"3 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-28T20:37:45.350Z,35.8958333,-117.6896667,9.42,1.05,ml,28,42,0.06096,0.16,ci,ci41100319,2025-09-28T20:41:10.506Z,"20 km ESE of Little Lake, CA",earthquake,0.2,0.48,0.176,22,automatic,ci,ci
 2025-09-28T20:37:12.472Z,60.1687,-153.276,145.2,2.1,ml,,,,0.64,ak,ak025cgirodr,2025-09-28T20:39:42.898Z,"57 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-28T20:30:00.490Z,62.6488,-152.0771,4.1,1.4,ml,,,,0.31,ak,ak025cgiq5g1,2025-09-28T20:32:54.342Z,"69 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-28T20:21:44.445Z,61.7019,-151.3039,79.3,1.8,ml,,,,0.75,ak,ak025cgiobe4,2025-09-28T20:24:30.734Z,"32 km S of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-28T20:18:43.130Z,36.583332061768,-121.18250274658,4.210000038147,1.4,md,9,138,0.01184,0.04,nc,nc75243092,2025-09-28T20:42:17.151Z,"7 km NNW of Pinnacles, CA",earthquake,0.4,0.49000001,0.13,7,automatic,nc,nc
-2025-09-28T20:12:43.516Z,35.30999756,-97.93572235,3.285572529,2.48,ml,18,58.01872253,0.08178392053,0.8202863029,ok,ok2025tavv,2025-09-28T20:16:37.897Z,"0 km ESE of Minco, Oklahoma",earthquake,2.572038604,2.082644128,0.3,17,automatic,ok,ok
+2025-09-28T20:12:43.280Z,35.32083333,-97.92916667,7.34,2,ml,93,52,0.07018622707,0.14,ok,ok2025tavv,2025-09-28T20:50:10.274Z,"1 km ENE of Minco, Oklahoma",earthquake,,0.2,0.31,46,reviewed,ok,ok
 2025-09-28T20:06:05.420Z,18.856833333333,-65.5655,53.24,3.08,md,8,236,0.6426,0.34,pr,pr71496703,2025-09-28T20:29:31.460Z,"55 km NNE of Vieques, Puerto Rico",earthquake,6.04,10.62,0.19819738869359,4,reviewed,pr,pr
 2025-09-28T20:03:56.360Z,18.6605,-66.803833333333,13.28,2.74,md,9,239,0.3157,0.11,pr,pr71496698,2025-09-28T20:19:04.420Z,"19 km N of Hatillo, Puerto Rico",earthquake,0.77,1.41,0.063916870096509,6,reviewed,pr,pr
 2025-09-28T20:02:45.868Z,63.0775,-150.4829,113.807,3.2,ml,46,29,0.569,0.33,us,us6000rdh6,2025-09-28T20:33:19.040Z,"66 km NNE of Petersville, Alaska",earthquake,4.38,6.632,0.032,132,reviewed,us,us
@@ -16,14 +18,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T19:46:44.830Z,38.835498809815,-122.81700134277,1.7799999713898,0.71,md,7,96,0.01324,0.01,nc,nc75243077,2025-09-28T20:07:15.882Z,"8 km WNW of Cobb, CA",earthquake,0.41,1.39999998,0.25,10,automatic,nc,nc
 2025-09-28T19:44:21.320Z,67.0603,-154.7599,11.7,1.8,ml,,,,0.82,ak,ak025cgi7rh0,2025-09-28T19:46:32.281Z,"94 km E of Kobuk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-28T19:31:45.581Z,60.586,-142.1784,14,1.1,ml,,,,0.07,ak,ak025cgi511a,2025-09-28T19:33:48.584Z,"102 km SSE of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-09-28T19:21:45.347Z,59.8644,-153.6646,123.6,2.9,ml,,,,0.15,ak,ak025cgi2vuu,2025-09-28T19:51:03.040Z,"26 km ENE of Pedro Bay, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2025-09-28T19:21:45.300Z,59.8447,-153.5449,130.1,3.5,ml,,,,0.58,ak,ak025cgi2vuu,2025-09-28T20:47:25.768Z,"32 km ENE of Pedro Bay, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-09-28T19:21:00.177Z,61.4532,-150.6529,41.6,2,ml,,,,0.37,ak,ak025cgi2sdd,2025-09-28T19:42:18.040Z,"12 km SW of Susitna, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2025-09-28T19:20:58.570Z,38.834499359131,-122.81583404541,1.6399999856949,0.3,md,10,83,0.01197,0.01,nc,nc75243062,2025-09-28T19:22:32.586Z,"8 km WNW of Cobb, CA",earthquake,0.35,1.03999996,0.17,12,automatic,nc,nc
 2025-09-28T19:19:57.460Z,35.8621667,-117.6833333,7.26,0.73,ml,26,39,0.08372,0.16,ci,ci41100271,2025-09-28T19:23:42.956Z,"22 km ESE of Little Lake, CA",earthquake,0.18,0.55,0.185,17,automatic,ci,ci
 2025-09-28T19:04:44.060Z,32.8165,-116.1263333,8.68,1.15,ml,39,48,0.03475,0.22,ci,ci41100263,2025-09-28T19:08:10.140Z,"15 km NW of Ocotillo, CA",earthquake,0.23,0.64,0.178,23,automatic,ci,ci
 2025-09-28T19:04:37.610Z,40.596332550049,-122.43733215332,9.7200002670288,1.78,md,9,81,0.09021,0.4,nc,nc75243047,2025-09-28T19:22:16.544Z,"5 km ESE of Shasta, CA",earthquake,1.86,3.6400001,0.1,4,automatic,nc,nc
 2025-09-28T18:41:24.372Z,-11.5584,166.3016,77.046,5.2,mww,69,110,6.594,0.91,us,us6000rdgx,2025-09-28T19:00:44.040Z,"107 km SSE of Lata, Solomon Islands",earthquake,9.31,6.57,0.086,13,reviewed,us,us
-2025-09-28T18:41:07.920Z,36.654335021973,-121.29850006103,5.0700001716614,1.44,md,10,77,0.04529,0.19,nc,nc75243042,2025-09-28T18:57:17.352Z,"15 km S of Tres Pinos, CA",earthquake,0.64,2.3599999,0.3,8,automatic,nc,nc
+2025-09-28T18:41:07.920Z,36.654335021973,-121.29850006103,5.0700001716614,1.44,md,10,77,0.04529,0.19,nc,nc75243042,2025-09-28T20:47:20.198Z,"15 km S of Tres Pinos, CA",earthquake,0.64,2.3599999,0.3,8,automatic,nc,nc
 2025-09-28T18:11:54.680Z,35.9641667,-117.3221667,3.57,1.93,ml,35,69,0.07957,0.16,ci,ci41100247,2025-09-28T18:34:16.748Z,"23 km NNE of Trona, CA",earthquake,0.18,0.74,0.226,27,reviewed,ci,ci
 2025-09-28T18:04:57.160Z,31.7155,-115.9766667,5,2.4,ml,14,62,0.1756,0.17,ci,ci41100239,2025-09-28T18:56:47.236Z,"56 km E of Maneadero, B.C., MX",earthquake,0.27,1.03,0.116,54,reviewed,ci,ci
 2025-09-28T17:57:42.677Z,60.1164,-151.7993,65.8,1.4,ml,,,,0.22,ak,ak025cgh3q7v,2025-09-28T17:59:34.592Z,"10 km NW of Ninilchik, Alaska",earthquake,,2.7,,,automatic,ak,ak
