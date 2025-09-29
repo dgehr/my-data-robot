@@ -1,2 +1,1 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-28T13:08:31.927Z,31.866,-101.509,2.1487,1.3,ml,15,115,0.2,0.7,tx,tx2025tcqfdb,2025-09-28T13:11:37.744Z,"2 km W of Garden City, Texas",earthquake,0,1.5705157518387,0.2,8,automatic,tx,tx
