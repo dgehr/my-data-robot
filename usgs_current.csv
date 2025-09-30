@@ -219,6 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T11:08:43.392Z,31.329,-103.687,8.7146,1.6,ml,11,80,0.1,0.1,tx,tx2025tehytg,2025-09-29T15:40:21.180Z,"10 km E of Toyah, Texas",earthquake,0.59110592725241,0.99014810049555,0.1,9,reviewed,tx,tx
 2025-09-29T11:06:32.694Z,62.8996,-151.1416,106.4,1.9,ml,,,,0.38,ak,ak025ci0risl,2025-09-29T11:08:42.755Z,"48 km NNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-29T11:03:39.530Z,33.6513333,-116.741,12.99,0.98,ml,57,54,0.05872,0.16,ci,ci41100479,2025-09-29T12:57:25.317Z,"10 km SSW of Idyllwild, CA",earthquake,0.15,0.27,0.221,29,reviewed,ci,ci
-2025-09-29T10:59:30.500Z,44.567666666667,-112.401,5.24,0.7,ml,10,110,0.0261,0.11,mb,mb90113823,2025-09-29T17:00:55.270Z,"16 km ESE of Lima, Montana",earthquake,0.4,0.68,0.12406479423446,8,reviewed,mb,mb
-2025-09-29T10:56:02.310Z,34.1495,-117.4496667,12.3,1.41,ml,87,31,0.05062,0.19,ci,ci41100471,2025-09-29T11:01:02.384Z,"6 km N of Fontana, CA",earthquake,0.14,0.29,0.161,28,automatic,ci,ci
-2025-09-29T10:53:29.740Z,44.5835,-112.21566666667,5.24,1.61,ml,32,94,0.128,0.17,mb,mb90113763,2025-09-29T13:54:55.060Z,"24 km N of Spencer, Idaho",earthquake,0.4,1.86,0.2265001919416,30,reviewed,mb,mb
