@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-30T13:51:03.413Z,61.4533,-150.0008,35.6,2.8,ml,,,,0.84,ak,ak025cjprbfj,2025-09-30T13:54:43.072Z,"7 km SSW of Big Lake, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2025-09-30T13:49:42.291Z,61.3043,-147.631,20,1.5,ml,,,,0.62,ak,ak025cjpqz11,2025-09-30T13:51:38.751Z,"56 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-30T13:40:27.266Z,61.2318,-147.6971,12,3.3,ml,,,,0.83,ak,ak025cjpp0fn,2025-09-30T13:44:44.791Z,"64 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-30T13:34:10.890Z,34.0216667,-116.7593333,15.8,0.97,ml,43,57,0.04242,0.14,ci,ci41100895,2025-09-30T13:38:10.056Z,"12 km NNE of Cabazon, CA",earthquake,0.16,0.4,0.122,27,automatic,ci,ci
 2025-09-30T13:32:50.472Z,61.3406,-151.866,87.1,1.4,ml,,,,0.46,ak,ak025cjpnchj,2025-09-30T13:35:00.045Z,"47 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
