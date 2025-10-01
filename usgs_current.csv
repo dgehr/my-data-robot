@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-01T07:40:08.698Z,59.8002,-153.2518,119,1.8,ml,,,,0.33,ak,ak025cl9npvu,2025-10-01T07:44:39.176Z,"47 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-10-01T07:38:54.260Z,37.461498260498,-121.72299957275,9.8800001144409,1.17,md,9,92,0.06257,0.05,nc,nc75243381,2025-10-01T07:40:32.621Z,"14 km NE of Alum Rock, CA",earthquake,0.43,1.33000004,0.13,5,automatic,nc,nc
+2025-10-01T07:40:08.698Z,59.8002,-153.2518,119,1.8,ml,,,,0.33,ak,ak025cl9npvu,2025-10-01T07:53:17.639Z,"47 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-10-01T07:38:54.260Z,37.461498260498,-121.72299957275,9.8800001144409,1.17,md,9,92,0.06257,0.05,nc,nc75243381,2025-10-01T07:57:20.415Z,"14 km NE of Alum Rock, CA",earthquake,0.43,1.33000004,0.13,5,automatic,nc,nc
 2025-10-01T07:35:04.290Z,59.5766,-152.2451,34.3,1.7,ml,,,,0.44,ak,ak025cl9mmxp,2025-10-01T07:37:05.103Z,"30 km NW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-01T07:24:24.563Z,61.0207,-147.0462,16.1,1.5,ml,,,,0.62,ak,ak025cl9kbmi,2025-10-01T07:26:59.348Z,"26 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-01T07:22:54.691Z,54.4887,-159.8855,25.972,4,ml,42,200,0.384,1.1,us,us6000rdyd,2025-10-01T07:45:55.040Z,"102 km SSE of Sand Point, Alaska",earthquake,7.89,10.901,0.062,34,reviewed,us,us
@@ -56,6 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T23:47:40.500Z,32.9481667,-116.4593333,8.74,0.8,ml,23,71,0.04724,0.17,ci,ci41101167,2025-09-30T23:51:09.346Z,"16 km NNE of Pine Valley, CA",earthquake,0.23,0.53,0.12,12,automatic,ci,ci
 2025-09-30T23:30:33.756Z,61.4623,-150.4837,55.1,2.6,ml,,,,0.63,ak,ak025cjvl7s0,2025-10-01T00:18:42.040Z,"9 km S of Susitna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-09-30T23:29:54.805Z,-30.7081,-177.5321,15.812,5.2,mww,56,125,8.683,0.65,us,us6000rdxa,2025-10-01T00:51:05.040Z,"Kermadec Islands, New Zealand",earthquake,11.49,4.023,0.098,10,reviewed,us,us
+2025-09-30T23:27:05.580Z,58.391833333333,-154.51416666667,5.85,0.02,ml,6,229,0.1036,0.26,av,av93799273,2025-10-01T07:58:58.500Z,"91 km N of Karluk, Alaska",earthquake,1.51,3.93,0.2690330701054,6,reviewed,av,av
 2025-09-30T23:12:27.609Z,34.49633333,-97.26966667,0,1.49,ml,56,76,0.09268181267,0.36,ok,ok2025test,2025-09-30T23:43:36.026Z,"11 km SE of Katie, Oklahoma",quarry blast,,0.4,0.13,17,reviewed,ok,ok
 2025-09-30T23:06:16.530Z,34.0081667,-116.7018333,15.56,1.27,ml,53,32,0.05403,0.15,ci,ci41101159,2025-09-30T23:09:50.025Z,"12 km WSW of Morongo Valley, CA",earthquake,0.15,0.38,0.141,28,automatic,ci,ci
 2025-09-30T23:04:29.949Z,41.1969,-116.6959,9.5,1.9,ml,8,254.31,0.301,0.1698,nn,nn00905251,2025-10-01T02:13:14.185Z,"57 km NE of Valmy, Nevada",earthquake,,2.2,0.09,3,reviewed,nn,nn
