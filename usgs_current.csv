@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-02T05:34:51.680Z,33.8078333,-117.6331667,4.89,1.51,ml,69,48,0.02365,0.18,ci,ci41101671,2025-10-02T05:40:16.141Z,"9 km SW of Corona, CA",earthquake,0.14,0.28,0.162,30,automatic,ci,ci
+2025-10-02T05:34:51.670Z,33.8105011,-117.6330032,4.33,1.4,ml,42,81,0.02505,0.18,ci,ci41101679,2025-10-02T05:37:11.122Z,"9 km SW of Corona, CA",earthquake,0.24,0.54,0.244,20,automatic,ci,ci
 2025-10-02T05:27:27.400Z,36.568500518799,-121.13033294678,5.8000001907349,1.08,md,11,72,0.04445,0.27,nc,nc75243781,2025-10-02T05:29:03.194Z,"4 km NNE of Pinnacles, CA",earthquake,0.72,3.28999996,0.31,8,automatic,nc,nc
 2025-10-02T05:23:23.570Z,38.842666625977,-122.82433319092,0.40000000596046,1.83,md,30,55,0.009615,0.02,nc,nc75243776,2025-10-02T05:24:58.452Z,"9 km WNW of Cobb, CA",earthquake,0.15,0.289999992,0.15,30,automatic,nc,nc
 2025-10-02T05:17:20.123Z,57.6516,-155.3966,19.9,1.8,ml,,,,0.29,ak,ak025cmvvajw,2025-10-02T05:18:47.991Z,"57 km W of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
