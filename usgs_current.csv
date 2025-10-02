@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-02T23:37:41.973Z,39.4385,-119.4106,1,1.2,ml,8,142.71,0.303,0.1649,nn,nn00905346,2025-10-02T23:40:10.235Z,"7 km NNW of Stagecoach, Nevada",earthquake,,120.2,0.38,5,automatic,nn,nn
 2025-10-02T23:26:20.236Z,57.6447,-155.3685,27.8,1.5,ml,,,,0.17,ak,ak025cn6n0w7,2025-10-02T23:28:00.661Z,"55 km W of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2025-10-02T23:23:27.245Z,31.988,-101.373,2.9395,1.5,ml,15,100,0.2,0.6,tx,tx2025tktmnz,2025-10-02T23:25:59.071Z,"13 km S of Forsan, Texas",earthquake,0,1.5322102308273,0.2,9,automatic,tx,tx
 2025-10-02T23:15:47.090Z,17.980166666667,-66.867833333333,13.23,2.45,md,8,109,0.007748,0.05,pr,pr71496878,2025-10-02T23:31:48.060Z,"2 km E of Maria Antonia, Puerto Rico",earthquake,0.77,0.5,0.1842921892207,6,reviewed,pr,pr
