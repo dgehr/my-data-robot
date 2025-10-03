@@ -63,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T00:20:16.300Z,38.5338,-119.4966,7.1,1.6,ml,11,80.75,0.19,0.1294,nn,nn00905348,2025-10-03T00:22:30.613Z,"2 km NW of Walker, California",earthquake,,1.5,0.23,5,automatic,nn,nn
 2025-10-03T00:16:25.837Z,64.9335,-147.8124,3.5,1.2,ml,,,,0.3,ak,ak025cogf9qv,2025-10-03T00:17:55.752Z,"6 km WNW of Farmers Loop, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-10-03T00:14:41.970Z,38.803333282471,-122.78067016602,3.2000000476837,0.78,md,13,64,0.009911,0.02,nc,nc75244091,2025-10-03T00:52:16.873Z,"4 km NW of The Geysers, CA",earthquake,0.35,0.959999979,0.4,14,automatic,nc,nc
-2025-10-03T00:13:48.510Z,28.831,-99.093,7.5254,1.8,ml,11,98,0.3,0.5,tx,tx2025tkvdyg,2025-10-03T00:16:03.370Z,"6 km S of Pearsall, Texas",earthquake,0,4.5187964439392,0.1,7,automatic,tx,tx
+2025-10-03T00:13:45.744Z,28.782,-99.048,3.0248,1.6,ml,18,80,0.1,0.4,tx,tx2025tkvdyg,2025-10-03T07:52:52.658Z,"13 km SSE of Pearsall, Texas",earthquake,2.5715123043911,1.1727174601696,0.1,8,reviewed,tx,tx
 2025-10-03T00:07:26.040Z,38.827835083008,-122.8544998169,1.5599999427795,1.13,md,18,75,0.001876,0.02,nc,nc75244086,2025-10-03T01:37:16.224Z,"10 km WNW of The Geysers, CA",earthquake,0.27,0.349999994,0.14,18,automatic,nc,nc
 2025-10-03T00:07:01.030Z,38.827167510986,-122.85350036621,1.7699999809265,1.01,md,11,105,0.002661,0.02,nc,nc75244081,2025-10-03T01:12:18.017Z,"10 km WNW of The Geysers, CA",earthquake,0.3,0.419999987,0.25,14,automatic,nc,nc
 2025-10-03T00:05:52.497Z,28.925,-99.132,4.7255,2,ml,6,232,0.4,0.2,tx,tx2025tkuxda,2025-10-03T00:09:05.331Z,"3 km WNW of North Pearsall, Texas",earthquake,0,4.3615083694458,0.1,6,automatic,tx,tx
