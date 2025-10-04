@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-04T09:34:18.612Z,60.6144,-151.9448,83.8,1.3,ml,,,,0.68,ak,ak025cq9fd04,2025-10-04T09:36:53.799Z,"34 km W of Salamatof, Alaska",earthquake,,2,,,automatic,ak,ak
 2025-10-04T09:31:13.445Z,64.99,-148.7933,27.4,0.9,ml,,,,1.4,ak,ak025cq9epgw,2025-10-04T09:33:33.415Z,"31 km SE of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-04T09:19:54.930Z,36.0036667,-118.4598333,7.79,0.92,ml,23,67,0.1899,0.17,ci,ci41102407,2025-10-04T09:23:43.914Z,"28 km N of Kernville, CA",earthquake,0.24,1.21,0.146,15,automatic,ci,ci
 2025-10-04T09:19:00.060Z,36.0068333,-118.4563333,8,1.95,ml,32,67,0.1856,0.16,ci,ci41102399,2025-10-04T09:22:35.904Z,"28 km N of Kernville, CA",earthquake,0.16,0.81,0.148,26,automatic,ci,ci
