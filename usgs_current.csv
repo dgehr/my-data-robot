@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-04T11:05:40.290Z,35.7098351,-117.5698318,2.08,1.08,ml,14,123,0.108,0.15,ci,ci41102439,2025-10-04T11:08:06.508Z,"14 km NE of Ridgecrest, CA",earthquake,0.39,0.64,0.135,7,automatic,ci,ci
+2025-10-04T11:10:14.360Z,37.596668243408,-122.46533203125,9.670000076294,1.29,md,12,99,0.03099,0.03,nc,nc75244666,2025-10-04T11:11:49.426Z,"3 km SE of Pacifica, CA",earthquake,0.51,0.75,0.02,8,automatic,nc,nc
+2025-10-04T11:05:40.440Z,35.7205,-117.5606667,4.64,0.96,ml,29,50,0.09965,0.15,ci,ci41102439,2025-10-04T11:09:03.558Z,"15 km WSW of Searles Valley, CA",earthquake,0.18,0.51,0.135,15,automatic,ci,ci
 2025-10-04T10:58:34.529Z,63.1227,-144.4412,1,1.5,ml,,,,0.25,ak,ak025cqa5z18,2025-10-04T11:00:33.945Z,"40 km WNW of Mentasta Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-10-04T10:47:13.210Z,39.90966796875,-120.62733459473,-0.31000000238419,2.06,md,9,113,0.3374,0.07,nc,nc75244656,2025-10-04T10:57:16.761Z,"8 km NE of Cromberg, CA",earthquake,0.58,7.71000004,0.23,4,automatic,nc,nc
+2025-10-04T10:47:13.210Z,39.90966796875,-120.62733459473,-0.31000000238419,2.06,md,9,113,0.3374,0.07,nc,nc75244656,2025-10-04T11:17:20.902Z,"8 km NE of Cromberg, CA",earthquake,0.58,7.71000004,0.23,4,automatic,nc,nc
 2025-10-04T10:36:49.153Z,32.486,-101.155,2.4765,1.1,ml,8,175,0.1,0.3,tx,tx2025tnlnrt,2025-10-04T10:39:26.716Z,"19 km NW of Westbrook, Texas",earthquake,0,2.34144282341,0.2,7,automatic,tx,tx
 2025-10-04T10:29:54.500Z,35.6658333,-117.5143333,5.48,1.02,ml,28,46,0.0738,0.15,ci,ci41102431,2025-10-04T10:33:47.029Z,"15 km SW of Searles Valley, CA",earthquake,0.19,0.81,0.225,19,automatic,ci,ci
 2025-10-04T10:29:03.687Z,62.9387,-148.3348,62,1.6,ml,,,,0.82,ak,ak025cq9zow0,2025-10-04T10:31:15.519Z,"59 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
