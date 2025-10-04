@@ -211,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T23:03:09.000Z,38.824165344238,-122.80366516113,2.3399999141693,1.08,md,11,102,0.005065,0.01,nc,nc75244501,2025-10-03T23:27:17.871Z,"7 km NW of The Geysers, CA",earthquake,0.44,0.670000017,0.22,11,automatic,nc,nc
 2025-10-03T23:02:44.803Z,9.3055,126.5546,46.429,4.6,mb,43,131,2.422,0.75,us,us6000renu,2025-10-04T00:47:04.040Z,"40 km E of Cortes, Philippines",earthquake,12.92,6.148,0.076,51,reviewed,us,us
 2025-10-03T22:59:17.700Z,38.835666656494,-122.78466796875,2.2300000190735,1.48,md,27,68,0.00521,0.02,nc,nc75244496,2025-10-04T00:27:18.318Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.349999994,0.13,27,automatic,nc,nc
-2025-10-03T22:56:12.450Z,62.9539,-148.2989,64.6,1.5,ml,,,,0.84,ak,ak025cotrcnx,2025-10-03T22:58:34.058Z,"58 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-10-03T22:52:41.605Z,51.6336,159.3953,39.352,4.9,mb,71,151,1.465,0.9,us,us6000rent,2025-10-03T23:31:12.040Z,"159 km SSE of Vilyuchinsk, Russia",earthquake,9.45,7.258,0.065,74,reviewed,us,us
