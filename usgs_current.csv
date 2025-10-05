@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-05T07:42:43.210Z,35.4946671,-118.5163345,1.19,1.41,ml,28,70,0.1713,0.14,ci,ci41102783,2025-10-05T07:44:49.663Z,"11 km SSW of Bodfish, CA",earthquake,0.25,0.53,0.288,7,automatic,ci,ci
 2025-10-05T07:34:02.620Z,38.813499450684,-122.79699707031,2.5299999713898,0.8,md,13,70,0.00568,0.01,nc,nc75245001,2025-10-05T07:35:40.624Z,"5 km NW of The Geysers, CA",earthquake,0.27,0.670000017,0.11,14,automatic,nc,nc
 2025-10-05T07:29:30.821Z,36.1955,-116.2571,7.3,-0.2,ml,8,223.28,0.258,0.2233,nn,nn00905453,2025-10-05T07:31:44.659Z,"24 km W of Pahrump, Nevada",earthquake,,17.2,0.22,2,automatic,nn,nn
 2025-10-05T07:28:55.900Z,34.321,-116.8541667,6,1.77,ml,80,25,0.03486,0.14,ci,ci41102775,2025-10-05T07:32:45.078Z,"7 km N of Big Bear City, CA",earthquake,0.09,0.28,0.161,26,automatic,ci,ci
@@ -218,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T07:55:25.880Z,18.019166666667,-66.757166666667,13.26,2.24,md,9,129,0.1242,0.15,pr,pr71496968,2025-10-04T08:07:29.860Z,"1 km E of Magas Arriba, Puerto Rico",earthquake,0.35,0.6,0.21677284943332,7,reviewed,pr,pr
 2025-10-04T07:49:51.939Z,64.6173,-149.7352,18.9,1.1,ml,,,,0.32,ak,ak025cq8bs49,2025-10-04T07:51:34.788Z,"29 km W of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-04T07:47:38.817Z,32.337,-101.536,6.0303,0.7,ml,22,63,0.1,0.1,tx,tx2025tnfxwy,2025-10-04T12:33:58.332Z,"11 km NNW of Big Spring, Texas",earthquake,0.42759879475612,0.98326868366943,0.2,12,reviewed,tx,tx
-2025-10-04T07:41:15.974Z,32.335,-101.539,5.9082,0.8,ml,15,60,0.1,0.1,tx,tx2025tnfspi,2025-10-04T12:27:59.200Z,"10 km NNW of Big Spring, Texas",earthquake,0.62727637615553,1.1675750374797,0.1,6,reviewed,tx,tx
