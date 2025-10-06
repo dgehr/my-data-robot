@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-06T22:40:04.750Z,34.4858322,-118.6955032,17.09,2.66,ml,64,49,0.06636,0.23,ci,ci41104159,2025-10-06T22:42:17.219Z,"7 km W of Castaic, CA",earthquake,0.26,0.67,0.304,24,automatic,ci,ci
+2025-10-06T22:40:04.750Z,34.4858322,-118.6955032,17.09,2.66,ml,64,49,0.06636,0.23,ci,ci41104159,2025-10-06T22:50:25.840Z,"7 km W of Castaic, CA",earthquake,0.26,0.67,0.304,24,automatic,ci,ci
 2025-10-06T22:38:55.161Z,28.734,-98.6,4.1537,1.8,ml,5,161,0.1,0.5,tx,tx2025tsaxpg,2025-10-06T22:40:45.525Z,"11 km WSW of Christine, Texas",earthquake,0,4.2965960502625,0.1,5,automatic,tx,tx
 2025-10-06T22:37:09.033Z,31.7,-104.495,5,0.7,ml,9,114,0,1,tx,tx2025tsawgk,2025-10-06T22:38:50.513Z,"53 km SSW of Whites City, New Mexico",earthquake,0,,0.7,7,automatic,tx,tx
 2025-10-06T22:34:46.140Z,37.876998901367,-122.20916748047,6.8499999046326,1.05,md,15,107,0.01843,0.03,nc,nc75245746,2025-10-06T22:36:22.528Z,"3 km W of Orinda, CA",earthquake,0.31,0.349999994,0.11,9,automatic,nc,nc
