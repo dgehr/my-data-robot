@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-06T18:38:50.358Z,28.762,-98.473,12.5943,1.5,ml,6,116,0,0.1,tx,tx2025trsyus,2025-10-06T18:40:44.147Z,"3 km SE of Christine, Texas",earthquake,0,8.8314218521118,0.2,5,automatic,tx,tx
+2025-10-06T18:53:26.073Z,28.75,-98.478,8.8183,1.5,ml,10,98,0,0.5,tx,tx2025trtljo,2025-10-06T18:55:28.126Z,"4 km SSE of Christine, Texas",earthquake,0,2.8136689662933,0.2,5,automatic,tx,tx
+2025-10-06T18:49:53.840Z,35.8611679,-117.690834,8.86,1.19,ml,17,67,0.07985,0.12,ci,ci41103951,2025-10-06T18:53:15.873Z,"21 km ESE of Little Lake, CA",earthquake,0.47,0.97,0.217,10,automatic,ci,ci
+2025-10-06T18:38:50.358Z,28.762,-98.473,12.5943,1.5,ml,6,116,0,0.1,tx,tx2025trsyus,2025-10-06T18:55:03.253Z,"3 km SE of Christine, Texas",earthquake,0,8.8314218521118,0.2,5,automatic,tx,tx
 2025-10-06T18:38:22.680Z,35.8655,-117.689,8.1,0.64,ml,21,55,0.08384,0.15,ci,ci41103943,2025-10-06T18:41:43.798Z,"21 km ESE of Little Lake, CA",earthquake,0.22,0.57,0.111,11,automatic,ci,ci
 2025-10-06T18:35:27.820Z,35.8635,-117.6871667,8.41,0.86,ml,25,55,0.08362,0.15,ci,ci41103935,2025-10-06T18:38:56.775Z,"21 km ESE of Little Lake, CA",earthquake,0.21,0.54,0.18,16,automatic,ci,ci
 2025-10-06T18:35:21.480Z,33.4008333,-116.8043333,12.52,0.67,ml,21,61,0.06782,0.12,ci,ci41103927,2025-10-06T18:38:51.603Z,"7 km SE of Aguanga, CA",earthquake,0.21,0.51,0.106,14,automatic,ci,ci
@@ -39,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T15:18:27.950Z,44.3435,-115.15466666667,7.47,2.26,ml,19,63,0.3245,0.19,mb,mb90115778,2025-10-06T18:15:01.410Z,"22 km NW of Stanley, Idaho",earthquake,0.43,1.02,0.22501167852821,18,reviewed,mb,mb
 2025-10-06T15:17:50.490Z,35.3486667,-117.788,6.43,1.17,ml,29,90,0.09385,0.16,ci,ci41103743,2025-10-06T17:45:49.314Z,"14 km W of Johannesburg, CA",earthquake,0.19,0.54,0.143,16,reviewed,ci,ci
 2025-10-06T15:08:34.785Z,60.1708,-153.0616,138.6,2.3,ml,,,,0.51,ak,ak025ctnx4ay,2025-10-06T15:21:04.107Z,"69 km E of Port Alsworth, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-10-06T15:02:18.430Z,37.092,-116.2555,6.7,0.3,ml,8,80.64,0.133,0.1945,nn,nn00905496,2025-10-06T15:04:13.585Z,"49 km ENE of Beatty, Nevada",earthquake,,1.7,0.43,6,automatic,nn,nn
+2025-10-06T15:02:19.107Z,37.0833,-116.2556,5,0.3,ml,19,103.15,0.027,0.1424,nn,nn00905496,2025-10-06T18:49:48.053Z,"48 km ENE of Beatty, Nevada",earthquake,,1.1,0.26,9,reviewed,nn,nn
 2025-10-06T15:00:27.960Z,44.686666666667,-110.68933333333,6.28,0.5,md,7,162,0.02973,0.13,uu,uu80005043,2025-10-06T17:42:44.580Z,"32 km S of Mammoth, Wyoming",earthquake,0.79,1.4,0.59703602905089,5,reviewed,uu,uu
 2025-10-06T15:00:15.640Z,44.669166666667,-110.67883333333,4.36,0.45,md,8,90,0.04633,0.21,uu,uu80118856,2025-10-06T17:41:12.370Z,"33 km E of West Yellowstone, Montana",earthquake,0.54,1.14,0.32035093656453,5,reviewed,uu,uu
 2025-10-06T14:59:47.920Z,44.689833333333,-110.67766666667,7.65,-0.32,md,6,94,0.02569,0.08,uu,uu80005048,2025-10-06T17:51:50.770Z,"31 km S of Mammoth, Wyoming",earthquake,0.8,0.83,0.25021915164038,6,reviewed,uu,uu
@@ -234,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T19:02:16.168Z,58.0104,-155.4707,131.8,1.1,ml,,,,0.2,ak,ak025cs2q64i,2025-10-05T19:06:47.453Z,"77 km NW of Karluk, Alaska",earthquake,,4.9,,,automatic,ak,ak
 2025-10-05T18:59:33.266Z,60.0524,-151.8129,62.6,1.6,ml,,,,0.43,ak,ak025cs2gyk4,2025-10-05T19:02:00.487Z,"8 km W of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-10-05T18:56:58.020Z,32.5781667,-117.0553333,14.41,1.37,ml,12,142,0.1097,0.1,ci,ci41103239,2025-10-05T19:04:11.235Z,"3 km NNW of San Ysidro, CA",earthquake,0.39,0.78,0.255,16,automatic,ci,ci
-2025-10-05T18:50:11.510Z,34.4993324,-118.1366653,13.94,1.06,ml,16,64,0.03106,0.16,ci,ci41103231,2025-10-05T22:03:33.920Z,"2 km W of Vincent, CA",earthquake,0.47,0.64,0.228,11,automatic,ci,ci
