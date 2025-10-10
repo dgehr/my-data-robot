@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-10T15:30:53.652Z,62.8334,-151.7052,5.8,1.8,ml,,,,0.73,ak,ak025d0a79ek,2025-10-10T15:39:36.793Z,"61 km NW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-10T15:20:49.090Z,32.7413333,-116.6845,-0.58,1.4,ml,5,138,0.1948,0.08,ci,ci41106191,2025-10-10T15:27:12.091Z,"13 km SE of Alpine, CA",earthquake,1.22,3.31,0.427,7,automatic,ci,ci
 2025-10-10T15:19:21.720Z,38.779167175293,-122.75633239746,1.5499999523163,0.79,md,9,104,0.01119,0.01,nc,nc75247391,2025-10-10T15:20:57.870Z,"0 km N of The Geysers, CA",earthquake,0.35,0.74000001,0.14,8,automatic,nc,nc
-2025-10-10T15:18:46.740Z,38.793334960938,-122.75216674805,1.7599999904633,1.07,md,12,88,0.01573,0.02,nc,nc75247386,2025-10-10T15:20:24.829Z,"2 km NNE of The Geysers, CA",earthquake,0.24,0.550000012,0.2,9,automatic,nc,nc
+2025-10-10T15:18:46.740Z,38.793334960938,-122.75216674805,1.7599999904633,1.07,md,12,88,0.01573,0.02,nc,nc75247386,2025-10-10T15:47:18.609Z,"2 km NNE of The Geysers, CA",earthquake,0.24,0.550000012,0.2,9,automatic,nc,nc
 2025-10-10T15:17:18.430Z,33.0296667,-116.2921667,8.09,0.92,ml,37,40,0.07545,0.19,ci,ci41106183,2025-10-10T15:20:55.475Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.23,0.84,0.151,17,automatic,ci,ci
 2025-10-10T15:11:19.818Z,60.8739,-146.8809,22.6,1.6,ml,,,,0.47,ak,ak025d0a347l,2025-10-10T15:13:41.416Z,"11 km W of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-10T15:05:15.201Z,62.8726,-148.7002,13.2,1.2,ml,,,,0.81,ak,ak025d0a1tjq,2025-10-10T15:10:15.071Z,"59 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -226,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T16:46:18.596Z,36.6024,-117.6806,14.4,2.2,ml,14,69.97,0.361,0.1671,nn,nn00905711,2025-10-09T18:57:30.629Z,"21 km NE of Keeler, California",earthquake,,2.1,0.11,2,reviewed,nn,nn
 2025-10-09T16:25:43.560Z,46.2015,-122.18716666667,6.9,0.02,md,7,145,0.02772,0.02,uw,uw62191417,2025-10-10T05:42:31.190Z,"38 km NNE of Amboy, Washington",earthquake,0.99,1.21,0.23540783430544,5,reviewed,uw,uw
 2025-10-09T16:00:37.240Z,38.821666717529,-122.76716613769,2.0299999713898,0.76,md,12,109,0.009049,0.02,nc,nc75247011,2025-10-09T16:17:19.503Z,"4 km W of Cobb, CA",earthquake,0.27,0.629999995,0.07,12,automatic,nc,nc
-2025-10-09T15:51:38.223Z,61.6918,-150.1295,16.7,2.1,ml,,,,0.84,ak,ak025cymsdu9,2025-10-09T16:04:10.652Z,"7 km SW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
