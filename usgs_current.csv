@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-11T17:54:08.546Z,60.3032,-152.1807,88.9,2,ml,,,,0.25,ak,ak025d1z2iuu,2025-10-11T17:58:46.479Z,"40 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-11T17:50:34.370Z,38.837833404541,-122.79816436768,1.210000038147,0.66,md,7,122,0.006134,0.03,nc,nc75247911,2025-10-11T17:52:11.203Z,"7 km WNW of Cobb, CA",earthquake,0.49,0.75,0.42,7,automatic,nc,nc
 2025-10-11T17:46:48.877Z,63.0934,-150.4755,91.1,1.8,ml,,,,0.54,ak,ak025d1z0w56,2025-10-11T17:51:08.471Z,"68 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-10-11T17:40:19.200Z,38.828666687012,-122.79933166504,1.7000000476837,0.89,md,15,49,0.009905,0.01,nc,nc75247906,2025-10-11T17:41:57.294Z,"7 km W of Cobb, CA",earthquake,0.24,0.449999988,0.2,17,automatic,nc,nc
@@ -237,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-10T18:18:45.830Z,38.79349899292,-122.811668396,3.4100000858307,0.75,md,7,102,0.008475,0.01,nc,nc75247451,2025-10-10T19:07:20.063Z,"5 km WNW of The Geysers, CA",earthquake,0.5,1.55999994,0.12,7,automatic,nc,nc
 2025-10-10T18:15:34.890Z,33.783,-116.082,1.77,1.09,ml,32,86,0.117,0.2,ci,ci41106311,2025-10-10T18:18:57.370Z,"14 km ENE of Indio, CA",earthquake,0.22,0.43,0.118,20,automatic,ci,ci
 2025-10-10T18:15:19.669Z,7.0835,127.0178,38.568,4.9,mb,99,82,1.428,1.2,us,us6000rgec,2025-10-10T19:30:45.040Z,"54 km ESE of Santiago, Philippines",earthquake,7.68,4.087,0.05,123,reviewed,us,us
-2025-10-10T17:56:16.890Z,19.421667098999,-155.27217102051,3.4800000190735,1.97,ml,22,61,0.005962,0.150000006,hv,hv74800777,2025-10-10T17:59:23.100Z,"4 km WSW of Volcano, Hawaii",earthquake,0.33,0.49000001,0.18,7,automatic,hv,hv
