@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-11T09:49:47.650Z,33.8310013,-117.0023346,11.9,1.26,ml,34,113,0.03672,0.18,ci,ci41106631,2025-10-11T09:52:10.671Z,"7 km NW of San Jacinto, CA",earthquake,0.32,0.9,0.247,14,automatic,ci,ci
 2025-10-11T09:31:28.217Z,62.9823,-151.5507,0.1,1.5,ml,,,,0.85,ak,ak025d1u662d,2025-10-11T09:33:40.633Z,"62 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-11T09:25:57.590Z,34.0341667,-117.12,4.11,0.87,ml,53,31,0.006436,0.19,ci,ci41106623,2025-10-11T09:29:32.680Z,"4 km SSE of Mentone, CA",earthquake,0.15,0.3,0.189,29,automatic,ci,ci
 2025-10-11T09:23:41.995Z,62.9666,-148.8315,77.3,0.9,ml,,,,0.46,ak,ak025d1u4hef,2025-10-11T09:25:31.716Z,"47 km S of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
