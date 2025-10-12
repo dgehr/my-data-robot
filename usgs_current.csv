@@ -217,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-11T08:13:31.330Z,38.766666412354,-122.73100280762,1.8099999427795,1.1,md,8,65,0.00698,0.02,nc,nc75247746,2025-10-11T09:12:16.133Z,"2 km ESE of The Geysers, CA",earthquake,0.39,0.829999983,0.27,7,automatic,nc,nc
 2025-10-11T08:06:43.741Z,-56.1829,-26.4921,44.894,5.4,mb,80,81,6.027,1.26,us,us6000rgil,2025-10-11T10:27:34.372Z,"South Sandwich Islands region",earthquake,11.04,6.99,0.075,61,reviewed,us,us
 2025-10-11T08:06:19.355Z,65.8189,-150.4421,3.1,1.4,ml,,,,0.75,ak,ak025d1tfcvj,2025-10-11T08:08:20.758Z,"37 km NNW of Rampart, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-10-11T07:56:31.510Z,33.178,-116.136,10.58,1.43,ml,72,30,0.0348,0.21,ci,ci41106607,2025-10-11T07:59:59.787Z,"4 km N of Ocotillo Wells, CA",earthquake,0.14,0.37,0.15,26,automatic,ci,ci
