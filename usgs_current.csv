@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-13T15:21:05.730Z,33.8738327,-118.2973328,24.92,1.64,ml,17,144,0.08273,0.22,ci,ci41107687,2025-10-13T15:23:23.876Z,"2 km SSE of Gardena, CA",earthquake,1.28,1.31,0.244,25,automatic,ci,ci
+2025-10-13T15:29:12.772Z,59.8251,-153.3151,131.8,2.3,ml,,,,0.57,ak,ak025d58szxm,2025-10-13T15:34:15.152Z,"44 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-13T15:21:06.530Z,33.9126667,-118.3043333,18.89,1.7,ml,38,82,0.04557,0.22,ci,ci41107687,2025-10-13T15:24:43.800Z,"3 km N of Gardena, CA",earthquake,0.37,0.68,0.196,30,automatic,ci,ci
 2025-10-13T15:12:16.550Z,37.447334289551,-118.87300109863,7.8899998664856,1.39,md,10,162,0.1467,0.05,nc,nc75248701,2025-10-13T15:13:51.030Z,"21 km SW of Toms Place, CA",earthquake,0.54,4.03999996,0.16,9,automatic,nc,nc
 2025-10-13T15:05:49.160Z,33.2435,-116.4008333,2.28,1.01,ml,45,50,0.02818,0.21,ci,ci41107655,2025-10-13T15:09:19.123Z,"3 km WSW of Borrego Springs, CA",earthquake,0.18,0.26,0.172,26,automatic,ci,ci
 2025-10-13T14:52:49.000Z,33.445,-116.6405,9.6,1.62,ml,70,21,0.01461,0.2,ci,ci41107647,2025-10-13T15:03:35.180Z,"13 km SSE of Anza, CA",earthquake,0.15,0.3,0.169,26,automatic,ci,ci
