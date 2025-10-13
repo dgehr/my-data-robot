@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-13T17:49:41.460Z,38.823165893555,-122.85333251953,2.579999923706,1.03,md,13,92,0.005174,0.01,nc,nc75248781,2025-10-13T17:51:16.430Z,"10 km WNW of The Geysers, CA",earthquake,0.35,0.569999993,0.26,14,automatic,nc,nc
 2025-10-13T17:28:22.220Z,38.759498596191,-122.70950317383,1.1000000238419,1.16,md,9,121,0.01179,0.02,nc,nc75248776,2025-10-13T17:47:18.346Z,"2 km SW of Anderson Springs, CA",earthquake,0.31,0.370000005,0.18,8,automatic,nc,nc
 2025-10-13T16:55:34.630Z,39.814167022705,-123.44300079346,4.6399998664856,2.1,md,15,108,0.03003,0.24,nc,nc75248761,2025-10-13T17:07:20.076Z,"14 km NNE of Laytonville, CA",earthquake,0.6,1.44000006,0.12,12,automatic,nc,nc
 2025-10-13T16:51:16.305Z,60.2131,-153.8306,186.9,3.8,ml,,,,0.76,ak,ak025d59j5t5,2025-10-13T17:37:55.402Z,"26 km E of Port Alsworth, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -205,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-12T18:18:29.760Z,33.5385,-116.7198333,3.85,0.43,ml,20,42,0.03054,0.1,ci,ci41107215,2025-10-13T14:00:44.761Z,"5 km WSW of Anza, CA",earthquake,0.17,0.27,0.069,10,reviewed,ci,ci
 2025-10-12T18:11:04.164Z,52.5385,159.0215,86.079,4.5,mb,42,143,0.535,0.7,us,us6000rgrl,2025-10-12T18:53:09.040Z,"60 km SE of Vilyuchinsk, Russia",earthquake,7.69,5.809,0.08,46,reviewed,us,us
 2025-10-12T18:02:53.420Z,33.0341667,-116.5078333,6.26,1.05,ml,49,35,0.0726,0.16,ci,ci41107207,2025-10-12T18:06:50.193Z,"10 km ESE of Julian, CA",earthquake,0.14,0.37,0.199,25,automatic,ci,ci
-2025-10-12T17:54:58.105Z,60.3915,-151.9031,63.1,2.3,ml,,,,0.77,ak,ak025d3mlz5u,2025-10-12T18:20:46.040Z,"33 km W of Cohoe, Alaska",earthquake,,1,,,automatic,ak,ak
