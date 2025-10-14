@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-14T18:52:29.510Z,38.76900100708,-122.7379989624,2.5199999809265,1.12,md,11,72,0.01266,0.02,nc,nc75249241,2025-10-14T18:54:07.063Z,"2 km ESE of The Geysers, CA",earthquake,0.39,0.75999999,0.22,12,automatic,nc,nc
 2025-10-14T18:40:24.200Z,33.8863333,-116.891,10.98,1.34,ml,46,34,0.09303,0.17,ci,ci41108279,2025-10-14T18:43:53.422Z,"5 km SSW of Banning, CA",earthquake,0.17,0.53,0.142,28,automatic,ci,ci
 2025-10-14T18:37:57.370Z,32.9751667,-116.092,19.2,1.58,ml,6,154,0.2351,0.23,ci,ci41108271,2025-10-14T18:41:28.407Z,"19 km S of Ocotillo Wells, CA",earthquake,1.85,5.74,0.128,9,automatic,ci,ci
 2025-10-14T18:31:38.890Z,33.7518333,-115.9136667,5.45,1.52,ml,39,69,0.08202,0.18,ci,ci41108263,2025-10-14T18:38:59.600Z,"24 km ENE of Thermal, CA",earthquake,0.21,0.84,0.106,26,automatic,ci,ci
@@ -145,7 +146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-14T03:57:51.731Z,62.9045,-149.0334,66.4,2.3,ml,,,,0.63,ak,ak025d6pd8b4,2025-10-14T04:37:55.040Z,"54 km S of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-14T03:47:44.114Z,53.6643,160.5314,49.225,4.8,mb,74,115,1.298,0.82,us,us6000rgzh,2025-10-14T04:05:28.040Z,"143 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.05,6.94,0.042,172,reviewed,us,us
 2025-10-14T03:43:39.350Z,37.43183517456,-118.87933349609,3.210000038147,2.16,md,27,107,0.1629,0.07,nc,nc75248911,2025-10-14T04:47:18.179Z,"23 km SW of Toms Place, CA",earthquake,0.24,2.20000005,0.15,28,automatic,nc,nc
-2025-10-14T03:39:25.507Z,44.9257,-73.467,8.684,2.6,mb_lg,28,55,0.585,0.51,us,us6000rgze,2025-10-14T18:15:44.822Z,"4 km NNW of Chazy, New York",earthquake,1.6,6.749,0.228,5,reviewed,us,us
+2025-10-14T03:39:25.507Z,44.9257,-73.467,8.684,2.6,mb_lg,28,55,0.585,0.51,us,us6000rgze,2025-10-14T18:51:12.047Z,"4 km NNW of Chazy, New York",earthquake,1.6,6.749,0.228,5,reviewed,us,us
 2025-10-14T03:34:24.223Z,39.605,139.5058,11.325,4.6,mb,59,126,1.681,0.77,us,us6000rgzf,2025-10-14T05:34:11.866Z,"51 km SW of Tennō, Japan",earthquake,7.48,4.275,0.08,47,reviewed,us,us
 2025-10-14T03:19:13.870Z,61.647,-146.3564,2.9,1.7,ml,,,,0.62,ak,ak025d6p507v,2025-10-14T03:21:11.138Z,"44 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-14T03:18:11.060Z,38.750999450684,-122.72966766357,0.34000000357628,1.11,md,9,116,0.01123,0.03,nc,nc75248906,2025-10-14T04:32:17.066Z,"4 km SE of The Geysers, CA",earthquake,0.34,0.49000001,0.15,9,automatic,nc,nc
@@ -221,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-13T18:58:40.258Z,-32.0499,-69.4216,113.255,4.8,mb,57,41,0.813,0.89,us,us6000rgxx,2025-10-14T17:03:12.367Z,"79 km S of Calingasta, Argentina",earthquake,4.83,5.05,0.055,104,reviewed,us,us
 2025-10-13T18:58:37.240Z,33.1608333,-115.7113333,3.01,1.6,ml,5,291,0.0777,0.18,ci,ci41107815,2025-10-13T19:06:26.010Z,"16 km NNW of Westmorland, CA",earthquake,1.84,0.71,0.146,5,reviewed,ci,ci
 2025-10-13T18:55:29.750Z,33.1555,-115.6365,6.58,1.28,ml,28,70,0.02804,0.21,ci,ci41107807,2025-10-13T18:59:00.553Z,"12 km WNW of Calipatria, CA",earthquake,0.28,0.46,0.15,20,automatic,ci,ci
-2025-10-13T18:49:57.292Z,50.6405,156.9695,47.31,4.5,mb,61,137,2.512,0.44,us,us6000rgxy,2025-10-13T19:32:00.040Z,"59 km E of Severo-Kuril’sk, Russia",earthquake,12.43,7.82,0.066,67,reviewed,us,us
