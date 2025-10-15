@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-15T15:49:14.580Z,40.35916519165,-121.97033691406,20.809999465942,2.09,md,6,191,0.1578,0.09,nc,nc75249696,2025-10-15T15:50:57.928Z,"11 km SW of Manton, CA",earthquake,1.3,3.63000011,0.15,8,automatic,nc,nc
 2025-10-15T15:42:02.700Z,40.299331665039,-124.36000061035,6.6900000572205,1.44,md,11,288,0.0172,0.06,nc,nc75249691,2025-10-15T15:43:38.109Z,"7 km WSW of Petrolia, CA",earthquake,1.37,0.870000005,0.14,5,automatic,nc,nc
 2025-10-15T15:27:58.540Z,19.338333129883,-155.18333435059,4.0799999237061,1.76,ml,31,155,0.04299,0.209999993,hv,hv74805421,2025-10-15T15:31:19.730Z,"12 km SSE of Volcano, Hawaii",earthquake,0.47,1.37,1.17,3,automatic,hv,hv
 2025-10-15T15:22:48.060Z,38.841667175293,-122.87866973877,2.3699998855591,0.45,md,7,138,0.005078,0.03,nc,nc75249676,2025-10-15T15:24:24.009Z,"13 km ENE of Cloverdale, CA",earthquake,0.57,0.850000024,0.23,9,automatic,nc,nc
@@ -212,5 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-14T16:20:52.713Z,19.9438,-109.4064,10,4.8,mww,167,200,6.966,0.88,us,us6000rh4j,2025-10-14T19:04:28.040Z,"Revilla Gigedo Islands region",earthquake,10.57,1.944,0.075,17,reviewed,us,us
 2025-10-14T16:17:39.899Z,64.6527,-149.1194,18.3,1,ml,,,,0.23,ak,ak025d6wv9np,2025-10-14T16:19:39.782Z,"5 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-14T16:12:27.681Z,52.4871,158.981,76.146,4.3,mb,32,149,0.574,0.34,us,us6000rh4i,2025-10-14T18:33:40.040Z,"62 km SE of Vilyuchinsk, Russia",earthquake,9.65,7.099,0.101,28,reviewed,us,us
-2025-10-14T15:54:31.500Z,39.239665985107,-123.25166320801,4.289999961853,1.36,md,10,93,0.0512,0.06,nc,nc75249156,2025-10-14T17:32:18.621Z,"5 km SW of Redwood Valley, CA",earthquake,0.37,1.00999999,0.05,6,automatic,nc,nc
-2025-10-14T15:51:06.040Z,38.791831970215,-122.78050231934,3.4500000476837,0.87,md,10,132,0.005949,0.02,nc,nc75249151,2025-10-14T17:07:19.428Z,"3 km NW of The Geysers, CA",earthquake,0.51,1.00999999,0.52,12,automatic,nc,nc
