@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-18T20:50:53.990Z,19.280500411987,-155.36199951172,29.959999084473,2.28999996,md,56,129,0.05383,0.140000001,hv,hv74808076,2025-10-18T20:55:21.370Z,"14 km NE of Pāhala, Hawaii",earthquake,0.36,0.430000007,0.180000007,9,automatic,hv,hv
 2025-10-18T20:46:23.640Z,35.6688333,-117.477,6.8,0.95,ml,33,39,0.04355,0.16,ci,ci41110975,2025-10-18T20:49:49.596Z,"13 km SSW of Searles Valley, CA",earthquake,0.18,0.45,0.112,18,automatic,ci,ci
 2025-10-18T20:32:47.410Z,36.749500274658,-120.81833648682,1.2599999904633,1.73,md,15,109,0.08862,0.12,nc,nc75251196,2025-10-18T20:52:19.006Z,"28 km SSW of South Dos Palos, CA",earthquake,0.32,9.39999962,0.19,15,automatic,nc,nc
 2025-10-18T20:15:05.070Z,33.2633333,-116.4325,4.9,2.68,ml,105,14,0.01374,0.18,ci,ci41110951,2025-10-18T20:31:50.375Z,"5 km W of Borrego Springs, CA",earthquake,0.1,0.3,0.227,26,automatic,ci,ci
@@ -155,6 +156,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-17T21:33:59.060Z,43.298333333333,-123.27733333333,-0.57,1.62,ml,10,79,0.04052,0.15,uw,uw62203501,2025-10-18T18:55:41.850Z,"4 km NNE of Roseburg North, Oregon",explosion,0.54,31.61,0.16612878401157,6,reviewed,uw,uw
 2025-10-17T21:19:26.390Z,35.8408333,-117.6573333,8.56,0.65,ml,19,42,0.05468,0.12,ci,ci41110319,2025-10-17T21:22:51.393Z,"24 km WNW of Searles Valley, CA",earthquake,0.18,0.47,0.156,13,automatic,ci,ci
 2025-10-17T21:12:11.539Z,61.352,-150.4539,39.3,1.7,ml,,,,0.47,ak,ak025dbyfce9,2025-10-17T21:14:06.772Z,"21 km S of Susitna, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2025-10-17T21:07:21.640Z,38.821998596191,-122.81150054932,2.8199999332428,1.07,md,13,60,0.01888,0.02,nc,nc75250751,2025-10-17T22:07:18.623Z,"7 km NW of The Geysers, CA",earthquake,0.29,0.75,0.31,14,automatic,nc,nc
-2025-10-17T21:05:38.020Z,36.541168212891,-121.08966827393,1.2400000095367,1.24,md,10,75,0.0549,0.06,nc,nc75250746,2025-10-17T21:37:16.442Z,"5 km ENE of Pinnacles, CA",earthquake,0.31,0.980000019,0.09,11,automatic,nc,nc
-2025-10-17T21:04:54.351Z,60.1707,-150.6509,45.3,1.8,ml,,,,0.58,ak,ak025dbydpyz,2025-10-17T21:17:01.158Z,"37 km S of Funny River, Alaska",earthquake,,1,,,automatic,ak,ak
