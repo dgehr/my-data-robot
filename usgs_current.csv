@@ -48,6 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-18T19:53:51.730Z,38.812000274658,-122.79266357422,0.43999999761581,1.07,md,13,67,0.004524,0.02,nc,nc75251161,2025-10-18T20:52:18.926Z,"5 km NW of The Geysers, CA",earthquake,0.25,0.430000007,0.05,14,automatic,nc,nc
 2025-10-18T19:47:59.770Z,32.3988333,-115.2591667,5.13,1.75,ml,11,101,0.04391,0.24,ci,ci41110943,2025-10-18T19:55:54.440Z,"8 km NW of Delta, B.C., MX",earthquake,0.63,1.03,0.203,13,automatic,ci,ci
 2025-10-18T19:40:00.072Z,32.14,-101.081,3.1319,1.5,ml,11,87,0.2,0.2,tx,tx2025unvsac,2025-10-18T23:25:10.999Z,"24 km SSW of Westbrook, Texas",earthquake,0,1.8583240509033,0.2,7,automatic,tx,tx
+2025-10-18T19:00:28.480Z,60.483166666667,-152.7245,-0.93,-1.18,ml,4,155,0.01613,0.06,av,av93831661,2025-10-19T04:29:48.860Z,"75 km NW of Ninilchik, Alaska",earthquake,0.31,2.14,0.081610686739872,3,reviewed,av,av
 2025-10-18T18:51:01.275Z,31.668,-104.41,6.8157,1.8,ml,26,70,0,0.4,tx,tx2025untzjr,2025-10-18T18:54:49.318Z,"56 km S of Whites City, New Mexico",earthquake,0,2.2492401599884,0.1,18,automatic,tx,tx
 2025-10-18T18:45:38.015Z,62.2604,-150.3321,13,1.6,ml,,,,0.93,ak,ak025ddkdiqx,2025-10-18T18:47:57.663Z,"8 km SW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-18T18:43:33.440Z,33.9983333,-116.7611667,14.18,1.11,ml,13,158,0.05336,0.11,ci,ci41110911,2025-10-18T18:47:18.470Z,"9 km NNE of Cabazon, CA",earthquake,0.5,0.61,0.218,27,automatic,ci,ci
