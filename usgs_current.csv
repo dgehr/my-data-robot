@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-19T22:48:14.874Z,60.4881,-148.3511,0,2,ml,,,,0.94,ak,ak025dfab701,2025-10-19T22:50:47.688Z,"36 km SSE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-19T22:30:24.727Z,61.4899,-151.1664,0,1.5,ml,,,,0.88,ak,ak025dfa7cw8,2025-10-19T22:32:15.008Z,"35 km W of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-19T22:20:16.410Z,34.0411667,-117.0043333,16.97,0.89,ml,41,39,0.0772,0.17,ci,ci41111479,2025-10-19T22:24:04.479Z,"4 km ENE of Yucaipa, CA",earthquake,0.17,0.42,0.183,30,automatic,ci,ci
 2025-10-19T22:16:03.990Z,34.415,-118.9971667,10.38,1.96,ml,65,26,0.06332,0.3,ci,ci41111471,2025-10-19T22:26:29.340Z,"8 km WNW of Fillmore, CA",earthquake,0.26,0.58,0.184,26,automatic,ci,ci
