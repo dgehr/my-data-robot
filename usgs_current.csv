@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-21T03:41:26.590Z,19.32483291626,-155.1643371582,2.8399999141693,1.95,ml,46,94,0.0511,0.170000002,hv,hv74810486,2025-10-21T03:45:50.440Z,"14 km SSE of Volcano, Hawaii",earthquake,0.34,0.790000021,1.02,5,automatic,hv,hv
+2025-10-21T03:32:45.008Z,32.288,-101.798,4.0481,1,ml,25,42,0,0.4,tx,tx2025uscvff,2025-10-21T03:38:12.370Z,"17 km N of Stanton, Texas",earthquake,0,0.97222185134888,0.2,17,automatic,tx,tx
 2025-10-21T03:24:35.990Z,19.326665878296,-155.09733581543,0.23999999463558,2.15,ml,45,185,0.05046,0.25,hv,hv74810476,2025-10-21T03:28:44.500Z,"15 km SSE of Fern Forest, Hawaii",earthquake,0.47,0.289999992,0.87,8,automatic,hv,hv
-2025-10-21T03:22:51.990Z,37.777000427246,-122.57599639893,7.6300001144409,1.57,md,9,206,0.06106,0.03,nc,nc75252171,2025-10-21T03:24:27.972Z,"8 km NW of San Francisco Zoo, CA",earthquake,0.84,2.46000004,0.18,7,automatic,nc,nc
+2025-10-21T03:22:51.990Z,37.777000427246,-122.57599639893,7.6300001144409,1.57,md,9,206,0.06106,0.03,nc,nc75252171,2025-10-21T03:42:17.307Z,"8 km NW of San Francisco Zoo, CA",earthquake,0.84,2.46000004,0.18,7,automatic,nc,nc
 2025-10-21T03:07:55.810Z,33.9991667,-116.9958333,9.7,0.98,ml,59,27,0.1034,0.18,ci,ci41112063,2025-10-21T03:11:19.775Z,"5 km ENE of Calimesa, CA",earthquake,0.13,0.43,0.178,27,automatic,ci,ci
 2025-10-21T02:59:31.236Z,61.6772,-151.8471,76.6,1.8,ml,,,,0.79,ak,ak025di9jm1v,2025-10-21T03:01:26.354Z,"42 km SW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-10-21T02:38:18.002Z,63.3324,-145.4864,0,1.8,ml,,,,0.98,ak,ak025di9f2zs,2025-10-21T02:40:12.899Z,"27 km NNE of Paxson, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -177,5 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-20T04:12:15.330Z,33.5253333,-116.7356667,3.62,0.55,ml,35,38,0.03998,0.18,ci,ci41111543,2025-10-20T14:01:53.040Z,"7 km WSW of Anza, CA",earthquake,0.18,0.43,0.19,19,reviewed,ci,ci
 2025-10-20T04:03:43.585Z,31.674,-104.403,6.0999,2.6,ml,29,69,0,0.3,tx,tx2025uqidam,2025-10-20T10:08:51.618Z,"55 km S of Whites City, New Mexico",earthquake,1.0919829472963,0.79939654023692,0.2,24,reviewed,tx,tx
 2025-10-20T03:59:41.317Z,31.66,-104.409,5.6897,2,ml,23,88,0,0.3,tx,tx2025uqhznn,2025-10-20T12:29:51.328Z,"57 km S of Whites City, New Mexico",earthquake,0.9679224224858,0.61414168334111,0.1,19,reviewed,tx,tx
-2025-10-20T03:48:52.530Z,64.8338,-147.4931,15.1,1.9,ml,,,,0.36,ak,ak025dgmjdzi,2025-10-20T04:00:27.124Z,"4 km NNE of Badger, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-10-20T03:35:11.030Z,33.5335,-116.732,3.94,0.58,ml,32,38,0.03212,0.19,ci,ci41111535,2025-10-20T14:01:57.610Z,"6 km WSW of Anza, CA",earthquake,0.2,0.38,0.255,16,reviewed,ci,ci
