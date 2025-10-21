@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-21T05:38:41.920Z,18.2605,-66.430666666667,38.08,2.16,md,9,172,0.2324,0.11,pr,pr71498453,2025-10-21T05:53:08.870Z,"5 km NW of Orocovis, Puerto Rico",earthquake,0.7,1.13,0.096768332315912,9,reviewed,pr,pr
+2025-10-21T05:24:10.042Z,-8.6492,-76.1541,10,4.7,mb,49,129,3.386,0.65,us,us6000rief,2025-10-21T05:55:25.040Z,"40 km ESE of Uchiza, Peru",earthquake,10.53,1.897,0.072,59,reviewed,us,us
 2025-10-21T05:22:15.715Z,31.668,-104.408,4.3729,1.8,ml,26,70,0,0.4,tx,tx2025usglol,2025-10-21T05:27:48.938Z,"56 km S of Whites City, New Mexico",earthquake,0,1.1748163700104,0.1,16,automatic,tx,tx
 2025-10-21T05:14:25.892Z,38.4106,-118.3581,0.8414,1.54,ml,9,82,0.197,0.2483,nn,nn00906176,2025-10-21T05:17:14.166Z,"21 km W of Mina, Nevada",earthquake,,10.5769,,,automatic,nn,nn
 2025-10-21T05:02:02.376Z,58.611,-155.1495,8,1.7,ml,,,,0.42,ak,ak025diazmt6,2025-10-21T05:14:10.164Z,"88 km E of King Salmon, Alaska",earthquake,,0.3,,,automatic,ak,ak
