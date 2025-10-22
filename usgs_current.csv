@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-22T22:37:42.150Z,33.2381667,-116.0271667,5.97,1.81,ml,67,45,0.05429,0.2,ci,ci41113007,2025-10-22T22:41:14.206Z,"9 km SW of Salton City, CA",earthquake,0.15,0.56,0.103,26,automatic,ci,ci
 2025-10-22T22:36:29.260Z,38.793998718262,-122.80833435059,3.3599998950958,1.63,md,28,72,0.007001,0.04,nc,nc75253081,2025-10-22T22:39:41.010Z,"5 km WNW of The Geysers, CA",earthquake,0.25,0.419999987,0.13,29,automatic,nc,nc
 2025-10-22T22:34:25.190Z,36.2266667,-118.1573333,3.61,1.46,ml,27,72,0.1464,0.18,ci,ci41112999,2025-10-22T22:38:06.189Z,"15 km WSW of Olancha, CA",earthquake,0.21,0.93,0.193,25,automatic,ci,ci
-2025-10-22T22:23:34.634Z,32.354,-102.173,9.2277,1,ml,11,115,0,0.3,tx,tx2025uvkaol,2025-10-22T22:28:24.340Z,"34 km E of McKinney Acres, Texas",earthquake,0,2.1115839481354,0.3,7,automatic,tx,tx
+2025-10-22T22:23:35.935Z,32.362,-102.18,7.3242,0.9,ml,20,73,0,0.1,tx,tx2025uvkaol,2025-10-22T22:46:29.455Z,"33 km ENE of McKinney Acres, Texas",earthquake,0.73199397404362,0.63020643277471,0.2,13,reviewed,tx,tx
 2025-10-22T22:17:10.660Z,18.032666666667,-66.778666666667,14.92,1.8,md,9,154,0.1116,0.13,pr,pr71498568,2025-10-22T22:29:25.110Z,"1 km NNW of Magas Arriba, Puerto Rico",earthquake,0.47,1.29,0.034194777110238,4,reviewed,pr,pr
 2025-10-22T22:10:56.608Z,61.4506,-149.856,32.8,1.9,ml,,,,0.77,ak,ak025dk8p6ik,2025-10-22T22:22:55.764Z,"6 km W of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-22T22:04:24.650Z,36.2273333,-118.1501667,5.16,0.92,ml,19,71,0.1518,0.16,ci,ci41112991,2025-10-22T22:07:55.325Z,"14 km WSW of Olancha, CA",earthquake,0.26,1.02,0.174,15,automatic,ci,ci
