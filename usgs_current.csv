@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-24T09:44:27.220Z,61.3089,-154.5239,39.3,2,ml,,,,0.91,ak,ak025dnc8frr,2025-10-24T09:46:58.713Z,"49 km E of Lime Village, Alaska",earthquake,,14.1,,,automatic,ak,ak
 2025-10-24T09:37:02.515Z,59.7157,-152.5172,95.1,1.6,ml,,,,0.18,ak,ak025dnc6wsr,2025-10-24T09:39:36.422Z,"39 km W of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-10-24T09:11:20.690Z,38.79349899292,-122.76100158691,0.46000000834465,1.08,md,16,81,0.02104,0.02,nc,nc75253846,2025-10-24T09:27:17.172Z,"2 km NNW of The Geysers, CA",earthquake,0.21,0.550000012,0.11,15,automatic,nc,nc
 2025-10-24T08:48:53.286Z,60.0215,-153.3412,123.8,2.8,ml,,,,0.69,ak,ak025dnbnxy5,2025-10-24T09:00:40.040Z,"50 km ENE of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -12,12 +13,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-24T07:57:53.509Z,57.9252,-153.81,28.6,2.5,ml,,,,0.28,ak,ak025dnb4fue,2025-10-24T07:59:47.711Z,"44 km NNE of Larsen Bay, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-24T07:52:57.369Z,61.3854,-148.8911,26,1.9,ml,,,,0.67,ak,ak025dnb3dk7,2025-10-24T08:05:25.430Z,"8 km S of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-24T07:35:28.474Z,54.4355,-159.9898,35,3.5,ml,19,198,1.568,0.39,us,us6000rj2l,2025-10-24T08:16:17.040Z,"105 km SSE of Sand Point, Alaska",earthquake,6.45,2.017,0.071,26,reviewed,us,us
-2025-10-24T07:25:44.900Z,38.825164794922,-122.79699707031,2.1099998950958,1.12,md,21,36,0.01421,0.02,nc,nc75253831,2025-10-24T07:57:18.488Z,"6 km NNW of The Geysers, CA",earthquake,0.21,0.389999986,0.14,22,automatic,nc,nc
+2025-10-24T07:25:44.900Z,38.825164794922,-122.79699707031,2.1099998950958,1.12,md,21,36,0.01421,0.02,nc,nc75253831,2025-10-24T09:42:18.262Z,"6 km NNW of The Geysers, CA",earthquake,0.21,0.389999986,0.14,22,automatic,nc,nc
 2025-10-24T07:23:23.711Z,64.4502,-147.2326,16,1,ml,,,,0.33,ak,ak025dnax377,2025-10-24T07:25:14.245Z,"17 km WSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-24T07:20:14.080Z,38.822834014893,-122.84200286865,1.5900000333786,1.23,md,18,81,0.005454,0.02,nc,nc75253826,2025-10-24T09:17:19.100Z,"9 km NW of The Geysers, CA",earthquake,0.22,0.379999995,0.14,19,automatic,nc,nc
 2025-10-24T06:58:50.980Z,38.78783416748,-122.77016448975,3.6400001049042,1.1,md,15,81,0.01487,0.02,nc,nc75253811,2025-10-24T08:27:17.725Z,"2 km NW of The Geysers, CA",earthquake,0.31,0.709999979,0.06,16,automatic,nc,nc
 2025-10-24T06:49:06.680Z,17.866666666667,-66.850833333333,10.88,2.45,md,15,214,0.1111,0.23,pr,pr71498718,2025-10-24T06:59:34.990Z,"13 km SSE of Maria Antonia, Puerto Rico",earthquake,0.7,0.83,0.0084563848156791,5,reviewed,pr,pr
-2025-10-24T06:47:24.844Z,35.7269,140.1387,70.242,4.5,mb,44,139,1.761,0.93,us,us6000rj2i,2025-10-24T07:35:23.105Z,"7 km SW of Inba, Japan",earthquake,9.31,7.647,0.094,33,reviewed,us,us
+2025-10-24T06:47:24.844Z,35.7269,140.1387,70.242,4.5,mb,44,139,1.761,0.93,us,us6000rj2i,2025-10-24T09:49:20.911Z,"7 km SW of Inba, Japan",earthquake,9.31,7.647,0.094,33,reviewed,us,us
 2025-10-24T06:39:58.015Z,-6.2633,154.3369,84.833,4.9,mb,31,63,2.987,0.62,us,us6000rj2h,2025-10-24T07:01:24.040Z,"127 km W of Panguna, Papua New Guinea",earthquake,10.37,7.694,0.085,44,reviewed,us,us
 2025-10-24T06:38:55.010Z,17.886333333333,-66.850166666667,12.68,3.31,md,23,203,0.09248,0.25,pr,pr71498708,2025-10-24T07:13:30.040Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.73,0.44,0.0050489820188979,6,reviewed,pr,pr
 2025-10-24T06:03:08.830Z,38.821334838867,-122.76333618164,2.1300001144409,0.7,md,10,121,0.01047,0.02,nc,nc75253806,2025-10-24T08:07:20.570Z,"3 km W of Cobb, CA",earthquake,0.31,0.74000001,0.08,10,automatic,nc,nc
@@ -173,4 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-23T10:09:43.560Z,33.9228333,-117.3038333,13.23,1.59,ml,92,37,0.05377,0.19,ci,ci41113191,2025-10-23T15:01:02.804Z,"5 km NW of March Air Reserve Base, CA",earthquake,0.14,0.29,0.192,89,reviewed,ci,ci
 2025-10-23T10:08:40.910Z,53.366833333333,-168.2285,9.1,0.73,ml,4,288,0.04128,0.24,av,av93051244,2025-10-23T23:05:22.740Z,"63 km NE of Nikolski, Alaska",earthquake,2.16,1.62,0.27690646078578,4,reviewed,av,av
 2025-10-23T10:00:48.342Z,32.455,-102.075,8.4473,1.2,ml,30,70,0.1,0.1,tx,tx2025uwhdjl,2025-10-23T10:45:03.703Z,"32 km SSW of Los Ybanez, Texas",earthquake,0.45853055135443,0.93475722461154,0.2,18,reviewed,tx,tx
-2025-10-23T09:46:52.983Z,32,-103.818,7.7789,1.8,ml,23,69,0,0.1,tx,tx2025uwgrjk,2025-10-23T10:47:55.725Z,"34 km SE of Malaga, New Mexico",earthquake,0.41251640453028,0.51618176663465,0.1,12,reviewed,tx,tx
