@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-25T14:56:28.820Z,38.842666625977,-122.81800079346,2.3599998950958,0.66,md,6,108,0.01268,0.01,nc,nc75254456,2025-10-25T14:58:02.953Z,"9 km WNW of Cobb, CA",earthquake,0.77,2.06999993,0.33,7,automatic,nc,nc
 2025-10-25T14:48:07.472Z,65.2798,-144.5515,0,1.5,ml,,,,0.85,ak,ak025dp2rskr,2025-10-25T14:50:22.798Z,"34 km SSE of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-25T14:30:03.000Z,65.2512,-144.4076,0,1.9,ml,,,,1.22,ak,ak025dp2nxcc,2025-10-25T14:31:53.407Z,"40 km SSE of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-25T14:22:30.765Z,37.3727,-117.5267,15.9693,1.59,ml,21,256,0.224,0.4087,nn,nn00906344,2025-10-25T14:25:20.678Z,"43 km SSE of Silver Peak, Nevada",earthquake,,0.5229,0.19,14,automatic,nn,nn
@@ -136,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-24T20:15:56.080Z,52.284833333333,-174.20183333333,0.4,-0.26,ml,4,324,0.03733,0.12,av,av93051339,2025-10-25T02:15:44.510Z,"9 km N of Atka, Alaska",earthquake,0.96,2.95,0.21730013309615,4,reviewed,av,av
 2025-10-24T20:14:03.670Z,45.912666666667,-122.79833333333,-0.41,1.64,ml,9,187,0.1648,0.15,uw,uw62206446,2025-10-25T04:32:43.000Z,"2 km NNE of Columbia City, Oregon",explosion,1.14,31.61,0.15509908106247,5,reviewed,uw,uw
 2025-10-24T20:09:50.360Z,53.442,-168.09366666667,3.06,0.4,ml,7,152,0.0236,0.27,av,av93842596,2025-10-25T02:05:13.930Z,"75 km NE of Nikolski, Alaska",earthquake,0.65,1.04,0.46478010318297,7,reviewed,av,av
-2025-10-24T20:03:26.351Z,61.8836,-151.2428,66.5,4.6,ml,,,,0.81,ak,ak025dnijfwa,2025-10-25T11:01:23.491Z,"14 km SE of Skwentna, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-10-24T20:03:26.351Z,61.8836,-151.2428,66.5,4.6,ml,,,,0.81,ak,ak025dnijfwa,2025-10-25T15:05:21.707Z,"14 km SE of Skwentna, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-10-24T20:00:19.353Z,58.0052,-156.0157,100.4,1.9,ml,,,,0.57,ak,ak025dniisa6,2025-10-24T20:59:50.673Z,"83 km ESE of Egegik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-24T19:43:13.600Z,38.802833557129,-122.81833648682,2.829999923706,0.75,md,9,102,0.0104,0.01,nc,nc75254051,2025-10-24T21:32:17.060Z,"6 km WNW of The Geysers, CA",earthquake,0.45,1.04999995,0.08,9,automatic,nc,nc
 2025-10-24T19:42:17.181Z,31.549,-104.011,5,1.5,ml,12,190,0.1,0.9,tx,tx2025uyvzuk,2025-10-24T20:00:32.750Z,"33 km NW of Toyah, Texas",earthquake,0,,0.2,7,automatic,tx,tx
