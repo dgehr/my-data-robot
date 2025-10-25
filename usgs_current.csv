@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-25T06:50:00.921Z,31.672,-104.357,4.0597,2.6,ml,37,84,0.1,0.4,tx,tx2025uzsgsk,2025-10-25T06:53:44.039Z,"55 km S of Whites City, New Mexico",earthquake,0,0.99184083938599,0.3,21,automatic,tx,tx
 2025-10-25T06:34:00.639Z,71.6368,-131.8847,7.747,5.3,mww,135,28,3.394,0.71,us,us6000rje7,2025-10-25T06:49:04.040Z,"Beaufort Sea",earthquake,7.74,4.451,0.098,10,reviewed,us,us
 2025-10-25T06:31:51.530Z,19.415166854858,-155.27200317383,1.3300000429153,1.7,ml,14,85,0.0109,0.200000003,hv,hv74814796,2025-10-25T06:34:45.000Z,"5 km SW of Volcano, Hawaii",earthquake,0.3,0.430000007,0.17,12,automatic,hv,hv
 2025-10-25T06:27:31.726Z,61.6306,-147.7262,25.6,1.5,ml,,,,0.96,ak,ak025doxvvkk,2025-10-25T06:39:45.090Z,"20 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
