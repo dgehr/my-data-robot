@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-25T18:40:39.060Z,37.573833465576,-121.88683319092,8.4899997711182,1.96,md,41,37,0.06381,0.34,nc,nc75254506,2025-10-25T18:43:37.660Z,"3 km S of Sunol, CA",earthquake,0.38,1.15999997,0.22,26,automatic,nc,nc
+2025-10-25T18:40:39.060Z,37.573833465576,-121.88683319092,8.4899997711182,1.96,md,41,37,0.06381,0.34,nc,nc75254506,2025-10-25T18:57:19.755Z,"3 km S of Sunol, CA",earthquake,0.38,1.15999997,0.22,26,automatic,nc,nc
 2025-10-25T18:23:51.021Z,32.479,-101.168,2.1226,1.6,ml,25,64,0.1,0.4,tx,tx2025vapgia,2025-10-25T18:28:01.699Z,"19 km NW of Westbrook, Texas",earthquake,0,1.1751701831818,0.2,12,automatic,tx,tx
 2025-10-25T18:11:31.510Z,35.6771667,-117.5558333,7.75,0.89,ml,27,70,0.1082,0.15,ci,ci41319888,2025-10-25T18:14:55.625Z,"12 km ENE of Ridgecrest, CA",earthquake,0.19,0.8,0.121,16,automatic,ci,ci
 2025-10-25T17:33:00.430Z,18.6075,-65.605833333333,20.36,2.76,md,9,193,0.3917,0.13,pr,pr71498788,2025-10-25T17:58:22.030Z,"28 km NNE of Luquillo, Puerto Rico",earthquake,0.61,31.61,0.10261368981774,7,reviewed,pr,pr
