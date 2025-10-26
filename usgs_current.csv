@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-26T09:44:21.290Z,35.9124985,-117.7275009,11.4,1,ml,9,116,0.07187,0.07,ci,ci41320296,2025-10-26T09:46:23.837Z,"16 km E of Little Lake, CA",earthquake,0.67,1.57,0.3,7,automatic,ci,ci
 2025-10-26T09:31:38.360Z,40.537498474121,-124.41883087158,17.129999160767,2.11,md,9,301,0.2385,0.09,nc,nc75254726,2025-10-26T09:33:09.759Z,"14 km WSW of Ferndale, CA",earthquake,3.89,1.02999997,0.15,5,automatic,nc,nc
 2025-10-26T09:28:05.600Z,37.519664764404,-118.66116333008,8.2200002670288,1.48,md,11,145,0.146,0.03,nc,nc75254721,2025-10-26T09:29:40.128Z,"5 km SSE of Toms Place, CA",earthquake,0.74,2.55999994,0.24,12,automatic,nc,nc
 2025-10-26T09:24:02.810Z,39.610332489014,-123.38283538818,6.5900001525879,2.03,md,6,162,0.04337,0.09,nc,nc75254716,2025-10-26T09:25:41.128Z,"12 km SE of Laytonville, CA",earthquake,0.72,1.00999999,0.18,10,automatic,nc,nc
