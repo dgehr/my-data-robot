@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-26T11:05:18.530Z,35.6261673,-117.4728317,6.92,1.63,ml,14,104,0.05577,0.13,ci,ci41320320,2025-10-26T11:07:27.264Z,"17 km SSW of Searles Valley, CA",earthquake,0.47,1.51,0.306,5,automatic,ci,ci
+2025-10-26T10:53:07.020Z,33.5466667,-116.4115,3.82,0.67,ml,45,42,0.1048,0.19,ci,ci41320312,2025-10-26T10:56:40.913Z,"16 km SW of La Quinta, CA",earthquake,0.17,0.58,0.162,15,automatic,ci,ci
 2025-10-26T10:52:03.880Z,38.792167663574,-122.73300170898,0.41999998688698,1.28,md,17,93,0.00938,0.05,nc,nc75254741,2025-10-26T10:53:40.774Z,"3 km NE of The Geysers, CA",earthquake,0.26,0.519999981,0.09,17,automatic,nc,nc
 2025-10-26T10:29:55.421Z,65.3093,-148.95,2.9,2.6,ml,,,,0.72,ak,ak025dqntfrb,2025-10-26T10:33:46.503Z,"25 km NE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-26T10:21:03.337Z,36.3459,-115.4585,8.3723,1.58,ml,30,146,0.29,0.2657,nn,nn00906356,2025-10-26T10:25:41.613Z,"19 km ENE of Mount Charleston, Nevada",earthquake,,0.8547,0.3,22,automatic,nn,nn
