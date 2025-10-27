@@ -186,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-26T18:15:22.450Z,35.354,-117.7938333,4.8,3.07,ml,64,32,0.09628,0.2,ci,ci41320520,2025-10-26T20:51:00.759Z,"15 km W of Johannesburg, CA",earthquake,0.16,0.51,0.182,177,reviewed,ci,ci
 2025-10-26T18:11:15.221Z,63.4945,-148.9436,83,1.7,ml,,,,0.68,ak,ak025dqsgy8z,2025-10-26T18:14:02.063Z,"11 km N of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-10-26T18:05:13.370Z,33.694,-116.8035,16.08,0.61,ml,18,158,0.07376,0.14,ci,ci41320512,2025-10-27T14:04:55.440Z,"9 km WSW of Idyllwild, CA",earthquake,0.42,0.48,0.222,9,reviewed,ci,ci
-2025-10-26T17:53:01.157Z,63.3087,-151.8835,8,1.2,ml,,,,1.05,ak,ak025dqs4hz7,2025-10-26T17:55:13.117Z,"27 km SSW of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
