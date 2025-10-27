@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-27T11:50:14.400Z,34.0238333,-117.2111667,12.75,0.9,ml,46,41,0.08283,0.16,ci,ci41320888,2025-10-27T11:54:52.285Z,"4 km SW of Redlands, CA",earthquake,0.19,0.53,0.179,30,automatic,ci,ci
+2025-10-27T11:49:24.530Z,33.5273333,-116.7333333,3.24,1.11,ml,62,26,0.03811,0.2,ci,ci41320880,2025-10-27T11:53:03.961Z,"6 km WSW of Anza, CA",earthquake,0.14,0.39,0.161,27,automatic,ci,ci
 2025-10-27T11:43:41.415Z,31.59,-104.118,4.1228,1.5,ml,23,63,0.1,0.2,tx,tx2025vdtlhz,2025-10-27T11:48:41.223Z,"43 km NW of Toyah, Texas",earthquake,0,1.3693511486053,0.2,10,automatic,tx,tx
-2025-10-27T11:38:38.100Z,38.84049987793,-122.81083679199,2.0599999427795,0.59,md,10,98,0.01614,0.01,nc,nc75255236,2025-10-27T11:40:17.687Z,"8 km WNW of Cobb, CA",earthquake,0.42,1.42999995,0.14,10,automatic,nc,nc
+2025-10-27T11:38:38.100Z,38.84049987793,-122.81083679199,2.0599999427795,0.59,md,10,98,0.01614,0.01,nc,nc75255236,2025-10-27T11:57:20.508Z,"8 km WNW of Cobb, CA",earthquake,0.42,1.42999995,0.14,10,automatic,nc,nc
 2025-10-27T11:19:25.970Z,34.0218333,-117.2111667,13.49,1.46,ml,89,19,0.08082,0.18,ci,ci41320872,2025-10-27T11:41:35.370Z,"5 km SW of Redlands, CA",earthquake,0.13,0.3,0.186,26,automatic,ci,ci
 2025-10-27T11:07:54.090Z,-21.6155,-68.4447,119.76,4.3,mb,95,60,0.763,0.68,us,us6000rjpy,2025-10-27T11:36:47.040Z,"47 km SSW of Ollagüe, Chile",earthquake,5.95,6.121,0.058,85,reviewed,us,us
 2025-10-27T11:07:29.970Z,33.2403333,-116.3895,4.33,1.19,ml,51,37,0.03619,0.2,ci,ci41320864,2025-10-27T11:17:41.616Z,"2 km SW of Borrego Springs, CA",earthquake,0.19,0.42,0.34,7,automatic,ci,ci
@@ -17,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-27T10:02:28.660Z,38.84349822998,-122.88033294678,2.3800001144409,0.95,md,11,143,0.005804,0.03,nc,nc75255196,2025-10-27T10:37:22.834Z,"13 km ENE of Cloverdale, CA",earthquake,0.44,0.680000007,0.25,12,automatic,nc,nc
 2025-10-27T10:02:18.978Z,63.9937,-148.4469,18,2,ml,,,,1,ak,ak025dsb6wgh,2025-10-27T10:14:39.807Z,"29 km ENE of Healy, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2025-10-27T09:34:47.060Z,38.741832733154,-122.8261642456,3.2999999523163,1.09,md,13,198,0.03124,0.04,nc,nc75255176,2025-10-27T10:07:16.621Z,"7 km WSW of The Geysers, CA",earthquake,0.53,0.949999988,0.11,13,automatic,nc,nc
-2025-10-27T09:34:14.080Z,38.792667388916,-122.77850341797,2.9900000095367,0.62,md,8,146,0.007375,0.02,nc,nc75255171,2025-10-27T09:52:20.512Z,"3 km NW of The Geysers, CA",earthquake,0.9,1.51999998,0.31,7,automatic,nc,nc
+2025-10-27T09:34:14.080Z,38.792667388916,-122.77850341797,2.9900000095367,0.62,md,8,146,0.007375,0.02,nc,nc75255171,2025-10-27T11:57:19.411Z,"3 km NW of The Geysers, CA",earthquake,0.9,1.51999998,0.31,7,automatic,nc,nc
 2025-10-27T09:24:03.799Z,61.0451,-152.3035,109.1,1.5,ml,,,,0.45,ak,ak025dsaq66d,2025-10-27T09:26:29.756Z,"63 km W of Tyonek, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-10-27T09:22:22.764Z,61.225,-141.3484,24.9,1.2,ml,,,,0.94,ak,ak025dsaps42,2025-10-27T09:25:19.172Z,"87 km ESE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-27T09:05:46.910Z,38.75016784668,-122.71366882324,1.210000038147,1.17,md,12,81,0.01438,0.03,nc,nc75255166,2025-10-27T11:32:21.395Z,"3 km SW of Anderson Springs, CA",earthquake,0.42,0.330000013,0.19,12,automatic,nc,nc
