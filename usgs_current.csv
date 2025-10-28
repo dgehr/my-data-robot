@@ -165,6 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-28T04:34:02.050Z,46.504166666667,-122.4025,22.14,1.55,ml,73,27,0.1253,0.11,uw,uw62208466,2025-10-28T16:59:56.340Z,"6 km ESE of Mossyrock, Washington",earthquake,0.15,0.35,0.15789170177762,37,reviewed,uw,uw
 2025-10-28T04:31:55.249Z,32.099,-101.489,8.1299,0.9,ml,16,59,0.1,0.1,tx,tx2025vfawjd,2025-10-28T12:47:33.395Z,"11 km W of Forsan, Texas",earthquake,0.55680565993956,0.88934945611032,0.1,6,reviewed,tx,tx
 2025-10-28T04:24:06.790Z,33.6385,-117.9958333,15.31,1.95,ml,72,90,0.06343,0.21,ci,ci41321232,2025-10-28T15:31:50.672Z,"6 km S of Huntington Beach, CA",earthquake,0.23,0.28,0.144,110,reviewed,ci,ci
+2025-10-28T04:20:25.650Z,60.090166666667,-152.981,0.92,0.02,ml,5,306,0.05291,0.25,av,av93851151,2025-10-28T23:43:18.380Z,"71 km ENE of Pedro Bay, Alaska",earthquake,1.35,0.7,0.32359858772177,5,reviewed,av,av
 2025-10-28T04:19:44.120Z,40.7485,-112.0605,6.37,0.22,md,12,56,0.02852,0.15,uu,uu80005208,2025-10-28T15:05:42.680Z,"5 km NE of Magna, Utah",earthquake,0.51,1.16,0.55074056346104,3,reviewed,uu,uu
 2025-10-28T04:12:21.550Z,19.312,-155.42283333333,28.61,1.56,ml,43,63,0.04106,0.13,hv,hv74817871,2025-10-28T17:16:57.290Z,"13 km NNE of Pāhala, Hawaii",earthquake,0.4,0.57,0.33767772006501,17,reviewed,hv,hv
 2025-10-28T04:11:20.850Z,17.942166666667,-66.754833333333,8.47,2.38,md,11,172,0.08492,0.16,pr,pr71499078,2025-10-28T04:20:47.990Z,"7 km SW of Tallaboa, Puerto Rico",earthquake,0.51,1.5,0.070525259833326,6,reviewed,pr,pr
@@ -202,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-28T00:10:07.854Z,32.436,-102.068,6.2256,0.6,ml,15,84,0,0.2,tx,tx2025vesetm,2025-10-28T13:01:16.471Z,"34 km SSW of Los Ybanez, Texas",earthquake,0.63638585259523,1.2239572588419,0.1,13,reviewed,tx,tx
 2025-10-27T23:54:53.390Z,53.497166666667,-167.4405,10.56,0.82,ml,11,196,0.2946,0.18,av,av93850736,2025-10-28T21:55:11.220Z,"73 km SW of Unalaska, Alaska",earthquake,1.4,1.24,0.14926562802261,11,reviewed,av,av
 2025-10-27T23:51:37.017Z,16.514,-59.7097,10,4.6,mb,35,146,1.317,0.37,us,us6000rjtz,2025-10-28T02:11:01.040Z,"147 km E of Beauséjour, Guadeloupe",earthquake,5.34,1.935,0.064,72,reviewed,us,us
-2025-10-27T23:45:48.868Z,54.5065,-160.0841,35,4.2,mb,29,185,1.479,0.47,us,us6000rjty,2025-10-28T07:38:21.558Z,"96 km SSE of Sand Point, Alaska",earthquake,6.55,1.991,0.159,11,reviewed,us,us
