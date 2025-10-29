@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-29T07:44:45.770Z,35.6744995,-117.4933319,3.13,1.34,ml,17,60,0.05746,0.13,ci,ci41322000,2025-10-29T07:46:50.244Z,"13 km SW of Searles Valley, CA",earthquake,0.37,0.45,0.316,7,automatic,ci,ci
+2025-10-29T07:48:45.587Z,32.304,-101.641,1.3135,1.1,ml,23,50,0,0.6,tx,tx2025vhdcvy,2025-10-29T07:52:42.414Z,"16 km WNW of Big Spring, Texas",earthquake,0,1.0812245607376,0.1,14,automatic,tx,tx
+2025-10-29T07:48:15.260Z,19.312000274658,-155.21949768066,0.43999999761581,1.94,ml,50,83,0.03099,0.159999996,hv,hv74818921,2025-10-29T07:52:13.660Z,"14 km S of Volcano, Hawaii",earthquake,0.18,0.230000004,0.22,4,automatic,hv,hv
+2025-10-29T07:44:45.730Z,35.6708333,-117.4951667,4.01,1.12,ml,32,42,0.05846,0.16,ci,ci41322000,2025-10-29T07:48:16.642Z,"14 km SW of Searles Valley, CA",earthquake,0.16,0.52,0.148,20,automatic,ci,ci
 2025-10-29T07:39:59.610Z,38.776500701904,-122.7448348999,4.710000038147,0.77,md,10,108,0.009243,0.09,nc,nc75256096,2025-10-29T07:41:35.584Z,"1 km E of The Geysers, CA",earthquake,0.63,1.03999996,0.2,9,automatic,nc,nc
 2025-10-29T07:38:54.100Z,35.6981667,-117.5215,6.59,0.74,ml,23,49,0.08618,0.16,ci,ci41321992,2025-10-29T07:42:17.761Z,"13 km SW of Searles Valley, CA",earthquake,0.27,0.69,0.075,9,automatic,ci,ci
 2025-10-29T07:38:43.742Z,31.702,-101.727,2.7564,1.4,ml,29,59,0.1,0.6,tx,tx2025vhcuew,2025-10-29T07:41:37.248Z,"29 km SW of Garden City, Texas",earthquake,0,1.1669991016388,0.1,17,automatic,tx,tx
