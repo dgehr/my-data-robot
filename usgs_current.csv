@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-29T19:24:28.352Z,32.359,-102.168,7.4185,1,ml,11,113,0,0.2,tx,tx2025viabsk,2025-10-29T19:27:19.977Z,"34 km E of McKinney Acres, Texas",earthquake,0,2.5285160541534,0.2,8,automatic,tx,tx
 2025-10-29T19:13:21.110Z,38.802833557129,-122.77899932861,3.2999999523163,0.75,md,14,67,0.01049,0.01,nc,nc75256291,2025-10-29T19:14:56.220Z,"3 km NW of The Geysers, CA",earthquake,0.36,0.910000026,0.17,14,automatic,nc,nc
-2025-10-29T19:12:09.224Z,57.3254,-153.6282,28.9,3.6,ml,,,,0.59,ak,ak025dvromz5,2025-10-29T19:19:26.499Z,"23 km NW of Old Harbor, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-10-29T19:12:09.224Z,57.3254,-153.6282,28.9,3.6,ml,,,,0.59,ak,ak025dvromz5,2025-10-29T19:25:01.203Z,"23 km NW of Old Harbor, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-10-29T19:09:50.070Z,38.837665557861,-122.83683013916,1.3899999856949,0.65,md,9,120,0.001397,0.02,nc,nc75256286,2025-10-29T19:11:26.384Z,"10 km NW of The Geysers, CA",earthquake,0.35,0.699999988,0.16,10,automatic,nc,nc
 2025-10-29T19:07:14.326Z,62.3717,-149.1584,0,1.8,ml,,,,0.66,ak,ak025dvrnkqw,2025-10-29T19:09:07.111Z,"42 km ENE of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-29T18:55:33.190Z,38.824165344238,-122.84400177002,1.4400000572205,0.78,md,8,95,0.007086,0.02,nc,nc75256281,2025-10-29T19:17:19.925Z,"9 km NW of The Geysers, CA",earthquake,0.44,0.779999971,0.11,8,automatic,nc,nc
