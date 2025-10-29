@@ -181,5 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-28T10:12:16.100Z,61.333166666667,-152.095,3.36,-0.44,ml,11,119,0.05458,0.27,av,av93851816,2025-10-29T08:15:45.640Z,"58 km WNW of Beluga, Alaska",earthquake,0.85,1.12,0.1700069060102,10,reviewed,av,av
 2025-10-28T10:05:20.480Z,54.754166666667,-164.01883333333,9.49,0.77,ml,4,122,0.04654,0.3,av,av93851801,2025-10-29T00:31:20.950Z,"40 km WSW of False Pass, Alaska",earthquake,1.16,1.87,0.20884501774112,4,reviewed,av,av
 2025-10-28T09:58:35.320Z,39.6415,-111.284,-3.39,0.96,md,11,99,0.06192,0.16,uu,uu80005213,2025-10-28T15:12:27.130Z,"11 km W of Clear Creek, Utah",earthquake,1.06,0.84,0.76660661294277,3,reviewed,uu,uu
-2025-10-28T09:55:16.078Z,64.7312,-149.0133,13.6,0.9,ml,,,,0.22,ak,ak025dtyg6pj,2025-10-28T09:57:07.603Z,"15 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-10-28T09:54:10.660Z,33.639,-117.0168333,12.8,0.95,ml,40,43,0.01258,0.18,ci,ci41321520,2025-10-28T13:20:29.550Z,"10 km SE of Winchester, CA",earthquake,0.19,0.34,0.244,28,reviewed,ci,ci
