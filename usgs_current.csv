@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-31T21:44:50.470Z,34.3408318,-116.8880005,1.81,1.33,ml,13,83,0.0506,0.16,ci,ci41323472,2025-10-31T21:46:53.011Z,"10 km NNW of Big Bear City, CA",earthquake,0.51,0.65,0.122,6,automatic,ci,ci
+2025-10-31T21:44:50.460Z,34.345,-116.8888333,-1.61,1.15,ml,29,46,0.05086,0.26,ci,ci41323472,2025-10-31T21:48:22.690Z,"10 km NNW of Big Bear City, CA",earthquake,0.34,0.68,0.138,29,automatic,ci,ci
 2025-10-31T21:27:48.451Z,7.0559,127.0652,9.82,5,mb,33,69,1.475,1.05,us,us6000rkup,2025-10-31T21:39:06.040Z,"60 km ESE of Santiago, Philippines",earthquake,6.81,5.158,0.094,37,reviewed,us,us
 2025-10-31T21:13:30.980Z,33.1905,-115.593,3.77,2.07,ml,33,87,0.02301,0.19,ci,ci41323464,2025-10-31T21:17:05.423Z,"9 km SW of Niland, CA",earthquake,0.2,0.18,0.372,18,automatic,ci,ci
 2025-10-31T21:12:01.472Z,62.7287,-150.191,250,2.8,ml,,,,0.9,ak,ak025dz3y6j7,2025-10-31T21:15:08.994Z,"31 km N of Chase, Alaska",earthquake,,2.9,,,automatic,ak,ak
@@ -247,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-30T22:04:52.040Z,38.836166381836,-122.79983520508,2.2300000190735,1.03,md,15,64,0.007743,0.02,nc,nc75256836,2025-10-30T23:32:19.531Z,"7 km WNW of Cobb, CA",earthquake,0.27,0.610000014,0.12,15,automatic,nc,nc
 2025-10-30T22:04:06.310Z,34.0203333,-117.5506667,9.99,0.76,ml,17,73,0.08018,0.14,ci,ci41322928,2025-10-31T20:28:31.781Z,"4 km NW of Mira Loma, CA",earthquake,0.31,0.61,0.091,7,reviewed,ci,ci
 2025-10-30T22:00:36.390Z,44.271333333333,-123.26583333333,-0.34,1.31,ml,8,90,0.0389,0.22,uw,uw62201167,2025-10-31T16:49:14.650Z,"5 km SSE of Monroe, Oregon",explosion,0.74,31.61,0.095871740067841,5,reviewed,uw,uw
-2025-10-30T21:48:32.790Z,48.419833333333,-116.5635,-1.07,2.15,md,7,165,0.4043,0.56,uw,uw62201147,2025-10-31T16:42:58.120Z,"12 km NNW of Kootenai, Idaho",explosion,3.34,31.61,0.18875878064742,5,reviewed,uw,uw
