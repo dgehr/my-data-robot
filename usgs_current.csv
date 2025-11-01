@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-01T11:33:55.177Z,32.397,-102.137,5.2597,1.1,ml,16,136,0,0.5,tx,tx2025vmxtnl,2025-11-01T11:36:46.516Z,"38 km ENE of McKinney Acres, Texas",earthquake,0,1.5093911886215,0.3,10,automatic,tx,tx
 2025-11-01T11:22:49.050Z,36.546165466309,-121.39333343506,13.270000457764,1.41,md,12,50,0.05231,0.06,nc,nc75257511,2025-11-01T11:24:25.794Z,"6 km NE of Gonzales, CA",earthquake,0.35,1.45000005,0.24,10,automatic,nc,nc
 2025-11-01T11:10:51.161Z,59.5592,-152.308,64.8,2.8,ml,,,,0.46,ak,ak025e0livc2,2025-11-01T11:15:01.032Z,"31 km NW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-11-01T10:53:33.401Z,31.79,-101.906,4.0548,1.5,ml,45,50,0,0.3,tx,tx2025vmwktc,2025-11-01T11:15:37.952Z,"28 km SE of Midland, Texas",earthquake,0,0.90699636936188,0.2,31,automatic,tx,tx
@@ -205,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-31T11:46:12.970Z,38.793834686279,-122.76316833496,2.9000000953674,0.75,md,10,79,0.007298,0.03,nc,nc75257066,2025-10-31T11:47:51.345Z,"2 km NNW of The Geysers, CA",earthquake,0.34,1.33000004,0.06,11,automatic,nc,nc
 2025-10-31T11:46:07.530Z,34.0015,-117.2055,5.6,1.25,ml,67,25,0.06044,0.21,ci,ci41323152,2025-10-31T11:50:39.560Z,"6 km SSW of Redlands, CA",earthquake,0.16,0.59,0.207,26,automatic,ci,ci
 2025-10-31T11:46:03.820Z,34.0186667,-117.2286667,7.13,0.75,ml,21,106,0.098,0.22,ci,ci41323144,2025-10-31T11:49:51.479Z,"4 km SE of Loma Linda, CA",earthquake,0.47,1.07,0.088,5,automatic,ci,ci
-2025-10-31T11:31:55.490Z,38.786834716797,-122.76616668701,2.4300000667572,1.08,md,15,77,0.01466,0.02,nc,nc75257061,2025-10-31T11:33:31.366Z,"1 km NW of The Geysers, CA",earthquake,0.29,0.610000014,0.09,14,automatic,nc,nc
