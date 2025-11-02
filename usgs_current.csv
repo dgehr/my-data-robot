@@ -138,7 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-02T03:47:57.460Z,34.291,-116.8438333,6.68,2.11,ml,94,28,0.05848,0.15,ci,ci41324296,2025-11-02T14:55:33.380Z,"3 km N of Big Bear City, CA",earthquake,0.1,0.38,0.199,27,reviewed,ci,ci
 2025-11-02T03:42:38.978Z,38.2365,-117.716,1.3911,1.78,ml,18,111,0.215,0.2496,nn,nn00906697,2025-11-02T03:45:45.011Z,"38 km ESE of Mina, Nevada",earthquake,,1.9707,0.36,8,automatic,nn,nn
 2025-11-02T03:31:05.538Z,31.665,-104.469,9.493,0.1,ml,8,170,0,0.3,tx,tx2025vodmiy,2025-11-02T05:07:32.141Z,"57 km S of Whites City, New Mexico",earthquake,0,3.8369145393372,0.4,7,automatic,tx,tx
-2025-11-02T03:19:08.510Z,35.911833333333,-90.020166666667,7.67,2.17,md,23,69,0.05308,0.09,nm,nm60615286,2025-11-02T17:22:47.419Z,"6 km NNE of Dell, Arkansas",earthquake,0.55,0.71,0.16463842573156,15,reviewed,nm,nm
+2025-11-02T03:19:08.510Z,35.911833333333,-90.020166666667,7.67,2.17,md,23,69,0.05308,0.09,nm,nm60615286,2025-11-02T23:48:26.570Z,"6 km NNE of Dell, Arkansas",earthquake,0.55,0.71,0.16463842573156,15,reviewed,nm,nm
 2025-11-02T03:10:39.600Z,38.829666137695,-122.81583404541,1.8899999856949,1.28,md,23,46,0.01636,0.02,nc,nc75257836,2025-11-02T05:42:17.557Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.379999995,0.08,24,automatic,nc,nc
 2025-11-02T03:09:53.520Z,57.842666666667,-156.119,11.13,0.97,ml,10,149,0.1366,0.22,av,av93862491,2025-11-02T21:45:33.410Z,"84 km ENE of Ugashik, Alaska",earthquake,0.74,1,0.20155123962461,11,reviewed,av,av
 2025-11-02T03:09:20.913Z,-7.5563,127.7415,176.204,5.2,mww,64,24,3.703,0.98,us,us6000rkzu,2025-11-02T03:42:40.737Z,"134 km NE of Lospalos, Timor Leste",earthquake,7.79,6.757,0.061,26,reviewed,us,us
@@ -170,4 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-02T00:15:47.460Z,31.866,-101.715,6.6895,1.1,ml,24,55,0,0.2,tx,tx2025vnwzzv,2025-11-02T01:35:06.683Z,"22 km W of Garden City, Texas",earthquake,0.61883129311318,1.1050735476412,0.1,12,reviewed,tx,tx
 2025-11-02T00:06:02.864Z,31.131,-103.307,3.9978,2,ml,19,71,0,0.2,tx,tx2025vnwrqt,2025-11-02T02:09:15.504Z,"26 km WSW of Coyanosa, Texas",earthquake,0.79633377114605,1.6824993473059,0.1,16,reviewed,tx,tx
 2025-11-02T00:00:08.750Z,34.0595,-116.7401667,3.02,0.68,ml,31,36,0.06117,0.17,ci,ci41324248,2025-11-02T00:04:03.381Z,"15 km W of Morongo Valley, CA",earthquake,0.19,0.48,0.105,17,automatic,ci,ci
-2025-11-01T23:43:22.095Z,38.2795,-116.6098,3.2817,1.88,ml,14,275,0.523,0.1784,nn,nn00906696,2025-11-01T23:46:29.901Z,"59 km ENE of Tonopah, Nevada",earthquake,,2.311,0.62,6,automatic,nn,nn
