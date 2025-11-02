@@ -174,5 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-01T09:17:42.170Z,60.413,-151.5888,47.2,2.3,ml,,,,0.48,ak,ak025e0kdhhu,2025-11-01T09:30:11.490Z,"16 km WNW of Cohoe, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-11-01T09:07:57.710Z,46.193166666667,-122.19183333333,7.48,0.34,ml,14,90,0.00665,0.14,uw,uw62201527,2025-11-01T23:10:17.000Z,"37 km NNE of Amboy, Washington",earthquake,0.31,0.41,0.10581750677772,7,reviewed,uw,uw
 2025-11-01T09:02:31.480Z,42.029,-119.95216666667,3.05,2.33,ml,8,209,0.1455,0.14,uw,uw62201522,2025-11-01T23:00:03.910Z,"24 km NE of Fort Bidwell, California",earthquake,0.65,1.62,0.11953050853122,3,reviewed,uw,uw
-2025-11-01T08:39:55.430Z,33.9731667,-117.226,12.23,2.02,ml,115,16,0.05117,0.18,ci,ci41323752,2025-11-01T08:50:28.570Z,"5 km N of Moreno Valley, CA",earthquake,0.11,0.29,0.17,25,automatic,ci,ci
-2025-11-01T08:38:14.400Z,38.831001281738,-122.81433105469,2.1900000572205,0.7,md,12,61,0.01798,0.01,nc,nc75257471,2025-11-01T08:39:51.689Z,"8 km NW of The Geysers, CA",earthquake,0.31,1.33000004,0.12,13,automatic,nc,nc
