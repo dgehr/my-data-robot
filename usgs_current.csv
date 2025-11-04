@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-04T19:56:34.073Z,38.4869,-116.4666,3.9446,2.49,ml,18,79,0.657,0.2587,nn,nn00906856,2025-11-04T19:59:47.261Z,"81 km NE of Tonopah, Nevada",earthquake,,1.0947,0.32,10,automatic,nn,nn
 2025-11-04T19:50:44.943Z,60.3634,-150.1777,32.9,2.1,ml,,,,0.43,ak,ak025e5p4xv2,2025-11-04T19:52:41.618Z,"23 km SW of Cooper Landing, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-04T19:31:08.626Z,67.6033,142.7771,10,4.8,mww,98,51,6.311,0.7,us,us6000rlh2,2025-11-04T19:53:13.040Z,"176 km SW of Belaya Gora, Russia",earthquake,7.5,1.671,0.093,11,reviewed,us,us
 2025-11-04T19:21:33.581Z,38.1474,-116.5565,6.2915,2.17,ml,20,237,0.415,0.2208,nn,nn00906853,2025-11-04T19:24:27.416Z,"59 km E of Tonopah, Nevada",earthquake,,1.3677,0.24,11,automatic,nn,nn
