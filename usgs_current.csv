@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-06T07:23:56.510Z,63.293,-148.8557,9.2,1.5,ml,,,,0.35,ak,ak025e8swo5f,2025-11-06T07:25:24.281Z,"11 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-11-06T07:23:56.527Z,63.2949,-148.8229,10.5,1.5,ml,,,,0.87,ak,ak025e8swo5f,2025-11-06T07:36:25.288Z,"12 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-06T07:04:24.920Z,38.258,-118.8415,6.9626,1.94,ml,13,101,0.264,0.3604,nn,nn00906955,2025-11-06T07:07:18.936Z,"34 km E of Bridgeport, California",earthquake,,1.3535,0.3,8,automatic,nn,nn
 2025-11-06T06:54:23.040Z,38.803001403809,-122.80699920654,1.4500000476837,1.07,md,16,66,0.0104,0.02,nc,nc75259716,2025-11-06T07:17:19.454Z,"5 km WNW of The Geysers, CA",earthquake,0.22,0.50999999,0.09,16,automatic,nc,nc
 2025-11-06T06:54:15.151Z,60.6121,-152.762,126,2.2,ml,,,,0.45,ak,ak025e8shsi0,2025-11-06T07:25:15.828Z,"78 km W of Salamatof, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -201,7 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-05T07:45:42.050Z,35.3581667,-117.7926667,5.56,1.05,ml,37,75,0.1004,0.21,ci,ci40481370,2025-11-05T23:37:34.407Z,"14 km W of Johannesburg, CA",earthquake,0.22,0.84,0.15,15,reviewed,ci,ci
 2025-11-05T07:43:09.280Z,54.765666666667,-163.88966666667,6.16,0.96,ml,4,165,0.07798,0.29,av,av93870101,2025-11-05T20:16:38.190Z,"32 km WSW of False Pass, Alaska",earthquake,1.17,3.45,0.17948832908368,4,reviewed,av,av
 2025-11-05T07:39:06.904Z,38.4536,-116.4966,7.1639,1.58,ml,10,164,0.499,0.1309,nn,nn00906916,2025-11-06T02:05:55.471Z,"77 km ENE of Tonopah, Nevada",earthquake,,3.3384,0.11,4,reviewed,nn,nn
-2025-11-05T07:38:09.000Z,32.108,-101.921,8.9355,0.7,ml,20,61,0.1,0.1,tx,tx2025vtyvss,2025-11-05T12:09:33.276Z,"12 km W of Stanton, Texas",earthquake,0.54667864652306,0.94599232144379,0.2,10,reviewed,tx,tx
-2025-11-05T07:32:30.290Z,18.737,-64.417333333333,19.08,2.87,md,3,332,0.3693,0.22,pr,pr71499648,2025-11-05T09:09:39.940Z,"59 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,8.82,17.67,0.33019153177385,2,reviewed,pr,pr
-2025-11-05T07:29:59.310Z,38.81566619873,-122.81483459473,2.670000076294,1.14,md,12,83,0.0131,0.01,nc,nc75259376,2025-11-05T09:17:20.394Z,"7 km NW of The Geysers, CA",earthquake,0.36,0.930000007,0.14,12,automatic,nc,nc
-2025-11-05T07:29:57.343Z,31.675,-104.333,6.0999,1.9,ml,41,85,0.1,0.2,tx,tx2025vtyotl,2025-11-05T08:43:41.556Z,"55 km S of Whites City, New Mexico",earthquake,0.61635456720746,0.58988495139145,0.2,28,reviewed,tx,tx
