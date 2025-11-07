@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-07T08:14:35.800Z,38.813167572021,-122.79699707031,1.75,1.3,md,19,40,0.005358,0.01,nc,nc75260061,2025-11-07T08:16:13.804Z,"5 km NW of The Geysers, CA",earthquake,0.21,0.379999995,0.16,20,automatic,nc,nc
-2025-11-07T08:13:04.823Z,31.578,-104.032,6.0883,1.9,ml,37,44,0,0.3,tx,tx2025vxrlpp,2025-11-07T08:16:21.598Z,"36 km NW of Toyah, Texas",earthquake,0,1.8618116378784,0.2,27,automatic,tx,tx
-2025-11-07T08:04:18.995Z,60.0008,-139.2037,5.4,2.6,ml,,,,0.99,ak,ak025eagxaqz,2025-11-07T08:06:38.000Z,"58 km NNE of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-11-07T08:40:02.650Z,40.323501586914,-124.46050262451,11.069999694824,1.91,md,7,308,0.09673,0.04,nc,nc75260076,2025-11-07T08:41:37.616Z,"15 km W of Petrolia, CA",earthquake,3.64,0.959999979,0.17,5,automatic,nc,nc
+2025-11-07T08:17:04.420Z,38.825332641602,-122.81549835205,2.1099998950958,1.09,md,21,79,0.01542,0.02,nc,nc75260066,2025-11-07T08:18:43.752Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.439999998,0.14,22,automatic,nc,nc
+2025-11-07T08:14:35.800Z,38.813167572021,-122.79699707031,1.75,1.3,md,19,40,0.005358,0.01,nc,nc75260061,2025-11-07T08:32:17.808Z,"5 km NW of The Geysers, CA",earthquake,0.21,0.379999995,0.16,20,automatic,nc,nc
+2025-11-07T08:13:04.752Z,31.578,-104.033,6.4534,1.8,ml,38,44,0,0.3,tx,tx2025vxrlpp,2025-11-07T08:18:50.556Z,"37 km NW of Toyah, Texas",earthquake,0,1.7439694404602,0.2,28,automatic,tx,tx
+2025-11-07T08:05:33.725Z,52.1973,160.4903,15.979,5.3,mb,70,125,1.394,0.92,us,us6000rm25,2025-11-07T08:24:28.040Z,"158 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.75,4.762,0.035,280,reviewed,us,us
+2025-11-07T08:04:18.995Z,60.0008,-139.2037,5.4,2.6,ml,,,,0.99,ak,ak025eagxaqz,2025-11-07T08:16:55.356Z,"58 km NNE of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-07T07:50:36.520Z,36.0345,-117.7765,1.64,1.26,ml,27,52,0.013,0.18,ci,ci40482202,2025-11-07T07:54:06.326Z,"16 km E of Coso Junction, CA",earthquake,0.16,0.18,0.174,25,automatic,ci,ci
 2025-11-07T07:40:19.040Z,38.793834686279,-122.75333404541,1.1900000572205,1.46,md,17,88,0.008415,0.03,nc,nc75260056,2025-11-07T08:07:19.636Z,"2 km N of The Geysers, CA",earthquake,0.26,0.469999999,0.14,17,automatic,nc,nc
 2025-11-07T07:29:14.510Z,35.3503333,-117.8045,6.36,1.67,ml,48,36,0.08936,0.2,ci,ci40482194,2025-11-07T07:32:58.274Z,"16 km W of Johannesburg, CA",earthquake,0.17,0.57,0.175,25,automatic,ci,ci
@@ -13,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-07T06:53:50.500Z,33.0746667,-115.5738333,10.57,1.29,ml,33,40,0.0429,0.24,ci,ci40482162,2025-11-07T06:57:18.619Z,"6 km NE of Westmorland, CA",earthquake,0.26,0.41,0.126,24,automatic,ci,ci
 2025-11-07T06:13:36.130Z,38.829833984375,-122.79816436768,1.8400000333786,1.03,md,13,74,0.01052,0.03,nc,nc75260031,2025-11-07T06:57:20.183Z,"7 km W of Cobb, CA",earthquake,0.29,0.610000014,0.2,14,automatic,nc,nc
 2025-11-07T06:11:38.740Z,33.8091667,-118.3093333,12.56,1.58,ml,57,65,0.01958,0.26,ci,ci40482154,2025-11-07T06:34:00.458Z,"2 km NNE of Lomita, CA",earthquake,0.26,0.48,0.245,31,automatic,ci,ci
-2025-11-07T06:09:02.625Z,32.006,-101.732,3.0609,1.3,ml,36,49,0.1,0.5,tx,tx2025vxnitc,2025-11-07T07:01:11.751Z,"14 km SSE of Stanton, Texas",earthquake,0,0.96179521083832,0.2,19,automatic,tx,tx
+2025-11-07T06:09:02.751Z,32.01,-101.738,8.5693,1.2,ml,43,72,0.1,0.2,tx,tx2025vxnitc,2025-11-07T08:19:01.567Z,"14 km SSE of Stanton, Texas",earthquake,0.38431649444851,0.85086650058202,0.1,22,reviewed,tx,tx
 2025-11-07T06:00:48.740Z,35.971500396729,-121.3441696167,3,1.61,md,9,122,0.05498,0.07,nc,nc75260021,2025-11-07T06:32:17.025Z,"21 km ESE of Lopez Point, CA",earthquake,0.36,1.00999999,0.05,6,automatic,nc,nc
 2025-11-07T06:00:17.680Z,61.8913,-145.8063,76.1,2.8,ml,,,,0.74,ak,ak025eafpn0l,2025-11-07T06:03:44.090Z,"25 km SSE of Tolsona, Alaska",earthquake,,6.9,,,automatic,ak,ak
 2025-11-07T05:52:58.043Z,58.1313,-156.4697,19.6,1.7,ml,,,,0.42,ak,ak025eaffdbg,2025-11-07T05:55:13.464Z,"54 km E of Egegik, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -32,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-07T03:09:58.400Z,38.822166442871,-122.84216308594,2.079999923706,0.73,md,12,102,0.005652,0.01,nc,nc75259996,2025-11-07T03:52:19.937Z,"9 km NW of The Geysers, CA",earthquake,0.28,0.449999988,0.13,12,automatic,nc,nc
 2025-11-07T02:48:36.747Z,61.7504,-151.0484,80.2,2.1,ml,,,,0.61,ak,ak025eadm5zu,2025-11-07T02:50:47.069Z,"32 km SE of Skwentna, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-11-07T02:33:27.078Z,31.472,-103.228,0.0949,1.5,ml,24,144,0.2,1,tx,tx2025vxgfbn,2025-11-07T02:38:21.314Z,"11 km SW of Pyote, Texas",earthquake,0,2.2300765514374,0.5,16,automatic,tx,tx
-2025-11-07T02:13:07.158Z,32.164,-102.151,3.1583,1.6,ml,32,63,0,0.6,tx,tx2025vxfnod,2025-11-07T02:17:20.597Z,"19 km NNW of Midland, Texas",earthquake,0,1.0062633752823,0.2,15,automatic,tx,tx
+2025-11-07T02:13:07.171Z,32.16,-102.164,8.2764,1.6,ml,48,78,0,0.1,tx,tx2025vxfnod,2025-11-07T08:33:54.674Z,"19 km NNW of Midland, Texas",earthquake,0.38980984708822,0.80435784531999,0.2,31,reviewed,tx,tx
 2025-11-07T02:12:04.408Z,31.628,-101.541,5,1.3,ml,6,249,0.3,0.6,tx,tx2025vxfmqq,2025-11-07T02:15:28.692Z,"26 km SSW of Garden City, Texas",earthquake,0,,0.5,4,automatic,tx,tx
 2025-11-07T02:11:53.960Z,31.657,-104.347,4.013,1.6,ml,25,88,0.1,0.3,tx,tx2025vxfmmn,2025-11-07T06:07:02.869Z,"57 km S of Whites City, New Mexico",earthquake,0,1.2105185985565,0.2,18,automatic,tx,tx
 2025-11-07T01:44:56.020Z,38.787666320801,-122.76782989502,0.88999998569489,1.11,md,14,79,0.01441,0.02,nc,nc75259971,2025-11-07T02:37:18.387Z,"2 km NW of The Geysers, CA",earthquake,0.23,0.460000008,0.25,14,automatic,nc,nc
