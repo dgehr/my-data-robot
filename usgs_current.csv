@@ -180,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-07T14:11:50.020Z,38.829666137695,-122.8184967041,1.8500000238419,1.28,md,22,62,0.01448,0.02,nc,nc75260161,2025-11-07T15:07:18.566Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.360000014,0.18,24,automatic,nc,nc
 2025-11-07T14:02:40.965Z,-0.9522,-12.8,10,4.9,mb,19,192,10.962,0.94,us,us6000rm3c,2025-11-07T15:24:10.040Z,"north of Ascension Island",earthquake,12.58,1.848,0.099,32,reviewed,us,us
 2025-11-07T13:44:56.960Z,33.97,-117.222,11.31,1.39,ml,65,42,0.04672,0.19,ci,ci40482266,2025-11-07T16:52:04.130Z,"5 km N of Moreno Valley, CA",earthquake,0.15,0.27,0.185,28,reviewed,ci,ci
-2025-11-07T13:39:46.100Z,35.2765,-117.8776667,11.95,0.98,ml,8,201,0.0276,0.19,ci,ci40482258,2025-11-07T13:43:14.450Z,"19 km NNE of California City, CA",earthquake,2.59,1.78,0.185,17,automatic,ci,ci
