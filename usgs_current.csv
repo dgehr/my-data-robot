@@ -169,4 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-07T16:41:14.560Z,61.0375,-152.31366666667,6.6,0.55,ml,5,294,0.1592,0.09,av,av93874756,2025-11-08T07:21:34.820Z,"63 km W of Tyonek, Alaska",earthquake,1.12,4.57,0.13890499477166,5,reviewed,av,av
 2025-11-07T16:26:29.320Z,38.79349899292,-122.78033447266,3.6500000953674,1.03,md,17,78,0.005935,0.01,nc,nc75260201,2025-11-07T17:37:16.594Z,"3 km NW of The Geysers, CA",earthquake,0.29,0.610000014,0.2,17,automatic,nc,nc
 2025-11-07T16:24:09.656Z,31.572,-104.027,7.984,1.5,ml,30,71,0,0.1,tx,tx2025vyhsxt,2025-11-07T17:26:05.080Z,"36 km NW of Toyah, Texas",earthquake,0.39862297740627,0.39152192643556,0.1,18,reviewed,tx,tx
-2025-11-07T14:54:40.953Z,64.1207,-154.2937,1.4,1.9,ml,,,,0.77,ak,ak025eaksnwn,2025-11-07T14:58:36.655Z,"89 km SE of Ruby, Alaska",earthquake,,0.3,,,automatic,ak,ak
