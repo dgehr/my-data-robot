@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-09T17:23:47.757Z,58.1166,-152.7877,38.1,2.4,ml,,,,0.42,ak,ak025edxh11v,2025-11-09T17:26:37.360Z,"9 km NE of Aleneva, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2025-11-09T17:16:56.974Z,61.5785,-150.5164,6.2,1.4,ml,,,,0.87,ak,ak025edxfjpd,2025-11-09T17:19:12.308Z,"3 km N of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-11-09T17:10:44.150Z,19.327167510986,-155.17816162109,0.95999997854233,1.91,ml,42,93,0.05267,0.209999993,hv,hv74826012,2025-11-09T17:14:42.650Z,"14 km SSE of Volcano, Hawaii",earthquake,0.3,0.349999994,1.25,3,automatic,hv,hv
 2025-11-09T17:09:27.320Z,35.7796667,-117.606,6.8,0.65,ml,22,54,0.03665,0.16,ci,ci40482986,2025-11-09T17:12:49.646Z,"18 km W of Searles Valley, CA",earthquake,0.22,0.41,0.146,13,automatic,ci,ci
@@ -10,6 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-09T16:03:57.879Z,61.5381,-148.3188,19.2,0.9,ml,,,,0.46,ak,ak025edwrbuz,2025-11-09T16:16:08.549Z,"29 km SSE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-09T16:00:45.382Z,57.3201,-157.1359,4.8,2.2,ml,,,,0.89,ak,ak025edwqnpo,2025-11-09T16:03:20.388Z,"26 km SE of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-11-09T16:00:31.844Z,-24.2693,-66.9582,162.506,4.8,mb,68,38,1.724,1.02,us,us6000rmgl,2025-11-09T16:14:42.040Z,"65 km W of San Antonio de los Cobres, Argentina",earthquake,7.58,6.823,0.033,286,reviewed,us,us
+2025-11-09T15:58:09.358Z,39.5875,143.4253,10,4.5,mb,25,155,2.171,0.63,us,us6000rmgn,2025-11-09T17:29:58.040Z,"127 km E of Yamada, Japan",earthquake,9.84,1.916,0.128,18,reviewed,us,us
 2025-11-09T15:56:58.292Z,57.2519,-157.1378,21.2,2.1,ml,,,,1.29,ak,ak025edwh98r,2025-11-09T16:09:14.763Z,"33 km SSE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-11-09T15:47:06.008Z,31.078,-103.696,5,2,ml,6,133,0.2,0.6,tx,tx2025wbxysz,2025-11-09T16:00:38.616Z,"11 km NNE of Balmorhea, Texas",earthquake,0,,0.4,5,automatic,tx,tx
 2025-11-09T15:46:45.887Z,39.4524,143.4472,10,5,mb,49,115,2.263,1.12,us,us6000rmgi,2025-11-09T16:06:39.040Z,"128 km E of Yamada, Japan",earthquake,7.63,1.92,0.06,89,reviewed,us,us
@@ -198,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-08T17:51:30.255Z,-58.9258,-25.7724,107.228,4.8,mb,85,67,7.52,0.61,us,us6000rm9x,2025-11-08T18:31:48.040Z,"South Sandwich Islands region",earthquake,11.52,4.973,0.064,77,reviewed,us,us
 2025-11-08T17:50:22.260Z,46.197833333333,-122.17133333333,6.18,0,ml,9,105,0.01012,0.1,uw,uw62203342,2025-11-08T23:40:13.420Z,"38 km NE of Amboy, Washington",earthquake,0.33,0.53,0.15456026041523,4,reviewed,uw,uw
 2025-11-08T17:38:22.670Z,37.504333496094,-118.98983001709,1.9199999570847,1.52,md,18,100,0.1081,0.04,nc,nc75260581,2025-11-08T18:32:18.616Z,"15 km S of Mammoth Lakes, CA",earthquake,0.28,1.63999999,0.17,17,automatic,nc,nc
-2025-11-08T17:33:26.150Z,38.828998565674,-122.79949951172,1.7200000286102,1.04,md,12,74,0.01181,0.02,nc,nc75260571,2025-11-08T18:07:20.454Z,"7 km W of Cobb, CA",earthquake,0.27,0.629999995,0.28,13,automatic,nc,nc
-2025-11-08T17:29:27.438Z,64.7181,-149.0614,15.9,1.4,ml,,,,0.42,ak,ak025ec9yx8n,2025-11-08T17:31:09.079Z,"13 km NNE of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
