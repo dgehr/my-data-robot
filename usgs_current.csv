@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-10T09:37:40.890Z,38.829498291016,-122.85316467285,1.3400000333786,1.83,md,15,98,0.05005,0.05,nc,nc75261511,2025-11-10T09:39:17.873Z,"10 km NW of The Geysers, CA",earthquake,0.27,0.769999981,0.14,13,automatic,nc,nc
+2025-11-10T10:13:37.761Z,60.1151,-152.7524,97.1,1.6,ml,,,,0.4,ak,ak025efgs6dl,2025-11-10T10:16:22.193Z,"59 km WNW of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-11-10T09:58:58.726Z,39.5209,143.2075,10,5.2,mb,61,133,2.074,0.8,us,us6000rmkf,2025-11-10T10:16:45.040Z,"108 km E of Yamada, Japan",earthquake,7.35,1.815,0.049,135,reviewed,us,us
+2025-11-10T09:37:40.890Z,38.829498291016,-122.85316467285,1.3400000333786,1.83,md,15,98,0.05005,0.05,nc,nc75261511,2025-11-10T09:57:16.604Z,"10 km NW of The Geysers, CA",earthquake,0.27,0.769999981,0.14,13,automatic,nc,nc
 2025-11-10T09:24:52.851Z,-7.0505,131.4653,10,4.4,mb,16,122,4.178,0.7,us,us6000rmkc,2025-11-10T09:42:44.040Z,"212 km SW of Tual, Indonesia",earthquake,9.86,1.928,0.17,10,reviewed,us,us
+2025-11-10T09:18:57.715Z,-6.5754,147.6376,35,4.4,mb,19,121,4.51,0.27,us,us6000rmkb,2025-11-10T09:57:08.040Z,"23 km W of Finschhafen, Papua New Guinea",earthquake,9.5,1.982,0.127,18,reviewed,us,us
 2025-11-10T09:10:20.930Z,-37.6159,-69.9249,212.348,4.9,mb,67,100,2.309,0.74,us,us6000rmka,2025-11-10T09:28:30.040Z,"40 km SE of Chos Malal, Argentina",earthquake,8.87,7.35,0.069,65,reviewed,us,us
 2025-11-10T08:46:16.330Z,33.1898333,-115.5925,3.41,1.14,ml,32,44,0.02299,0.18,ci,ci40483242,2025-11-10T08:49:45.957Z,"9 km SW of Niland, CA",earthquake,0.2,0.14,0.206,16,automatic,ci,ci
 2025-11-10T08:20:14.995Z,58.5704,-153.7513,0,2.1,ml,,,,0.66,ak,ak025effmrdn,2025-11-10T08:22:26.702Z,"75 km NW of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -32,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-10T05:29:39.922Z,30.384,-103.899,12.9566,1.5,ml,8,250,0.7,0.9,tx,tx2025wczfom,2025-11-10T05:32:24.778Z,"14 km NE of Marfa, Texas",earthquake,0,13.493626594543,0.2,6,automatic,tx,tx
 2025-11-10T05:16:08.307Z,29.119,-98.225,10.3532,1.6,ml,6,215,0.2,0.1,tx,tx2025wcytxi,2025-11-10T05:18:41.207Z,"6 km WSW of Floresville, Texas",earthquake,0,8.3891820907593,0.3,5,automatic,tx,tx
 2025-11-10T05:09:32.650Z,32.927,-116.2301667,11.18,0.6,ml,37,47,0.06744,0.2,ci,ci40483194,2025-11-10T05:13:02.541Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.24,0.47,0.216,9,automatic,ci,ci
-2025-11-10T05:00:48.398Z,23.1658,120.6375,11.079,5.1,mb,96,49,0.134,0.77,us,us6000rmjr,2025-11-10T08:29:09.606Z,"18 km ENE of Yujing, Taiwan",earthquake,5.48,4.192,0.05,127,reviewed,us,us
+2025-11-10T05:00:48.398Z,23.1658,120.6375,11.079,5.1,mb,96,49,0.134,0.77,us,us6000rmjr,2025-11-10T10:14:59.086Z,"18 km ENE of Yujing, Taiwan",earthquake,5.48,4.192,0.05,127,reviewed,us,us
 2025-11-10T04:25:04.450Z,59.6623,-150.2411,22.1,2.1,ml,,,,0.63,ak,ak025efda2ps,2025-11-10T04:33:44.816Z,"45 km ESE of Fox River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-10T04:21:01.230Z,33.668,-116.7633333,14.59,0.57,ml,27,89,0.06287,0.14,ci,ci40483186,2025-11-10T04:24:30.999Z,"9 km SSW of Idyllwild, CA",earthquake,0.24,0.32,0.292,13,automatic,ci,ci
 2025-11-10T04:19:48.622Z,60.2263,-153.9439,203.4,3,ml,,,,0.84,ak,ak025efd8vwy,2025-11-10T04:37:28.040Z,"20 km E of Port Alsworth, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -62,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-10T01:43:20.975Z,31.633,-104.473,3.7648,1.7,ml,29,104,0,0.3,tx,tx2025wcrsny,2025-11-10T01:47:24.347Z,"60 km S of Whites City, New Mexico",earthquake,0,1.2812143564224,0.1,18,automatic,tx,tx
 2025-11-10T01:35:25.650Z,31.629,-104.467,3.0873,1.7,ml,26,104,0,0.5,tx,tx2025wcrlru,2025-11-10T01:41:10.296Z,"61 km S of Whites City, New Mexico",earthquake,0,1.2754955291748,0.1,19,automatic,tx,tx
 2025-11-10T01:33:47.380Z,37.762664794922,-121.93766784668,7.8400001525879,1.77,md,21,73,0.02441,0.05,nc,nc75261376,2025-11-10T02:52:18.645Z,"4 km ESE of San Ramon, CA",earthquake,0.21,0.419999987,0.08,16,automatic,nc,nc
-2025-11-10T01:32:21.288Z,31.659,-104.464,7.5991,1.9,ml,29,79,0,0.6,tx,tx2025wcriyh,2025-11-10T06:12:04.052Z,"57 km S of Whites City, New Mexico",earthquake,0,2.395852804184,0.1,19,automatic,tx,tx
+2025-11-10T01:32:22.144Z,31.668,-104.445,5.7922,1.8,ml,31,70,0,0.2,tx,tx2025wcriyh,2025-11-10T10:02:39.539Z,"56 km S of Whites City, New Mexico",earthquake,0.98957172813101,0.47429403946343,0.1,18,reviewed,tx,tx
 2025-11-10T01:27:24.039Z,31.656,-104.45,6.4587,2.8,ml,30,79,0,0.2,tx,tx2025wcreul,2025-11-10T01:49:43.363Z,"58 km S of Whites City, New Mexico",earthquake,1.2916168202154,0.63164019616946,0.1,24,reviewed,tx,tx
 2025-11-10T01:24:48.385Z,31.664,-104.457,8.2009,1.5,ml,6,166,0,0.3,tx,tx2025wcrcos,2025-11-10T02:01:07.252Z,"57 km S of Whites City, New Mexico",earthquake,0,4.6223783493042,0.4,5,automatic,tx,tx
 2025-11-10T01:23:48.713Z,31.645,-104.457,6.7664,2.5,ml,16,94,0,0.2,tx,tx2025wcrbpd,2025-11-10T01:57:14.040Z,"59 km S of Whites City, New Mexico",earthquake,1.5207859216292,0.80512068874392,0.1,12,reviewed,tx,tx
@@ -246,6 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-09T10:29:04.225Z,32.165,-101.713,13.5944,1.1,ml,8,99,0,0.5,tx,tx2025wbnkrs,2025-11-09T11:00:14.995Z,"8 km ENE of Stanton, Texas",earthquake,0,5.8598136901855,0.3,5,automatic,tx,tx
 2025-11-09T10:25:03.183Z,39.5242,143.5096,10,4.6,mb,100,120,2.26,0.65,us,us6000rmf7,2025-11-09T10:48:46.040Z,"134 km E of Yamada, Japan",earthquake,8.43,1.864,0.059,85,reviewed,us,us
 2025-11-09T10:24:05.490Z,38.827835083008,-122.80933380127,1.539999961853,1.04,md,15,60,0.01821,0.01,nc,nc75260811,2025-11-09T11:07:18.331Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.649999976,0.13,15,automatic,nc,nc
-2025-11-09T10:12:55.047Z,62.2179,-149.9795,22.5,1.5,ml,,,,0.25,ak,ak025edt8ngg,2025-11-09T10:15:37.212Z,"9 km NW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-11-09T10:04:05.410Z,43.146666666667,-124.34166666667,15.43,2.45,ml,23,151,0.07501,0.29,uw,uw62203512,2025-11-10T06:38:23.120Z,"6 km ENE of Bandon, Oregon",earthquake,0.54,0.74,0.18815942275606,20,reviewed,uw,uw
-2025-11-09T10:00:15.310Z,38.796333312988,-122.73516845703,1.3099999427795,1.28,md,16,100,0.01313,0.04,nc,nc75260806,2025-11-09T10:42:19.326Z,"3 km NE of The Geysers, CA",earthquake,0.28,0.529999971,0.16,16,automatic,nc,nc
