@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-11T11:16:01.940Z,34.0395,-117.2128333,5.7,1.14,ml,79,21,0.08349,0.18,ci,ci40483690,2025-11-11T11:19:32.427Z,"3 km WSW of Redlands, CA",earthquake,0.12,0.58,0.176,27,automatic,ci,ci
+2025-11-11T11:32:16.270Z,33.2536667,-116.3063333,9.29,0.6,ml,46,39,0.07499,0.19,ci,ci40483698,2025-11-11T11:35:39.531Z,"6 km E of Borrego Springs, CA",earthquake,0.19,0.42,0.123,10,automatic,ci,ci
+2025-11-11T11:16:01.940Z,34.0395,-117.2128333,5.7,1.14,ml,79,21,0.08349,0.18,ci,ci40483690,2025-11-11T11:26:27.850Z,"3 km WSW of Redlands, CA",earthquake,0.12,0.58,0.176,27,automatic,ci,ci
 2025-11-11T11:12:11.883Z,31.768,-104.169,8.3598,1.6,ml,11,138,0,0.3,tx,tx2025wfghpq,2025-11-11T11:15:52.539Z,"49 km SSE of Whites City, New Mexico",earthquake,0,2.2709379196167,0.1,7,automatic,tx,tx
 2025-11-11T10:35:08.049Z,-19.3952,-69.1456,10,4.8,mb,46,119,0.742,0.86,us,us6000rmrc,2025-11-11T11:00:26.040Z,"30 km ESE of Camiña, Chile",earthquake,5.19,1.908,0.083,45,reviewed,us,us
 2025-11-11T10:34:21.748Z,65.1625,-150.0665,14,1.6,ml,,,,0.49,ak,ak025eh4fzmm,2025-11-11T10:36:23.945Z,"32 km ENE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -13,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-11T09:21:44.190Z,38.795833587646,-122.78350067139,3.3900001049042,0.72,md,16,68,0.004352,0.02,nc,nc75261851,2025-11-11T09:37:17.392Z,"3 km NW of The Geysers, CA",earthquake,0.3,0.620000005,0.11,15,automatic,nc,nc
 2025-11-11T09:19:18.657Z,32.093,-101.655,8.8379,2.4,ml,63,79,0,0.1,tx,tx2025wfcoih,2025-11-11T11:17:42.040Z,"13 km ESE of Stanton, Texas",earthquake,0.25673691499445,0.74222268489166,0.1,41,reviewed,tx,tx
 2025-11-11T09:16:40.510Z,33.1905,-116.365,10.82,0.52,ml,36,72,0.08897,0.17,ci,ci40483674,2025-11-11T09:20:07.476Z,"7 km S of Borrego Springs, CA",earthquake,0.2,0.4,0.22,9,automatic,ci,ci
-2025-11-11T09:09:28.170Z,37.768165588379,-121.94566345215,1.5700000524521,1.46,md,15,67,0.02176,0.21,nc,nc75261846,2025-11-11T09:27:19.327Z,"3 km ESE of San Ramon, CA",earthquake,0.42,1.34000003,0.15,13,automatic,nc,nc
+2025-11-11T09:09:28.170Z,37.768165588379,-121.94566345215,1.5700000524521,1.46,md,15,67,0.02176,0.21,nc,nc75261846,2025-11-11T11:27:20.163Z,"3 km ESE of San Ramon, CA",earthquake,0.42,1.34000003,0.15,13,automatic,nc,nc
 2025-11-11T08:59:12.291Z,32.114,-101.502,8.6182,1.2,ml,26,50,0.1,0.2,tx,tx2025wfbwzm,2025-11-11T11:11:19.339Z,"12 km W of Forsan, Texas",earthquake,0.65558288319693,0.65220970691741,0.2,16,reviewed,tx,tx
 2025-11-11T08:34:19.251Z,64.0939,-150.6263,10.1,1.7,ml,,,,0.86,ak,ak025eh3948r,2025-11-11T08:38:49.422Z,"72 km WSW of Clear, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-11T08:01:14.570Z,38.811832427979,-122.81366729736,2.8699998855591,1.06,md,21,51,0.01247,0.02,nc,nc75261826,2025-11-11T08:02:50.932Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.460000008,0.1,21,automatic,nc,nc
@@ -172,7 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-10T12:05:59.950Z,19.169500350952,-155.50216674805,30.549999237061,1.91,md,33,154,0.07852,0.119999997,hv,hv74826777,2025-11-10T12:09:56.470Z,"4 km SW of Pāhala, Hawaii",earthquake,0.58,0.829999983,0.2050199695696,16,automatic,hv,hv
 2025-11-10T12:00:37.820Z,33.0243333,-116.296,6.28,1,ml,48,40,0.06982,0.19,ci,ci40483282,2025-11-10T14:13:40.629Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.18,0.6,0.164,17,reviewed,ci,ci
 2025-11-10T11:44:31.310Z,36.1173333,-117.7205,1.88,0.99,ml,28,45,0.09883,0.18,ci,ci40483274,2025-11-10T18:45:13.026Z,"22 km ENE of Coso Junction, CA",earthquake,0.23,0.42,0.072,11,reviewed,ci,ci
-2025-11-10T11:32:46.289Z,61.7106,-147.3662,26,1.7,ml,,,,1.17,ak,ak025efhhp6x,2025-11-10T11:35:22.225Z,"18 km SE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-11-10T11:32:42.460Z,35.1608333,-118.2608333,1.61,0.83,ml,26,53,0.05346,0.15,ci,ci40483266,2025-11-10T14:14:46.558Z,"14 km NNW of Mojave, CA",earthquake,0.19,0.36,0.191,14,reviewed,ci,ci
-2025-11-10T11:30:35.655Z,61.8202,-150.2264,11.6,1.4,ml,,,,0.65,ak,ak025efhh8z2,2025-11-10T11:33:06.790Z,"12 km NW of Willow, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-11-10T11:25:55.200Z,46.201666666667,-122.19066666667,3.75,0.85,ml,31,51,0.001892,0.12,uw,uw62203762,2025-11-10T14:46:42.850Z,"37 km NNE of Amboy, Washington",earthquake,0.2,0.27,0.12323612170339,12,reviewed,uw,uw
