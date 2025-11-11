@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-11T14:46:34.710Z,33.4615,-116.4393333,3.22,0.85,ml,44,56,0.1401,0.21,ci,ci40483738,2025-11-11T14:49:57.568Z,"24 km NNW of Borrego Springs, CA",earthquake,0.22,0.79,0.201,26,automatic,ci,ci
+2025-11-11T14:39:17.350Z,38.82466506958,-122.80799865723,2.7200000286102,0.73,md,8,76,0.0194,0.02,nc,nc75261941,2025-11-11T14:40:52.071Z,"7 km NW of The Geysers, CA",earthquake,0.42,1.57000005,0.06,9,automatic,nc,nc
 2025-11-11T14:30:07.300Z,32.9655,-116.2465,9.49,0.86,ml,24,213,0.04904,0.15,ci,ci40483730,2025-11-11T14:33:48.714Z,"22 km SSW of Ocotillo Wells, CA",earthquake,0.65,0.45,0.248,16,automatic,ci,ci
 2025-11-11T14:14:22.181Z,63.9102,-146.3282,38,2.3,ml,,,,1.09,ak,ak025eh6pfre,2025-11-11T14:16:40.731Z,"32 km WSW of Delta Junction, Alaska",earthquake,,6.7,,,automatic,ak,ak
 2025-11-11T14:12:25.870Z,19.468999862671,-155.43649291992,3.9000000953674,2.32,ml,56,43,0.05334,0.189999998,hv,hv74827267,2025-11-11T14:16:06.450Z,"21 km W of Volcano, Hawaii",earthquake,0.27,0.910000026,0.53,15,automatic,hv,hv
@@ -76,6 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-11T01:58:19.072Z,35.4769,22.9575,35,4.9,mww,95,42,1.892,0.87,us,us6000rmps,2025-11-11T02:16:58.040Z,"63 km W of Kíssamos, Greece",earthquake,7.58,1.884,0.083,14,reviewed,us,us
 2025-11-11T01:55:41.690Z,38.68766784668,-122.50016784668,6.5599999427795,1.44,md,9,101,0.06879,0.06,nc,nc75261731,2025-11-11T03:37:18.945Z,"12 km SE of Middletown, CA",earthquake,0.38,1.44000006,0.18,9,automatic,nc,nc
 2025-11-11T01:54:25.075Z,39.2154,28.0144,15.115,4.1,mb,25,45,0.874,0.85,us,us6000rmpr,2025-11-11T03:57:35.040Z,"14 km WSW of Sındırgı, Turkey",earthquake,3.86,5.719,0.214,6,reviewed,us,us
+2025-11-11T01:50:23.990Z,44.677333333333,-110.6645,7.33,1.08,ml,19,85,0.03684,0.15,uu,uu80121911,2025-11-11T14:50:30.840Z,"33 km S of Mammoth, Wyoming",earthquake,0.34,0.58,0.17257203858565,4,reviewed,uu,uu
 2025-11-11T01:50:19.032Z,-7.213,129.4542,147.66,4.3,mb,21,103,2.71,0.89,us,us6000rmpp,2025-11-11T03:31:39.040Z,"Kepulauan Babar, Indonesia",earthquake,9.5,9.136,0.133,16,reviewed,us,us
 2025-11-11T01:49:19.260Z,32.7858333,-115.8673333,7.05,0.84,ml,20,77,0.1323,0.18,ci,ci40483602,2025-11-11T01:52:52.976Z,"13 km ENE of Ocotillo, CA",earthquake,0.24,0.97,0.264,8,automatic,ci,ci
 2025-11-11T01:39:46.221Z,60.4088,-152.1517,81.3,1.7,ml,,,,0.82,ak,ak025egz47ni,2025-11-11T01:42:30.053Z,"46 km WNW of Clam Gulch, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -97,7 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-11T00:04:53.061Z,62.9902,-150.5496,113.9,1.6,ml,,,,0.15,ak,ak025egybaii,2025-11-11T00:16:49.950Z,"56 km NNE of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-11-11T00:02:14.957Z,32.123,-101.487,7.2021,0.9,ml,14,50,0.1,0.1,tx,tx2025wekchk,2025-11-11T13:11:54.674Z,"11 km W of Forsan, Texas",earthquake,0.64529322097976,0.72803951531573,0.1,10,reviewed,tx,tx
 2025-11-10T23:56:09.730Z,38.81566619873,-122.7945022583,2.460000038147,1.26,md,21,44,0.007712,0.02,nc,nc75261676,2025-11-11T00:32:18.709Z,"5 km NW of The Geysers, CA",earthquake,0.23,0.430000007,0.12,21,automatic,nc,nc
-2025-11-10T23:53:27.406Z,38.8672,-98.4505,9.772,2.8,mb_lg,29,60,0.489,0.52,us,us6000rmpd,2025-11-11T00:06:45.296Z,"5 km NNE of Wilson, Kansas",earthquake,3.17,7.612,0.064,63,reviewed,us,us
+2025-11-10T23:53:27.406Z,38.8672,-98.4505,9.772,2.8,mb_lg,29,60,0.489,0.52,us,us6000rmpd,2025-11-11T14:43:22.108Z,"5 km NNE of Wilson, Kansas",earthquake,3.17,7.612,0.064,63,reviewed,us,us
 2025-11-10T23:49:13.380Z,19.294166666667,-155.2105,3.56,1.73,ml,45,131,0.01855,0.12,hv,hv74827042,2025-11-11T00:04:58.970Z,"16 km S of Volcano, Hawaii",earthquake,0.25,0.63,0.15697206138988,24,reviewed,hv,hv
 2025-11-10T23:44:32.011Z,61.2011,-145.978,29.9,1.3,ml,,,,0.4,ak,ak025efopfxv,2025-11-10T23:46:57.139Z,"21 km ENE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-10T23:36:05.148Z,58.8389,-153.2605,51.9,2.4,ml,,,,0.63,ak,ak025efono3n,2025-11-11T02:28:58.040Z,"89 km NNW of Aleneva, Alaska",earthquake,,1.1,,,automatic,ak,ak
