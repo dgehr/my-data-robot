@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-15T11:12:18.270Z,38.829498291016,-122.81566619873,2.2000000476837,1.08,md,17,46,0.007498,0.01,nc,nc75263536,2025-11-15T11:13:57.496Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.479999989,0.18,18,automatic,nc,nc
 2025-11-15T10:59:44.565Z,31.6268,-104.4065,9.433,3.2,ml,38,57,0.091,0.36,us,us6000rng3,2025-11-15T11:07:50.040Z,"60 km S of Whites City, New Mexico",earthquake,1.9,7.446,0.055,90,reviewed,us,us
 2025-11-15T10:47:54.040Z,38.808166503906,-122.81116485596,3.3699998855591,1.14,md,15,83,0.01239,0.03,nc,nc75263521,2025-11-15T10:49:31.986Z,"6 km NW of The Geysers, CA",earthquake,0.37,0.730000019,0.17,17,automatic,nc,nc
 2025-11-15T10:14:32.610Z,19.173833847046,-155.12100219727,38.069999694824,1.78,md,10,250,0.2342,0.0700000003,hv,hv74830722,2025-11-15T10:18:04.950Z,"32 km SSE of Volcano, Hawaii",earthquake,1.34,1.64999998,0.12576814761472,16,automatic,hv,hv
