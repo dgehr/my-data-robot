@@ -154,4 +154,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-14T12:09:38.918Z,60.7958,-151.3659,63.5,1.6,ml,,,,0.43,ak,ak025em43kqr,2025-11-14T12:11:27.789Z,"12 km NNW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-11-14T12:04:42.920Z,47.498166666667,-121.72583333333,16.23,1.19,ml,22,119,0.03402,0.15,uw,uw62204577,2025-11-14T18:09:48.880Z,"2 km NNE of Tanner, Washington",earthquake,0.52,0.4,0.092809964205373,10,reviewed,uw,uw
 2025-11-14T11:43:01.820Z,39.1555,-110.646,16.46,0.18,md,5,126,0.105,0.07,uu,uu80005468,2025-11-14T15:29:41.700Z,"27 km SE of Cleveland, Utah",earthquake,0.37,0.92,0.24504410619268,3,reviewed,uu,uu
-2025-11-14T11:33:45.194Z,50.4433,158.3043,21.716,5.2,mww,79,100,2.695,1.15,us,us6000rn8e,2025-11-14T12:01:12.040Z,"156 km E of Severo-Kuril’sk, Russia",earthquake,8.61,5.772,0.098,10,reviewed,us,us
