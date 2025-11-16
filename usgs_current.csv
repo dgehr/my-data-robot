@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-16T11:22:02.880Z,34.1583328,-117.5828323,10.29,1.32,ml,41,64,0.05023,0.15,ci,ci40485546,2025-11-16T11:24:05.186Z,"4 km N of Rancho Cucamonga, CA",earthquake,0.29,0.41,0.145,12,automatic,ci,ci
+2025-11-16T11:22:02.960Z,34.1583333,-117.5811667,9.72,1.38,ml,74,47,0.04926,0.19,ci,ci40485546,2025-11-16T11:25:50.931Z,"4 km N of Rancho Cucamonga, CA",earthquake,0.16,0.25,0.121,28,automatic,ci,ci
 2025-11-16T11:18:27.201Z,31.7,-101.711,2.6467,1.2,ml,23,60,0.1,0.5,tx,tx2025woldke,2025-11-16T11:22:00.216Z,"28 km SW of Garden City, Texas",earthquake,0,1.2673190832138,0.2,13,automatic,tx,tx
 2025-11-16T11:01:16.710Z,38.83483505249,-122.81833648682,1.8099999427795,0.76,md,18,63,0.01312,0.01,nc,nc75264111,2025-11-16T11:02:50.793Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.469999999,0.16,19,automatic,nc,nc
 2025-11-16T11:00:58.750Z,38.835166931152,-122.8184967041,1.8799999952316,0.4,md,8,92,0.01347,0.01,nc,nc75264106,2025-11-16T11:02:36.200Z,"8 km NW of The Geysers, CA",earthquake,0.43,1.5,0.31,8,automatic,nc,nc
