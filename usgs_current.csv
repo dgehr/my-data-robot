@@ -212,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-15T23:19:06.003Z,32.181,-101.437,5,1.5,ml,7,248,0.2,0.6,tx,tx2025wnnhnb,2025-11-15T23:21:43.886Z,"8 km SSE of Big Spring, Texas",earthquake,0,,0.3,7,automatic,tx,tx
 2025-11-15T23:16:56.714Z,31.655,-104.392,6.0999,3.2,ml,18,71,0,0.2,tx,tx2025wnnfqp,2025-11-15T23:29:51.940Z,"57 km S of Whites City, New Mexico",earthquake,1.0429146272548,0.90917732518884,0.1,12,reviewed,tx,tx
 2025-11-15T23:04:54.820Z,38.793834686279,-122.76049804688,0.86000001430511,0.7,md,8,119,0.006808,0.02,nc,nc75263836,2025-11-15T23:27:16.302Z,"2 km N of The Geysers, CA",earthquake,0.55,0.790000021,0.05,8,automatic,nc,nc
-2025-11-15T22:56:54.030Z,37.764167785645,-121.94733428955,8.7200002670288,2.45,md,45,38,0.02585,0.06,nc,nc75263831,2025-11-16T20:22:43.835Z,"3 km ESE of San Ramon, CA",earthquake,0.14,0.300000012,0.11,50,automatic,nc,nc
