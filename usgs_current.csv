@@ -179,4 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-17T18:19:37.219Z,38.0915,-115.9429,6.8629,3.16,ml,18,138,0.381,0.1543,nn,nn00907391,2025-11-17T19:42:32.040Z,"52 km NNW of Rachel, Nevada",earthquake,,5.2909,0.33,10,reviewed,nn,nn
 2025-11-17T18:11:12.140Z,33.5443333,-116.413,4.02,1.79,ml,77,35,0.1074,0.17,ci,ci40486338,2025-11-17T18:15:00.148Z,"16 km SW of La Quinta, CA",earthquake,0.11,0.41,0.215,26,automatic,ci,ci
 2025-11-17T17:52:35.010Z,34.8493333,-118.9011667,11.49,1.5,ml,32,65,0.04988,0.19,ci,ci40486306,2025-11-17T17:56:09.025Z,"3 km WNW of Lebec, CA",earthquake,0.22,0.46,0.276,27,automatic,ci,ci
-2025-11-17T17:46:39.950Z,36.889333333333,-112.491,18.72,1.61,md,6,146,0.294,0.17,uu,uu80122676,2025-11-17T22:34:45.150Z,"6 km SSE of Fredonia, Arizona",earthquake,0.75,2.49,0.17759994582705,5,reviewed,uu,uu
