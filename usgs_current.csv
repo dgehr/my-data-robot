@@ -231,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-19T22:05:11.200Z,40.742166666667,-122.3065,-0.53,1.62,md,16,62,0.1356,0.06,nc,nc75266126,2025-11-20T00:04:28.830Z,"9 km NE of Shasta Lake, CA",quarry blast,0.21,31.61,0.197,14,reviewed,nc,nc
 2025-11-19T22:03:43.291Z,51.9578,-169.6301,28.73,4.2,mb,39,144,1.121,0.59,us,us6000rp8r,2025-11-20T03:53:20.837Z,"121 km SSW of Nikolski, Alaska",earthquake,4.17,6.684,0.077,47,reviewed,us,us
 2025-11-19T22:00:34.230Z,54.750833333333,-163.98016666667,-2.92,0.5,ml,5,95,0.04262,0.19,av,av93052564,2025-11-20T03:14:41.010Z,"38 km WSW of False Pass, Alaska",earthquake,0.45,0.9,0.27459286171032,5,reviewed,av,av
-2025-11-19T21:45:22.218Z,-57.9631,-25.1924,39.527,5,mb,43,69,7.309,0.68,us,us6000rp8k,2025-11-19T22:05:04.040Z,"South Sandwich Islands region",earthquake,11.36,6.488,0.08,50,reviewed,us,us
