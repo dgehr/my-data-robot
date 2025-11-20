@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-20T22:27:24.020Z,35.558834075928,-120.79683685303,5.1100001335144,2.25,md,34,87,0.1068,0.06,nc,nc75266796,2025-11-20T22:37:35.767Z,"8 km W of Templeton, CA",earthquake,0.25,0.790000021,0.18,33,automatic,nc,nc
 2025-11-20T21:45:30.170Z,33.2625,-116.23233333333,10.42,0.82,ml,43,38,0.07195,0.2,ci,ci41125095,2025-11-20T21:49:16.907Z,"13 km E of Borrego Springs, CA",earthquake,0.2,0.45,0.13177141101268,17,automatic,ci,ci
 2025-11-20T21:45:04.180Z,38.822666168213,-122.84183502197,1.4900000095367,0.54,md,8,149,0.005335,0.01,nc,nc75266766,2025-11-20T21:46:41.148Z,"9 km NW of The Geysers, CA",earthquake,0.46,0.879999995,0.29,9,automatic,nc,nc
 2025-11-20T21:39:13.355Z,36.2315,71.2594,110.698,4.9,mb,81,81,2.296,0.69,us,us6000rpg9,2025-11-20T21:56:58.040Z,"55 km SSW of Ashkāsham, Afghanistan",earthquake,7.3,6.999,0.062,82,reviewed,us,us
@@ -225,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-19T23:02:44.460Z,38.837501525879,-122.83366394043,2,1.68,md,34,74,0.001791,0.04,nc,nc75266141,2025-11-20T01:07:20.889Z,"9 km NW of The Geysers, CA",earthquake,0.18,0.270000011,0.15,34,automatic,nc,nc
 2025-11-19T22:58:36.200Z,44.3645,-122.49433333333,2.85,1.51,ml,5,192,0.1017,0.07,uw,uw62214266,2025-11-20T20:13:20.860Z,"3 km SSW of Cascadia, Oregon",earthquake,0.61,8.8,0.16798189080803,4,reviewed,uw,uw
 2025-11-19T22:39:15.981Z,-15.7885,167.8391,192.081,4.7,mb,32,122,0.7,0.71,us,us6000rp8s,2025-11-19T22:55:55.040Z,"56 km ENE of Norsup, Vanuatu",earthquake,10.46,4.038,0.112,26,reviewed,us,us
-2025-11-19T22:34:10.790Z,32.901833333333,-116.94733333333,3.84,1.53,ml,32,87,0.08624,0.22,ci,ci41124623,2025-11-20T20:17:32.714Z,"5 km NNW of Lakeside, CA",earthquake,0.28,1.08,0.39715544237132,8,automatic,ci,ci
-2025-11-19T22:33:44.870Z,35.557334899902,-120.79983520508,5.2800002098083,1.47,md,10,169,0.1093,0.05,nc,nc75266131,2025-11-20T00:42:17.716Z,"9 km W of Templeton, CA",earthquake,0.78,1.03999996,0.01,2,automatic,nc,nc
