@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-24T22:12:50.380Z,42.56,-122.65616666667,-1.52,1.6,ml,7,98,0.08332,0.07,uw,uw62214966,2025-11-25T19:46:28.840Z,"7 km WNW of Butte Falls, Oregon",explosion,0.59,31.61,0.056787346189131,4,reviewed,uw,uw
 2025-11-24T21:54:33.500Z,35.0575,-118.337,-0.93,0.99,ml,26,43,0.06685,0.17,ci,ci41338672,2025-11-25T00:08:29.154Z,"13 km SE of Tehachapi, CA",quarry blast,0.31,31.61,0.15413959385835,21,reviewed,ci,ci
 2025-11-24T21:53:27.110Z,34.346166666667,-116.88183333333,-1.6,1.1,ml,23,60,0.04502,0.18,ci,ci41338664,2025-11-25T16:29:40.278Z,"10 km NNW of Big Bear City, CA",quarry blast,0.35,31.61,0.13004389835716,20,reviewed,ci,ci
-2025-11-24T21:49:08.660Z,41.739,-119.8132,1.0458,1.52,ml,5,146,0.4,0.158,nn,nn00907705,2025-11-25T00:01:25.253Z,"31 km ESE of Fort Bidwell, California",earthquake,,4.6868,0,1,reviewed,nn,nn
