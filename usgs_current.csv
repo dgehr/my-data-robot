@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-02T21:44:02.120Z,35.090166666667,-117.03383333333,0.69,2.22,ml,38,44,0.2168,0.16,ci,ci41131151,2025-12-02T21:47:55.654Z,"21 km N of Barstow, CA",earthquake,0.17,0.5,0.11027535205986,25,automatic,ci,ci
 2025-12-02T21:34:43.240Z,38.805000305176,-122.80200195312,3.3199999332428,0.78,md,14,57,0.006015,0.01,nc,nc75273281,2025-12-02T21:36:18.602Z,"5 km NW of The Geysers, CA",earthquake,0.34,0.689999998,0.15,14,automatic,nc,nc
 2025-12-02T21:16:43.020Z,38.811332702637,-122.81983184815,3.3399999141693,0.68,md,6,149,0.007706,0.02,nc,nc75273276,2025-12-02T21:18:18.746Z,"7 km NW of The Geysers, CA",earthquake,2.19,3.61999989,0.21,7,automatic,nc,nc
 2025-12-02T20:48:41.390Z,33.584666666667,-116.74283333333,15.47,0.72,ml,33,64,0.01976,0.14,ci,ci41131111,2025-12-02T20:52:27.428Z,"7 km WNW of Anza, CA",earthquake,0.2,0.33,0.27033522554342,22,automatic,ci,ci
