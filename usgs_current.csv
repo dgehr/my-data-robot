@@ -246,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-05T08:06:04.300Z,19.282,-155.102,36.42,1.92,ml,50,205,0.1047,0.11,hv,hv74845767,2025-12-05T20:07:14.520Z,"20 km S of Fern Forest, Hawaii",earthquake,0.78,0.42,0.33687013823665,17,reviewed,hv,hv
 2025-12-05T08:01:33.820Z,38.82483291626,-122.85717010498,2.3199999332428,0.94,md,15,116,0.002718,0.01,nc,nc75274681,2025-12-05T08:03:11.514Z,"10 km WNW of The Geysers, CA",earthquake,0.31,0.460000008,0.16,16,automatic,nc,nc
 2025-12-05T07:59:19.792Z,51.5265,159.5032,37.702,4.3,mb,31,137,1.588,0.76,us,us7000rfqp,2025-12-06T06:58:25.040Z,"173 km SSE of Vilyuchinsk, Russia",earthquake,12.04,7.941,0.101,28,reviewed,us,us
-2025-12-05T07:52:31.260Z,40.778833333333,-111.951,7.61,0.51,md,10,113,0.0237,0.19,uu,uu80005778,2025-12-05T16:23:33.530Z,"5 km WNW of Salt Lake City, Utah",earthquake,0.61,0.81,0.18352257951319,4,reviewed,uu,uu
