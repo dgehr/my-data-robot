@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-07T17:47:09.000Z,60.221,-139.189,100,4.2,Ml,27,208.799983296,0.5650403,0.66,at,at00t6wuql,2025-12-07T17:52:30.952Z,"80 km NNE of Yakutat, Alaska",earthquake,0,0,,24,reviewed,at,at
 2025-12-07T17:34:28.780Z,38.835166931152,-122.8176651001,1.7999999523163,0.78,md,15,64,0.01317,0.02,nc,nc75275881,2025-12-07T17:36:05.842Z,"8 km W of Cobb, CA",earthquake,0.29,0.699999988,0.16,15,automatic,nc,nc
 2025-12-07T17:14:54.000Z,18.044833333333,-68.529166666667,66.49,3.15,md,11,221,0.4879,0.31,pr,pr71501748,2025-12-07T17:37:32.270Z,"37 km SSE of Boca de Yuma, Dominican Republic",earthquake,4.03,4.17,0.23631194389377,2,reviewed,pr,pr
 2025-12-07T17:07:55.862Z,60.339027404785,-139.22367858887,5,3.7946762152957,ml,76,67.813018798828,0.68016421794891,1.8295314347482,ak,ak2025ybkyyb,2025-12-07T17:16:13.366Z,"92 km NNE of Yakutat, Alaska",earthquake,0,0,0.31560055569673,38,reviewed,ak,ak
