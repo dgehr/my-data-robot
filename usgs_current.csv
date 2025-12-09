@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-12-09T07:41:35.160Z,35.598331451416,-117.40416717529,7.9699997901917,1.1795801167376,ml,13,103,0.06851,0.140000001,ci,ci41135743,2025-12-09T07:43:37.195Z,"19 km S of Trona, CA",earthquake,0.51,1.08000004,0.29624792933464,2,automatic,ci,ci
+2025-12-09T07:46:09.860Z,33.029833333333,-116.291,6.58,0.53,ml,36,56,0.07574,0.18,ci,ci41135751,2025-12-09T07:49:51.215Z,"19 km SW of Ocotillo Wells, CA",earthquake,0.21,0.59,0.081299742975276,7,automatic,ci,ci
+2025-12-09T07:41:35.110Z,35.5925,-117.4055,7.54,0.6,ml,26,48,0.07396,0.14,ci,ci41135743,2025-12-09T07:45:19.454Z,"19 km S of Trona, CA",earthquake,0.18,0.44,0.12546434445173,5,automatic,ci,ci
 2025-12-09T07:40:01.830Z,38.838333129883,-122.8065032959,2.3699998855591,0.72,md,8,111,0.01262,0.01,nc,nc75277181,2025-12-09T07:41:37.767Z,"7 km WNW of Cobb, CA",earthquake,0.49,0.959999979,0.21,8,automatic,nc,nc
 2025-12-09T07:37:23.590Z,33.031166666667,-116.29,6.8,0.47,ml,34,56,0.07718,0.17,ci,ci41135735,2025-12-09T07:41:03.749Z,"19 km SW of Ocotillo Wells, CA",earthquake,0.21,0.53,0.04272751643837,6,automatic,ci,ci
 2025-12-09T07:36:42.750Z,33.027333333333,-116.29183333333,7.14,0.88,ml,52,41,0.07318,0.2,ci,ci41135727,2025-12-09T07:40:17.084Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.18,0.51,0.13694916264148,20,automatic,ci,ci
@@ -36,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-09T04:09:31.290Z,33.240166666667,-116.40533333333,2.12,1.21,ml,65,28,0.02966,0.21,ci,ci41135647,2025-12-09T04:19:11.028Z,"3 km WSW of Borrego Springs, CA",earthquake,0.15,0.25,0.20050859160745,25,automatic,ci,ci
 2025-12-09T03:56:07.190Z,33.993333333333,-117.27033333333,15,1.51,ml,75,42,0.05096,0.17,ci,ci41135631,2025-12-09T03:59:48.448Z,"6 km SE of Grand Terrace, CA",earthquake,0.14,0.23,0.25790284331041,29,automatic,ci,ci
 2025-12-09T03:53:18.559Z,60.338,-139.854,3.5,2.4,ml,15,153,0.3,0.9,ak,ak2025yeccal,2025-12-09T03:56:35.683Z,"88 km N of Yakutat, Alaska",earthquake,0,4.0085,0.2,4,automatic,ak,ak
-2025-12-09T03:39:18.835Z,38.6869,-97.4984,9.991,3.7,mb_lg,34,34,0.738,0.66,us,us6000rtk6,2025-12-09T06:46:34.552Z,"6 km WSW of Gypsum, Kansas",earthquake,2.32,7.057,0.063,66,reviewed,us,us
+2025-12-09T03:39:18.835Z,38.6869,-97.4984,9.991,3.7,mb_lg,34,34,0.738,0.66,us,us6000rtk6,2025-12-09T07:47:09.754Z,"6 km WSW of Gypsum, Kansas",earthquake,2.32,7.057,0.063,66,reviewed,us,us
 2025-12-09T03:38:40.580Z,32.9955,-116.2295,8.59,1.21,ml,52,47,0.0743,0.18,ci,ci41135623,2025-12-09T03:42:23.309Z,"19 km SSW of Ocotillo Wells, CA",earthquake,0.15,0.68,0.15036448195587,27,automatic,ci,ci
 2025-12-09T03:19:01.281Z,61.394,-152.254,5,1.4,ml,33,56,0.1,0.6,ak,ak2025yeaymv,2025-12-09T03:20:51.512Z,"68 km WNW of Beluga, Alaska",earthquake,0,,0.4,7,automatic,ak,ak
 2025-12-09T03:09:41.832Z,31.556,-104.241,0,1.6,ml,5,206,0.2,0.7,tx,tx2025yeaqma,2025-12-09T03:13:51.326Z,"50 km WNW of Toyah, Texas",earthquake,0,,0.7,5,automatic,tx,tx
@@ -267,4 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-08T08:21:33.430Z,38.5115,-112.91433333333,2.24,0.68,ml,14,68,0.01294,0.12,uu,uu80124556,2025-12-08T14:43:55.560Z,"15 km NNE of Milford, Utah",earthquake,0.3,0.59,0.069310049560482,2,reviewed,uu,uu
 2025-12-08T08:11:23.240Z,38.828998565674,-122.82382965088,1.7699999809265,0.6,md,7,117,0.01054,0.01,nc,nc75276231,2025-12-08T08:12:59.280Z,"8 km NW of The Geysers, CA",earthquake,0.57,1.29999995,0.23,8,automatic,nc,nc
 2025-12-08T07:57:45.622Z,31.9,-101.768,8.2275,0.7,ml,16,46,0.1,0.1,tx,tx2025ycoluw,2025-12-08T14:50:15.443Z,"25 km S of Stanton, Texas",earthquake,0.68926253145577,1.3284884960517,0.2,6,reviewed,tx,tx
-2025-12-08T07:50:01.112Z,-24.5107,179.9727,528.823,4.5,mb,32,126,6.966,0.78,us,us6000rtc2,2025-12-08T08:26:47.040Z,"south of the Fiji Islands",earthquake,14.73,12.746,0.108,25,reviewed,us,us
