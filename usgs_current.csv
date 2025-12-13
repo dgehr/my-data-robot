@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-13T05:53:59.350Z,38.360168457031,-122.59216308594,0.090000003576279,1.81,md,8,91,0.01592,0.04,nc,nc75278996,2025-12-13T05:55:38.146Z,"5 km W of Glen Ellen, CA",earthquake,0.51,0.479999989,0.18,7,automatic,nc,nc
+2025-12-13T05:53:04.075Z,31.711,-104.584,3.8184,1.9,ml,24,102,0,0.3,tx,tx2025yloyrv,2025-12-13T05:56:58.290Z,"55 km SSW of Whites City, New Mexico",earthquake,0,1.3422900438309,0.2,14,automatic,tx,tx
 2025-12-13T05:44:30.690Z,59.38,-153.389,15,1.9,ml,5,205,0,0,ak,ak2025ylorjy,2025-12-13T05:46:13.855Z,"60 km SE of Pedro Bay, Alaska",earthquake,0,20.8839,0.3,4,automatic,ak,ak
 2025-12-13T05:38:14.210Z,38.821834564209,-122.80850219727,2.3900001049042,0.8,md,11,69,0.001984,0.04,nc,nc75278986,2025-12-13T05:39:52.905Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.850000024,0.41,11,automatic,nc,nc
 2025-12-13T05:18:59.878Z,-17.6164,-178.9634,547.575,4.4,mb,42,91,1.955,0.69,us,us6000rule,2025-12-13T05:38:42.040Z,"188 km ENE of Levuka, Fiji",earthquake,13.28,7.32,0.088,37,reviewed,us,us
@@ -137,7 +139,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-12T10:09:20.533Z,-26.7441,-175.7883,10,4.9,mb,43,107,9.348,0.52,us,us6000rued,2025-12-12T12:31:05.040Z,"south of Tonga",earthquake,13.04,1.87,0.085,43,reviewed,us,us
 2025-12-12T10:09:20.480Z,38.823665618896,-122.79916381836,2.960000038147,1.33,md,29,31,0.008527,0.02,nc,nc75278676,2025-12-12T10:12:46.210Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.400000006,0.14,29,automatic,nc,nc
 2025-12-12T10:06:45.350Z,38.823665618896,-122.80000305176,2.789999961853,0.76,md,9,80,0.007871,0.01,nc,nc75278671,2025-12-12T10:08:24.499Z,"6 km NW of The Geysers, CA",earthquake,0.46,1.24000001,0.12,10,automatic,nc,nc
-2025-12-12T10:05:19.253Z,36.0804,140.2301,56.218,4.9,mb,77,131,1.701,1.41,us,us6000rue0,2025-12-13T00:27:25.578Z,"5 km NNE of Ami, Japan",earthquake,6.9,6.824,0.033,291,reviewed,us,us
+2025-12-12T10:05:19.253Z,36.0804,140.2301,56.218,4.9,mb,77,131,1.701,1.41,us,us6000rue0,2025-12-13T05:51:27.711Z,"5 km NNE of Ami, Japan",earthquake,6.9,6.824,0.033,291,reviewed,us,us
 2025-12-12T10:04:03.010Z,34.381,-118.73083333333,15.27,1.06,ml,43,45,0.07142,0.23,ci,ci41350240,2025-12-12T10:07:51.179Z,"7 km ESE of Piru, CA",earthquake,0.24,0.51,0.19366545239951,31,automatic,ci,ci
 2025-12-12T09:48:02.357Z,60.131,-141.43,2.5,2.5,ml,43,139,0.2,0.8,ak,ak2025ykbajm,2025-12-12T10:38:43.040Z,"115 km WNW of Yakutat, Alaska",earthquake,0,2.4252,0.1,5,automatic,ak,ak
 2025-12-12T09:47:00.741Z,55.397,-158.266,9.9,2.5,ml,10,310,0.9,0.2,ak,ak2025ykazmk,2025-12-12T09:50:15.379Z,"79 km SE of Perryville, Alaska",earthquake,0,5.5785,0.5,4,automatic,ak,ak
@@ -184,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-12T06:16:29.730Z,19.108333333333,-64.607166666667,18.9,3.24,md,8,281,0.6447,0.16,pr,pr71502073,2025-12-12T06:45:07.320Z,"88 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,3.14,5.99,0.024747168142296,4,reviewed,pr,pr
 2025-12-12T06:05:19.590Z,38.81816482544,-122.84533691406,2.4800000190735,0.74,md,10,101,0.009448,0.06,nc,nc75278591,2025-12-12T06:06:57.687Z,"9 km WNW of The Geysers, CA",earthquake,0.4,0.970000029,0.24,10,automatic,nc,nc
 2025-12-12T06:00:33.562Z,60.167,-140.886,31.5,1.8,ml,9,148,0.3,1.2,ak,ak2025yjtmit,2025-12-12T06:03:36.754Z,"94 km NW of Yakutat, Alaska",earthquake,0,5.3198,0.3,4,automatic,ak,ak
-2025-12-12T05:56:06.545Z,32.001,-101.368,8.8379,0.9,ml,14,56,0.2,0.1,tx,tx2025yjtimu,2025-12-12T10:23:33.774Z,"12 km S of Forsan, Texas",earthquake,0.75631575670241,2.3780053028512,0.2,6,reviewed,tx,tx
