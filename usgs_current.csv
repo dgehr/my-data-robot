@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-14T19:40:01.530Z,38.778831481934,-122.75566864014,0.81999999284744,1.09,md,16,66,0.0113,0.03,nc,nc75279906,2025-12-14T19:41:37.570Z,"0 km NNE of The Geysers, CA",earthquake,0.24,0.449999988,0.14,16,automatic,nc,nc
 2025-12-14T19:34:59.350Z,35.4005,-117.82483333333,8.13,1.14,ml,42,38,0.1339,0.14,ci,ci41351784,2025-12-14T19:38:40.569Z,"18 km W of Johannesburg, CA",earthquake,0.14,0.61,0.19586880546886,23,automatic,ci,ci
 2025-12-14T19:30:00.760Z,38.822334289551,-122.76399993897,2.3499999046326,0.44,md,8,139,0.009346,0.01,nc,nc75279891,2025-12-14T19:31:37.731Z,"4 km W of Cobb, CA",earthquake,0.59,0.75,0.27,10,automatic,nc,nc
 2025-12-14T19:23:50.460Z,38.819999694824,-122.85116577148,11.319999694824,0.43,md,8,206,0.008754,0.06,nc,nc75279886,2025-12-14T19:25:28.594Z,"9 km WNW of The Geysers, CA",earthquake,2.66,8.93000031,0.28,9,automatic,nc,nc
