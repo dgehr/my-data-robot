@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-15T20:34:08.452Z,31.934,-103.389,5.8307,1.7,ml,17,81,0,0.2,tx,tx2025yqjptn,2025-12-15T21:03:22.949Z,"27 km SW of Jal, New Mexico",earthquake,0.48149180912715,0.39044675809224,0.1,6,reviewed,tx,tx
 2025-12-15T20:16:21.320Z,38.816501617432,-122.79433441162,3.4500000476837,1.07,md,26,31,0.008555,0.02,nc,nc75280451,2025-12-15T20:17:57.333Z,"5 km NW of The Geysers, CA",earthquake,0.24,0.479999989,0.11,25,automatic,nc,nc
 2025-12-15T20:14:21.435Z,32.245,-101.94,8.3008,0.8,ml,15,61,0,0.1,tx,tx2025yqiyqz,2025-12-15T20:53:01.145Z,"19 km NW of Stanton, Texas",earthquake,0.705100372397,0.96081708662878,0.2,12,reviewed,tx,tx
-2025-12-15T19:50:59.264Z,25.4128,66.5164,10,4.8,mb,54,84,9.353,0.42,us,us6000rv2d,2025-12-15T21:21:23.281Z,"39 km NW of Gadani, Pakistan",earthquake,10.08,1.895,0.072,59,reviewed,us,us
+2025-12-15T19:50:59.264Z,25.4128,66.5164,10,4.8,mb,54,84,9.353,0.42,us,us6000rv2d,2025-12-15T21:34:16.535Z,"39 km NW of Gadani, Pakistan",earthquake,10.08,1.895,0.072,59,reviewed,us,us
 2025-12-15T19:48:31.105Z,-28.3051,62.7944,10,5,mb,51,52,8.527,1.01,us,us6000rv2c,2025-12-15T20:33:50.040Z,"Southwest Indian Ridge",earthquake,8.86,1.86,0.083,46,reviewed,us,us
 2025-12-15T19:39:59.970Z,32.248,-101.948,6.8115,2.2,ml,49,31,0,0.1,tx,tx2025yqhvcg,2025-12-15T20:22:24.362Z,"19 km NW of Stanton, Texas",earthquake,0.2538110883631,0.49021689272224,0.1,25,reviewed,tx,tx
 2025-12-15T19:33:07.473Z,51.7399,161.2395,34,5.6,mww,108,44,2.042,0.98,us,us6000rv1u,2025-12-15T20:38:54.526Z,"230 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.56,1.883,0.05,38,reviewed,us,us
