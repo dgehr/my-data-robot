@@ -204,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-26T07:45:39.275Z,-21.0834,168.6752,10,4.9,mb,37,92,1.902,0.89,us,us7000rkv8,2025-12-26T08:01:12.040Z,"97 km ENE of Tadine, New Caledonia",earthquake,7.83,1.587,0.114,24,reviewed,us,us
 2025-12-26T07:43:10.575Z,35.44688797,-98.16827393,10.17768955,1.99,ml,12,95.32142639,0.0876602456,1.180527769,ok,ok2025zgmw,2025-12-26T07:47:20.271Z,"17 km E of Hinton, Oklahoma",earthquake,5.157177302,4.239081264,0.12,9,automatic,ok,ok
 2025-12-26T07:42:09.397Z,60.873,-147.698,27.1,1.4,ml,12,84,0.3,0.3,ak,ak2025zjpadm,2025-12-26T07:45:10.541Z,"54 km E of Whittier, Alaska",earthquake,0,3.1971,0.4,4,automatic,ak,ak
-2025-12-26T07:30:25.360Z,60.046,-153.07933333333,-1.06,-0.73,ml,4,117,0.01386,0.11,av,av93965091,2025-12-26T20:16:43.260Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.66,4.54,0.42717554033061,4,reviewed,av,av
