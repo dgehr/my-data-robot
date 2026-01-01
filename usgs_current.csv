@@ -242,5 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-31T09:16:25.910Z,33.2455,-116.815,13.66,0.32,ml,32,37,0.04808,0.13,ci,ci41150047,2025-12-31T16:33:50.379Z,"5 km W of Lake Henshaw, CA",earthquake,0.16,0.44,0.083023076019997,4,reviewed,ci,ci
 2025-12-31T09:09:09.484Z,60.343,-140.078,0.3,2.2,ml,21,61,0.3,1,ak,ak2025zswnov,2025-12-31T09:12:13.060Z,"90 km NNW of Yakutat, Alaska",earthquake,0,2.558,0.4,4,automatic,ak,ak
 2025-12-31T09:04:50.760Z,35.6995,-117.554,7.26,0.96,ml,26,43,0.1115,0.15,ci,ci41150039,2025-12-31T16:33:54.378Z,"14 km NE of Ridgecrest, CA",earthquake,0.19,0.8,0.22609055752348,9,reviewed,ci,ci
-2025-12-31T08:58:28.000Z,33.271833333333,-116.1325,8.21,0.75,ml,43,41,0.1231,0.22,ci,ci41150031,2025-12-31T09:02:06.993Z,"14 km N of Ocotillo Wells, CA",earthquake,0.21,1.05,0.084184280206617,13,automatic,ci,ci
-2025-12-31T08:53:25.449Z,60.116,-152.603,100.1,2,ml,26,82,0.2,0.6,ak,ak2025zswaar,2025-12-31T08:56:10.984Z,"52 km WNW of Happy Valley, Alaska",earthquake,0,2.6889,0.9,5,automatic,ak,ak
