@@ -251,5 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-06T08:15:32.475Z,31.648,-104.422,6.0999,1.3,ml,22,78,0,0.2,tx,tx2026ajvbli,2026-01-06T09:07:21.122Z,"58 km S of Whites City, New Mexico",earthquake,0.98933032488772,0.68127599218457,0.1,6,reviewed,tx,tx
 2026-01-06T08:08:49.534Z,60.293,-153.728,188.8,4.5,ml,182,22,0.3,0.9,ak,ak2026ajuvvj,2026-01-07T07:05:55.928Z,"34 km ENE of Port Alsworth, Alaska",earthquake,0,1.3453,0.4,117,reviewed,ak,ak
 2026-01-06T08:02:10.560Z,42.693,-111.16583333333,-2.39,2.46,ml,16,134,0.08695,0.13,uu,uu80126926,2026-01-06T15:00:45.620Z,"15 km W of Fairview, Wyoming",earthquake,0.57,0.85,0.26946817308183,4,reviewed,uu,uu
-2026-01-06T07:54:36.052Z,63.297,-150.532,126,2.1,ml,9,176,0.8,0.3,ak,ak2026ajujjs,2026-01-06T08:39:26.595Z,"65 km ESE of Denali National Park, Alaska",earthquake,0,8.0528,0.2,4,automatic,ak,ak
-2026-01-06T07:50:03.143Z,58.245,-154.874,5,1.5,ml,8,171,0.1,0.1,ak,ak2026ajuflv,2026-01-06T20:37:32.890Z,"79 km NNW of Karluk, Alaska",earthquake,0,,0.3,4,automatic,ak,ak
