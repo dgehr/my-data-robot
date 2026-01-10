@@ -200,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-09T21:00:59.551Z,36.1306,-114.9426,6.1597,1.74,ml,20,254,0.412,0.3891,nn,nn00909375,2026-01-09T21:05:33.310Z,"9 km ENE of Whitney, Nevada",earthquake,,0.9645,0.22,10,automatic,nn,nn
 2026-01-09T21:00:48.179Z,32.159,-101.516,4.0497,1.2,ml,20,78,0,0.5,tx,tx2026aqhpnc,2026-01-10T00:15:27.488Z,"10 km SSW of Big Spring, Texas",earthquake,0,1.2285865545273,0.3,16,automatic,tx,tx
 2026-01-09T20:57:31.210Z,40.892501831055,-123.73000335693,19.979999542236,2.07,md,17,72,0.1467,0.13,nc,nc75293181,2026-01-09T21:22:20.310Z,"10 km WSW of Willow Creek, CA",earthquake,0.43,0.439999998,0.1,6,automatic,nc,nc
-2026-01-09T20:52:55.540Z,48.2419,153.6303,125.506,4.6,mb,103,92,5.515,0.69,us,us7000rnrt,2026-01-09T23:08:00.040Z,"Kuril Islands",earthquake,9.26,6.896,0.052,112,reviewed,us,us
-2026-01-09T20:51:39.710Z,61.316833333333,-152.25283333333,0.58,-0.55,ml,8,146,0.06976,0.08,av,av93989056,2026-01-10T08:18:06.520Z,"65 km WNW of Beluga, Alaska",earthquake,0.42,2.6,0.30541707533768,8,reviewed,av,av
