@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-01-10T18:52:05.680Z,35.821833333333,-117.64883333333,5.5,0.53,ml,22,56,0.04215,0.16,ci,ci41155231,2026-01-10T18:55:43.672Z,"22 km N of Ridgecrest, CA",earthquake,0.23,0.59,0.11534110424117,10,automatic,ci,ci
 2026-01-10T18:45:43.307Z,59.625,-151.997,56.6,2.3,ml,34,98,0.6,0.6,ak,ak2026aryvzg,2026-01-10T18:47:24.506Z,"19 km SSW of Anchor Point, Alaska",earthquake,0,4.7722,1,4,automatic,ak,ak
 2026-01-10T18:41:44.590Z,38.838165283203,-122.83533477783,0.80000001192093,0.26,md,9,94,0.0004395,0.05,nc,nc75293661,2026-01-10T18:43:19.059Z,"10 km NW of The Geysers, CA",earthquake,0.34,0.649999976,0.17,8,automatic,nc,nc
 2026-01-10T18:33:02.180Z,38.820667266846,-122.76266479492,1.7200000286102,0.47,md,9,120,0.01131,0.01,nc,nc75293656,2026-01-10T18:34:38.776Z,"3 km W of Cobb, CA",earthquake,0.38,0.589999974,0.28,10,automatic,nc,nc
