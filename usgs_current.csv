@@ -75,7 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-16T12:09:14.930Z,34.426833333333,-116.4855,12.14,1.23,ml,38,51,0.1213,0.15,ci,ci41159615,2026-01-16T12:12:55.833Z,"35 km N of Yucca Valley, CA",earthquake,0.17,0.41,0.20600109129941,24,automatic,ci,ci
 2026-01-16T12:08:27.294Z,62.046,-150.394,58.7,2.1,ml,25,62,0.4,0.6,ak,ak2026bcmaxx,2026-01-16T12:11:45.748Z,"31 km WSW of Susitna North, Alaska",earthquake,3.4,4.5423,0.4,4,automatic,ak,ak
 2026-01-16T12:06:10.658Z,31.683,-104.48,7.5645,0.9,ml,12,83,0,0.3,tx,tx2026bclzaj,2026-01-16T12:09:19.318Z,"55 km S of Whites City, New Mexico",earthquake,0,2.9041974544525,0.3,7,automatic,tx,tx
-2026-01-16T11:37:49.830Z,19.027666091919,-155.43583679199,33.95000076294,2.02,md,27,207,0.1295,0.170000002,hv,hv74877597,2026-01-16T11:41:25.390Z,"15 km ESE of Naalehu, Hawaii",earthquake,0.77,1.16999996,0.22739786778806,18,automatic,hv,hv
+2026-01-16T11:37:49.840Z,19.037166666667,-155.42783333333,35.94,1.68,ml,35,208,0.122,0.13,hv,hv74877597,2026-01-16T21:58:37.650Z,"16 km ESE of Naalehu, Hawaii",earthquake,0.53,0.76,0.13675585971933,5,reviewed,hv,hv
 2026-01-16T11:35:11.823Z,62.474,-148.939,34.1,2.2,ml,27,73,0.4,0.7,ak,ak2026bckygq,2026-01-16T11:36:47.593Z,"58 km NE of Susitna North, Alaska",earthquake,3,3.4448,0.7,3,automatic,ak,ak
 2026-01-16T11:33:17.920Z,18.527333333333,-64.6165,43.07,3.06,md,4,215,0.1066,0.06,pr,pr71505278,2026-01-16T12:07:13.490Z,"28 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,8.3,2.46,0.09542836982343,4,reviewed,pr,pr
 2026-01-16T11:32:55.370Z,38.803001403809,-122.80966949463,1.9099999666214,0.75,md,17,61,0.01227,0.03,nc,nc75296516,2026-01-16T11:34:33.820Z,"5 km WNW of The Geysers, CA",earthquake,0.29,0.5,0.12,17,automatic,nc,nc
@@ -163,7 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-16T03:33:17.970Z,38.791667938232,-122.77899932861,1.1399999856949,0.73,md,9,107,0.007131,0.04,nc,nc75296381,2026-01-16T03:34:51.530Z,"3 km NW of The Geysers, CA",earthquake,0.38,0.730000019,0.17,9,automatic,nc,nc
 2026-01-16T03:31:18.734Z,31.524,-104.013,4.3152,1.5,ml,16,116,0,0.2,tx,tx2026bbuxei,2026-01-16T04:00:28.633Z,"31 km NW of Toyah, Texas",earthquake,0,1.3617095947266,0.2,13,automatic,tx,tx
 2026-01-16T03:27:38.980Z,19.396165847778,-155.26832580566,0.61000001430511,1.79,ml,23,42,0.002992,0.239999995,hv,hv74877222,2026-01-16T03:31:10.240Z,"6 km SW of Volcano, Hawaii",earthquake,0.17,0.140000001,0.33,9,automatic,hv,hv
-2026-01-16T03:25:52.639Z,43.5426,-128.0087,10,6,mww,102,97,2.882,1.41,us,us7000rq0d,2026-01-16T21:36:04.542Z,"295 km W of Bandon, Oregon",earthquake,7.84,1.807,0.033,86,reviewed,us,us
+2026-01-16T03:25:52.639Z,43.5426,-128.0087,10,6,mww,102,97,2.882,1.41,us,us7000rq0d,2026-01-16T21:56:48.779Z,"295 km W of Bandon, Oregon",earthquake,7.84,1.807,0.033,86,reviewed,us,us
 2026-01-16T03:25:38.089Z,58.19,-156.403,10.5,1.7,ml,18,181,0.3,0.3,ak,ak2026bbuskq,2026-01-16T03:27:04.300Z,"57 km E of Egegik, Alaska",earthquake,6.8,4.9958,0.5,2,automatic,ak,ak
 2026-01-16T03:23:06.933Z,31.535,-104.01,6.6125,1.9,ml,39,56,0,0.2,tx,tx2026bbuqeu,2026-01-16T04:27:30.742Z,"31 km NW of Toyah, Texas",earthquake,0.53063792297342,0.47109725658214,0.1,24,reviewed,tx,tx
 2026-01-16T03:20:55.812Z,63.117,-150.803,120.5,1.9,ml,15,153,0.6,0.8,ak,ak2026bbuoip,2026-01-16T07:29:48.044Z,"66 km SE of Denali National Park, Alaska",earthquake,7.7,4.5298,0.2,6,reviewed,ak,ak
