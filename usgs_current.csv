@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-01-23T10:31:27.660Z,37.750831604004,-121.9443359375,8.3000001907349,1.88,md,20,81,0.1144,0.09,nc,nc75300466,2026-01-23T10:33:03.514Z,"4 km SE of San Ramon, CA",earthquake,0.28,0.699999988,0.12,13,automatic,nc,nc
+2026-01-23T10:29:39.290Z,34.2495,-117.5205,9.66,0.87,ml,28,77,0.03513,0.13,ci,ci41169439,2026-01-23T10:33:14.524Z,"2 km WSW of Lytle Creek, CA",earthquake,0.19,0.23,0.38506467239277,19,automatic,ci,ci
 2026-01-23T10:24:51.060Z,38.829666137695,-122.8245010376,1.1900000572205,0.24,md,10,70,0.01051,0.02,nc,nc75300461,2026-01-23T10:26:28.934Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.800000012,0.14,10,automatic,nc,nc
 2026-01-23T10:22:26.420Z,38.835498809815,-122.78616333008,1.710000038147,1.6,md,25,69,0.004371,0.03,nc,nc75300456,2026-01-23T10:24:03.365Z,"6 km WNW of Cobb, CA",earthquake,0.18,0.289999992,0.1,25,automatic,nc,nc
 2026-01-23T10:21:26.350Z,38.812168121338,-122.81966400147,3.4900000095367,0.37,md,10,103,0.008131,0.01,nc,nc75300451,2026-01-23T10:23:03.207Z,"7 km NW of The Geysers, CA",earthquake,0.41,1.33000004,0.15,11,automatic,nc,nc
@@ -30,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-23T08:42:54.367Z,31.735,-104.254,3.9749,1.6,ml,31,44,0,0.3,tx,tx2026bpbhza,2026-01-23T09:00:33.119Z,"50 km SSE of Whites City, New Mexico",earthquake,0,0.97821098566055,0.2,20,automatic,tx,tx
 2026-01-23T08:38:58.850Z,32.834666666667,-116.65233333333,12.63,0.96,ml,19,188,0.138,0.23,ci,ci41169287,2026-01-23T08:42:36.776Z,"11 km E of Alpine, CA",earthquake,0.66,1.44,0.17556626429905,12,automatic,ci,ci
 2026-01-23T08:38:39.620Z,33.88,-116.17783333333,3.49,1.15,ml,47,39,0.04548,0.18,ci,ci41169279,2026-01-23T08:49:47.800Z,"18 km N of Indio, CA",earthquake,0.18,0.36,0.14914366063963,27,automatic,ci,ci
-2026-01-23T08:25:41.298Z,52.1462,177.3554,10,5,mb,86,89,0.775,0.79,us,us7000rrjh,2026-01-23T09:25:58.877Z,"293 km ESE of Attu Station, Alaska",earthquake,10.28,1.868,0.028,408,reviewed,us,us
+2026-01-23T08:25:41.298Z,52.1462,177.3554,10,5,mb,86,89,0.775,0.79,us,us7000rrjh,2026-01-23T10:35:55.854Z,"293 km ESE of Attu Station, Alaska",earthquake,10.28,1.868,0.028,408,reviewed,us,us
 2026-01-23T08:22:45.500Z,32.402333333333,-115.221,10.05,1.35,ml,20,56,0.07308,0.25,ci,ci41169271,2026-01-23T08:26:24.611Z,"6 km NNW of Delta, B.C., MX",earthquake,0.42,1.19,0.21836874579206,11,automatic,ci,ci
 2026-01-23T08:19:01.851Z,4.8532,-82.5134,10,5.1,mww,48,81,5.041,0.92,us,us7000rrjf,2026-01-23T08:35:45.040Z,"south of Panama",earthquake,4.29,1.906,0.059,28,reviewed,us,us
 2026-01-23T08:14:57.180Z,33.883666666667,-116.17433333333,3.47,1.22,ml,51,46,0.04168,0.18,ci,ci41169255,2026-01-23T08:18:36.183Z,"19 km NNE of Indio, CA",earthquake,0.18,0.32,0.11008882142263,27,automatic,ci,ci
@@ -326,7 +328,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-22T11:05:43.260Z,60.048666666667,-153.0915,-0.12,-0.5,ml,5,124,0.01649,0.07,av,av94006371,2026-01-23T06:03:36.240Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.34,1.04,0.24499638087489,4,reviewed,av,av
 2026-01-22T11:01:45.359Z,62.257,-149.747,0,2.1,ml,18,57,0.3,0.8,ak,ak2026bnketg,2026-01-22T11:02:45.833Z,"11 km NNE of Susitna North, Alaska",earthquake,3.5,3.7956,0,1,automatic,ak,ak
 2026-01-22T11:01:08.250Z,38.766498565674,-122.72467041016,1.0099999904633,1.51,md,21,67,0.004901,0.06,nc,nc75299871,2026-01-22T11:02:44.808Z,"3 km WSW of Anderson Springs, CA",earthquake,0.29,0.5,0.12,21,automatic,nc,nc
-2026-01-22T10:52:11.980Z,61.311666666667,-152.37416666667,3.37,0.1,ml,12,123,0.05276,0.11,av,av94006346,2026-01-23T05:59:35.980Z,"71 km WNW of Tyonek, Alaska",earthquake,0.37,0.39,0.22462315302003,12,reviewed,av,av
-2026-01-22T10:43:26.243Z,60.466,-147.392,20.9,1.8,ml,19,82,0.4,0.5,ak,ak2026bnjoyn,2026-01-22T10:44:38.735Z,"56 km NE of Chenega, Alaska",earthquake,3.6,3.2253,0,1,automatic,ak,ak
-2026-01-22T10:37:27.994Z,31.019,-103.665,8.2788,1.2,ml,16,71,0.1,0.2,tx,tx2026bnjjvc,2026-01-22T16:15:11.445Z,"8 km ENE of Balmorhea, Texas",earthquake,0.87141996231982,2.1361484675169,0.1,6,reviewed,tx,tx
-2026-01-22T10:34:46.209Z,63.559,-147.772,0.6,1.6,ml,30,43,0.5,0.9,ak,ak2026bnjhmp,2026-01-22T10:36:18.698Z,"59 km ESE of Denali Park, Alaska",earthquake,2.7,1.8883,0.7,2,automatic,ak,ak
