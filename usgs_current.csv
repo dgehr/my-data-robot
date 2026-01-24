@@ -269,6 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-23T07:11:48.301Z,61.384,-150.055,34.5,1.8,ml,52,23,0.3,1.2,ak,ak2026boyhlt,2026-01-23T07:13:15.522Z,"4 km WNW of Point MacKenzie, Alaska",earthquake,2.5,3.6989,0,1,automatic,ak,ak
 2026-01-23T07:11:46.480Z,33.871333333333,-116.16566666667,4.54,0.87,ml,32,114,0.05436,0.16,ci,ci41169127,2026-01-23T17:56:34.971Z,"17 km NNE of Indio, CA",earthquake,0.27,0.45,0.1629801898358,19,reviewed,ci,ci
 2026-01-23T07:08:56.095Z,60.612,-150.674,64.3,1.5,ml,30,53,0.2,0.5,ak,ak2026boyfaa,2026-01-23T07:10:50.075Z,"9 km NNE of Sterling, Alaska",earthquake,3.4,4.8624,0.4,5,automatic,ak,ak
-2026-01-23T06:56:19.780Z,18.2015,-68.054166666667,93.34,3.4,md,22,193,0.4396,0.31,pr,pr71505733,2026-01-23T07:29:41.410Z,"56 km SE of Punta Cana, Dominican Republic",earthquake,2.39,1.24,0.046393287029951,6,reviewed,pr,pr
-2026-01-23T06:53:25.340Z,58.589,-153.224,61.8,2,ml,24,84,0.4,0.5,ak,ak2026boxrpp,2026-01-23T06:55:10.007Z,"61 km NNW of Aleneva, Alaska",earthquake,4.6,4.8709,0.4,5,automatic,ak,ak
-2026-01-23T06:48:56.262Z,31.526,-104.021,7.6892,1.5,ml,28,58,0,0.1,tx,tx2026boxnto,2026-01-23T15:13:18.855Z,"31 km NW of Toyah, Texas",earthquake,0.71697721873571,0.76966172043838,0.2,24,reviewed,tx,tx
