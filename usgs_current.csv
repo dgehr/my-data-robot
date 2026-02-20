@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2026-02-20T11:29:32.207Z,64.702,-149.321,5,1,ml,6,188,0.2,0.5,ak,aka2026dorefb,2026-02-20T11:32:18.188Z,"14 km NW of Four Mile Road, Alaska",earthquake,12.8,,0.6,4,automatic,ak,ak
-2026-02-20T11:28:52.684Z,31.488,-104.033,4.6316,1.5,ml,16,89,0,0.5,tx,tx2026dordqf,2026-02-20T11:32:41.822Z,"29 km NW of Toyah, Texas",earthquake,0,1.4477063417435,0.1,9,automatic,tx,tx
+2026-02-20T11:28:52.684Z,31.488,-104.033,4.6316,1.5,ml,16,89,0,0.5,tx,tx2026dordqf,2026-02-20T12:00:11.563Z,"29 km NW of Toyah, Texas",earthquake,0,1.4477063417435,0.1,11,automatic,tx,tx
 2026-02-20T11:07:10.616Z,62.199,-149.726,50.4,2.1,ml,46,40,0.3,0.7,ak,aka2026doqkxt,2026-02-20T11:08:54.038Z,"7 km ENE of Susitna North, Alaska",earthquake,2.6,4.2562,0.4,4,automatic,ak,ak
 2026-02-20T11:06:31.850Z,37.861499786377,-122.24349975586,9.710000038147,1.2,md,16,63,0.0134,0.02,nc,nc75316282,2026-02-20T11:08:06.242Z,"3 km ESE of Berkeley, CA",earthquake,0.38,0.469999999,0.33,10,automatic,nc,nc
 2026-02-20T11:04:43.250Z,32.928833333333,-116.228,12.17,1.02,ml,24,66,0.0684,0.18,ci,ci41400360,2026-02-20T11:08:07.461Z,"25 km SSW of Ocotillo Wells, CA",earthquake,0.28,0.7,0.24935339119093,14,automatic,ci,ci
@@ -182,7 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-02-19T12:20:37.310Z,38.797668457031,-122.79399871826,3.2400000095367,0.75,md,12,101,0.006533,0.02,nc,nc75315832,2026-02-19T12:22:13.063Z,"4 km NW of The Geysers, CA",earthquake,0.36,0.709999979,0.05,11,automatic,nc,nc
 2026-02-19T12:17:42.884Z,60.452,-139.49,2,1.8,ml,21,73,0.5,0.9,ak,aka2026dmxavk,2026-02-19T23:40:38.810Z,"101 km N of Yakutat, Alaska",earthquake,4.4,2.9372,0.2,13,reviewed,ak,ak
 2026-02-19T12:13:58.929Z,39.0392,-9.1085,10,3.5,mb_lg,9,232,1.817,0.22,us,us6000sa5y,2026-02-20T07:36:20.646Z,"4 km ENE of Sobral de Monte Agraço, Portugal",earthquake,6.04,2.018,0.295,3,reviewed,us,us
-2026-02-19T12:00:23.617Z,53.561,-165.9194,61.137,3.3,ml,36,199,0.449,0.6,us,us6000sabf,2026-02-20T08:57:55.040Z,"53 km SE of Unalaska, Alaska",earthquake,7.77,16.912,0.091,16,reviewed,us,us
-2026-02-19T11:58:19.260Z,58.059,-154.942,104.3,1.5,ml,18,108,0.1,0.3,ak,aka2026dmwkcr,2026-02-19T23:32:39.769Z,"61 km NNW of Karluk, Alaska",earthquake,6.9,3.5655,0.6,11,reviewed,ak,ak
-2026-02-19T11:54:43.961Z,60.443,-139.506,2.7,1.8,ml,19,55,0.5,0.9,ak,aka2026dmwhba,2026-02-19T23:24:43.658Z,"100 km N of Yakutat, Alaska",earthquake,3.8,2.7673,0.2,10,reviewed,ak,ak
-2026-02-19T11:54:35.619Z,31.649,-104.419,5.5872,2.3,ml,23,76,0,0.2,tx,tx2026dmwgxq,2026-02-19T12:51:01.525Z,"58 km S of Whites City, New Mexico",earthquake,1.1851624188181,0.9525582380377,0,7,reviewed,tx,tx
