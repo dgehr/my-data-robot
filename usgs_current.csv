@@ -1,10 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2026-03-14T10:38:32.630Z,40.306499481201,-124.46900177002,12.539999961853,3.15,ml,21,263,0.09835,0.07,nc,nc75327252,2026-03-14T10:52:21.827Z,"16 km W of Petrolia, CA",earthquake,0.95,0.330000013,0.302,6,automatic,nc,nc
-2026-03-14T10:38:08.932Z,59.849,-153.184,131.2,2.3,ml,76,53,0.1,0.6,ak,aka2026fczlhg,2026-03-14T10:40:02.926Z,"52 km E of Pedro Bay, Alaska",earthquake,4.1,1.9363,0.5,4,automatic,ak,ak
+2026-03-14T11:14:42.400Z,38.4542,-116.5072,1.8632,1.61,ml,10,196,0.678,0.2462,nn,nn00912622,2026-03-14T11:17:45.201Z,"76 km NE of Tonopah, Nevada",earthquake,,3.5869,0.15,4,automatic,nn,nn
+2026-03-14T10:38:32.630Z,40.306499481201,-124.46900177002,12.539999961853,3.15,ml,21,263,0.09835,0.07,nc,nc75327252,2026-03-14T11:08:46.040Z,"16 km W of Petrolia, CA",earthquake,0.95,0.330000013,0.302,6,automatic,nc,nc
+2026-03-14T10:38:08.932Z,59.849,-153.184,131.2,2.3,ml,76,53,0.1,0.6,ak,aka2026fczlhg,2026-03-14T11:04:06.040Z,"52 km E of Pedro Bay, Alaska",earthquake,4.1,1.9363,0.5,4,automatic,ak,ak
 2026-03-14T10:32:48.542Z,31.667,-104.119,4.0448,1.9,ml,34,47,0,0.2,tx,tx2026fczgra,2026-03-14T10:37:03.263Z,"49 km W of Mentone, Texas",earthquake,0,0.92929947376251,0.2,25,automatic,tx,tx
-2026-03-14T10:24:50.620Z,37.821666717529,-121.98083496094,9.4799995422363,2.02,md,42,46,0.03827,0.08,nc,nc75327242,2026-03-14T10:32:20.688Z,"2 km E of Danville, CA",earthquake,0.18,0.319999993,0.15,35,automatic,nc,nc
+2026-03-14T10:24:50.620Z,37.821666717529,-121.98083496094,9.4799995422363,2.02,md,42,46,0.03827,0.08,nc,nc75327242,2026-03-14T10:57:19.864Z,"2 km E of Danville, CA",earthquake,0.18,0.319999993,0.15,35,automatic,nc,nc
+2026-03-14T10:19:12.478Z,38.2275,134.0262,419.505,4,mb,48,63,3.727,0.75,us,us6000sgag,2026-03-14T10:59:22.040Z,"250 km NNE of Ama, Japan",earthquake,12.64,9.086,0.084,38,reviewed,us,us
 2026-03-14T10:16:58.819Z,64.908,-147.775,16.1,2.2,ml,37,56,0.1,0.9,ak,aka2026fcytaw,2026-03-14T10:18:28.945Z,"3 km W of Farmers Loop, Alaska",earthquake,3,1.6653,0.2,7,automatic,ak,ak
 2026-03-14T10:06:05.440Z,19.248167037964,-155.40783691406,32.880001068115,2.15,ml,33,73,0.01442,0.159999996,hv,hv74917362,2026-03-14T10:10:55.540Z,"8 km NE of Pāhala, Hawaii",earthquake,0.45,0.629999995,1.14,3,automatic,hv,hv
+2026-03-14T10:05:51.747Z,31.663,-104.1,8.7901,0.9,ml,17,79,0,0.8,tx,tx2026fcyjeh,2026-03-14T11:01:42.247Z,"47 km W of Mentone, Texas",earthquake,0,3.1758666038513,0.2,12,automatic,tx,tx
 2026-03-14T10:03:26.101Z,37.2403,-117.1032,1.5464,0.89,ml,11,164,0.139,0.201,nn,nn00912619,2026-03-14T10:05:22.596Z,"47 km NW of Beatty, Nevada",earthquake,,8.3135,0.29,4,automatic,nn,nn
 2026-03-14T09:59:21.291Z,60.613,-147.591,18.7,1.9,ml,35,71,0.4,0.7,ak,aka2026fcydsf,2026-03-14T10:01:04.962Z,"57 km WSW of Tatitlek, Alaska",earthquake,2.8,1.795,0.2,4,automatic,ak,ak
 2026-03-14T09:54:28.031Z,32.797,-100.542,0.8341,1.8,ml,21,81,0,0.7,tx,tx2026fcxzqm,2026-03-14T09:58:11.681Z,"9 km SW of Rotan, Texas",earthquake,0,1.4608436822891,0.1,13,automatic,tx,tx
@@ -138,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-13T23:39:17.290Z,37.363834381104,-122.28600311279,0.14000000059605,1.42,md,10,104,0.05359,0.06,nc,nc75327067,2026-03-14T01:07:22.993Z,"5 km WSW of Portola Valley, CA",earthquake,0.27,4.59000015,0.18,7,automatic,nc,nc
 2026-03-13T23:36:42.142Z,32.057,-103.447,6.6018,1.6,ml,16,159,0.3,0.7,tx,tx2026fcdmzk,2026-03-14T00:00:41.091Z,"24 km WSW of Jal, New Mexico",earthquake,0,4.0257530212402,0.2,7,automatic,tx,tx
 2026-03-13T23:36:06.313Z,52.2113,159.0842,55.364,4.5,mb,70,122,0.855,1.02,us,us6000sg71,2026-03-14T02:08:21.040Z,"92 km SSE of Vilyuchinsk, Russia",earthquake,7.85,6.429,0.055,98,reviewed,us,us
-2026-03-13T23:36:03.615Z,32.106,-101.931,3.3942,2.1,ml,68,40,0.1,0.5,tx,tx2026fcdmvh,2026-03-13T23:39:57.530Z,"13 km W of Stanton, Texas",earthquake,0,0.61745071411133,0.2,48,automatic,tx,tx
+2026-03-13T23:36:03.336Z,32.104,-101.932,4.3191,2,ml,87,36,0.1,0.3,tx,tx2026fcdmvh,2026-03-14T11:18:57.829Z,"13 km WSW of Stanton, Texas",earthquake,0,0.58815294504166,0.2,62,automatic,tx,tx
 2026-03-13T23:03:17.916Z,65.007,-147.465,0.6,1.1,ml,17,55,0.1,0.8,ak,aka2026fccknc,2026-03-13T23:04:48.366Z,"9 km NE of Fox, Alaska",earthquake,4.5,4.0877,0.3,7,automatic,ak,ak
 2026-03-13T22:56:38.226Z,51.622,159.4673,35,4.7,mb,71,133,1.491,0.9,us,us6000sg6u,2026-03-13T23:37:14.040Z,"162 km SSE of Vilyuchinsk, Russia",earthquake,9,1.923,0.06,85,reviewed,us,us
 2026-03-13T22:54:36.238Z,-33.2449,-177.9295,10,5,mb,34,144,5.291,1.12,us,us6000sg6t,2026-03-13T23:14:36.040Z,"south of the Kermadec Islands",earthquake,13.34,1.977,0.146,16,reviewed,us,us
@@ -246,5 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-13T11:30:01.390Z,33.9475,-117.84633333333,14.29,1.51,ml,68,35,0.0408,0.19,ci,ci41203567,2026-03-13T20:20:41.710Z,"6 km NE of Brea, CA",earthquake,0.19,0.32,0.13376126567623,38,reviewed,ci,ci
 2026-03-13T11:24:27.858Z,41.7063,-81.0585,10.234,2.2,ml,9,119,0.278,0.26,us,us6000sg0j,2026-03-13T23:05:49.583Z,"7 km S of Madison, Ohio",earthquake,2.59,7.388,0.085,18,reviewed,us,us
 2026-03-13T11:21:04.905Z,58.816,-152.804,52.8,1.7,ml,12,86,0.3,0.7,ak,aka2026fbfdkf,2026-03-13T21:17:28.928Z,"78 km SW of Nanwalek, Alaska",earthquake,8.3,7.9957,0.2,8,automatic,ak,ak
-2026-03-13T11:06:30.760Z,38.493666666667,-112.8965,2.18,1.34,md,14,78,0.006739,0.06,uu,uu80131951,2026-03-13T14:09:52.770Z,"14 km NE of Milford, Utah",earthquake,0.22,0.37,0.29584325696764,6,reviewed,uu,uu
-2026-03-13T11:00:01.897Z,57.579,-154.184,42.8,3.5,ml,181,118,0.6,0.9,ak,aka2026fbella,2026-03-13T12:08:18.040Z,"13 km WNW of Larsen Bay, Alaska",earthquake,2.7,6.329,0.3,22,automatic,ak,ak
