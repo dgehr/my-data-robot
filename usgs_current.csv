@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-04-12T19:46:54.594Z,31.625,-104.452,3.7236,2.5,ml,41,75,0,0.4,tx,tx2026hexrhd,2026-04-12T19:55:35.040Z,"61 km S of Whites City, New Mexico",earthquake,0,1.0883482694626,0.1,24,automatic,tx,tx
+2026-04-12T19:22:39.630Z,34.043166666667,-118.4745,10.25,1.43,ml,44,88,0.03154,0.22,ci,ci41439024,2026-04-12T19:26:11.999Z,"3 km NNE of Santa Monica, CA",earthquake,0.24,0.36,0.29270714618362,29,automatic,ci,ci
 2026-04-12T19:00:38.540Z,33.495333333333,-116.563,10.87,1.63,ml,72,23,0.03276,0.22,ci,ci41439016,2026-04-12T19:11:00.470Z,"12 km ESE of Anza, CA",earthquake,0.16,0.4,0.15048484079635,26,automatic,ci,ci
 2026-04-12T18:46:00.539Z,38.5876,49.5691,10,4.6,mb,60,96,0.796,0.58,us,us6000spiw,2026-04-12T19:02:35.040Z,"62 km ENE of Astara, Azerbaijan",earthquake,8.43,1.857,0.069,62,reviewed,us,us
 2026-04-12T18:42:59.550Z,64.986,-147.392,5,1,ml,16,63,0.1,0.6,ak,aka2026hevopl,2026-04-12T18:44:16.839Z,"11 km ENE of Fox, Alaska",earthquake,4.4,,0.3,4,automatic,ak,ak
@@ -209,11 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-04-11T20:12:36.611Z,38.4661,-116.4893,0.0059,1.64,ml,8,172,0.696,0.3094,nn,nn00913995,2026-04-11T20:15:13.294Z,"78 km NE of Tonopah, Nevada",earthquake,,11.2232,0.14,2,automatic,nn,nn
 2026-04-11T19:59:15.740Z,38.4845,-116.4599,4.0032,2.19,ml,10,199,1.075,0.2042,nn,nn00913994,2026-04-11T20:01:43.709Z,"81 km NE of Tonopah, Nevada",earthquake,,1.0969,0.27,4,automatic,nn,nn
 2026-04-11T19:57:22.800Z,19.180833816528,-155.36399841309,31.120000839233,1.86,md,26,182,0.06465,0.109999999,hv,hv74936197,2026-04-11T20:00:53.400Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.69,0.540000021,0.13752092134365,17,automatic,hv,hv
-2026-04-11T19:55:05.428Z,63.869,-145.82,12,1.5,ml,19,58,0.1,0.7,ak,aka2026hdcfwa,2026-04-11T19:56:24.257Z,"14 km SW of Fort Greely, Alaska",earthquake,3.2,2.0468,0.2,5,automatic,ak,ak
-2026-04-11T19:48:39.817Z,38.4291,-116.495,0.0168,2.26,ml,11,148,0.672,0.3869,nn,nn00913993,2026-04-11T19:51:14.199Z,"75 km ENE of Tonopah, Nevada",earthquake,,16.1166,0.31,4,automatic,nn,nn
-2026-04-11T19:47:48.296Z,61.761,-150.881,70.2,3.2,ml,109,21,0.4,0.8,ak,aka2026hdbzpf,2026-04-12T00:34:32.420Z,"31 km NW of Susitna, Alaska",earthquake,2,2.6082,0.2,7,automatic,ak,ak
-2026-04-11T19:41:33.399Z,38.455,-116.5009,6.7899,2.54,ml,14,123,0.682,0.2555,nn,nn00913991,2026-04-11T19:44:04.448Z,"76 km NE of Tonopah, Nevada",earthquake,,1.0183,0.41,5,automatic,nn,nn
-2026-04-11T19:36:17.887Z,38.4899,-116.4686,0,2.16,ml,8,230,1.067,0.2425,nn,nn00913990,2026-04-11T19:38:54.787Z,"81 km NE of Tonopah, Nevada",earthquake,,5.0364,0.54,3,automatic,nn,nn
-2026-04-11T19:33:35.310Z,38.798332214355,-122.81632995606,3.579999923706,0.74,md,8,86,0.01439,0.02,nc,nc75342727,2026-04-11T19:35:12.573Z,"6 km WNW of The Geysers, CA",earthquake,0.66,2.20000005,0.16,8,automatic,nc,nc
-2026-04-11T19:28:30.000Z,34.285,-117.11216666667,7.11,0.93,ml,34,59,0.08887,0.15,ci,ci41438552,2026-04-11T19:31:53.808Z,"8 km ENE of Lake Arrowhead, CA",earthquake,0.17,0.64,0.1575666450822,19,automatic,ci,ci
-2026-04-11T19:26:04.361Z,31.661,-104.202,10.6838,1,ml,7,244,0.1,0.7,tx,tx2026hdbgrq,2026-04-11T20:00:18.632Z,"54 km NW of Toyah, Texas",earthquake,0,11.296521186829,1.8,5,automatic,tx,tx
